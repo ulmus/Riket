@@ -3,22 +3,22 @@
 ## Fäktning
 
 *Krav:* Smidighet 2, Strid 2
-Du får +1 på slag för Smidighet + Strid när du slåss med ett finess-vapen (närstridsvapen med egenskapen Finess).
+Du får +1 på slag för Strid + Smidighet när du slåss med ett finess-vapen (närstridsvapen med egenskapen Finess).
 
 ## Slagsmål
 
 *Krav:* Kraft 2, Strid 2
-Du får +1 på slag för Kraft + Strid när du slåss obeväpnad.
+Du får +1 på slag för Strid + Kraft när du slåss obeväpnad.
 
 ## Jujutsu
 
 Krav: Smidighet 2, Strid 2
-Du kan använda Smidighet + Strid för obeväpnade närstridsattacker och får +1 på det slaget.
+Du kan använda Strid + Smidighet för obeväpnade närstridsattacker och får +1 på det slaget.
 
 ## Fint
 
 *Krav:* Fäktare, Slagkämpe eller Jujutsu
-Som en bihandling kan du finta en motståndare, slå för Smidighet + Strid. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
+Som en bihandling kan du finta en motståndare, slå för Strid + Smidighet. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
 
 ## Ripost
 
@@ -47,7 +47,7 @@ Dina slagsmåls-attacker räknas som Skala 1
 _Krav:* Kraft 2, Strid 2, vapen med egenskapen *automateld*
 Du kan skjuta en lång salva med bibehållen precision
 
-- **Huvudhandling:** Gör en avståndsattack med *Kraft + Strid*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
+- **Huvudhandling:** Gör en avståndsattack med *Strid + Kraft*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
 - Varje träff ger vapnets grundskada men ett lägre i skala (det vill säga en mindre skadetärning).
 - Kostar 1 magasin.
 
@@ -56,7 +56,7 @@ Du kan skjuta en lång salva med bibehållen precision
 _Krav:* Automatsalva
 Du skjuter täckande eld som hindrar fienden från att förflytta sig
 
-- **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
+- **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Strid + Smidighet* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
 - Kostar **1 Fokus** och 1 magasin.
 
 ## Undertryckande eld  
@@ -74,7 +74,7 @@ Din täckande eld gör det också svårt att attackera
 
 _Krav:* Smidighet 2, Strid 2
 
-- +1 på *Smidighet + Strid* med gevär.
+- +1 på *Strid + Smidighet* med gevär.
 - Ignorera -1 svårighetsgrad för långt avstånd.
 
 ## Mästerskott  
@@ -93,7 +93,7 @@ _Krav:* Mästerskott
 
 _Krav:* Smidighet 2, Strid 2
 
-- +1 på Smidighet + Strid med pistoler.
+- +1 på Strid + Smidighet med pistoler.
 - Dra eller byta till pistol som gratis handling.
 
 ## Snabbskott  
@@ -115,13 +115,13 @@ _Krav:* Snabbskott
 *Krav:* Närvaro 2
 
 - +1 på Närvaro i terapeutiska sammanhang
-- Du kan ha ett terapeutiskt samtal med en person. Slå Närvaro + List och minska personens stress med antalet framgångar.
+- Du kan ha ett terapeutiskt samtal med en person. Slå List + Närvaro och minska personens stress med antalet framgångar.
 
 # Yrken
 
 ## Fältmedicinare
 
-*Bonus:* +1 på Analys + Smidighet när du ger akutvård i fält.
+*Bonus:* +1 på Smidighet + Analys när du ger akutvård i fält.
 *Effekter:*
 
 - 1 Fokus: Ignorera första miljö-svårigheter (mörker, kyla, press) på akutvårdsslaget.
@@ -137,7 +137,7 @@ _Krav:* Snabbskott
 
 ## Radiotekniker
 
-*Bonus:* +1 på Analys + Smidighet när du riggar radio/antenn eller stabiliserar förbindelse.
+*Bonus:* +1 på Smidighet + Analys när du riggar radio/antenn eller stabiliserar förbindelse.
 *Effekter:*
 
 - 1 Fokus: Fördröj scenens nästa tidspress en runda.
@@ -145,7 +145,7 @@ _Krav:* Snabbskott
 
 ## Telegrafist
 
-*Bonus:* +1 på Närvaro eller Analys + Sinnen när du lyssnar i brus/störningar (morse, signalspaning).
+*Bonus:* +1 på Sinnen + Närvaro eller Sinnen + Analys när du lyssnar i brus/störningar (morse, signalspaning).
 *Effekter:*
 
 - 1 Fokus: Den första allierade som hjälper ger +2 tärningar i stället för +1.
@@ -185,7 +185,7 @@ _Krav:* Snabbskott
 
 ## Mekaniker
 
-*Bonus:* +1 på Analys + Smidighet för fältreparation av fordon eller maskin.
+*Bonus:* +1 på Smidighet + Analys för fältreparation av fordon eller maskin.
 *Effekter:*
 
 - 1 Fokus: Ge +1 tärning till nästa allierades Analys-slag i samma scen.
@@ -201,7 +201,7 @@ _Krav:* Snabbskott
 
 ## Maskör
 
-*Bonus:* +1 på Närvaro + List för förklädnad, cover story och kroppsspråk i infiltration.
+*Bonus:* +1 på List + Närvaro för förklädnad, cover story och kroppsspråk i infiltration.
 *Effekter:*
 
 - 1 Fokus: Den första allierade som hjälper ditt sociala slag ger +2 tärningar i stället för +1.
@@ -209,7 +209,7 @@ _Krav:* Snabbskott
 
 ## Förhörsledare
 
-*Bonus:* +1 på Närvaro + List vid taktiska förhör (rapportbyggande, frågeteknik).
+*Bonus:* +1 på List + Närvaro vid taktiska förhör (rapportbyggande, frågeteknik).
 *Effekter:*
 
 - 1 Fokus: Välj en fas i förhöret; +1 på den fasen även för en allierad som hjälper.
@@ -217,7 +217,7 @@ _Krav:* Snabbskott
 
 ## Officer
 
-*Bonus:* +1 på Närvaro + Strid när du leder i pågående strid (ordrar, elddisciplin).
+*Bonus:* +1 på Strid + Närvaro när du leder i pågående strid (ordrar, elddisciplin).
 *Effekter:*
 
 - 1 Fokus: Ge +1 per framgång till en allierad, fler Fokus gör att fler allierade kan få samma bonus.
@@ -233,7 +233,7 @@ _Krav:* Snabbskott
 
 ## Underrättelseanalytiker
 
-*Bonus:* +1 på Analys + Analys eller Sinnen när du bygger lägesbild och källvärdering.
+*Bonus:* +1 på Analys + Analys eller Sinnen + Analys när du bygger lägesbild och källvärdering.
 *Effekter:*
 
 - 1 Fokus: Brief – lagets första Hjälpa till i nästa delscen ger +2 tärningar i stället för +1.
@@ -241,7 +241,7 @@ _Krav:* Snabbskott
 
 ## Säkerhetsofficer
 
-*Bonus:* +1 på Analys + Sinnen för att upptäcka intrång, läckor och fällor.
+*Bonus:* +1 på Sinnen + Analys för att upptäcka intrång, läckor och fällor.
 *Effekter:*
 
 - 1 Fokus: Vid lyckat slag måste motståndaren lägga en extra runda på att återta initiativ i denna delscen.

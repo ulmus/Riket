@@ -3,7 +3,7 @@
 **Syfte:** Stoppa döende, blödning och chock; skapa förutsättningar för fortsatt vård.
 
 - **När:** inom minuter efter skadan (samma scen).
-- **Slå för:** **Analys + Smidighet**, svårighet 0 om minst Sår; -1 om minst Kritiskt Sår; -2 om minst Dödligt Sår.
+- **Slå för:** **Smidighet + Analys**, svårighet 0 om minst Sår; -1 om minst Kritiskt Sår; -2 om minst Dödligt Sår.
 - **Utrustning:** +1 tärning med första-hjälpen-kit; +2 tärningar med läkarväska.
 
 **Varje framgång kan användas till:**
@@ -33,7 +33,7 @@ När scenen är över så kan du slå ett läkeslag (endast **Kraft**) med följ
 - **Vila** +2
 - **Fält/hemvård** +2
 - **Sjukhus** +4
-- **Aktiv vård**, vårdare slår för Analys + Smidighet, framgångar ger bonus (endast en vårdgivare per läkeslag)
+- **Aktiv vård**, vårdare slår för Smidighet + Analys, framgångar ger bonus (endast en vårdgivare per läkeslag)
 
 Om det blir minst en framgång på läkeslaget så tillstöter inga komplikationer. Varje ytterligare framgång sänker tiden med en, eller om läketiden redan är en vecka, med en dag. Du slår ett läkeslag per skada, men de läker parallellt.
 
@@ -49,6 +49,6 @@ Om läkeslaget misslyckas riskerar det att bli komplikationer, slå på komplika
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-6      | Ingen                                                                                                                                                                                                                                                             |
 | 7-8      | Lätt infektion, öka läketiden med en vecka                                                                                                                                                                                                                        |
-| 9-10     | Kritiskt tillstånd, om du är under vård, så får vårdaren ett slag för Analys + Smidighet, om misslyckat så uppgraderas din värsta skada ett steg. Om du inte är under vård så sker det automatiskt. Om din värsta skada var ett Dödligt Sår så dör du. |
+| 9-10     | Kritiskt tillstånd, om du är under vård, så får vårdaren ett slag för Smidighet + Analys, om misslyckat så uppgraderas din värsta skada ett steg. Om du inte är under vård så sker det automatiskt. Om din värsta skada var ett Dödligt Sår så dör du. |
 | 11-12    | Svår infektion, din värsta skada uppgraderas ett steg, om din värsta skada var Dödligt Sår så dör du                                                                                                                                                              |
 | 13-14    | Permanent skada, du får ett permanent avdrag på -1 på Smidighets-slag på grund av smärta                                                                                                                                                                          |

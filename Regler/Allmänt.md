@@ -23,7 +23,7 @@ _Människor: 1–3, supermänniskor: 4+ i en egenskap._
 
 ## Sekundära Egenskaper
 
-- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Smidighet + Kraft i meter per bihandling
+- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Kraft + Smidighet i meter per bihandling
 - **Slagstyrka** avgör grundskadan för närstridsattacker och är lika med halva Kraft avrundat neråt.
 - **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Närvaro (avrundat neråt)
 - **Stryktålighet** är hur många Sår, Kritiska Sår eller Dödliga Sår du tål innan du slutligen dör. Varje människa tål 1 Sår, 1 Kritiskt Sår och 1 Dödligt Sår. För varje nivå på Kraft så lägger du till ytterligare ett i ordningen Sår, Kritiskt Sår, Dödligt Sår och sedan Sår igen. Se [[Strid och skada#Skador]].
@@ -67,7 +67,7 @@ Varje ny scen återställs personligt Fokus till **Momentum**. Startar på 1 per
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
 - Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
-- Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Smidighet + Strid och drar av framgångar från attackens framgångar.
+- Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Strid + Smidighet och drar av framgångar från attackens framgångar.
 - Skada mäts i Sår, Kritiska Sår och Dödliga Sår, din Kraft avgör hur mycket du tål.
 
 Se kapitlet för [[Strid och skada]]

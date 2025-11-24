@@ -14,13 +14,13 @@ När något skrämmande eller chockartat inträffar: **slå Närvaro + lämplig 
 
 *Exempel:*
 
-- **Bakhåll** – _Närvaro + Strid_, svårighet **0**
-- **Någon dör i strid** – _Närvaro + Strid_, svårighet **–1** (_0 om du är stridstränad_)
+- **Bakhåll** – _Strid + Närvaro_, svårighet **0**
+- **Någon dör i strid** – _Strid + Närvaro_, svårighet **–1** (_0 om du är stridstränad_)
 - **Panik i din närhet** – _Närvaro + Närvaro_, svårighet **0**
 - **Någon dör utanför strid** – _Närvaro + Närvaro_, svårighet **–1**
 - **Nära vän/familj dör** – _Närvaro + Närvaro_, svårighet **–3**
-- **Överväldigande hot/hopplöst läge** – _Närvaro + Sinnen_, svårighet **varierar**
-- **Övernaturligt/oförklarligt fenomen** – _Närvaro + Analys_, svårighet **varierar**
+- **Överväldigande hot/hopplöst läge** – _Sinnen + Närvaro_, svårighet **varierar**
+- **Övernaturligt/oförklarligt fenomen** – _Analys + Närvaro_, svårighet **varierar**
 
 # Sammanbrott
 
