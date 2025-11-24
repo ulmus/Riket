@@ -56,7 +56,7 @@ Antalet tärningar beror på skalan på attacken relativt målets storlek. Det h
 
 - **Bas:** beväpnad attack **3 tärningar**, obeväpnad **2 tärningar**, tunga vapen **4 tärningar** (eller mer).
 - **Överskottsframgångar på träff:** varje extra framgång över den första kan ge **+1 skadetärning**
-- **Målstorlek:** _lägg på eller dra av_ skadetärningar efter hur stort målet är:
+- **Målstorlek:** *lägg på eller dra av* skadetärningar efter hur stort målet är:
 
 | Målstorlek (exempel)                  | Antal skadetärningar |
 | ------------------------------------- | -------------------- |
@@ -100,7 +100,7 @@ När du tar **Sår/Kritiskt/Dödligt**:
 
 - Alla börjar på **1–1–1** (Sår–Kritiskt–Dödligt).
 - För varje nivå i **Kraft** lägger du till **en extra ruta** i turordningen **Sår → Kritiskt → Dödligt → Sår → …**  
-- _Exempel:_ Kraft 1: **2–1–1**, Kraft 2: **2–2–1**, Kraft 3: **2–2–2**, Kraft 4: **3–2–2**.
+- *Exempel:* Kraft 1: **2–1–1**, Kraft 2: **2–2–1**, Kraft 3: **2–2–2**, Kraft 4: **3–2–2**.
 
 ## Sammanfattning
 

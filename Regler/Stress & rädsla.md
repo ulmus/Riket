@@ -14,13 +14,13 @@ När något skrämmande eller chockartat inträffar: **slå Närvaro + lämplig 
 
 *Exempel:*
 
-- **Bakhåll** – _Strid + Närvaro_, svårighet **0**
-- **Någon dör i strid** – _Strid + Närvaro_, svårighet **–1** (_0 om du är stridstränad_)
-- **Panik i din närhet** – _Närvaro + Närvaro_, svårighet **0**
-- **Någon dör utanför strid** – _Närvaro + Närvaro_, svårighet **–1**
-- **Nära vän/familj dör** – _Närvaro + Närvaro_, svårighet **–3**
-- **Överväldigande hot/hopplöst läge** – _Sinnen + Närvaro_, svårighet **varierar**
-- **Övernaturligt/oförklarligt fenomen** – _Analys + Närvaro_, svårighet **varierar**
+- **Bakhåll** – *Strid + Närvaro*, svårighet **0**
+- **Någon dör i strid** – *Strid + Närvaro*, svårighet **–1** (*0 om du är stridstränad*)
+- **Panik i din närhet** – *Närvaro + Närvaro*, svårighet **0**
+- **Någon dör utanför strid** – *Närvaro + Närvaro*, svårighet **–1**
+- **Nära vän/familj dör** – *Närvaro + Närvaro*, svårighet **–3**
+- **Överväldigande hot/hopplöst läge** – *Sinnen + Närvaro*, svårighet **varierar**
+- **Övernaturligt/oförklarligt fenomen** – *Analys + Närvaro*, svårighet **varierar**
 
 # Sammanbrott
 
@@ -35,7 +35,7 @@ Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns
 |  **10** | **Förstelning**       | Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Närvaro-slag** som **huvudhandling** (svårighet 0).                                             |
 |  **11** | **Desperat handling** | Du gör något **irrationellt eller livsfarligt** (stormar, hoppar, slösar resurser). **SL** beskriver följden; handlingen sker **omedelbart**.                             |
 |  **12** | **Tillbakadragande**  | Du kollapsar psykiskt och **kan inte fortsätta scenen**: drar dig undan, bryter ihop i gråt, skratt eller tystnad. **Kräver lång vila** eller **hjälp** för återhämtning. |
-| **13+** | **Varaktigt trauma**  | Som ovan **och** du utvecklar ett **varaktigt trauma**. Slå på tabellen _Varaktigt trauma_.                                                                               |
+| **13+** | **Varaktigt trauma**  | Som ovan **och** du utvecklar ett **varaktigt trauma**. Slå på tabellen *Varaktigt trauma*.                                                                               |
 
 ## Varaktigt trauma
 

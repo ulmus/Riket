@@ -19,7 +19,7 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 - **List** – Lögner, förklädnad, improvisation, undre världen.
 - **Närvaro** – Social påverkan, ledarskap, charm, psyke/vilja.
 
-_Människor: 1–3, supermänniskor: 4+ i en egenskap._
+*Människor: 1–3, supermänniskor: 4+ i en egenskap.*
 
 ## Sekundära Egenskaper
 
