@@ -18,7 +18,7 @@ Vapen med grov kaliber bär sin energi längre och har därför inga höjningar 
 ### Hagelsvärm
 En extra skadetärning och +1 på att träffa på kort håll, en skadetärning mindre på långt och två mindre på extremt håll.
 ### Finess
-Ett närstridsvapen som hanteras med Snabbhet + Strid
+Ett närstridsvapen som hanteras med Smidighet + Strid
 ### Lätt
 Lätta vapen slår en skadetärning mindre (2 skadetärningar som standard)
 

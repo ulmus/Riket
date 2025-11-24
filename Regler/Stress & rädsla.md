@@ -2,7 +2,7 @@ Stress och rädsla är en viktig del av I Rikets Tjänst. Sin träning till trot
 # Stabilitet
 
 **Stabilitet** anger hur mycket **Stress** du tål innan ett sammanbrott.  
-**Stabilitet = 2 + ⌊Närvaro/2⌋** (avrundat nedåt).
+**Stabilitet = 1 + ⌊Närvaro/2⌋** (avrundat nedåt).
 
 > **Sammanbrottsgränser:** När din totala Stress passerar **1×B**, **2×B**, **3×B** … (där **B** är din Stabilitet) slår du på Sammanbrottstabellen.
 

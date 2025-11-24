@@ -136,67 +136,67 @@ Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – 
 | Skaka motparten              | Kall blick, tystnad, psykologisk press        | Närvaro + Närvaro     |
 | Få folk att prata            | Småprat, social ingång, “openers”             | List + Närvaro        |
 | Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Sinnen + Närvaro      |
-| Leda under press             | Korta order, moral, förtroende                | Psyke + Samspel       |
-| Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | Snabbhet + Samspel    |
+| Leda under press             | Korta order, moral, förtroende                | Närvaro + Närvaro     |
+| Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Närvaro        |
 
 ## Fordon & jakter
 
 Hög puls: körning, navigering och improvisation i trafik eller terräng – ofta i kapplöpning mot klockan.
 
-|Aktivitet|Beskrivning/kommentar|Egenskap + Färdighet|
+|Aktivitet|Beskrivning/kommentar|Egenskap + Egenskap|
 |---|---|---|
-|Biljakt – körning|Följa utan att krocka/avslöja sig|Snabbhet + Rörlighet|
-|Undanmanöver|Sladd, broms, växla linje|Snabbhet + Rörlighet|
-|Terrängkörning|Lerigt, snöigt, dålig sikt|Fysik + Rörlighet|
-|Motorcykel genom gränd|Smalt utrymme, balans|Precision + Rörlighet|
-|Navigera i okänd stad|Genvägar, trafikmönster|Intellekt + Observation|
-|Reparera i vägkanten|Bensinslang, tändstift, provisorier|Intellekt + Hantverk|
-|Skjuta från fordon|Kort fönster, vibrationer|Precision + Strid|
+|Biljakt – körning|Följa utan att krocka/avslöja sig|Smidighet + Smidighet|
+|Undanmanöver|Sladd, broms, växla linje|Smidighet + Smidighet|
+|Terrängkörning|Lerigt, snöigt, dålig sikt|Kraft + Smidighet|
+|Motorcykel genom gränd|Smalt utrymme, balans|Smidighet + Smidighet|
+|Navigera i okänd stad|Genvägar, trafikmönster|Analys + Sinnen|
+|Reparera i vägkanten|Bensinslang, tändstift, provisorier|Smidighet + Analys|
+|Skjuta från fordon|Kort fönster, vibrationer|Smidighet + Strid|
 
 ## Strid & taktik
 
 När det smäller: eldstrid, närstrid, elddisciplin och rörelse under eld. Val av kombination beror på vapen och stil.
 
-| Aktivitet              | Beskrivning/kommentar            | Egenskap + Färdighet |
+| Aktivitet              | Beskrivning/kommentar            | Egenskap + Egenskap  |
 | ---------------------- | -------------------------------- | -------------------- |
-| Avståndsattack         | Pistol, k-pist, gevär, sikta/eld | Precision + Strid    |
-| Slagsmål (kraft)       | Svingar, grepp, putt             | Fysik + Strid        |
-| Fäktning/snabbstick    | Snabbt fotarbete, parader        | Snabbhet + Strid     |
-| Kastad granat          | Hålla båge/avstånd rätt          | Precision + Strid    |
-| Förflyttning under eld | Språngmarsch mellan skydd        | Snabbhet + Rörlighet |
-| Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Psyke + Strid        |
-| Skarpskytte            | Långt håll, kontroll, andning    | Precision + Strid    |
-| Leda i strid           | Ge order, inspirera              | Karisma + Strid      |
+| Avståndsattack         | Pistol, k-pist, gevär, sikta/eld | Smidighet + Strid    |
+| Slagsmål (kraft)       | Svingar, grepp, putt             | Kraft + Strid        |
+| Fäktning/snabbstick    | Snabbt fotarbete, parader        | Smidighet + Strid    |
+| Kastad granat          | Hålla båge/avstånd rätt          | Smidighet + Strid    |
+| Förflyttning under eld | Språngmarsch mellan skydd        | Smidighet + Smidighet|
+| Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Närvaro + Strid      |
+| Skarpskytte            | Långt håll, kontroll, andning    | Smidighet + Strid    |
+| Leda i strid           | Ge order, inspirera              | Närvaro + Strid      |
 
 ## Teknik & sabotage
 
 Att skapa eller förstöra: sprängmedel, elektronik, finmekanik och improvisationer.
 
-|Aktivitet|Beskrivning/kommentar|Egenskap + Färdighet|
+|Aktivitet|Beskrivning/kommentar|Egenskap + Egenskap|
 |---|---|---|
-|Ladda sprängämne|Val av laddning, riktning, säkring|Intellekt + Hantverk|
-|Spränga diskret|Tidsinställning, dämpa signatur|Precision + Hantverk|
-|Bryta enkel kryptering|Kodbok, frekvensanalys|Intellekt + Akademi|
-|Bygga/rigga radio|Antenn, jordning, störningar|Intellekt + Hantverk|
-|Telefonavlyssning|Krimpa, parallellkoppla, dölja spår|Precision + Hantverk|
-|Fotolabb i fält|Framkalla, förstora, beviskedja|Precision + Hantverk|
-|Verktygsimprovisation|MacGyver-lösning av reservdel|Intellekt + Hantverk|
+|Ladda sprängämne|Val av laddning, riktning, säkring|Analys + Analys|
+|Spränga diskret|Tidsinställning, dämpa signatur|Smidighet + Analys|
+|Bryta enkel kryptering|Kodbok, frekvensanalys|Analys + Analys|
+|Bygga/rigga radio|Antenn, jordning, störningar|Smidighet + Analys|
+|Telefonavlyssning|Krimpa, parallellkoppla, dölja spår|Smidighet + Analys|
+|Fotolabb i fält|Framkalla, förstora, beviskedja|Smidighet + Analys|
+|Verktygsimprovisation|MacGyver-lösning av reservdel|Smidighet + Analys|
 
 ## Vård, överlevnad & logistik
 
 Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fältmässighet och vardagslogistik.
 
-| Aktivitet               | Beskrivning/kommentar                      | Egenskap + Färdighet    |
+| Aktivitet               | Beskrivning/kommentar                      | Egenskap + Egenskap     |
 | ----------------------- | ------------------------------------------ | ----------------------- |
-| Akutvård                | Stoppa blödning, stabilisera               | Intellekt + Hantverk    |
-| Aktiv vård/medicin      | Diagnos, läkemedel                         | Intellekt + Akademi     |
-| Kirurgi                 | Operativa ingrepp                          | Precision + Akademi     |
-| Lägga förband under eld | Under press, med begränsade resurser       | Snabbhet + Hantverk     |
-| Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Rörlighet       |
-| Fältläger & vindskydd   | Eld, skydd, vatten                         | Intellekt + Hantverk    |
-| Orientera i terräng     | Karta, kompass, landmärken                 | Intellekt + Observation |
-| Försörjning i fält      | Bränsle, ammo, ransoner                    | Intellekt + Hantverk    |
-| Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Observation     |
+| Akutvård                | Stoppa blödning, stabilisera               | Smidighet + Analys      |
+| Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Analys         |
+| Kirurgi                 | Operativa ingrepp                          | Smidighet + Analys      |
+| Lägga förband under eld | Under press, med begränsade resurser       | Smidighet + Analys      |
+| Bära/evakuera sårad     | Bår, brandmannalyft                        | Kraft + Smidighet       |
+| Fältläger & vindskydd   | Eld, skydd, vatten                         | Smidighet + Analys      |
+| Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen         |
+| Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + Analys         |
+| Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Kraft + Sinnen          |
 
 ## Stress, nerver & motståndskraft
 

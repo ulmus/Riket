@@ -125,11 +125,8 @@ Se kapitlet [[Läkning & vård]].
 | 5        | **Stukad handled/axel.** **-1** för attacker med **tvåhandsvapen, klättra, lyfta**; Lindning (**Smidighet + Analys**) tar bort effekten.                                                                                                             | 1T12 dagar   |
 | 6        | **Öppet sår.** När du gör en **Huvudhandling** → **markera 1 Stress**. Lindras med bandage (**Smidighet + Analys**)                                                                                                   | 1T12 dagar   |
 | 7        | **Stukad fot.** Halverad rörelse tills behandlad. Kräver ett slag för **Smidighet + Analys** för att lindra.                                                                                                                                         | 1T12 dagar   |
-| 5        | **Stukad handled/axel.** **-1** för attacker med **tvåhandsvapen, klättra, lyfta**; Lindning (**Intellekt + Hantverk (Medicin)**) tar bort effekten.                                                                                                             | 1T12 dagar   |
-| 6        | **Öppet sår.** När du gör en **Huvudhandling** → **markera 1 Stress**. Lindras med bandage (**Intellekt + Hantverk (Medicin)**)                                                                                                                                  | 1T12 dagar   |
-| 7        | **Stukad fot.** Halverad rörelse tills behandlad. Kräver ett slag för **Intellekt + Hantverk (Medicin)** för att lindra.                                                                                                                                         | 1T12 dagar   |
-| 8        | **Utslagen.** Du är medvetslös. Kräver ett slag för **Intellekt + Hantverk (Medicin)** för att väcka.                                                                                                                                                            | 1T12 minuter |
-| 9        | **Inre blödning.** Varje gång du rör dig eller utför en **Huvudhandling**, samt **en gång per minut** tills behandlad, slå för blodförlust (**skadetröskel 3+**, inget pansar, **tre tärningar**). Kräver **Intellekt + Akademi (Medicin)** för att stabilisera. | 1T12 dagar   |
+| 8        | **Utslagen.** Du är medvetslös. Kräver ett slag för **Smidighet + Analys** för att väcka.                                                                                                                                                            | 1T12 minuter |
+| 9        | **Inre blödning.** Varje gång du rör dig eller utför en **Huvudhandling**, samt **en gång per minut** tills behandlad, slå för blodförlust (**skadetröskel 3+**, inget pansar, **tre tärningar**). Kräver **Analys + Analys** för att stabilisera. | 1T12 dagar   |
 | 10       | **Bruten arm.** Alla handlingar som använder armen har **+2 i svårighetsgrad**.                                                                                                                                                                                  | 1T12 veckor  |
 | 11       | **Brutet ben.** Rörelse är **max 1 meter per Bihandling**. Alla handlingar som använder benet har **+2 i svårighetsgrad**.                                                                                                                                       | 1T12 veckor  |
 | 12       | **Permanent skada.** Slå på tabellen för **Permanent skada**.                                                                                                                                                                                                    | 1T12 veckor* |
@@ -140,18 +137,18 @@ För de skador som kan rehabiliteras så gäller att det tar 1T12 veckor.
 
 | T12-slag | Effekt                                                                                                                                                                              |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | **Synligt ansiktsärr.** –1 på **Samspel** när du förlitar dig på charm/förtroende; **+1 när du skrämmer**.                                                                          |
-| 2        | **Ensidig hörselnedsättning.** –2 på **hörselbaserad Observation**; du får inte bonus för att lokalisera ljudkällor. Hörapparat minskar till –1.                                    |
-| 3        | **Synnedsättning (fält/djup).** –2 på **synbaserad Observation**; –1 på **avståndsattacker**. Glasögon/optik minskar –1.                                                            |
+| 1        | **Synligt ansiktsärr.** –1 på **Närvaro** när du förlitar dig på charm/förtroende; **+1 när du skrämmer**.                                                                          |
+| 2        | **Ensidig hörselnedsättning.** –2 på **Sinnen** (hörsel); du får inte bonus för att lokalisera ljudkällor. Hörapparat minskar till –1.                                    |
+| 3        | **Synnedsättning (fält/djup).** –2 på **Sinnen** (syn); –1 på **avståndsattacker**. Glasögon/optik minskar –1.                                                            |
 | 4        | **Kronisk smärta (rygg/nacke).** När du springer, klättrar eller bär tungt: **-1**; vid sådan ansträngning markera **1 Stress** (max 1/scen).                                       |
-| 5        | **Nervskada i hand.** –2 på **Precision** (finmotorik). Efter rehab blir det –1.                                                                                                    |
-| 6        | **Amputerat finger.** –1 på **Hantverk** (finmotorik) och omladdning/hantering av avståndsvapen. Specialgrepp för ett vapen tar bort –1 för det vapnet.                             |
-| 7        | **Förlorat öga.** –2 på **avståndsattacker**; –1 på **synbaserad Observation**;                                                                                                     |
-| 8        | **Lungskada.** –1 på **Fysik-baserade** uthållighetsslag; vid långvarig ansträngning (springa/slåss >1 min): markera **1 Stress** (max 1/scen).                                     |
-| 9        | **Skör inre vävnad.** När du tar **trubbig skada eller fallskada**: lägg **+1 tärning** till blodförlustslag; –1 på akuta **Medicin**-slag som görs på dig.                         |
+| 5        | **Nervskada i hand.** –2 på **Smidighet** (finmotorik). Efter rehab blir det –1.                                                                                                    |
+| 6        | **Amputerat finger.** –1 på **Smidighet** (finmotorik) och omladdning/hantering av avståndsvapen. Specialgrepp för ett vapen tar bort –1 för det vapnet.                             |
+| 7        | **Förlorat öga.** –2 på **avståndsattacker**; –1 på **Sinnen** (syn);                                                                                                     |
+| 8        | **Lungskada.** –1 på **Kraft-baserade** uthållighetsslag; vid långvarig ansträngning (springa/slåss >1 min): markera **1 Stress** (max 1/scen).                                     |
+| 9        | **Skör inre vävnad.** När du tar **trubbig skada eller fallskada**: lägg **+1 tärning** till blodförlustslag; –1 på akuta **Analys**-slag (Medicin) som görs på dig.                         |
 | 10       | **Amputerad hand/underarm.** Kan inte använda **tvåhandsvapen**; **-2** på klättra och närstrid som kräver grepp. Protes/krok möjliggör enkelhandsvapen och minskar avdrag till -1. |
-| 11       | **Allvarlig knä-/benskada (hälta).** **Rörelse halverad**; –2 på **Rörlighet** (springa, hoppa, klättra). Protes/ortos höjer till ca **2/3 normal rörelse** och minskar till –1.    |
-| 12       | **Traumatisk hjärnskada.** –1 på **Intellekt-baserade** slag som kräver koncentration (t.ex. Observation/Akademi under tidspress).                                                  |
+| 11       | **Allvarlig knä-/benskada (hälta).** **Rörelse halverad**; –2 på **Smidighet** (springa, hoppa, klättra). Protes/ortos höjer till ca **2/3 normal rörelse** och minskar till –1.    |
+| 12       | **Traumatisk hjärnskada.** –1 på **Analys-baserade** slag som kräver koncentration (t.ex. Sinnen/Analys under tidspress).                                                  |
 
 ### Tabell för Döende
 
@@ -159,9 +156,9 @@ När karaktären tar ett Dödligt Sår så blir hen Döende. Slå på tabellen h
 
 | T12-slag | Dödlighet        | Dödstid            |
 | -------- | ---------------- | ------------------ |
-| 1-6      | Död inom timmar  | 1T12+Fysik timmar  |
-| 7-9      | Död inom minuter | 1T12+Fysik minuter |
-| 10-11    | Död inom rundor  | 1T12+Fysik rundor  |
+| 1-6      | Död inom timmar  | 1T12+Kraft timmar  |
+| 7-9      | Död inom minuter | 1T12+Kraft minuter |
+| 10-11    | Död inom rundor  | 1T12+Kraft rundor  |
 | 12       | Död omedelbart   | Omedelbart         |
 
 Se [[Läkning & vård]] för läkningstider, komplikationer och vård
