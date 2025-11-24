@@ -1,43 +1,62 @@
 # Initiativ
+
 Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt värde på Strid. Detta blir deras initiativ under hela striden. Striden delas upp i rundor om ca fem sekunder och i varje runda börjar den som har högst initiativ att ta sin tur och därefter går turen vidare i fallande ordning.
+
 # Turer och handlingar
+
 På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, istället för en huvudhandling utföra två bihandlingar (för totalt tre bihandlingar på din tur). Utöver det så kan en reaktionshandling utföras utanför din tur, men bara om något händer som utlöser reaktionen.
+
 ## Huvudhandlingar
-* Avståndsattack (Precision + Strid)
-* Närstridsattack (Fysik + Strid eller Snabbhet + Strid)
+
+* Avståndsattack (Strid + Smidighet)
+* Närstridsattack (Strid + Kraft eller Strid + Smidighet)
+
 ## Bihandlingar
-- Sikta: +1 på avståndsattack
-- Ställa sig upp
-- Dra ett vapen
-- Röra sig Fysik + Snabbhet + Rörlighet meter
-- Rallarsving: sänk skadetröskel ett steg, men -1 på träffa i närstrid
+
+* Sikta: +1 på avståndsattack
+* Ställa sig upp
+* Dra ett vapen
+* Röra sig Kraft + Smidighet meter
+* Rallarsving: sänk skadetröskel ett steg, men -1 på träffa i närstrid
+
 ## Reaktionshandlingar
-- Kasta sig undan en attack (Snabbhet + Strid), du är på marken efteråt och det krävs en bihandling för att resa sig
-- Parera en närstridsattack (Snabbhet + Strid + Paradbonus)
+
+* Kasta sig undan en attack (Strid + Smidighet), du är på marken efteråt och det krävs en bihandling för att resa sig
+* Parera en närstridsattack (Strid + Smidighet + Paradbonus)
+
 # Avståndsattacker
-Om du gör en avståndsattack slår du i allmänhet för Precision + Strid med modifikationer.
-- Minst en bihandling lagd på att sikta +1
-- Stabil position +1 (+2 om liggande)
-- Skymning -1 (Mörker -2)
-- Målet skymt -1 (bakom skytteglugg -2)
-- Litet mål -1
-- Stort mål +1
+
+Om du gör en avståndsattack slår du i allmänhet för Strid + Smidighet med modifikationer.
+
+* Minst en bihandling lagd på att sikta +1
+* Stabil position +1 (+2 om liggande)
+* Skymning -1 (Mörker -2)
+* Målet skymt -1 (bakom skytteglugg -2)
+* Litet mål -1
+* Stort mål +1
+
 # Skador
+
 Om en attack träffar ett mål så avgörs skadan genom attackens **skadetröskel**, målets **skydd** samt attackens och målets **skala**.
 
 ## 1) Bestäm skadetröskel
+
 Skadetröskeln är siffran du ska slå **på varje skadetärning** för att göra ett “steg” av skada.
-- **Vapnets baströskel:** t.ex. slagsmål **11+**, kniv **10+**, pistol **8+**, gevär **6+**.
-- **Närstrid & slagstyrka:** sänk tröskeln med **slagstyrka = ⌊Fysik/2⌋** (avrunda nedåt).
-- **Skydd:** höj tröskeln med målets **skydd** (t.ex. rock +1).
-- **Förmågor/Fokus/avstånd/egenskaper:** kan sänka eller höja tröskeln enligt regler/nyckelord.
+
+* **Vapnets baströskel:** t.ex. slagsmål **11+**, kniv **10+**, pistol **8+**, gevär **6+**.
+* **Närstrid & slagstyrka:** sänk tröskeln med **slagstyrka = ⌊Kraft/2⌋** (avrunda nedåt).
+* **Skydd:** höj tröskeln med målets **skydd** (t.ex. rock +1).
+* **Förmågor/Fokus/avstånd/egenskaper:** kan sänka eller höja tröskeln enligt regler/nyckelord.
 
 **Slutlig skadetröskel = vapnets bas - slagstyrka (för närstrid) ± effekter + målets skydd.**
+
 ## 2) Bestäm antal skadetärningar
+
 Antalet tärningar beror på skalan på attacken relativt målets storlek. Det handlar inte så mycket om ren kraft kontra skydd utan mer om en attack har möjlighet att nå till känsliga delar av ett mål.
-- **Bas:** beväpnad attack **3 tärningar**, obeväpnad **2 tärningar**, tunga vapen **4 tärningar** (eller mer).
-- **Överskottsframgångar på träff:** varje extra framgång över den första kan ge **+1 skadetärning**
-- **Målstorlek:** _lägg på eller dra av_ skadetärningar efter hur stort målet är:
+
+* **Bas:** beväpnad attack **3 tärningar**, obeväpnad **2 tärningar**, tunga vapen **4 tärningar** (eller mer).
+* **Överskottsframgångar på träff:** varje extra framgång över den första kan ge **+1 skadetärning**
+* **Målstorlek:** _lägg på eller dra av_ skadetärningar efter hur stort målet är:
 
 | Målstorlek (exempel)                  | Antal skadetärningar |
 | ------------------------------------- | -------------------- |
@@ -49,13 +68,15 @@ Antalet tärningar beror på skalan på attacken relativt målets storlek. Det h
 Vissa egenskaper (t.ex. **Automateld**, **Hagel**) kan också ändra antalet skadetärningar.
 
 ## 3) Rulla skadetärningarna
+
 Rulla antalet T12 enligt det **slutliga antalet skadetärningar**. Varje tärning som visar **≥ skadetröskeln** ökar skadan **1 steg**.  
 
 Summera stegen:
-- **0 steg** → **Oskadd**
-- **1 steg** → **Sår**
-- **2 steg** → **Kritiskt Sår**
-- **3+ steg** → **Dödligt Sår**
+
+* **0 steg** → **Oskadd**
+* **1 steg** → **Sår**
+* **2 steg** → **Kritiskt Sår**
+* **3+ steg** → **Dödligt Sår**
 
 ## Exempel
 
@@ -64,19 +85,23 @@ Summera stegen:
 > Han rullar 4T12: **4, 6, 9, 12**. Två tärningar är **≥9**, alltså **2 steg** → **Kritiskt Sår**.
 
 # Effekter av skada
+
 När du tar **Sår/Kritiskt/Dödligt**:
-- Ta omedelbart **+1 Stress**.
-- **Markera** skadan på rätt rad i rollformuläret.
-- Du har alltid -1 på alla handlingar för varje Sår, Kritiskt Sår eller Dödligt Sår du har som är obehandlat.
-- Om raden är **full**: uppgradera **ett steg** (Sår → Kritiskt → Dödligt).
-- Om du skulle markera **Dödligt** och den raden redan är full: **du dör omedelbart**.
-- Vid **Kritiskt** eller **Dödligt**: slå på tabellen för **Kritiska Sår**.
-- Vid **Dödligt**: slå även på tabellen för **Döende**.
+
+* Ta omedelbart **+1 Stress**.
+* **Markera** skadan på rätt rad i rollformuläret.
+* Du har alltid -1 på alla handlingar för varje Sår, Kritiskt Sår eller Dödligt Sår du har som är obehandlat.
+* Om raden är **full**: uppgradera **ett steg** (Sår → Kritiskt → Dödligt).
+* Om du skulle markera **Dödligt** och den raden redan är full: **du dör omedelbart**.
+* Vid **Kritiskt** eller **Dödligt**: slå på tabellen för **Kritiska Sår**.
+* Vid **Dödligt**: slå även på tabellen för **Döende**.
+
 ## Hur många av varje skada kan du tåla?
 
 * Alla börjar på **1–1–1** (Sår–Kritiskt–Dödligt).
-* För varje nivå i **Fysik** lägger du till **en extra ruta** i turordningen **Sår → Kritiskt → Dödligt → Sår → …**  
-* _Exempel:_ Fysik 1: **2–1–1**, Fysik 2: **2–2–1**, Fysik 3: **2–2–2**, Fysik 4: **3–2–2**.
+* För varje nivå i **Kraft** lägger du till **en extra ruta** i turordningen **Sår → Kritiskt → Dödligt → Sår → …**  
+* _Exempel:_ Kraft 1: **2–1–1**, Kraft 2: **2–2–1**, Kraft 3: **2–2–2**, Kraft 4: **3–2–2**.
+
 ## Sammanfattning
 
 1. Träff? (bihandlingen Sikta ger **+1 att träffa** om du använde det.)
@@ -84,9 +109,11 @@ När du tar **Sår/Kritiskt/Dödligt**:
 3. Räkna **slutligt antal skadetärningar** (bas 2–4 + överskott från träffen ± målstorlek ± egenskaper).
 4. Rulla skadetärningarna, räkna steg (≥ tröskeln).
 5. Applicera **Sår/Kritiskt/Dödligt**, stress och tabeller.
+
 ### Läkning
 
 Se kapitlet [[Läkning & vård]].
+
 ### Tabell för Kritiska Sår
 
 | T12-slag | Effekt                                                                                                                                                                                                                                                           | Grund-läktid |
@@ -94,7 +121,10 @@ Se kapitlet [[Läkning & vård]].
 | 1        | **Du ramlar omkull** och måste använda en bihandling för att resa dig nästa runda.                                                                                                                                                                               | Ingen        |
 | 2        | **Andan ur dig.** Du tappar din nästa runda.                                                                                                                                                                                                                     | 1T12 minuter |
 | 3        | **Blod i ögonen.** **–1 på synbaserad Observation** och **–1 på avståndsattacker** tills du lägger **en Bihandling** för att torka/skölja eller blir behandlad.                                                                                                  | Ingen        |
-| 4        | **Skrubbsår på händer.** **–1 på handlingar som kräver greppstyrka**  till exempel hantverk tills bandagerad (**Intellekt + Hantverk (Medicin)**).                                                                                                               | 1T12 timmar  |
+| 4        | **Skrubbsår på händer.** **–1 på handlingar som kräver greppstyrka**  till exempel hantverk tills bandagerad (**Analys + Smidighet**).                                                                                                               | 1T12 timmar  |
+| 5        | **Stukad handled/axel.** **-1** för attacker med **tvåhandsvapen, klättra, lyfta**; Lindning (**Analys + Smidighet**) tar bort effekten.                                                                                                             | 1T12 dagar   |
+| 6        | **Öppet sår.** När du gör en **Huvudhandling** → **markera 1 Stress**. Lindras med bandage (**Analys + Smidighet**)                                                                                                   | 1T12 dagar   |
+| 7        | **Stukad fot.** Halverad rörelse tills behandlad. Kräver ett slag för **Analys + Smidighet** för att lindra.                                                                                                                                         | 1T12 dagar   |
 | 5        | **Stukad handled/axel.** **-1** för attacker med **tvåhandsvapen, klättra, lyfta**; Lindning (**Intellekt + Hantverk (Medicin)**) tar bort effekten.                                                                                                             | 1T12 dagar   |
 | 6        | **Öppet sår.** När du gör en **Huvudhandling** → **markera 1 Stress**. Lindras med bandage (**Intellekt + Hantverk (Medicin)**)                                                                                                                                  | 1T12 dagar   |
 | 7        | **Stukad fot.** Halverad rörelse tills behandlad. Kräver ett slag för **Intellekt + Hantverk (Medicin)** för att lindra.                                                                                                                                         | 1T12 dagar   |
@@ -103,7 +133,9 @@ Se kapitlet [[Läkning & vård]].
 | 10       | **Bruten arm.** Alla handlingar som använder armen har **+2 i svårighetsgrad**.                                                                                                                                                                                  | 1T12 veckor  |
 | 11       | **Brutet ben.** Rörelse är **max 1 meter per Bihandling**. Alla handlingar som använder benet har **+2 i svårighetsgrad**.                                                                                                                                       | 1T12 veckor  |
 | 12       | **Permanent skada.** Slå på tabellen för **Permanent skada**.                                                                                                                                                                                                    | 1T12 veckor* |
+
 ### Tabell för permanent skada
+
 För de skador som kan rehabiliteras så gäller att det tar 1T12 veckor.
 
 | T12-slag | Effekt                                                                                                                                                                              |
@@ -120,7 +152,9 @@ För de skador som kan rehabiliteras så gäller att det tar 1T12 veckor.
 | 10       | **Amputerad hand/underarm.** Kan inte använda **tvåhandsvapen**; **-2** på klättra och närstrid som kräver grepp. Protes/krok möjliggör enkelhandsvapen och minskar avdrag till -1. |
 | 11       | **Allvarlig knä-/benskada (hälta).** **Rörelse halverad**; –2 på **Rörlighet** (springa, hoppa, klättra). Protes/ortos höjer till ca **2/3 normal rörelse** och minskar till –1.    |
 | 12       | **Traumatisk hjärnskada.** –1 på **Intellekt-baserade** slag som kräver koncentration (t.ex. Observation/Akademi under tidspress).                                                  |
+
 ### Tabell för Döende
+
 När karaktären tar ett Dödligt Sår så blir hen Döende. Slå på tabellen hur snabbt hen kommer att dö, **timmar/minuter/rundor/omedelbart**.
 
 | T12-slag | Dödlighet        | Dödstid            |
@@ -129,6 +163,9 @@ När karaktären tar ett Dödligt Sår så blir hen Döende. Slå på tabellen h
 | 7-9      | Död inom minuter | 1T12+Fysik minuter |
 | 10-11    | Död inom rundor  | 1T12+Fysik rundor  |
 | 12       | Död omedelbart   | Omedelbart         |
+
 Se [[Läkning & vård]] för läkningstider, komplikationer och vård
+
 # Särskilda situationer
+
 Principen för skador i andra situationer än ren strid är att effektens intensitet påverkar skadetröskeln och dess omfattning påverkar antal skadetärningar. Se särskilt avsnitt för [[Särskilda situationer]]
