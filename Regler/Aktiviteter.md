@@ -99,16 +99,16 @@ Här är en listning på vanliga aktiviteter i spelet **I Rikets Tjänst** och f
 
 Diskreta informationsinsatser: följa mål, kartlägga vanor, hitta ledtrådar och upptäcka faror innan de upptäcks själva. Bygger ofta på uppmärksamhet över tid och metodiskt arbete.
 
-|Aktivitet|Beskrivning/kommentar|Egenskap + Egenskap|
-|---|---|---|
-|Skugga en person|Hålla diskret avstånd i stadstrafik eller fot|Smidighet + Sinnen|
-|Motspaning|Upptäcka spanare, bryta mönster, “rensa svansen”|Sinnen + List|
-|Undersöka brottsplats|Systematisk genomsökning; gör anteckningar, foton|Analys + Sinnen|
-|Spana från gömsle|Långvarig observation med kikare/kamera|Sinnen + Sinnen|
-|Genomsöka rum|Snabb men metodisk “svepning” efter gömda ting|Analys + Sinnen|
-|Läsa läppar|Avståndsobservation av samtal|Sinnen + Analys|
-|Foto-dokumentation|Ta användbara, skarpa bevisbilder|Smidighet + Sinnen|
-|Kartrekognosering|Tolka kartor/flygbilder inför operation|Analys + Sinnen|
+| Aktivitet             | Beskrivning/kommentar                             | Egenskap + Egenskap |
+| --------------------- | ------------------------------------------------- | ------------------- |
+| Skugga en person      | Hålla diskret avstånd i stadstrafik eller fot     | Smidighet + Sinnen  |
+| Motspaning            | Upptäcka spanare, bryta mönster, “rensa svansen”  | Sinnen + List       |
+| Undersöka brottsplats | Systematisk genomsökning; gör anteckningar, foton | Analys + Sinnen     |
+| Spana från gömsle     | Långvarig observation med kikare/kamera           | Sinnen + Närvaro    |
+| Genomsöka rum         | Snabb men metodisk “svepning” efter gömda ting    | Analys + Sinnen     |
+| Läsa läppar           | Avståndsobservation av samtal                     | Sinnen + Analys     |
+| Foto-dokumentation    | Ta användbara, skarpa bevisbilder                 | Smidighet + Sinnen  |
+| Kartrekognosering     | Tolka kartor/flygbilder inför operation           | Analys + Sinnen     |
 
 ## Infiltration & intrång
 
