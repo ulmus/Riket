@@ -1,0 +1,175 @@
+Det finns många situationer som inte inbegriper strid, men som kräver regelstöd, ofta där flera personer samarbetar eller motarbetar varandra. Här är exempel på sådana aktiviteter:
+- Biljakt
+- Undersökning
+- Förhör
+- Göra intrång
+- Bluffa
+## Korta aktiviteter
+En kortare aktivitet avgörs med ett enkelt färdighetsslag där den person som är viktigast för scenen slår ett slag för *Egenskap + Färdighet* (SL avgör vilka, eventuellt efter förslag från spelaren) med en satt svårighet. Om slaget lyckas så går scenen enligt plan.
+### Hjälpa till
+Om någon vill hjälpa huvudaktörer så är de biaktörer, de berättar då vad de vill använda för *Egenskap + Färdighet* för att hjälpa till och SL avgör om det är möjligt och i så fall hur svårt. Alla biaktörer slår sina slag *innan* huvudaktören. Eventuella framgångar blir bonustärningar på huvudaktörens slag.
+
+Oftast kan bara ett begränsat antal karaktärer hjälpa till i praktiken. SL avgör hur många, men 2–4 är oftast lagom, samt vilka typer av handlingar som räknas som giltig hjälp.
+#### Exempel: Dyrka i Dresden
+Våra hjältar försöker dyrka upp en sidodörr till en fabrik i Dresden.
+- **Huvudaktören** slår för **Intellekt + Hantverk** för att dyrka låset.
+- **Biaktör A** kan hjälpa genom att hålla utkik (**Snabbhet + Observation**).
+- **Biaktör B** kan hjälpa genom att småprata med förbipasserande för att dra bort uppmärksamhet (**Karisma + Samspel**).
+- Biaktörerna slår först. Varje framgång ger +1 tärning till huvudaktören. Huvudaktören rullar sedan ett slag: lyckas → dörren öppnas diskret; misslyckas → låset sitter fast eller ett misstänkt ljud väcker uppmärksamhet.
+### Samarbeta
+Ibland är det snarare en fråga om ett gemensamt arbete än att någon är huvudaktör. Då räknas alla som huvudaktörer och ska tillsammans få ihop ett visst antal framgångar.
+
+Ett vanligt exempel är om alla ska lyckas med något som att klättra eller smyga, men karaktärerna kan hjälpa varandra. Då behöver gruppen få minst en framgång per gruppmedlem. Mer framgångsrika karaktärer kan därmed kompensera för de som inte lyckas lika bra.
+#### Exempel: Klättra I Belgrad
+Våra hjältar ska ta sig **över en mur** till en ambassadgård i Belgrad.
+- Alla är **huvudaktörer** och slår för **Fysik + Rörlighet** för att klättra. Gruppen behöver minst en framgång per deltagare (t.ex. 3 hjältar → 3 framgångar).
+- Den som får fler än 1 framgång kan låta överskottet hjälpa en annan – till exempel genom att dra upp en kamrat eller ge stöd nedifrån.
+- Lyckas gruppen → alla kommer över snabbt och tyst. Misslyckas gruppen → någon fastnar, ett högt ljud uppstår, eller en vakt upptäcker rörelsen.
+### Motstånd
+Ibland så är en scen en kamp mellan två aktörer. I det fallet finns det två huvudaktörer. De båda huvudaktörerna kan använda samma *Egenskap + Färdighet* eller olika. Den motstående huvudaktören kan också ha sina egna biaktörer som ger hjälp.
+
+Om den ena parten får fler framgångar än den andra så räknas det som ett lyckat slag för den personen med överskjutande antal framgångar. Om båda sidor får lika många framgångar så är det oavgjort och SL avgör vad som händer.
+#### Exempel: Bluffa utanför Minsk
+Våra hjältar blir stoppade vid en sovjetisk vägspärr utanför Minsk.
+- **Hjältarnas huvudaktör** slår för **Karisma + Samspel** för att övertyga sergeanten att de är kurirer.
+- **Hjältarnas biaktör** kan hjälpa genom att vifta med “korrekta papper”, **Precision + Samspel**.
+- **Motståndets huvudaktör** (sergeanten) slår för **Karisma + Observation** för att genomskåda lögnen.
+- **Motståndets biaktör** (en vakt) kan hjälpa genom att undersöka fordonet, **Precision + Observation**.
+- Alla biaktörer slår först och ger sina bonusar. Därefter slår båda huvudaktörerna. Den sida med flest framgångar vinner: hjältarna får passera, eller stoppas för vidare kontroll. Vid lika → spelledaren avgör (t.ex. tvekan, fördröjning, eller krav på extra bevis).
+## Långa aktiviteter
+Längre aktiviteter spelas som en serie korta aktiviteter, men med skiftande huvudaktörer. Framgångarna samlas ihop tills de har uppnått en förutbestämd summa varvid scenen lyckas.
+### Tidspress
+Ofta sker långa aktiviteter under tidspress. Ett visst antal framgångar ska samlas ihop på ett visst antal rundor, annars sker vissa konsekvenser. Tidspressen kan uttryckas som en absolut gräns eller som konsekvenser som kommer gradvis när rundorna går.
+#### Exempel: Förhör i Warszawa
+Våra hjältar ska förhöra en avhoppad KGB-officer på ett kafé i Warszawa. Men de vet att polisen när som helst kan dyka upp.
+- SL bestämmer att scenen kräver **10 framgångar**, men varje runda som går ökar risknivån.
+- Huvudaktören slår för **Karisma + Samspel** för att vinna officerens förtroende. Biaktörer kan hjälpa genom att spana efter spanare (**Snabbhet + Observation**) eller lugna kaféets ägare (**Karisma + Samspel**).
+- Efter varje runda gör SL ett **”tidsslag”** för hotnivån. Ju fler rundor som går, desto värre blir konsekvenserna:
+	- Runda 2: En misstänksam servitris börjar lyssna.
+	- Runda 4: Två civilklädda poliser kommer in och sätter sig.
+	- Runda 5: En polispatrull anländer till gatan utanför.
+	- Runda 6: Polispatrullen kommer in i kafét och ingriper
+- Om hjältarna samlar ihop 10 framgångar innan polisen ingriper får de ut all information. Om de dröjer för länge kan förhöret avbrytas och de måste improvisera flykt, tystande eller konfrontation.
+### Kapplöpning
+En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett visst antal framgångar snabbast. Om båda når det specificerade antalet samtidigt så vinner den som fick flest överskjutande framgångar. Om även det är lika så fortsätter kapplöpningen tills någon har flest framgångar efter en runda.
+#### Exempel: Kurirjakt i Leningrad
+Våra hjältar jagar en kurir genom Leningrads hamn samtidigt som de försöker undvika att bli upptäckta.
+- **Hjältarnas huvudaktör** slår för **Snabbhet + Rörlighet**.
+- **Biaktörer** kan hjälpa genom att spana (**Snabbhet + Observation**) eller distrahera (**Snabbhet + Samspel**).
+- **Motståndets huvudaktör** (kuriren) slår för **Snabbhet + Rörlighet**.
+- **Motståndets biaktörer** (St Petersburgs polis) kan hjälpa på olika sätt, t.ex. genom att blockera vägar eller varna kuriren.
+- Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Precision + Rörlighet** för att ta sig fram i de trånga utrymmena.
+- Om hjältarna får tio framgångar först så fångar de kuriren. Om kuriren når målet först lyckas hon undkomma i Leningrads gränder. 
+# Vanliga aktiviteter
+Här är en listning på vanliga aktiviteter i spelet **I Rikets Tjänst** och förslag på vilken kombination av egenskap och färdighet som skulle kunna passa att slå för.
+## Underrättelse & spaning
+Diskreta informationsinsatser: följa mål, kartlägga vanor, hitta ledtrådar och upptäcka faror innan de upptäcks själva. Bygger ofta på uppmärksamhet över tid och metodiskt arbete.
+
+|Aktivitet|Beskrivning/kommentar|Egenskap + Färdighet|
+|---|---|---|
+|Skugga en person|Hålla diskret avstånd i stadstrafik eller fot|Snabbhet + Observation|
+|Motspaning|Upptäcka spanare, bryta mönster, “rensa svansen”|Psyke + Observation|
+|Undersöka brottsplats|Systematisk genomsökning; gör anteckningar, foton|Intellekt + Observation|
+|Spana från gömsle|Långvarig observation med kikare/kamera|Psyke + Observation|
+|Genomsöka rum|Snabb men metodisk “svepning” efter gömda ting|Intellekt + Observation|
+|Läsa läppar|Avståndsobservation av samtal|Precision + Observation|
+|Foto-dokumentation|Ta användbara, skarpa bevisbilder|Precision + Observation|
+|Kartrekognosering|Tolka kartor/flygbilder inför operation|Intellekt + Observation|
+## Infiltration & intrång
+Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm och lås – ofta i lagarbete med utkik och avledningar.
+
+| Aktivitet                | Beskrivning/kommentar                       | Egenskap + Färdighet    |
+| ------------------------ | ------------------------------------------- | ----------------------- |
+| Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Precision + Rörlighet   |
+| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Precision + Hantverk    |
+| Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Intellekt + Observation |
+| Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Intellekt + Hantverk    |
+| Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | Karisma + Samspel       |
+| Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Precision + Hantverk    |
+| Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Rörlighet       |
+| Plantera bugg            | Diskret placering/dragning av kabel         | Precision + Hantverk    |
+## Social påverkan & förhör
+Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – allt från charm till iskall auktoritet.
+
+| Aktivitet                    | Beskrivning/kommentar                         | Egenskap + Färdighet  |
+| ---------------------------- | --------------------------------------------- | --------------------- |
+| Förhöra taktiskt             | Bygga förtroende, styra samtalet, mikropauser | Karisma + Samspel     |
+| Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | Karisma + Samspel     |
+| Skaka motparten              | Kall blick, tystnad, psykologisk press        | Psyke + Samspel       |
+| Få folk att prata            | Småprat, social ingång, “openers”             | Karisma + Samspel     |
+| Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Karisma + Observation |
+| Leda under press             | Korta order, moral, förtroende                | Psyke + Samspel       |
+| Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | Snabbhet + Samspel    |
+## Fordon & jakter
+Hög puls: körning, navigering och improvisation i trafik eller terräng – ofta i kapplöpning mot klockan.
+
+|Aktivitet|Beskrivning/kommentar|Egenskap + Färdighet|
+|---|---|---|
+|Biljakt – körning|Följa utan att krocka/avslöja sig|Snabbhet + Rörlighet|
+|Undanmanöver|Sladd, broms, växla linje|Snabbhet + Rörlighet|
+|Terrängkörning|Lerigt, snöigt, dålig sikt|Fysik + Rörlighet|
+|Motorcykel genom gränd|Smalt utrymme, balans|Precision + Rörlighet|
+|Navigera i okänd stad|Genvägar, trafikmönster|Intellekt + Observation|
+|Reparera i vägkanten|Bensinslang, tändstift, provisorier|Intellekt + Hantverk|
+|Skjuta från fordon|Kort fönster, vibrationer|Precision + Strid|
+## Strid & taktik
+När det smäller: eldstrid, närstrid, elddisciplin och rörelse under eld. Val av kombination beror på vapen och stil.
+
+| Aktivitet              | Beskrivning/kommentar            | Egenskap + Färdighet |
+| ---------------------- | -------------------------------- | -------------------- |
+| Avståndsattack         | Pistol, k-pist, gevär, sikta/eld | Precision + Strid    |
+| Slagsmål (kraft)       | Svingar, grepp, putt             | Fysik + Strid        |
+| Fäktning/snabbstick    | Snabbt fotarbete, parader        | Snabbhet + Strid     |
+| Kastad granat          | Hålla båge/avstånd rätt          | Precision + Strid    |
+| Förflyttning under eld | Språngmarsch mellan skydd        | Snabbhet + Rörlighet |
+| Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Psyke + Strid        |
+| Skarpskytte            | Långt håll, kontroll, andning    | Precision + Strid    |
+| Leda i strid           | Ge order, inspirera              | Karisma + Strid      |
+## Teknik & sabotage
+Att skapa eller förstöra: sprängmedel, elektronik, finmekanik och improvisationer.
+
+|Aktivitet|Beskrivning/kommentar|Egenskap + Färdighet|
+|---|---|---|
+|Ladda sprängämne|Val av laddning, riktning, säkring|Intellekt + Hantverk|
+|Spränga diskret|Tidsinställning, dämpa signatur|Precision + Hantverk|
+|Bryta enkel kryptering|Kodbok, frekvensanalys|Intellekt + Akademi|
+|Bygga/rigga radio|Antenn, jordning, störningar|Intellekt + Hantverk|
+|Telefonavlyssning|Krimpa, parallellkoppla, dölja spår|Precision + Hantverk|
+|Fotolabb i fält|Framkalla, förstora, beviskedja|Precision + Hantverk|
+|Verktygsimprovisation|MacGyver-lösning av reservdel|Intellekt + Hantverk|
+## Vård, överlevnad & logistik
+Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fältmässighet och vardagslogistik.
+
+| Aktivitet               | Beskrivning/kommentar                      | Egenskap + Färdighet    |
+| ----------------------- | ------------------------------------------ | ----------------------- |
+| Akutvård                | Stoppa blödning, stabilisera               | Intellekt + Hantverk    |
+| Aktiv vård/medicin      | Diagnos, läkemedel                         | Intellekt + Akademi     |
+| Kirurgi                 | Operativa ingrepp                          | Precision + Akademi     |
+| Lägga förband under eld | Under press, med begränsade resurser       | Snabbhet + Hantverk     |
+| Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Rörlighet       |
+| Fältläger & vindskydd   | Eld, skydd, vatten                         | Intellekt + Hantverk    |
+| Orientera i terräng     | Karta, kompass, landmärken                 | Intellekt + Observation |
+| Försörjning i fält      | Bränsle, ammo, ransoner                    | Intellekt + Hantverk    |
+| Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Observation     |
+## Stress, nerver & motståndskraft
+Kalla nerver räddar liv: att hålla masken, stå emot panik och hantera skarpa lägen utan att brista.
+
+|Aktivitet|Beskrivning/kommentar|Egenskap + Färdighet|
+|---|---|---|
+|Hålla masken under press|Inte avslöja rädsla/vetande|Psyke + Samspel|
+|Motstå bakhållschock|Reagera kontrollerat vid överrumpling|Psyke + Strid|
+|Hantera dödsfall i strid|Bibehålla fokus|Psyke + Strid|
+|Besluta i hopplöst läge|Bryta tunnelseende, välja risk|Psyke + Observation|
+|Stå emot övernaturligt/oförklarligt|“Rama in” upplevelsen kognitivt|Psyke + Akademi|
+|Återhämtningsritual|Stressreducerande scen (rollspelsbaserad)|Karisma + Samspel|
+## Kommunikation & kryptering
+Att skicka/ta emot information under begränsningar: radio, morse, koder och dokument.
+
+| Aktivitet          | Beskrivning/kommentar           | Egenskap + Färdighet   |
+| ------------------ | ------------------------------- | ---------------------- |
+| Sända morse rent   | Tempo, rytm, minsta fel         | Precision + Hantverk   |
+| Läsa morse i brus  | Filtrera signal ur störningar   | Psyke + Observation    |
+| Kodboksarbete      | Upprätta/underhålla kodsystem   | Intellekt + Akademi    |
+| Säkra kanal        | Val av frekvens, antenn, effekt | Intellekt + Hantverk   |
+| Förfalska dokument | Stämplar, typsnitt, patina      | Precision + Hantverk   |
+| Säkra “dead drop”  | Diskret placering/återtag       | Snabbhet + Observation |
