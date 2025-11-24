@@ -12,7 +12,7 @@ Du får +1 på slag för Strid + Kraft när du slåss obeväpnad.
 
 ## Jujutsu
 
-Krav: Smidighet 2, Strid 2
+*Krav:* Smidighet 2, Strid 2
 Du kan använda Strid + Smidighet för obeväpnade närstridsattacker och får +1 på det slaget.
 
 ## Fint
@@ -44,7 +44,7 @@ Dina slagsmåls-attacker räknas som Skala 1
 
 ## Automatsalva  
 
-_Krav:* Kraft 2, Strid 2, vapen med egenskapen *automateld*
+*Krav:* Kraft 2, Strid 2, vapen med egenskapen *automateld*
 Du kan skjuta en lång salva med bibehållen precision
 
 - **Huvudhandling:** Gör en avståndsattack med *Strid + Kraft*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
@@ -53,7 +53,7 @@ Du kan skjuta en lång salva med bibehållen precision
 
 ## Täckande eld  
 
-_Krav:* Automatsalva
+*Krav:* Automatsalva
 Du skjuter täckande eld som hindrar fienden från att förflytta sig
 
 - **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Strid + Smidighet* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
@@ -61,7 +61,7 @@ Du skjuter täckande eld som hindrar fienden från att förflytta sig
 
 ## Undertryckande eld  
 
-_Krav:* Täckande eld
+*Krav:* Täckande eld
 Din täckande eld gör det också svårt att attackera
 
 - Om du har lagt en zon med **Täckande eld** så aktiveras den även av attacker gjorda från zonen, inte bara av förflyttningar.
@@ -72,39 +72,39 @@ Din täckande eld gör det också svårt att attackera
 
 ## Skarpskytt  
 
-_Krav:* Smidighet 2, Strid 2
+*Krav:* Smidighet 2, Strid 2
 
 - +1 på *Strid + Smidighet* med gevär.
 - Ignorera -1 svårighetsgrad för långt avstånd.
 
 ## Mästerskott  
 
-_Krav:* Skarpskytt
+*Krav:* Skarpskytt
 
 - **Huvudhandling:** Spendera **1 Fokus** för att öka skalan på din träff med ett gevär med ett.
 
 ## Kallblodig träff  
 
-_Krav:* Mästerskott
+*Krav:* Mästerskott
 
 - När du får en 12:a på en attack kan du spendera **1 Fokus** för att omedelbart göra en extra attack mot samma mål.
 
 ## Pistolskytt  
 
-_Krav:* Smidighet 2, Strid 2
+*Krav:* Smidighet 2, Strid 2
 
 - +1 på Strid + Smidighet med pistoler.
 - Dra eller byta till pistol som gratis handling.
 
 ## Snabbskott  
 
-_Krav:* Pistolskytt
+*Krav:* Pistolskytt
 
 - **Bihandling:** Gör en extra pistolattack med -1 på slaget. Kostar **1 Fokus**.
 
 ## Skottväxling
 
-_Krav:* Snabbskott
+*Krav:* Snabbskott
 
 - När du träffar med en pistolattack kan du spendera **1 Fokus** för att omedelbart göra en ny attack mot ett annat mål inom ~2 m från det första.
 
