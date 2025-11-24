@@ -84,9 +84,9 @@ En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett 
 
 Våra hjältar jagar en kurir genom Leningrads hamn samtidigt som de försöker undvika att bli upptäckta.
 
-- **Hjältarnas huvudaktör** slår för **Smidighet + Smidighet**.
+- **Hjältarnas huvudaktör** slår för **Kraft + Smidighet**.
 - **Biaktörer** kan hjälpa genom att spana (**Smidighet + Sinnen**) eller distrahera (**Smidighet + Närvaro**).
-- **Motståndets huvudaktör** (kuriren) slår för **Smidighet + Smidighet**.
+- **Motståndets huvudaktör** (kuriren) slår för **Kraft + Smidighet**.
 - **Motståndets biaktörer** (St Petersburgs polis) kan hjälpa på olika sätt, t.ex. genom att blockera vägar eller varna kuriren.
 - Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Smidighet + Kraft** för att ta sig fram i de trånga utrymmena.
 - Om hjältarna får tio framgångar först så fångar de kuriren. Om kuriren når målet först lyckas hon undkomma i Leningrads gränder.
