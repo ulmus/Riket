@@ -8,32 +8,32 @@ På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, is
 
 ## Huvudhandlingar
 
-* Avståndsattack (Strid + Smidighet)
-* Närstridsattack (Strid + Kraft eller Strid + Smidighet)
+- Avståndsattack (Strid + Smidighet)
+- Närstridsattack (Strid + Kraft eller Strid + Smidighet)
 
 ## Bihandlingar
 
-* Sikta: +1 på avståndsattack
-* Ställa sig upp
-* Dra ett vapen
-* Röra sig Kraft + Smidighet meter
-* Rallarsving: sänk skadetröskel ett steg, men -1 på träffa i närstrid
+- Sikta: +1 på avståndsattack
+- Ställa sig upp
+- Dra ett vapen
+- Röra sig Kraft + Smidighet meter
+- Rallarsving: sänk skadetröskel ett steg, men -1 på träffa i närstrid
 
 ## Reaktionshandlingar
 
-* Kasta sig undan en attack (Strid + Smidighet), du är på marken efteråt och det krävs en bihandling för att resa sig
-* Parera en närstridsattack (Strid + Smidighet + Paradbonus)
+- Kasta sig undan en attack (Strid + Smidighet), du är på marken efteråt och det krävs en bihandling för att resa sig
+- Parera en närstridsattack (Strid + Smidighet + Paradbonus)
 
 # Avståndsattacker
 
 Om du gör en avståndsattack slår du i allmänhet för Strid + Smidighet med modifikationer.
 
-* Minst en bihandling lagd på att sikta +1
-* Stabil position +1 (+2 om liggande)
-* Skymning -1 (Mörker -2)
-* Målet skymt -1 (bakom skytteglugg -2)
-* Litet mål -1
-* Stort mål +1
+- Minst en bihandling lagd på att sikta +1
+- Stabil position +1 (+2 om liggande)
+- Skymning -1 (Mörker -2)
+- Målet skymt -1 (bakom skytteglugg -2)
+- Litet mål -1
+- Stort mål +1
 
 # Skador
 
@@ -43,10 +43,10 @@ Om en attack träffar ett mål så avgörs skadan genom attackens **skadetröske
 
 Skadetröskeln är siffran du ska slå **på varje skadetärning** för att göra ett “steg” av skada.
 
-* **Vapnets baströskel:** t.ex. slagsmål **11+**, kniv **10+**, pistol **8+**, gevär **6+**.
-* **Närstrid & slagstyrka:** sänk tröskeln med **slagstyrka = ⌊Kraft/2⌋** (avrunda nedåt).
-* **Skydd:** höj tröskeln med målets **skydd** (t.ex. rock +1).
-* **Förmågor/Fokus/avstånd/egenskaper:** kan sänka eller höja tröskeln enligt regler/nyckelord.
+- **Vapnets baströskel:** t.ex. slagsmål **11+**, kniv **10+**, pistol **8+**, gevär **6+**.
+- **Närstrid & slagstyrka:** sänk tröskeln med **slagstyrka = ⌊Kraft/2⌋** (avrunda nedåt).
+- **Skydd:** höj tröskeln med målets **skydd** (t.ex. rock +1).
+- **Förmågor/Fokus/avstånd/egenskaper:** kan sänka eller höja tröskeln enligt regler/nyckelord.
 
 **Slutlig skadetröskel = vapnets bas - slagstyrka (för närstrid) ± effekter + målets skydd.**
 
@@ -54,9 +54,9 @@ Skadetröskeln är siffran du ska slå **på varje skadetärning** för att gör
 
 Antalet tärningar beror på skalan på attacken relativt målets storlek. Det handlar inte så mycket om ren kraft kontra skydd utan mer om en attack har möjlighet att nå till känsliga delar av ett mål.
 
-* **Bas:** beväpnad attack **3 tärningar**, obeväpnad **2 tärningar**, tunga vapen **4 tärningar** (eller mer).
-* **Överskottsframgångar på träff:** varje extra framgång över den första kan ge **+1 skadetärning**
-* **Målstorlek:** _lägg på eller dra av_ skadetärningar efter hur stort målet är:
+- **Bas:** beväpnad attack **3 tärningar**, obeväpnad **2 tärningar**, tunga vapen **4 tärningar** (eller mer).
+- **Överskottsframgångar på träff:** varje extra framgång över den första kan ge **+1 skadetärning**
+- **Målstorlek:** _lägg på eller dra av_ skadetärningar efter hur stort målet är:
 
 | Målstorlek (exempel)                  | Antal skadetärningar |
 | ------------------------------------- | -------------------- |
@@ -73,10 +73,10 @@ Rulla antalet T12 enligt det **slutliga antalet skadetärningar**. Varje tärnin
 
 Summera stegen:
 
-* **0 steg** → **Oskadd**
-* **1 steg** → **Sår**
-* **2 steg** → **Kritiskt Sår**
-* **3+ steg** → **Dödligt Sår**
+- **0 steg** → **Oskadd**
+- **1 steg** → **Sår**
+- **2 steg** → **Kritiskt Sår**
+- **3+ steg** → **Dödligt Sår**
 
 ## Exempel
 
@@ -88,19 +88,19 @@ Summera stegen:
 
 När du tar **Sår/Kritiskt/Dödligt**:
 
-* Ta omedelbart **+1 Stress**.
-* **Markera** skadan på rätt rad i rollformuläret.
-* Du har alltid -1 på alla handlingar för varje Sår, Kritiskt Sår eller Dödligt Sår du har som är obehandlat.
-* Om raden är **full**: uppgradera **ett steg** (Sår → Kritiskt → Dödligt).
-* Om du skulle markera **Dödligt** och den raden redan är full: **du dör omedelbart**.
-* Vid **Kritiskt** eller **Dödligt**: slå på tabellen för **Kritiska Sår**.
-* Vid **Dödligt**: slå även på tabellen för **Döende**.
+- Ta omedelbart **+1 Stress**.
+- **Markera** skadan på rätt rad i rollformuläret.
+- Du har alltid -1 på alla handlingar för varje Sår, Kritiskt Sår eller Dödligt Sår du har som är obehandlat.
+- Om raden är **full**: uppgradera **ett steg** (Sår → Kritiskt → Dödligt).
+- Om du skulle markera **Dödligt** och den raden redan är full: **du dör omedelbart**.
+- Vid **Kritiskt** eller **Dödligt**: slå på tabellen för **Kritiska Sår**.
+- Vid **Dödligt**: slå även på tabellen för **Döende**.
 
 ## Hur många av varje skada kan du tåla?
 
-* Alla börjar på **1–1–1** (Sår–Kritiskt–Dödligt).
-* För varje nivå i **Kraft** lägger du till **en extra ruta** i turordningen **Sår → Kritiskt → Dödligt → Sår → …**  
-* _Exempel:_ Kraft 1: **2–1–1**, Kraft 2: **2–2–1**, Kraft 3: **2–2–2**, Kraft 4: **3–2–2**.
+- Alla börjar på **1–1–1** (Sår–Kritiskt–Dödligt).
+- För varje nivå i **Kraft** lägger du till **en extra ruta** i turordningen **Sår → Kritiskt → Dödligt → Sår → …**  
+- _Exempel:_ Kraft 1: **2–1–1**, Kraft 2: **2–2–1**, Kraft 3: **2–2–2**, Kraft 4: **3–2–2**.
 
 ## Sammanfattning
 
