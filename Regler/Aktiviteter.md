@@ -35,7 +35,7 @@ Ett vanligt exempel är om alla ska lyckas med något som att klättra eller smy
 
 Våra hjältar ska ta sig **över en mur** till en ambassadgård i Belgrad.
 
-- Alla är **huvudaktörer** och slår för **Kraft + Smidighet** för att klättra. Gruppen behöver minst en framgång per deltagare (t.ex. 3 hjältar → 3 framgångar).
+- Alla är **huvudaktörer** och slår för **Fysik + Smidighet** för att klättra. Gruppen behöver minst en framgång per deltagare (t.ex. 3 hjältar → 3 framgångar).
 - Den som får fler än 1 framgång kan låta överskottet hjälpa en annan – till exempel genom att dra upp en kamrat eller ge stöd nedifrån.
 - Lyckas gruppen → alla kommer över snabbt och tyst. Misslyckas gruppen → någon fastnar, ett högt ljud uppstår, eller en vakt upptäcker rörelsen.
 
@@ -84,11 +84,11 @@ En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett 
 
 Våra hjältar jagar en kurir genom Leningrads hamn samtidigt som de försöker undvika att bli upptäckta.
 
-- **Hjältarnas huvudaktör** slår för **Kraft + Smidighet**.
+- **Hjältarnas huvudaktör** slår för **Fysik + Smidighet**.
 - **Biaktörer** kan hjälpa genom att spana (**Smidighet + Sinnen**) eller distrahera (**Smidighet + Närvaro**).
-- **Motståndets huvudaktör** (kuriren) slår för **Kraft + Smidighet**.
+- **Motståndets huvudaktör** (kuriren) slår för **Fysik + Smidighet**.
 - **Motståndets biaktörer** (St Petersburgs polis) kan hjälpa på olika sätt, t.ex. genom att blockera vägar eller varna kuriren.
-- Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Kraft + Smidighet** för att ta sig fram i de trånga utrymmena.
+- Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Fysik + Smidighet** för att ta sig fram i de trånga utrymmena.
 - Om hjältarna får tio framgångar först så fångar de kuriren. Om kuriren når målet först lyckas hon undkomma i Leningrads gränder.
 
 # Vanliga aktiviteter
@@ -122,7 +122,7 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 | Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Smidighet + Analys      |
 | Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Närvaro          |
 | Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Smidighet + Analys      |
-| Klättra fasad            | Rep, handskar, fönsterbräde                 | Kraft + Smidighet       |
+| Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Smidighet       |
 | Plantera bugg            | Diskret placering/dragning av kabel         | Smidighet + Analys      |
 
 ## Social påverkan & förhör
@@ -147,7 +147,7 @@ Hög puls: körning, navigering och improvisation i trafik eller terräng – of
 |---|---|---|
 |Biljakt – körning|Följa utan att krocka/avslöja sig|Smidighet + Smidighet|
 |Undanmanöver|Sladd, broms, växla linje|Smidighet + Smidighet|
-|Terrängkörning|Lerigt, snöigt, dålig sikt|Kraft + Smidighet|
+|Terrängkörning|Lerigt, snöigt, dålig sikt|Fysik + Smidighet|
 |Motorcykel genom gränd|Smalt utrymme, balans|Smidighet + Smidighet|
 |Navigera i okänd stad|Genvägar, trafikmönster|Analys + Sinnen|
 |Reparera i vägkanten|Bensinslang, tändstift, provisorier|Smidighet + Analys|
@@ -160,7 +160,7 @@ När det smäller: eldstrid, närstrid, elddisciplin och rörelse under eld. Val
 | Aktivitet              | Beskrivning/kommentar            | Egenskap + Egenskap  |
 | ---------------------- | -------------------------------- | -------------------- |
 | Avståndsattack         | Pistol, k-pist, gevär, sikta/eld | Smidighet + Strid    |
-| Slagsmål (kraft)       | Svingar, grepp, putt             | Kraft + Strid        |
+| Slagsmål (fysik)       | Svingar, grepp, putt             | Fysik + Strid        |
 | Fäktning/snabbstick    | Snabbt fotarbete, parader        | Smidighet + Strid    |
 | Kastad granat          | Hålla båge/avstånd rätt          | Smidighet + Strid    |
 | Förflyttning under eld | Språngmarsch mellan skydd        | Smidighet + Smidighet|
@@ -192,13 +192,13 @@ Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fäl
 | Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Analys         |
 | Kirurgi                 | Operativa ingrepp                          | Smidighet + Analys      |
 | Lägga förband under eld | Under press, med begränsade resurser       | Smidighet + Analys      |
-| Bära/evakuera sårad     | Bår, brandmannalyft                        | Kraft + Smidighet       |
+| Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Smidighet       |
 | Fältläger & vindskydd   | Eld, skydd, vatten                         | Smidighet + Analys      |
 | Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen         |
 | Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + Analys         |
-| Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Kraft + Sinnen          |
+| Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Sinnen          |
 
-## Stress, nerver & motståndskraft
+## Stress, nerver & motståndsfysik
 
 Kalla nerver räddar liv: att hålla masken, stå emot panik och hantera skarpa lägen utan att brista.
 

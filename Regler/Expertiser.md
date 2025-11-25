@@ -2,10 +2,10 @@
 
 Varje expertis ger +1 på relevanta aktiviteter och öppnar upp specialförmågor. Aktiviteter som kräver expertisen ger -3 om du försöker utan den. Förmågor som kräver expertis beskrivs i [[Förmågor#Expertisförmågor]].
 
-## Fältmedicinare
+## Läkare
 
-- **Bonus på aktiviteter:** Smidighet + Analys för Akutvård i fält.
-- **Kräver expertisen:** Kirurgi (Smidighet + Analys), Lägga förband under eld (Smidighet + Analys).
+- **Bonus på aktiviteter:** Smidighet + Analys för Akutvård i fält. Sinnen + Analys för diagnosticering och behandling.
+- **Kräver expertisen:** Kirurgi (Smidighet + Analys), Lägga förband under eld (Smidighet + Strid).
 - **Förmågor som kräver expertisen:** [[Förmågor#Fältsteril]], [[Förmågor#Snabb-triage]].
 
 ## Apotekare

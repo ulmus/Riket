@@ -14,14 +14,14 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa representerar karaktärens medfödda förmågor och talanger inom olika områden. Det finns sju grundläggande egenskaper:
 
 - **Strid** – Vapenteknik, våld, taktik.
-- **Kraft** – Råstyrka, tålighet, simning, närstridskada.
+- **Fysik** – Råstyrka, tålighet, simning, närstridskada.
 - **Smidighet** – Förflyttning, smyga, klättra, finmotorik, pilot/förare.
 - **Sinnen** – Upptäcka faror, spana, söka ledtrådar, "magkänsla".
 - **Analys** – Logik, teknik, kunskap/språk, medicin, krypto, sprängteknik.
 - **List** – Lögner, förklädnad, improvisation, undre världen.
 - **Närvaro** – Social påverkan, ledarskap, charm, psyke/vilja.
 
-*Människor: 1–3, supermänniskor: 4+ i en egenskap.*
+Varje karaktär börjar med 15 poäng att fördela med minst 1 och högst 3 på en egenskap samt en egenskap som de får sätta 4 på.
 
 ## Expertis
 
@@ -33,10 +33,10 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära Egenskaper
 
-- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Kraft + Smidighet i meter per bihandling
-- **Slagstyrka** avgör grundskadan för närstridsattacker och är lika med halva Kraft avrundat neråt.
+- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling
+- **Slagstyrka** avgör grundskadan för närstridsattacker och är lika med halva Fysik avrundat neråt.
 - **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Närvaro (avrundat neråt)
-- **Stryktålighet** är hur många Sår, Kritiska Sår eller Dödliga Sår du tål innan du slutligen dör. Varje människa tål 1 Sår, 1 Kritiskt Sår och 1 Dödligt Sår. För varje nivå på Kraft så lägger du till ytterligare ett i ordningen Sår, Kritiskt Sår, Dödligt Sår och sedan Sår igen. Se [[Strid och skada#Skador]].
+- **Stryktålighet** är hur många Sår, Kritiska Sår eller Dödliga Sår du tål innan du slutligen dör. Varje människa tål 1 Sår, 1 Kritiskt Sår och 1 Dödligt Sår. För varje nivå på Fysik så lägger du till ytterligare ett i ordningen Sår, Kritiskt Sår, Dödligt Sår och sedan Sår igen. Se [[Strid och skada#Skador]].
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
 
 ## Vanliga slag
@@ -78,7 +78,7 @@ Varje ny scen återställs personligt Fokus till **Momentum**. Startar på 1 per
 - Turordning i sjunkande initiativ.
 - Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
 - Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Strid + Smidighet och drar av framgångar från attackens framgångar.
-- Skada mäts i Sår, Kritiska Sår och Dödliga Sår, din Kraft avgör hur mycket du tål.
+- Skada mäts i Sår, Kritiska Sår och Dödliga Sår, din Fysik avgör hur mycket du tål.
 
 Se kapitlet för [[Strid och skada]]
 
@@ -102,6 +102,6 @@ Se kapitlet för [[Stress & rädsla]]
 
 ## Förmågor
 
-Våra hjältar har flera förmågor, dels sådana som kommer från deras superkrafter och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga Förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Färdighet eller att karaktären har vissa andra förmågor sedan tidigare.
+Våra hjältar har flera förmågor, dels sådana som kommer från deras superfysiker och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga Förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Färdighet eller att karaktären har vissa andra förmågor sedan tidigare.
 
 Se [[Förmågor]]

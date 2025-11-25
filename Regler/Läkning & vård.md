@@ -26,7 +26,7 @@ Tiden för naturlig läkning beror på skadans nivå, omständigheter och person
 
 ### Läkeslag
 
-När scenen är över så kan du slå ett läkeslag (endast **Kraft**) med följande modifikationer:
+När scenen är över så kan du slå ett läkeslag (endast **Fysik**) med följande modifikationer:
 
 - **Kritiskt sårad** -1
 - **Dödligt sårad** -2

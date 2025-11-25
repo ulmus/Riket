@@ -7,8 +7,8 @@ Du får +1 på slag för Strid + Smidighet när du slåss med ett finess-vapen (
 
 ## Slagsmål
 
-*Krav:* Kraft 2, Strid 2
-Du får +1 på slag för Strid + Kraft när du slåss obeväpnad.
+*Krav:* Fysik 2, Strid 2
+Du får +1 på slag för Strid + Fysik när du slåss obeväpnad.
 
 ## Jujutsu
 
@@ -44,10 +44,10 @@ Dina slagsmåls-attacker räknas som Skala 1
 
 ## Automatsalva  
 
-*Krav:* Kraft 2, Strid 2, vapen med egenskapen *automateld*
+*Krav:* Fysik 2, Strid 2, vapen med egenskapen *automateld*
 Du kan skjuta en lång salva med bibehållen precision
 
-- **Huvudhandling:** Gör en avståndsattack med *Strid + Kraft*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
+- **Huvudhandling:** Gör en avståndsattack med *Strid + Fysik*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
 - Varje träff ger vapnets grundskada men ett lägre i skala (det vill säga en mindre skadetärning).
 - Kostar 1 magasin.
 

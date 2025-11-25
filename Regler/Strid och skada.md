@@ -9,14 +9,14 @@ På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, is
 ## Huvudhandlingar
 
 - Avståndsattack (Strid + Smidighet)
-- Närstridsattack (Strid + Kraft eller Strid + Smidighet)
+- Närstridsattack (Strid + Fysik eller Strid + Smidighet)
 
 ## Bihandlingar
 
 - Sikta: +1 på avståndsattack
 - Ställa sig upp
 - Dra ett vapen
-- Röra sig Kraft + Smidighet meter
+- Röra sig Fysik + Smidighet meter
 - Rallarsving: sänk skadetröskel ett steg, men -1 på träffa i närstrid
 
 ## Reaktionshandlingar
@@ -44,7 +44,7 @@ Om en attack träffar ett mål så avgörs skadan genom attackens **skadetröske
 Skadetröskeln är siffran du ska slå **på varje skadetärning** för att göra ett “steg” av skada.
 
 - **Vapnets baströskel:** t.ex. slagsmål **11+**, kniv **10+**, pistol **8+**, gevär **6+**.
-- **Närstrid & slagstyrka:** sänk tröskeln med **slagstyrka = ⌊Kraft/2⌋** (avrunda nedåt).
+- **Närstrid & slagstyrka:** sänk tröskeln med **slagstyrka = ⌊Fysik/2⌋** (avrunda nedåt).
 - **Skydd:** höj tröskeln med målets **skydd** (t.ex. rock +1).
 - **Förmågor/Fokus/avstånd/egenskaper:** kan sänka eller höja tröskeln enligt regler/nyckelord.
 
@@ -99,8 +99,8 @@ När du tar **Sår/Kritiskt/Dödligt**:
 ## Hur många av varje skada kan du tåla?
 
 - Alla börjar på **1–1–1** (Sår–Kritiskt–Dödligt).
-- För varje nivå i **Kraft** lägger du till **en extra ruta** i turordningen **Sår → Kritiskt → Dödligt → Sår → …**  
-- *Exempel:* Kraft 1: **2–1–1**, Kraft 2: **2–2–1**, Kraft 3: **2–2–2**, Kraft 4: **3–2–2**.
+- För varje nivå i **Fysik** lägger du till **en extra ruta** i turordningen **Sår → Kritiskt → Dödligt → Sår → …**  
+- *Exempel:* Fysik 1: **2–1–1**, Fysik 2: **2–2–1**, Fysik 3: **2–2–2**, Fysik 4: **3–2–2**.
 
 ## Sammanfattning
 
@@ -144,7 +144,7 @@ För de skador som kan rehabiliteras så gäller att det tar 1T12 veckor.
 | 5        | **Nervskada i hand.** –2 på **Smidighet** (finmotorik). Efter rehab blir det –1.                                                                                                    |
 | 6        | **Amputerat finger.** –1 på **Smidighet** (finmotorik) och omladdning/hantering av avståndsvapen. Specialgrepp för ett vapen tar bort –1 för det vapnet.                             |
 | 7        | **Förlorat öga.** –2 på **avståndsattacker**; –1 på **Sinnen** (syn);                                                                                                     |
-| 8        | **Lungskada.** –1 på **Kraft-baserade** uthållighetsslag; vid långvarig ansträngning (springa/slåss >1 min): markera **1 Stress** (max 1/scen).                                     |
+| 8        | **Lungskada.** –1 på **Fysik-baserade** uthållighetsslag; vid långvarig ansträngning (springa/slåss >1 min): markera **1 Stress** (max 1/scen).                                     |
 | 9        | **Skör inre vävnad.** När du tar **trubbig skada eller fallskada**: lägg **+1 tärning** till blodförlustslag; –1 på akuta **Analys**-slag (Medicin) som görs på dig.                         |
 | 10       | **Amputerad hand/underarm.** Kan inte använda **tvåhandsvapen**; **-2** på klättra och närstrid som kräver grepp. Protes/krok möjliggör enkelhandsvapen och minskar avdrag till -1. |
 | 11       | **Allvarlig knä-/benskada (hälta).** **Rörelse halverad**; –2 på **Smidighet** (springa, hoppa, klättra). Protes/ortos höjer till ca **2/3 normal rörelse** och minskar till –1.    |
@@ -156,9 +156,9 @@ När karaktären tar ett Dödligt Sår så blir hen Döende. Slå på tabellen h
 
 | T12-slag | Dödlighet        | Dödstid            |
 | -------- | ---------------- | ------------------ |
-| 1-6      | Död inom timmar  | 1T12+Kraft timmar  |
-| 7-9      | Död inom minuter | 1T12+Kraft minuter |
-| 10-11    | Död inom rundor  | 1T12+Kraft rundor  |
+| 1-6      | Död inom timmar  | 1T12+Fysik timmar  |
+| 7-9      | Död inom minuter | 1T12+Fysik minuter |
+| 10-11    | Död inom rundor  | 1T12+Fysik rundor  |
 | 12       | Död omedelbart   | Omedelbart         |
 
 Se [[Läkning & vård]] för läkningstider, komplikationer och vård
