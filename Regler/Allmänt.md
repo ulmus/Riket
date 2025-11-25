@@ -11,8 +11,10 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 
 ## Egenskaper
 
+En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa representerar karaktärens medfödda förmågor och talanger inom olika områden. Det finns sju grundläggande egenskaper:
+
 - **Strid** – Vapenteknik, våld, taktik.
-- **Kraft** – Råstyrka, tålighet, simning, närkampsskada.
+- **Kraft** – Råstyrka, tålighet, simning, närstridskada.
 - **Smidighet** – Förflyttning, smyga, klättra, finmotorik, pilot/förare.
 - **Sinnen** – Upptäcka faror, spana, söka ledtrådar, "magkänsla".
 - **Analys** – Logik, teknik, kunskap/språk, medicin, krypto, sprängteknik.
@@ -21,13 +23,21 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 
 *Människor: 1–3, supermänniskor: 4+ i en egenskap.*
 
+## Expertis
+
+Som tillägg till Egenskaper finns **Expertis**, en färdighet som representerar träning inom ett visst område eller yrke. Expertis ger +1 på slag där expertisen är relevant. Exempel på expertiser är: Läkare, Soldat, Pilot, Ingenjör, Spion, Förhandlare, Mekaniker, Sprängtekniker, Narkotikaexpert, etc. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser.
+
+Utöver att Expertis ger +1 på relevanta slag så finns det också aktiviteter som kräver Expertis för att kunna utföras. Den som försöker utföra en sådan aktivitet utan relevant Expertis får -3 på slaget. Se [[Expertiser]] för detaljer om varje expertis och deras kopplade förmågor.
+
+Varje karaktär börjar spelet med en Expertis.
+
 ## Sekundära Egenskaper
 
 - **Förflyttning** avgör hur snabbt någon rör sig och är lika med Kraft + Smidighet i meter per bihandling
 - **Slagstyrka** avgör grundskadan för närstridsattacker och är lika med halva Kraft avrundat neråt.
 - **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Närvaro (avrundat neråt)
 - **Stryktålighet** är hur många Sår, Kritiska Sår eller Dödliga Sår du tål innan du slutligen dör. Varje människa tål 1 Sår, 1 Kritiskt Sår och 1 Dödligt Sår. För varje nivå på Kraft så lägger du till ytterligare ett i ordningen Sår, Kritiskt Sår, Dödligt Sår och sedan Sår igen. Se [[Strid och skada#Skador]].
-- **Språk** för varje nivå du har på **Analys** så får du en språknivå. Två språknivåer går åt för att prata ditt modersmål flytande. Om du bara har en språknivå så pratar du ditt eget språk stapplande. Ytterligare språk går att köpa så att du pratar 1 - stapplande, 2 - med brytning och 3 - flytande.
+- **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
 
 ## Vanliga slag
 
@@ -35,10 +45,9 @@ Hur du använder dina egenskaper beskrivs i [[Aktiviteter]].
 
 ## Fokus
 
-Fokus är en personlig resurs som återställs inför varje scen. Används för att:
+Fokus är en personlig resurs som återställs inför varje scen. Fokus används för att:
 
 - Lägga till extra tärningar efter slag (en gång per slag; en tärning per Fokus; fritt antal Fokus; misslyckande ger komplikation).
-- Utföra extra reaktionshandling.
 - Aktivera förmågor.
 
 ### Komplikationer
@@ -52,7 +61,8 @@ Om du använt Fokus för att lägga till tärningar till ett slag och slaget än
 Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fokus kvar, istället ta en eller flera Stress (se Stress nedan).
 
 - Varje Stress du tar ersätter en nivå Fokus
-- Du kan bara använda Stress om det inte leder till ett Sammanbrott
+- Du kan bara använda lika många Stress som din Stabilitet
+- Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrotts-tabellen efter att du utfört handlingen ([[Stress & rädsla#Sammanbrott]])
 
 ### Fokus till Momentum
 
@@ -92,6 +102,6 @@ Se kapitlet för [[Stress & rädsla]]
 
 ## Förmågor
 
-Våra hjältar har flera förmågor, dels sådana som kommer från deras superFysiker och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga Förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap eller Färdighet, eller att karaktären har vissa andra förmågor sedan tidigare.
+Våra hjältar har flera förmågor, dels sådana som kommer från deras superkrafter och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga Förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Färdighet eller att karaktären har vissa andra förmågor sedan tidigare.
 
 Se [[Förmågor]]
