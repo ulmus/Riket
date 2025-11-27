@@ -1,22 +1,31 @@
-## Akutvård
+## Behandling av skador
 
-**Syfte:** Stoppa döende, blödning och chock; skapa förutsättningar för fortsatt vård.
+Att behandla skador handlar om att stoppa blödningar, stabilisera patienten och lindra akuta symptom. Detta kallas **Behandling**.
 
-- **När:** inom minuter efter skadan (samma scen).
-- **Slå för:** **Smidighet + Analys**, svårighet 0 om minst Sår; -1 om minst Kritiskt Sår; -2 om minst Dödligt Sår.
+- **Handling:** Kräver en Huvudhandling i strid, eller några minuters arbete utanför strid.
+- **Färdighet:** Slå för **Smidighet + Analys** (Medicin).
 - **Utrustning:** +1 tärning med första-hjälpen-kit; +2 tärningar med läkarväska.
 
-**Varje framgång kan användas till:**
+### Svårighetsgrad för behandling
 
-- Göra ett dödligt sår ett steg mindre dödligt (Rundor → Minuter → Timmar → Stabilt). Det behåller värdet på T12:an som slogs för dödlighet, men ökar en enhet.
-- Ignorera det allmänna avdraget av en skada (Sår, Kritiskt Sår eller Dödligt Sår)
-- Återfå en Stress som tagits från skada
+Svårigheten (antal framgångar som krävs) beror på skadans allvarlighet:
 
-**Begränsning:** Akutvård per patient **en gång per scen** och inte igen innan personen skadats igen.
+- **Kritiskt Sår:** 1 framgång.
+- **Dödligt Sår:** 2 framgångar (1 framgång för stabilisering, ytterligare 1 för att fullborda behandlingen).
+
+### Effekter av lyckad behandling
+
+En lyckad behandling ger följande effekter omedelbart:
+
+1.  **Häver svårighetsökning:** Den generella effekten av Kritiska Sår (+1 svårighet på alla handlingar) försvinner.
+2.  **Stoppar specifika effekter:** Vissa specifika effekter av Kritiska Sår (t.ex. blödning, andnöd) upphör eller lindras (se tabellen i [[Strid och skada]]).
+3.  **Stabiliserar döende:** Ett Dödligt Sår slutar vara akut livshotande (döds-timern stannar), men är fortfarande ett Dödligt Sår som kräver långvarig läkning.
+
+**Misslyckad behandling:** Du kan inte försöka igen på samma patient i samma scen, om inte förutsättningarna förbättras avsevärt (t.ex. tillgång till läkarväska eller flytt till sjukhus).
 
 ## Läkning
 
-Tiden för naturlig läkning beror på skadans nivå, omständigheter och personens läkekött.
+Tiden för naturlig läkning beror på skadans nivå, omständigheter och personens läkekött. Behandling (enligt ovan) är ofta ett krav för att den naturliga läkningen ska kunna påbörjas effektivt utan komplikationer.
 
 ### Normala läketider
 
@@ -28,8 +37,6 @@ Tiden för naturlig läkning beror på skadans nivå, omständigheter och person
 
 När scenen är över så kan du slå ett läkeslag (endast **Fysik**) med följande modifikationer:
 
-- **Kritiskt sårad** -1
-- **Dödligt sårad** -2
 - **Vila** +2
 - **Fält/hemvård** +2
 - **Sjukhus** +4

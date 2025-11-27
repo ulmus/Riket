@@ -12,7 +12,7 @@ Det här är räckvidderna om du har använt en bihandling för att Sikta. Om du
 ## Egenskaper
 Olika vapen har egenskaper som påverkar hur de kan användas eller vilken effekt de har
 ### Automateld
-Vapen som kan skjuta automateld kan skjuta korta och långa salvor. Den som skjuter en kort salva kan spendera en Fokus för en extra skadetärning. Den som skjuter en lång salva kan spendera ett Fokus per extra mål inom målområdet för att få göra en extra attack mot det målet.
+Vapen som kan skjuta automateld kan skjuta korta och långa salvor. Alla salvor sänker skadetröskel ett steg. Den som skjuter en kort salva kan också spendera en Fokus för ytterligare en extra skadetärning mot ett mål. Den som skjuter en lång salva kan spendera ett Fokus per extra mål inom målområdet för att få göra en extra attack mot det målet.
 ### Grovkalibrigt
 Vapen med grov kaliber bär sin energi längre och har därför inga höjningar av skadetröskel på långt eller extremt håll.
 ### Hagelsvärm

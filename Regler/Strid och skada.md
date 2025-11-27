@@ -43,7 +43,7 @@ När du gör en närstridsattack slår du för Strid + Fysik eller Strid + Smidi
 
 Om en attack träffar ett mål så avgörs skadan genom attackens **skadetröskel**, målets **skydd** samt attackens och målets **skala**.
 
-## 1) Bestäm skadetröskel
+## 1. Bestäm skadetröskel
 
 Skadetröskeln är siffran du ska slå **på varje skadetärning** för att göra ett “steg” av skada.
 
@@ -54,7 +54,7 @@ Skadetröskeln är siffran du ska slå **på varje skadetärning** för att gör
 
 **Slutlig skadetröskel = vapnets bas - slagstyrka (för närstrid) ± effekter + målets skydd.**
 
-## 2) Bestäm antal skadetärningar
+## 2. Bestäm antal skadetärningar
 
 Antalet tärningar beror på skalan på attacken relativt målets storlek. Det handlar inte så mycket om ren kraft kontra skydd utan mer om en attack har möjlighet att nå till känsliga delar av ett mål.
 
@@ -71,9 +71,9 @@ Antalet tärningar beror på skalan på attacken relativt målets storlek. Det h
 
 Vissa egenskaper (t.ex. **Automateld**, **Hagel**) kan också ändra antalet skadetärningar.
 
-## 3) Rulla skadetärningarna
+## 3. Rulla skadetärningarna
 
-Rulla antalet T12 enligt det **slutliga antalet skadetärningar**. Varje tärning som visar **≥ skadetröskeln** ökar skadan **1 steg**.  
+Rulla antalet T12 enligt det **slutliga antalet skadetärningar**. Varje tärning som visar **≥ skadetröskeln** ökar skadan **1 steg**. Skadeslag ger inte Fokus.
 
 Summera stegen:
 
@@ -126,13 +126,13 @@ Se kapitlet [[Läkning & vård]].
 | -------- | ------ | ------------ |
 | 1 | **Hjärnskakning.** Du är yr och illamående. Om du misslyckas med ett slag för **Analys** eller **Sinnen** blir du **Bedövad** (tappar nästa handling). | 1T12 dagar |
 | 2 | **Knäckt revben.** Smärtsamt att andas. Varje gång du utför en **Fysik**- eller **Strid**-handling tar du **1 Stress**. | 1T12 veckor |
-| 3 | **Djupt köttsår.** Kraftig blödning. Slå för blodförlust (**skadetröskel 5+**, 3 tärningar) varje minut tills stoppad. | 1T12 dagar |
+| 3 | **Djupt köttsår.** Kraftig blödning. Slå för blodförlust (**skadetröskel 5+**, 3 tärningar) varje minut tills behandlad. | 1T12 dagar |
 | 4 | **Krossad hand.** Handen är obrukbar. Du tappar omedelbart vad du håller i. | 1T12 veckor |
 | 5 | **Bruten arm.** Armen är obrukbar. Försök att använda den misslyckas automatiskt och ger **1 Stress**. | 1T12 veckor |
 | 6 | **Brutet ben.** Du faller omkull. Du kan inte gå eller springa, endast krypa (en bihandling för 1 meter). | 1T12 veckor |
 | 7 | **Käkskada.** Du kan inte tala begripligt. Svårt att äta/dricka. | 1T12 veckor |
-| 8 | **Inre blödning.** Livshotande. Slå för blodförlust (**skadetröskel 3+**, 3 tärningar) varje runda du anstränger dig, annars varje minut. | 1T12 veckor |
-| 9 | **Punkterad lunga.** Du kippar efter luft. Du kan endast utföra **en bihandling** per runda, ingen huvudhandling, tills skadan är behandlad. | 1T12 veckor |
+| 8 | **Inre blödning.** Livshotande. Slå för blodförlust (**skadetröskel 3+**, 3 tärningar) varje runda du anstränger dig, annars varje minut, tills behandlad. | 1T12 veckor |
+| 9 | **Punkterad lunga.** Du kippar efter luft. Du kan endast utföra **en bihandling** per runda, ingen huvudhandling, tills behandlad. | 1T12 veckor |
 | 10 | **Skallskada.** Du blir medvetslös. Slå **Fysik** varje runda för att vakna, annars vaknar du efter 1T12 timmar (om du överlever). | 1T12 veckor |
 | 11 | **Ryggradsskada.** Du tappar känseln i benen och faller ihop. Du är förlamad från midjan och nedåt. | 1T12 månader |
 | 12 | **Permanent skada.** Slå på tabellen för **Permanent skada**. | 1T12 veckor* |
