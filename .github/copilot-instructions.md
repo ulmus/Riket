@@ -21,7 +21,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Dice Pool:** Attribute + Attribute +/- Modifiers.
 - **Success:** Any die showing **10+** is a success.
 - **Focus (Fokus):** Any die showing **12** generates 1 Focus point.
-- **Attributes:** Strid, Fysik, Smidighet, Sinnen, Analys, List, Närvaro.
+- **Attributes:** Strid, Fysik, Smidighet, Sinnen, Analys, List, Samspel, Vilja.
 - **Expertise (Expertis):** Adds +1 to the roll and unlocks specific abilities.
 - **Secondary Stats:**
   - *Stabilitet* = 1 + (Närvaro / 2).

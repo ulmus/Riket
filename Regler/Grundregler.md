@@ -11,7 +11,7 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 
 ## Egenskaper
 
-En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa representerar karaktärens medfödda förmågor och talanger inom olika områden. Det finns sju grundläggande egenskaper:
+En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa representerar karaktärens medfödda förmågor och talanger inom olika områden. Det finns åtta grundläggande egenskaper:
 
 - **Strid** – Vapenteknik, våld, taktik.
 - **Fysik** – Råstyrka, tålighet, simning, närstridskada.
@@ -19,9 +19,10 @@ En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa represen
 - **Sinnen** – Upptäcka faror, spana, söka ledtrådar, "magkänsla".
 - **Analys** – Logik, teknik, kunskap/språk, medicin, krypto, sprängteknik.
 - **List** – Lögner, förklädnad, improvisation, undre världen.
-- **Närvaro** – Social påverkan, ledarskap, charm, psyke/vilja.
+- **Samspel** – Social påverkan, ledarskap, charm.
+- **Vilja** – Mod, stresstålighet, övertygelse. 
 
-Varje karaktär börjar med 15 poäng att fördela med minst 1 och högst 3 på en egenskap samt en egenskap som de får sätta 4 på.
+Varje karaktär börjar med 17 poäng att fördela med minst 1 och högst 3 på en egenskap samt en egenskap som de får sätta 4 på.
 
 ## Expertis
 
