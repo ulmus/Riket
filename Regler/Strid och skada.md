@@ -13,11 +13,10 @@ På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, is
 
 ## Bihandlingar
 
-- Sikta: +1 på avståndsattack
+- Sikta: +1
 - Ställa sig upp
 - Dra ett vapen
 - Röra sig Fysik + Smidighet meter
-- Rallarsving: sänk skadetröskel ett steg, men -1 på träffa i närstrid
 
 ## Reaktionshandlingar
 
@@ -30,10 +29,15 @@ Om du gör en avståndsattack slår du i allmänhet för Strid + Smidighet med m
 
 - Minst en bihandling lagd på att sikta +1
 - Stabil position +1 (+2 om liggande)
-- Skymning -1 (Mörker -2)
-- Målet skymt -1 (bakom skytteglugg -2)
-- Litet mål -1
-- Stort mål +1
+
+Svårigheten, det vill säga antalet framgångar som krävs för att träffa, bestäms av avståndet till målet och eventuella hinder eller omständigheter.
+
+- Över vapnets räckvidd: +1 svårighet per steg över räckvidden
+- Målet i skydd eller snabb rörelse: +1
+- Mörker eller dålig sikt: +1
+
+# Närstridsattacker
+När du gör en närstridsattack slår du för Strid + Fysik eller Strid + Smidighet (beroende på vapen och förmågor) med modifikationer.
 
 # Skador
 
@@ -90,7 +94,7 @@ När du tar **Sår/Kritiskt/Dödligt**:
 
 - Ta omedelbart **+1 Stress**.
 - **Markera** skadan på rätt rad i rollformuläret.
-- Du har alltid -1 på alla handlingar för varje Sår, Kritiskt Sår eller Dödligt Sår du har som är obehandlat.
+- Ett kritiskt eller dödligt sår påverkar dina handlingar (se nedan).
 - Om raden är **full**: uppgradera **ett steg** (Sår → Kritiskt → Dödligt).
 - Om du skulle markera **Dödligt** och den raden redan är full: **du dör omedelbart**.
 - Vid **Kritiskt** eller **Dödligt**: slå på tabellen för **Kritiska Sår**.
@@ -129,7 +133,22 @@ Se kapitlet [[Läkning & vård]].
 | 9        | **Inre blödning.** Varje gång du rör dig eller utför en **Huvudhandling**, samt **en gång per minut** tills behandlad, slå för blodförlust (**skadetröskel 3+**, inget pansar, **tre tärningar**). Kräver **Analys + Analys** för att stabilisera. | 1T12 dagar   |
 | 10       | **Bruten arm.** Alla handlingar som använder armen har **+2 i svårighetsgrad**.                                                                                                                                                                                  | 1T12 veckor  |
 | 11       | **Brutet ben.** Rörelse är **max 1 meter per Bihandling**. Alla handlingar som använder benet har **+2 i svårighetsgrad**.                                                                                                                                       | 1T12 veckor  |
-| 12       | **Permanent skada.** Slå på tabellen för **Permanent skada**.                                                                                                                                                                                                    | 1T12 veckor* |
+**OBS:** Ett kritiskt sår innebär alltid att **alla handlingar blir en nivå svårare (+1 svårighet)** tills såret är behandlat. Detta gäller utöver effekterna i tabellen.
+
+| T12-slag | Effekt | Grund-läktid |
+| -------- | ------ | ------------ |
+| 1 | **Hjärnskakning.** Du är yr och illamående. Om du misslyckas med ett slag för **Analys** eller **Sinnen** blir du **Bedövad** (tappar nästa handling). | 1T12 dagar |
+| 2 | **Knäckt revben.** Smärtsamt att andas. Varje gång du utför en **Fysik**- eller **Strid**-handling tar du **1 Stress**. | 1T12 veckor |
+| 3 | **Djupt köttsår.** Kraftig blödning. Slå för blodförlust (**skadetröskel 5+**, 3 tärningar) varje minut tills stoppad. | 1T12 dagar |
+| 4 | **Krossad hand.** Handen är obrukbar. Du tappar omedelbart vad du håller i. | 1T12 veckor |
+| 5 | **Bruten arm.** Armen är obrukbar. Försök att använda den misslyckas automatiskt och ger **1 Stress**. | 1T12 veckor |
+| 6 | **Brutet ben.** Du faller omkull. Du kan inte gå eller springa, endast krypa (en bihandling för 1 meter). | 1T12 veckor |
+| 7 | **Käkskada.** Du kan inte tala begripligt. Svårt att äta/dricka. | 1T12 veckor |
+| 8 | **Inre blödning.** Livshotande. Slå för blodförlust (**skadetröskel 3+**, 3 tärningar) varje runda du anstränger dig, annars varje minut. | 1T12 veckor |
+| 9 | **Punkterad lunga.** Du kippar efter luft. Du kan endast utföra **en bihandling** per runda, ingen huvudhandling, tills skadan är behandlad. | 1T12 veckor |
+| 10 | **Skallskada.** Du blir medvetslös. Slå **Fysik** varje runda för att vakna, annars vaknar du efter 1T12 timmar (om du överlever). | 1T12 veckor |
+| 11 | **Ryggradsskada.** Du tappar känseln i benen och faller ihop. Du är förlamad från midjan och nedåt. | 1T12 månader |
+| 12 | **Permanent skada.** Slå på tabellen för **Permanent skada**. | 1T12 veckor* |
 
 ### Tabell för permanent skada
 

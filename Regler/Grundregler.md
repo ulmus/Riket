@@ -8,6 +8,7 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 - Varje slag på **10+** är en framgång.
 - Varje slag på **12** ger dessutom 1 **Fokus**.
 - Minst en framgång krävs för att lyckas.
+- Svårare handlingar kräver fler framgångar.
 
 ## Egenskaper
 
