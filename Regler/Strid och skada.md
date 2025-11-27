@@ -137,7 +137,7 @@ För de skador som kan rehabiliteras så gäller att det tar 1T12 veckor.
 
 | T12-slag | Effekt                                                                                                                                                                              |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1        | **Synligt ansiktsärr.** –1 på **Närvaro** när du förlitar dig på charm/förtroende; **+1 när du skrämmer**.                                                                          |
+| 1        | **Synligt ansiktsärr.** –1 på **Samspel** när du förlitar dig på charm/förtroende; **+1 när du skrämmer**.                                                                          |
 | 2        | **Ensidig hörselnedsättning.** –2 på **Sinnen** (hörsel); du får inte bonus för att lokalisera ljudkällor. Hörapparat minskar till –1.                                    |
 | 3        | **Synnedsättning (fält/djup).** –2 på **Sinnen** (syn); –1 på **avståndsattacker**. Glasögon/optik minskar –1.                                                            |
 | 4        | **Kronisk smärta (rygg/nacke).** När du springer, klättrar eller bär tungt: **-1**; vid sådan ansträngning markera **1 Stress** (max 1/scen).                                       |

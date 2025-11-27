@@ -31,8 +31,8 @@ Om du tar minst ett Sår av eldskada så är du Brinnande och får en attack med
 | 1–3 | **Ytliga brännskador.** Sveda, blåsor. Du får −1 på alla handlingar som kräver finmotorik tills du får vila i minst ett dygn.                      |
 | 4–5 | **Andningspåverkan.** Du hostar och kippar efter andan; ta 1 Stress och du har −1 på fysiska slag tills du får frisk luft.                         |
 | 6–7 | **Större hudskada.** Ett större hudområde har bränts. Läketiden för detta sår fördubblas.                                                          |
-| 8–9 | **Chock.** Nervsystemet överbelastas av smärtan. Du tar omedelbart ytterligare 1 Stress och riskerar att svimma (**Fysik + Närvaro**).               |
-| 10  | **Permanent ärr.** Brännskadan ger bestående ärr. Välj ett socialt eller kroppsligt minus (−1 på Närvaro eller Smidighet, SL avgör).                 |
+| 8–9 | **Chock.** Nervsystemet överbelastas av smärtan. Du tar omedelbart ytterligare 1 Stress och riskerar att svimma (**Fysik + Vilja**).               |
+| 10  | **Permanent ärr.** Brännskadan ger bestående ärr. Välj ett socialt eller kroppsligt minus (−1 på Samspel eller Smidighet, SL avgör).                 |
 | 11  | **Djupa brännskador.** Muskler och senor är skadade. Du tar ett extra Sår och förlorar funktionen i den drabbade kroppsdelen tills avancerad vård. |
 | 12  | **Livshotande brandskada.** Skadan påverkar vitala organ eller stora hudytor. Detta Kritiskt Sår uppgraderas direkt till ett Dödliga Sår.          |
 
@@ -82,7 +82,7 @@ Dödliga gifter gör skada som vanliga attacker. Sövande gifter har istället n
 | 1–3 | **Illamående.** Du kräks och får −1 på handlingar som kräver koncentration tills du vilat minst en timme.                         |
 | 4–5 | **Yrsel.** Synen grumlas och balansen sviktar; −1 på Fysik och Smidighet-slag tills giftet lämnat kroppen.                          |
 | 6–7 | **Kramper.** Nervsystemet reagerar våldsamt. Du tar omedelbart 1 Stress och tappar nästa handling.                                |
-| 8–9 | **Medvetandepåverkan.** Du riskerar att svimma (Närvaro-slag, svår 0). Vid misslyckande blir du medvetslös i 1T6 minuter.           |
+| 8–9 | **Medvetandepåverkan.** Du riskerar att svimma (Vilja-slag, svår 0). Vid misslyckande blir du medvetslös i 1T6 minuter.           |
 | 10  | **Organstress.** Giftet angriper inre organ. Läketiden för detta sår fördubblas och du tar −1 på alla läkeslag tills du får vård. |
 | 11  | **Svår systempåverkan.** Du tar ett extra Sår och riskerar bestående men (SL kan slå på tabellen för permanenta skador).          |
 | 12  | **Akut förgiftning.** Detta Kritiskt Sår uppgraderas omedelbart till ett Dödliga Sår.                                             |

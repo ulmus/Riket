@@ -36,7 +36,7 @@ Varje karaktär börjar spelet med en Expertis.
 
 - **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling
 - **Slagstyrka** avgör grundskadan för närstridsattacker och är lika med halva Fysik avrundat neråt.
-- **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Närvaro (avrundat neråt)
+- **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Vilja (avrundat neråt)
 - **Stryktålighet** är hur många Sår, Kritiska Sår eller Dödliga Sår du tål innan du slutligen dör. Varje människa tål 1 Sår, 1 Kritiskt Sår och 1 Dödligt Sår. För varje nivå på Fysik så lägger du till ytterligare ett i ordningen Sår, Kritiskt Sår, Dödligt Sår och sedan Sår igen. Se [[Strid och skada#Skador]].
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
 

@@ -112,10 +112,10 @@ Din täckande eld gör det också svårt att attackera
 
 ## Terapeut
 
-*Krav:* Närvaro 2
+*Krav:* Samspel 2
 
-- +1 på Närvaro i terapeutiska sammanhang
-- Du kan ha ett terapeutiskt samtal med en person. Slå List + Närvaro och minska personens stress med antalet framgångar.
+- +1 på Samspel i terapeutiska sammanhang
+- Du kan ha ett terapeutiskt samtal med en person. Slå List + Samspel och minska personens stress med antalet framgångar.
 
 # Expertisförmågor
 
@@ -191,7 +191,7 @@ Spendera 1 Fokus: första kontrollen mot dokumentet får −1 i svårighet.
 ### Patinerat verk
 
 *Krav:* Expertis: Förfalskare  
-Vid lyckad förfalskning kan du med 1 framgång ge +1 på nästa relevanta Närvaro-slag som använder dokumentet.
+Vid lyckad förfalskning kan du med 1 framgång ge +1 på nästa relevanta Samspel-slag som använder dokumentet.
 
 ## Låssmed
 

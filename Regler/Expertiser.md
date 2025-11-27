@@ -22,8 +22,8 @@ Varje expertis ger +1 på relevanta aktiviteter och öppnar upp specialförmågo
 
 ## Telegrafist
 
-- **Bonus på aktiviteter:** Sinnen + Närvaro eller Sinnen + Analys när du lyssnar i brus/störningar (morse, signalspaning).
-- **Kräver expertisen:** Läsa morse i brus (Sinnen + Närvaro/Analys), avlyssna trafiksplits under tidspress.
+- **Bonus på aktiviteter:** Sinnen + Vilja eller Sinnen + Analys när du lyssnar i brus/störningar (morse, signalspaning).
+- **Kräver expertisen:** Läsa morse i brus (Sinnen + Vilja/Analys), avlyssna trafiksplits under tidspress.
 - **Förmågor som kräver expertisen:** [[Förmågor#Rensat-brus]], [[Förmågor#Signalmetadata]].
 
 ## Kryptograf
@@ -64,20 +64,20 @@ Varje expertis ger +1 på relevanta aktiviteter och öppnar upp specialförmågo
 
 ## Maskör
 
-- **Bonus på aktiviteter:** List + Närvaro för förklädnad, cover story och kroppsspråk i infiltration.
-- **Kräver expertisen:** Förklädnad & uppträdande vid skarpa kontroller (List + Närvaro).
+- **Bonus på aktiviteter:** List + Samspel för förklädnad, cover story och kroppsspråk i infiltration.
+- **Kräver expertisen:** Förklädnad & uppträdande vid skarpa kontroller (List + Samspel).
 - **Förmågor som kräver expertisen:** [[Förmågor#Förberett-teamstöd]], [[Förmågor#Djupare-cover]].
 
 ## Förhörsledare
 
-- **Bonus på aktiviteter:** List + Närvaro vid taktiska förhör (rapportbyggande, frågeteknik).
-- **Kräver expertisen:** Förhöra taktiskt (List + Närvaro) i känsliga eller farliga situationer.
+- **Bonus på aktiviteter:** List + Samspel vid taktiska förhör (rapportbyggande, frågeteknik).
+- **Kräver expertisen:** Förhöra taktiskt (List + Samspel) i känsliga eller farliga situationer.
 - **Förmågor som kräver expertisen:** [[Förmågor#Styrt-tempo]], [[Förmågor#Dubbel-verifiering]].
 
 ## Officer
 
-- **Bonus på aktiviteter:** Strid + Närvaro när du leder i pågående strid (ordrar, elddisciplin).
-- **Kräver expertisen:** Leda under press (Närvaro + Strid) i samordnad strid eller reträtt.
+- **Bonus på aktiviteter:** Strid + Samspel när du leder i pågående strid (ordrar, elddisciplin).
+- **Kräver expertisen:** Leda under press (Samspel + Strid) i samordnad strid eller reträtt.
 - **Förmågor som kräver expertisen:** [[Förmågor#Elddisciplin]], [[Förmågor#Initieringsorder]].
 
 ## Chaufför

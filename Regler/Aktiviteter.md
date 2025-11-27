@@ -22,7 +22,7 @@ Våra hjältar försöker dyrka upp en sidodörr till en fabrik i Dresden.
 
 - **Huvudaktören** slår för **Smidighet + Analys** för att dyrka låset.
 - **Biaktör A** kan hjälpa genom att hålla utkik (**Smidighet + Sinnen**).
-- **Biaktör B** kan hjälpa genom att småprata med förbipasserande för att dra bort uppmärksamhet (**List + Närvaro**).
+- **Biaktör B** kan hjälpa genom att småprata med förbipasserande för att dra bort uppmärksamhet (**List + Samspel**).
 - Biaktörerna slår först. Varje framgång ger +1 tärning till huvudaktören. Huvudaktören rullar sedan ett slag: lyckas → dörren öppnas diskret; misslyckas → låset sitter fast eller ett misstänkt ljud väcker uppmärksamhet.
 
 ### Samarbeta
@@ -49,9 +49,9 @@ Om den ena parten får fler framgångar än den andra så räknas det som ett ly
 
 Våra hjältar blir stoppade vid en sovjetisk vägspärr utanför Minsk.
 
-- **Hjältarnas huvudaktör** slår för **List + Närvaro** för att övertyga sergeanten att de är kurirer.
+- **Hjältarnas huvudaktör** slår för **List + Samspel** för att övertyga sergeanten att de är kurirer.
 - **Hjältarnas biaktör** kan hjälpa genom att vifta med “korrekta papper”, **Analys + List**.
-- **Motståndets huvudaktör** (sergeanten) slår för **Sinnen + Närvaro** för att genomskåda lögnen.
+- **Motståndets huvudaktör** (sergeanten) slår för **Sinnen + Samspel** för att genomskåda lögnen.
 - **Motståndets biaktör** (en vakt) kan hjälpa genom att undersöka fordonet, **Smidighet + Sinnen**.
 - Alla biaktörer slår först och ger sina bonusar. Därefter slår båda huvudaktörerna. Den sida med flest framgångar vinner: hjältarna får passera, eller stoppas för vidare kontroll. Vid lika → spelledaren avgör (t.ex. tvekan, fördröjning, eller krav på extra bevis).
 
@@ -68,7 +68,7 @@ Ofta sker långa aktiviteter under tidspress. Ett visst antal framgångar ska sa
 Våra hjältar ska förhöra en avhoppad KGB-officer på ett kafé i Warszawa. Men de vet att polisen när som helst kan dyka upp.
 
 - SL bestämmer att scenen kräver **10 framgångar**, men varje runda som går ökar risknivån.
-- Huvudaktören slår för **List + Närvaro** för att vinna officerens förtroende. Biaktörer kan hjälpa genom att spana efter spanare (**Smidighet + Sinnen**) eller lugna kaféets ägare (**List + Närvaro**).
+- Huvudaktören slår för **List + Samspel** för att vinna officerens förtroende. Biaktörer kan hjälpa genom att spana efter spanare (**Smidighet + Sinnen**) eller lugna kaféets ägare (**List + Samspel**).
 - Efter varje runda gör SL ett **”tidsslag”** för hotnivån. Ju fler rundor som går, desto värre blir konsekvenserna:
   - Runda 2: En misstänksam servitris börjar lyssna.
   - Runda 4: Två civilklädda poliser kommer in och sätter sig.
@@ -85,7 +85,7 @@ En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett 
 Våra hjältar jagar en kurir genom Leningrads hamn samtidigt som de försöker undvika att bli upptäckta.
 
 - **Hjältarnas huvudaktör** slår för **Fysik + Smidighet**.
-- **Biaktörer** kan hjälpa genom att spana (**Smidighet + Sinnen**) eller distrahera (**Smidighet + Närvaro**).
+- **Biaktörer** kan hjälpa genom att spana (**Smidighet + Sinnen**) eller distrahera (**Smidighet + Samspel**).
 - **Motståndets huvudaktör** (kuriren) slår för **Fysik + Smidighet**.
 - **Motståndets biaktörer** (St Petersburgs polis) kan hjälpa på olika sätt, t.ex. genom att blockera vägar eller varna kuriren.
 - Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Fysik + Smidighet** för att ta sig fram i de trånga utrymmena.
@@ -104,7 +104,7 @@ Diskreta informationsinsatser: följa mål, kartlägga vanor, hitta ledtrådar o
 | Skugga en person      | Hålla diskret avstånd i stadstrafik eller fot     | Smidighet + Sinnen  |
 | Motspaning            | Upptäcka spanare, bryta mönster, “rensa svansen”  | Sinnen + List       |
 | Undersöka brottsplats | Systematisk genomsökning; gör anteckningar, foton | Sinnen + Analys     |
-| Spana från gömsle     | Långvarig observation med kikare/kamera           | Sinnen + Närvaro    |
+| Spana från gömsle     | Långvarig observation med kikare/kamera           | Sinnen + Samspel    |
 | Genomsöka rum         | Snabb men metodisk “svepning” efter gömda ting    | Sinnen + Analys     |
 | Läsa läppar           | Avståndsobservation av samtal                     | Sinnen + Analys     |
 | Foto-dokumentation    | Ta användbara, skarpa bevisbilder                 | Smidighet + Sinnen  |
@@ -120,7 +120,7 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 | Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Smidighet + Analys      |
 | Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Sinnen + Analys         |
 | Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Smidighet + Analys      |
-| Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Närvaro          |
+| Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel          |
 | Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Smidighet + Analys      |
 | Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Smidighet       |
 | Plantera bugg            | Diskret placering/dragning av kabel         | Smidighet + Analys      |
@@ -131,13 +131,13 @@ Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – 
 
 | Aktivitet                    | Beskrivning/kommentar                         | Egenskap + Egenskap   |
 | ---------------------------- | --------------------------------------------- | --------------------- |
-| Förhöra taktiskt             | Bygga förtroende, styra samtalet, mikropauser | List + Närvaro        |
-| Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | List + Närvaro        |
-| Skaka motparten              | Kall blick, tystnad, psykologisk press        | Närvaro + Närvaro     |
-| Få folk att prata            | Småprat, social ingång, “openers”             | List + Närvaro        |
-| Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Sinnen + Närvaro      |
-| Leda under press             | Korta order, moral, förtroende                | Närvaro + Närvaro     |
-| Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Närvaro        |
+| Förhöra taktiskt             | Bygga förtroende, styra samtalet, mikropauser | List + Samspel        |
+| Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | List + Samspel        |
+| Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Samspel     |
+| Få folk att prata            | Småprat, social ingång, “openers”             | List + Samspel        |
+| Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Sinnen + Samspel      |
+| Leda under press             | Korta order, moral, förtroende                | Samspel + Samspel     |
+| Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Samspel        |
 
 ## Fordon & jakter
 
@@ -164,9 +164,9 @@ När det smäller: eldstrid, närstrid, elddisciplin och rörelse under eld. Val
 | Fäktning/snabbstick    | Snabbt fotarbete, parader        | Smidighet + Strid    |
 | Kastad granat          | Hålla båge/avstånd rätt          | Smidighet + Strid    |
 | Förflyttning under eld | Språngmarsch mellan skydd        | Smidighet + Smidighet|
-| Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Närvaro + Strid      |
+| Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Samspel + Strid      |
 | Skarpskytte            | Långt håll, kontroll, andning    | Smidighet + Strid    |
-| Leda i strid           | Ge order, inspirera              | Närvaro + Strid      |
+| Leda i strid           | Ge order, inspirera              | Samspel + Strid      |
 
 ## Teknik & sabotage
 
