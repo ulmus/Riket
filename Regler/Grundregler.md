@@ -1,6 +1,8 @@
 **I Rikets Tjänst** är ett taktiskt, klasslöst superhjälte-rollspel som utspelar sig under kalla kriget, där individer med superkrafter verkar i historiens skuggor. Karaktärerna är hemliga agenter – soldater, forskare, sabotörer eller ledare – men alla en del av det svenska supermänniska-projektet Program Frigg.
 
-## Grundmekanik: Egenskap + Egenskap
+Mer om Projekt Frigg och världen i I Rikets Tjänst finns i [[Bakgrund]].
+
+## Grundmekanik: Egenskap + Egenskap T12or
 
 Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma egenskap två gånger):
 
@@ -68,7 +70,7 @@ Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fo
 
 ### Fokus till Momentum
 
-Varje ny scen återställs personligt Fokus till **Momentum**. Startar på 1 per spelmöte och ändras utifrån berättelsen.
+Varje ny scen återställs personligt Fokus till **Momentum**. Momentum representerar hur snabbt storyn rör sig just nu och är samma för alla karaktärer. Det startar på 1 per spelmöte och ändras utifrån berättelsen.
 
 - 1 - Storyn rör sig långsamt
 - 3 - Storyn utvecklas snabbt
