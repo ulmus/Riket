@@ -120,19 +120,6 @@ Se kapitlet [[Läkning & vård]].
 
 ### Tabell för Kritiska Sår
 
-| T12-slag | Effekt                                                                                                                                                                                                                                                           | Grund-läktid |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 1        | **Du ramlar omkull** och måste använda en bihandling för att resa dig nästa runda.                                                                                                                                                                               | Ingen        |
-| 2        | **Andan ur dig.** Du tappar din nästa runda.                                                                                                                                                                                                                     | 1T12 minuter |
-| 3        | **Blod i ögonen.** **–1 på synbaserad Observation** och **–1 på avståndsattacker** tills du lägger **en Bihandling** för att torka/skölja eller blir behandlad.                                                                                                  | Ingen        |
-| 4        | **Skrubbsår på händer.** **–1 på handlingar som kräver greppstyrka**  till exempel hantverk tills bandagerad (**Smidighet + Analys**).                                                                                                               | 1T12 timmar  |
-| 5        | **Stukad handled/axel.** **-1** för attacker med **tvåhandsvapen, klättra, lyfta**; Lindning (**Smidighet + Analys**) tar bort effekten.                                                                                                             | 1T12 dagar   |
-| 6        | **Öppet sår.** När du gör en **Huvudhandling** → **markera 1 Stress**. Lindras med bandage (**Smidighet + Analys**)                                                                                                   | 1T12 dagar   |
-| 7        | **Stukad fot.** Halverad rörelse tills behandlad. Kräver ett slag för **Smidighet + Analys** för att lindra.                                                                                                                                         | 1T12 dagar   |
-| 8        | **Utslagen.** Du är medvetslös. Kräver ett slag för **Smidighet + Analys** för att väcka.                                                                                                                                                            | 1T12 minuter |
-| 9        | **Inre blödning.** Varje gång du rör dig eller utför en **Huvudhandling**, samt **en gång per minut** tills behandlad, slå för blodförlust (**skadetröskel 3+**, inget pansar, **tre tärningar**). Kräver **Analys + Analys** för att stabilisera. | 1T12 dagar   |
-| 10       | **Bruten arm.** Alla handlingar som använder armen har **+2 i svårighetsgrad**.                                                                                                                                                                                  | 1T12 veckor  |
-| 11       | **Brutet ben.** Rörelse är **max 1 meter per Bihandling**. Alla handlingar som använder benet har **+2 i svårighetsgrad**.                                                                                                                                       | 1T12 veckor  |
 **OBS:** Ett kritiskt sår innebär alltid att **alla handlingar blir en nivå svårare (+1 svårighet)** tills såret är behandlat. Detta gäller utöver effekterna i tabellen.
 
 | T12-slag | Effekt | Grund-läktid |
