@@ -1,5 +1,3 @@
-## Historik: Från Asmegir till Program Frigg
-
 Den 30 april 1945, i krigets slutskede, avslutade Adolf Hitler sitt liv i Berlin. Samtidigt befann sig en grupp forskare på flykt genom det sönderfallande Tredje riket. I sin ägo hade de dokumentationen från **Projekt Nigredo**, ett experimentellt program som bedrivits i Auschwitz under ledning av doktor Josef Mengele.
 
 Projektets teoretiska grund hade utformats av lägerfången och psykologen Erich Neumann, en lärjunge till Carl Gustav Jung. Hypotesen var att extrem fysisk och psykisk stress kunde tvinga det mänskliga psyket att manifestera sitt "jungianska skuggkomplex" i fysisk form. Experimenten, som utfördes under brutala former, bekräftade till viss del teorin. De fångar som överlevde processen utvecklade avvikelser och förmågor som trotsade dåtidens vetenskap – från energiprojektion till manipulering av materia – men till priset av att deras psyken totalförstördes.

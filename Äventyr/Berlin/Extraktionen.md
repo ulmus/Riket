@@ -1,4 +1,4 @@
-Plats: Östberlin, 1961  
+Plats: Östberlin, 1961
 ## Bakgrund
 
 Efter andra världskriget flydde den ökände nazistläkaren **Hans Richter** undan rättvisan och började arbeta för Östtysklands hemliga superprogram, **Projekt Nebelkrone**. I hemlighet tog han med sig en överlevande från sina experiment — **Elias Lewinsky**, ett judiskt barn han förvandlade till en monstruös supersoldat kallad **Golem**.
@@ -7,9 +7,10 @@ En annan vetenskapsman från samma nazistiska projekt, **Lars Hedström**, hoppa
 
 ## Spelarkaraktärer
 - **Radar** – tekniker med intern radar och förmåga att störa elektronik och nervsystem.
-- **Tjuren från Skövde** – fysisk kraftpaket som inte kan stoppas när han väl rör sig.
+- **Tjuren** – fysisk kraftpaket som inte kan stoppas när han väl rör sig.
 - **Silke** – social manipulatör med feromoner som påverkar känslor och beteenden.
-
+- **Prisma** - kontrollerar ljus och kan bända det för förvirring och distraktion
+- **Stigmata** - läker andras sår, ibland på bekostnad av sin egen hälsa
 ## Upplägg
 
 ### Akt I – Mottagningen
