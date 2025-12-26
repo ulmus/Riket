@@ -11,24 +11,42 @@ Kritiska träffar kan orsaka:
 - Döende (med varierande överlevnadsintervall)
 - Permanenta skador
 
+## Behandling av kritiska träffar
+
+Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att upphöra. Det finns tre vårdtyper:
+
+| Vårdtyp | Slag | Används för |
+|---------|------|-------------|
+| **Medicin** | Analys + Sinnen | Blödning, stabilisering, gift, yrsel, feber |
+| **Kirurgi** | Analys + Smidighet | Brutna ben, djupa sår, inbäddade kulor, organskador |
+| **Psykologi** | Analys + Samspel | Stress, hallucinationer, chock |
+
+**Svårighet:** Grundsvårighet är 0 om inget annat anges. Effekter kan ange högre svårighet, t.ex. "(Kirurgi, +1 svårighet)".
+
+**Speciella krav:**
+- **"Kräver sjukhusvård"** – Kan inte behandlas i fält.
+- **"Kräver motgift"** – Medicin räcker inte, specifik motgift krävs.
+- **"Måste opereras ut"** – Kräver Kirurgi för att avlägsna.
+- **"Kräver hjärt-lungräddning"** – Kräver HLR (Medicin, +1 svårighet).
+
 ---
 
 ## Kross
 
-Trubbiga slag, fall, explosiva tryckvågor.
+Trubbiga slag, fall, explosiva tryckvågor. *Behandlas med Kirurgi (brutna ben) eller Medicin (övriga).*
 
 | T12 | Effekt |
 |-----|--------|
 | 1 | **Blåmärke.** Smärtsamt men ofarligt. Ta **+1 Stress**. |
-| 2 | **Vindpinad.** Du tappar andan. Förlorar din nästa bihandling. |
+| 2 | **Andan slagen ur dig.** Du tappar andan. Förlorar din nästa bihandling. |
 | 3 | **Stukat finger.** **+1 svårighet** på finmotorik tills behandlad. |
 | 4 | **Örfil.** Du är desorienterad. **+1 svårighet** på Sinnen-slag under 1T12 rundor. |
 | 5 | **Slagen till marken.** Du faller omkull och tappar vad du håller i. Ta **+1 Stress**. |
 | 6 | **Knäckt revben.** Smärtsamt att andas. **+1 Stress** varje gång du utför en Fysik- eller Strid-handling tills behandlad. |
-| 7 | **Krossad hand.** Handen är obrukbar tills behandlad. Du tappar omedelbart vad du håller i. **Läketid:** 1T12 veckor. |
+| 7 | **Krossad hand.** Handen är obrukbar tills behandlad (Kirurgi). Du tappar omedelbart vad du håller i. **Läketid:** 1T12 veckor. |
 | 8 | **Hjärnskakning.** Du är yr. Om du misslyckas med Analys- eller Sinnen-slag tappar du din nästa handling. |
-| 9 | **Brutet ben.** Du faller omkull. Du kan inte gå eller springa, endast krypa (bihandling för 1 meter). **Läketid:** 1T12 veckor. |
-| 10 | **Bruten arm.** Armen är obrukbar. Försök att använda den misslyckas automatiskt. **Läketid:** 1T12 veckor. |
+| 9 | **Brutet ben.** Du faller omkull. Du kan inte gå eller springa, endast krypa (bihandling för 1 meter). Behandlas med Kirurgi. **Läketid:** 1T12 veckor. |
+| 10 | **Bruten arm.** Armen är obrukbar. Försök att använda den misslyckas automatiskt. Behandlas med Kirurgi. **Läketid:** 1T12 veckor. |
 | 11 | **Skalltrauma.** Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. **Döende:** Överlevnadsslag per timme. **Permanent:** –1 på Analys-slag under tidspress. |
 | 12 | **Krossad skalle.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Analys och Sinnen. |
 
@@ -36,7 +54,7 @@ Trubbiga slag, fall, explosiva tryckvågor.
 
 ## Stick
 
-Knivar, spjut, pilar – vapen som penetrerar djupt.
+Knivar, spjut, pilar – vapen som penetrerar djupt. *Behandlas med Medicin (blödning) eller Kirurgi (djupa sår, +1 svårighet för organskador).*
 
 | T12 | Effekt |
 |-----|--------|
@@ -46,18 +64,18 @@ Knivar, spjut, pilar – vapen som penetrerar djupt.
 | 4 | **Nervträff.** Du tappar vad du håller i. **+1 svårighet** på att använda handen under 1T12 minuter. |
 | 5 | **Djupt sticksår.** **Kraftig blödning (1 nivå)** tills behandlad. Ta **+1 Stress**. |
 | 6 | **Genomstungen hand/fot.** Kroppsdelen är obrukbar tills behandlad. **Lätt blödning (1 nivå)**. |
-| 7 | **Stucken i magen.** **Kraftig blödning (1 nivå)**. **+2 svårighet** på Fysik-slag. **Döende:** Överlevnadsslag per timme om obehandlad. |
-| 8 | **Genomstungen lunga.** Du kippar efter luft. Endast en bihandling per runda tills behandlad. **Kraftig blödning (1 nivå)**. |
+| 7 | **Stucken i magen.** **Kraftig blödning (1 nivå)**. **+2 svårighet** på Fysik-slag. **Döende:** Överlevnadsslag per timme om obehandlad. Behandlas med Kirurgi (+1 svårighet). |
+| 8 | **Genomstungen lunga.** Du kippar efter luft. Endast en bihandling per runda tills behandlad (Kirurgi, +1 svårighet). **Kraftig blödning (1 nivå)**. |
 | 9 | **Njurträff.** Extremt smärtsamt. Ta **+2 Stress**. **Kraftig blödning (2 nivåer)**. **Döende:** Överlevnadsslag per minut. |
 | 10 | **Artärblödning.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda tills blödningen stoppas. |
 | 11 | **Genomstucket hjärta.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Fysik. |
-| 12 | **Dödligt sticksår.** Du dör inom 1T12 rundor om du inte stabiliseras. Om du överlever: **Permanent** –2 på Fysik. |
+| 12 | **Dödligt sticksår.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik. |
 
 ---
 
 ## Hugg
 
-Svärd, yxor, machetes – skärande vapen med kraft bakom.
+Svärd, yxor, machetes – skärande vapen med kraft bakom. *Behandlas med Medicin (blödning) eller Kirurgi (djupa sår, amputationer).*
 
 | T12 | Effekt |
 |-----|--------|
@@ -78,7 +96,7 @@ Svärd, yxor, machetes – skärande vapen med kraft bakom.
 
 ## Eld
 
-Brännskador från eld, het ånga, frätande ämnen.
+Brännskador från eld, het ånga, frätande ämnen. *Behandlas med Medicin (lindriga) eller Kirurgi (svåra brännskador, +1 svårighet).*
 
 | T12 | Effekt |
 |-----|--------|
@@ -93,13 +111,13 @@ Brännskador från eld, het ånga, frätande ämnen.
 | 9 | **Inandad het gas.** Lungorna skadas. Endast en bihandling per runda. **Döende:** Överlevnadsslag per minut. |
 | 10 | **Allvarliga brännskador.** **Döende:** Överlevnadsslag per minut. **Läketid:** 1T12 månader. |
 | 11 | **Tredje gradens brännskada.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** svåra ärr, –1 på Smidighet. |
-| 12 | **Förkolnad.** Du dör omedelbart om du inte stabiliseras. Om du överlever: **Permanent** –2 på Smidighet och Samspel. |
+| 12 | **Förkolnad.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Smidighet och Samspel. |
 
 ---
 
 ## Småkaliber
 
-Pistoler, revolvrar, k-pistar – ammunition under 7 mm.
+Pistoler, revolvrar, k-pistar – ammunition under 7 mm. *Behandlas med Medicin (blödning) eller Kirurgi (kulor måste opereras ut, +1 svårighet för organskador).*
 
 | T12 | Effekt |
 |-----|--------|
@@ -107,7 +125,7 @@ Pistoler, revolvrar, k-pistar – ammunition under 7 mm.
 | 2 | **Genomskott i mjukvävnad.** **Lätt blödning** tills behandlad. |
 | 3 | **Skottsår i arm.** **+1 svårighet** på slag med den armen. **Lätt blödning**. |
 | 4 | **Skottsår i ben.** Förflyttning halverad. **Lätt blödning**. |
-| 5 | **Kula fastnad.** Smärtsamt. Ta **+1 Stress**. Måste opereras ut. **+1 svårighet** på Fysik-slag tills utopererad. |
+| 5 | **Kula fastnad.** Smärtsamt. Ta **+1 Stress**. Måste opereras ut (Kirurgi). **+1 svårighet** på Fysik-slag tills utopererad. |
 | 6 | **Genomskjuten hand.** Handen obrukbar tills behandlad. **Lätt blödning**. |
 | 7 | **Skottsår i magen.** **Kraftig blödning (1 nivå)**. **+1 svårighet** på alla slag. **Döende:** Överlevnadsslag per timme om obehandlad. |
 | 8 | **Genomskjuten axel.** Armen obrukbar. **Kraftig blödning (1 nivå)**. **Läketid:** 1T12 veckor. |
@@ -120,7 +138,7 @@ Pistoler, revolvrar, k-pistar – ammunition under 7 mm.
 
 ## Högkaliber
 
-Gevär, kulsprutor, prickskytteammunition – kraftfull ammunition.
+Gevär, kulsprutor, prickskytteammunition – kraftfull ammunition. *Behandlas med Kirurgi (+1 svårighet, +2 för organskador). Kräver ofta sjukhusvård.*
 
 | T12 | Effekt |
 |-----|--------|
@@ -141,7 +159,7 @@ Gevär, kulsprutor, prickskytteammunition – kraftfull ammunition.
 
 ## Explosion
 
-Granater, bomber, minor – tryckvåg och splitter.
+Granater, bomber, minor – tryckvåg och splitter. *Behandlas med Kirurgi (splitter måste opereras ut, +1 svårighet).*
 
 | T12 | Effekt |
 |-----|--------|
@@ -150,7 +168,7 @@ Granater, bomber, minor – tryckvåg och splitter.
 | 3 | **Splitter i huden.** Smärtsamt. **Lätt blödning (1 nivå)**. Ta **+1 Stress**. |
 | 4 | **Slungades iväg.** Du flyger 1T12 meter och faller. Ta **1T12 skadetärningar** (Kross) från fallet. |
 | 5 | **Tryckvågsskada.** Lungorna skadas. **+1 svårighet** på fysiska slag. Ta **+2 Stress**. |
-| 6 | **Djupt splitter.** **Kraftig blödning (1 nivå)**. Splittret måste opereras ut. |
+| 6 | **Djupt splitter.** **Kraftig blödning (1 nivå)**. Splittret måste opereras ut (Kirurgi, +1 svårighet). |
 | 7 | **Örontrumma sprucken.** **+2 svårighet** på Sinnen (hörsel). **Läketid:** 1T12 månader. |
 | 8 | **Krossade revben.** **+2 svårighet** på Fysik-slag. **Kraftig blödning (1 nivå)**. **Döende:** Överlevnadsslag per timme. |
 | 9 | **Svårt skadat ben.** Benet obrukbart. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Läketid:** 1T12 månader. |
@@ -162,28 +180,28 @@ Granater, bomber, minor – tryckvåg och splitter.
 
 ## Gift
 
-Toxiner, droger, kemiska ämnen.
+Toxiner, droger, kemiska ämnen. *Behandlas med Medicin. Svåra effekter kräver motgift. Hallucinationer kan behandlas med Psykologi.*
 
 | T12 | Effekt |
 |-----|--------|
 | 1 | **Illamående.** Ta **+1 Stress**. |
 | 2 | **Yrsel.** **+1 svårighet** på alla slag under 1T12 minuter. |
-| 3 | **Magkramper.** **+1 svårighet** på Fysik-slag under 1T12 timmar. |
-| 4 | **Förvirring.** **+1 svårighet** på Analys-slag under 1T12 timmar. Ta **+1 Stress**. |
-| 5 | **Muskelspasmer.** Du tappar vad du håller i. **+1 svårighet** på Smidighet-slag under 1T12 timmar. |
-| 6 | **Hallucinationer.** Du ser och hör saker som inte finns. **+2 svårighet** på alla slag under 1T12 timmar. Ta **+2 Stress**. |
+| 3 | **Magkramper.** **+1 svårighet** på Fysik-slag under närmsta dygnet eller tills behandlad (Medicin). |
+| 4 | **Förvirring.** **+1 svårighet** på Analys-slag under närmsta dygnet eller tills behandlad (Medicin). Ta **+1 Stress**. |
+| 5 | **Muskelspasmer.** Du tappar vad du håller i. **+1 svårighet** på Smidighet-slag under närmsta dygnet eller tills behandlad (Medicin). |
+| 6 | **Hallucinationer.** Du ser och hör saker som inte finns. **+2 svårighet** på alla slag under närmsta dygnet eller tills behandlad (Medicin, +1 svårighet). Ta **+2 Stress**. |
 | 7 | **Kramper.** Du faller och rycker okontrollerat i 1T12 rundor. Kan inte agera. |
 | 8 | **Andnöd.** Endast en bihandling per runda. **Döende:** Överlevnadsslag per minut om ingen motgift. |
 | 9 | **Lever-/njursvikt.** **Döende:** Överlevnadsslag per timme. Kräver sjukhusvård. |
 | 10 | **Hjärtarytmi.** Ta **+2 Stress**. **Döende:** Överlevnadsslag per minut. |
 | 11 | **Neurologisk skada.** Slår ut nervsystemet. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Smidighet. |
-| 12 | **Systemisk kollaps.** Du dör inom 1T12 rundor om ingen motgift. Om du överlever: **Permanent** –1 på Fysik. |
+| 12 | **Systemisk kollaps.** **Döende:** Överlevnadsslag per runda (kräver motgift för att stabiliseras). Om du överlever: **Permanent** –1 på Fysik. |
 
 ---
 
 ## Blödning
 
-När blödningsskada orsakar en kritisk träff (12 på blödningstärning).
+När blödningsskada orsakar en kritisk träff (12 på blödningstärning). *Behandlas med Medicin. Hjärtstillestånd kräver HLR (+1 svårighet).*
 
 | T12 | Effekt |
 |-----|--------|
@@ -198,13 +216,34 @@ När blödningsskada orsakar en kritisk träff (12 på blödningstärning).
 | 9 | **Chock.** **Medvetslös**. Kräver stabilisering för att vakna. |
 | 10 | **Hypovolemisk chock.** **Döende:** Överlevnadsslag per minut. |
 | 11 | **Organsvikt.** **Döende:** Överlevnadsslag per runda. **Permanent:** –1 på Fysik. |
-| 12 | **Hjärtstillestånd.** Du dör om inte hjärt-lungräddning påbörjas omedelbart. |
+| 12 | **Hjärtstillestånd.** **Döende:** Överlevnadsslag per runda (kräver hjärt-lungräddning för att stabiliseras). |
+
+---
+
+## Strålning
+
+Strålsjuka, radioaktiv exponering. *Behandlas med Medicin (+2 svårighet för svåra effekter). Svåra fall kräver sjukhusvård.*
+
+| T12 | Effekt |
+|-----|--------|
+| 1 | **Illamående.** Ta **+1 Stress**. |
+| 2 | **Svaghet.** **+1 svårighet** på Fysik-slag under 1T12 dagar. |
+| 3 | **Kräkningar.** Du förlorar 1 Stress och kan inte äta under det kommande dygnet. |
+| 4 | **Hudutslag.** Röda, brännskadeliknande utslag. **+1 svårighet** på Smidighet-slag under 1T12 dagar. |
+| 5 | **Håravfall.** Håret faller av i tussar. Ta **+2 Stress**. |
+| 6 | **Feber.** Immunförsvaret reagerar. **+1 svårighet** på alla slag under 1T12 dagar. |
+| 7 | **Inre blödning.** **Lätt blödning (2 nivåer)**. Kräver sjukhusvård (Kirurgi, +2 svårighet) för att stoppa. |
+| 8 | **Benmärgsskada.** **+2 svårighet** på alla slag. **Döende:** Överlevnadsslag per dag. |
+| 9 | **Lungskada.** Endast en bihandling per runda. **Döende:** Överlevnadsslag per timme. |
+| 10 | **Njursvikt.** **Döende:** Överlevnadsslag per timme. Kräver sjukhusvård. |
+| 11 | **Organsvikt.** Lever och njurar slutar fungera. **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –1 på Fysik. |
+| 12 | **Akut stråldöd.** Kroppen kollapsar. Du dör inom 1T12 timmar, inga Överlevnadsslag eller vård kan rädda dig. |
 
 ---
 
 ## Övriga
 
-Fall, kvävning, elektricitet, hypotermi, och andra skadetyper.
+Fall, kvävning, elektricitet, hypotermi, och andra skadetyper. *Behandlas med Medicin (allmänt) eller Kirurgi (brutna ben).*
 
 | T12 | Effekt |
 |-----|--------|
@@ -215,29 +254,8 @@ Fall, kvävning, elektricitet, hypotermi, och andra skadetyper.
 | 5 | **Desorienterad.** **+2 svårighet** på Sinnen- och Analys-slag under 1T12 minuter. |
 | 6 | **Slagen till marken.** Du faller omkull. Ta **+1 Stress**. |
 | 7 | **Bedövad.** Du kan inte agera nästa runda. |
-| 8 | **Bruten kroppsdel.** En arm eller ett ben bryts. Obrukbar tills läkt. **Läketid:** 1T12 veckor. |
+| 8 | **Bruten kroppsdel.** En arm eller ett ben bryts. Obrukbar tills behandlad (Kirurgi). **Läketid:** 1T12 veckor. |
 | 9 | **Medvetslös.** Du vaknar efter 1T12 minuter eller när du behandlas. |
 | 10 | **Intern skada.** **+2 svårighet** på alla slag. **Döende:** Överlevnadsslag per timme. |
 | 11 | **Svår systemisk skada.** **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –1 på Fysik. |
-| 12 | **Kritisk organsvikt.** Du dör inom 1T12 rundor om du inte stabiliseras. |
-
----
-
-## Strålning
-
-Strålsjuka, radioaktiv exponering.
-
-| T12 | Effekt |
-|-----|--------|
-| 1 | **Illamående.** Ta **+1 Stress**. |
-| 2 | **Svaghet.** **+1 svårighet** på Fysik-slag under 1T12 dagar. |
-| 3 | **Kräkningar.** Du förlorar 1 Stress och kan inte äta under det kommande dygnet. |
-| 4 | **Hudutslag.** Röda, brännskadeliknande utslag. **+1 svårighet** på Smidighet-slag under 1T12 dagar. |
-| 5 | **Håravfall.** Håret faller av i tussar. Ta **+2 Stress**. |
-| 6 | **Feber.** Immunförsvaret reagerar. **+1 svårighet** på alla slag under 1T12 dagar. |
-| 7 | **Inre blödning.** **Lätt blödning (2 nivåer)**. Kräver sjukhusvård för att stoppa. |
-| 8 | **Benmärgsskada.** **+2 svårighet** på alla slag. **Döende:** Överlevnadsslag per dag. |
-| 9 | **Lungskada.** Endast en bihandling per runda. **Döende:** Överlevnadsslag per timme. |
-| 10 | **Njursvikt.** **Döende:** Överlevnadsslag per timme. Kräver sjukhusvård. |
-| 11 | **Organsvikt.** Lever och njurar slutar fungera. **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –1 på Fysik. |
-| 12 | **Akut stråldöd.** Kroppen kollapsar. Du dör inom 1T12 timmar om du inte får avancerad vård. Om du överlever: **Permanent** –2 på Fysik. |
+| 12 | **Kritisk organsvikt.** **Döende:** Överlevnadsslag per runda. |
