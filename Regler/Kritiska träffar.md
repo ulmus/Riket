@@ -2,15 +2,6 @@
 
 När en skadetärning visar **12** inträffar en **kritisk träff**. Slå 1T12 på tabellen som motsvarar vapnets eller skadetypens kategori. Om flera tärningar visar 12, slå en gång per 12:a och ta det **högsta** resultatet.
 
-Kritiska träffar kan orsaka:
-- Ökad svårighet på vissa handlingar
-- Minskad förflyttning
-- Att du ramlar omkull eller tappar en handling
-- Blödning (lätt eller kraftig)
-- Stress
-- Döende (med varierande överlevnadsintervall)
-- Permanenta skador
-
 ## Behandling av kritiska träffar
 
 Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att upphöra. Det finns tre vårdtyper:
@@ -28,8 +19,6 @@ Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att u
 - **"Kräver motgift"** – Medicin räcker inte, specifik motgift krävs.
 - **"Måste opereras ut"** – Kräver Kirurgi för att avlägsna.
 - **"Kräver hjärt-lungräddning"** – Kräver HLR (Medicin, +1 svårighet).
-
----
 
 ## Kross
 
@@ -50,8 +39,6 @@ Trubbiga slag, fall, explosiva tryckvågor. *Behandlas med Kirurgi (brutna ben) 
 | 11 | **Skalltrauma.** Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. **Döende:** Överlevnadsslag per timme. **Permanent:** –1 på Analys-slag under tidspress. |
 | 12 | **Krossad skalle.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Analys och Sinnen. |
 
----
-
 ## Stick
 
 Knivar, spjut, pilar – vapen som penetrerar djupt. *Behandlas med Medicin (blödning) eller Kirurgi (djupa sår, +1 svårighet för organskador).*
@@ -70,8 +57,6 @@ Knivar, spjut, pilar – vapen som penetrerar djupt. *Behandlas med Medicin (bl�
 | 10 | **Artärblödning.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda tills blödningen stoppas. |
 | 11 | **Genomstucket hjärta.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Fysik. |
 | 12 | **Dödligt sticksår.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik. |
-
----
 
 ## Hugg
 
@@ -92,8 +77,6 @@ Svärd, yxor, machetes – skärande vapen med kraft bakom. *Behandlas med Medic
 | 11 | **Ben avhugget.** Du faller. Kan inte gå. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
 | 12 | **Halshugg.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** svår ärrbildning, –2 på Samspel. |
 
----
-
 ## Eld
 
 Brännskador från eld, het ånga, frätande ämnen. *Behandlas med Medicin (lindriga) eller Kirurgi (svåra brännskador, +1 svårighet).*
@@ -113,9 +96,7 @@ Brännskador från eld, het ånga, frätande ämnen. *Behandlas med Medicin (lin
 | 11 | **Tredje gradens brännskada.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** svåra ärr, –1 på Smidighet. |
 | 12 | **Förkolnad.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Smidighet och Samspel. |
 
----
-
-## Småkaliber
+## Småkalibriga eldvapen
 
 Pistoler, revolvrar, k-pistar – ammunition under 7 mm. *Behandlas med Medicin (blödning) eller Kirurgi (kulor måste opereras ut, +1 svårighet för organskador).*
 
@@ -134,9 +115,7 @@ Pistoler, revolvrar, k-pistar – ammunition under 7 mm. *Behandlas med Medicin 
 | 11 | **Artärträff.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. |
 | 12 | **Huvudskott.** Du dör omedelbart. |
 
----
-
-## Högkaliber
+## Grovkalibriga eldvapen
 
 Gevär, kulsprutor, prickskytteammunition – kraftfull ammunition. *Behandlas med Kirurgi (+1 svårighet, +2 för organskador). Kräver ofta sjukhusvård.*
 
@@ -155,11 +134,9 @@ Gevär, kulsprutor, prickskytteammunition – kraftfull ammunition. *Behandlas m
 | 11 | **Bröstkorgsexplosion.** Interna organ krossade. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik. |
 | 12 | **Huvudskott.** Du dör omedelbart. |
 
----
-
 ## Explosion
 
-Granater, bomber, minor – tryckvåg och splitter. *Behandlas med Kirurgi (splitter måste opereras ut, +1 svårighet).*
+Granater, bomber, minor – tryckvåg och splitter. Behandlas med Kirurgi (splitter måste opereras ut, +1 svårighet).
 
 | T12 | Effekt |
 |-----|--------|
@@ -176,11 +153,9 @@ Granater, bomber, minor – tryckvåg och splitter. *Behandlas med Kirurgi (spli
 | 11 | **Massiv intern skada.** Inre organ krossade av tryckvågen. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik, permanent hörselskada. |
 | 12 | **Bortsprängd.** Du dör omedelbart. |
 
----
-
 ## Gift
 
-Toxiner, droger, kemiska ämnen. *Behandlas med Medicin. Svåra effekter kräver motgift. Hallucinationer kan behandlas med Psykologi.*
+Toxiner, droger, kemiska ämnen. Behandlas med Medicin. Svåra effekter kräver motgift. Hallucinationer kan behandlas med Psykologi.
 
 | T12 | Effekt |
 |-----|--------|
@@ -197,11 +172,9 @@ Toxiner, droger, kemiska ämnen. *Behandlas med Medicin. Svåra effekter kräver
 | 11 | **Neurologisk skada.** Slår ut nervsystemet. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Smidighet. |
 | 12 | **Systemisk kollaps.** **Döende:** Överlevnadsslag per runda (kräver motgift för att stabiliseras). Om du överlever: **Permanent** –1 på Fysik. |
 
----
-
 ## Blödning
 
-När blödningsskada orsakar en kritisk träff (12 på blödningstärning). *Behandlas med Medicin. Hjärtstillestånd kräver HLR (+1 svårighet).*
+När blödningsskada orsakar en kritisk träff (12 på blödningstärning). Behandlas med Medicin eller Kirrgi.
 
 | T12 | Effekt |
 |-----|--------|
@@ -218,11 +191,9 @@ När blödningsskada orsakar en kritisk träff (12 på blödningstärning). *Beh
 | 11 | **Organsvikt.** **Döende:** Överlevnadsslag per runda. **Permanent:** –1 på Fysik. |
 | 12 | **Hjärtstillestånd.** **Döende:** Överlevnadsslag per runda (kräver hjärt-lungräddning för att stabiliseras). |
 
----
-
 ## Strålning
 
-Strålsjuka, radioaktiv exponering. *Behandlas med Medicin (+2 svårighet för svåra effekter). Svåra fall kräver sjukhusvård.*
+Strålsjuka, radioaktiv exponering. Behandlas med Medicin (+2 svårighet för svåra effekter). Svåra fall kräver sjukhusvård.
 
 | T12 | Effekt |
 |-----|--------|
@@ -239,11 +210,10 @@ Strålsjuka, radioaktiv exponering. *Behandlas med Medicin (+2 svårighet för s
 | 11 | **Organsvikt.** Lever och njurar slutar fungera. **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –1 på Fysik. |
 | 12 | **Akut stråldöd.** Kroppen kollapsar. Du dör inom 1T12 timmar, inga Överlevnadsslag eller vård kan rädda dig. |
 
----
 
 ## Övriga
 
-Fall, kvävning, elektricitet, hypotermi, och andra skadetyper. *Behandlas med Medicin (allmänt) eller Kirurgi (brutna ben).*
+Fall, kvävning, elektricitet, hypotermi, och andra skadetyper. Behandlas med Medicin (allmänt) eller Kirurgi (brutna ben).
 
 | T12 | Effekt |
 |-----|--------|

@@ -41,20 +41,20 @@ När du gör en närstridsattack slår du för Strid + Fysik eller Strid + Smidi
 
 # Skador
 
-Om en attack träffar ett mål så avgörs skadan genom **träffframgångar**, vapnets **skadebonus**, och målets **skydd**.
+Om en attack träffar ett mål så avgörs skadan genom **träff-framgångar**, vapnets **skadebonus** och målets **skydd**.
 
 ## Kroppspoäng (KP)
 
-Varje karaktär har **Kroppspoäng (KP)** lika med **Fysik + Vilja**. KP representerar hur mycket skada du kan ta innan du blir allvarligt påverkad.
+Varje karaktär har **Kroppspoäng (KP)** lika med **Fysik + Vilja**. KP representerar hur mycket skada du kan ta totalt innan du blir allvarligt påverkad. Enskilda träffar kan också ge kritiska effekter även om din totala skada inte kommit upp i din KP-nivå (se [[Kritiska träffar]]).
 
 ### Skadesteg
 
-| Skada | Tröskel | Effekt |
-|-------|---------|--------|
-| **Oskadd** | 0 KP | Inga effekter |
-| **Sårad** | > Fysik KP | **+1 svårighet** på alla slag |
-| **Medvetslös** | > Fysik + Vilja KP | Du faller ihop och kan inte agera |
-| **Döende** | > 2 × (Fysik + Vilja) KP | Se *Döende* nedan, eller via kritisk träff |
+| Skada          | Tröskel                  | Effekt                                     |
+| -------------- | ------------------------ | ------------------------------------------ |
+| **Oskadd**     | 0 KP                     | Inga effekter                              |
+| **Sårad**      | > Fysik KP               | **+1 svårighet** på alla slag              |
+| **Medvetslös** | > Fysik + Vilja KP       | Du faller ihop och kan inte agera          |
+| **Döende**     | > 2 × (Fysik + Vilja) KP | Se *Döende* nedan, eller via kritisk träff |
 
 *Exempel: En karaktär med Fysik 3 och Vilja 2 har 5 KP. Hon blir Sårad vid 4+ KP skada, Medvetslös vid 6+ KP, och Döende vid 11+ KP.*
 
@@ -81,7 +81,7 @@ Målets **Skydd** (från rustning, täckning, etc.) minskar KP-skadan:
 
 **Slutlig skada = KP-skada − Skydd** (minst 0)
 
-Skydd påverkar inte kritiska träffar – de inträffar oavsett om skadan absorberas.
+Skydd hindrar först icke-kritiska träffar och först när alla de har blivit absorberade hindras eventuella kritiska träffar.
 
 ## 4. Kritiska träffar
 
@@ -94,14 +94,10 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 ## Exempel
 
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadebonus +4** och skadetyp **Småkaliber**.
-> 
 > Antons träffslag ger **2 framgångar**. Han slår alltså **2 + 4 = 6 skadetärningar**.
-> 
 > Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada är **3 KP**.
-> 
-> Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada – inte Sårad ännu (tröskeln är >2), men nära.
-> 
-> Dessutom visade en tärning **12** – kritisk träff! Anton slår på tabellen för **Småkaliber** och får en 8: *Genomskjuten axel*.
+> Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada och är Sårad (tröskeln är >2) och tar därför 1 Stress och har +1 på alla svårigheter.
+> Dessutom visade en tärning **12** – kritisk träff! Anton slår på tabellen för **Småkalibriga eldvapen** och får en 8: *Genomskjuten axel*.
 
 # Effekter av skada
 
@@ -109,7 +105,7 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 
 När du har tagit mer än **Fysik** i KP-skada blir du **Sårad**:
 - **+1 svårighet** på alla slag.
-- Du tar **+1 Stress**.
+- Du tar **1 Stress**.
 
 ## Medvetslös
 

@@ -36,8 +36,6 @@ Psykologisk behandling hjälper patienter hantera stress och trauma. Används f�
 
 **Expertis Psykologi:** Ger +1 tärning och kan behandla djupare psykologiska skador.
 
----
-
 ## Behandling av skador
 
 Att behandla skador handlar om att stoppa blödningar, stabilisera patienten och lindra akuta symptom.
@@ -101,7 +99,6 @@ Vissa kritiska effekter anger specifika krav i tabellerna:
 | **Läketid:** X veckor/månader | Tiden för full återhämtning efter behandling |
 | **Permanent** | Läker aldrig helt, se Permanenta skador |
 
----
 
 ## Läkning
 

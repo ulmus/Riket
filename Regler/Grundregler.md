@@ -98,7 +98,7 @@ Varje ny scen återställs personligt Fokus till **Momentum**. Momentum represen
 - Turordning i sjunkande initiativ.
 - Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
 - Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Strid + Smidighet och drar av framgångar från attackens framgångar.
-- Skada mäts i Kroppspoäng (KP). Du har KP = Fysik + Vilja. Blir du Sårad (>Fysik KP skada) får du +1 svårighet. Blir du Medvetslös (>KP skada) faller du ihop. Tar du dubbla din KP eller får en dödlig kritisk träff blir du Döende.
+- Skada mäts i kroppspoäng (KP). Du har lika många KP som din Fysik + Vilja.
 
 Se kapitlet för [[Strid och skada]]
 
