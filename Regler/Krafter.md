@@ -1,107 +1,292 @@
-Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Ur spelsynvinkel är varje kraft som en rollperson har unik och därför konstruerar spelledare och spelare dem tillsammans utifrån några grundläggande principer.
+# Krafter
+
+Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel.
+
+---
+
+## Kraftens tema
+
+Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
+
+- **Kraftens natur:** Vad krafterna gör (eld, telepati, magnetism, etc.)
+- **Karaktärens inre konflikt:** Krafterna är en manifestation av trauma, rädsla eller längtan
+- **En fysikalisk grund:** Krafter i I Rikets Tjänst är baserade på naturvetenskapliga principer (om än ibland pseudovetenskapliga)
+
+*Exempel: En karaktär som förlorade sin familj i en brand kan ha krafter över eld – både en gåva och en ständig påminnelse. En karaktär som alltid känt sig maktlös kan ha telekinetiska krafter som ger henne kontrollen hon saknat.*
 
 ## Typer av krafter
 
-Krafter kan delas in i två huvudkategorier, aktiva och passiva:
+| Typ | Beskrivning | Kostnad |
+|-----|-------------|---------|
+| **Passiv** | Alltid aktiv, kräver ingen handling | Ingen |
+| **Aktiv** | Kräver handling och oftast Fokus | Fokus + Handling |
 
-- **Aktiva krafter:** Dessa är krafter som kräver medveten ansträngning för att aktiveras och används ofta i strid eller för att lösa problem. Exempel inkluderar energiprojektion, telekinesi och förstärkt styrka.
-- **Passiva krafter:** Dessa krafter är alltid aktiva och påverkar omgivningen eller individen utan att denne behöver göra något särskilt. Exempel är osynlighet, regenerering och förmågan att motstå skada.
+## Konstruera en kraft
 
-## Kostnad för att aktivera krafter
+### Steg 1: Välj effektkategori
 
-Krafter aktiveras generellt genom att spendera **Fokus**. För vissa krafter kan det även krävas att spelaren spenderar en handling eller bihandling. Många krafter kan dessutom ökas i styrka eller räckvidd genom att spendera ytterligare Fokus.
+| Kategori           | Exempel                     | Typiskt slag      |
+| ------------------ | --------------------------- | ----------------- |
+| **Attack**         | Energiprojektil, pyrokinesi | Strid + Vilja     |
+| **Kontroll**       | Telekinesi, magnetism       | Sinnen + Vilja    |
+| **Perception**     | Telepati, fjärrsyn          | Sinnen + Vilja    |
+| **Påverkan**       | Sinnemanipulation, illusion | Samspel + Vilja   |
+| **Fysisk**         | Överstyrka, snabbhet        | Fysik + Vilja     |
+| **Skydd**          | Kraftfält, hård hud         | Fysik + Vilja     |
+| **Transformation** | Formskifte, fasskifte       | Fysik + Vilja     |
+| **Transport**      | Flyga, teleportera          | Smidighet + Vilja |
+| **Övrigt**         | Tala med djur               | Varierar          |
 
-## Egenskaper kopplade till krafter
+### Steg 2: Bestäm kostnad
 
-För att aktivera en kraft måste spelaren ofta slå med en kombination av egenskaper som är relevanta för kraftens natur. Exempelvis kan en telekinetisk kraft kräva ett slag med **Sinnen + Vilja**, medan en kraft som involverar fysisk styrka kan kräva **Strid + Fysik**. En vanlig egenskap för alla krafter är **Vilja**, som representerar karaktärens mentala styrka och kontroll över sina krafter.
+**Fokuskostnad:**
+
+| Kostnad | Kraftnivå |
+|---------|-----------|
+| **0** | Passiv kraft eller minimal nytta |
+| **1** | Standard aktiv kraft |
+| **2** | Kraftfull eller bred effekt |
+| **3+** | Extremt kraftfull |
+
+**Handlingskostnad:**
+
+| Handlingstyp | Användning |
+|--------------|------------|
+| **Ingen** | Passiva krafter |
+| **Bihandling** | Snabba aktiveringar |
+| **Huvudhandling** | De flesta aktiva krafter |
+| **Reaktion** | Defensiva krafter som svar på attacker |
+
+### Steg 3: Bestäm räckvidd
+
+| Räckvidd | Beskrivning | Modifikation |
+|----------|-------------|--------------|
+| **Beröring** | Fysisk kontakt | Ingen |
+| **Nära** | ~10 meter | Ingen |
+| **Medium** | ~30 meter | +1 Fokus eller begränsning |
+| **Lång** | Inom synhåll | +1 Fokus eller begränsning |
+
+### Steg 4: Lägg till begränsningar
+
+Begränsningar gör kraften billigare eller mer rimlig. Exempel:
+
+| Begränsning | Beskrivning |
+|-------------|-------------|
+| **Siktlinje** | Du måste kunna se målet |
+| **Verbalt kommando** | Du måste kunna tala |
+| **Medium krävs** | Kräver luft, metall, vatten, etc. |
+| **Koncentration** | Avbryts om du tar skada |
+| **Synlig** | Kraften avslöjar dig |
+| **Urladdning** | Kan bara användas en gång per scen |
+| **Självskada** | Du tar Stress eller skada |
+
+### Steg 5: Lägg till förstärkningar
+
+Förstärkningar är tilläggseffekter som kan köpas med extra Fokus:
+
+- **+1 Fokus:** Öka räckvidden ett steg
+- **+1 Fokus:** Lägg till ett extra mål
+- **+1 Fokus:** Öka varaktigheten
+- **+1 Fokus:** Öka effektens intensitet
+- **+2 Fokus:** Dramatisk förstärkning
+
+Extra framgångar på aktiveringsslaget *förstärker* det kraften redan gör (varaktighet, intensitet, räckvidd, etc.).
+
+## Attacker med krafter
+
+Om kraften kan användas för att attackera, använd samma system som för vanliga vapen:
+
+### Skadebonus för superkrafter
+
+| Kraftnivå | Skadebonus | Jämförbart med |
+|-----------|------------|----------------|
+| **Svag** | +1 | Slag, knuff |
+| **Standard** | +3 | Kniv, lågor |
+| **Stark** | +5 | Pistol, kraftig eld |
+| **Mycket stark** | +6 | Gevär, explosion |
+| **Extrem** | +8 | Artilleri, katastrofal |
+
+Attacken slås med **Strid + Vilja** (eller annan lämplig kombination). Antal **skadetärningar = träffframgångar + skadebonus**. Skada och kritiska träffar fungerar som vanligt (se [[Strid och skada]] och [[Kritiska träffar]]).
+
+**Skadetyp:** Ange lämplig skadetyp för kritiska träffar (Eld, Kross, Stick, etc.).
 
 ## Risker och biverkningar
-Krafter kan vara instabila och oförutsägbara, vilket kan leda till oönskade biverkningar eller skador på användaren eller omgivningen. En kraft som misslyckas kan resultera i att användaren tar **Stress** eller att kraften slår fel och påverkar oavsiktliga mål. Spelledaren uppmuntras att skapa intressanta och dramatiska konsekvenser för användningen av krafter för att förstärka spelets berättande.
 
-## Balansering av krafter
-För att undvika att krafter blir alltför dominerande i spelet bör spelledaren och spelarna arbeta tillsammans för att balansera kraftens styrka och begränsningar. Stresskostnader, krav på lyckade egenskapsslag och eventuella motståndsslag från mål kan alla användas för att hålla krafter i schack och säkerställa att de förblir en del av spelets utmaning och spänning.
+Krafter kan vara instabila. En kraft som misslyckas kan:
+- Ge användaren **Stress**
+- Slå fel och påverka oavsiktliga mål
+- Orsaka oväntade sidoeffekter
 
-Generellt gäller att en kraft som påverkar omgivningen kräver ett lyckat slag för att fungera, medan en kraft som påverkar användaren själv ofta fungerar automatiskt. Krafter som används offensivt mot andra karaktärer kan kräva att målet gör ett motståndsslag för att undvika eller minska effekten.
+Spelledaren uppmuntras att skapa dramatiska konsekvenser för misslyckade eller desperata kraftanvändningar.
 
-## Tema
-En karaktärs krafter bör ha ett gemensamt tema eller koncept. Dels i termer av vad de har för effekt, men också var de kommer ifrån. De ska spegla karaktärens inre konflikter och trauma på något sätt. Exempelvis kan en karaktär som har upplevt svek ha krafter som handlar om manipulation eller illusion, medan en karaktär som har överlevt en traumatisk händelse kan ha krafter som handlar om överlevnad eller skydd.
+## Kraftmallar
 
-Krafterna bör också ha en gemensam fysikalisk eller energimässig grund. Exempelvis kan en karaktärs krafter alla vara baserade på eld, is eller telekinesi. Krafter i I Rikets Tjänst är baserade på naturvetenskapliga principer, även om de ibland är på gränsen till det övernaturliga.
+### Passiv förmåga
+***Kraftnamn*** (Alltid aktiv)
+*Kort beskrivning av effekten.*
 
-# Exempel på krafter
+### Standardkraft
+***Kraftnamn*** (1 Fokus, en huvudhandling)
+*Slå Egenskap + Egenskap för att uppnå effekt.*
 
-Här är exempel på några karaktärer och deras krafter.
+- **+1 Fokus:** *Förstärkning*
+- **1 Framgång:** *Bonus*
 
-## Silke
-Silke var en introvert och blyg ung kvinna. Hennes trauma kom från mobbning och social isolering under hennes barndom. Hennes krafter är baserade på feromoner och manipulation av andras känslor.
+### Attackkraft
+***Kraftnamn*** (X Fokus, en huvudhandling)
+*Slå Strid + Vilja för att attackera. Skadebonus +X. Skadetyp: typ.*
+
+- **+1 Fokus:** *Förstärkning*
+- **1 Framgång:** +1 skadetärning
+
+---
+
+# Exempelkrafter
+
+## Silke – Feromoner och manipulation
+
+Silke var en introvert och blyg ung kvinna. Hennes trauma kom från mobbning och social isolering under barndomen. Hennes krafter är baserade på feromoner och manipulation av andras känslor.
 
 ### Feromoner (Alltid aktiv)
-
-Karaktärens utsänder alltid feromoner. Ger en permanent bonus på +1 tärning på alla slag som använder Samspel för alla som är inom 10 meter och andas samma luft. Det gäller även slag för övriga krafter.
+Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla som är inom 10 meter och andas samma luft.
 
 ### Manipulation (1 Fokus, en huvudhandling)
+Slå Vilja + Samspel för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp inom 10 meter. Ger +1 tärning på efterföljande sociala slag.
 
-Karaktären slår Vilja + Samspel för att subtilt ingjuta en grundläggande känsla (t.ex. lugn, rädsla, tillit) under ett par minuter hos en liten grupp inom 10 meter som andas samma luft. Detta kan ge +1 tärning på efterföljande sociala slag och generellt ändra sinnesstämningen.
-
-- **+1 Fokus:** Radien för effekten ökar 10 meter  
-- **1 Framgång:** Känslan är starkare och håller i sig hela scenen.
+- **+1 Fokus:** Radien ökar 10 meter.
+- **1 Framgång:** Känslan håller i sig hela scenen.
 
 ### Förslag (2 Fokus, en huvudhandling)
-
-Karaktären fokuserar sin vilja på ett mål inom 10 meter som andas samma luft och ger en enkel, verbal order som inte innebär att personen utsätter sig själv eller allierade för omedelbar livsfara. Detta är ett motståndsslag (Vilja + Samspel mot målets Vilja + Samspel). Om karaktären vinner måste målet omedelbart lyda ordern. Ordern har effekt under ett par minuter.
+Slå Vilja + Samspel mot målets Vilja + Samspel för att ge en enkel, verbal order. Om du vinner måste målet lyda. Ordern kan inte innebära omedelbar livsfara.
     
-- **+1 Fokus:** Ordern kan vara komplex eller pågå under en längre tid (tiotals minuter).
-- **+1 Fokus:** Ordern får medföra omedelbar livsfara för sig själv eller allierade.  
-- **1 Framgång:** Målet kommer inte ihåg att de blev beordrade efteråt.
+- **+1 Fokus:** Ordern kan vara komplex eller pågå längre tid.
+- **+1 Fokus:** Ordern får medföra livsfara.  
+- **1 Framgång:** Målet kommer inte ihåg ordern efteråt.
 
-## Radar
-Radar är en ingenjör som alltid varit ensam och känt sig ignorerad. Hans krafter är baserade på elektromagnetism och perception.
+---
+
+## Radar – Elektromagnetism
+
+Radar är en ingenjör som alltid känt sig ignorerad. Hans krafter är baserade på elektromagnetism och perception.
 
 ### Radarsinne (Alltid aktiv)
-
-Karaktären kan avläsa sin omgivning utan att använda synen, och uppfattar konturer av föremål och rörelser genom solida hinder inom cirka 20 meter.
+Uppfattar konturer och rörelser genom solida hinder inom 20 meter utan att använda synen.
 
 ### Radiohörsel (1 Fokus, en huvudhandling)
+Lyssna på radiofrekvenser. Krypterade signaler kräver Sinnen + Vilja mot krypteringens svårighet.
 
-Karaktären kan lyssna på radiofrekvenser så länge hen koncentrerar sig. Om signalen är krypterad så krävs ett lyckat slag för Sinnen + Vilja  där svårighetsgraden bestäms av krypteringens komplexitet.
-
-- **+1 Fokus:** Du kan också sända
+- **+1 Fokus:** Du kan också sända.
 
 ### Pulsstörare (1 Fokus, en huvudhandling)
+Slå Strid + Vilja. Levande varelser inom 10 meter måste slå Vilja eller förlora sin nästa runda. Elektronik störs ut.
 
-Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vilja. Om slaget lyckas så blir levande varelser inom 10 meter desorienterade och förlorar sin nästa runda om de inte lyckas med ett slag för Psyke. Elektronik blir också utstörd, SL avgör i vilken grad.
+- **+1 Fokus:** Forma attacken som en kon.
+- **+1 Fokus:** Välj vilka mål som drabbas.
+- **1 Framgång:** +1 svårighet på motståndsslaget.
+- **1 Framgång:** +1 rundas desorientering.
 
-- **+1 Fokus:** Forma attacken som en kon istället för en sfär  
-- **+1 Fokus:** Välj vilka mål inom konen som drabbas  
-- **1 Framgång:** Öka svårigheten på motståndsslaget med +1  
-- **1 Framgång:** Öka antalet rundor som målen blir desorienterade med +1  
-- **1 Framgång:** Öka räckvidden på attacken med 10 meter
+---
 
-## Tjuren
-Tjuren är en före detta soldat som har svårt att kontrollera sin ilska. Hans krafter är baserade på förstärkt styrka och uthållighet.
+## Tjuren – Förstärkt styrka
 
-### Övermänsklig Styrka (1 Fokus, 1 bihandling)
+Tjuren är en före detta soldat med svårt att kontrollera sin ilska. Hans krafter är baserade på övermänsklig styrka och uthållighet.
 
-Du kan göra enorma styrkeansträngningar. Du får +2 i Fysik för en handling (t.ex. lyfta tungt föremål, bryta ner en dörr, kasta ett fordon, slå en fiende).
+### Övermänsklig Styrka (1 Fokus, en bihandling)
++2 i Fysik för en handling (lyfta, bryta, slå).
 
-### Kinetisk Förankring (1 Fokus, 1 reaktion)
+### Kinetisk Förankring (1 Fokus, en reaktion)
+När du blir måltavla för en effekt som skulle flytta dig, blir du orubblig under en runda.
 
-När karaktären blir måltavla för en attack eller effekt som skulle flytta dem, kan de aktivera denna förmåga för att bli helt orubbliga under en runda.
+- **+1 Fokus:** Reflektera knuff-effekten tillbaka.
+- **+2 Fokus:** Reflektera både knuff och skada.
+- **1 Framgång:** Förankringen håller en extra runda.
 
-- **+1 Fokus**: Reflektera knuff-effekten tillbaka på angriparen (skadan reflekteras dock inte).
-- **+2 Fokus**: Reflektera både knuff-effekten och skadan tillbaka på angriparen.
-- **1 Framgång**: Förankringen håller i en extra runda.
+### Läderhud (1 Fokus, en reaktion)
+När du träffas av en attack, öka ditt skydd med 1. Kan aktiveras efter träffen men innan skadeslaget.
 
-### Läderhud (1 Fokus, 1 reaktion)
+- **+1 Fokus:** +1 skydd ytterligare.
 
-När karaktären träffas av en attack som gör skada kan de aktivera denna förmåga och öka sitt skydd med 1 mot alla attacker. Förmågan kan aktiveras efter träffen, men innan skadeslaget.
+### Tjurrusning (1 Fokus, en bihandling)
+Rusa dubbla förflyttningen rakt fram. Slå Fysik + Smidighet – varje framgång låter dig ignorera ett hinder. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
 
-- **+1 Fokus**, öka skydd med ytterligare 1.
+- **+1 Fokus:** Räknas som närstridsattack mot alla i vägen.
+- **1 Framgång:** +1 svårighet för fiender att hålla sig upp.
+- **1 Framgång:** +1 förflyttning på rusningen.
 
-### Tjurrusning (1 Fokus, 1 bihandling)
+---
 
-Karaktären utför en ostoppbar rusning dubbla sin förflyttning rakt fram och slår för Fysik + Smidighet. Varje framgång låter karaktären ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik+Strid-slag för att inte slås till marken.
+## Frostbrand – Kryokinesi
 
-- **+1 Fokus**: Attacken räknas som en närstridsattack mot alla som står i vägen.  
-- **1 Framgång**: Öka svårigheten för fiender att hålla sig på fötter med +1.  
-- **1 Framgång**: Öka distansen på rusningen med en förflyttning.
+Frostbrand upplevde extrem emotionell kyla i sin uppväxt. Hennes krafter manifesterar den inre kylan utåt.
+
+### Köldaura (Alltid aktiv)
+Tar aldrig skada av kyla. Kan röra sig normalt på is.
+
+### Frostberöring (1 Fokus, en huvudhandling)
+Slå Vilja + Fysik för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring.
+
+- **+1 Fokus:** Räckvidden ökar till 5 meter.
+- **1 Framgång:** Effekten är starkare och varar längre.
+
+### Iskristaller (1 Fokus, en huvudhandling)
+Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål inom 15 meter. **Skadebonus +3.** Skadetyp: Stick.
+
+- **+1 Fokus:** Träffar alla inom 3 meter från målet.
+- **+1 Fokus:** Vid 2+ KP skada måste målet slå Fysik + Vilja eller förlora sin nästa bihandling.
+- **1 Framgång:** +1 skadetärning.
+- **1 Framgång:** +10 meter räckvidd.
+
+### Fryspelare (2 Fokus, en huvudhandling)
+Skapa extrem kyla i 5-meters radie inom 20 meter. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
+
+- **+1 Fokus:** Varar hela scenen.
+- **+1 Fokus:** Marken blir hal is – alla måste slå Smidighet + Fysik för att inte falla.
+- **1 Framgång:** +3 meters radie.
+
+---
+
+## Voltaic – Bioelektricitet
+
+Voltaic har levt med konstant smärta och nervskador. Hans krafter låter honom kontrollera kroppens elektriska impulser.
+
+### Elektrisk känsel (Alltid aktiv)
+Känner elektriska fält och nervimpulser inom 10 meter. Uppfattar starka känslor som förändringar i bioelektriska fält.
+
+### Stötchock (1 Fokus, en huvudhandling)
+Slå Strid + Vilja för elektrisk stöt genom beröring. **Skadebonus +3.** Skadetyp: Övriga.
+
+*Begränsning:* Kräver beröring.
+
+- **+1 Fokus:** Skjut stöten som ljusbåge upp till 5 meter.
+- **+1 Fokus:** Målet tappar vad det håller och förlorar nästa bihandling.
+- **1 Framgång:** +1 skadetärning.
+- **1 Framgång:** Elektronik på målet kortsluts.
+
+### Neural överbelastning (2 Fokus, en huvudhandling)
+Slå Vilja + Samspel mot målets Vilja + Fysik. Om du vinner blir målet paralyserat i en runda och tar +1 Stress.
+
+*Begränsning:* Kräver beröring och koncentration.
+
+- **+1 Fokus:** +1 rundas paralys (kan tas flera gånger).
+- **+2 Fokus:** Rikta specifika kommandon till nervsystemet (tvinga en hand att släppa, ett ben att ge vika).
+- **1 Framgång:** +1 Stress till målet.
+
+### Adrenalinpuls (1 Fokus, en bihandling)
+Överladda ditt eget nervsystem. +1 på Smidighet och Strid till slutet av din nästa tur.
+
+- **+1 Fokus:** Varar hela striden.
+- **+1 Fokus:** +1 på Fysik också.
+
+---
+
+## Snabbguide: Balansera en kraft
+
+| Element | Starkare = Billigare | Svagare = Kraftfullare |
+|---------|----------------------|------------------------|
+| Fokuskostnad | Lägre | Högre |
+| Handlingstyp | Bihandling/Reaktion | Huvudhandling |
+| Räckvidd | Kortare | Längre |
+| Begränsningar | Färre | Fler |
+| Skadebonus | Lägre | Högre |
+
+**Tumregel:** En kraft som är stark på ett område bör vara svagare på andra, eller ha begränsningar. Det viktigaste är att kraften känns rätt för karaktären och är rolig att använda vid spelbordet.
