@@ -37,11 +37,27 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära Egenskaper
 
-- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling
-- **Slagstyrka** avgör grundskadan för närstridsattacker och är lika med halva Fysik avrundat neråt.
-- **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Vilja (avrundat neråt)
-- **Stryktålighet** är hur många Sår, Kritiska Sår eller Dödliga Sår du tål innan du slutligen dör. Varje människa tål 1 Sår, 1 Kritiskt Sår och 1 Dödligt Sår. För varje nivå på Fysik så lägger du till ytterligare ett i ordningen Sår, Kritiskt Sår, Dödligt Sår och sedan Sår igen. Se [[Strid och skada#Skador]].
+- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling.
+- **Kroppspoäng (KP)** är hur mycket skada du tål innan du blir allvarligt påverkad, lika med Fysik + Vilja. Se [[Strid och skada#Kroppspoäng (KP)]].
+- **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Vilja (avrundat neråt).
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
+
+## Storlek
+
+Människor och mål av olika storlek har olika mycket KP och kan ha inbyggd rustning. Storleksklassen påverkar också hur lätt det är att träffa målet.
+
+| Storlek                               | Bonus-KP | Inbyggt Skydd | Träffmodifikator |
+| ------------------------------------- | -------: | ------------: | ---------------: |
+| Liten (hund, barn)                    |       −2 |             0 |               −1 |
+| Normal (vuxen människa)               |        0 |             0 |                0 |
+| Stor (häst, motorcykel)               |       +4 |             0 |               +1 |
+| Mycket stor (bil, lätt fordon)        |       +8 |            +2 |               +2 |
+| Enorm (lastbil, stridsvagn)           |      +16 |            +4 |               +3 |
+| Kolossal (fartyg, byggnad)            |      +32 |            +6 |               +4 |
+
+- **Bonus-KP:** Läggs till målets KP för skadeberäkning.
+- **Inbyggt Skydd:** Fungerar som rustningsskydd, minskar KP-skada.
+- **Träffmodifikator:** Modifierar attackslag mot målet.
 
 ## Vanliga slag
 
@@ -82,7 +98,7 @@ Varje ny scen återställs personligt Fokus till **Momentum**. Momentum represen
 - Turordning i sjunkande initiativ.
 - Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
 - Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Strid + Smidighet och drar av framgångar från attackens framgångar.
-- Skada mäts i Sår, Kritiska Sår och Dödliga Sår, din Fysik avgör hur mycket du tål.
+- Skada mäts i Kroppspoäng (KP). Du har KP = Fysik + Vilja. Blir du Sårad (>Fysik KP skada) får du +1 svårighet. Blir du Medvetslös (>KP skada) faller du ihop. Tar du dubbla din KP eller får en dödlig kritisk träff blir du Döende.
 
 Se kapitlet för [[Strid och skada]]
 
