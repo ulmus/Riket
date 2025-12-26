@@ -41,17 +41,17 @@ Knivar, spjut, pilar – vapen som penetrerar djupt.
 | T12 | Effekt |
 |-----|--------|
 | 1 | **Ytlig rispa.** Smärtsamt. Ta **+1 Stress**. |
-| 2 | **Skärsår.** **Lätt blödning** tills behandlad. |
+| 2 | **Skärsår.** **Lätt blödning (1 nivå)** tills behandlad. |
 | 3 | **Genomstungen muskel.** **+1 svårighet** på Fysik-slag med den kroppsdelen tills behandlad. |
 | 4 | **Nervträff.** Du tappar vad du håller i. **+1 svårighet** på att använda handen under 1T12 minuter. |
 | 5 | **Djupt sticksår.** **Kraftig blödning (1 nivå)** tills behandlad. Ta **+1 Stress**. |
-| 6 | **Genomstungen hand/fot.** Kroppsdelen är obrukbar tills behandlad. **Lätt blödning**. |
+| 6 | **Genomstungen hand/fot.** Kroppsdelen är obrukbar tills behandlad. **Lätt blödning (1 nivå)**. |
 | 7 | **Stucken i magen.** **Kraftig blödning (1 nivå)**. **+2 svårighet** på Fysik-slag. **Döende:** Överlevnadsslag per timme om obehandlad. |
 | 8 | **Genomstungen lunga.** Du kippar efter luft. Endast en bihandling per runda tills behandlad. **Kraftig blödning (1 nivå)**. |
 | 9 | **Njurträff.** Extremt smärtsamt. Ta **+2 Stress**. **Kraftig blödning (2 nivåer)**. **Döende:** Överlevnadsslag per minut. |
 | 10 | **Artärblödning.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda tills blödningen stoppas. |
-| 11 | **Genomstucket hjärta.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på all fysisk ansträngning. |
-| 12 | **Dödligt sticksår.** Du dör inom 1T12 rundor om du inte stabiliseras. Om du överlever: **Permanent** –2 på Fysik-baserade slag. |
+| 11 | **Genomstucket hjärta.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Fysik. |
+| 12 | **Dödligt sticksår.** Du dör inom 1T12 rundor om du inte stabiliseras. Om du överlever: **Permanent** –2 på Fysik. |
 
 ---
 
@@ -62,17 +62,17 @@ Svärd, yxor, machetes – skärande vapen med kraft bakom.
 | T12 | Effekt |
 |-----|--------|
 | 1 | **Ytligt snitt.** Ta **+1 Stress**. |
-| 2 | **Fläskskada.** Blodigt men ytligt. **Lätt blödning** tills behandlad. |
-| 3 | **Senan skuren.** **+1 svårighet** på Smidighet-slag med drabbad kroppsdel. |
-| 4 | **Finger avhugget.** Du tappar vad du håller i. **Lätt blödning**. **Permanent:** –1 på Smidighet (finmotorik). |
-| 5 | **Djupt hugg.** **Kraftig blödning (1 nivå)**. **+1 svårighet** på alla fysiska slag. |
-| 6 | **Ansikte skuret.** Blod i ögonen. **+2 svårighet** på Sinnen (syn) tills du torkar bort blodet (bihandling). **Lätt blödning**. **Permanent:** Synligt ärr. |
-| 7 | **Hand avhuggen.** Handen är borta. **Kraftig blödning (2 nivåer)**. **Permanent:** Amputerad hand. |
+| 2 | **Köttskada.** Blodigt men ytligt. **Lätt blödning (1 nivå)** tills behandlad. |
+| 3 | **Senan skuren.** **+1 svårighet** på Smidighet-slag med drabbad kroppsdel tills behandlad. |
+| 4 | **Djupt hugg i arm.** Du tappar vad du håller i. **Lätt blödning (2 nivåer)**. Armen obrukbar tills behandlad. |
+| 5 | **Djupt hugg i ben.** **Kraftig blödning (1 nivå)**. Förflyttning halverad tills behandlad. |
+| 6 | **Ansikte skuret.** Blod i ögonen. **+2 svårighet** på Sinnen (syn) tills du torkar bort blodet (bihandling). **Lätt blödning (1 nivå)**. |
+| 7 | **Skadat öga.** **+2 svårighet** på Sinnen (syn) och avståndsattacker. **Kraftig blödning (1 nivå)**. **Läketid:** 1T12 veckor. |
 | 8 | **Djupt brösthugg.** **Kraftig blödning (1 nivå)**. **+1 svårighet** på alla slag. **Döende:** Överlevnadsslag per timme. |
-| 9 | **Ben avhugget.** Du faller. Kan inte gå. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
-| 10 | **Arm avhuggen.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
-| 11 | **Halshugg – delvis.** Du kan inte tala. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Samspel och tal. |
-| 12 | **Halshugg – total.** Du dör omedelbart. |
+| 9 | **Svårt skadat ben.** Du faller. Kan bara krypa. **Kraftig blödning (2 nivåer)**. **Döende:** Överlevnadsslag per timme. **Läketid:** 1T12 månader. |
+| 10 | **Svårt skadad arm.** Armen obrukbar. **Kraftig blödning (2 nivåer)**. **Döende:** Överlevnadsslag per timme. **Läketid:** 1T12 månader. |
+| 11 | **Ben avhugget.** Du faller. Kan inte gå. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
+| 12 | **Halshugg.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** svår ärrbildning, –2 på Samspel. |
 
 ---
 
@@ -84,16 +84,16 @@ Brännskador från eld, het ånga, frätande ämnen.
 |-----|--------|
 | 1 | **Svedd.** Obehagligt. Ta **+1 Stress**. |
 | 2 | **Ytlig brännskada.** Smärtsamt. **+1 svårighet** på finmotorik om händerna är drabbade. |
-| 3 | **Bränd hud.** **+1 svårighet** på slag som involverar det brända området. |
+| 3 | **Bränd hud.** **+1 svårighet** på slag som involverar det brända området tills behandlad. |
 | 4 | **Brända kläder.** Om du inte släcker (bihandling) tar du **1T12 skadetärningar** nästa runda. |
 | 5 | **Djup brännskada.** Extrem smärta. Ta **+2 Stress**. **+1 svårighet** på alla slag tills behandlad. |
 | 6 | **Brända händer.** Du tappar vad du håller i. Kan inte använda händerna tills behandlad. |
-| 7 | **Bränt ansikte.** **+2 svårighet** på Sinnen (syn). **Lätt blödning**. **Permanent:** Synliga ärr, –1 på Samspel (charm). |
+| 7 | **Bränt ansikte.** **+2 svårighet** på Sinnen (syn) tills behandlad. **Lätt blödning (1 nivå)**. |
 | 8 | **Svåra brännskador.** **+2 svårighet** på alla fysiska slag. **Döende:** Överlevnadsslag per timme. |
 | 9 | **Inandad het gas.** Lungorna skadas. Endast en bihandling per runda. **Döende:** Överlevnadsslag per minut. |
-| 10 | **Tredje gradens brännskada.** **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –2 på Smidighet och Fysik. |
-| 11 | **Eldstorm.** Hela kroppen brinner. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** svåra ärr och –2 på Samspel. |
-| 12 | **Förkolnad.** Du dör omedelbart. |
+| 10 | **Allvarliga brännskador.** **Döende:** Överlevnadsslag per minut. **Läketid:** 1T12 månader. |
+| 11 | **Tredje gradens brännskada.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** svåra ärr, –1 på Smidighet. |
+| 12 | **Förkolnad.** Du dör omedelbart om du inte stabiliseras. Om du överlever: **Permanent** –2 på Smidighet och Samspel. |
 
 ---
 
@@ -147,15 +147,15 @@ Granater, bomber, minor – tryckvåg och splitter.
 |-----|--------|
 | 1 | **Överrumplad.** Du faller omkull. Ta **+1 Stress**. |
 | 2 | **Tillfällig dövhet.** **+2 svårighet** på Sinnen (hörsel) under 1T12 minuter. |
-| 3 | **Splitter i huden.** Smärtsamt. **Lätt blödning**. Ta **+1 Stress**. |
-| 4 | **Kastades iväg.** Du flyger 1T12 meter och faller. Ta **1T12 skadetärningar** (Kross) från fallet. |
+| 3 | **Splitter i huden.** Smärtsamt. **Lätt blödning (1 nivå)**. Ta **+1 Stress**. |
+| 4 | **Slungades iväg.** Du flyger 1T12 meter och faller. Ta **1T12 skadetärningar** (Kross) från fallet. |
 | 5 | **Tryckvågsskada.** Lungorna skadas. **+1 svårighet** på fysiska slag. Ta **+2 Stress**. |
 | 6 | **Djupt splitter.** **Kraftig blödning (1 nivå)**. Splittret måste opereras ut. |
-| 7 | **Örontrumma sprängd.** **Permanent:** –2 på Sinnen (hörsel). Hörapparat minskar till –1. |
+| 7 | **Örontrumma sprucken.** **+2 svårighet** på Sinnen (hörsel). **Läketid:** 1T12 månader. |
 | 8 | **Krossade revben.** **+2 svårighet** på Fysik-slag. **Kraftig blödning (1 nivå)**. **Döende:** Överlevnadsslag per timme. |
-| 9 | **Ben avslitet.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
-| 10 | **Arm avsliten.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
-| 11 | **Massiv intern skada.** Inre organ krossade av tryckvågen. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik. |
+| 9 | **Svårt skadat ben.** Benet obrukbart. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Läketid:** 1T12 månader. |
+| 10 | **Svårt skadad arm.** Armen obrukbar. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Läketid:** 1T12 månader. |
+| 11 | **Massiv intern skada.** Inre organ krossade av tryckvågen. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik, permanent hörselskada. |
 | 12 | **Bortsprängd.** Du dör omedelbart. |
 
 ---
@@ -174,10 +174,10 @@ Toxiner, droger, kemiska ämnen.
 | 6 | **Hallucinationer.** Du ser och hör saker som inte finns. **+2 svårighet** på alla slag under 1T12 timmar. Ta **+2 Stress**. |
 | 7 | **Kramper.** Du faller och rycker okontrollerat i 1T12 rundor. Kan inte agera. |
 | 8 | **Andnöd.** Endast en bihandling per runda. **Döende:** Överlevnadsslag per minut om ingen motgift. |
-| 9 | **Lever-/njursvikt.** **Döende:** Överlevnadsslag per timme. Kräver sjukhusvård. Om du överlever: **Permanent** –1 på Fysik. |
+| 9 | **Lever-/njursvikt.** **Döende:** Överlevnadsslag per timme. Kräver sjukhusvård. |
 | 10 | **Hjärtarytmi.** Ta **+2 Stress**. **Döende:** Överlevnadsslag per minut. |
-| 11 | **Neurologisk skada.** Slår ut nervsystemet. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Smidighet. |
-| 12 | **Systemisk kollaps.** Du dör inom 1T12 rundor om ingen motgift. |
+| 11 | **Neurologisk skada.** Slår ut nervsystemet. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Smidighet. |
+| 12 | **Systemisk kollaps.** Du dör inom 1T12 rundor om ingen motgift. Om du överlever: **Permanent** –1 på Fysik. |
 
 ---
 
@@ -197,7 +197,7 @@ När blödningsskada orsakar en kritisk träff (12 på blödningstärning).
 | 8 | **Förlorar medvetandet.** Du svimmar. Vaknar om du stabiliseras eller efter 1T12 minuter. |
 | 9 | **Chock.** **Medvetslös**. Kräver stabilisering för att vakna. |
 | 10 | **Hypovolemisk chock.** **Döende:** Överlevnadsslag per minut. |
-| 11 | **Organsvikt.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Fysik. |
+| 11 | **Organsvikt.** **Döende:** Överlevnadsslag per runda. **Permanent:** –1 på Fysik. |
 | 12 | **Hjärtstillestånd.** Du dör om inte hjärt-lungräddning påbörjas omedelbart. |
 
 ---
@@ -220,3 +220,24 @@ Fall, kvävning, elektricitet, hypotermi, och andra skadetyper.
 | 10 | **Intern skada.** **+2 svårighet** på alla slag. **Döende:** Överlevnadsslag per timme. |
 | 11 | **Svår systemisk skada.** **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –1 på Fysik. |
 | 12 | **Kritisk organsvikt.** Du dör inom 1T12 rundor om du inte stabiliseras. |
+
+---
+
+## Strålning
+
+Strålsjuka, radioaktiv exponering.
+
+| T12 | Effekt |
+|-----|--------|
+| 1 | **Illamående.** Ta **+1 Stress**. |
+| 2 | **Svaghet.** **+1 svårighet** på Fysik-slag under 1T12 dagar. |
+| 3 | **Kräkningar.** Du förlorar 1 Stress och kan inte äta under det kommande dygnet. |
+| 4 | **Hudutslag.** Röda, brännskadeliknande utslag. **+1 svårighet** på Smidighet-slag under 1T12 dagar. |
+| 5 | **Håravfall.** Håret faller av i tussar. Ta **+2 Stress**. |
+| 6 | **Feber.** Immunförsvaret reagerar. **+1 svårighet** på alla slag under 1T12 dagar. |
+| 7 | **Inre blödning.** **Lätt blödning (2 nivåer)**. Kräver sjukhusvård för att stoppa. |
+| 8 | **Benmärgsskada.** **+2 svårighet** på alla slag. **Döende:** Överlevnadsslag per dag. |
+| 9 | **Lungskada.** Endast en bihandling per runda. **Döende:** Överlevnadsslag per timme. |
+| 10 | **Njursvikt.** **Döende:** Överlevnadsslag per timme. Kräver sjukhusvård. |
+| 11 | **Organsvikt.** Lever och njurar slutar fungera. **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –1 på Fysik. |
+| 12 | **Akut stråldöd.** Kroppen kollapsar. Du dör inom 1T12 timmar om du inte får avancerad vård. Om du överlever: **Permanent** –2 på Fysik. |

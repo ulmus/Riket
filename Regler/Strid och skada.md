@@ -145,16 +145,31 @@ En annan person kan stabilisera dig med **Smidighet + Analys (Medicin)**:
 
 ## Blödning
 
-Vissa kritiska träffar orsakar **blödning** – lätt eller kraftig:
+Vissa kritiska träffar orsakar **blödning**. Blödning är kumulativ – du kan ha flera nivåer av både lätt och kraftig blödning samtidigt.
+
+### Blödningstyper
 
 | Typ | Frekvens | Skadetärningar |
 |-----|----------|----------------|
-| **Lätt blödning** | I början av varje minut | 1T12 |
+| **Lätt blödning** | I början av varje minut | 1T12 per nivå |
 | **Kraftig blödning** | I början av varje runda | 1T12 per nivå |
 
-Blödningsskada fungerar som vanliga skadetärningar: 10+ = 1 KP, 12 = kritisk träff (slå på tabellen för **Blödning**, se [[Kritiska träffar#Blödning]]).
+### Kumulativ blödning
 
-Blödning stoppas genom behandling (se [[Läkning & vård]]).
+- Varje gång du får blödning, lägg till nivåerna till din nuvarande blödning.
+- Om du har **10 eller fler nivåer lätt blödning**, ersätts 10 nivåer lätt blödning med **1 nivå kraftig blödning**.
+- *Exempel: Du har 4 nivåer lätt blödning och får ytterligare 3 nivåer → du har nu 7 nivåer lätt blödning.*
+- *Exempel: Du har 8 nivåer lätt blödning och får 4 nivåer till → 12 nivåer blir 1 nivå kraftig + 2 nivåer lätt.*
+
+### Blödningsskada
+
+Blödningsskada fungerar som vanliga skadetärningar:
+- **10–11** = 1 KP skada.
+- **12** = 1 KP skada + kritisk träff (slå på tabellen för **Blödning**, se [[Kritiska träffar#Blödning]]).
+
+### Stoppa blödning
+
+Blödning stoppas genom behandling (se [[Läkning & vård]]). Lyckad behandling stoppar **alla** nivåer av blödning från en specifik skada.
 
 ## Sammanfattning
 
