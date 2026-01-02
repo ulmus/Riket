@@ -33,27 +33,27 @@ Lätta vapen har –1 Skadebonus jämfört med liknande vapen.
 
 ## Avståndsvapen
 
-| Vapen             | Räckvidd | Skadebonus | Skadetyp    | Egenskaper                |
-| ----------------- | -------: | ---------: | ----------- | ------------------------- |
-| Pistol            |     25 m |         +4 | Småkaliber  | –                         |
-| Revolver          |     30 m |         +4 | Småkaliber  | –                         |
-| K-pist            |     40 m |         +4 | Småkaliber  | Automateld                |
-| Automatkarbin     |     80 m |         +5 | Småkaliber  | Automateld                |
-| Gevär             |    100 m |         +6 | Högkaliber  | Grovkalibrigt             |
-| Hagelgevär        |     10 m |         +5 | Småkaliber  | Hagelsvärm                |
-| Kulspruta 5.56 mm |    200 m |         +6 | Småkaliber  | Automateld                |
-| Kulspruta 7,62 mm |    300 m |         +7 | Högkaliber  | Automateld, Grovkalibrigt |
+| Vapen             | Räckvidd | Skadebonus | Kritisk bonus | Skadetyp    | Egenskaper                |
+| ----------------- | -------: | ---------: | ------------: | ----------- | ------------------------- |
+| Pistol            |     25 m |         +4 |            +0 | Småkaliber  | –                         |
+| Revolver          |     30 m |         +4 |            +0 | Småkaliber  | –                         |
+| K-pist            |     40 m |         +4 |            +0 | Småkaliber  | Automateld                |
+| Automatkarbin     |     80 m |         +5 |            +1 | Småkaliber  | Automateld                |
+| Gevär             |    100 m |         +6 |            +2 | Högkaliber  | Grovkalibrigt             |
+| Hagelgevär        |     10 m |         +5 |            +1 | Småkaliber  | Hagelsvärm                |
+| Kulspruta 5.56 mm |    200 m |         +6 |            +2 | Småkaliber  | Automateld                |
+| Kulspruta 7,62 mm |    300 m |         +7 |            +3 | Högkaliber  | Automateld, Grovkalibrigt |
 
 ## Närstridsvapen
 
-| Vapen    | Skadebonus | Skadetyp | Egenskaper |
-| -------- | ---------: | -------- | ---------- |
-| Slagsmål |         +1 | Kross    | Lätt       |
-| Kniv     |         +2 | Stick    | –          |
-| Batong   |         +2 | Kross    | –          |
-| Sabel    |         +3 | Hugg     | Finess     |
-| Yxa      |         +3 | Hugg     | –          |
-| Spjut    |         +3 | Stick    | –          |
+| Vapen    | Skadebonus | Kritisk bonus | Skadetyp | Egenskaper |
+| -------- | ---------: | ------------: | -------- | ---------- |
+| Slagsmål |         +1 |            −1 | Kross    | Lätt       |
+| Kniv     |         +2 |            +0 | Stick    | –          |
+| Batong   |         +2 |            +0 | Kross    | –          |
+| Sabel    |         +3 |            +1 | Hugg     | Finess     |
+| Yxa      |         +3 |            +2 | Hugg     | –          |
+| Spjut    |         +3 |            +1 | Stick    | –          |
 
 ## Skydd och rustning
 

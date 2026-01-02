@@ -85,19 +85,24 @@ Skydd hindrar först icke-kritiska träffar och först när alla de har blivit a
 
 ## 4. Kritiska träffar
 
-Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 1T12 på lämplig kritisk träff-tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
+Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 1T12 och lägg till modifikatorer för att bestämma effekten på lämplig kritisk träff-tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
 
-Om *flera* skadetärningar visar 12: slå en gång per 12:a och använd det **högsta** resultatet.
+**Modifikatorer till slaget:**
+- **+1 per ytterligare 12:a** på skadetärningarna
+- **Vapnets kritiska skadebonus** (från −1 till +3, se [[Vapen]])
+- **Målets kritiska tålighet** (om något, endast för stora/tåliga varelser)
+
+Om *flera* skadetärningar visar 12: slå **en gång** och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.
 
 Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavsett hur mycket KP-skada som gick igenom.
 
 ## Exempel
 
-> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadebonus +4** och skadetyp **Småkaliber**.
+> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadebonus +4**, **Kritisk bonus +0**, och skadetyp **Småkaliber**.
 > Antons träffslag ger **2 framgångar**. Han slår alltså **2 + 4 = 6 skadetärningar**.
 > Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada är **3 KP**.
 > Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada och är Sårad (tröskeln är >2) och tar därför 1 Stress och har +1 på alla svårigheter.
-> Dessutom visade en tärning **12** – kritisk träff! Anton slår på tabellen för **Småkalibriga eldvapen** och får en 8: *Genomskjuten axel*.
+> Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 för kritisk träff och får en 8. Med pistolens kritiska bonus på +0 blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
 
 # Effekter av skada
 
