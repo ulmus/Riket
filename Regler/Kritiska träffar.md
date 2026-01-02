@@ -6,11 +6,11 @@ När en skadetärning visar **12** inträffar en **kritisk träff**. Slå 1T12 p
 
 Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att upphöra. Det finns tre vårdtyper:
 
-| Vårdtyp | Slag | Används för |
-|---------|------|-------------|
-| **Medicin** | Analys + Sinnen | Blödning, stabilisering, gift, yrsel, feber |
-| **Kirurgi** | Analys + Smidighet | Brutna ben, djupa sår, inbäddade kulor, organskador |
-| **Psykologi** | Analys + Samspel | Stress, hallucinationer, chock |
+| Vårdtyp       | Slag               | Används för                                         |
+| ------------- | ------------------ | --------------------------------------------------- |
+| **Medicin**   | Analys + Sinnen    | Blödning, stabilisering, gift, yrsel, feber         |
+| **Kirurgi**   | Analys + Smidighet | Brutna ben, djupa sår, inbäddade kulor, organskador |
+| **Psykologi** | Analys + Samspel   | Stress, hallucinationer, chock                      |
 
 **Svårighet:** Grundsvårighet är 0 om inget annat anges. Effekter kan ange högre svårighet, t.ex. "(Kirurgi, +1 svårighet)".
 
@@ -24,39 +24,39 @@ Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att u
 
 Trubbiga slag, fall, explosiva tryckvågor. *Behandlas med Kirurgi (brutna ben) eller Medicin (övriga).*
 
-| T12 | Effekt |
-|-----|--------|
-| 1 | **Blåmärke.** Smärtsamt men ofarligt. Ta **+1 Stress**. |
-| 2 | **Andan slagen ur dig.** Du tappar andan. Förlorar din nästa bihandling. |
-| 3 | **Stukat finger.** **+1 svårighet** på finmotorik tills behandlad. |
-| 4 | **Örfil.** Du är desorienterad. **+1 svårighet** på Sinnen-slag under 1T12 rundor. |
-| 5 | **Slagen till marken.** Du faller omkull och tappar vad du håller i. Ta **+1 Stress**. |
-| 6 | **Knäckt revben.** Smärtsamt att andas. **+1 Stress** varje gång du utför en Fysik- eller Strid-handling tills behandlad. |
-| 7 | **Krossad hand.** Handen är obrukbar tills behandlad (Kirurgi). Du tappar omedelbart vad du håller i. **Läketid:** 1T12 veckor. |
-| 8 | **Hjärnskakning.** Du är yr. Om du misslyckas med Analys- eller Sinnen-slag tappar du din nästa handling. |
-| 9 | **Brutet ben.** Du faller omkull. Du kan inte gå eller springa, endast krypa (bihandling för 1 meter). Behandlas med Kirurgi. **Läketid:** 1T12 veckor. |
-| 10 | **Bruten arm.** Armen är obrukbar. Försök att använda den misslyckas automatiskt. Behandlas med Kirurgi. **Läketid:** 1T12 veckor. |
-| 11 | **Skalltrauma.** Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. **Döende:** Överlevnadsslag per timme. **Permanent:** –1 på Analys-slag under tidspress. |
-| 12 | **Krossad skalle.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Analys och Sinnen. |
+| T12 | Effekt                                                                                                                                                                     |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Blåmärke.** Smärtsamt men ofarligt. Ta **+1 Stress**.                                                                                                                    |
+| 2   | **Andan slagen ur dig.** Du tappar andan. Förlorar din nästa bihandling.                                                                                                   |
+| 3   | **Stukat finger.** **+1 svårighet** på finmotorik tills behandlad.                                                                                                         |
+| 4   | **Örfil.** Du är desorienterad. **+1 svårighet** på Sinnen-slag under 1T12 rundor.                                                                                         |
+| 5   | **Slagen till marken.** Du faller omkull och tappar vad du håller i. Ta **+1 Stress**.                                                                                     |
+| 6   | **Knäckt revben.** Smärtsamt att andas. **1 Stress** varje gång du rullar för Fysik eller Strid tills behandlad.                                                           |
+| 7   | **Krossad hand.** Handen är obrukbar tills behandlad (Kirurgi). Du tappar omedelbart vad du håller i. **Läketid:** 1T12 veckor.                                            |
+| 8   | **Hjärnskakning.** Du är yr. Om du misslyckas med Analys- eller Sinnen-slag tappar du din nästa handling.                                                                  |
+| 9   | **Brutet ben.** Du faller omkull. Du kan inte gå eller springa, endast krypa (bihandling för 1 meter). Behandlas med Kirurgi. **Läketid:** 1T12 veckor.                    |
+| 10  | **Bruten arm.** Armen är obrukbar. Försök att använda den misslyckas automatiskt. Behandlas med Kirurgi. **Läketid:** 1T12 veckor.                                         |
+| 11  | **Skalltrauma.** Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. **Döende:** Överlevnadsslag per timme. **Permanent:** –1 på Analys-slag under tidspress. |
+| 12  | **Krossad skalle.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Analys och Sinnen.                                                         |
 
 ## Stick
 
 Knivar, spjut, pilar – vapen som penetrerar djupt. *Behandlas med Medicin (blödning) eller Kirurgi (djupa sår, +1 svårighet för organskador).*
 
-| T12 | Effekt |
-|-----|--------|
-| 1 | **Ytlig rispa.** Smärtsamt. Ta **+1 Stress**. |
-| 2 | **Skärsår.** **Lätt blödning (1 nivå)** tills behandlad. |
-| 3 | **Genomstungen muskel.** **+1 svårighet** på Fysik-slag med den kroppsdelen tills behandlad. |
-| 4 | **Nervträff.** Du tappar vad du håller i. **+1 svårighet** på att använda handen under 1T12 minuter. |
-| 5 | **Djupt sticksår.** **Kraftig blödning (1 nivå)** tills behandlad. Ta **+1 Stress**. |
-| 6 | **Genomstungen hand/fot.** Kroppsdelen är obrukbar tills behandlad. **Lätt blödning (1 nivå)**. |
-| 7 | **Stucken i magen.** **Kraftig blödning (1 nivå)**. **+2 svårighet** på Fysik-slag. **Döende:** Överlevnadsslag per timme om obehandlad. Behandlas med Kirurgi (+1 svårighet). |
-| 8 | **Genomstungen lunga.** Du kippar efter luft. Endast en bihandling per runda tills behandlad (Kirurgi, +1 svårighet). **Kraftig blödning (1 nivå)**. |
-| 9 | **Njurträff.** Extremt smärtsamt. Ta **+2 Stress**. **Kraftig blödning (2 nivåer)**. **Döende:** Överlevnadsslag per minut. |
-| 10 | **Artärblödning.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda tills blödningen stoppas. |
-| 11 | **Genomstucket hjärta.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Fysik. |
-| 12 | **Dödligt sticksår.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik. |
+| T12 | Effekt                                                                                                                                                                         |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | **Ytlig rispa.** Smärtsamt. Ta **1 Stress**.                                                                                                                                   |
+| 2   | **Skärsår.** **Lätt blödning (1 nivå)** tills behandlad.                                                                                                                       |
+| 3   | **Genomstucken lårmuskel.** Halverad förflyttning och ta 1 Stress varje gång du förflyttar dig. Båda effekter gäller tills behandlad. **Lätt blödning (1 nivå)**               |
+| 4   | **Genomstucken hand.** Slå 1T12, udda vänster, jämnt höger hand. Alla slag som görs med handen har **+1 svårighet** och **Lätt Blödning (1 nivå)** tills behandlad.            |
+| 5   | **Djupt sticksår.** **Kraftig blödning (1 nivå)** tills behandlad. Ta **1 Stress**.                                                                                            |
+| 6   | **Genomstucken hand/fot.** Slå 1T12, 1-3 vänster fot, 4-6 höger fot, 7-9 vänster hand, 10-12 höger hand. Kroppsdelen är obrukbar tills behandlad. **Lätt blödning (1 nivå)**.  |
+| 7   | **Stucken i magen.** **Kraftig blödning (1 nivå)**. **+1 svårighet** på Fysik-slag. **Döende:** Överlevnadsslag per timme om obehandlad. Behandlas med Kirurgi (+1 svårighet). |
+| 8   | **Perforerad lunga.** Du kippar efter luft. Endast en bihandling per runda tills behandlad (Kirurgi, +1 svårighet). **Kraftig blödning (1 nivå)**.                             |
+| 9   | **Njurträff.** Extremt smärtsamt. Ta **2 Stress**. **Kraftig blödning (2 nivåer)**. **Döende:** Överlevnadsslag per minut.                                                     |
+| 10  | **Artärblödning.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda tills blödningen stoppas.                                                            |
+| 11  | **Genomstucket hjärtsäck.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –1 på Fysik.                                                                 |
+| 12  | **Dödligt sticksår.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik.                                                                       |
 
 ## Hugg
 
