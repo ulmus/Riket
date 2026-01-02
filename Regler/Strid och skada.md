@@ -89,7 +89,7 @@ Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 
 
 **Modifikatorer till slaget:**
 - **+1 per ytterligare 12:a** på skadetärningarna
-- **Vapnets kritiska skadebonus** (från −2 till +3, se [[Vapen]])
+- **Vapnets kritiska skadebonus** (från −1 till +3, se [[Vapen]])
 - **Målets kritiska tålighet** (om något, endast för stora/tåliga varelser)
 
 Om *flera* skadetärningar visar 12: slå **en gång** och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.

@@ -48,7 +48,7 @@ Lätta vapen har –1 Skadebonus jämfört med liknande vapen.
 
 | Vapen    | Skadebonus | Kritisk bonus | Skadetyp | Egenskaper |
 | -------- | ---------: | ------------: | -------- | ---------- |
-| Slagsmål |         +1 |            −2 | Kross    | Lätt       |
+| Slagsmål |         +1 |            −1 | Kross    | Lätt       |
 | Kniv     |         +2 |            +0 | Stick    | –          |
 | Batong   |         +2 |            +0 | Kross    | –          |
 | Sabel    |         +3 |            +1 | Hugg     | Finess     |
