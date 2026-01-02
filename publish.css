@@ -17,6 +17,13 @@
 |_ OBSIDIAN HUB
 */
 
+/** I Rikets Tjänst additions, Jens Alm, 2025-12-28 */
+.irt-image-page img {
+    float: right;
+    margin: 0.5rem;
+    width: 200px;
+}
+
 /* +++ FONT FACES */
 
 @import url('https://fonts.googleapis.com/css2?family=Lekton:ital,wght@0,400;0,700;1,400&display=swap');

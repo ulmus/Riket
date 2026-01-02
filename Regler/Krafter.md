@@ -2,8 +2,6 @@
 
 Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel.
 
----
-
 ## Kraftens tema
 
 Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
@@ -39,7 +37,7 @@ Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
 
 ### Steg 2: Bestäm kostnad
 
-**Fokuskostnad:**
+#### Fokuskostnad:
 
 | Kostnad | Kraftnivå |
 |---------|-----------|
@@ -48,7 +46,7 @@ Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
 | **2** | Kraftfull eller bred effekt |
 | **3+** | Extremt kraftfull |
 
-**Handlingskostnad:**
+#### Handlingskostnad:
 
 | Handlingstyp | Användning |
 |--------------|------------|
@@ -78,19 +76,20 @@ Begränsningar gör kraften billigare eller mer rimlig. Exempel:
 | **Koncentration** | Avbryts om du tar skada |
 | **Synlig** | Kraften avslöjar dig |
 | **Urladdning** | Kan bara användas en gång per scen |
-| **Självskada** | Du tar Stress eller skada |
+| **Självskada** | Du tar extra Stress eller skada |
 
 ### Steg 5: Lägg till förstärkningar
 
-Förstärkningar är tilläggseffekter som kan köpas med extra Fokus:
+Krafter kan förstärkas genom att spendera fler Fokus eller genom att få fler Framgångar på slaget för kraften (om kraften har ett slag). Grundprincipen är att extra Fokus används för att lägga till effekter till kraften eller förstärka de effekter som finns på ett sätt som kräver planering, det vill säga spelaren behöver veta i förväg om det är relevant. Extra framgångar förstärker istället befintliga effekter, så som mer skada, högre bonus etc. Exempel:
 
 - **+1 Fokus:** Öka räckvidden ett steg
 - **+1 Fokus:** Lägg till ett extra mål
 - **+1 Fokus:** Öka varaktigheten
 - **+1 Fokus:** Öka effektens intensitet
 - **+2 Fokus:** Dramatisk förstärkning
+- **1 Framgång:** +1 skadetärning
+- **1 Framgång:** +1 bonus på egenskap
 
-Extra framgångar på aktiveringsslaget *förstärker* det kraften redan gör (varaktighet, intensitet, räckvidd, etc.).
 
 ## Attacker med krafter
 
@@ -138,8 +137,6 @@ Spelledaren uppmuntras att skapa dramatiska konsekvenser för misslyckade eller 
 
 - **+1 Fokus:** *Förstärkning*
 - **1 Framgång:** +1 skadetärning
-
----
 
 # Exempelkrafter
 

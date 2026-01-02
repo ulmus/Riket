@@ -29,7 +29,7 @@ Varje karaktär börjar med 17 poäng att fördela med minst 1 och högst 3 på 
 
 ## Expertis
 
-Som tillägg till Egenskaper finns **Expertis**, en färdighet som representerar träning inom ett visst område eller yrke. Expertis ger +1 på slag där expertisen är relevant. Exempel på expertiser är: Läkare, Soldat, Pilot, Ingenjör, Spion, Förhandlare, Mekaniker, Sprängtekniker, Narkotikaexpert, etc. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser.
+Som tillägg till Egenskaper finns **Expertis**, som representerar träning och yrkeserfarenhet inom ett visst område. Expertis ger +1 på slag där expertisen är relevant. Exempel på expertiser är: Läkare, Soldat, Pilot, Ingenjör, Spion, Förhandlare, Mekaniker, Sprängtekniker, Narkotikaexpert, etc. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser.
 
 Utöver att Expertis ger +1 på relevanta slag så finns det också aktiviteter som kräver Expertis för att kunna utföras. Den som försöker utföra en sådan aktivitet utan relevant Expertis får -3 på slaget. Se [[Expertiser]] för detaljer om varje expertis och deras kopplade förmågor.
 
@@ -86,11 +86,15 @@ Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fo
 
 ### Fokus till Momentum
 
-Varje ny scen återställs personligt Fokus till **Momentum**. Momentum representerar hur snabbt storyn rör sig just nu och är samma för alla karaktärer. Det startar på 1 per spelmöte och ändras utifrån berättelsen.
+Varje ny scen återställs personligt Fokus till **Momentum**. Momentum representerar hur snabbt storyn rör sig just nu och är samma för alla karaktärer. Det startar normalt på 1 i början av ett äventyr och ändras utifrån berättelsen.
 
 - 1 - Storyn rör sig långsamt
 - 3 - Storyn utvecklas snabbt
 - 5 - Klimax
+
+### Scener
+
+En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvarande. Som grund gäller att om handlingen gör ett hopp framåt i tiden så är det en ny scen efter det.
 
 ## Strid och skada
 
