@@ -23,12 +23,12 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 **Nya kategorier:**
 - Utökade eldstridsförmågor (hagelgevär, granater, kulsprutor)
 - Sniper-förmågor (4 nya avancerade förmågor)
-- Försvar och beskyddande (7 nya förmågor för tank-builds)
+- Försvar och beskyddande (7 nya förmågor för försvarare-inriktningar)
 - Infiltration och hemlighet (3 nya förmågor)
 - Taktik och situationer (5 nya förmågor)
-- Team-support (6 nya förmågor)
+- Lagstöd (6 nya förmågor)
 - Desperata manövrar (5 nya förmågor)
-- Combat medic (5 nya förmågor)
+- Stridsläkare (5 nya förmågor)
 
 **Totalt tillagt:** 60+ nya förmågor
 
@@ -50,17 +50,17 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 - Snabb tabell över bonustyper
 - Fokus-ekonomi sammanfattning
 - Handlingstyper
-- 8 populära byggen med snabböversikt
+- 8 populära specialiseringar med snabböversikt
 - Alla förmågor kategoriserade och listade
 - Vanliga frågor
 
 **Storlek:** 10KB, ~300 rader
 
-## Nya combat builds
+## Nya stridsinriktningar
 
-### Kompletta byggen
+### Kompletta specialiseringar
 
-1. **Tank/Bodyguard** ✅
+1. **Försvarare/Livvakt** ✅
    - Sköldväktare, Ge täckning, Offervilja, Järnvilja, Uthärda
    - Spärra vägen, Vunnen grund
 
@@ -79,11 +79,11 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
    - Automatsalva, Täckande eld, Undertryckande eld (befintliga)
    - K-pistexpert, Kulspruta, Kulsprutebas (nya)
 
-6. **Combat medic** ✅
+6. **Stridsläkare** ✅
    - Fältmedicinare i strid, Stridsstabilisering
    - Adrenalininjektion, Smärtlindring, Medicinsk expertis
 
-7. **Team-supporter** ✅
+7. **Lagstödjare** ✅
    - Lagarbete, Inspirera, Dela bördan
    - Hörnstenstrupp, Föregå med exempel, Nödåterställning
 
@@ -130,7 +130,7 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 - **Berserkerraseri:** 1 Stress per runda
 - **Kall precision:** 1 Stress för att ignorera skador
 
-### Team-support mekaniker
+### Lagstöd mekaniker
 
 **Nya sätt att hjälpa teamet:**
 - Ge bonusar till allierade
@@ -155,7 +155,7 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 - 0 Fokus: Passiv eller mycket begränsad
 - 1 Fokus: Standard, används ofta
 - 2 Fokus: Kraftfull, sparsam användning
-- 3+ Fokus: Ultimate, en gång per strid
+- 3+ Fokus: Ultimat förmåga, en gång per strid
 
 ### 3. Specialisering
 
@@ -182,7 +182,7 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 ### För spelare
 
 1. **Börja med:** "Snabbreferens - Förmågor.md"
-2. **Välj byggnad:** Se populära byggen
+2. **Välj byggnad:** Se populära specialiseringar
 3. **Detaljerad info:** "Förmågor.md"
 
 ### För kampanjstart
@@ -197,15 +197,15 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 ### Före förbättringarna
 
 - **Förmågor:** ~40
-- **Combat builds:** 5 (fäktare, obeväpnad, automatsalva, skarpskytt, pistol)
-- **Team-support:** Mycket begränsat (endast Officer)
+- **Stridsinriktningar:** 5 (fäktare, obeväpnad, automatsalva, skarpskytt, pistol)
+- **Lagstöd:** Mycket begränsat (endast Officer)
 - **Dokumentation:** Begränsad
 
 ### Efter förbättringarna
 
 - **Förmågor:** 100+
-- **Combat builds:** 12 kompletta
-- **Team-support:** 6 dedikerade förmågor + många hjälpförmågor
+- **Stridsinriktningar:** 12 kompletta
+- **Lagstöd:** 6 dedikerade förmågor + många hjälpförmågor
 - **Dokumentation:** 
   - Systemanalys: 17KB
   - Spelledarvägledning: 11KB
@@ -256,12 +256,12 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 
 **Tillvägagångssätt:**
 1. Låt spelare lära sig en ny förmåga
-2. Introducera team-support
+2. Introducera lagstöd
 3. Testa kombinationer
 
 ### Fas 3: Mastery (Session 6+)
 
-**Mål:** Expert-förmågor och unika byggen
+**Mål:** Expert-förmågor och unika specialiseringar
 
 **Tillvägagångssätt:**
 1. Låt spelare nå toppen av sina kedjor
@@ -300,7 +300,7 @@ Detta dokument sammanfattar de omfattande förbättringar och utökningar som gj
 
 Detta förmågosystem ger:
 
-✅ **Kompletta byggen** för alla combat-stilar  
+✅ **Kompletta specialiseringar** för alla combat-stilar  
 ✅ **Taktiskt djup** genom kombinationer  
 ✅ **Team-samarbete** genom support-förmågor  
 ✅ **Progression** genom förmågekedjor  

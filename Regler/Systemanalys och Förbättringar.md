@@ -23,27 +23,27 @@
 - Kan en Läkare med förmågan "Slagsmål" använda sin Expertis-bonus när hen lägger förband under eld?
 - Får en Officer med "Skarpskytt" sin Expertis-bonus vid ledning i strid?
 
-#### 2. Förmågor-täckning för combat builds
+#### 2. Förmågor-täckning för stridsinriktningar
 
-**Befintliga combat builds:**
+**Befintliga stridsinriktningar:**
 - ✅ **Fäktare**: Fäktning, Fint, Ripost (3 förmågor)
 - ✅ **Obeväpnad fighter**: Slagsmål, Jujutsu, Fällning, Fastlåsning, Uppercut (5 förmågor)
 - ✅ **Automatvapenskytt**: Automatsalva, Täckande eld, Undertryckande eld (3 förmågor)
 - ✅ **Skarpskytt**: Skarpskytt, Mästerskott, Kallblodig träff (3 förmågor)
 - ✅ **Pistolskytt**: Pistolskytt, Snabbskott, Skottväxling (3 förmågor)
 
-**Saknade combat builds:**
-- ❌ **Tank/Försvarare**: Inga förmågor för att ta skada för andra eller förbättra försvar
+**Saknade stridsinriktningar:**
+- ❌ **Försvarare/Försvarare**: Inga förmågor för att ta skada för andra eller förbättra försvar
 - ❌ **Stödjare/Medic i strid**: Begränsade combat-medicin förmågor
 - ❌ **Närstridsvapen** (utöver fäktning): Inga förmågor för batong, yxa, spjut
 - ❌ **Granat/Sprängexpert**: Inga stridsorienterade förmågor för sappör
 - ❌ **Skjoldväktare**: Inga förmågor för att skydda eller positionera sig
 - ❌ **Brottsling/Infiltratör i strid**: Inga förmågor för bakstick, fällor etc.
 
-#### 3. Team-support och situationella förmågor
+#### 3. Lagstöd och situationella förmågor
 
 **Begränsad teamsupport:**
-- Endast Officer har riktiga team-buff förmågor (Elddisciplin, Initieringsorder)
+- Endast Officer har riktiga team-förstärkning förmågor (Elddisciplin, Initieringsorder)
 - Inga förmågor för att dela Fokus eller manipulera andras Fokus
 - Begränsad interaktion med andras Stress
 
@@ -52,11 +52,11 @@
 - Begränsade positioneringsförmågor
 - Inga förmågor för att utnyttja fiendens svagheter
 
-#### 4. Bonus-typer och stacking
+#### 4. Bonus-typer och kombinering
 
 **Problem:**
 - Ingen tydlig kategorisering av bonustyper
-- Oklart vilka bonusar som stackar
+- Oklart vilka bonusar som kombineras
 - Ingen begränsning på maximala bonusar
 
 **Nuvarande bonustyper som används:**
@@ -100,15 +100,15 @@
 Du kan ge Akutvård som en Bihandling istället för Huvudhandling under strid.
 ```
 
-#### Princip 2: Expertis-bonusar stackar med Förmågor
+#### Princip 2: Expertis-bonusar kombineras med Förmågor
 
 **Regel:**
 - Om en Förmåga ger +1 på ett slag och din Expertis också gäller, får du totalt +2
 - Detta är avsiktligt och belönar specialisering
 
-### 2. Nya combat builds - Förmågor
+### 2. Nya stridsinriktningar - Förmågor
 
-#### Tank/Försvarare
+#### Försvarare/Försvarare
 
 ```markdown
 ## Sköldväktare
@@ -267,7 +267,7 @@ När du laddar spräng kan du spendera 1 Fokus. Vid detonation kan du välja exa
 När du kastar en granat kan du spendera 1 Fokus. Alla som ser/hör explosionen (även de som inte träffas) måste slå för Rädsla (Vilja + Strid, svårighet 0) eller ta 1 Stress.
 ```
 
-### 3. Team-support förmågor
+### 3. Lagstöd förmågor
 
 ```markdown
 ## Lagarbete
@@ -411,20 +411,20 @@ När du skjuter med uppsatt kulspruta (tar en bihandling att sätta upp) får du
 
 ## Riktlinjer för balans
 
-### Bonustyper och stacking
+### Bonustyper och kombinering
 
 **Bonustyper:**
-1. **Tärningsbonus** (+X tärningar) - stackar alltid
-2. **Slagbonus** (+X efter tärningsslag) - stackar med olika källor, max +3 totalt
-3. **Skadebonus** (+X skadetärningar) - stackar alltid
-4. **Svårighetsmodifikation** (påverkar motståndarens slag) - stackar, ingen max
-5. **Kritisk bonus** (+X på kritiska träffar) - stackar alltid
+1. **Tärningsbonus** (+X tärningar) - kombineras alltid
+2. **Slagbonus** (+X efter tärningsslag) - kombineras med olika källor, max +3 totalt
+3. **Skadebonus** (+X skadetärningar) - kombineras alltid
+4. **Svårighetsmodifikation** (påverkar motståndarens slag) - kombineras, ingen max
+5. **Kritisk bonus** (+X på kritiska träffar) - kombineras alltid
 6. **Skalbonus** (ökar skadetärning från T12 till T20) - ej stackande, tar högsta
 
 **Stackningsregler:**
-- Samma bonus från samma förmåga stackar inte (kan inte använda Sikta två gånger)
-- Samma bonus från olika förmågor stackar
-- Expertis-bonus stackar med alla förmågor
+- Samma bonus från samma förmåga kombineras inte (kan inte använda Sikta två gånger)
+- Samma bonus från olika förmågor kombineras
+- Expertis-bonus kombineras med alla förmågor
 - Max +5 tärningar från bonusar (exklusive grundegenskaper)
 
 ### Fokuskostnad
@@ -433,7 +433,7 @@ När du skjuter med uppsatt kulspruta (tar en bihandling att sätta upp) får du
 - **0 Fokus**: Alltid aktiv eller mycket begränsad användning
 - **1 Fokus**: Standard aktiv förmåga, används ofta
 - **2 Fokus**: Kraftfull förmåga med stor påverkan
-- **3+ Fokus**: "Ultimate" förmåga, används sällan
+- **3+ Fokus**: "Ultimat förmåga" förmåga, används sällan
 
 **Alternativa kostnader:**
 - Stress kan användas istället för Fokus vid desperation
@@ -463,10 +463,10 @@ När du skjuter med uppsatt kulspruta (tar en bihandling att sätta upp) får du
 
 ### Fas 1: Kärnförmågor
 - Implementera tank/försvarare förmågor
-- Implementera team-support förmågor
+- Implementera lagstöd förmågor
 - Implementera situationella förmågor
 
-### Fas 2: Combat builds
+### Fas 2: Stridsinriktningar
 - Testa och balansera närstridsvapen
 - Testa och balansera medic i strid
 - Testa och balansera infiltratör
@@ -495,9 +495,9 @@ När du skjuter med uppsatt kulspruta (tar en bihandling att sätta upp) får du
 ## Sammanfattning
 
 Detta dokument ger en fullständig analys av det nuvarande systemet och föreslår:
-1. **60+ nya förmågor** för att täcka luckor i combat builds
+1. **60+ nya förmågor** för att täcka luckor i stridsinriktningar
 2. **Tydliga regler** för bonusstacking och interaktion
-3. **Team-support mekaniker** för mer kooperativt spel
+3. **Lagstöd mekaniker** för mer kooperativt spel
 4. **Situationella förmågor** för taktiskt djup
 5. **Alternativa kostnader** för mer varierad resurshantering
 

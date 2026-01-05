@@ -514,7 +514,7 @@ Efter att du gjort en attack kan du spendera 1 Fokus för att omedelbart förfly
 *Krav:* Strid 3, Analys 2  
 Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Strid + Analys. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoäng försvinner i slutet av din nästa tur.
 
-# Team-support
+# Lagstöd
 
 ## Lagarbete
 
@@ -579,7 +579,7 @@ När du är Sårad kan du spendera 1 Stress som en fri handling. Till slutet av 
 *Krav:* Vilja 4  
 När du blir Medvetslös kan du omedelbart spendera all din kvarvarande Fokus för att stanna vid medvetande i 1 runda per Fokus spenderat. Efter detta faller du medvetslös oavsett skadeläge.
 
-# Combat medic
+# Stridsläkare
 
 ## Fältmedicinare i strid
 

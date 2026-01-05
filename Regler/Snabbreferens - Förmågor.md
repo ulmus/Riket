@@ -2,12 +2,12 @@
 
 ## Bonustyper - Hur de fungerar
 
-| Bonustyp | Format | Stackar? | Exempel |
+| Bonustyp | Format | Kombineras? | Exempel |
 |----------|--------|----------|---------|
 | **Tärningsbonus** | +X tärningar eller +X T12 | ✅ Ja, alltid | Sikta (+1), Expertis (+1), Stabil position (+1) = +3 totalt |
 | **Slagbonus** | +X på slaget | ✅ Ja, max +3 rekommenderat | Förmåga (+1), Situation (+1) = +2 totalt |
 | **Skadebonus** | +X skadetärningar | ✅ Ja, ingen max | Vapen (+4), Framgångar (+2), Bakstick (+2) = 8 totalt |
-| **Svårighetsmodifikation** | +X svårighet för motståndare | ✅ Ja, ingen max | Kan staplas högt |
+| **Svårighetsmodifikation** | +X svårighet för motståndare | ✅ Ja, ingen max | Kan kombineras högt |
 | **Kritisk bonus** | +X på kritiska träffar | ✅ Ja, ingen max | Vapen (+2), Förmåga (+1) = +3 totalt |
 | **Skalbonus** | Öka skalan | ❌ Nej, tar högsta | Mästerskott eller Uppercut, inte båda |
 
@@ -20,7 +20,7 @@
 | **0** | Passiv eller mycket begränsad |
 | **1** | Standard, används ofta |
 | **2** | Kraftfull, används sparsamt |
-| **3+** | Ultimate, en gång per strid |
+| **3+** | Ultimat förmåga, en gång per strid |
 
 ### Fokus-generering
 
@@ -39,13 +39,13 @@
 | Handling | Kostnad | Används för |
 |----------|---------|-------------|
 | **Huvudhandling** | 1 per tur | Attacker, komplexa manövrar, kraftfulla effekter |
-| **Bihandling** | 1 per tur (eller 3 om du skippar Huvudhandling) | Sikta, röra sig, dra vapen, snabba buffs |
+| **Bihandling** | 1 per tur (eller 3 om du skippar Huvudhandling) | Sikta, röra sig, dra vapen, snabba förstärkningar |
 | **Reaktion** | 1 per runda | Försvar, motattacker, skydda allierade |
 | **Gratis handling** | Flera | Prata, tappa något, vissa förmågor |
 
-## Populära byggen - Snabbguide
+## Populära specialiseringar - Snabbguide
 
-### 🛡️ Tank/Bodyguard
+### 🛡️ Försvarare/Livvakt
 **Förmågor:** Sköldväktare → Ge täckning → Offervilja  
 **Egenskaper:** Fysik 3+, Vilja 3+  
 **Spelstil:** Skydda allierade, absorbera skada
@@ -70,16 +70,16 @@
 **Egenskaper:** Fysik 3+, Strid 3+  
 **Spelstil:** Zonkontroll, suppression
 
-### ⚕️ Combat medic
+### ⚕️ Stridsläkare
 **Förmågor:** Fältmedicinare i strid → Stridsstabilisering → Adrenalininjektion  
 **Egenskaper:** Smidighet 2+, Analys 3+  
 **Expertis:** Läkare  
-**Spelstil:** Håll teamet vid liv, buffa
+**Spelstil:** Håll teamet vid liv, förstärka allierade
 
-### 👥 Team-supporter
+### 👥 Lagstödjare
 **Förmågor:** Lagarbete → Inspirera → Föregå med exempel  
 **Egenskaper:** Samspel 3+, Vilja 2+  
-**Spelstil:** Generera Fokus, buffa teamet
+**Spelstil:** Generera Fokus, förstärka teamet
 
 ### 🗡️ Infiltratör/Assassin
 **Förmågor:** Bakstick → Tyst ner → Svag punkt  
@@ -167,7 +167,7 @@
 - **Ompositionering** (Smidighet 3) → 1 Fokus, förflytta efter attack gratis
 - **Taktisk koordinering** (Strid 3, Analys 2) → Huvudhandling, generera Taktikpoäng för teamet
 
-## Team-support - Snabbreferens
+## Lagstöd - Snabbreferens
 
 - **Lagarbete** (Samspel 2) → Generera 1 Fokus när du hjälper och lyckas
 - **Inspirera** (Samspel 3) → 1 Fokus, ge allierad +1 Fokus
@@ -184,7 +184,7 @@
 - **Kall precision** (Analys 3, Strid 3) → 1 Stress när Sårad, ignorera svårigheter och +1 attack till nästa tur
 - **Sista kraften** (Vilja 4) → Alla Fokus när Medvetslös, stanna vid medvetande 1 runda/Fokus
 
-## Combat medic - Snabbreferens
+## Stridsläkare - Snabbreferens
 
 - **Fältmedicinare i strid** (Expertis: Läkare/Fältmedicinare) → Akutvård som Bihandling med +1 svårighet
 - **Stridsstabilisering** (Fältmedicinare i strid) → Minska även Stress vid stabilisering
@@ -197,7 +197,7 @@
 **F: Kan jag använda flera förmågor samtidigt?**  
 S: Ja, om de inte kräver samma handling. Sikta (Bihandling) + Mästerskott (Huvudhandling) fungerar.
 
-**F: Stackar Expertis med förmågor?**  
+**F: Kombineras Expertis med förmågor?**  
 S: Ja, i de flesta fall. Expertis: Soldat (+1) + Skarpskytt (+1) = +2 totalt.
 
 **F: Kan jag använda Stress istället för Fokus?**  

@@ -27,7 +27,7 @@
 **Innehåll:**
 - Bonustyper tabell
 - Fokus-ekonomi sammanfattning
-- 8 populära byggen
+- 8 populära specialiseringar
 - Alla förmågor i snabbformat
 - Vanliga frågor
 
@@ -52,7 +52,7 @@
 **Målgrupp:** Spelledare  
 **Storlek:** 11KB, ~350 rader  
 **Innehåll:**
-- Bonustyper och stacking-regler
+- Bonustyper och kombinering-regler
 - Fokus-ekonomi detaljer
 - Balansering vid bordet
 - 8 exempelkaraktärer
@@ -95,7 +95,7 @@
 
 ### Scenario 1: Ny spelare skapar sin första karaktär
 
-**Steg 1:** Läs "8 populära byggen" i **Snabbreferens**  
+**Steg 1:** Läs "8 populära specialiseringar" i **Snabbreferens**  
 **Steg 2:** Välj en arcketyp som låter intressant  
 **Steg 3:** Titta i **Förmågor** för att välja 2 förmågor  
 **Steg 4:** Planera framtida progression
@@ -110,7 +110,7 @@
 
 **Steg 1:** Läs "Balansering vid bordet" i **Spelledarvägledning**  
 **Steg 2:** Konsultera "Fokus-ekonomi" för kostnadsjusteringar  
-**Steg 3:** Använd "Bonustyper och stacking" för att förstå problem  
+**Steg 3:** Använd "Bonustyper och kombinering" för att förstå problem  
 **Steg 4:** Föreslå justering och testa
 
 **Dokument att använda:**
@@ -121,7 +121,7 @@
 
 ### Scenario 3: Grupp vill skapa balanserat team
 
-**Steg 1:** Alla läser "8 populära byggen" i **Snabbreferens**  
+**Steg 1:** Alla läser "8 populära specialiseringar" i **Snabbreferens**  
 **Steg 2:** Diskutera vilka roller teamet behöver  
 **Steg 3:** Varje spelare väljer komplementär roll  
 **Steg 4:** Se över team-support förmågor
@@ -146,7 +146,7 @@
 
 ---
 
-### Scenario 5: Spelare vill optimera sin build
+### Scenario 5: Spelare vill optimera sin specialisering
 
 **Steg 1:** Läs sin arcketyp i **Snabbreferens**  
 **Steg 2:** Studera förmågekedjor i **Förmågor**  
@@ -206,7 +206,7 @@ Vad behöver du?
 - **Försvar:** Förmågor → Försvar och beskyddande
 - **Team-support:** Förmågor → Team-support
 - **Taktik:** Förmågor → Taktik och situationer
-- **Combat medic:** Förmågor → Combat medic
+- **Stridsläkare:** Förmågor → Stridsläkare
 
 ### Specialist
 - **Infiltration:** Förmågor → Infiltration och hemlighet
@@ -219,10 +219,10 @@ Vad behöver du?
 
 | Vad du söker | Dokument | Sektion |
 |-------------|----------|---------|
-| Bonusstacking | Spelledarvägledning | Bonustyper och stacking |
+| Bonusstacking | Spelledarvägledning | Bonustyper och kombinering |
 | Fokus-kostnad | Spelledarvägledning | Fokus-ekonomi |
 | Stress vs Fokus | Snabbreferens | Fokus-ekonomi |
-| Byggen | Snabbreferens | Populära byggen |
+| Byggen | Snabbreferens | Populära specialiseringar |
 | Exempelkaraktärer | Spelledarvägledning | Exempelkaraktärer |
 | Balansering | Spelledarvägledning | Balansering vid bordet |
 | Design nya förmågor | Systemanalys | Förslag till förbättringar |
@@ -262,18 +262,18 @@ Vad behöver du?
 **Problem:** "Jag vill skapa egen förmåga"  
 **Lösning:** Se "Homebrew-förmågor" i Spelledarvägledning + "Designprinciper" i Systemanalys
 
-**Problem:** "Förstår inte hur bonusar stackar"  
-**Lösning:** Se "Bonustyper och stacking" i både Snabbreferens och Spelledarvägledning
+**Problem:** "Förstår inte hur bonusar kombineras"  
+**Lösning:** Se "Bonustyper och kombinering" i både Snabbreferens och Spelledarvägledning
 
 **Problem:** "Teamet är obalanserat"  
-**Lösning:** Se "Rollarchetyper och byggen" i Spelledarvägledning
+**Lösning:** Se "Rollarchetyper och specialiseringar" i Spelledarvägledning
 
 ---
 
 ## Checklista för första gången
 
 ### För spelare
-- [ ] Läs "8 populära byggen" i Snabbreferens
+- [ ] Läs "8 populära specialiseringar" i Snabbreferens
 - [ ] Läs "Fokus-ekonomi" i Snabbreferens
 - [ ] Välj förmågor från Förmågor
 - [ ] Planera progression

@@ -22,11 +22,11 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
    - Granater och sprängämnen
 
 3. **Försvar och beskyddande**
-   - Tank/bodyguard roller
+   - Försvarare/Livvakt-roller
    - Positionering och täckning
 
 4. **Infiltration och hemlighet**
-   - Sneak attacks
+   - Smygattacker
    - Bakstick
    - Positionering
 
@@ -35,7 +35,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
    - Taktisk koordinering
    - Positioneringsfördelar
 
-6. **Team-support**
+6. **Lagstöd**
    - Fokus-manipulation
    - Stress-hantering
    - Moral och inspiration
@@ -44,18 +44,18 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
    - Stress-baserade förmågor
    - Sista kraften
 
-8. **Combat medic**
+8. **Stridsläkare**
    - Fältmedicin under eld
    - Stabilisering
    - Buffs
 
-## Bonustyper och stacking
+## Bonustyper och kombinering
 
 ### Tärningsbonus
 
 **Format:** "+X tärningar" eller "+X T12"
 
-**Stacking:** Alla tärningsbonusar stackar alltid.
+**Stacking:** Alla tärningsbonusar kombineras alltid.
 
 **Exempel:**
 - Sikta ger +1 tärning
@@ -113,7 +113,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Format:** "Öka skalan med X"
 
-**Stacking:** Tar endast högsta värdet, stackar inte.
+**Stacking:** Tar endast högsta värdet, kombineras inte.
 
 **Används för:**
 - Mästerskott (gevär)
@@ -129,7 +129,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 | **0 Fokus** | Passiv effekt eller mycket begränsad användning per scen |
 | **1 Fokus** | Standard aktiv förmåga, kan användas flera gånger per strid |
 | **2 Fokus** | Kraftfull förmåga med stor påverkan, används sparsamt |
-| **3+ Fokus** | "Ultimate" förmåga, används en gång per strid max |
+| **3+ Fokus** | "Ultimat förmåga" förmåga, används en gång per strid max |
 
 ### Fokus-generering
 
@@ -160,7 +160,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Bihandling (snabbare):**
 - Positionering
-- Snabba buffs
+- Snabba förstärkningar
 - Sikta
 - Defensiva manövrar
 
@@ -168,7 +168,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 - Attacker
 - Komplexa manövrar
 - Helande
-- Kraftfulla buffs
+- Kraftfulla förstärkningar
 
 **Reaktion (opportunistiskt):**
 - Försvar
@@ -193,9 +193,9 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Balans:** Varje steg ska kännas värt investeringen. Högre i kedjan = kraftfullare men dyrare.
 
-## Rollarchetyper och byggen
+## Rollarchetyper och specialiseringar
 
-### Tank/Bodyguard
+### Försvarare/Livvakt
 
 **Kärnförmågor:**
 - Sköldväktare
@@ -250,26 +250,26 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Egenskaper:** Fysik 3+, Strid 3+
 
-### Combat medic
+### Stridsläkare
 
 **Kärnförmågor:**
 - Fältmedicinare i strid
 - Stridsstabilisering
 - Adrenalininjektion
 
-**Strategi:** Håll teamet vid liv, buffa allierade, stabilisera döende.
+**Strategi:** Håll teamet vid liv, förstärka allierade, stabilisera döende.
 
 **Egenskaper:** Smidighet 2+, Analys 3+
 **Expertis:** Läkare eller Fältmedicinare
 
-### Team-supporter
+### Lagstödjare
 
 **Kärnförmågor:**
 - Lagarbete
 - Inspirera
 - Föregå med exempel
 
-**Strategi:** Generera Fokus för teamet, buffa allierade, leda genom exempel.
+**Strategi:** Generera Fokus för teamet, förstärka allierade, leda genom exempel.
 
 **Egenskaper:** Samspel 3+, Vilja 2+
 
@@ -414,7 +414,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Spelstil:** Hög precision, långa avstånd, patient. Ett skott, ett dödande.
 
-### Exempel 3: Dmitri "Doktor" Kozlov - Combat medic
+### Exempel 3: Dmitri "Doktor" Kozlov - Stridsläkare
 
 **Egenskaper:** Strid 2, Fysik 2, Smidighet 3, Sinnen 2, Analys 4, List 1, Samspel 3, Vilja 2
 
@@ -425,7 +425,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 - Adrenalininjektion
 - Lagarbete
 
-**Spelstil:** Håller teamet vid liv, buffa allierade, generera Fokus genom att hjälpa.
+**Spelstil:** Håller teamet vid liv, förstärka allierade, generera Fokus genom att hjälpa.
 
 ### Exempel 4: Katya "Skugga" Ivanova - Infiltratör
 
@@ -442,7 +442,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 ## Slutord
 
-Det utökade förmågosystemet ger spelarna många möjligheter att specialisera sina karaktärer och hitta unika byggen. Som spelledare är din roll att:
+Det utökade förmågosystemet ger spelarna många möjligheter att specialisera sina karaktärer och hitta unika specialiseringar. Som spelledare är din roll att:
 
 1. **Balansera** - Se till att alla får sina ögonblick att glänsa
 2. **Utmana** - Skapa situationer där olika förmågor är användbara
