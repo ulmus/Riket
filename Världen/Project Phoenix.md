@@ -21,11 +21,11 @@ Till skillnad från Sovjets biokemiska fokus eller Sveriges psykologiska metoder
 
 Phoenix skiljer sig också genom sin decentralisering. Istället för en central anläggning bedrivs experimentationen på flera hemliga platser: Fort Detrick (Maryland), en avskild anläggning i Nevada-öknen kallad "Site 7", och vid ett täckföretag i Los Angeles. Detta minskar risken för exponering men skapar koordinationsproblem.
 
-Överlevnadsgraden är omkring 25% – högre än Sovjets program men fortfarande brutalt låg. De som överlever har ofta mindre spektakulära förmågor än sina sovjetiska motsvarigheter, men är mentalt stabilare och lättare att kontrollera operativt.
+Överlevnadsgraden är omkring 25% – högre än Sovjets program men fortfarande brutalt låg. De som överlever har ofta mindre spektakulära förmågor än sina sovjetiska motsvarigheter, men är mentalt stabilare och lättare att kontrollera i fält.
 
 ## Exempel på Phoenix-agenter
 
-**Sentinel** (Lt Marcus Webb) – Förstärkt spatialt medvetande och reflexer. Kan uppfatta rörelser och hot i 360 grader. Före detta markör i US Marines, nu i Berlin.
+**Sentinel** (Lt Marcus Webb) – Förstärkt rumsligt medvetande och reflexer. Kan uppfatta rörelser och hot i 360 grader. Före detta markör i US Marines, nu i Berlin.
 
 **Whisper** (Agent Sarah Vance) – Subtil telepatisk påverkan. Kan "plantera" tvivel eller övertygelse inom konversationsavstånd. Används för rekrytering och förhör.
 
@@ -35,9 +35,9 @@ Phoenix skiljer sig också genom sin decentralisering. Istället för en central
 
 ## Relationer och politik
 
-Phoenix är så hemligt att inte ens presidenten har full insikt. Endast CIA-direktören, en handfull seniora personer inom National Security Council och särskilda congressional oversight-medlemmar är invigda. Budgeten döljs i "svarta projekt" inom försvarsanslaget.
+Phoenix är så hemligt att inte ens presidenten har full insikt. Endast CIA-direktören, en handfull högt uppsatta personer inom National Security Council och utvalda kongressledamöter med tillsynsansvar är invigda. Budgeten döljs i "svarta projekt" inom försvarsanslaget.
 
-Programmet har en komplicerad relation med Pentagon. US Air Force och Army Intelligence är medvetna om att "något" pågår men har inte tillgång till detaljer. Detta skapar friktion när Phoenix-agenter sätts in i militära operationer utan full briefing av lokal befälhavare.
+Programmet har en komplicerad relation med Pentagon. US Air Force och Army Intelligence är medvetna om att "något" pågår men har inte tillgång till detaljer. Detta skapar friktion när Phoenix-agenter sätts in i militära operationer utan fullständig orientering av lokal befälhavare.
 
 FBI är officiellt ovetande men J. Edgar Hoover misstänker att CIA bedriver inhemsk verksamhet i strid med deras mandat. Om detta blir känt kan det leda till en konstitutionell kris.
 

@@ -33,7 +33,7 @@ Anläggningen finns nära Sachsenhausen, norr om Berlin, officiellt listad som "
 
 **Nachtmahr** (Karin Brandt) – Tidigare lärare. Kan inducera intensiva mardrömmar. Nästan totalt sinnessjuk, används endast som sista utväg för förhör.
 
-**Schatten** (Emil Krause) – Kan temporärt bli "osynlig" genom att böja ljus. Den enda relativt stabila ENS, används för underrättelse. Flydde 1961.
+**Schatten** (Emil Krause) – Kan tillfälligt bli "osynlig" genom att böja ljus. Den enda relativt stabila ENS, används för underrättelse. Flydde 1961.
 
 ## Relationer och politik
 

@@ -31,7 +31,7 @@ Verksamheten bedrivs från en hemlig anläggning i Alperna nära Grenoble, offic
 
 **Fantôme** (Agent Luc Renault) – Ultraljud-generering och akustisk manipulation. Kan skapa desorientering, illamående eller till och med intern vävnadsskada genom fokuserade ljudvågor. Tidigare ljudtekniker som rekryterades för sin ovanliga hörselkänslighet.
 
-**Méduse** (Dr. Isabelle Laurent) – Psykomimetisk paralys. Kan temporärt inducera kataleptiska tillstånd hos personer genom ögonkontakt. Psykiater som frivilligt anmälde sig till programmet av vetenskaplig nyfikenhet. Har svårt att kontrollera förmågan under stress.
+**Méduse** (Dr. Isabelle Laurent) – Psykomimetisk förlamning. Kan tillfälligt framkalla kataleptiska tillstånd hos personer genom ögonkontakt. Psykiater som frivilligt anmälde sig till programmet av vetenskaplig nyfikenhet. Har svårt att kontrollera förmågan under stress.
 
 ## Relationer och politik
 

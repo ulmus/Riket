@@ -17,9 +17,9 @@ När Röda armén grep doktor Josef Mengele våren 1945 insåg den sovjetiska ve
 
 ## Programmets särart
 
-Till skillnad från västliga program som fokuserar på psykologisk nedbrytning, kombinerar Zvezdy avancerad biokemi med konditionering. Kravkov utvecklade en serie preparat – kodbeteckning "Katalysator-serien" – som framkallar parapsykologiska förmågor genom att destabilisera den fysiologiska hemostasens samtidigt som intensiv ideologisk indoktrinering formar subjektets psyke.
+Till skillnad från västliga program som inriktar sig på psykologisk nedbrytning, kombinerar Zvezdy avancerad biokemi med konditionering. Kravkov utvecklade en serie preparat – kodbeteckning "Katalysator-serien" – som framkallar parapsykologiska förmågor genom att destabilisera den fysiologiska hemostasens samtidigt som intensiv ideologisk indoktrinering formar subjektets psyke.
 
-Resultatet är ENS med kraftfulla förmågor men också djup lojalitet mot Sovjet. Överlevnadsgraden är låg – omkring 15% – men de som klarar behandlingen är operativt överlägsna motsvarigheterna i väst. Sovjetiska ENS kallas internt för "Novi-agenter" (Nya agenter).
+Resultatet är ENS med kraftfulla förmågor men också djup lojalitet mot Sovjet. Överlevnadsgraden är låg – omkring 15% – men de som klarar behandlingen är i fält överlägsna motsvarigheterna i väst. Sovjetiska ENS kallas internt för "Novi-agenter" (Nya agenter).
 
 Programmet är formellt underställt KGB:s första huvudavdelning men opererar i praktiken autonomt från en hemligstämplad anläggning utanför Moskva, känd endast som "Objekt 37".
 
@@ -31,7 +31,7 @@ Programmet är formellt underställt KGB:s första huvudavdelning men opererar i
 
 **Zorya** – Telepat och förhörsspecialist. Kan uppfatta starka känslor och tankar inom 10 meters radie. Används för att identifiera infiltratörer och dubbelagenter. Lider av kroniska huvudvärk och kräver regelbunden medicinering.
 
-**Perun** – Elektrokinetiker med förmåga att generera och leda elektriska urladdningar. Kan stoppa hjärtan eller kortsluita elektronik. Instabil personlighet, hålls under tight kontroll av Volkov.
+**Perun** – Elektrokinetiker med förmåga att generera och leda elektriska urladdningar. Kan stoppa hjärtan eller kortsluita elektronik. Instabil personlighet, hålls under sträng kontroll av Volkov.
 
 ## Relationer och politik
 

@@ -25,21 +25,21 @@ Verksamheten bedrivs från en avskild anläggning på Salisbury Plain, officiell
 
 ## Exempel på Grendel-enheter
 
-**Albion** (Captain Thomas Blackwood) – Taktiskt förstärkt situation awareness. Kan instinktivt bedöma fiendens position i strid. Före detta SAS-officer som förlorade sin enhet i Kenya.
+**Albion** (Captain Thomas Blackwood) – Taktiskt förstärkt lägesmedvetande. Kan instinktivt bedöma fiendens position i strid. Före detta SAS-officer som förlorade sin enhet i Kenya.
 
 **Boudica** (Agent Veronica Thorne) – Psykogen skräckprojektion. Kan framkalla intensiv rädsla genom att "spegla" fobier. Överlevde tortyr i Budapest. Används ytterst sparsamt.
 
 **Lancelot** (Lieutenant James Ridley) – Biomekänisk uthållighet och smärttolerans. Kan operera trots allvarliga skador i dagar. Paratrooper som begravdes levande i 48 timmar under Suezkrisen.
 
-**Morgana** (Dr. Elizabeth Keene) – Subjektiv tidsuppfattning. Kan förändra sin egen upplevelse av tid, vilket ger övermänskliga reaktionshastigheter i korta perioder.
+**Morgana** (Dr. Elizabeth Keene) – Förändrad tidsuppfattning. Kan förändra sin egen upplevelse av tid, vilket ger övermänskliga reaktionshastigheter under korta stunder.
 
 ## Relationer och politik
 
-Grendel är känt endast för premiärministern, Defence Secretary, cheferna för MI6 och MI5, samt ett fåtal seniora militärofficerare. Parlamentet är helt ovetande. Detta skapar en känslig konstitutionell situation – programmet existerar helt utanför demokratisk granskning.
+Grendel är känt endast för premiärministern, försvarsministern, cheferna för MI6 och MI5, samt ett fåtal högre militärofficerare. Parlamentet är helt ovetande. Detta skapar en känslig konstitutionell situation – programmet existerar helt utanför demokratisk granskning.
 
 MI5 (inhemsk säkerhet) är djupt oroligt för att programmet ska exponeras och orsaka en politisk skandal. De kräver strikt kontroll över alla operationer på brittisk mark. MI6 (utlandsspionage) ser däremot Grendel som ett kritiskt verktyg för att konkurrera med supermakterna.
 
-Foreign Office är officiellt ovetande men diplomater i nyckelpositioner (Washington, Moskva, Paris) har fått vaga antydningar om att "specialiserade resurser" kan finnas tillgängliga vid behov.
+Utrikesdepartementet är officiellt ovetande men diplomater i nyckelpositioner (Washington, Moskva, Paris) har fått vaga antydningar om att "specialiserade resurser" kan finnas tillgängliga vid behov.
 
 Inom militären finns djup skepsis. Många seniora officerare ser ENS som opålitliga och oönskade. Major Wells kämpar ständigt mot attityden att "riktiga soldater inte behöver magi".
 
