@@ -31,11 +31,11 @@ Teorin bekräftades på ett förskräckande sätt. Ett fåtal fångar – kanske
 
 ## "Exempel" på Nigredo-subjekt
 
-**Elias Lewinsky / "Golem"** – Judiskt barn som överlevde experimentationen och utvecklade övermänsklig styrka och tålighet. Totalförstörd psykiskt, blev Richters "vapen" efter kriget. Fortfarande aktiv 1961 i Östtysklands Projekt Nebelkrone.
+**Elias Lewinsky / "Golem"** – Judiskt barn som överlevde och utvecklade övermänsklig styrka. Totalförstörd psykiskt, blev Richters "vapen". Fortfarande aktiv 1961 i Östtysklands Projekt Nebelkrone.
 
-**"Subject-17"** – Okänd identitet, dokumenterad i Richters anteckningar. Kunde generera intensiv hetta från händerna, tillräckligt för att antända papper. Dog efter tre veckor då förmågan vände sig inåt och orsakade spontan förbränning.
+**"Subject-17"** – Okänd identitet. Kunde generera intensiv hetta från händerna. Dog efter tre veckor då förmågan orsakade spontan förbränning.
 
-**"Die Puppe"** (Dockan) – Ung flicka som utvecklade förmågan att projicera sina tankar som hallucinationer till andra. Blev så traumatiserad att hon föll i katatoniskt tillstånd. Okänd öde efter lägrets befrielse.
+**"Die Puppe"** (Dockan) – Ung flicka som kunde projicera hallucinationer. Föll i katatoniskt tillstånd. Okänt öde efter befrielsen.
 
 ## Efterspel och arv
 
@@ -49,10 +49,6 @@ Dokumentationen från Nigredo spreds till flera håll:
 
 Det är Nigreos metodologi – idén att extrem stress framkallar förmågor – som ligger till grund för alla moderna ENS-program. Varje nation har försökt "humanisera" eller "vetenskapliggöra" metoderna, men den mörka kärnan kvarstår.
 
-## Etik och ansvar
+## Etik och arv
 
-Projekt Nigredo representerar ett av andra världskrigets mörkaste kapitel – ett där vetenskap fullständigt övergav mänsklighet i jakten på makt. Att moderna demokratier fortsatt bygga på denna kunskap är en moralisk paradox som få vågar konfrontera.
-
-Inom hemliga underrättelsegemenskaper debatteras fortfarande: Kan kunskap förvärvad genom oförlåtliga medel användas för "goda" syften? Eller är hela ENS-programmen förgiftade av sitt ursprung?
-
-Detta är frågor som ingen har kunnat svara på, och som fortsätter plåga de forskare och ledare som arbetar med efterföljarprogrammen.
+Projekt Nigredo representerar ett av krigets mörkaste kapitel. Att moderna program fortsätter bygga på denna kunskap är en moralisk paradox som få vågar konfrontera. Frågan om kunskap från oförlåtliga medel kan användas för "goda" syften plågar fortfarande de som arbetar med ENS-program.

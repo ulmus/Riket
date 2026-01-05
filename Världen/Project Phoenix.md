@@ -25,13 +25,13 @@ Phoenix skiljer sig också genom sin decentralisering. Istället för en central
 
 ## Exempel på Phoenix-agenter
 
-**Sentinel** (Lieutenant Marcus Webb) – Förstärkt spatialt medvetande och reflexer. Kan uppfatta rörelser och hot i 360-graders radie. Före detta markör i US Marines, nu inbäddad i Berlin som säkerhetsansvarig vid amerikanska ambassaden.
+**Sentinel** (Lt Marcus Webb) – Förstärkt spatialt medvetande och reflexer. Kan uppfatta rörelser och hot i 360 grader. Före detta markör i US Marines, nu i Berlin.
 
-**Whisper** (Agent Sarah Vance) – Subtil telepatisk påverkan. Kan inte läsa tankar, men kan "plantera" tvivel eller övertygelse hos personer inom konversationsavstånd. Används främst för rekrytering av källor och förhör.
+**Whisper** (Agent Sarah Vance) – Subtil telepatisk påverkan. Kan "plantera" tvivel eller övertygelse inom konversationsavstånd. Används för rekrytering och förhör.
 
-**Hardline** (Sergeant David Kowalski) – Biomekänisk förstärkning. Benmassa och muskeldensitet förstärkt till övermänskliga nivåer. Kan bära 200 kg och slå igenom betongväggar. Instabil temperament, används endast i extrema situationer.
+**Hardline** (Sgt David Kowalski) – Biomekänisk förstärkning. Kan bära 200 kg och slå igenom betongväggar. Instabil temperament, används endast i extrema situationer.
 
-**Ghost** (Captain Jennifer Ross) – Elektromagnetisk störning. Kan slå ut elektrisk utrustning och radio inom 50 meters radie. Tidigare signalofficer, nu specialiserad på sabotage av sovjetisk kommunikationsutrustning.
+**Ghost** (Capt Jennifer Ross) – Elektromagnetisk störning. Kan slå ut elektrisk utrustning inom 50 meter. Specialiserad på sabotage av sovjetisk kommunikation.
 
 ## Relationer och politik
 

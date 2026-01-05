@@ -21,9 +21,7 @@ Chimère skiljer sig markant från andra program genom sin filosofiska grund. Is
 
 Metoderna kombinerar experimentell neurokirurgi (mikrostimulering av specifika hjärnregioner), farmakologisk behandling med syntetiska preparat, och intensiv meditation och mental träning inspirerad av österländsk filosofi. Det är det mest "teoretiskt avancerade" programmet men också det mest obeprövade.
 
-Verksamheten bedrivs från en hemlig anläggning i Alperna nära Grenoble, officiellt listad som "Centre de Recherche Médicale Militaire". Säkerheten är extrem – anläggningen kan endast nås via helikopter eller en enda väg med flera militära checkpoints.
-
-Överlevnadsgraden är omkring 30%, men många av "överlevarna" har begränsade eller instabila förmågor. Frankrike kompenserar med rigorös urvalskriterier – endast exceptionella individer rekryteras från början.
+Verksamheten bedrivs från en hemlig anläggning i Alperna nära Grenoble, officiellt listad som "Centre de Recherche Médicale Militaire". Överlevnadsgraden är omkring 30%, men Frankrike kompenserar med rigorös urvalskriterier.
 
 ## Exempel på Chimère-agenter
 
@@ -45,6 +43,4 @@ Relationen med de amerikanska och brittiska programmen är komplicerad av Frankr
 
 Med Sovjetunionen finns paradoxalt nog ett indirekt informationsutbyte genom de öst-europeiska programmen. Vissa forskare i Chimère har diskret tillgång till data från de Gaulle-vänliga källor i östblocket.
 
-Den största utmaningen är Algerietkriget. Militären pressar för att sätta in Chimère-agenter i operationer mot FLN (Front de Libération Nationale), men Beaumont och Renard är ovilliga. De vet att sådana insatser skulle riskera exponering och internationell skandal. Denna konflikt eskalerar i takt med att kriget förvärras.
-
-Det finns också en underliggande spänning mellan Dubois vetenskapliga idealism och Beaumonts politiska pragmatism. Dubois vill publicera (hemligt) forskning för att avancera mänskligheten. Beaumont ser endast statlig maktprojektion. Denna ideologiska klyfta kommer att behöva lösas.
+Den största utmaningen är Algerietkriget. Militären pressar för att sätta in Chimère-agenter mot FLN, men ledningen är ovillig då detta skulle riskera exponering och internationell skandal.

@@ -25,13 +25,13 @@ Verksamheten bedrivs från en avskild anläggning på Salisbury Plain, officiell
 
 ## Exempel på Grendel-enheter
 
-**Albion** (Captain Thomas Blackwood) – Taktiskt förstärkt situation awareness. Kan instinktivt bedöma fiendens position och avsikter i strid. Före detta SAS-officer som förlorade sin enhet i en bakhåll i Kenya. Hans förmåga beskrivs som "alltid veta var nästa skott kommer från".
+**Albion** (Captain Thomas Blackwood) – Taktiskt förstärkt situation awareness. Kan instinktivt bedöma fiendens position i strid. Före detta SAS-officer som förlorade sin enhet i Kenya.
 
-**Boudica** (Agent Veronica Thorne) – Psykogen skräckprojektion. Kan framkalla intensiv rädsla hos människor inom synhåll genom att "spegla" deras djupaste fobier. Tidigare MI5-agent som överlevde en tortyr-session i Budapest. Används ytterst sparsamt på grund av psykologisk påfrestning.
+**Boudica** (Agent Veronica Thorne) – Psykogen skräckprojektion. Kan framkalla intensiv rädsla genom att "spegla" fobier. Överlevde tortyr i Budapest. Används ytterst sparsamt.
 
-**Lancelot** (Lieutenant James Ridley) – Biomekänisk uthållighet och smärttolerans. Kan fortsätta operera trots allvarliga skador och sömndeprivation i dagar. Tidigare paratrooper som överlevde att bli begravd levande i 48 timmar under Suezkrisen.
+**Lancelot** (Lieutenant James Ridley) – Biomekänisk uthållighet och smärttolerans. Kan operera trots allvarliga skador i dagar. Paratrooper som begravdes levande i 48 timmar under Suezkrisen.
 
-**Morgana** (Dr. Elizabeth Keene) – Subjektiv tidsuppfattning. Kan förändra sin egen upplevelse av tid, vilket ger henne övermänskliga reaktionshastigheter i korta perioder. Civilanställd forskare som rekryterades efter att ha uppvisat ovanliga stresstoleranssymptom.
+**Morgana** (Dr. Elizabeth Keene) – Subjektiv tidsuppfattning. Kan förändra sin egen upplevelse av tid, vilket ger övermänskliga reaktionshastigheter i korta perioder.
 
 ## Relationer och politik
 
