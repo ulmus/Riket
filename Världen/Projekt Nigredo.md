@@ -15,14 +15,14 @@ Projekt Nigredo var det första organiserade försöket att skapa mänskliga var
 
 **Dr. Hans Richter** – Mengeles främste assistent, genetiker med bakgrund från Kaiser Wilhelm-institutet. Yngre och mindre ideologiskt driven än Mengele, men lika hänsynslös i sin vetenskapliga metod. Richter förde detaljerade anteckningar som senare skulle bli grunden för andra nationers program.
 
-**Lars Hedström** – Svensk forskarstuderande som temporärt arbetade vid projektet under kriget. Chockad av brutaliteten försökte han sabotera experimentationen och flydde så småningom till Sverige med delar av dokumentationen. Grundade senare Sveriges Program Frigg.
+**Lars Hedström** – Svensk forskarstuderande som temporärt arbetade vid projektet under kriget. Han flydde så småningom till Sverige med delar av dokumentationen. Grundade senare Sveriges Program Frigg.
 
 ## Projektets "särart"
 
 Nigredo var unikt genom sin fullständiga brist på etiska gränser. Fångar i Auschwitz – mestadels judiska barn och vuxna – utsattes för systematisk tortyr, droger, kirurgiska ingrepp, och psykologisk nedbrytning. Hypotesen var att när människan nådde absolut förtvivlan skulle dess psyke "manifestera" övermänskliga förmågor som ett överlevnadsinstinkt.
 
 Metoderna inkluderade:
-- Prolongerad isolering i fullständigt mörker eller med stroboskopisk belysning
+- Långvarig isolering i fullständigt mörker eller med stroboskopisk belysning
 - Injektion av experimentella kemiska substanser
 - Kirurgisk modifikation av hjärn- och nervvävnad
 - Tvingade psykologiska konfrontationer och nedbrytning av identitet
@@ -33,7 +33,7 @@ Teorin bekräftades på ett förskräckande sätt. Ett fåtal fångar – kanske
 
 **Elias Lewinsky / "Golem"** – Judiskt barn som överlevde och utvecklade övermänsklig styrka. Totalförstörd psykiskt, blev Richters "vapen". Fortfarande aktiv 1961 i Östtysklands Projekt Nebelkrone.
 
-**"Subject-17"** – Okänd identitet. Kunde generera intensiv hetta från händerna. Dog efter tre veckor då förmågan orsakade spontan förbränning.
+**"Subjekt-17"** – Okänd identitet. Kunde generera intensiv hetta från händerna. Dog efter tre veckor då förmågan orsakade spontan förbränning.
 
 **"Die Puppe"** (Dockan) – Ung flicka som kunde projicera hallucinationer. Föll i katatoniskt tillstånd. Okänt öde efter befrielsen.
 
@@ -48,7 +48,3 @@ Dokumentationen från Nigredo spreds till flera håll:
 - Fragmentariska dokument hamnade i amerikanska händer via Operation Paperclip
 
 Det är Nigreos metodologi – idén att extrem stress framkallar förmågor – som ligger till grund för alla moderna ENS-program. Varje nation har försökt "humanisera" eller "vetenskapliggöra" metoderna, men den mörka kärnan kvarstår.
-
-## Etik och arv
-
-Projekt Nigredo representerar ett av krigets mörkaste kapitel. Att moderna program fortsätter bygga på denna kunskap är en moralisk paradox som få vågar konfrontera. Frågan om kunskap från oförlåtliga medel kan användas för "goda" syften plågar fortfarande de som arbetar med ENS-program.

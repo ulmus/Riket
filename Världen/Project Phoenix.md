@@ -29,7 +29,7 @@ Phoenix skiljer sig också genom sin decentralisering. Istället för en central
 
 **Whisper** (Agent Sarah Vance) – Subtil telepatisk påverkan. Kan "plantera" tvivel eller övertygelse inom konversationsavstånd. Används för rekrytering och förhör.
 
-**Hardline** (Sgt David Kowalski) – Biomekänisk förstärkning. Kan bära 200 kg och slå igenom betongväggar. Instabil temperament, används endast i extrema situationer.
+**Hardline** (Sgt David Kowalski) – Biomekanisk förstärkning. Kan bära 200 kg och slå igenom betongväggar. Instabilt temperament, används endast i extrema situationer.
 
 **Ghost** (Capt Jennifer Ross) – Elektromagnetisk störning. Kan slå ut elektrisk utrustning inom 50 meter. Specialiserad på sabotage av sovjetisk kommunikation.
 

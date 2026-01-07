@@ -19,7 +19,7 @@ Storbritannien var sena med att inleda ett eget ENS-program. Först 1955, efter 
 
 Grendel skiljer sig från andra program genom sin betoning på kontroll och precisionsrekrytering. Istället för massiva experimentserier rekryterar britterna extremt selektivt – endast individer med bevisad psykologisk stabilitet och specifika traumatiska upplevelser som kan "aktiveras".
 
-Metoderna är också mer återhållna. Ingen används LSD eller elektriska chocker i Grendels protokoll. Istället kombineras djupgående psykoterapi med hypnotiska tekniker och noggrant doserade farmaceutiska preparat utvecklade vid Porton Down. Processen tar längre tid – upp till två år per kandidat – men överlevnadsgraden ligger på omkring 40%, högst av alla kända program.
+Metoderna är också mer återhållna. Ingen användning av LSD eller elchocker ingår i Operation Grendels protokoll. Istället kombineras djupgående psykoterapi med hypnotiska tekniker och noggrant doserade farmaceutiska preparat utvecklade vid Porton Down. Processen tar längre tid – upp till två år per kandidat – men överlevnadsgraden ligger på omkring 40%, högst av alla kända program.
 
 Verksamheten bedrivs från en avskild anläggning på Salisbury Plain, officiellt listad som "Defence Research Centre - Unit 9". Endast en handfull personer utanför programmet känner till dess sanna syfte.
 
@@ -27,9 +27,9 @@ Verksamheten bedrivs från en avskild anläggning på Salisbury Plain, officiell
 
 **Albion** (Captain Thomas Blackwood) – Taktiskt förstärkt lägesmedvetande. Kan instinktivt bedöma fiendens position i strid. Före detta SAS-officer som förlorade sin enhet i Kenya.
 
-**Boudica** (Agent Veronica Thorne) – Psykogen skräckprojektion. Kan framkalla intensiv rädsla genom att "spegla" fobier. Överlevde tortyr i Budapest. Används ytterst sparsamt.
+**Boudica** (Agent Veronica Thorne) – Psykogen skräckprojektion. Kan framkalla intensiv rädsla genom att "spegla" fobier. Överlevde tortyr i Budapest. Labil och används ytterst sparsamt.
 
-**Lancelot** (Lieutenant James Ridley) – Biomekänisk uthållighet och smärttolerans. Kan operera trots allvarliga skador i dagar. Paratrooper som begravdes levande i 48 timmar under Suezkrisen.
+**Lancelot** (Lieutenant James Ridley) – Biomekanisk uthållighet och hög smärttolerans. Kan operera i dagar, även med allvarliga skador. Fallskärmsjägare som begravdes levande i 48 timmar under Suezkrisen.
 
 **Morgana** (Dr. Elizabeth Keene) – Förändrad tidsuppfattning. Kan förändra sin egen upplevelse av tid, vilket ger övermänskliga reaktionshastigheter under korta stunder.
 

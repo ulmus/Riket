@@ -9,7 +9,7 @@ cssclasses:
 
 ## Nyckelpersoner
 
-**Dr. Hans Richter** – Före detta assistent till Josef Mengele vid Projekt Nigredo. Efter kriget greps han av sovjeterna men "lånade ut" till Östtyskland för att etablera Nebelkrone. En briljant men moraliskt förstörd vetenskapsman som ser mänskliga subjekt som experimentmaterial. Försökte hoppa av till Sverige 1961.
+**Dr. Hans Richter** – Före detta assistent till Josef Mengele vid Projekt Nigredo. Efter kriget greps han av sovjeterna men "lånade ut" till Östtyskland för att etablera Nebelkrone. En briljant men moraliskt ruinerad vetenskapsman som ser mänskliga subjekt som experimentmaterial. Försökte hoppa av till Sverige 1961.
 
 **Generalmajor Klaus Adler** från Ministerium für Staatssicherheit (Stasi) är Nebelkrones operativa överordnade. En hårdför kommunist som slöt sig till DDR av ideologisk övertygelse efter att ha varit motståndsman mot nazisterna. Adler hatar Richter personligen men inser hans värde för staten.
 
@@ -37,7 +37,7 @@ Anläggningen finns nära Sachsenhausen, norr om Berlin, officiellt listad som "
 
 ## Relationer och politik
 
-Nebelkrone är känt inom Stasis högsta ledning och KGB, men inte för DDR:s regeringsmedlemmar. Walter Ulbricht (statsöverhuvud) har vaga antydningar om "specialforskningsprogram" men inga detaljer. Detta skapar en farlig maktkoncentration inom Stasi.
+Nebelkrone är känt inom Stasis högsta ledning, KGB och östtyska ledningen. Walter Ulbricht (statsöverhuvud) och andra i Politbyrån är invigda i programmets existens men har begränsad insikt i metoderna. Detta skapar en känslig maktbalans där Stasi kontrollerar detaljerna.
 
 KGB övervakar Nebelkrone noga och skeptiskt. De gillar inte att före detta nazister driver programmet och misstänker (korrekt) att Richter vill hoppa av till väst. Sovjetiska rådgivare finns på plats för att säkerställa lojalitet.
 
@@ -45,6 +45,6 @@ Inom Stasi själv finns djup oenighet. Yngre officerare tycker programmet är n�
 
 Det finns också spänningar med andra östblocksprogram. Polen och Tjeckoslovakien har egna små initiativ och är avundsjuka på att DDR fick de "bästa" (dvs. mest erfarade) forskarna. Denna rivalitet utnyttjas av KGB för att hålla programmen konkurrerade och kontrollerade.
 
-Den största krisen kom 1961 när både Richter och Schatten försökte fly. Richters försök stoppades men Schatten lyckades ta sig över muren. Detta ledde till en intern rensning och ökad sovjetisk kontroll. Richter lever numera under husarrest vid anläggningen, fortfarande värdefull men djupt misstrodd.
+Den största krisen kom 1961 när Richter försvann under oklara omständigheter. Det är osäkert om han nådde Sverige eller inte. Detta ledde till en intern rensning och kraftigt ökad sovjetisk kontroll över programmet.
 
-Nebelkrones framtid är osäker. Programmet producerar resultat men till ett enormt politiskt och moraliskt pris. KGB funderar på att överta verksamheten eller avveckla den, men metodernas effektivitet gör programmet både oumbärligt och oförlåtligt.
+Nebelkrones framtid är osäker. Programmet producerar resultat men till ett enormt politiskt och moraliskt pris. Framförallt efter Richters avhopp funderar KGB på att överta verksamheten eller avveckla den, men metodernas effektivitet gör programmet både oumbärligt och oförlåtligt.

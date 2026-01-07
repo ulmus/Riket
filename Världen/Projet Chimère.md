@@ -9,7 +9,7 @@ Frankrike initierade sitt ENS-program senare än de flesta stormakter, delvis p�
 
 ## Nyckelpersoner
 
-**Colonel Pierre Beaumont** från Direction Générale de la Sécurité Extérieure (DGSE, utlandsspionaget) är projektets grundare och ledare. En veteran från motståndsrörelsen och Indokina-kriget med en djup misstro mot både USA och Sovjetunionen. Beaumont ser Chimère som en väg till fransk oberoende.
+**Överste Pierre Beaumont** från Direction Générale de la Sécurité Extérieure (DGSE, utlandsspionaget) är projektets grundare och ledare. En veteran från motståndsrörelsen och Indokina-kriget med en djup misstro mot både USA och Sovjetunionen. Beaumont ser Chimère som en väg till fransk oberoende.
 
 **Dr. Alain Dubois**, neurofysiker från Sorbonne, leder den vetenskapliga forskningen. Dubois är intellektuellt briljant men politiskt naiv. Han tror genuint att han skapar "nästa evolutionära steg för mänskligheten" och har svårt att se de praktiska konsekvenserna.
 
@@ -17,7 +17,7 @@ Frankrike initierade sitt ENS-program senare än de flesta stormakter, delvis p�
 
 ## Programmets särart
 
-Chimère skiljer sig markant från andra program genom sin filosofiska grund. Istället för att betrakta ENS-förmågor som resultat av trauma eller nedbrytning, teoretiserar Dubois att de är latenta i alla människor och kan "väckas" genom rätt neurologisk stimulering.
+Chimère skiljer sig markant från andra program genom sin filosofiska grund. Istället för att betrakta ENS-förmågor som resultat av trauma eller nedbrytning, teoretiserar Dubois att de är latenta i alla människor och kan "väckas" genom rätt neurologisk stimulering. Hans tänkande är influerat av Henri Bergsons idéer om élan vital – livskraften som genomsyrar all existens.
 
 Metoderna kombinerar experimentell neurokirurgi (mikrostimulering av specifika hjärnregioner), farmakologisk behandling med syntetiska preparat, och intensiv meditation och mental träning inspirerad av österländsk filosofi. Det är det mest "teoretiskt avancerade" programmet men också det mest obeprövade.
 
@@ -25,7 +25,7 @@ Verksamheten bedrivs från en hemlig anläggning i Alperna nära Grenoble, offic
 
 ## Exempel på Chimère-agenter
 
-**Mirage** (Agent Étienne Valois) – Visuell projektion och illusionsskapande. Kan få personer att se saker som inte finns eller inte se saker som finns, inom begränsad radie. Tidigare underrättelseofficer i Algeriet som blev expert på psykologisk krigföring.
+**Prisme** (Agent Étienne Valois) – Ljusmanipulation och refraktion. Kan böja ljusstrålar för att skapa förbländning, optiska distorsioner eller skapa ljusblixtrar. Tidigare underrättelseofficer i Algeriet som blev expert på psykologisk krigföring.
 
 **Tempête** (Lieutenant Sophie Moreau) – Luftmanipulation och tryckvariationer. Kan skapa kraftiga vindstötar eller lokala tryckvakuum. Flygvapenofficer som överlevde en krasch där hon "borde ha dött". Hennes förmåga ansågs vara latent och väcktes genom Chimère-protokollet.
 

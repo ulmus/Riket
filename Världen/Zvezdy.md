@@ -9,7 +9,7 @@ När Röda armén grep doktor Josef Mengele våren 1945 insåg den sovjetiska ve
 
 ## Nyckelpersoner
 
-**Sergei Kravkov** blev programmets grundare och vetenskaplige ledare. En briljant men hänsynslös forskare med bakgrund från Pavlovs institut, som såg i Mengeles metoder en möjlighet att överträffa väst. Kravkov avled 1958, men hans metodologi lever kvar.
+**Sergei Kravkov** blev programmets grundare och vetenskaplige ledare. En briljant men hänsynslös forskare med bakgrund från Pavlovs institut, som i Mengeles metoder såg en möjlighet att överträffa väst. Kravkov avled 1958, men hans metodologi lever kvar.
 
 **Generalmajor Viktor Petrovitsj Volkov** övertog den operativa ledningen 1959. En veteran från NKVD med stark politisk förankring i partiets centralkommitté. Volkov ser ENS-programmet som ett strategiskt vapen i det kalla kriget, inte som vetenskap.
 
