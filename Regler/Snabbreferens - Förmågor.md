@@ -46,12 +46,12 @@
 ## Populära specialiseringar - Snabbguide
 
 ### 🛡️ Försvarare/Livvakt
-**Förmågor:** Sköldväktare → Ge täckning → Offervilja  
+**Förmågor:** Sköldväktare → Offervilja → Järnvilja  
 **Egenskaper:** Fysik 3+, Vilja 3+  
 **Spelstil:** Skydda allierade, absorbera skada
 
 ### 🎯 Prickskytt
-**Förmågor:** Skarpskytt → Mästerskott → Kallblodig träff  
+**Förmågor:** Skarpskytt → Mästerskott → Kallblodig träff → Andningskontroll  
 **Egenskaper:** Smidighet 3+, Strid 3+  
 **Spelstil:** Långa avstånd, precision, ett skott räcker
 
@@ -77,14 +77,14 @@
 **Spelstil:** Håll teamet vid liv, förstärka allierade
 
 ### 👥 Lagstödjare
-**Förmågor:** Lagarbete → Inspirera → Föregå med exempel  
-**Egenskaper:** Samspel 3+, Vilja 2+  
-**Spelstil:** Generera Fokus, förstärka teamet
+**Förmågor:** Lagarbete → Inspirera → Taktisk koordinering  
+**Egenskaper:** Samspel 3+, Strid 3+, Analys 2+  
+**Spelstil:** Generera Fokus, samordna laget
 
-### 🗡️ Infiltratör/Assassin
-**Förmågor:** Bakstick → Tyst ner → Svag punkt  
+### 🗡️ Infiltratör
+**Förmågor:** Bakstick (stealth-attack bonus)  
 **Egenskaper:** Smidighet 3+, Strid 2+  
-**Spelstil:** Strike från skuggorna, tyst elimination
+**Spelstil:** Strike från skuggorna
 
 ## Närstrid - Snabbreferens
 
@@ -125,63 +125,31 @@
 - **Andningskontroll** (Skarpskytt) → Sikta som Huvudhandling för +2
 - **Mästerskott** (Skarpskytt) → 1 Fokus, +1 skala
 - **Kallblodig träff** (Mästerskott) → 1 Fokus på 12, extra attack
-- **Perfekt timing** (Mästerskott) → 1 Fokus, attack före initiativ
-- **Hjärtskott** (Kallblodig träff, Strid 4) → 2 Fokus, +2 kritisk istället för skala
-- **Viljeskott** (Mästerskott) → 1 Fokus, mål slår Rädsla eller tar Stress
 
 ### Pistoler
 - **Pistolskytt** (Smidighet 2, Strid 2) → +1 pistol, dra gratis
 - **Snabbskott** (Pistolskytt) → 1 Fokus, Bihandling för extra skott med -1
 - **Skottväxling** (Snabbskott) → 1 Fokus, extra attack mot annat mål inom 2m
 
-### Hagelgevär
-- **Hagelgevärsexpert** (Strid 2, Fysik 2) → +1 hagelgevär, mål får -1 försvar på kort håll
-- **Pumpactionsdisciplin** (Hagelgevärsexpert) → Ladda om gratis
-
 ### Granater
 - **Granatkastare** (Strid 2, Smidighet 2) → +1 granater, +5m kast
-- **Diversionsgranat** (Granatkastare) → 1 Fokus, alla ser/hör slår Rädsla
-- **Stridssprängning** (Expertis: Sappör) → Rigga som Huvudhandling
-- **Precision** (Stridssprängning) → 1 Fokus, välj vilka som träffas
-
-### Kulsprutor & K-pist
-- **K-pistexpert** (Strid 2, Fysik 2) → +1 k-pist, ignorera första salvsvårighet
-- **Kulspruta** (Fysik 3, Strid 3) → +1 kulspruta, manövrera utan avdrag
-- **Kulsprutebas** (Kulspruta) → +2 tärningar när uppsatt
 
 ## Försvar - Snabbreferens
 
 - **Sköldväktare** (Fysik 2, Strid 2) → Reaktion, ge allierad inom 2m +1 tärning försvar
-- **Ge täckning** (Sköldväktare) → Bihandling, attacker mot allierad träffar dig först
-- **Offervilja** (Ge täckning, Vilja 3) → 1 Fokus + Reaktion, ta all skada för allierad
+- **Offervilja** (Sköldväktare, Vilja 3) → 1 Fokus + Reaktion, ta all skada för allierad
 - **Järnvilja** (Fysik 3, Vilja 3) → 1 Fokus, ignorera Sårad/Medvetslös till slutet av scenen
-- **Uthärda** (Järnvilja) → 1 Stress istället för 1 Fokus för Järnvilja (max 1/scen)
-- **Spärra vägen** (Fysik 2, Strid 2) → Reaktion, blockera fiendeförflyttning
-- **Vunnen grund** (Fysik 2, Vilja 2) → 1 Fokus, +2 Skydd till nästa tur
 
-## Taktik - Snabbreferens
+## Taktik och lagstöd - Snabbreferens
 
-- **Terrängutnyttjare** (Sinnen 2, Smidighet 2) → Bihandling, identifiera fördel för +1
-- **Höjdfördel** (Smidighet 2, Strid 2) → +1 attack från högre position
-- **Kontrollera avstånd** (Strid 3, Smidighet 2) → 1 Fokus + Reaktion, attackera förflyttande fiende
-- **Ompositionering** (Smidighet 3) → 1 Fokus, förflytta efter attack gratis
 - **Taktisk koordinering** (Strid 3, Analys 2) → Huvudhandling, generera Taktikpoäng för teamet
-
-## Lagstöd - Snabbreferens
-
 - **Lagarbete** (Samspel 2) → Generera 1 Fokus när du hjälper och lyckas
 - **Inspirera** (Samspel 3) → 1 Fokus, ge allierad +1 Fokus
-- **Dela bördan** (Samspel 3, Vilja 2) → 1 Stress, allierad minskar 1 Stress
-- **Hörnstenstrupp** (Vilja 3) → Passiv, allierade inom 5m får +1 på Rädsla-slag
-- **Föregå med exempel** (Vilja 3, Strid 2) → 1 Fokus när du träffar, allierad får +2 tärningar
-- **Nödåterställning** (Samspel 3, Vilja 3) → 2 Stress, återställ alla allieraders Fokus (1/scen)
 
 ## Desperata manövrar - Snabbreferens
 
 - **Desperat skott** (Strid 3) → 1 Stress, återrulla missar (1/slag)
-- **Levande sköld** (Fysik 3, Strid 2, List 2) → 1 Fokus, greppa fiende för +2 svårighet på avståndsattacker mot dig
 - **Berserkerraseri** (Fysik 3, Strid 3) → 1 Stress/runda, +2 attack och +2 skada i närstrid, kan inte använda Fokus
-- **Kall precision** (Analys 3, Strid 3) → 1 Stress när Sårad, ignorera svårigheter och +1 attack till nästa tur
 - **Sista kraften** (Vilja 4) → Alla Fokus när Medvetslös, stanna vid medvetande 1 runda/Fokus
 
 ## Stridsläkare - Snabbreferens
@@ -189,8 +157,6 @@
 - **Fältmedicinare i strid** (Expertis: Läkare/Fältmedicinare) → Akutvård som Bihandling med +1 svårighet
 - **Stridsstabilisering** (Fältmedicinare i strid) → Minska även Stress vid stabilisering
 - **Adrenalininjektion** (Expertis: Apotekare/Läkare) → 1 Fokus, ge +2 Fysik och Smidighet, sedan 1 Stress
-- **Smärtlindring** (Expertis: Apotekare/Läkare) → Huvudhandling, ignorera Sårad-svårighet
-- **Medicinsk expertis** (Expertis: Läkare) → +1 vårdslag, återrulla en tärning
 
 ## Vanliga frågor
 
