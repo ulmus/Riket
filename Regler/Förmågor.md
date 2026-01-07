@@ -49,40 +49,6 @@ Dina slagsmåls-attacker räknas som Skala 1.
 *Krav:* Smidighet 3, Strid 2  
 När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 skadetärningar och +1 på kritiska träffar.
 
-### Tyst ner
-
-*Krav:* Bakstick  
-När du gör en obeväpnad attack mot ett mål som inte är medvetet om dig kan du spendera 1 Fokus. Vid träff blir målet medvetslöst istället för att ta skada (om det är ungefär din storlek eller mindre).
-
-## Tunga närstridsvapen
-
-### Tung vapensföring
-
-*Krav:* Fysik 3, Strid 2  
-Du är tränad i tunga närstridsvapen (yxa, slägga, tvåhandsvapen). +1 på slag med sådana vapen.
-
-### Genomslagskraft
-
-*Krav:* Tung vapensföring  
-Dina attacker med tunga närstridsvapen ignorerar 1 poäng Skydd och får +1 på kritiska träffar.
-
-### Svepande slag
-
-*Krav:* Tung vapensföring  
-Som en Huvudhandling kan du spendera 1 Fokus för att attackera alla fiender inom 2 meter med ditt tunga närstridsvapen. Slå en attack - alla träffade tar skada.
-
-## Batong och klubbor
-
-### Batongexpert
-
-*Krav:* Strid 2, Smidighet 2  
-+1 på attacker med batong och liknande klubbor. Du kan välja att göra icke-dödlig skada utan avdrag.
-
-### Förlamande slag
-
-*Krav:* Batongexpert  
-När du träffar med batong kan du spendera 1 Fokus. Målet måste slå Fysik + Vilja eller förlora sin nästa Huvudhandling (förutom att ta skada).
-
 # Eldstrid
 
 ## Automatsalva  
@@ -363,19 +329,7 @@ Vid lyckad upptäckt kan du med 1 framgång identifiera modus eller sannolik kä
 *Krav:* Analys 2  
 Du kan tala och förstå fler språk. Utöver dina grundspråk så kan du välja ytterligare ett språk per nivå i Analys.
 
-# Utökade eldstridsförmågor
-
-## Hagelgevär
-
-### Hagelgevärsexpert
-
-*Krav:* Strid 2, Fysik 2  
-+1 på attacker med hagelgevär. När du skjuter på kort håll (inom 10m) får målet -1 på försvar mot din attack.
-
-### Pumpactionsdisciplin
-
-*Krav:* Hagelgevärsexpert  
-Du kan ladda om hagelgevär som en gratis handling istället för en bihandling.
+# Utökade stridsförmågor
 
 ## Granater och sprängämnen
 
@@ -384,59 +338,12 @@ Du kan ladda om hagelgevär som en gratis handling istället för en bihandling.
 *Krav:* Strid 2, Smidighet 2  
 +1 på attacker med kastade granater och sprängladdningar. Du får också +5 meter på kastdistans.
 
-### Diversionsgranat
-
-*Krav:* Granatkastare  
-När du kastar en granat kan du spendera 1 Fokus. Alla som ser/hör explosionen (även de som inte träffas) måste slå för Rädsla (Vilja + Strid, svårighet 0) eller ta 1 Stress.
-
-### Stridssprängning
-
-*Krav:* Expertis: Sappör  
-Du kan rigga och placera spräng under strid. Att rigga spräng tar en Huvudhandling (istället för flera minuter).
-
-### Precision
-
-*Krav:* Stridssprängning  
-När du laddar spräng kan du spendera 1 Fokus. Vid detonation kan du välja exakt vilka mål inom explosionsradien som drabbas och vilka som inte gör det.
-
-## Övriga automatvapen
-
-### K-pistexpert
-
-*Krav:* Strid 2, Fysik 2  
-+1 på attacker med k-pistar. Du kan kontrollera rekyl bättre och ignorerar den första svårighetsökningen från Kort salva.
-
-### Kulspruta
-
-*Krav:* Fysik 3, Strid 3  
-+1 på attacker med kulspruta. Du kan bära och manövrera kulsprutor utan avdrag.
-
-### Kulsprutebas
-
-*Krav:* Kulspruta  
-När du skjuter med uppsatt kulspruta (tar en bihandling att sätta upp) får du +2 tärningar på attacker istället för +1.
-
-## Sniper förmågor
+## Prickskytte
 
 ### Andningskontroll
 
 *Krav:* Skarpskytt  
 Om du använder din Huvudhandling för att Sikta (istället för Bihandling) får du +2 istället för +1 på nästa attack.
-
-### Perfekt timing
-
-*Krav:* Mästerskott  
-Du kan spendera 1 Fokus för att göra din attack innan initiativet slås. Detta räknas som ett bakhåll om målet inte är medvetet om dig.
-
-### Hjärtskott
-
-*Krav:* Kallblodig träff, Strid 4  
-När du använder Mästerskott kan du spendera ytterligare 1 Fokus (totalt 2) för att öka kritisk bonus med +2 istället för att öka skalan.
-
-### Viljeskott
-
-*Krav:* Mästerskott  
-När du träffar ett mål kan du spendera 1 Fokus. Målet måste slå för Rädsla (Vilja + relevant egenskap, svårighet 0) eller ta 1 Stress.
 
 # Försvar och beskyddande
 
@@ -445,14 +352,9 @@ När du träffar ett mål kan du spendera 1 Fokus. Målet måste slå för Räds
 *Krav:* Fysik 2, Strid 2  
 Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera en Reaktion för att ge dem +1 tärning på deras försvar.
 
-## Ge täckning
-
-*Krav:* Sköldväktare  
-Som en Bihandling kan du placera dig så att en allierad får fördel av ditt skydd. Välj en allierad inom 2 meter. Attacker mot den allierade måste först träffa dig. Du kan försvara dig normalt. Effekten varar till din nästa tur.
-
 ## Offervilja
 
-*Krav:* Ge täckning, Vilja 3  
+*Krav:* Sköldväktare, Vilja 3  
 När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus och en Reaktion för att ta all skadan själv istället. Du kan inte försvara dig mot denna skada.
 
 ## Järnvilja
@@ -460,61 +362,12 @@ När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus och en Rea
 *Krav:* Fysik 3, Vilja 3  
 När du tar skada som skulle göra dig Sårad eller Medvetslös kan du spendera 1 Fokus för att ignorera den tillståndseffekten till slutet av scenen. Du tar fortfarande skadan och kan fortfarande bli Döende.
 
-## Uthärda
-
-*Krav:* Järnvilja  
-Du kan spendera 1 Stress istället för 1 Fokus för att aktivera Järnvilja. Max 1 Stress per scen på detta sätt.
-
-## Spärra vägen
-
-*Krav:* Fysik 2, Strid 2  
-Som en Reaktion när en fiende försöker passera förbi dig kan du försöka blockera. Slå Fysik + Strid mot fiendens Smidighet + Fysik. Vid framgång avbryts fiendens förflyttning.
-
-## Vunnen grund
-
-*Krav:* Fysik 2, Vilja 2  
-När du tar skydd bakom något kan du spendera 1 Fokus. Till din nästa tur får du +2 Skydd (istället för det skydd positionen normalt ger).
-
-# Infiltration och hemlighet
-
-## Svag punkt
-
-*Krav:* Bakstick, Sinnen 3  
-Som en Bihandling kan du studera en fiende. Slå Sinnen + Strid. Vid framgång identifierar du en svag punkt - nästa attack mot denna fiende (av vem som helst i laget) får +1 per framgång på attackslaget.
-
-## Yrvänd
-
-*Krav:* List 2, Smidighet 2  
-När en fiende träffar dig i närstrid kan du spendera 1 Fokus och en Reaktion för att omedelbart förflytta dig 2 meter utan att provocera attacker.
-
-# Taktik och situationer
-
-## Terrängutnyttjare
-
-*Krav:* Sinnen 2, Smidighet 2  
-Du kan som en Bihandling identifiera fördelaktig terräng. Slå Sinnen + Smidighet. Vid framgång får du +1 på ditt nästa slag om du positionerar dig vid denna plats (kräver förflyttning dit).
-
-## Höjdfördel
-
-*Krav:* Smidighet 2, Strid 2  
-När du attackerar från högre position än målet får du +1 på attackslaget.
-
-## Kontrollera avstånd
-
-*Krav:* Strid 3, Smidighet 2  
-När en fiende försöker förflytta sig närmare eller längre bort från dig kan du spendera 1 Fokus och en Reaktion för att göra en attack mot dem. Om du träffar avbryts deras förflyttning.
-
-## Ompositionering
-
-*Krav:* Smidighet 3  
-Efter att du gjort en attack kan du spendera 1 Fokus för att omedelbart förflytta dig din Förflyttning som en gratis handling.
+# Taktik och lagstöd
 
 ## Taktisk koordinering
 
 *Krav:* Strid 3, Analys 2  
 Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Strid + Analys. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoäng försvinner i slutet av din nästa tur.
-
-# Lagstöd
 
 ## Lagarbete
 
@@ -526,37 +379,12 @@ När du hjälper en allierad och får minst 1 framgång, genererar du 1 Fokus (�
 *Krav:* Samspel 3  
 Som en Bihandling kan du spendera 1 Fokus för att ge en allierad inom hörhåll +1 Fokus. Fungerar bara om allierade har mindre Fokus än sitt maximum.
 
-## Dela bördan
-
-*Krav:* Samspel 3, Vilja 2  
-Som en Bihandling kan du spendera 1 Stress för att låta en allierad minska sin Stress med 1. Ni måste kunna prata med varandra.
-
-## Hörnstenstrupp
-
-*Krav:* Vilja 3  
-Allierade inom 5 meter från dig får +1 på alla Rädsla-slag. Du måste vara vid medvetande.
-
-## Föregå med exempel
-
-*Krav:* Vilja 3, Strid 2  
-När du lyckas med en attack kan du spendera 1 Fokus. Välj en allierad som ser dig - denna allierad får +2 tärningar på sin nästa attack.
-
-## Nödåterställning
-
-*Krav:* Samspel 3, Vilja 3  
-En gång per scen kan du som en Huvudhandling återställa alla allieraders Fokus till Momentum (som om en ny scen börjat). Detta kostar dig 2 Stress.
-
 # Desperata manövrar
 
 ## Desperat skott
 
 *Krav:* Strid 3  
 När du skulle missa en avståndsattack kan du spendera 1 Stress för att återrulla alla missar i slaget. Detta fungerar bara en gång per slag.
-
-## Levande sköld
-
-*Krav:* Fysik 3, Strid 2, List 2  
-När du är i närstrid med en fiende kan du som en Bihandling spendera 1 Fokus för att greppa dem. Till din nästa tur får alla avståndsattacker mot dig +2 svårighet (risk att träffa fången).
 
 ## Berserkerraseri
 
@@ -568,11 +396,6 @@ Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress pe
 - Du måste attackera närmaste fiende
 
 Du kan avsluta raseriet i början av din tur.
-
-## Kall precision
-
-*Krav:* Analys 3, Strid 3  
-När du är Sårad kan du spendera 1 Stress som en fri handling. Till slutet av din nästa tur ignorerar du alla svårighetsmodifikationer från skador och får +1 på alla attackslag.
 
 ## Sista kraften
 
@@ -595,13 +418,3 @@ När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 p
 
 *Krav:* Expertis: Apotekare eller Expertis: Läkare  
 Som en Bihandling kan du spendera 1 Fokus för att ge en allierad (eller dig själv) +2 på Fysik och Smidighet till slutet av nästa runda. Efter effekten tar målet 1 Stress.
-
-## Smärtlindring
-
-*Krav:* Expertis: Apotekare eller Expertis: Läkare  
-Som en Huvudhandling kan du behandla en Sårad allierad. Vid lyckat Smidighet + Analys-slag ignorerar allierade svårighetsmodifikationen från Sårad till slutet av scenen.
-
-## Medicinsk expertis
-
-*Krav:* Expertis: Läkare  
-När du behandlar kritiska träffar får du +1 på alla vårdslag och kan återrulla en tärning per slag.
