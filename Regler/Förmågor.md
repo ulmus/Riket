@@ -130,197 +130,202 @@ Din täckande eld gör det också svårt att attackera
 
 Förmågor som kräver en specifik [[Expertiser|Expertis]]. Du måste ha expertisen för att kunna välja förmågan.
 
-## Fältmedicinare
+## Erfaren
 
-### Fältsteril
+*Krav:* En Expertis  
+Välj en expertis du har. Du får ytterligare +1 på aktiviteter som omfattas av den expertisen (totalt +2 med expertis). Du kan ta denna förmåga flera gånger, en gång per expertis.
 
-*Krav:* Expertis: Fältmedicinare  
-Spendera 1 Fokus när du ger akutvård i fält för att ignorera första miljö-svårigheten (mörker, kyla, press) på slaget.
+## Läkare
 
-### Snabb triage
+### Fältkirurg
 
-*Krav:* Expertis: Fältmedicinare  
-Vid lyckat Akutvårdsslag minskar patienten sin Stress med 1 extra per framgång (utöver grundregeln).
+*Krav:* Expertis: Läkare  
+Spendera 1 Fokus för +3 tärningar på ett vårdslag.
+
+### Lugnande närvaro
+
+*Krav:* Expertis: Läkare  
+När du lyckas med ett vårdslag minskar patientens Stress med 1.
 
 ## Apotekare
 
-### Fältapotek
+### Precisionsdos
 
 *Krav:* Expertis: Apotekare  
-Spendera 1 Fokus för att ge +3 tärningar till ett slag för akutvård eller ett läkeslag (en gång per slag).
+Spendera 1 Fokus för +3 tärningar på läkemedels- eller giftslag.
 
-### Exakt dos
+### Snabbverkande
 
 *Krav:* Expertis: Apotekare  
-Vid lyckad läkemedelsrull kan du välja med 1 framgång: exakt dos utan biverkningar eller förlängd verkan.
+Dina läkemedel ger effekt omedelbart istället för efter normal väntetid.
 
 ## Radiotekniker
 
-### Störningsbuffer
+### Signalexpert
 
 *Krav:* Expertis: Radiotekniker  
-Spendera 1 Fokus för att fördröja scenens nästa tidspress en runda när du stabiliserar en förbindelse.
+Spendera 1 Fokus för +3 tärningar på radioslag.
 
-### Fältjustering
+### Stabil länk
 
 *Krav:* Expertis: Radiotekniker  
-Vid lyckat radioslag kan du med 1 framgång öka räckvidden ett steg eller minska brus ett steg (välj ett).
+Dina radioförbindelser håller en extra runda under tidspress innan de bryts.
 
 ## Telegrafist
 
-### Rensat brus
+### Örat mot etern
 
 *Krav:* Expertis: Telegrafist  
-Spendera 1 Fokus när du lyssnar i störningar: den första allierade som hjälper får ge +2 tärningar i stället för +1.
+Spendera 1 Fokus för +3 tärningar på avlyssningsslag.
 
-### Signalmetadata
+### Morsemästare
 
 *Krav:* Expertis: Telegrafist  
-Vid lyckad avlyssning kan du med 1 framgång avslöja sidometadata, till exempel sändningsfönster eller ungefärlig plats.
+Du kan sända och ta emot morse dubbelt så snabbt, och behöver aldrig slå för att sända korrekt.
 
 ## Kryptograf
 
-### Kodspur
+### Kodknäckare
 
 *Krav:* Expertis: Kryptograf  
-Spendera 1 Fokus: om du lyckas denna runda sänks scenens kvarvarande framgångskrav med 1.
+Spendera 1 Fokus för +3 tärningar på dekrypteringsslag.
 
-### Extra segment
+### Mönsteröga
 
 *Krav:* Expertis: Kryptograf  
-Vid lyckad dekryptering kan du med 1 framgång få ut ett extra textsegment eller en klargörande hint.
+Varje framgång på dekryptering räknas som två mot scenens framgångskrav.
 
 ## Förfalskare
 
-### Förberedd kontroll
+### Mästerverk
 
 *Krav:* Expertis: Förfalskare  
-Spendera 1 Fokus: första kontrollen mot dokumentet får −1 i svårighet.
+Spendera 1 Fokus för +3 tärningar på förfalskningsslag.
 
-### Patinerat verk
+### Perfekt patina
 
 *Krav:* Expertis: Förfalskare  
-Vid lyckad förfalskning kan du med 1 framgång ge +1 på nästa relevanta Samspel-slag som använder dokumentet.
+Dina förfalskningar klarar alltid första kontrollen automatiskt.
 
 ## Låssmed
 
-### Tyst bypass
+### Andra försöket
 
 *Krav:* Expertis: Låssmed  
-Vid lyckat dyrkningsslag kan du med 1 framgång göra öppningen både tyst och snabb.
+Vid misslyckad dyrkning kan du spendera 1 Fokus för att slå om.
 
-### Effektiv assist
+### Snabba fingrar
 
 *Krav:* Expertis: Låssmed  
-Spendera 1 Fokus vid lyckat slag för att din hjälp ska räknas som +2 tärningar i stället för +1.
+Du kan dyrka enkla lås (svårighet 0) som en Bihandling.
 
 ## Sappör
 
-### Skyddad zon
+### Kontrollerad sprängning
 
 *Krav:* Expertis: Sappör  
-Spendera 1 Fokus när du riggar spräng: välj en skyddad zon (person eller yta) som undantas från skada vid lyckad sprängning.
+Spendera 1 Fokus för +3 tärningar på sprängslag.
 
-### Diskret laddning
+### Riktad laddning
 
 *Krav:* Expertis: Sappör  
-Vid lyckad laddning kan du med 1 framgång sänka risken för larm eller oönskad uppmärksamhet ett steg.
+Du kan alltid välja att sprängskadan inte påverkar en zon eller person du anger.
 
 ## Mekaniker
 
-### Verktygspool
+### Fältfix
 
 *Krav:* Expertis: Mekaniker  
-Spendera 1 Fokus för att ge +1 tärning till nästa allierades Analys-slag i samma scen.
+Spendera 1 Fokus för +3 tärningar på reparationsslag.
 
-### Extra funktion
+### Provisorisk lösning
 
 *Krav:* Expertis: Mekaniker  
-Vid lyckad reparation kan du med 1 framgång återfå en extra funktion eller tålighet på objektet.
+Du kan reparera ett fordon eller maskin som en Bihandling; reparationen håller till scenens slut.
 
 ## Elektriker
 
-### Maskerad sensor
+### Kabelmästare
 
 *Krav:* Expertis: Elektriker  
-Spendera 1 Fokus: vid lyckat slag ignoreras första standardtriggern på sensorn/larmet.
+Spendera 1 Fokus för +3 tärningar på elektriker-slag.
 
-### Förbikoppling
+### Spårfri koppling
 
 *Krav:* Expertis: Elektriker  
-Vid lyckad förbikoppling kan du med 1 framgång lämna systemet utan logg eller avvikelse.
+Dina förbikopplingar lämnar aldrig logg eller spår.
 
 ## Maskör
 
-### Förberett teamstöd
+### Förvandling
 
 *Krav:* Expertis: Maskör  
-Spendera 1 Fokus: den första allierade som hjälper ditt sociala slag ger +2 tärningar i stället för +1.
+Spendera 1 Fokus för +3 tärningar på förklädnadsslag.
 
-### Djupare cover
+### Övertygande cover
 
 *Krav:* Expertis: Maskör  
-Vid lyckad förklädnad kan du med 1 framgång få djupare åtkomstnivå eller förlänga tiden innan misstanke uppstår.
+När du hjälper en allierad med sociala slag ger dina framgångar +2 bonustärningar istället för +1.
 
 ## Förhörsledare
 
-### Styrt tempo
+### Press
 
 *Krav:* Expertis: Förhörsledare  
-Spendera 1 Fokus: välj en fas i förhöret; du och en allierad som hjälper får +1 på den fasen.
+Spendera 1 Fokus för +3 tärningar på förhörsslag.
 
-### Dubbel verifiering
+### Psykologisk insikt
 
 *Krav:* Expertis: Förhörsledare  
-Vid lyckat förhör kan du med 1 framgång få en extra verifierbar uppgift utan att någon tar extra Stress.
+När du lyckas med ett förhör tjänar du 1 Fokus.
 
 ## Officer
 
-### Elddisciplin
+### Stridsorder
 
 *Krav:* Expertis: Officer  
-Spendera 1 Fokus: ge +1 per framgång till en allierad; spendera fler Fokus för att fler allierade kan få samma bonus.
+Spendera 1 Fokus för att ge en allierad +3 tärningar på nästa attack eller försvar.
 
-### Initieringsorder
+### Fältbefäl
 
 *Krav:* Expertis: Officer  
-Spendera 1 Fokus och en Bihandling: ge en allierad +1 per framgång på initiativ; fler Fokus låter dig ge effekten till fler allierade.
+När du hjälper en allierad i strid ger dina framgångar +2 bonustärningar istället för +1.
 
 ## Chaufför
 
-### Delad linje
+### Kontrollerad sladd
 
 *Krav:* Expertis: Chaufför  
-Spendera 1 Fokus för att ge +1 tärning till nästa allierades manöver i samma jakt.
+Vid misslyckad manöver kan du spendera 1 Fokus för att slå om.
 
-### Pressad växel
+### Racerinstinkt
 
 *Krav:* Expertis: Chaufför  
-Vid lyckad manöver kan du med 1 framgång vinna distans eller tvinga motståndaren till ett kontrollslag.
+I en jakt eller kapplöpning räknas din första framgång varje runda som två.
 
 ## Underrättelseanalytiker
 
-### Brief
+### Genomlysning
 
 *Krav:* Expertis: Underrättelseanalytiker  
-Spendera 1 Fokus: lagets första Hjälpa till i nästa delscen ger +2 tärningar i stället för +1.
+Spendera 1 Fokus för +3 tärningar på analysslag.
 
-### Förutse nästa drag
+### Förvarning
 
 *Krav:* Expertis: Underrättelseanalytiker  
-Vid lyckad analys kan du med 1 framgång förutse nästa sannolika drag; spelledaren ger en konkret ledtråd eller varning.
+När du lyckas med en analys före en operation får alla allierade +1 på sitt första slag i operationen.
 
 ## Säkerhetsofficer
 
-### Fördröjd angripare
+### Skarp blick
 
 *Krav:* Expertis: Säkerhetsofficer  
-Spendera 1 Fokus: vid lyckat slag måste motståndaren lägga en extra runda på att återta initiativ i denna delscen.
+Spendera 1 Fokus för +3 tärningar på upptäcktsslag.
 
-### Modusidentifiering
+### Protokollkännedom
 
 *Krav:* Expertis: Säkerhetsofficer  
-Vid lyckad upptäckt kan du med 1 framgång identifiera modus eller sannolik källa och ge +1 tärning till nästa åtgärd riktad mot samma angripare.
+Du upptäcker alltid automatiskt uppenbara säkerhetsbrister utan att slå.
 
 # Bakgrunds-Förmågor
 
@@ -390,6 +395,7 @@ När du skulle missa en avståndsattack kan du spendera 1 Stress för att slå o
 
 *Krav:* Fysik 3, Strid 3  
 Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt:
+
 - +2 på alla närstridsattacker
 - +2 skadetärningar i närstrid
 - Du kan inte använda Fokus
