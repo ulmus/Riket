@@ -147,7 +147,7 @@ Vid lyckat Akutvårdsslag minskar patienten sin Stress med 1 extra per framgång
 ### Fältapotek
 
 *Krav:* Expertis: Apotekare  
-Spendera 1 Fokus för att ge +2 tärningar till någon annans Akutvård eller läkeslag i scenen (en gång per slag).
+Spendera 1 Fokus för att ge +3 tärningar till ett slag för akutvård eller ett läkeslag (en gång per slag).
 
 ### Exakt dos
 
@@ -245,10 +245,10 @@ Vid lyckad reparation kan du med 1 framgång återfå en extra funktion eller t�
 *Krav:* Expertis: Elektriker  
 Spendera 1 Fokus: vid lyckat slag ignoreras första standardtriggern på sensorn/larmet.
 
-### Spårfri bypass
+### Förbikoppling
 
 *Krav:* Expertis: Elektriker  
-Vid lyckad bypass kan du med 1 framgång lämna systemet utan logg eller avvikelse.
+Vid lyckad förbikoppling kan du med 1 framgång lämna systemet utan logg eller avvikelse.
 
 ## Maskör
 
@@ -395,7 +395,7 @@ Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress pe
 - Du kan inte använda Fokus
 - Du måste attackera närmaste fiende
 
-Du kan avsluta raseriet i början av din tur.
+Du kan avsluta raseriet i början av din tur med ett lyckat slag för Strid+Vilja.
 
 ## Sista ansträngning
 
