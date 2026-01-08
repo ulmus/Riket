@@ -57,7 +57,7 @@ Människor och mål av olika storlek har olika mycket KP och kan ha inbyggd rust
 | Enorm (lastbil, stridsvagn)           |      +16 |            +4 |               +3 |
 | Kolossal (fartyg, byggnad)            |      +32 |            +6 |               +4 |
 
-- **Bonus-KP:** Läggs till målets KP för skadeberäkning.
+- **Bonus-KP:** Läggs till målets KP.
 - **Inbyggt Skydd:** Fungerar som rustningsskydd, minskar KP-skada.
 - **Träffmodifikator:** Modifierar attackslag mot målet.
 
@@ -76,7 +76,7 @@ Fokus är en personlig resurs som återställs inför varje scen. Fokus används
 
 Om du använt Fokus för att lägga till tärningar till ett slag och slaget ändå misslyckas så kan du drabbas av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. Exempel:
 
-- Eldavbrott på ditt vapen, du måste lägga en huvudhandling och lyckas med Smidighet + Analys för att
+- Eldavbrott på ditt vapen, du måste lägga en huvudhandling och lyckas med Smidighet + Analys för att återställa vapnet.
 
 ### Stress istället för Fokus
 
