@@ -19,11 +19,11 @@ När Röda armén grep doktor Josef Mengele våren 1945 insåg den sovjetiska ve
 
 Till skillnad från västliga program som inriktar sig på psykologisk nedbrytning, kombinerar Zvezdy avancerad biokemi med konditionering. Kravkov utvecklade en serie preparat – kodbeteckning "Katalysator-serien" – som framkallar parapsykologiska förmågor genom att destabilisera den fysiologiska hemostasens samtidigt som intensiv ideologisk indoktrinering formar subjektets psyke.
 
-Resultatet är ENS med kraftfulla förmågor men också djup lojalitet mot Sovjet. Överlevnadsgraden är låg – omkring 15% – men de som klarar behandlingen är i fält överlägsna motsvarigheterna i väst. Sovjetiska ENS kallas internt för "Novi-agenter" (Nya agenter).
+Resultatet är ENS med kraftfulla förmågor men också djup lojalitet mot Sovjet. Överlevnadsgraden är låg – omkring 15% – men de som klarar behandlingen är i fält överlägsna motsvarigheterna i väst. Sovjetiska ENS kallas internt för "Zvezda-agenter" eller helt enkelt "Zvezdor".
 
 Programmet är formellt underställt KGB:s första huvudavdelning men opererar i praktiken autonomt från en hemligstämplad anläggning utanför Moskva, känd endast som "Objekt 37".
 
-## Exempel på Novi-agenter
+## Exempel på Zvezda-agenter
 
 **Morana** – Psykokinetisk köldinducerare, operativ sedan 1957. Kan sänka temperaturen i ett rum med 30 grader på sekunder, frysa vätska i levande vävnad och inducera chock. Kliniskt avstängd emotionellt, perfekt för våtjobb.
 

@@ -17,7 +17,7 @@ När underrättelser om Sovjetunionens framgångar med ENS-program nådde Washin
 
 ## Programmets särart
 
-Till skillnad från Sovjets biokemiska fokus eller Sveriges psykologiska metoder, bygger Phoenix på en eklektisk mix av LSD-behandling, sensorisk deprivation och elektrokonvulsiv terapi. Programmet rekryterar primärt från militären – soldater som redan genomgått hårdför träning och har bevisat sin lojalitet.
+Till skillnad från Sovjets biokemiska fokus eller Sveriges psykologiska metoder, bygger Phoenix på en eklektisk mix av LSD-behandling, sensorisk deprivation och elektrokonvulsiv terapi. Grundteorin – att extrem stress framkallar förmågor – härstammar från de tyska experimenten via Operation Paperclip, där amerikanska underrättelsetjänsten säkrade forskningsdokumentation från det kollapsande Tredje riket. Programmet rekryterar primärt från militären – soldater som redan genomgått hårdför träning och har bevisat sin lojalitet.
 
 Phoenix skiljer sig också genom sin decentralisering. Istället för en central anläggning bedrivs experimentationen på flera hemliga platser: Fort Detrick (Maryland), en avskild anläggning i Nevada-öknen kallad "Site 7", och vid ett täckföretag i Los Angeles. Detta minskar risken för exponering men skapar koordinationsproblem.
 

@@ -17,7 +17,9 @@ Frankrike initierade sitt ENS-program senare än de flesta stormakter, delvis p�
 
 ## Programmets särart
 
-Chimère skiljer sig markant från andra program genom sin filosofiska grund. Istället för att betrakta ENS-förmågor som resultat av trauma eller nedbrytning, teoretiserar Dubois att de är latenta i alla människor och kan "väckas" genom rätt neurologisk stimulering. Hans tänkande är influerat av Henri Bergsons idéer om élan vital – livskraften som genomsyrar all existens.
+Chimère skiljer sig markant från andra program genom sin filosofiska grund. Till skillnad från den "tyska skolan" som dominerar andra ENS-program – där extrem stress och trauma framkallar förmågor – bygger det franska programmet på en helt annan teoretisk bas.
+
+Dubois teori härstammar från fransk fenomenologi och psykiatri, särskilt Eugène Minkowskis arbete om "La notion de perte de contact avec la réalité" och hans teorier om hur människan förhåller sig till tid och rum. Kombinerat med Henri Bergsons idéer om élan vital – livskraften som genomsyrar all existens – teoretiserar Dubois att ENS-förmågor är latenta i alla människor och kan "väckas" genom rätt neurologisk stimulering, snarare än att brytas fram genom lidande.
 
 Metoderna kombinerar experimentell neurokirurgi (mikrostimulering av specifika hjärnregioner), farmakologisk behandling med syntetiska preparat, och intensiv meditation och mental träning inspirerad av österländsk filosofi. Det är det mest "teoretiskt avancerade" programmet men också det mest obeprövade.
 
@@ -27,7 +29,7 @@ Verksamheten bedrivs från en hemlig anläggning i Alperna nära Grenoble, offic
 
 **Prisme** (Agent Étienne Valois) – Ljusmanipulation och refraktion. Kan böja ljusstrålar för att skapa förbländning, optiska distorsioner eller skapa ljusblixtrar. Tidigare underrättelseofficer i Algeriet som blev expert på psykologisk krigföring.
 
-**Tempête** (Lieutenant Sophie Moreau) – Luftmanipulation och tryckvariationer. Kan skapa kraftiga vindstötar eller lokala tryckvakuum. Flygvapenofficer som överlevde en krasch där hon "borde ha dött". Hennes förmåga ansågs vara latent och väcktes genom Chimère-protokollet.
+**Tempête** (Lieutenante Sophie Moreau) – Luftmanipulation och tryckvariationer. Kan skapa kraftiga vindstötar eller lokala tryckvakuum. Flygvapenofficer som överlevde en krasch där hon "borde ha dött". Hennes förmåga ansågs vara latent och väcktes genom Chimère-protokollet.
 
 **Fantôme** (Agent Luc Renault) – Ultraljud-generering och akustisk manipulation. Kan skapa desorientering, illamående eller till och med intern vävnadsskada genom fokuserade ljudvågor. Tidigare ljudtekniker som rekryterades för sin ovanliga hörselkänslighet.
 
