@@ -1,6 +1,6 @@
 # Närstrid
 
-## Fäktning och finessvapen
+## Fäktning och finvapen
 
 ### Fäktning
 
@@ -22,7 +22,7 @@ Om du blir attackerad, parerar och får minst en framgång på ditt försvar så
 ### Slagsmål
 
 *Krav:* Fysik 2, Strid 2  
-Du får +1 på slag för Strid + Fysik när du slåss obeväpnad. Obeväpnade attacker har Kritisk Skadebonus 0.
+Du får +1 på slag för Strid + Fysik när du slåss obeväpnad.
 
 ### Jujutsu
 
@@ -42,12 +42,46 @@ Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att kop
 ### Uppercut
 
 *Krav:* Slagsmål  
-Dina obeväpnade attacker får +1 skadetärning.
+Dina slagsmåls-attacker räknas som Skala 1.
 
-### Överraskningsattack
+### Bakstick
 
 *Krav:* Smidighet 3, Strid 2  
 När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 skadetärningar och +1 på kritiska träffar.
+
+### Tyst ner
+
+*Krav:* Bakstick  
+När du gör en obeväpnad attack mot ett mål som inte är medvetet om dig kan du spendera 1 Fokus. Vid träff blir målet medvetslöst istället för att ta skada (om det är ungefär din storlek eller mindre).
+
+## Tunga närstridsvapen
+
+### Tung vapensföring
+
+*Krav:* Fysik 3, Strid 2  
+Du är tränad i tunga närstridsvapen (yxa, slägga, tvåhandsvapen). +1 på slag med sådana vapen.
+
+### Genomslagskraft
+
+*Krav:* Tung vapensföring  
+Dina attacker med tunga närstridsvapen ignorerar 1 poäng Skydd och får +1 på kritiska träffar.
+
+### Svepande slag
+
+*Krav:* Tung vapensföring  
+Som en Huvudhandling kan du spendera 1 Fokus för att attackera alla fiender inom 2 meter med ditt tunga närstridsvapen. Slå en attack - alla träffade tar skada.
+
+## Batong och klubbor
+
+### Batongexpert
+
+*Krav:* Strid 2, Smidighet 2  
++1 på attacker med batong och liknande klubbor. Du kan välja att göra icke-dödlig skada utan avdrag.
+
+### Förlamande slag
+
+*Krav:* Batongexpert  
+När du träffar med batong kan du spendera 1 Fokus. Målet måste slå Fysik + Vilja eller förlora sin nästa Huvudhandling (förutom att ta skada).
 
 # Eldstrid
 
@@ -147,7 +181,7 @@ Vid lyckat Akutvårdsslag minskar patienten sin Stress med 1 extra per framgång
 ### Fältapotek
 
 *Krav:* Expertis: Apotekare  
-Spendera 1 Fokus för att ge +3 tärningar till ett slag för akutvård eller ett läkeslag (en gång per slag).
+Spendera 1 Fokus för att ge +2 tärningar till någon annans Akutvård eller läkeslag i scenen (en gång per slag).
 
 ### Exakt dos
 
@@ -245,10 +279,10 @@ Vid lyckad reparation kan du med 1 framgång återfå en extra funktion eller t�
 *Krav:* Expertis: Elektriker  
 Spendera 1 Fokus: vid lyckat slag ignoreras första standardtriggern på sensorn/larmet.
 
-### Förbikoppling
+### Spårfri bypass
 
 *Krav:* Expertis: Elektriker  
-Vid lyckad förbikoppling kan du med 1 framgång lämna systemet utan logg eller avvikelse.
+Vid lyckad bypass kan du med 1 framgång lämna systemet utan logg eller avvikelse.
 
 ## Maskör
 
@@ -326,90 +360,5 @@ Vid lyckad upptäckt kan du med 1 framgång identifiera modus eller sannolik kä
 
 ## Polyglott
 
-*Krav:* Analys 2  
+*Krav:* Analys 2
 Du kan tala och förstå fler språk. Utöver dina grundspråk så kan du välja ytterligare ett språk per nivå i Analys.
-
-# Utökade stridsförmågor
-
-## Granater och sprängämnen
-
-### Granatkastare
-
-*Krav:* Strid 2, Smidighet 2  
-+1 på attacker med kastade granater och sprängladdningar. Du får också +5 meter på kastdistans.
-
-## Prickskytte
-
-### Andningskontroll
-
-*Krav:* Skarpskytt  
-Om du använder din Huvudhandling för att Sikta (istället för Bihandling) får du +2 istället för +1 på nästa attack.
-
-# Försvar och beskyddande
-
-## Livvakt
-
-*Krav:* Fysik 2, Strid 2  
-Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera en Reaktion för att ge dem +1 tärning på deras försvar.
-
-## Offervilja
-
-*Krav:* Livvakt, Vilja 3  
-När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus och en Reaktion för att ta all skadan själv istället. Du kan inte försvara dig mot denna skada.
-
-## Järnvilja
-
-*Krav:* Fysik 3, Vilja 3  
-När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbart spendera 1 Fokus per tillståndseffekt för att ignorera den till slutet av scenen. Du tar fortfarande skadan och kan fortfarande bli Döende.
-
-# Taktik och lagstöd
-
-## Taktisk koordinering
-
-*Krav:* Strid 3, Analys 2  
-Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Strid + Analys. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
-
-## Lagarbete
-
-*Krav:* Samspel 2  
-När du hjälper en allierad och får minst 1 framgång, genererar du 1 Fokus (åt dig själv, inte allierade).
-
-## Inspirera
-
-*Krav:* Samspel 3  
-Som en Bihandling kan du spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måste spenderas inom en runda.
-
-# Desperata manövrar
-
-## Desperat skott
-
-*Krav:* Strid 3  
-När du skulle missa en avståndsattack kan du spendera 1 Stress för att slå om alla tärningar som missade. Detta fungerar bara en gång per slag.
-
-## Bärsärkarraseri
-
-*Krav:* Fysik 3, Strid 3  
-Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt:
-- +2 på alla närstridsattacker
-- +2 skadetärningar i närstrid
-- Du kan inte använda Fokus
-- Du måste attackera närmaste fiende
-
-Du kan avsluta raseriet i början av din tur med ett lyckat slag för Strid+Vilja.
-
-## Sista ansträngning
-
-*Krav:* Vilja 4  
-När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att stanna vid medvetande. Du kan inte spendera mer än 3 Fokus på detta sätt. Efter sista runda faller du medvetslös oavsett skadeläge.
-
-# Stridsläkare
-
-## Fältmedicinare i strid
-
-*Krav:* Expertis: Läkare eller Expertis: Fältmedicinare  
-Du kan ge Akutvård som en Bihandling istället för Huvudhandling under strid, men slaget får +1 svårighet.
-
-## Stridsstabilisering
-
-*Krav:* Fältmedicinare i strid  
-När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 per framgång på ditt vårdslag.
