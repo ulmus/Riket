@@ -2,9 +2,6 @@
 cssclasses:
   - irt-image-page
 ---
-
-# Project Phoenix
-
 När underrättelser om Sovjetunionens framgångar med ENS-program nådde Washington 1952, reagerade USA med omedelbar oro. National Security Council beordrade CIA att etablera ett motprogram. Resultatet blev Project Phoenix – USA:s svar på den parapsykologiska kapprustningen.
 
 ## Nyckelpersoner

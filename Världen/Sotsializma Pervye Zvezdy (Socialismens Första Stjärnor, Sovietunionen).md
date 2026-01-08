@@ -2,9 +2,6 @@
 cssclasses:
   - irt-image-page
 ---
-
-# Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor)
-
 När Röda armén grep doktor Josef Mengele våren 1945 insåg den sovjetiska vetenskapsdelegationen omedelbart potentialen i hans forskning. Efter månader av förhör och förhandlingar ledda av vetenskapsmannen Sergei Kravkov, erbjöds Mengele ett djävulskontrakt: hans liv i utbyte mot hans kunskap. Han accepterade.
 
 ## Nyckelpersoner
@@ -21,7 +18,7 @@ Till skillnad från västliga program som inriktar sig på psykologisk nedbrytni
 
 Resultatet är ENS med kraftfulla förmågor men också djup lojalitet mot Sovjet. Överlevnadsgraden är låg – omkring 15% – men de som klarar behandlingen är i fält överlägsna motsvarigheterna i väst. Sovjetiska ENS kallas internt för "Zvezda-agenter" eller helt enkelt "Zvezdor".
 
-Programmet är formellt underställt KGB:s första huvudavdelning men opererar i praktiken autonomt från en hemligstämplad anläggning utanför Moskva, känd endast som "Objekt 37".
+Programmet är formellt underställt KGB:s första huvudavdelning men opererar i praktiken autonomt från en hemligstämplad anläggning utanför Moskva, känd endast som "Enhet 37".
 
 ## Exempel på Zvezda-agenter
 
@@ -41,4 +38,4 @@ GRU (militära underrättelsetjänsten) är medveten om programmets existens och
 
 Internt inom KGB finns en spänning mellan de som ser ENS som nödvändiga verktyg och de som fruktar att programmet blivit okontrollerbart. Efter Stalins död 1953 fanns en kort period då programmet nästan lades ner, men kalla krigets eskalering säkrade dess fortsättning.
 
-Zvezdy har genomfört operationer i Ungern (1956), Berlin (1961) och flera hemliga uppdrag i tredje världen. Programmet har också etablerat kontakter med liknande initiativ i östblocket, särskilt Östtysklands Projekt Nebelkrone, även om dessa relationer är pragmatiska snarare än samarbetsinriktade.
+Zvezdy har genomfört operationer i Ungern (1956), Berlin (1961) och flera hemliga uppdrag i tredje världen. Programmet har också etablerat kontakter med liknande initiativ i östblocket, särskilt Östtysklands [[Projekt Nebelkrone (Östtyskland)| Projekt Nebelkrone]], även om dessa relationer är pragmatiska snarare än samarbetsinriktade.
