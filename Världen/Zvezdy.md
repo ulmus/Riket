@@ -1,1 +1,0 @@
-Det sovjetiska programmet för ENS
