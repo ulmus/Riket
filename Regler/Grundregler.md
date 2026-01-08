@@ -103,7 +103,7 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
 - Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
-- Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Strid + Smidighet och drar av framgångar från attackens framgångar.
+- Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Smidighet + Strid och drar av framgångar från attackens framgångar.
 - Skada mäts i kroppspoäng (KP). Du har lika många KP som din Fysik + Vilja.
 
 Se kapitlet för [[Strid och skada]]

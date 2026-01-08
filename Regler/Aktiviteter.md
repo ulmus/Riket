@@ -51,7 +51,7 @@ Våra hjältar blir stoppade vid en sovjetisk vägspärr utanför Minsk.
 
 - **Hjältarnas huvudaktör** slår för **List + Samspel** för att övertyga sergeanten att de är kurirer.
 - **Hjältarnas biaktör** kan hjälpa genom att vifta med “korrekta papper”, **Analys + List**.
-- **Motståndets huvudaktör** (sergeanten) slår för **Sinnen + Samspel** för att genomskåda lögnen.
+- **Motståndets huvudaktör** (sergeanten) slår för **Samspel + Sinnen** för att genomskåda lögnen.
 - **Motståndets biaktör** (en vakt) kan hjälpa genom att undersöka fordonet, **Sinnen + Smidighet**.
 - Alla biaktörer slår först och ger sina bonusar. Därefter slår båda huvudaktörerna. Den sida med flest framgångar vinner: hjältarna får passera, eller stoppas för vidare kontroll. Vid lika → spelledaren avgör (t.ex. tvekan, fördröjning, eller krav på extra bevis).
 
@@ -102,13 +102,13 @@ Diskreta informationsinsatser: följa mål, kartlägga vanor, hitta ledtrådar o
 | Aktivitet             | Beskrivning/kommentar                             | Egenskap + Egenskap |
 | --------------------- | ------------------------------------------------- | ------------------- |
 | Skugga en person      | Hålla diskret avstånd i stadstrafik eller fot     | Sinnen + Smidighet  |
-| Motspaning            | Upptäcka spanare, bryta mönster, “rensa svansen”  | Sinnen + List       |
-| Undersöka brottsplats | Systematisk genomsökning; gör anteckningar, foton | Sinnen + Analys     |
-| Spana från gömsle     | Långvarig observation med kikare/kamera           | Sinnen + Samspel    |
-| Genomsöka rum         | Snabb men metodisk “svepning” efter gömda ting    | Sinnen + Analys     |
-| Läsa läppar           | Avståndsobservation av samtal                     | Sinnen + Analys     |
+| Motspaning            | Upptäcka spanare, bryta mönster, “rensa svansen”  | List + Sinnen       |
+| Undersöka brottsplats | Systematisk genomsökning; gör anteckningar, foton | Analys + Sinnen     |
+| Spana från gömsle     | Långvarig observation med kikare/kamera           | Samspel + Sinnen    |
+| Genomsöka rum         | Snabb men metodisk “svepning” efter gömda ting    | Analys + Sinnen     |
+| Läsa läppar           | Avståndsobservation av samtal                     | Analys + Sinnen     |
 | Foto-dokumentation    | Ta användbara, skarpa bevisbilder                 | Sinnen + Smidighet  |
-| Kartrekognosering     | Tolka kartor/flygbilder inför operation           | Sinnen + Analys     |
+| Kartrekognosering     | Tolka kartor/flygbilder inför operation           | Analys + Sinnen     |
 
 ## Infiltration & intrång
 
@@ -118,7 +118,7 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 | ------------------------ | ------------------------------------------- | ----------------------- |
 | Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Smidighet + Smidighet   |
 | Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Analys + Smidighet      |
-| Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Sinnen + Analys         |
+| Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Analys + Sinnen         |
 | Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Analys + Smidighet      |
 | Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel          |
 | Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Analys + Smidighet      |
@@ -135,7 +135,7 @@ Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – 
 | Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | List + Samspel        |
 | Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Samspel     |
 | Få folk att prata            | Småprat, social ingång, “openers”             | List + Samspel        |
-| Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Sinnen + Samspel      |
+| Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Samspel + Sinnen      |
 | Leda under press             | Korta order, moral, förtroende                | Samspel + Samspel     |
 | Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Samspel        |
 
