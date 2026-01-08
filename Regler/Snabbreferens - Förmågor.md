@@ -28,58 +28,66 @@
 
 ### Stress istället för Fokus
 
-- ✅ Kan alltid användas 1:1
-- ⚠️ Max antal = din Stabilitet per användning
-- ⚠️ Risk för Sammanbrott (slå efter handlingen)
+- Kan alltid användas 1:1
+- Max antal = din Stabilitet per användning
+- Risk för Sammanbrott (slå efter handlingen)
 
 ## Handlingstyper
 
-| Handling | Kostnad | Används för |
-|----------|---------|-------------|
-| **Huvudhandling** | 1 per tur | Attacker, komplexa manövrar, kraftfulla effekter |
-| **Bihandling** | 1 per tur (eller 3 om du skippar Huvudhandling) | Sikta, röra sig, dra vapen, snabba förstärkningar |
-| **Reaktion** | 1 per runda | Försvar, motattacker, skydda allierade |
-| **Gratis handling** | Flera | Prata, tappa något, vissa förmågor |
+| Handling            | Kostnad                                         | Används för                                       |
+| ------------------- | ----------------------------------------------- | ------------------------------------------------- |
+| **Huvudhandling**   | 1 per tur                                       | Attacker, komplexa manövrar, kraftfulla effekter  |
+| **Bihandling**      | 1 per tur (eller 3 om du skippar Huvudhandling) | Sikta, röra sig, dra vapen, snabba förstärkningar |
+| **Reaktion**        | 1 per runda                                     | Försvar, motattacker, skydda allierade            |
+| **Gratis handling** | Flera                                           | Prata, tappa något, vissa förmågor                |
 
 ## Exempel på karaktärsbyggen
 
 ### Försvarare/Livvakt
+
 **Förmågor:** Livvakt → Offervilja → Järnvilja  
 **Egenskaper:** Fysik 3+, Vilja 3+  
 **Spelstil:** Skydda allierade, absorbera skada
 
 ### Prickskytt
+
 **Förmågor:** Skarpskytt → Mästerskott → Kallblodig träff → Andningskontroll  
 **Egenskaper:** Smidighet 3+, Strid 3+  
 **Spelstil:** Långa avstånd, precision, ett skott räcker
 
 ### Pistol-duelist
+
 **Förmågor:** Pistolskytt → Snabbskott → Skottväxling  
 **Egenskaper:** Smidighet 3+, Strid 2+  
 **Spelstil:** Snabb action, många skott, mobil
 
 ### Närstridskämpe
+
 **Förmågor:** Jujutsu → Fällning → Fastlåsning  
 **Egenskaper:** Smidighet 3+, Strid 2+  
 **Spelstil:** Kontroll, grappling, icke-dödligt
 
 ### Automatvapensexpert
+
 **Förmågor:** Automatsalva → Täckande eld → Undertryckande eld  
 **Egenskaper:** Fysik 3+, Strid 3+  
 **Spelstil:** Zonkontroll, suppression
 
 ### Stridsläkare
+
 **Förmågor:** Fältmedicinare i strid → Stridsstabilisering  
 **Egenskaper:** Smidighet 2+, Analys 3+  
 **Expertis:** Läkare  
 **Spelstil:** Håll teamet vid liv
 
 ### Lagstödjare
+
 **Förmågor:** Lagarbete → Inspirera → Taktisk koordinering  
 **Egenskaper:** Samspel 3+, Strid 3+, Analys 2+  
 **Spelstil:** Generera Fokus, samordna laget
 
 ### Infiltratör
+
 **Förmågor:** Överraskningsattack (stealth-attack bonus)  
 **Egenskaper:** Smidighet 3+, Strid 2+  
 **Spelstil:** Strike från skuggorna
