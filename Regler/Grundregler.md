@@ -126,8 +126,10 @@ Se kapitlet för [[Stress & rädsla]]
 - 12 poäng till övriga egenskaper (1–3 vardera)
 - Välj 1 superförmåga och 1 världslig förmåga.
 
+Se kapitlet för [[Skapa och utveckla en rollperson]].
+
 ## Förmågor
 
 Våra hjältar har flera förmågor, dels sådana som kommer från deras krafter och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Färdighet eller att karaktären har vissa andra förmågor sedan tidigare.
 
-Se [[Förmågor]]
+Se kapitlet för [[Förmågor]]
