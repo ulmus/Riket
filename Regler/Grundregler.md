@@ -2,6 +2,8 @@
 
 Mer om Program Frigg och världen i I Rikets Tjänst finns i [[Bakgrund]].
 
+För förklaring av vanliga termer i spelet, se [[Terminologi]].
+
 ## Grundmekanik: Egenskap + Egenskap T12or
 
 Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma egenskap två gånger):
