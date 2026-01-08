@@ -2,9 +2,6 @@
 cssclasses:
   - irt-image-page
 ---
-
-# Projekt Nebelkrone (Östtyskland)
-
 Östtysklands hemliga ENS-program etablerades 1952 som en parallell till Sovjetunionens Zvezdy, men med en mörkare historia. Projekt Nebelkrone (Dimkronan) grundades med hjälp av före detta nazistiska forskare och drivs med en brutal pragmatism som gör det till ett av de mest kontroversiella programmen även inom östblockets slutna sällskap.
 
 ## Nyckelpersoner
@@ -23,7 +20,7 @@ Nebelkrone är det mest brutala moderna ENS-programmet, närmast det ursprunglig
 
 Rekryteringen sker bland "samhällsfiender" – politiska fångar, religiösa dissidenter, flyktförsökare. Överlevnadsgraden är katastrofal, omkring 5%, men Stasi betraktar detta som acceptabelt.
 
-Anläggningen finns nära Sachsenhausen, norr om Berlin, officiellt listad som "Sonderlager VII". Till skillnad från Zvezdy förlitar sig Nebelkrone på ursprungliga metoderna: isolering, elektriska chocker, droger och psykologisk nedbrytning.
+Anläggningen finns nära Sachsenhausen, norr om Berlin, officiellt listad som "Sonderlager VII". Till skillnad från [[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovietunionen)|Zvezdy]] förlitar sig Nebelkrone på ursprungliga metoderna: isolering, elektriska chocker, droger och psykologisk nedbrytning.
 
 ## Exempel på Nebelkrone-ENS
 
