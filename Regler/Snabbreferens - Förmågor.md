@@ -76,14 +76,14 @@
 ### Stridsläkare
 
 **Förmågor:** Fältmedicinare i strid → Stridsstabilisering  
-**Egenskaper:** Smidighet 2+, Analys 3+  
+**Egenskaper:** Analys 3+, Smidighet 2+  
 **Expertis:** Läkare  
 **Spelstil:** Håll teamet vid liv
 
 ### Lagstödjare
 
 **Förmågor:** Lagarbete → Inspirera → Taktisk koordinering  
-**Egenskaper:** Samspel 3+, Strid 3+, Analys 2+  
+**Egenskaper:** Analys 2+, Samspel 3+, Strid 3+  
 **Spelstil:** Generera Fokus, samordna laget
 
 ### Infiltratör

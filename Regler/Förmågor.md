@@ -5,12 +5,12 @@
 ### Fäktning
 
 *Krav:* Smidighet 2, Strid 2  
-Du får +1 på slag för Strid + Smidighet när du slåss med ett finess-vapen (närstridsvapen med egenskapen Finess).
+Du får +1 på slag för Smidighet + Strid när du slåss med ett finess-vapen (närstridsvapen med egenskapen Finess).
 
 ### Fint
 
 *Krav:* Fäktning, Slagsmål eller Jujutsu  
-Som en bihandling kan du finta en motståndare, slå för Strid + Smidighet. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
+Som en bihandling kan du finta en motståndare, slå för Smidighet + Strid. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
 
 ### Ripost
 
@@ -22,12 +22,12 @@ Om du blir attackerad, parerar och får minst en framgång på ditt försvar så
 ### Slagsmål
 
 *Krav:* Fysik 2, Strid 2  
-Du får +1 på slag för Strid + Fysik när du slåss obeväpnad. Obeväpnade attacker har Kritisk Skadebonus 0.
+Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Obeväpnade attacker har Kritisk Skadebonus 0.
 
 ### Jujutsu
 
 *Krav:* Smidighet 2, Strid 2  
-Du kan använda Strid + Smidighet för obeväpnade närstridsattacker och får +1 på det slaget.
+Du kan använda Smidighet + Strid för obeväpnade närstridsattacker och får +1 på det slaget.
 
 ### Fällning
 
@@ -56,7 +56,7 @@ När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom
 *Krav:* Fysik 2, Strid 2, vapen med egenskapen *automateld*
 Du kan skjuta en lång salva med bibehållen precision
 
-- **Huvudhandling:** Gör en avståndsattack med *Strid + Fysik*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
+- **Huvudhandling:** Gör en avståndsattack med *Fysik + Strid*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
 - Varje träff ger vapnets grundskada men ett lägre i skala (det vill säga en mindre skadetärning).
 - Kostar 1 magasin.
 
@@ -65,7 +65,7 @@ Du kan skjuta en lång salva med bibehållen precision
 *Krav:* Automatsalva
 Du skjuter täckande eld som hindrar fienden från att förflytta sig
 
-- **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Strid + Smidighet* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
+- **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
 - Kostar **1 Fokus** och 1 magasin.
 
 ## Undertryckande eld  
@@ -83,7 +83,7 @@ Din täckande eld gör det också svårt att attackera
 
 *Krav:* Smidighet 2, Strid 2
 
-- +1 på *Strid + Smidighet* med gevär.
+- +1 på *Smidighet + Strid* med gevär.
 - Ignorera -1 svårighetsgrad för långt avstånd.
 
 ## Mästerskott  
@@ -102,7 +102,7 @@ Din täckande eld gör det också svårt att attackera
 
 *Krav:* Smidighet 2, Strid 2
 
-- +1 på Strid + Smidighet med pistoler.
+- +1 på Smidighet + Strid med pistoler.
 - Dra eller byta till pistol som gratis handling.
 
 ## Snabbskott  
@@ -371,8 +371,8 @@ När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbar
 
 ## Taktisk koordinering
 
-*Krav:* Strid 3, Analys 2  
-Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Strid + Analys. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
+*Krav:* Analys 2, Strid 3  
+Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Analys + Strid. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
 
 ## Lagarbete
 

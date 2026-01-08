@@ -17,7 +17,7 @@ This workspace contains the rules, campaign notes, and adventures for **"I Riket
 
 ## Terminology
 When generating content, always use the established terminology defined in [[Terminologi]]. This ensures consistency across all rules, adventures, and campaign materials. Key terms include:
-- **Egenskaper** (Attributes): Strid, Fysik, Smidighet, Sinnen, Analys, List, Samspel, Vilja.
+- **Egenskaper** (Attributes): Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja.
 - **Sekundära egenskaper**: Kroppspoäng (KP), Stabilitet, Förflyttning, Slagstyrka.
 - **Speltermer**: Framgång, Fokus, Momentum, Scen, Runda, Slag, Svårighet, Komplikation.
 - **Organisationer**: Program Frigg, T-kontoret, Frigg-avdelningen, FÖPA, Extra-Normalt Subjekt (ENS).
@@ -28,7 +28,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Dice Pool:** Attribute + Attribute +/- Modifiers.
 - **Success:** Any die showing **10+** is a success.
 - **Focus (Fokus):** Any die showing **12** generates 1 Focus point.
-- **Attributes:** Strid, Fysik, Smidighet, Sinnen, Analys, List, Samspel, Vilja.
+- **Attributes:** Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja.
 - **Expertise (Expertis):** Adds +1 to the roll and unlocks specific abilities.
 - **Secondary Stats:**
   - *Stabilitet* = 1 + (Vilja / 2).

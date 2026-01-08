@@ -148,13 +148,13 @@ Silke var en introvert och blyg ung kvinna. Hennes trauma kom från mobbning och
 Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla som är inom 10 meter och andas samma luft.
 
 ### Manipulation (1 Fokus, en huvudhandling)
-Slå Vilja + Samspel för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp inom 10 meter. Ger +1 tärning på efterföljande sociala slag.
+Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp inom 10 meter. Ger +1 tärning på efterföljande sociala slag.
 
 - **+1 Fokus:** Radien ökar 10 meter.
 - **1 Framgång:** Känslan håller i sig hela scenen.
 
 ### Förslag (2 Fokus, en huvudhandling)
-Slå Vilja + Samspel mot målets Vilja + Samspel för att ge en enkel, verbal order. Om du vinner måste målet lyda. Ordern kan inte innebära omedelbar livsfara.
+Slå Samspel + Vilja mot målets Samspel + Vilja för att ge en enkel, verbal order. Om du vinner måste målet lyda. Ordern kan inte innebära omedelbar livsfara.
     
 - **+1 Fokus:** Ordern kan vara komplex eller pågå längre tid.
 - **+1 Fokus:** Ordern får medföra livsfara.  
@@ -220,7 +220,7 @@ Frostbrand upplevde extrem emotionell kyla i sin uppväxt. Hennes krafter manife
 Tar aldrig skada av kyla. Kan röra sig normalt på is.
 
 ### Frostberöring (1 Fokus, en huvudhandling)
-Slå Vilja + Fysik för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring.
+Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring.
 
 - **+1 Fokus:** Räckvidden ökar till 5 meter.
 - **1 Framgång:** Effekten är starkare och varar längre.
@@ -237,7 +237,7 @@ Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål inom 15 meter
 Skapa extrem kyla i 5-meters radie inom 20 meter. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
 
 - **+1 Fokus:** Varar hela scenen.
-- **+1 Fokus:** Marken blir hal is – alla måste slå Smidighet + Fysik för att inte falla.
+- **+1 Fokus:** Marken blir hal is – alla måste slå Fysik + Smidighet för att inte falla.
 - **1 Framgång:** +3 meters radie.
 
 ---
@@ -260,7 +260,7 @@ Slå Strid + Vilja för elektrisk stöt genom beröring. **Skadebonus +3.** Skad
 - **1 Framgång:** Elektronik på målet kortsluts.
 
 ### Neural överbelastning (2 Fokus, en huvudhandling)
-Slå Vilja + Samspel mot målets Vilja + Fysik. Om du vinner blir målet paralyserat i en runda och tar +1 Stress.
+Slå Samspel + Vilja mot målets Fysik + Vilja. Om du vinner blir målet paralyserat i en runda och tar +1 Stress.
 
 *Begränsning:* Kräver beröring och koncentration.
 

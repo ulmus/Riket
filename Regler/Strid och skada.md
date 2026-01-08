@@ -8,8 +8,8 @@ På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, is
 
 ## Huvudhandlingar
 
-- Avståndsattack (Strid + Smidighet)
-- Närstridsattack (Strid + Fysik eller Strid + Smidighet)
+- Avståndsattack (Smidighet + Strid)
+- Närstridsattack (Fysik + Strid eller Smidighet + Strid)
 
 ## Bihandlingar
 
@@ -20,12 +20,12 @@ På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, is
 
 ## Reaktionshandlingar
 
-- Kasta sig undan en attack (Strid + Smidighet), du är på marken efteråt och det krävs en bihandling för att resa sig
-- Parera en närstridsattack (Strid + Smidighet + Paradbonus)
+- Kasta sig undan en attack (Smidighet + Strid), du är på marken efteråt och det krävs en bihandling för att resa sig
+- Parera en närstridsattack (Smidighet + Strid + Paradbonus)
 
 ## Avståndsattacker
 
-Om du gör en avståndsattack slår du i allmänhet för Strid + Smidighet med modifikationer.
+Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid med modifikationer.
 
 - Minst en bihandling lagd på att sikta +1
 - Stabil position +1 (+2 om liggande)
@@ -38,7 +38,7 @@ Svårigheten, det vill säga antalet framgångar som krävs för att träffa, be
 
 ## Närstridsattacker
 
-När du gör en närstridsattack slår du för Strid + Fysik eller Strid + Smidighet (beroende på vapen och förmågor) med modifikationer.
+När du gör en närstridsattack slår du för Fysik + Strid eller Smidighet + Strid (beroende på vapen och förmågor) med modifikationer.
 
 ## Skador
 
@@ -146,7 +146,7 @@ Varje Överlevnadsslag:
 
 ### Stabilisering
 
-En annan person kan stabilisera dig med **Smidighet + Analys (Medicin)**:
+En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
 
 - Kräver en huvudhandling för första försöket, en minut för andra försöket och en timme för tredje försöket.
 - Vid framgång slutar du vara Döende (men behöver fortfarande läkning).
