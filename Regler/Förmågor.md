@@ -1,6 +1,6 @@
 # Närstrid
 
-## Fäktning och finvapen
+## Fäktning och finessvapen
 
 ### Fäktning
 
@@ -22,7 +22,7 @@ Om du blir attackerad, parerar och får minst en framgång på ditt försvar så
 ### Slagsmål
 
 *Krav:* Fysik 2, Strid 2  
-Du får +1 på slag för Strid + Fysik när du slåss obeväpnad.
+Du får +1 på slag för Strid + Fysik när du slåss obeväpnad. Obeväpnade attacker har Kritisk Skadebonus 0.
 
 ### Jujutsu
 
@@ -42,9 +42,9 @@ Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att kop
 ### Uppercut
 
 *Krav:* Slagsmål  
-Dina slagsmåls-attacker räknas som Skala 1.
+Dina obeväpnade attacker får +1 skadetärning.
 
-### Bakstick
+### Överraskningsattack
 
 *Krav:* Smidighet 3, Strid 2  
 När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 skadetärningar och +1 på kritiska träffar.
@@ -347,27 +347,27 @@ Om du använder din Huvudhandling för att Sikta (istället för Bihandling) få
 
 # Försvar och beskyddande
 
-## Sköldväktare
+## Livvakt
 
 *Krav:* Fysik 2, Strid 2  
 Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera en Reaktion för att ge dem +1 tärning på deras försvar.
 
 ## Offervilja
 
-*Krav:* Sköldväktare, Vilja 3  
+*Krav:* Livvakt, Vilja 3  
 När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus och en Reaktion för att ta all skadan själv istället. Du kan inte försvara dig mot denna skada.
 
 ## Järnvilja
 
 *Krav:* Fysik 3, Vilja 3  
-När du tar skada som skulle göra dig Sårad eller Medvetslös kan du spendera 1 Fokus för att ignorera den tillståndseffekten till slutet av scenen. Du tar fortfarande skadan och kan fortfarande bli Döende.
+När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbart spendera 1 Fokus per tillståndseffekt för att ignorera den till slutet av scenen. Du tar fortfarande skadan och kan fortfarande bli Döende.
 
 # Taktik och lagstöd
 
 ## Taktisk koordinering
 
 *Krav:* Strid 3, Analys 2  
-Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Strid + Analys. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoäng försvinner i slutet av din nästa tur.
+Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Strid + Analys. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
 
 ## Lagarbete
 
@@ -377,16 +377,16 @@ När du hjälper en allierad och får minst 1 framgång, genererar du 1 Fokus (�
 ## Inspirera
 
 *Krav:* Samspel 3  
-Som en Bihandling kan du spendera 1 Fokus för att ge en allierad inom hörhåll +1 Fokus. Fungerar bara om allierade har mindre Fokus än sitt maximum.
+Som en Bihandling kan du spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måste spenderas inom en runda.
 
 # Desperata manövrar
 
 ## Desperat skott
 
 *Krav:* Strid 3  
-När du skulle missa en avståndsattack kan du spendera 1 Stress för att återrulla alla missar i slaget. Detta fungerar bara en gång per slag.
+När du skulle missa en avståndsattack kan du spendera 1 Stress för att slå om alla tärningar som missade. Detta fungerar bara en gång per slag.
 
-## Berserkerraseri
+## Bärsärkarraseri
 
 *Krav:* Fysik 3, Strid 3  
 Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt:
@@ -397,10 +397,10 @@ Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress pe
 
 Du kan avsluta raseriet i början av din tur.
 
-## Sista kraften
+## Sista ansträngning
 
 *Krav:* Vilja 4  
-När du blir Medvetslös kan du omedelbart spendera all din kvarvarande Fokus för att stanna vid medvetande i 1 runda per Fokus spenderat. Efter detta faller du medvetslös oavsett skadeläge.
+När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att stanna vid medvetande. Du kan inte spendera mer än 3 Fokus på detta sätt. Efter sista runda faller du medvetslös oavsett skadeläge.
 
 # Stridsläkare
 
@@ -413,8 +413,3 @@ Du kan ge Akutvård som en Bihandling istället för Huvudhandling under strid, 
 
 *Krav:* Fältmedicinare i strid  
 När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 per framgång på ditt vårdslag.
-
-## Adrenalininjektion
-
-*Krav:* Expertis: Apotekare eller Expertis: Läkare  
-Som en Bihandling kan du spendera 1 Fokus för att ge en allierad (eller dig själv) +2 på Fysik och Smidighet till slutet av nästa runda. Efter effekten tar målet 1 Stress.

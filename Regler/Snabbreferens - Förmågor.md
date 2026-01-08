@@ -46,7 +46,7 @@
 ## Populära specialiseringar - Snabbguide
 
 ### 🛡️ Försvarare/Livvakt
-**Förmågor:** Sköldväktare → Offervilja → Järnvilja  
+**Förmågor:** Livvakt → Offervilja → Järnvilja  
 **Egenskaper:** Fysik 3+, Vilja 3+  
 **Spelstil:** Skydda allierade, absorbera skada
 
@@ -71,10 +71,10 @@
 **Spelstil:** Zonkontroll, suppression
 
 ### ⚕️ Stridsläkare
-**Förmågor:** Fältmedicinare i strid → Stridsstabilisering → Adrenalininjektion  
+**Förmågor:** Fältmedicinare i strid → Stridsstabilisering  
 **Egenskaper:** Smidighet 2+, Analys 3+  
 **Expertis:** Läkare  
-**Spelstil:** Håll teamet vid liv, förstärka allierade
+**Spelstil:** Håll teamet vid liv
 
 ### 👥 Lagstödjare
 **Förmågor:** Lagarbete → Inspirera → Taktisk koordinering  
@@ -82,7 +82,7 @@
 **Spelstil:** Generera Fokus, samordna laget
 
 ### 🗡️ Infiltratör
-**Förmågor:** Bakstick (stealth-attack bonus)  
+**Förmågor:** Överraskningsattack (stealth-attack bonus)  
 **Egenskaper:** Smidighet 3+, Strid 2+  
 **Spelstil:** Strike från skuggorna
 
@@ -136,27 +136,26 @@
 
 ## Försvar - Snabbreferens
 
-- **Sköldväktare** (Fysik 2, Strid 2) → Reaktion, ge allierad inom 2m +1 tärning försvar
-- **Offervilja** (Sköldväktare, Vilja 3) → 1 Fokus + Reaktion, ta all skada för allierad
-- **Järnvilja** (Fysik 3, Vilja 3) → 1 Fokus, ignorera Sårad/Medvetslös till slutet av scenen
+- **Livvakt** (Fysik 2, Strid 2) → Reaktion, ge allierad inom 2m +1 tärning försvar
+- **Offervilja** (Livvakt, Vilja 3) → 1 Fokus + Reaktion, ta all skada för allierad
+- **Järnvilja** (Fysik 3, Vilja 3) → 1 Fokus per tillståndseffekt, ignorera Sårad/Medvetslös till slutet av scenen
 
 ## Taktik och lagstöd - Snabbreferens
 
-- **Taktisk koordinering** (Strid 3, Analys 2) → Huvudhandling, generera Taktikpoäng för teamet
+- **Taktisk koordinering** (Strid 3, Analys 2) → Huvudhandling, generera Taktikpoäng som är kvar striden ut
 - **Lagarbete** (Samspel 2) → Generera 1 Fokus när du hjälper och lyckas
-- **Inspirera** (Samspel 3) → 1 Fokus, ge allierad +1 Fokus
+- **Inspirera** (Samspel 3) → 1 Fokus, ge allierad 1 Fokus som måste spenderas inom en runda
 
 ## Desperata manövrar - Snabbreferens
 
-- **Desperat skott** (Strid 3) → 1 Stress, återrulla missar (1/slag)
-- **Berserkerraseri** (Fysik 3, Strid 3) → 1 Stress/runda, +2 attack och +2 skada i närstrid, kan inte använda Fokus
-- **Sista kraften** (Vilja 4) → Alla Fokus när Medvetslös, stanna vid medvetande 1 runda/Fokus
+- **Desperat skott** (Strid 3) → 1 Stress, slå om missar (1/slag)
+- **Bärsärkarraseri** (Fysik 3, Strid 3) → 1 Stress/runda, +2 attack och +2 skada i närstrid, kan inte använda Fokus
+- **Sista ansträngning** (Vilja 4) → Max 3 Fokus när Medvetslös, stanna vid medvetande 1 runda/Fokus
 
 ## Stridsläkare - Snabbreferens
 
 - **Fältmedicinare i strid** (Expertis: Läkare/Fältmedicinare) → Akutvård som Bihandling med +1 svårighet
 - **Stridsstabilisering** (Fältmedicinare i strid) → Minska även Stress vid stabilisering
-- **Adrenalininjektion** (Expertis: Apotekare/Läkare) → 1 Fokus, ge +2 Fysik och Smidighet, sedan 1 Stress
 
 ## Vanliga frågor
 

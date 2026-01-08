@@ -102,23 +102,12 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Format:** "+X på kritiska träffar"
 
-**Stacking:** Stackar alltid.
+**Kombinering:** Kombineras alltid.
 
 **Används för:**
 - Vapen har inbyggd kritisk bonus
 - Vissa förmågor lägger till kritisk bonus
 - Kan bli mycket dödligt
-
-### Skalbonus
-
-**Format:** "Öka skalan med X"
-
-**Stacking:** Tar endast högsta värdet, kombineras inte.
-
-**Används för:**
-- Mästerskott (gevär)
-- Uppercut (obeväpnad)
-- Superkrafter
 
 ## Fokus-ekonomi
 
@@ -129,7 +118,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 | **0 Fokus** | Passiv effekt eller mycket begränsad användning per scen |
 | **1 Fokus** | Standard aktiv förmåga, kan användas flera gånger per strid |
 | **2 Fokus** | Kraftfull förmåga med stor påverkan, används sparsamt |
-| **3+ Fokus** | "Ultimat förmåga" förmåga, används en gång per strid max |
+| **3+ Fokus** | Ultimat förmåga, används i allmänhet en gång per strid max |
 
 ### Fokus-generering
 
@@ -150,9 +139,8 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 **Risk:** Om du får Sammanbrott medan du använder Stress, slår du på tabellen EFTER handlingen
 
 **Förmågor med Stress-kostnad:**
-- **Berserkerraseri:** 1 Stress per runda (kontinuerlig)
-- **Uthärda:** 1 Stress istället för 1 Fokus (begränsat till en gång per scen)
-- **Desperat skott:** 1 Stress för att återrulla
+- **Bärsärkarraseri:** 1 Stress per runda (kontinuerlig)
+- **Desperat skott:** 1 Stress för att slå om missar
 
 ## Handlingsekonomi
 
@@ -185,12 +173,6 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 2. **Avancerad förmåga** - Kräver grundförmåga, lägger till taktiskt val
 3. **Expertförmåga** - Kräver avancerad, ger kraftfull eller unik effekt
 
-**Exempel: Skarpskytt-kedjan**
-1. **Skarpskytt** (Smidighet 2, Strid 2) → +1 på gevär, ignorera -1 avstånd
-2. **Mästerskott** (kräver Skarpskytt) → Spendera 1 Fokus för +1 skala
-3. **Kallblodig träff** (kräver Mästerskott) → Spendera 1 Fokus på 12:a för extra attack
-4. **Hjärtskott** (kräver Kallblodig träff + Strid 4) → Spendera 2 Fokus för +2 kritisk bonus
-
 **Balans:** Varje steg ska kännas värt investeringen. Högre i kedjan = kraftfullare men dyrare.
 
 ## Rollarchetyper och specialiseringar
@@ -198,8 +180,8 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 ### Försvarare/Livvakt
 
 **Kärnförmågor:**
-- Sköldväktare
-- Ge täckning
+- Livvakt
+- Offervilja
 - Järnvilja
 
 **Strategi:** Positionera sig för att skydda allierade, absorbera skada, stå kvar längre än andra.
@@ -388,7 +370,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 ## Exempelkaraktärer
 
-### Exempel 1: Viktor "Varg" Petrov - Spetsnaz Deserter
+### Exempel 1: Erik "Vargen" Andersson - Desertör
 
 **Egenskaper:** Strid 4, Fysik 3, Smidighet 2, Sinnen 2, Analys 1, List 2, Samspel 2, Vilja 3
 
@@ -401,7 +383,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Spelstil:** Front-line fighter som håller zoner under kontroll och står kvar när andra faller.
 
-### Exempel 2: Anya "Örn" Volkov - Skarpskytt
+### Exempel 2: Anna "Örnen" Bergström - Skarpskytt
 
 **Egenskaper:** Strid 3, Fysik 2, Smidighet 4, Sinnen 3, Analys 2, List 2, Samspel 1, Vilja 2
 
@@ -414,7 +396,7 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Spelstil:** Hög precision, långa avstånd, patient. Ett skott, ett dödande.
 
-### Exempel 3: Dmitri "Doktor" Kozlov - Stridsläkare
+### Exempel 3: Lars "Doktorn" Nilsson - Stridsläkare
 
 **Egenskaper:** Strid 2, Fysik 2, Smidighet 3, Sinnen 2, Analys 4, List 1, Samspel 3, Vilja 2
 
@@ -422,31 +404,21 @@ Detta dokument ger spelledaren vägledning för att hantera det utökade förmå
 
 **Förmågor:**
 - Fältmedicinare i strid
-- Adrenalininjektion
+- Stridsstabilisering
 - Lagarbete
 
-**Spelstil:** Håller teamet vid liv, förstärka allierade, generera Fokus genom att hjälpa.
+**Spelstil:** Håller teamet vid liv, generera Fokus genom att hjälpa.
 
-### Exempel 4: Katya "Skugga" Ivanova - Infiltratör
+### Exempel 4: Karin "Skuggan" Lindqvist - Infiltratör
 
 **Egenskaper:** Strid 3, Fysik 2, Smidighet 4, Sinnen 3, Analys 2, List 3, Samspel 1, Vilja 1
 
 **Expertis:** Spion
 
 **Förmågor:**
-- Bakstick
-- Tyst ner
+- Överraskningsattack
 - Pistolskytt
 
 **Spelstil:** Slå till från skuggorna, neutralisera mål tyst, undvik direkt konfrontation.
 
-## Slutord
-
-Det utökade förmågosystemet ger spelarna många möjligheter att specialisera sina karaktärer och hitta unika specialiseringar. Som spelledare är din roll att:
-
-1. **Balansera** - Se till att alla får sina ögonblick att glänsa
-2. **Utmana** - Skapa situationer där olika förmågor är användbara
-3. **Belöna** - Låt spelarna känna att deras val spelar roll
-4. **Anpassa** - Justera förmågor som inte fungerar i praktiken
-
-Lycka till!
+## Vanliga frågor
