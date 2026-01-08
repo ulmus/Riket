@@ -22,13 +22,13 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 | Egenskap | Beskrivning |
 | -------- | ----------- |
-| **Strid** | Vapenteknik, våld, taktik |
-| **Fysik** | Råstyrka, tålighet, simning, närstridsskada |
-| **Smidighet** | Förflyttning, smyga, klättra, finmotorik, pilot/förare |
-| **Sinnen** | Upptäcka faror, spana, söka ledtrådar, "magkänsla" |
 | **Analys** | Logik, teknik, kunskap/språk, medicin, krypto, sprängteknik |
+| **Fysik** | Råstyrka, tålighet, simning, närstridsskada |
 | **List** | Lögner, förklädnad, improvisation, undre världen |
 | **Samspel** | Social påverkan, ledarskap, charm |
+| **Sinnen** | Upptäcka faror, spana, söka ledtrådar, "magkänsla" |
+| **Smidighet** | Förflyttning, smyga, klättra, finmotorik, pilot/förare |
+| **Strid** | Vapenteknik, våld, taktik |
 | **Vilja** | Mod, stresstålighet, övertygelse |
 
 ## Sekundära egenskaper

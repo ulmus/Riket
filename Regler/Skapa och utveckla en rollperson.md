@@ -3,13 +3,13 @@ För att skapa en rollperson i I Rikets Tjänst följer du dessa steg:
 1. **Välj expertis:** Välj en expertis för din rollperson som ger den en grundläggande historia och motivation. Expertisen kan också ge vissa förmågor eller resurser.
 2. **Definiera trauma:** Försökspersonerna i I Rikets Tjänst har valts ut på grund av sina inre konflikter och trauman. Välj ett trauma som har format din rollpersons personlighet och drivkrafter.
 3. **Tilldela egenskaper:** Fördela poäng till dina rollpersons egenskaper. Du har 17 poäng att fördela på åtta egenskaper där varje egenskap måste ha minst 1 poäng och högst 3 poäng. En egenskap kan väljas som en "superegenskap" och tilldelas 4 poäng.
-    - Strid
-    - Fysik
-    - Smidighet
-    - Sinnen
     - Analys
+    - Fysik
     - List
     - Samspel
+    - Sinnen
+    - Smidighet
+    - Strid
     - Vilja
 4. **Räkna ut sekundära egenskaper:**
     - **Kroppspoäng (KP)** = Fysik + Vilja. Detta är hur mycket skada du tål.

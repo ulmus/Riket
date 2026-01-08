@@ -18,13 +18,13 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 
 En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa representerar karaktärens medfödda förmågor och talanger inom olika områden. Det finns åtta grundläggande egenskaper:
 
-- **Strid** – Vapenteknik, våld, taktik.
-- **Fysik** – Råstyrka, tålighet, simning, närstridskada.
-- **Smidighet** – Förflyttning, smyga, klättra, finmotorik, pilot/förare.
-- **Sinnen** – Upptäcka faror, spana, söka ledtrådar, "magkänsla".
 - **Analys** – Logik, teknik, kunskap/språk, medicin, krypto, sprängteknik.
+- **Fysik** – Råstyrka, tålighet, simning, närstridskada.
 - **List** – Lögner, förklädnad, improvisation, undre världen.
 - **Samspel** – Social påverkan, ledarskap, charm.
+- **Sinnen** – Upptäcka faror, spana, söka ledtrådar, "magkänsla".
+- **Smidighet** – Förflyttning, smyga, klättra, finmotorik, pilot/förare.
+- **Strid** – Vapenteknik, våld, taktik.
 - **Vilja** – Mod, stresstålighet, övertygelse. 
 
 Varje karaktär börjar med 17 poäng att fördela med minst 1 och högst 3 på en egenskap samt en egenskap som de får sätta 4 på.
@@ -76,7 +76,7 @@ Fokus är en personlig resurs som återställs inför varje scen. Fokus används
 
 Om du använt Fokus för att lägga till tärningar till ett slag och slaget ändå misslyckas så kan du drabbas av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. Exempel:
 
-- Eldavbrott på ditt vapen, du måste lägga en huvudhandling och lyckas med Smidighet + Analys för att återställa vapnet.
+- Eldavbrott på ditt vapen, du måste lägga en huvudhandling och lyckas med Analys + Smidighet för att återställa vapnet.
 
 ### Stress istället för Fokus
 
