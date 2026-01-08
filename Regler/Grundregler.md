@@ -128,6 +128,6 @@ Se kapitlet för [[Stress & rädsla]]
 
 ## Förmågor
 
-Våra hjältar har flera förmågor, dels sådana som kommer från deras superfysiker och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga Förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Färdighet eller att karaktären har vissa andra förmågor sedan tidigare.
+Våra hjältar har flera förmågor, dels sådana som kommer från deras krafter och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Färdighet eller att karaktären har vissa andra förmågor sedan tidigare.
 
 Se [[Förmågor]]
