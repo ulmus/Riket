@@ -20,8 +20,8 @@ Oftast kan bara ett begränsat antal karaktärer hjälpa till i praktiken. SL av
 
 Våra hjältar försöker dyrka upp en sidodörr till en fabrik i Dresden.
 
-- **Huvudaktören** slår för **Smidighet + Analys** för att dyrka låset.
-- **Biaktör A** kan hjälpa genom att hålla utkik (**Smidighet + Sinnen**).
+- **Huvudaktören** slår för **Analys + Smidighet** för att dyrka låset.
+- **Biaktör A** kan hjälpa genom att hålla utkik (**Sinnen + Smidighet**).
 - **Biaktör B** kan hjälpa genom att småprata med förbipasserande för att dra bort uppmärksamhet (**List + Samspel**).
 - Biaktörerna slår först. Varje framgång ger +1 tärning till huvudaktören. Huvudaktören rullar sedan ett slag: lyckas → dörren öppnas diskret; misslyckas → låset sitter fast eller ett misstänkt ljud väcker uppmärksamhet.
 
@@ -52,7 +52,7 @@ Våra hjältar blir stoppade vid en sovjetisk vägspärr utanför Minsk.
 - **Hjältarnas huvudaktör** slår för **List + Samspel** för att övertyga sergeanten att de är kurirer.
 - **Hjältarnas biaktör** kan hjälpa genom att vifta med “korrekta papper”, **Analys + List**.
 - **Motståndets huvudaktör** (sergeanten) slår för **Sinnen + Samspel** för att genomskåda lögnen.
-- **Motståndets biaktör** (en vakt) kan hjälpa genom att undersöka fordonet, **Smidighet + Sinnen**.
+- **Motståndets biaktör** (en vakt) kan hjälpa genom att undersöka fordonet, **Sinnen + Smidighet**.
 - Alla biaktörer slår först och ger sina bonusar. Därefter slår båda huvudaktörerna. Den sida med flest framgångar vinner: hjältarna får passera, eller stoppas för vidare kontroll. Vid lika → spelledaren avgör (t.ex. tvekan, fördröjning, eller krav på extra bevis).
 
 ## Långa aktiviteter
@@ -68,7 +68,7 @@ Ofta sker långa aktiviteter under tidspress. Ett visst antal framgångar ska sa
 Våra hjältar ska förhöra en avhoppad KGB-officer på ett kafé i Warszawa. Men de vet att polisen när som helst kan dyka upp.
 
 - SL bestämmer att scenen kräver **10 framgångar**, men varje runda som går ökar risknivån.
-- Huvudaktören slår för **List + Samspel** för att vinna officerens förtroende. Biaktörer kan hjälpa genom att spana efter spanare (**Smidighet + Sinnen**) eller lugna kaféets ägare (**List + Samspel**).
+- Huvudaktören slår för **List + Samspel** för att vinna officerens förtroende. Biaktörer kan hjälpa genom att spana efter spanare (**Sinnen + Smidighet**) eller lugna kaféets ägare (**List + Samspel**).
 - Efter varje runda gör SL ett **”tidsslag”** för hotnivån. Ju fler rundor som går, desto värre blir konsekvenserna:
   - Runda 2: En misstänksam servitris börjar lyssna.
   - Runda 4: Två civilklädda poliser kommer in och sätter sig.
@@ -85,7 +85,7 @@ En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett 
 Våra hjältar jagar en kurir genom Leningrads hamn samtidigt som de försöker undvika att bli upptäckta.
 
 - **Hjältarnas huvudaktör** slår för **Fysik + Smidighet**.
-- **Biaktörer** kan hjälpa genom att spana (**Smidighet + Sinnen**) eller distrahera (**Smidighet + Samspel**).
+- **Biaktörer** kan hjälpa genom att spana (**Sinnen + Smidighet**) eller distrahera (**Samspel + Smidighet**).
 - **Motståndets huvudaktör** (kuriren) slår för **Fysik + Smidighet**.
 - **Motståndets biaktörer** (St Petersburgs polis) kan hjälpa på olika sätt, t.ex. genom att blockera vägar eller varna kuriren.
 - Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Fysik + Smidighet** för att ta sig fram i de trånga utrymmena.
@@ -101,13 +101,13 @@ Diskreta informationsinsatser: följa mål, kartlägga vanor, hitta ledtrådar o
 
 | Aktivitet             | Beskrivning/kommentar                             | Egenskap + Egenskap |
 | --------------------- | ------------------------------------------------- | ------------------- |
-| Skugga en person      | Hålla diskret avstånd i stadstrafik eller fot     | Smidighet + Sinnen  |
+| Skugga en person      | Hålla diskret avstånd i stadstrafik eller fot     | Sinnen + Smidighet  |
 | Motspaning            | Upptäcka spanare, bryta mönster, “rensa svansen”  | Sinnen + List       |
 | Undersöka brottsplats | Systematisk genomsökning; gör anteckningar, foton | Sinnen + Analys     |
 | Spana från gömsle     | Långvarig observation med kikare/kamera           | Sinnen + Samspel    |
 | Genomsöka rum         | Snabb men metodisk “svepning” efter gömda ting    | Sinnen + Analys     |
 | Läsa läppar           | Avståndsobservation av samtal                     | Sinnen + Analys     |
-| Foto-dokumentation    | Ta användbara, skarpa bevisbilder                 | Smidighet + Sinnen  |
+| Foto-dokumentation    | Ta användbara, skarpa bevisbilder                 | Sinnen + Smidighet  |
 | Kartrekognosering     | Tolka kartor/flygbilder inför operation           | Sinnen + Analys     |
 
 ## Infiltration & intrång
@@ -117,13 +117,13 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 | Aktivitet                | Beskrivning/kommentar                       | Egenskap + Egenskap     |
 | ------------------------ | ------------------------------------------- | ----------------------- |
 | Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Smidighet + Smidighet   |
-| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Smidighet + Analys      |
+| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Analys + Smidighet      |
 | Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Sinnen + Analys         |
-| Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Smidighet + Analys      |
+| Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Analys + Smidighet      |
 | Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel          |
-| Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Smidighet + Analys      |
+| Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Analys + Smidighet      |
 | Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Smidighet       |
-| Plantera bugg            | Diskret placering/dragning av kabel         | Smidighet + Analys      |
+| Plantera bugg            | Diskret placering/dragning av kabel         | Analys + Smidighet      |
 
 ## Social påverkan & förhör
 
@@ -150,7 +150,7 @@ Hög puls: körning, navigering och improvisation i trafik eller terräng – of
 |Terrängkörning|Lerigt, snöigt, dålig sikt|Fysik + Smidighet|
 |Motorcykel genom gränd|Smalt utrymme, balans|Smidighet + Smidighet|
 |Navigera i okänd stad|Genvägar, trafikmönster|Analys + Sinnen|
-|Reparera i vägkanten|Bensinslang, tändstift, provisorier|Smidighet + Analys|
+|Reparera i vägkanten|Bensinslang, tändstift, provisorier|Analys + Smidighet|
 |Skjuta från fordon|Kort fönster, vibrationer|Smidighet + Strid|
 
 ## Strid & taktik
@@ -175,12 +175,12 @@ Att skapa eller förstöra: sprängmedel, elektronik, finmekanik och improvisati
 |Aktivitet|Beskrivning/kommentar|Egenskap + Egenskap|
 |---|---|---|
 |Ladda sprängämne|Val av laddning, riktning, säkring|Analys + Analys|
-|Spränga diskret|Tidsinställning, dämpa signatur|Smidighet + Analys|
+|Spränga diskret|Tidsinställning, dämpa signatur|Analys + Smidighet|
 |Bryta enkel kryptering|Kodbok, frekvensanalys|Analys + Analys|
-|Bygga/rigga radio|Antenn, jordning, störningar|Smidighet + Analys|
-|Telefonavlyssning|Krimpa, parallellkoppla, dölja spår|Smidighet + Analys|
-|Fotolabb i fält|Framkalla, förstora, beviskedja|Smidighet + Analys|
-|Verktygsimprovisation|MacGyver-lösning av reservdel|Smidighet + Analys|
+|Bygga/rigga radio|Antenn, jordning, störningar|Analys + Smidighet|
+|Telefonavlyssning|Krimpa, parallellkoppla, dölja spår|Analys + Smidighet|
+|Fotolabb i fält|Framkalla, förstora, beviskedja|Analys + Smidighet|
+|Verktygsimprovisation|MacGyver-lösning av reservdel|Analys + Smidighet|
 
 ## Vård, överlevnad & logistik
 
@@ -188,12 +188,12 @@ Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fäl
 
 | Aktivitet               | Beskrivning/kommentar                      | Egenskap + Egenskap     |
 | ----------------------- | ------------------------------------------ | ----------------------- |
-| Akutvård                | Stoppa blödning, stabilisera               | Smidighet + Analys      |
+| Akutvård                | Stoppa blödning, stabilisera               | Analys + Smidighet      |
 | Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Analys         |
-| Kirurgi                 | Operativa ingrepp                          | Smidighet + Analys      |
-| Lägga förband under eld | Under press, med begränsade resurser       | Smidighet + Analys      |
+| Kirurgi                 | Operativa ingrepp                          | Analys + Smidighet      |
+| Lägga förband under eld | Under press, med begränsade resurser       | Analys + Smidighet      |
 | Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Smidighet       |
-| Fältläger & vindskydd   | Eld, skydd, vatten                         | Smidighet + Analys      |
+| Fältläger & vindskydd   | Eld, skydd, vatten                         | Analys + Smidighet      |
 | Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen         |
 | Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + Analys         |
 | Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Sinnen          |
