@@ -5,7 +5,7 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**. Använd dessa term
 ## Grundläggande speltermer
 
 | Term | Förkortning | Beskrivning |
-|------|-------------|-------------|
+| ---- | ----------- | ----------- |
 | **Tärning** | T12 | Tolvsidig tärning, den enda tärningstypen som används i spelet |
 | **Framgång** | – | Ett tärningsresultat på 10+ |
 | **Fokus** | – | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar |
@@ -21,7 +21,7 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**. Använd dessa term
 De åtta grundegenskaperna som definierar en rollperson:
 
 | Egenskap | Beskrivning |
-|----------|-------------|
+| -------- | ----------- |
 | **Strid** | Vapenteknik, våld, taktik |
 | **Fysik** | Råstyrka, tålighet, simning, närstridsskada |
 | **Smidighet** | Förflyttning, smyga, klättra, finmotorik, pilot/förare |
@@ -34,7 +34,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Sekundära egenskaper
 
 | Term | Beräkning | Beskrivning |
-|------|-----------|-------------|
+| ---- | --------- | ----------- |
 | **Kroppspoäng** | Fysik + Vilja | Hur mycket skada du tål |
 | **Stabilitet** | 1 + (Vilja/2) | Hur mycket stress du tål innan sammanbrott |
 | **Förflyttning** | Fysik + Smidighet | Meter per bihandling |
@@ -43,7 +43,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Expertis och förmågor
 
 | Term | Beskrivning |
-|------|-------------|
+| ---- | ----------- |
 | **Expertis** | Träning inom ett yrke eller specialområde; ger +1 på relevanta slag och tillgång till förmågor |
 | **Förmåga** | Speciell teknik eller egenskap som ger unika fördelar i spelet |
 | **Kraft** | En övermänsklig förmåga hos ett ENS (Extra-Normalt Subjekt) |
@@ -51,7 +51,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Handlingar i strid
 
 | Term | Beskrivning |
-|------|-------------|
+| ---- | ----------- |
 | **Huvudhandling** | Den primära handlingen på din tur (attack, aktivera kraft, etc.) |
 | **Bihandling** | En mindre handling (förflytta sig, dra vapen, sikta) |
 | **Reaktion** | En handling utanför din tur som svar på ett utlösande event (försvar) |
@@ -60,7 +60,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Skada och hälsa
 
 | Term | Förkortning | Beskrivning |
-|------|-------------|-------------|
+| ---- | ----------- | ----------- |
 | **Kroppspoäng** | KP | Mått på hälsa; minskas av skada |
 | **Skadebonus** | – | Vapnets bidrag till skadetärningar |
 | **Kritisk träff** | – | Skadetärning som visar 12; utlöser effekt på kritisk-tabellen |
@@ -70,7 +70,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ### Skadesteg
 
 | Tillstånd | Beskrivning |
-|-----------|-------------|
+| --------- | ----------- |
 | **Oskadd** | Inga effekter |
 | **Sårad** | +1 svårighet på alla slag (vid skada > Fysik KP) |
 | **Medvetslös** | Kan inte agera (vid skada > Fysik + Vilja KP) |
@@ -79,7 +79,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Stress och psykisk hälsa
 
 | Term | Beskrivning |
-|------|-------------|
+| ---- | ----------- |
 | **Stress** | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag |
 | **Stabilitet** | Tröskel för sammanbrott (1 + ⌊Vilja/2⌋) |
 | **Sammanbrott** | Psykisk kris som utlöses när Stress överskrider Stabilitet |
@@ -89,7 +89,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ### Sammanbrottseffekter
 
 | Effekt | Beskrivning |
-|--------|-------------|
+| ------ | ----------- |
 | **Skakad** | Tappar en handling eller missar nästa runda |
 | **Panik** | Flyr mot närmaste skydd |
 | **Raseri** | Attackerar närmaste person |
@@ -100,7 +100,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Aktiviteter
 
 | Term | Beskrivning |
-|------|-------------|
+| ---- | ----------- |
 | **Kort aktivitet** | Avgörs med ett slag; ett snabbt handlingsmoment |
 | **Lång aktivitet** | Serie av slag; samlar framgångar mot ett mål |
 | **Huvudaktör** | Den som utför huvudslaget i en aktivitet |
@@ -112,14 +112,14 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Världen och organisationer
 
 | Term | Beskrivning |
-|------|-------------|
+| ---- | ----------- |
 | **Extra-Normalt Subjekt** (ENS) | Människa med inducerade, övermänskliga förmågor |
 | **Skuggkomplex** | Jungianskt begrepp; den mörka sidan av psyket som manifesterar krafter |
 
 ### Svenska organisationer
 
 | Term | Beskrivning |
-|------|-------------|
+| ---- | ----------- |
 | **Program Frigg** | Sveriges hemliga program för att skapa ENS |
 | **Frigg-avdelningen** | Den operativa enheten med ENS-agenter, formellt underställd T-kontoret |
 | **T-kontoret** | Sveriges hemliga underrättelsetjänst |
@@ -128,7 +128,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ### Internationella program
 
 | Term | Nation | Beskrivning |
-|------|--------|-------------|
+| ---- | ------ | ----------- |
 | **Projekt Nigredo** | Nazi-Tyskland | Det ursprungliga experimentprogrammet under Mengele |
 | **Sotsializma Pervye Zvezdy** | Sovjetunionen | "Socialismens Första Stjärnor"; sovjetiskt ENS-program |
 | **Enhet 37** | Sovjetunionen | Den operativa ENS-enheten |
@@ -142,7 +142,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 För översättning och internationell kommunikation:
 
 | Svenska | Engelska |
-|---------|----------|
+| ------- | -------- |
 | Framgång | Success |
 | Fokus | Focus |
 | Egenskap | Attribute |

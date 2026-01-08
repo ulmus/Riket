@@ -44,6 +44,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
   - Bold key terms (Attributes, Expertises) when defining them.
   - Use lists for clarity in rules text.
   - No emojis or informal language.
+  - Markdown should follow markdownlint standards.
 - **Language:** Write in Swedish unless instructed otherwise.
   - Ensure that proper Swedish grammar, wording and spelling are used. Avoid anglicisms unless they are established terms in the game.
   - Be consistent with Swedish diacritics (å, ä, ö).
