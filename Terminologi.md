@@ -78,13 +78,13 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 ## Stress och psykisk hälsa
 
-| Term | Beskrivning |
-| ---- | ----------- |
-| **Stress** | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag |
-| **Stabilitet** | Tröskel för sammanbrott (1 + ⌊Vilja/2⌋) |
-| **Sammanbrott** | Psykisk kris som utlöses när Stress överskrider Stabilitet |
-| **Rädsla** | Slag för att motstå skräckfyllda händelser (Vilja + relevant egenskap) |
-| **Varaktigt trauma** | Permanent psykisk skada från allvarligt sammanbrott |
+| Term                 | Beskrivning                                                                    |
+| -------------------- | ------------------------------------------------------------------------------ |
+| **Trauma**           | Det utlösande psykiska trauma som gett karaktären dess krafter.                |
+| **Stress**           | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag |
+| **Stabilitet**       | Tröskel för sammanbrott (1 + ⌊Vilja/2⌋)                                        |
+| **Sammanbrott**      | Psykisk kris som utlöses när Stress överskrider Stabilitet                     |
+| **Rädsla**           | Slag för att motstå skräckfyllda händelser (Vilja + relevant egenskap)         |
 
 ### Sammanbrottseffekter
 
