@@ -101,6 +101,10 @@ Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns
 
 När du slår 13+ på sammanbrottstabellen fördjupas ditt trauma permanent. Välj en av de listade effekterna tillsammans med SL som passar din traumakategori. Dessa effekter är bestående drag som ska spelas ut – de definierar hur din rollperson förändras av sina upplevelser.
 
+### Förstärkta krafter
+
+Ditt förvärrade trauma leder också till att dina krafter förstärks. Arbeta med SL för att ta fram en ny kraft eller förstärka en som du redan har. Kraften kan med fördel vara kopplad till den händelse som utlöste sammanbrottet och måste, precis som övriga krafter, vara kopplat till ditt trauma.
+
 ### Förlust – Fixering
 
 Du utvecklar en ohälsosam fixering vid någon eller något som påminner om det du förlorade.
