@@ -20,7 +20,7 @@ Nebelkrone är det mest brutala moderna ENS-programmet, närmast det ursprunglig
 
 Rekryteringen sker bland "samhällsfiender" – politiska fångar, religiösa dissidenter, flyktförsökare. Överlevnadsgraden är katastrofal, omkring 5%, men Stasi betraktar detta som acceptabelt.
 
-Anläggningen finns nära Sachsenhausen, norr om Berlin, officiellt listad som "Sonderlager VII". Till skillnad från [[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovietunionen)|Zvezdy]] förlitar sig Nebelkrone på ursprungliga metoderna: isolering, elektriska chocker, droger och psykologisk nedbrytning.
+Anläggningen finns nära Sachsenhausen, norr om Berlin, officiellt listad som "Sonderlager VII". Till skillnad från [[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovjetunionen)|Zvezdy]] förlitar sig Nebelkrone på ursprungliga metoderna: isolering, elektriska chocker, droger och psykologisk nedbrytning.
 
 ## Exempel på Nebelkrone-ENS
 

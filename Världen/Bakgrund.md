@@ -4,7 +4,7 @@ Projektets teoretiska grund hade utformats av lägerfången och psykologen Erich
 
 Mengele lyckades aldrig nå sitt mål i väst. Han greps av Röda Armén och fördes till Moskva. Efter månader av förhör och förhandlingar ingick han ett avtal med den sovjetiska vetenskapsdelegationen ledd av Sergei Kravkov. I utbyte mot sin expertis erbjöds Mengele en plats vid ett hemligt forskningsinstitut utanför Moskva.
 
-Arbetet i Sovjetunionen ledde fram till att man 1952 kunde aktivera *[[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovietunionen)|Sotsializma Pervye Zvezdy]]* (Socialismens Första Stjärnor). Genom att kombinera avancerad psykologi med kemiska preparat lyckades forskarlaget replikera och stabilisera de fenomen som observerats i Auschwitz. Enheten, med namnet Enhet 37, bestod av individer med övernaturliga förmågor, tränade för att verka som elitsoldater och underrättelseagenter i det kalla kriget.
+Arbetet i Sovjetunionen ledde fram till att man 1952 kunde aktivera *[[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovjetunionen)|Sotsializma Pervye Zvezdy]]* (Socialismens Första Stjärnor). Genom att kombinera avancerad psykologi med kemiska preparat lyckades forskarlaget replikera och stabilisera de fenomen som observerats i Auschwitz. Enheten, med namnet Enhet 37, bestod av individer med övernaturliga förmågor, tränade för att verka som elitsoldater och underrättelseagenter i det kalla kriget.
 
 Även andra östländer har mer eller mindre framgångsrika program för att ta fram Extra-Normala Subjekt (människor med inducerade, övermänskliga förmågor). Längst fram har Östtysklands *[[Projekt Nebelkrone (Östtyskland)|Projekt Nebelkrone]]* kommit, lett av Dr Mengeles skrupellöse lärling, Dr Hans Richter
 

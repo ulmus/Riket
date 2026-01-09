@@ -3,15 +3,15 @@ Världen av **I Rikets Tjänst** är vår egen – men med en hemlighet. Under y
 
 ## Det kalla kriget och dess skuggor
 
-Året är 1961. Världen är delad mellan öst och väst, och hotet om kärnvapenkrig hänger över oss. Men för de som vet att titta finns det ännu mörkare hemligheter. I slutet av andra världskriget upptäckte nazistiska forskare att extrem fysisk och psykisk stress kunde tvinga fram övermänskliga förmågor – krafter som trotsade vetenskapen. Experimentet kallades [[Projekt Nigredo (Nazi-Tyskland)|Projekt Nigredo]].
+Året är 1961. Världen är delad mellan öst och väst, och hotet om kärnvapenkrig hänger över oss. Det är en värld av intriger och skuggspel och av människor med extraordinära krafter och tragiska öden. I slutet av andra världskriget upptäckte nazistiska forskare att extrem fysisk och psykisk stress kunde tvinga fram övermänskliga förmågor – krafter som trotsade vetenskapen. Experimentet kallades [[Projekt Nigredo (Nazi-Tyskland)|Projekt Nigredo]].
 
-När kriget tog slut spreds kunskapen. Sovjetunionen var först med att etablera ett framgångsrikt program – [[Sotsializma Pervye Zvezdy (Sovietunionen)|Socialismens Första Stjärnor]]. USA svarade med [[Project Phoenix (USA)|Project Phoenix]]. Snart hade varje stormakt sina egna "supermänniskor" – tränade för spionage, sabotage och krig.
+När kriget tog slut spreds kunskapen. Sovjetunionen var först med att etablera ett framgångsrikt program – [[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovjetunionen)|Zvezda]]. USA svarade med [[Project Phoenix (USA)|Project Phoenix]]. Snart hade varje stormakt sina egna "supermänniskor" – tränade för spionage, sabotage och krig.
 
 ## Sverige och Program Frigg
 
 Det neutrala Sverige stod inte utanför. Med hjälp av den tysk-svenske forskaren Lars Hedström grundades [[Program Frigg (Sverige)|Program Frigg]] under den svenska underrättelsetjänsten [[Terminologi#Svenska organisationer|T-kontoret]]. Programmet rekryterar individer med svåra trauman eller instabila psyken – personer vars inre konflikter kan manifesteras som övermänskliga krafter.
 
-Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Terminologi#Svenska organisationer|Frigg-avdelningen]]. Dina krafter är verkliga, men de kommer med ett pris. De är en manifestation av dina djupaste sår.
+Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Terminologi#Svenska organisationer|Frigg-avdelningen]]. Dina krafter är verkliga, men de kommer med ett pris. De är en manifestation av dina djupaste psykologiska trauman.
 
 ## Vad är I Rikets Tjänst?
 
