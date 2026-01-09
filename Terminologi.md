@@ -4,17 +4,17 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**.
 
 ## Grundläggande speltermer
 
-| Term | Förkortning | Beskrivning |
-| ---- | ----------- | ----------- |
-| **Tärning** | T12 | Tolvsidig tärning, den enda tärningstypen som används i spelet |
-| **Framgång** | – | Ett tärningsresultat på 10+ |
-| **Fokus** | – | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar |
-| **Momentum** | – | Berättelsetempo som avgör startvärdet på Fokus varje scen (1–5) |
-| **Scen** | – | En sammanhängande episod i berättelsen (strid, undersökning, förhandling) |
-| **Runda** | – | Ca fem sekunders speltid i strid |
-| **Slag** | – | Ett tärningskast för att avgöra utfall |
-| **Svårighet** | – | Antal framgångar som krävs för att lyckas |
-| **Komplikation** | – | Oväntad negativ händelse vid misslyckande efter att ha spenderat Fokus |
+| Term              | Beskrivning                                                                                              |
+| ----------------- | -------------------------------------------------------------------------------------------------------- |
+| **Tärning (T12)** | Tolvsidig tärning, den enda tärningstypen som används i spelet                                           |
+| **Framgång**      | Ett tärningsresultat på 10+                                                                              |
+| **Fokus**         | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar |
+| **Momentum**      | Berättelsetempo som avgör startvärdet på Fokus varje scen (1–5)                                          |
+| **Scen**          | En sammanhängande episod i berättelsen (strid, undersökning, förhandling)                                |
+| **Runda**         | Ca fem sekunders speltid i strid                                                                         |
+| **Slag**          | Ett tärningskast för att avgöra utfall                                                                   |
+| **Svårighet**     | Antal framgångar som krävs för att lyckas                                                                |
+| **Komplikation**  | Oväntad negativ händelse vid misslyckande efter att ha spenderat Fokus                                   |
 
 ## Egenskaper
 
