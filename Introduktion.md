@@ -11,22 +11,20 @@ När kriget tog slut spreds kunskapen. Sovjetunionen var först med att etablera
 
 Det neutrala Sverige stod inte utanför. Med hjälp av den tysk-svenske forskaren Lars Hedström grundades [[Program Frigg (Sverige)|Program Frigg]] under den svenska underrättelsetjänsten [[Terminologi#Svenska organisationer|T-kontoret]]. Programmet rekryterar individer med svåra trauman eller instabila psyken – personer vars inre konflikter kan manifesteras som övermänskliga krafter.
 
-Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Terminologi#Svenska organisationer|Frigg-avdelningen]]. Dina krafter är verkliga, men de kommer med ett pris. De är en manifestation av dina djupaste sår, dina värsta minnen, ditt inre mörker.
+Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Terminologi#Svenska organisationer|Frigg-avdelningen]]. Dina krafter är verkliga, men de kommer med ett pris. De är en manifestation av dina djupaste sår.
 
 ## Vad är I Rikets Tjänst?
 
-**I Rikets Tjänst** är ett taktiskt superhjälte-rollspel med rötter i kalla krigets thrillers och guldålderns serietidningar. Som Legion of Super Heroes om John Le Carré hade skrivit manus.
+**I Rikets Tjänst** är ett taktiskt superhjälte-rollspel med rötter i kalla krigets thrillers och guldålderns serietidningar. Som Legion of Super-Heroes om John Le Carré hade skrivit manus.
 
 Som spelare skapar du en hemlig agent med unika krafter och ett trasigt förflutet. Du utför uppdrag för Sveriges räkning: infiltrerar fientliga baser, motverkar utländska agenter, skyddar hemligheter som världen inte är redo för. Men du brottas också med dina egna demoner – de krafter som gör dig till ett vapen är samma krafter som hotar att förstöra dig.
 
 ## Vad du behöver veta
 
-- **System:** Alla slag görs med T12 (tolvsidig tärning). Kombinera två [[Terminologi#Egenskaper|Egenskaper]], slå tärningarna, och räkna varje resultat på 10+ som en framgång.
-- **Fokus:** Din personliga resurs för att aktivera krafter och pressa dig själv. Du får en Fokus varje gång du slår en tolva.
+- **System:** Alla slag görs med en samling av T12 (tolvsidig tärning). Kombinera två [[Terminologi#Egenskaper|Egenskaper]], slå lika många tärningar som deras sammanlagda värden och räkna varje resultat på 10+ som en framgång.
+- **Fokus:** Din personliga resurs för att aktivera krafter och pressa dig själv. Du får en Fokus varje gång du slår en tolva på ett egenskaps-slag.
 - **Stress:** Psykisk belastning som hotar din stabilitet. Ta för mycket stress och du riskerar ett sammanbrott.
 - **Krafter:** Unika förmågor som speglar din karaktärs inre konflikter.
-
-För spelregler, se [[Grundregler]]. För terminologi, se [[Terminologi]].
 
 ## Tonen i spelet
 
@@ -38,3 +36,10 @@ För spelregler, se [[Grundregler]]. För terminologi, se [[Terminologi]].
 - **Teamwork:** Frigg-avdelningen är en liten grupp. Ni är beroende av varandra – och ibland är det enda som håller er samman uppdraget.
 
 Välkommen till skuggorna. Svea Rike behöver dig.
+
+# Läs vidare
+
+- [[Grundregler]]
+- [[Bakgrund]]
+- [[Skapa och utveckla en rollperson]]
+- [[Terminologi]]

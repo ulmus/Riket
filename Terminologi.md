@@ -1,6 +1,6 @@
 # Terminologi
 
-Detta dokument samlar terminologin för **I Rikets Tjänst**. Använd dessa termer konsekvent i alla regeltexter, äventyr och kampanjmaterial.
+Detta dokument samlar terminologin för **I Rikets Tjänst**.
 
 ## Grundläggande speltermer
 
