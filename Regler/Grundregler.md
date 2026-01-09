@@ -84,7 +84,7 @@ Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fo
 
 - Varje Stress du tar ersätter en nivå Fokus
 - Du kan bara använda lika många Stress som din Stabilitet
-- Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrotts-tabellen efter att du utfört handlingen ([[Stress & rädsla#Sammanbrott]])
+- Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrotts-tabellen efter att du utfört handlingen ([[Trauma och stress#Sammanbrott]])
 
 ### Fokus till Momentum
 
@@ -118,7 +118,7 @@ Se kapitlet för [[Strid och skada]]
   - Varje gång du har tagit mer Stress än en multipel av din Stabilitet så slår du igen på sammanbrottstabellen, +1 för varje multipel av Stabilitet du har passerat utöver den första.
 - Återvinn stress genom att vila eller utföra stressreducerande aktiviteter (olika för varje rollperson)
 
-Se kapitlet för [[Stress & rädsla]]
+Se kapitlet för [[Trauma och stress]]
 
 ## Karaktärsskapande
 
