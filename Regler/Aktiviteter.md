@@ -114,112 +114,112 @@ Diskreta informationsinsatser: följa mål, kartlägga vanor, hitta ledtrådar o
 
 Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm och lås – ofta i lagarbete med utkik och avledningar.
 
-| Aktivitet                | Beskrivning/kommentar                       | Egenskap + Egenskap     |
-| ------------------------ | ------------------------------------------- | ----------------------- |
-| Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Smidighet + Smidighet   |
-| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Analys + Smidighet      |
-| Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Analys + Sinnen         |
-| Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Analys + Smidighet      |
-| Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel          |
-| Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Analys + Smidighet      |
-| Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Smidighet       |
-| Plantera bugg            | Diskret placering/dragning av kabel         | Analys + Smidighet      |
+| Aktivitet                | Beskrivning/kommentar                       | Egenskap + Egenskap   |
+| ------------------------ | ------------------------------------------- | --------------------- |
+| Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Smidighet + Smidighet |
+| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Analys + Smidighet    |
+| Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Analys + Sinnen       |
+| Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Analys + Smidighet    |
+| Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel        |
+| Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Analys + Smidighet    |
+| Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Smidighet     |
+| Plantera bugg            | Diskret placering/dragning av kabel         | Analys + Smidighet    |
 
 ## Social påverkan & förhör
 
 Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – allt från charm till iskall auktoritet.
 
-| Aktivitet                    | Beskrivning/kommentar                         | Egenskap + Egenskap   |
-| ---------------------------- | --------------------------------------------- | --------------------- |
-| Förhöra taktiskt             | Bygga förtroende, styra samtalet, mikropauser | List + Samspel        |
-| Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | List + Samspel        |
-| Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Samspel     |
-| Få folk att prata            | Småprat, social ingång, “openers”             | List + Samspel        |
-| Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Samspel + Sinnen      |
-| Leda under press             | Korta order, moral, förtroende                | Samspel + Samspel     |
-| Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Samspel        |
+| Aktivitet                    | Beskrivning/kommentar                         | Egenskap + Egenskap |
+| ---------------------------- | --------------------------------------------- | ------------------- |
+| Förhöra taktiskt             | Bygga förtroende, styra samtalet, mikropauser | List + Samspel      |
+| Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | List + Samspel      |
+| Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Samspel   |
+| Få folk att prata            | Småprat, social ingång, “openers”             | List + Samspel      |
+| Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Samspel + Sinnen    |
+| Leda under press             | Korta order, moral, förtroende                | Samspel + Samspel   |
+| Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Samspel      |
 
 ## Fordon & jakter
 
 Hög puls: körning, navigering och improvisation i trafik eller terräng – ofta i kapplöpning mot klockan.
 
-|Aktivitet|Beskrivning/kommentar|Egenskap + Egenskap|
-|---|---|---|
-|Biljakt – körning|Följa utan att krocka/avslöja sig|Smidighet + Smidighet|
-|Undanmanöver|Sladd, broms, växla linje|Smidighet + Smidighet|
-|Terrängkörning|Lerigt, snöigt, dålig sikt|Fysik + Smidighet|
-|Motorcykel genom gränd|Smalt utrymme, balans|Smidighet + Smidighet|
-|Navigera i okänd stad|Genvägar, trafikmönster|Analys + Sinnen|
-|Reparera i vägkanten|Bensinslang, tändstift, provisorier|Analys + Smidighet|
-|Skjuta från fordon|Kort fönster, vibrationer|Smidighet + Strid|
+| Aktivitet              | Beskrivning/kommentar               | Egenskap + Egenskap   |
+| ---------------------- | ----------------------------------- | --------------------- |
+| Biljakt – körning      | Följa utan att krocka/avslöja sig   | Smidighet + Smidighet |
+| Undanmanöver           | Sladd, broms, växla linje           | Smidighet + Smidighet |
+| Terrängkörning         | Lerigt, snöigt, dålig sikt          | Fysik + Smidighet     |
+| Motorcykel genom gränd | Smalt utrymme, balans               | Smidighet + Smidighet |
+| Navigera i okänd stad  | Genvägar, trafikmönster             | Analys + Sinnen       |
+| Reparera i vägkanten   | Bensinslang, tändstift, provisorier | Analys + Smidighet    |
+| Skjuta från fordon     | Kort fönster, vibrationer           | Smidighet + Strid     |
 
 ## Strid & taktik
 
 När det smäller: eldstrid, närstrid, elddisciplin och rörelse under eld. Val av kombination beror på vapen och stil.
 
-| Aktivitet              | Beskrivning/kommentar            | Egenskap + Egenskap  |
-| ---------------------- | -------------------------------- | -------------------- |
-| Avståndsattack         | Pistol, k-pist, gevär, sikta/eld | Smidighet + Strid    |
-| Slagsmål (fysik)       | Svingar, grepp, putt             | Fysik + Strid        |
-| Fäktning/snabbstick    | Snabbt fotarbete, parader        | Smidighet + Strid    |
-| Kastad granat          | Hålla båge/avstånd rätt          | Smidighet + Strid    |
-| Förflyttning under eld | Språngmarsch mellan skydd        | Smidighet + Smidighet|
-| Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Samspel + Strid      |
-| Skarpskytte            | Långt håll, kontroll, andning    | Smidighet + Strid    |
-| Leda i strid           | Ge order, inspirera              | Samspel + Strid      |
+| Aktivitet              | Beskrivning/kommentar            | Egenskap + Egenskap   |
+| ---------------------- | -------------------------------- | --------------------- |
+| Avståndsattack         | Pistol, k-pist, gevär, sikta/eld | Smidighet + Strid     |
+| Slagsmål (fysik)       | Svingar, grepp, putt             | Fysik + Strid         |
+| Fäktning/snabbstick    | Snabbt fotarbete, parader        | Smidighet + Strid     |
+| Kastad granat          | Hålla båge/avstånd rätt          | Smidighet + Strid     |
+| Förflyttning under eld | Språngmarsch mellan skydd        | Smidighet + Smidighet |
+| Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Samspel + Strid       |
+| Skarpskytte            | Långt håll, kontroll, andning    | Smidighet + Strid     |
+| Leda i strid           | Ge order, inspirera              | Samspel + Strid       |
 
 ## Teknik & sabotage
 
 Att skapa eller förstöra: sprängmedel, elektronik, finmekanik och improvisationer.
 
-|Aktivitet|Beskrivning/kommentar|Egenskap + Egenskap|
-|---|---|---|
-|Ladda sprängämne|Val av laddning, riktning, säkring|Analys + Analys|
-|Spränga diskret|Tidsinställning, dämpa signatur|Analys + Smidighet|
-|Bryta enkel kryptering|Kodbok, frekvensanalys|Analys + Analys|
-|Bygga/rigga radio|Antenn, jordning, störningar|Analys + Smidighet|
-|Telefonavlyssning|Krimpa, parallellkoppla, dölja spår|Analys + Smidighet|
-|Fotolabb i fält|Framkalla, förstora, beviskedja|Analys + Smidighet|
-|Verktygsimprovisation|MacGyver-lösning av reservdel|Analys + Smidighet|
+| Aktivitet              | Beskrivning/kommentar               | Egenskap + Egenskap |
+| ---------------------- | ----------------------------------- | ------------------- |
+| Ladda sprängämne       | Val av laddning, riktning, säkring  | Analys + Analys     |
+| Spränga diskret        | Tidsinställning, dämpa signatur     | Analys + Smidighet  |
+| Bryta enkel kryptering | Kodbok, frekvensanalys              | Analys + Analys     |
+| Bygga/rigga radio      | Antenn, jordning, störningar        | Analys + Smidighet  |
+| Telefonavlyssning      | Krimpa, parallellkoppla, dölja spår | Analys + Smidighet  |
+| Fotolabb i fält        | Framkalla, förstora, beviskedja     | Analys + Smidighet  |
+| Verktygsimprovisation  | MacGyver-lösning av reservdel       | Analys + Smidighet  |
 
 ## Vård, överlevnad & logistik
 
 Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fältmässighet och vardagslogistik.
 
-| Aktivitet               | Beskrivning/kommentar                      | Egenskap + Egenskap     |
-| ----------------------- | ------------------------------------------ | ----------------------- |
-| Akutvård                | Stoppa blödning, stabilisera               | Analys + Smidighet      |
-| Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Analys         |
-| Kirurgi                 | Operativa ingrepp                          | Analys + Smidighet      |
-| Lägga förband under eld | Under press, med begränsade resurser       | Analys + Smidighet      |
-| Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Smidighet       |
-| Fältläger & vindskydd   | Eld, skydd, vatten                         | Analys + Smidighet      |
-| Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen         |
-| Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + Analys         |
-| Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Sinnen          |
+| Aktivitet               | Beskrivning/kommentar                      | Egenskap + Egenskap |
+| ----------------------- | ------------------------------------------ | ------------------- |
+| Akutvård                | Stoppa blödning, stabilisera               | Analys + Smidighet  |
+| Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Analys     |
+| Kirurgi                 | Operativa ingrepp                          | Analys + Smidighet  |
+| Lägga förband under eld | Under press, med begränsade resurser       | Analys + Smidighet  |
+| Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Smidighet   |
+| Fältläger & vindskydd   | Eld, skydd, vatten                         | Analys + Smidighet  |
+| Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen     |
+| Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + Analys     |
+| Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Sinnen      |
 
 ## Stress, nerver & motståndsfysik
 
 Kalla nerver räddar liv: att hålla masken, stå emot panik och hantera skarpa lägen utan att brista.
 
-|Aktivitet|Beskrivning/kommentar|Egenskap + Färdighet|
-|---|---|---|
-|Hålla masken under press|Inte avslöja rädsla/vetande|Psyke + Samspel|
-|Motstå bakhållschock|Reagera kontrollerat vid överrumpling|Psyke + Strid|
-|Hantera dödsfall i strid|Bibehålla fokus|Psyke + Strid|
-|Besluta i hopplöst läge|Bryta tunnelseende, välja risk|Psyke + Observation|
-|Stå emot övernaturligt/oförklarligt|“Rama in” upplevelsen kognitivt|Psyke + Akademi|
-|Återhämtningsritual|Stressreducerande scen (rollspelsbaserad)|Karisma + Samspel|
+| Aktivitet                           | Beskrivning/kommentar                     | Egenskap + Egenskap |
+| ----------------------------------- | ----------------------------------------- | ------------------- |
+| Hålla masken under press            | Inte avslöja rädsla/vetande               | Samspel + Vilja     |
+| Motstå bakhållschock                | Reagera kontrollerat vid överrumpling     | Strid + Vilja       |
+| Hantera dödsfall i strid            | Bibehålla fokus                           | Strid + Vilja       |
+| Besluta i hopplöst läge             | Bryta tunnelseende, välja risk            | Sinnen + Vilja      |
+| Stå emot övernaturligt/oförklarligt | "Rama in" upplevelsen kognitivt           | Analys + Vilja      |
+| Återhämtningsritual                 | Stressreducerande scen (rollspelsbaserad) | Samspel + Vilja     |
 
 ## Kommunikation & kryptering
 
 Att skicka/ta emot information under begränsningar: radio, morse, koder och dokument.
 
-| Aktivitet          | Beskrivning/kommentar           | Egenskap + Färdighet   |
-| ------------------ | ------------------------------- | ---------------------- |
-| Sända morse rent   | Tempo, rytm, minsta fel         | Precision + Hantverk   |
-| Läsa morse i brus  | Filtrera signal ur störningar   | Psyke + Observation    |
-| Kodboksarbete      | Upprätta/underhålla kodsystem   | Intellekt + Akademi    |
-| Säkra kanal        | Val av frekvens, antenn, effekt | Intellekt + Hantverk   |
-| Förfalska dokument | Stämplar, typsnitt, patina      | Precision + Hantverk   |
-| Säkra “dead drop”  | Diskret placering/återtag       | Snabbhet + Observation |
+| Aktivitet          | Beskrivning/kommentar           | Egenskap + Egenskap |
+| ------------------ | ------------------------------- | ------------------- |
+| Sända morse rent   | Tempo, rytm, minsta fel         | Analys + Smidighet  |
+| Läsa morse i brus  | Filtrera signal ur störningar   | Sinnen + Vilja      |
+| Kodboksarbete      | Upprätta/underhålla kodsystem   | Analys + Analys     |
+| Säkra kanal        | Val av frekvens, antenn, effekt | Analys + Smidighet  |
+| Förfalska dokument | Stämplar, typsnitt, patina      | Analys + Smidighet  |
+| Säkra "dead drop"  | Diskret placering/återtag       | Smidighet + Sinnen  |

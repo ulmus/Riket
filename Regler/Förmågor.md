@@ -84,7 +84,7 @@ Din täckande eld gör det också svårt att attackera
 *Krav:* Smidighet 2, Strid 2
 
 - +1 på *Smidighet + Strid* med gevär.
-- Ignorera -1 svårighetsgrad för långt avstånd.
+- Ignorera −1 svårighet för långt avstånd.
 
 ## Mästerskott  
 

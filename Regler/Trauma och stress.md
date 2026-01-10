@@ -1,4 +1,5 @@
 Trauma och stress är en viktig del av I Rikets Tjänst. Ur sina trauman hämtar karaktärerna sina krafter, men stressen kan också övermanna dem och leda till sammanbrott.
+
 # Trauma
 
 Varje rollperson i I Rikets Tjänst bär på ett djupt trauma – en händelse eller erfarenhet som format dem och som är oupplösligt kopplad till deras krafter.
@@ -57,7 +58,7 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 
 - **Kort vila:** ta bort **1 Stress**.
 - **Stressreducerande handling** (RP-specifik): ta bort **Vilja** rutor.
-- **Lång vila:** ta bort **all Stress** (kan riskera att minska **Story-Fokus** enligt SL).
+- **Lång vila:** ta bort **all Stress** (kan riskera att minska **Momentum** enligt SL).
 - **Rollspel & stöd:** Meningsfulla scener med tröst, stöd eller terapi kan ytterligare minska Stress (se t.ex. förmågan **[[Förmågor#Terapeut|Terapeut]]**).
 
 ## Stabilitet
@@ -149,4 +150,3 @@ Du gör allt för att undvika situationer där du kan avslöjas eller bedömas.
 - Du undviker ögonkontakt och drar dig undan från uppmärksamhet
 - Du reagerar med raseri eller flykt när någon ställer personliga frågor
 - Du kan inte ta emot beröm utan att misstänka att det är sarkasm eller manipulation
-

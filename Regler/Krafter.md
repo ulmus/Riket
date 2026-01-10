@@ -132,13 +132,13 @@ När traumat aktiveras:
 
 ### Kraftmanifestation per traumakategori
 
-| Trauma | Krafternas beteende |
-|--------|---------------------|
+| Trauma      | Krafternas beteende                                                                                                                          |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Förlust** | Krafterna griper, håller fast, vägrar släppa. Skyddande krafter aktiveras kring andra. Telepatiska krafter söker desperat efter medvetanden. |
-| **Vanmakt** | Krafterna exploderar i okontrollerad intensitet. Dubbel effekt men ingen precision. Kan inte stängas av förrän hotet är borta. |
-| **Skuld** | Krafterna skadar dig själv lika mycket som målet. Träffar urskillningslöst. Skyddande krafter fungerar bara på andra, aldrig dig. |
-| **Svek** | Krafterna tränger in oombedda – telepati läser tankar, illusioner avslöjar hemligheter. Isolerar dig från alla, även vänner. |
-| **Skam** | Krafterna döljer dig okontrollerat, eller blottar dina värsta minnen för alla i närheten. Riktas mot vittnen snarare än hotet. |
+| **Vanmakt** | Krafterna exploderar i okontrollerad intensitet. Dubbel effekt men ingen precision. Kan inte stängas av förrän hotet är borta.               |
+| **Skuld**   | Krafterna skadar dig själv lika mycket som målet. Träffar urskillningslöst. Skyddande krafter fungerar bara på andra, aldrig dig.            |
+| **Svek**    | Krafterna tränger in oombedda – telepati läser tankar, illusioner avslöjar hemligheter. Isolerar dig från alla, även vänner.                 |
+| **Skam**    | Krafterna döljer dig okontrollerat, eller blottar dina värsta minnen för alla i närheten. Riktas mot vittnen snarare än hotet.               |
 
 ### Kraftbeskrivning
 

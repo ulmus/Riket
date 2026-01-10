@@ -62,17 +62,17 @@ Allt detta under hårt tryck från flera konkurrerande fraktioner: CIA, Stasi, M
 #### CIA
 CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetna om att Richter vill hoppa av till Sverige. De vill utnyttja det faktum att de kontrollerar Checkpoint Charlie för att snuva Sverige på Richter och plocka honom till deras eget projekt.
 
-- **Agent Richard “Rick” Donnelly** – charmig men hänsynslös fältagent. Vill ta Richter till väst för USA:s räkning.
+- **Agent Richard “Dick” Donnelly** – charmig men hänsynslös fältagent. Vill ta Richter till väst för USA:s räkning.
 
 #### Mossad
 
-- **Yaakov Dayan** – ensam fältagent som agerar serveringspersonal på ambassaden (den riktiga servitören är mutad). Var utsatt för experiment av Richter.
+- **Yaakov Dayan** – Tidigare namn Jakob Lewinsky. Ensam fältagent som agerar serveringspersonal på ambassaden (den riktiga servitören är mutad). Var utsatt för experiment av Richter.
 #### KGB
 
 - **Generalmajor Viktor Baranov** - operativ chef för KGB i Berlin. Briljant strateg men hänsynslös. Ser CIA och Stasi som hinder och Richter som en läckande resurs som måste säkras eller elimineras.
-- **Kapitan Lyudmila Sokolova** - KGB:s fältchef i operationen. Tyst, iskall och disciplinerad. Har full insikt i superagenterna och leder gripandet av Richter.
-- **Morana (Novi‑agent)** - Psykokinetisk köldinducerare. Kan sänka temperatur lokalt, bedöva nerver och skapa desorientering. Kliniskt avstängd och behandlar människor som objekt. En kontrollerad produkt av Sovjets experimentprogram.
-- **Svarog (Novi‑agent)** - Termokinetisk förstöringsenhet. Kan hetta upp hud och metall, smälta lås och bränna igenom hinder. Tystlåten och djupt tränad i närstrid. Kan inte hålla sin temperatur länge utan att överhettas.
+- **Kapten Lyudmila Sokolova** - KGB:s fältchef i operationen. Tyst, iskall och disciplinerad. Har full insikt i superagenterna och leder gripandet av Richter.
+- **Morana (Zvezda‑agent)** - Psykokinetisk köldinducerare. Kan sänka temperatur lokalt, bedöva nerver och skapa desorientering. Kliniskt avstängd och behandlar människor som objekt. En kontrollerad produkt av Sovjets experimentprogram.
+- **Svarog (Zvezda‑agent)** - Termokinetisk förstöringsenhet. Kan hetta upp hud och metall, smälta lås och bränna igenom hinder. Tystlåten och djupt tränad i närstrid. Kan inte hålla sin temperatur länge utan att överhettas.
 
 ### Civila och sidofigurer
 
