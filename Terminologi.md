@@ -62,7 +62,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | Term | Förkortning | Beskrivning |
 | ---- | ----------- | ----------- |
 | **Kroppspoäng** | KP | Mått på hälsa; minskas av skada |
-| **Skadebonus** | – | Vapnets bidrag till skadetärningar |
+| **Skadetärningar** | – | Vapnets bidrag till antalet tärningar vid skada |
 | **Kritisk träff** | – | Skadetärning som visar 12; utlöser effekt på kritisk-tabellen |
 | **Skydd** | – | Rustning eller täckning som minskar KP-skada |
 | **Skadetyp** | – | Skärande, krossande eller genomträngande; avgör kritisk-tabell |

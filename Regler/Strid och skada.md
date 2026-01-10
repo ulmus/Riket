@@ -42,7 +42,7 @@ När du gör en närstridsattack slår du för Fysik + Strid eller Smidighet + S
 
 ## Skador
 
-Om en attack träffar ett mål så avgörs skadan genom **träff-framgångar**, vapnets **skadebonus** och målets **skydd**.
+Om en attack träffar ett mål så avgörs skadan genom **träff-framgångar**, vapnets **skadetärningar** och målets **skydd**.
 
 ## Kroppspoäng (KP)
 
@@ -63,10 +63,10 @@ Varje karaktär har **Kroppspoäng (KP)** lika med **Fysik + Vilja**. KP represe
 
 När en attack träffar, räkna ihop **skadetärningar**:
 
-Antal skadetärningar = Träff-framgångar + Vapnets Skadebonus
+Antal skadetärningar = Träff-framgångar + Vapnets Skadetärningar
 
 - **Träff-framgångar:** Antalet framgångar på attackslaget.
-- **Skadebonus:** Vapnets skadebonus enligt vapentabellen (se [[Vapen]]).
+- **Skadetärningar:** Vapnets skadetärningar enligt vapentabellen (se [[Vapen]]).
 - **Egenskaper:** Vissa vapenegenskaper (t.ex. **Automateld**) ger extra skadetärningar.
 
 ## 2. Rulla skadetärningar
@@ -100,13 +100,17 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 
 ## Exempel
 
-> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadebonus +4**, **Kritisk bonus +0**, och skadetyp **Småkaliber**.
+> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadetärningar +4**, **Kritisk bonus +0**, och skadetyp **Småkaliber**.
 > Antons träffslag ger **2 framgångar**. Han slår alltså **2 + 4 = 6 skadetärningar**.
 > Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada är **3 KP**.
 > Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada och är Sårad (tröskeln är >2) och tar därför 1 Stress och har +1 på alla svårigheter.
 > Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 för kritisk träff och får en 8. Med pistolens kritiska bonus på +0 blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
 
 # Effekter av skada
+
+## Stress
+
+Varje gång du tar minst 1 KP skada så tar du också 1 Stress.
 
 ## Sårad
 
@@ -199,4 +203,4 @@ Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, St
 
 ## Särskilda situationer
 
-Principen för skador i andra situationer än ren strid är att effektens intensitet påverkar skadetröskeln och dess omfattning påverkar antal skadetärningar. Se särskilt avsnitt för [[Särskilda situationer]]
+Se särskilt avsnitt för [[Särskilda situationer]]
