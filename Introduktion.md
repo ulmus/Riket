@@ -1,5 +1,5 @@
 
-Världen av **I Rikets Tjänst** är vår egen – men med en hemlighet. Under ytan av 1960-talets kalla krig, bakom järnridån och de diplomatiska korridorerna, pågår en annan konflikt. En konflikt där människor med övermänskliga förmågor agerar som schackpjäser i stormakternas spel.
+Världen av **I Rikets Tjänst** är vår egen – men med en hemlighet. Under ytan av 1960-talets kalla krig, bakom järnridån och de diplomatiska korridorerna, pågår en annan konflikt. En konflikt där människor vars djupa trauman gett dem övermänskliga förmågor agerar som schackpjäser i stormakternas spel.
 
 ## Det kalla kriget och dess skuggor
 
@@ -11,7 +11,7 @@ När kriget tog slut spreds kunskapen. Sovjetunionen var först med att etablera
 
 Det neutrala Sverige stod inte utanför. Med hjälp av den tysk-svenske forskaren Lars Hedström grundades [[Program Frigg (Sverige)|Program Frigg]] under den svenska underrättelsetjänsten [[Terminologi#Svenska organisationer|T-kontoret]]. Programmet rekryterar individer med svåra trauman eller instabila psyken – personer vars inre konflikter kan manifesteras som övermänskliga krafter.
 
-Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Terminologi#Svenska organisationer|Frigg-avdelningen]]. Dina krafter är verkliga, men de kommer med ett pris. De är en manifestation av dina djupaste psykologiska trauman.
+Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Terminologi#Svenska organisationer|Frigg-avdelningen]]. Dina krafter är verkliga, men de kommer med ett pris. De är en manifestation av ett djupt psykologiskt trauma.
 
 ## Vad är I Rikets Tjänst?
 
