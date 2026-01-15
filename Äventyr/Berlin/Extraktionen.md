@@ -191,6 +191,8 @@ Om spelarna har egna kontakter kan de försöka aktivera dem för att få mer in
 
 Den schweiziska ambassaden ligger på **Unter Den Linden 29-31** i centrala Östberlin, en imponerande neoklassisk byggnad från 1800-talet med hög fasad och ornamenterad portal. Byggnaden symboliserar Schweiz' neutralitet – en ö av diplomatisk fred mitt i det kalla krigets Berlin.
 
+![[Swiss embassy.png]]
+
 #### Byggnaden och lokaler
 
 **Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Svenska, schweiziska och östtyska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
