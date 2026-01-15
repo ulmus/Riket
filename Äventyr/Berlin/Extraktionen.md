@@ -4,7 +4,7 @@ Plats: Östberlin, 1961
 
 ### Den historiska kontexten
 
-I augusti 1961 sträcker sig den kalla krigets spänningar till bristningsgränsen. Berlin är världens mest explosiva stad, delad mellan öst och väst, där ideologier krockar och spioner från alla sidor konkurrerar om information och inflytande.
+I augusti 1961 är Berlin delad mellan öst och väst. Spänningarna är höga och spioner från alla sidor verkar i staden.
 
 Natten till den 13 augusti 1961 började Östtyskland bygga muren som skulle dela Berlin i två delar. Det som började som taggtråd och provisoriska barrikader blir snabbt en mer permanent struktur. Men i november 1961 är muren fortfarande ofullständig på flera ställen – luckor finns, och desperata människor försöker fortfarande ta sig över.
 
@@ -28,15 +28,15 @@ Vad Richter inte vet är att Elias hade en bror – **Yaakov** (då kallad Jakob
 
 En annan vetenskapsman från Projekt Nigredo, **Lars Hedström**, lyckades fly västerut redan 1944 när han insåg krigets utgång. Fylld av skuldkänslor men också vetenskaplig nyfikenhet grundade han **Program Frigg** i Sverige – ett hemligt projekt för att skapa svenska supersoldater i neutralitetens tjänst. Till skillnad från Richter försökte Hedström utveckla mer "humana" metoder, men resultaten är fortfarande produkter av trauma och lidande.
 
-Spelarna är just sådana produkter – Extra-Normala Subjekt från Program Frigg.
+Rollpersonerna är sådana produkter – Extra-Normala Subjekt från Program Frigg.
 
 ### Avhoppet
 
-I september 1961 kontaktade Richter hemligt Lars Hedström genom en diskret kurir. Richter, nu sjuttio år gammal och plågad av sjukdom, vill hoppa av till Sverige. Han fruktar att KGB snart kommer att ersätta honom eller "göra honom överflödig". Han erbjuder Sverige sitt livsverk – all data från Projekt Nebelkrone och Projekt Nigredo – i utbyte mot asyl för honom och hans fru **Elisabeth**.
+I september 1961 kontaktade Richter hemligt Lars Hedström genom en diskret kurir. Richter, nu sjuttio år gammal och plågad av sjukdom, vill hoppa av till Sverige. Han har fått veta att Projekt Nebelkrone ska läggas ner och att han kommer att flyttas till en hemlig plats i Uralbergen – något han inte vill acceptera. Han erbjuder Sverige sitt livsverk – all data från Projekt Nebelkrone och Projekt Nigredo – i utbyte mot asyl för honom och hans fru **Elisabeth**.
 
-Hedström ser en chans att få tillgång till kunskap som skulle kunna revolutionera Program Frigg. Men han inser också den moraliska komplexiteten – Richter är en krigsförbrytare som förtjänar att ställas inför rätta.
+Hedström ser en chans att få tillgång till kunskap som skulle kunna revolutionera Program Frigg. Han noterar de moraliska aspekterna – Richter är en krigsförbrytare – men låter inte det hindra honom.
 
-Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att genomföra extraktionen. Sverige får kunskap och en moralisk skuld. Men för Hedström är det också personligt – en möjlighet att konfrontera sin egen historia.
+Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att genomföra extraktionen. Den främsta oron är de diplomatiska konsekvenserna med Sovjet om operationen avslöjas.
 
 ## Spelarkaraktärer
 - **Radar** – tekniker med intern radar och förmåga att störa elektronik och nervsystem.
@@ -83,13 +83,11 @@ Hedström reser sig och går till fönstret.
 
 *"Er uppgift är att ta kontakt med Richter, säkerställa honom och hans fru, och få ut dem ur Östtyskland. Ni reser under diplomatiska täckmantel som 'vetenskapliga rådgivare' knutna till svenska ambassaden. Ni kommer att få diplomatpass, men de skyddar er bara så länge ni inte gör något uppenbart olagligt."*
 
-*"Detta är inte en räddningsoperation. Detta är en utpressningsaktion. Richter är en krigsförbrytare. Men han är också en nyckel till kunskap som kan rädda liv – eller ta fler. Jag litar på att ni gör rätt bedömning."*
+*"När ni träffar Richter på mottagningen, använd denna fras: 'Professor Lindqvist hälsar från Uppsala.' Det kommer att signalera att ni är från mig."*
 
 Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en detaljeradare briefing-fil.
 
 *"Ni flyger till Västberlin imorgon kväll. När ni är där, ta kontakt med **ambassadör Sven Hellén** och hans kontaktperson **Greta Holm**. De vet att ni kommer men inte varför. Håll dem i mörker så länge det går."*
-
-*"Och en sak till..."* Hedström tvekar. *"Richter har en livvakt. Ett Extra-Normalt Subjekt. De kallar det 'Golem'. Det var en gång ett barn. Om möjligt... gör rätt också för det."*
 
 **Spelarna kan nu ställa frågor.** Hedström besvarar dem efter bästa förmåga men är medvetet vag om vissa detaljer – särskilt om sin egen historia med Richter.
 
@@ -97,11 +95,11 @@ Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en de
 
 Efter briefingen har spelarna resten av dagen och följande dag att förbereda sig innan de flyger. Beroende på vad de vill göra kan de:
 
-- **Forska om Richter och Projekt Nebelkrone:** Ett slag för *Analys + Sinnen* (svårighet 2) ger dem grundläggande information från T-kontorets arkiv. Med extra framgångar får de detaljer om Nebelkrone's brutala metoder och Richters tidigare historia.
-- **Skaffa utrustning:** De kan begära specialutrustning från T-kontoret. Rimliga förfrågningar (verktyg för att öppna lås, medicinskt material, kameror) godkänns. Vapen och explosiver är svårare att smuggla med diplomatpass.
-- **Studera kartor över Berlin:** De kan få översikter över Västberlin, Östberlin och de kända delarna av muren. Ett slag för *Analys + Sinnen* (svårighet 1) ger dem en bra överblick över flyktrutter och checkpoints.
+- **Forska om Richter och Projekt Nebelkrone:** Spelarna måste först övertala arkivarien att få tillgång till de hemliga arkiven (*Samspel + Vilja*). Om de lyckas kan de slå *Analys + Sinnen*. Varje framgång ger dem mer information om Nebelkrone's brutala metoder och Richters tidigare historia.
+- **Skaffa utrustning:** De kan begära specialutrustning från T-kontoret. Rimliga förfrågningar (verktyg för att öppna lås, medicinskt material, kameror) godkänns. Vapen kan skickas via diplomatpost och föras över till Östberlin i diplomatbilen, men kan behöva döljas om spelarna ska in på ambassaden.
+- **Studera kartor över Berlin:** De kan få översikter över Västberlin, Östberlin och de kända delarna av muren. Ett slag för *Analys + Sinnen* ger dem en bra överblick över flyktrutter och checkpoints.
 - **Kontakter:** Om någon spelare har kontakter inom underrättelsevärlden kan de försöka få ytterligare information.
-- **Träning och mental förberedelse:** Spelarna kan förbereda sig mentalt för vad som komma skall. Detta ger dem en chans att bearbeta sina egna trauman innan uppdraget.
+- **Spela ut trauman:** Om spelarna har relevanta trauman kan de göra en scen där de bearbetar dem i förberedelsens ljus.
 
 ### Resan till Västberlin
 
@@ -117,7 +115,7 @@ Den svenska ambassaden ligger i en elegant 1800-talsbyggnad i centrala Västberl
 
 #### Ambassadör Sven Hellén
 
-**Ambassadör Sven Hellén** är en man i sextioårsåldern, elegant, med silvergrått hår och manierade sätt. Han har tjänstgjort i flera huvudstäder och är van vid diplomatins känsliga balansgångar. Men han är djupt obekväm med underrättelseoperationer och särskilt med Program Frigg.
+**Ambassadör Sven Hellén** är en man i sextioårsåldern, elegant, med silvergrått hår och manierade sätt. Han har tjänstgjort i flera huvudstäder och är van vid diplomatins känsliga balansgångar. Han känner till T-kontoret men inte till Program Frigg.
 
 När spelarna anländer tar han emot dem i sitt kontor, erbjuder dem te och pratar artigt om deras "vetenskapliga uppdrag". Men hans kroppsspråk avslöjar att han vet mer än han säger.
 
@@ -125,11 +123,11 @@ När spelarna anländer tar han emot dem i sitt kontor, erbjuder dem te och prat
 
 Hellén är inte fientlig, men han är rädd. Han vet att om svenska medborgare grips i Östberlin under en spionoperation kan det bli en internationell incident.
 
-**Egenskaper:** Analys 3, Samspel 4, Vilja 2, övriga 1–2.
+**Egenskaper:** Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
 #### Greta Holm
 
-**Greta Holm** är en kvinnlig diplomat i fyrtiofemårsåldern som fungerar som kontaktperson för Program Frigg. Hon är professionell, skarp och betydligt mer pragmatisk än Hellén. Greta är en av de få på ambassaden som vet om Program Frigg's existens och har arbetat med T-kontoret tidigare.
+**Greta Holm** är en kvinnlig diplomat i fyrtiofemårsåldern som fungerar som kontaktperson för Program Frigg. Hon är professionell, skarp och betydligt mer pragmatisk än Hellén. Greta är den enda på ambassaden som känner till Program Frigg och en av de få som känner till T-kontoret.
 
 Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk information:
 
@@ -141,11 +139,11 @@ Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk informa
 
 Greta ger dem också en radiosändare för nödsignaler och en karta över Östberlin med markeringar för viktiga platser.
 
-**Egenskaper:** Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, övriga 2.
+**Egenskaper:** Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2.
 
 #### Martin, föraren
 
-**Martin Weber** är en medelålders man i fyrtioårsåldern, born i Berlin. Han körde taxi före kriget och har sett staden förvandlas från en metropol till en delad fästning. Martin är tystlåten men kompetent. Han hatar muren och allt den representerar, men han gör sitt jobb.
+**Martin Weber** är en medelålders man i fyrtioårsåldern, född i Berlin. Han körde taxi före kriget och har sett staden förvandlas från en metropol till en delad fästning. Martin är tystlåten men kompetent. Han hatar muren och allt den representerar, men han gör sitt jobb.
 
 Martin kör en **Mercedes-Benz 190** – diskret nog att inte väcka uppmärksamhet men tillräckligt robust för att klara dåliga vägar i Östberlin. Han känner till smugglarrutter, vilka gator som patrulleras, och var man kan gömma sig om nödvändigt.
 
@@ -153,7 +151,7 @@ Martin kör en **Mercedes-Benz 190** – diskret nog att inte väcka uppmärksam
 
 Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kommer han att fly.
 
-**Egenskaper:** Smidighet 3, Sinnen 3, Strid 2, Vilja 2, övriga 1–2.
+**Egenskaper:** Smidighet 3, Sinnen 3, Strid 2, Vilja 2, Analys 2, Fysik 2, List 1, Samspel 1.
 
 ### Förberedelser i Västberlin
 
@@ -168,16 +166,16 @@ Spelarna kan åka till **Bernauer Strasse**, en av de mest dramatiska delarna av
 **Viktiga observationer:**
 
 - **Potsdamer Platz:** En gång stadens hjärta, nu en ödemark av ruiner och taggtråd. På natten är området mörkt och nästan obevaket på vissa ställen.
-- **En bombad kyrka vid Sebastianstrasse:** Ruinerna av **Kaiser-Wilhelm-Gedächtniskirche**, en kyrka som bombades under kriget. En del av ruinen sträcker sig över no-go-zonen vid muren. Det är farligt men möjligt att ta sig igenom där på natten.
+- **En bombad kyrka vid Sebastianstrasse:** Ruinerna av en gammal kyrka som bombades under kriget. En del av ruinen sträcker sig över no-go-zonen vid muren. Det är farligt men möjligt att ta sig igenom där på natten.
 - **Floden Spree:** Vissa delar av floden är mindre bevakade, men strömmarna är farliga och vattnet iskallt i november.
 
-Ett slag för *Sinnen + Analys* (svårighet 2) ger spelarna en bra översikt över potentiella flyktrutter. Extra framgångar ger detaljerad information om patrullmönster och bevakningsluckor.
+Ett slag för *Sinnen + Analys* ger spelarna en bra översikt över potentiella flyktrutter. Extra framgångar ger detaljerad information om patrullmönster och bevakningsluckor.
 
 #### Samla information
 
 Spelarna kan försöka samla information om Richter, Stasi, eller CIA's närvaro i Berlin. De kan besöka barer där underrättelsefolk samlas, prata med kontakter, eller helt enkelt lyssna på rykten.
 
-Ett slag för *Samspel + Sinnen* (svårighet 2–3) ger dem användbar information. De kan höra om:
+Ett slag för *Samspel + Sinnen* ger dem användbar information. Fler framgångar ger viktigare information. De kan höra om:
 
 - CIA har stationerat extra agenter i Berlin nyligen.
 - Stasi har ökat säkerheten kring vissa vetenskapliga faciliteter.
@@ -195,19 +193,19 @@ Den schweiziska ambassaden ligger på **Unter Den Linden 29-31** i centrala Öst
 
 #### Byggnaden och lokaler
 
-**Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Svenska, schweiziska och östtyska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
+**Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Östtyska och schweiziska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
 
 **Entré och hall:** En stor marmorhall med mönstrat golv och kristallkronor. En trappa leder upp till diplomatmottagningen på andra våningen.
 
-**Diplomatsal:** Ett stort rum med högt i tak, mörka träpaneler, stora målningar föreställande alplandskap och schweiziska historiska scener. Här hålls mottagningen med ca 40–50 gäster – diplomater, vetenskapsmän, militära officerare och kulturpersoner från både öst och väst.
+**Diplomatsal:** Mottagningen hålls i två våningar. På den nedre våningen finns en bar och en stråkkvartett som spelar. Den övre våningen nås via en trappa och från den kan man via räcke se ner på den nedre våningen. Här cirkulerar ca 40–50 gäster – diplomater, vetenskapsmän, militära officerare och kulturpersoner från både öst och väst.
 
-**Trädgård:** Bakom byggnaden finns en inglasad vintergård och en mindre trädgård, nu karg i november. Trädgården är omgiven av en två meter hög mur och är bevakar av en schweizisk säkerhetsvakt. Här kan man prata ostörd, men det är kallt och mörkt.
+**Trädgård:** Bakom byggnaden finns en öppen trädgård med staket mot gatan och en gallergrind. Man kör genom gallergrinden för att sedan köra ner till det underjordiska garaget. Trädgården är karg i november och bevakas av en schweizisk säkerhetsvakt.
 
 **Källare och garage:** Under byggnaden finns en källare med lagringsutrymmen och ett litet underjordiskt garage med plats för 3–4 bilar. Här parkerar diplomater som inte vill exponera sina bilar på gatan. Tillgång till garaget sker via en ramp bakom byggnaden. Martin kommer att vänta här med bilen.
 
 #### Ambassadör Otto Keller
 
-**Ambassadör Otto Keller** är schweizisk ambassadör i Östberlin, en man i femtioårsåldern med grånande mustasch och obesvärdlig diplomatisk hållning. Han är värd för kvällen och ser till att alla mår bra, men vill absolut inte dras in i några intriger.
+**Ambassadör Otto Keller** är schweizisk ambassadör i Östberlin, en man i femtioårsåldern med grånande mustasch och diplomatisk hållning. Han är värd för kvällen och ser till att alla mår bra, men vill absolut inte dras in i några intriger.
 
 *"Välkomna, välkomna! Schweiz står alltid för dialog och förståelse. I denna tid av spänningar måste vi hålla samtalets dörrar öppna."*
 
@@ -229,11 +227,11 @@ Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare so
 
 **Agent Richard "Dick" Donnelly (CIA):** Presenterar sig som "kulturattaché vid amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter.
 
-Spelarna kan cirkulera, mingla och samla information. Ett slag för *Samspel + Sinnen* (svårighet 2) låter dem identifiera nyckelspelare och läsa stämningar.
+Spelarna kan cirkulera, mingla och samla information. Ett slag för *Samspel + Sinnen* låter dem identifiera nyckelspelare och läsa stämningar. Fler framgångar ger mer information.
 
 #### Konfrontationen med Richter
 
-Efter cirka en timme hittar spelarna tillfället att prata enskilt med **Dr. Hans Richter**. Han står vid en balkong med utsikt över trädgården, en whisky i handen. När spelarna närmar sig blir han först försiktig, men när de visar en diskret signal (en fras eller ett föremål som Hedström gett dem) slappnar han av.
+Under kvällen hittar spelarna tillfället att prata enskilt med **Dr. Hans Richter**. Han står vid en balkong med utsikt över trädgården, en whisky i handen. När spelarna närmar sig blir han först försiktig, men när de använder frasen *"Professor Lindqvist hälsar från Uppsala"* slappnar han av.
 
 *"Så... Lars skickade er. Bra. Jag hoppades att han skulle komma själv, men jag förstår att det inte var möjligt."*
 
@@ -241,7 +239,7 @@ Richter verkar nervös, svettas trots kylan.
 
 *"Jag har allt material klart. Femton års forskning, komprimerad i mikrofilm. Det är här."* Han klappar på sitt jackficka. *"Men jag kan inte lämna utan min fru. Elisabeth är sjuk, hemma. Hon måste också komma."*
 
-*"Vi åker härifrån om trettio minuter, när jag ger signal. Golem väntar i källaren. Vi kan gå genom garaget."*
+*"Vi åker härifrån om trettio minuter, när jag ger signal. Vi kan gå genom garaget."*
 
 **Men här börjar komplikationerna.**
 
@@ -259,7 +257,7 @@ Om Brenner blir alltför misstänksam kommer han att kalla på förstärkning �
 
 #### CIA's erbjudande
 
-**Agent Richard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han vet vem de är och vad de gör där.
+**Agent Richard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han känner inte till vem de är eller vad de gör där – CIA vet om avhoppet genom signalspaning men Donnelly har inte fått den informationen.
 
 *"Hej där. Jag tror vi har liknande intressen ikväll. Doktor Richter, eller hur?"*
 
@@ -269,7 +267,7 @@ Donnelly erbjuder spelarna en affär: CIA kan hjälpa dem få ut Richter säkrar
 
 Donnelly verkar rimlig men är i hemlighet planerar att kidnappa Richter helt och hållt till USA. Om spelarna går med på hans plan kommer han att förråda dem senare.
 
-Spelarna kan försöka läsa hans avsikter (*Sinnen + Analys*, svårighet 3). Om de lyckas anar de att något inte stämmer.
+Spelarna kan försöka läsa hans avsikter (*Sinnen + Analys*, svårighet 2). Om de lyckas anar de att något inte stämmer.
 
 #### KGB's närvaro
 
@@ -279,7 +277,7 @@ KGB planerar att gripa Richter innan han kan fly. De väntar bara på rätt till
 
 Om spelarna är uppmärksamma kan de märka att vissa gäster beter sig konstigt – de cirkulerar nära utgångarna, talar tyst i radio, och observerar Richter.
 
-Ett slag för *Sinnen + Analys* (svårighet 3) avslöjar KGB's närvaro.
+Ett slag för *Sinnen + Analys* (svårighet 2) avslöjar KGB's närvaro.
 
 #### Elisabeth Richter är sjuk hemma
 
@@ -293,13 +291,13 @@ Richter vägrar lämna utan Elisabeth. Om spelarna försöker övertala honom (*
 
 **Yaakov Dayan (Mossad)** arbetar förklädd som servitör på mottagningen. Han har väntat på detta ögonblick i åratal – chansen att döda Hans Richter.
 
-När han ser spelarna närma sig Richter blir han orolig. Han vill inte att Richter flyr till Sverige – han vill se honom död. Men han vet också att Golem är närvarande och utgör en massiv fara.
+När han ser spelarna närma sig Richter blir han orolig. Han vill inte att Richter flyr till Sverige – han vill se honom död. Han känner inte till att Golem är närvarande.
 
 Yaakov kan försöka närma sig spelarna diskret och avslöja sin identitet:
 
 *"Jag vet vad ni planerar. Men ni vet inte vem Richter är. Ni vet inte vad han gjort."*
 
-Yaakov berättar (om spelarna lyssnar) om sin bror Elias – Golem – och om de hemskaste förbrytelser Richter begått.
+Yaakov berättar (om spelarna lyssnar) om de hemska brott Richter begått. Han tror att hans bror Elias dog i Auschwitz.
 
 *"Låt mig ta hand om honom. Ni får hans forskning, men han får aldrig sätta sin fot i Sverige."*
 
@@ -307,17 +305,17 @@ Om spelarna vägrar kan Yaakov försöka agera på egen hand senare.
 
 #### Golem bryter ut
 
-Om Richter känner sig hotad – genom att Stasi, KGB eller någon annan närmar sig aggressivt – aktiverar han en nödsignal (en liten radiosändare i hans ficka).
+Om Richter känner sig hotad – genom att Stasi, KGB eller någon annan närmar sig aggressivt – aktiveras den emotionella länken mellan honom och Golem. Golem känner Richters rädsla och reagerar.
 
-**Golem**, som väntar i källarens garage, känner av signalen och börjar röra sig.
+**Golem**, som väntar i källarens garage, känner av hotet och börjar röra sig.
 
-Plötsligt hörs ett enormt krasch från nedervåningen. Golem krossar en vägg och stormar in i ambassaden, i grå kavadrille, med fruktansvärd styrka och en tom blick.
+Plötsligt hörs ett enormt krasch från nedervåningen. Golem krossar en vägg och stormar in i ambassaden med fruktansvärd styrka och en tom blick.
 
 Folk skriker. Stasi-agenter drar vapen. KGB-agenter aktiverar sina krafter. Schweiziska säkerhetsvakter försöker ingripa men slängs åt sidan som leksaker.
 
 Golem rör sig direkt mot Richter, river undan alla som står i vägen. Om någon försöker skada Richter attackerar Golem dem brutalt.
 
-**Detta är climax av Akt I.** Kaos exploderar, och spelarna måste fatta snabba beslut:
+**Detta är klimax av Akt I.** Kaos exploderar, och spelarna måste fatta snabba beslut:
 
 - Försöker de skydda Richter och fly med honom?
 - Försöker de kommunicera med Golem?
@@ -326,15 +324,12 @@ Golem rör sig direkt mot Richter, river undan alla som står i vägen. Om någo
 
 Om Richter är vid liv och medveten kommer han att be Golem att bära honom och fly. Golem lyder och springer mot närmaste utgång – antingen genom trädgården eller genom garaget.
 
-Om Richter är medvetslös eller skadad tar Golem honom över axeln och springer. Hans instinkt säger honom att söka skydd. Beroende på situationen springer han antingen till:
+Om Richter är medvetslös eller skadad tar Golem honom över axeln och springer. Hans instinkt säger honom att söka skydd. Om Golem själv blir skadad kommer han att söka sig till det övergivna huset. Beroende på situationen springer han antingen till:
 
 1. **Richters hem** (om Richter var medveten nog att ge order)
 2. **Nebelkrone-laboratoriet** (instinktiv reflex att söka "säker plats")
 3. **Haus an Den Birken** (djupt nedgrävt minne av trygghet)
 
-### Jakten efter Golem och Richter
-
-Efter utbrottet från ambassaden måste spelarna spåra Golem. Beroende på omständigheterna kan de använda olika metoder:
 ### Jakten efter Golem och Richter
 
 Efter utbrottet från ambassaden måste spelarna spåra Golem. Beroende på omständigheterna kan de använda olika metoder:
@@ -359,7 +354,7 @@ Om Golem tog Richter hem ligger lägenheten på **Warschauer Strasse 47**, en gr
 
 #### Byggnaden
 
-En fyravåningsbyggnad i typisk östtysk stil, sliten fasad, small trappor. Richters lägenhet ligger på tredje våningen. Entrén är olåst (Golem krossade låset), och trappuppgången är tyst och mörk.
+Ett tvåvåningshus med liten trädgård i typisk östtysk stil, sliten fasad. Richters lägenhet ligger på andra våningen. Entrén är olåst (Golem krossade låset), och trappuppgången är tyst och mörk.
 
 #### Lägenheten
 
@@ -395,7 +390,7 @@ Om Golem inte fick order från Richter (om han var medvetslös eller död) kan h
 
 #### Platsen
 
-Nebelkrone-laboratoriet ligger nära **Sachsenhausen**, norr om Berlin, officiel listat som "Sonderlager VII". Det är en före detta koncentrationsläger omgjort till forskningsfacilitet, omgiven av höga staket, bevakat av Stasi-soldater.
+Nebelkrone-laboratoriet ligger i Berlin, i en före detta fabriksbyggnad omgjord till forskningsfacilitet, omgiven av höga staket, bevakat av Stasi-soldater.
 
 Om Golem flyr hit med Richter blir situationen extremt komplicerad. Spelarna kan inte gå in i anläggningen utan att bli gripna eller dödade.
 
@@ -613,11 +608,10 @@ Om Yaakov lyckas döda Richter reagerar Golem instinktivt – han attackerar sin
 
 #### Golems valmöjligheter
 
-Om spelarna lyckas kommunicera med Golem kan de erbjuda honom olika alternativ:
+Om spelarna lyckas kommunicera med Golem (emotionellt, telepatiskt) kan de erbjuda honom olika alternativ:
 
 1. **Följa med till Sverige:** Program Frigg kan försöka "återställa" honom, ge honom vård. Men han kommer aldrig bli normal.
 2. **Stanna i Berlin:** Antingen som fånge av Stasi/KGB eller försöka leva fritt (osannolikt).
-3. **Dö:** Om Golem känner igen Yaakov kan han be om befrielse. "Döda mig. Jag vill inte vara det här längre."
 
 #### Flykten
 
@@ -694,11 +688,11 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 **Nästan okrossbar kropp:**
 
-- Golems hud och muskler är förstärkta. Han tar **−3 skada** från alla fysiska angrepp (minimum 1 skada).
-- Kritiska träffar påverkar honom normalt.
+- Golems hud och muskler är förstärkta. **Skydd 2.**
+- Kritiska träffar: −2 på slag på Kritiska Träffar-tabellen.
 - Han känner smärta men ignorerar den mestadels.
 
-**Berserk-läge (vid aktiverat trauma):**
+**Bärsärk-läge (vid aktiverat trauma):**
 
 - Om Richter hotas eller Golem själv tar mer än 10 KP i skada aktiveras hans trauma.
 - Han blir en rasande kraft som attackerar allt som står i vägen.
@@ -832,9 +826,10 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 **Egenskaper:**
 
-- Vilja 4, Sinnen 3, Strid 2, Analys 2, övriga 1–2
+- Vilja 4, Sinnen 3, Strid 2, Analys 2, Fysik 2, List 1, Samspel 1, Smidighet 2
 - **KP:** 6, **Stabilitet:** 1
 - **Expertis:** Zvezda-agent
+- **Trauma:** Rädsla för osynlighet och utplåning
 
 **Krafter:**
 
@@ -863,10 +858,11 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, mus
 
 **Egenskaper:**
 
-- Fysik 4, Strid 4, Vilja 3, övriga 2
+- Fysik 4, Strid 4, Vilja 3, Analys 2, Sinnen 2, Smidighet 2, List 1, Samspel 1
 - **KP:** 9, **Stabilitet:** 2
 - **Expertis:** Soldat, Zvezda-agent
 - **Förmågor:** Närstrid, Uthållighet
+- **Trauma:** Kontrollerad ilska och destruktivitet
 
 **Krafter:**
 
