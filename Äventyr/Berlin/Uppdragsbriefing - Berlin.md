@@ -52,13 +52,13 @@ Detta dokument omfattas av absolut sekretess enligt gällande säkerhetsskyddsf�
 
 **DOKUMENTET SKA FÖRSTÖRAS EFTER LÄSNING.**
 
-Vid hot om kompromiss: bränn dokumentet omedelbart.
+Vid hot om avslöjande: bränn dokumentet omedelbart.
 
 ---
 
 **För T-kontoret,**  
 **Dr. Lars Hedström**  
-**Chef, Operativa avdelningen**
+**Chef, Avdelning Frigg**
 
 ---
 

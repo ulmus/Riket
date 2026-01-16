@@ -39,6 +39,7 @@ Hedström ser en chans att få tillgång till kunskap som skulle kunna revolutio
 Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att genomföra extraktionen. Den främsta oron är de diplomatiska konsekvenserna med Sovjet om operationen avslöjas.
 
 ## Spelarkaraktärer
+
 - **Radar** – tekniker med intern radar och förmåga att störa elektronik och nervsystem.
 - **Tjuren** – fysisk kraftpaket som inte kan stoppas när han väl rör sig.
 - **Silke** – social manipulatör med feromoner som påverkar känslor och beteenden.
@@ -57,7 +58,6 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 - **Söndag 12 november, dag:** Förberedelser i Västberlin
 - **Måndag 13 november, dag:** Fortsatta förberedelser, spaning
 - **Måndag 13 november, 19:00:** Mottagningen på schweiziska ambassaden börjar
-- **Måndag 13 november, 20:30–21:00:** Förväntat tillfälle att träffa Richter
 
 ## Upplägg
 
@@ -81,7 +81,7 @@ Hedström tänder en ny cigarett och lutar sig tillbaka.
 
 *"Vi har en situation i Berlin. En möjlighet. Tiden får utvisa."*
 
-Han skjuter över ett svartvitt fotografi. Det visar en äldre man i lab-rock, elegant klädda, men med trötta ögon.
+Han skjuter över ett svartvitt fotografi. Det visar en äldre man i lab-rock, elegant klädd, men med trötta ögon.
 
 *"Doktor Hans Richter. Ni känner kanske igen namnet från era orienteringar om Projekt Nebelkrone – Östtysklands ENS-program. Det ni kanske inte vet är att Richter en gång arbetade vid min sida. Under kriget. Vid Auschwitz."*
 
@@ -93,7 +93,7 @@ Hedström tar ett djupt bloss.
 
 Hedström reser sig och går till fönstret.
 
-*"Berlin är kaos just nu. Muren är inte färdig, gränserna är porösa, och alla spionagenera är där. Richter ska närvara vid en vetenskaplig mottagning på **den schweiziska ambassaden i Östberlin** den 18 november. Det är vår chans."*
+*"Berlin är kaos just nu. Muren är inte färdig, gränserna är porösa, och alla spionerna är där. Richter ska närvara vid en vetenskaplig mottagning på **den schweiziska ambassaden i Östberlin** den 18 november. Det är vår chans."*
 
 *"Er uppgift är att ta kontakt med Richter, säkerställa honom och hans fru, och få ut dem ur Östtyskland. Ni reser under diplomatiska täckmantel som 'vetenskapliga rådgivare' knutna till svenska ambassaden. Ni kommer att få diplomatpass, men de skyddar er bara så länge ni inte gör något uppenbart olagligt."*
 
@@ -111,7 +111,7 @@ Se [[Uppdragsbriefing - Berlin|uppdragsbriefingen]] för den fullständiga skrif
 
 Efter briefingen har spelarna resten av dagen och följande dag att förbereda sig innan de flyger. Beroende på vad de vill göra kan de:
 
-- **Forska om Richter och Projekt Nebelkrone:** Spelarna måste först övertala arkivarien att få tillgång till de hemliga arkiven (*Samspel + Vilja*). Om de lyckas kan de slå *Analys + Sinnen*. Varje framgång ger dem mer information om Nebelkrone's brutala metoder och Richters tidigare historia.
+- **Forska om Richter och Projekt Nebelkrone:** Spelarna måste först övertala arkivarien att få tillgång till de hemliga arkiven (*List + Samspel*). Om de lyckas kan de slå *Analys + Sinnen*. Varje framgång ger dem mer information om Nebelkrone's brutala metoder och Richters tidigare historia.
   - *1 framgång:* Grundläggande information om Projekt Nebelkrone och Richters roll som ledare.
   - *2 framgångar:* Detaljer om Nebelkrone's metoder: isolering, elektrochock, psykologisk nedbrytning. Överlevnadsgrad cirka 5%.
   - *3+ framgångar:* Information om Richters koppling till Projekt Nigredo och Auschwitz. Kännedom om att flera ENS skapats men få är stabila.
@@ -141,7 +141,7 @@ När spelarna anländer tar han emot dem i sitt kontor, erbjuder dem te och prat
 
 *"Välkomna till Berlin. En fascinerande stad, om än på ett tragiskt sätt. Jag har instruerats att ge er allt stöd ni behöver, även om jag inte är helt insatt i detaljerna kring ert uppdrag. Men jag litar på att ni förstår de... diplomatiska konsekvenserna om något skulle gå fel."*
 
-Hellén är inte fientlig, men han är orolig och lite frustrerad över att inte vara fullt insatt i operationen. Han vet att om svenska medborgare grips i Östberlin under en spionoperation kan det bli en internationell incident.
+Hellén är inte fientlig, men han är orolig och lite frustrerad över att inte vara fullt insatt i operationen. Han vet att om svenska medborgare grips i Östberlin under en spionoperation kan det bli en internationell incident. Och då är det han som måste städa upp.
 
 **Egenskaper:** Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
@@ -151,7 +151,7 @@ Hellén är inte fientlig, men han är orolig och lite frustrerad över att inte
 
 Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk information:
 
-*"Ambassadör Hellén är en god man, men han tänker för mycket på protokoll. Ni och jag vet båda att detta inte är ett vanligt diplomatiskt besök. Jag har arrangerat en bil och förare för er – **Martin**, en lokal föraere som är diskret och pålitlig. Han vet hur man navigerar i Berlin, både öst och väst."*
+*"Ambassadör Hellén är en bra man, men han tänker för mycket på protokoll. Ni och jag vet båda att detta inte är ett vanligt diplomatiskt besök. Jag har arrangerat en bil och förare för er – **Martin**, en lokal föraere som är diskret och pålitlig. Han vet hur man navigerar i Berlin, både öst och väst."*
 
 *"Den schweiziska ambassaden ligger i Östberlin, vid Unter Den Linden. Ni kommer att åka genom **Checkpoint Charlie** med era diplomatpass. Det borde gå smidigt, men räkna med att bli övervakade från det ögonblick ni passerar."*
 
@@ -488,12 +488,12 @@ Spelarna kan:
 
 Muren är ofullständig i november 1961. Det finns flera möjliga flyktrutter:
 
-#### Kaiser-Wilhelm-Gedächtniskirche – Kyrkruinen
+#### Kyrkruinen
 
 En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
 
 - **Fara:** Bevakade torn på båda sidor. Risk för att bli beskjuten.
-- **Svårighet:** *Smidighet + Fysik*, svårighet 2 för att ta sig över, svårighet 3 om de bär någon.
+- **Svårighet:** *Smidighet + Fysik*, svårighet 1 för att ta sig över, svårighet 2 om de bär någon.
 
 #### Potsdamer Platz – Ödemarken
 
@@ -507,7 +507,7 @@ En gång stadens hjärta, nu en öde ruin. Muren är ofärdig här, mest taggtr�
 Vissa delar av floden är mindre bevakade, men vattnet är iskallt i november och strömmarna farliga.
 
 - **Fara:** Hypotermi, drunkning, bevakningsbåtar.
-- **Svårighet:** *Fysik + Vilja*, svårighet 3. Kan vara dödligt utan förberedelse.
+- **Svårighet:** *Fysik + Vilja*, svårighet 2. Kan vara dödligt utan förberedelse.
 
 ### Vad vet de olika fraktionerna?
 
@@ -527,7 +527,7 @@ För att spelledaren ska kunna spela fraktionerna realistiskt är det viktigt at
 - CIA planerar att kidnappa Richter.
 - Yaakov Dayan (Mossad) är på plats med personlig vendetta.
 
-**Varför de vet det:**
+**Varför de vet det de vet:**
 
 Richter kontaktade Hedström genom en diskret kurir (en svensk affärsman med kopplingar till T-kontoret).
 
@@ -545,7 +545,7 @@ Richter kontaktade Hedström genom en diskret kurir (en svensk affärsman med ko
 - KGB planerar att gripa honom.
 - CIA är inblandad.
 
-**Varför de vet det:**
+**Varför de vet det de vet:**
 
 Stasi övervakar alla högt uppsatta vetenskapsmän. Richters beteende väcker misstankar.
 
@@ -562,7 +562,7 @@ Stasi övervakar alla högt uppsatta vetenskapsmän. Richters beteende väcker m
 - Exakt när och hur avhoppet ska ske.
 - Golems fulla förmågor och koppling till Richter.
 
-**Varför de vet det:**
+**Varför de vet det de vet:**
 
 En läcka inom T-kontoret (en sekretare med ekonomiska problem som KGB mutat) gav dem grundläggande information. KGB har sedan intensifierat sin övervakning av Richter.
 
@@ -579,7 +579,7 @@ En läcka inom T-kontoret (en sekretare med ekonomiska problem som KGB mutat) ga
 - KGB vet också.
 - Exakta detaljer om Golem.
 
-**Varför de vet det:**
+**Varför de vet det de vet:**
 
 CIA's signalspaning avlyssnade kommunikationer mellan Stockholm och Västberlin. De tolkade kodade meddelanden och drog slutsatser.
 
@@ -589,26 +589,27 @@ CIA's signalspaning avlyssnade kommunikationer mellan Stockholm och Västberlin.
 
 - Hans Richter är i Berlin.
 - Richter var en av de läkare som experimenterade på honom och hans bror.
-- Hans bror Elias är Golem.
-- Richter planerar att hoppa av.
+- Hans bror är död (detta stämmer inte)
 
 **Vad han inte vet:**
 
-- Svenska agenters exakta plan.
+- Att Richter vill hoppa av till Sverige.
 - KGB och CIA's inblandning.
+- Att hans bror faktiskt lever och är Golem
 
-**Varför han vet det:**
+**Varför han vet det han vet:**
 
 Mossad har jagat nazister i åratal. Yaakov har spenderat 15 år på att spåra Richter. Han fick tips från en östtysk avhoppare om Richters närvaro på ambassaden och infiltrerade som servitör.
 
 ![[Richters hus gatuplan.png]]
 ![[Richters hus andra våningen.png]]
 
-### Akt III – Söner och Monster
+### Akt III – Bröder och Monster
 
 Konfrontationen sker i det övergivna huset, Richters hem eller vid Nebelkrone-laboratoriet. Richter försöker åter ta kontroll över Golem. Yaakov konfronterar honom och inser till slut sanningen: monstret är hans bror Elias. Golem känner igen något i Yaakov – men bara som i en dröm.
 
 PC:s måste välja:
+
 - Ska de hjälpa Richter fly – eller stoppa honom?
 - Ska de rädda Golem – eller avsluta hans lidande?
 - Ska de skydda Elisabeth – eller låta Yaakov få sin hämnd?
@@ -647,6 +648,7 @@ Om de lyckas ta sig till Västberlin är de säkra – men konsekvenserna av der
 ![[Ödehus - bottenvåning.png]]
 ![[Ödehus - källare.png]]
 ![[Ödehus - vind.png]]
+
 ## Persongalleri
 
 ### Huvudpersoner
@@ -694,7 +696,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 **Egenskaper:**
 
-- Fysik 6 (övernatturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
+- Fysik 6 (övernaturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
 - **KP:** 16 (Fysik 6 + Vilja 1 + ENS-bonus), **Stabilitet:** 1
 - **Förflyttning:** 8 meter
 - **Slagstyrka:** 3
@@ -705,19 +707,19 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 - Golem kan lyfta upp till 1000 kg utan ansträngning.
 - Hans slag gör +3 skadetärningar utöver normala närstridsanfall.
-- Han kan krossa genom väggar, dörrar och de flesta hinder.
+- Han kan krossa sig genom väggar, dörrar och de flesta hinder.
 
 **Nästan okrossbar kropp:**
 
 - Golems hud och muskler är förstärkta. **Skydd 2.**
 - Kritiska träffar: −2 på slag på Kritiska Träffar-tabellen.
-- Han känner smärta men ignorerar den mestadels.
+- Han känner smärta men ignorerar den mestadels, han påverkas inte av att bli Sårad
 
 **Bärsärk-läge (vid aktiverat trauma):**
 
 - Om Richter hotas eller Golem själv tar mer än 10 KP i skada aktiveras hans trauma.
 - Han blir en rasande kraft som attackerar allt som står i vägen.
-- Under berserk-läge: +2 Strid, +2 Fysik, men −2 Sinnen (ser inte skillnad på vän och fiende förutom Richter).
+- Under bärsärkar-läge: +2 Strid, +2 Fysik, men −2 Sinnen (ser inte skillnad på vän och fiende förutom Richter).
 
 **Svaghet:** Mentalt instabil. Kan förvirras av minnen eller känslor. Eld orsakar intensiv rädsla (minne från Auschwitz).
 
