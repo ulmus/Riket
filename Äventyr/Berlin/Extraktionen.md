@@ -19,7 +19,7 @@ På den schweiziska ambassaden i Östberlin hålls ett diplomatiskt evenemang un
 Men både **CIA** och **Stasi** har snappat upp planerna. När de försöker gripa Richter, utlöser han i panik en nödsignal – och **Golem krossar genom väggen**, slår ihjäl en agent och bär med sig Richter ut i natten.
 
 Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk hemma — också ska räddas. Han vägrar lämna Östtyskland utan henne. Vad han inte vet är att **Yaakov Dayan**, Mossad-agenten, är medveten om vem Elisabeth är: Richters lojala assistent från Mengele-projektets dagar. Yaakov bär ett personligt hat mot henne och skulle inte tveka att se henne dö.
-![[Swiss embassy.png]]
+![[Schweiziska ambassaden.png]]
 
 ### Akt II – Jakten
 PC:s måste nu spåra vart Golem har tagit vägen med Richter:
