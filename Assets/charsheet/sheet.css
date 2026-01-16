@@ -1,0 +1,665 @@
+/* I Rikets Tjänst - Roll20 Character Sheet Styles */
+/* Cold War Thriller Theme */
+
+/* ==================== */
+/* CSS Variables        */
+/* ==================== */
+:root {
+    --primary-color: #1a237e;
+    --secondary-color: #c62828;
+    --accent-color: #ffc107;
+    --background-light: #fafafa;
+    --background-dark: #e8e8e8;
+    --text-primary: #212121;
+    --text-secondary: #757575;
+    --text-light: #ffffff;
+    --border-color: #bdbdbd;
+    --success-color: #2e7d32;
+    --warning-color: #f57c00;
+    --danger-color: #d32f2f;
+    --font-main: 'Courier New', Courier, monospace;
+    --font-headers: 'Georgia', serif;
+}
+
+/* ==================== */
+/* Base Container       */
+/* ==================== */
+.sheet-container {
+    font-family: var(--font-main);
+    background-color: var(--background-light);
+    color: var(--text-primary);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 3px solid var(--primary-color);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+/* ==================== */
+/* Header Section       */
+/* ==================== */
+.sheet-header {
+    background-color: var(--primary-color);
+    color: var(--text-light);
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 4px solid var(--secondary-color);
+}
+
+.sheet-title {
+    font-family: var(--font-headers);
+    font-size: 28px;
+    margin: 0;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.sheet-subtitle {
+    font-size: 14px;
+    margin-top: 5px;
+    opacity: 0.9;
+    letter-spacing: 1px;
+}
+
+/* ==================== */
+/* Section Styles       */
+/* ==================== */
+.sheet-section {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: #ffffff;
+    border: 1px solid var(--border-color);
+    border-left: 4px solid var(--primary-color);
+    position: relative;
+}
+
+.sheet-section-title {
+    font-family: var(--font-headers);
+    font-size: 16px;
+    color: var(--primary-color);
+    margin: 0 0 15px 0;
+    padding-bottom: 8px;
+    border-bottom: 2px solid var(--accent-color);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* ==================== */
+/* Form Fields          */
+/* ==================== */
+.sheet-field {
+    margin-bottom: 10px;
+}
+
+.sheet-field label {
+    display: block;
+    font-size: 11px;
+    font-weight: bold;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+
+.sheet-field input[type="text"],
+.sheet-field input[type="number"],
+.sheet-field select,
+.sheet-field textarea {
+    width: 100%;
+    padding: 10px 8px;
+    font-family: var(--font-main);
+    font-size: 13px;
+    line-height: 1.4;
+    border: 1px solid var(--border-color);
+    background-color: #ffffff;
+    box-sizing: border-box;
+}
+
+.sheet-field select {
+    height: auto;
+    min-height: 38px;
+}
+
+.sheet-field input:focus,
+.sheet-field select:focus,
+.sheet-field textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 3px rgba(26, 35, 126, 0.3);
+}
+
+.sheet-field-wide {
+    grid-column: span 2;
+}
+
+/* ==================== */
+/* Character Info Grid  */
+/* ==================== */
+.sheet-info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+/* ==================== */
+/* Attributes Section   */
+/* ==================== */
+.sheet-attributes-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.sheet-attribute {
+    text-align: center;
+    padding: 10px;
+    background-color: var(--background-light);
+    border: 1px solid var(--border-color);
+}
+
+.sheet-attribute-name {
+    display: block;
+    font-family: var(--font-headers);
+    font-size: 14px;
+    font-weight: bold;
+    color: var(--primary-color);
+    margin-bottom: 5px;
+}
+
+.sheet-attribute input[type="number"] {
+    width: 50px;
+    height: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid var(--primary-color);
+    background-color: #ffffff;
+}
+
+.sheet-attribute-desc {
+    display: block;
+    font-size: 9px;
+    color: var(--text-secondary);
+    margin-top: 5px;
+}
+
+/* ==================== */
+/* Button Styles        */
+/* ==================== */
+button[type="roll"],
+button[type="action"] {
+    background-color: var(--secondary-color);
+    color: var(--text-light);
+    border: none;
+    padding: 8px 15px;
+    font-family: var(--font-main);
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+button[type="roll"]:hover,
+button[type="action"]:hover {
+    background-color: #a31f1f;
+}
+
+button[type="roll"]:active,
+button[type="action"]:active {
+    background-color: #7f1818;
+}
+
+/* ==================== */
+/* Custom Roll Section  */
+/* ==================== */
+.sheet-custom-roll-container {
+    display: flex;
+    gap: 25px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-content: stretch;
+    flex-wrap: wrap;
+}
+
+.sheet-custom-roll-container .sheet-field {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.sheet-custom-roll-container .sheet-field label {
+    margin-bottom: 5px;
+}
+
+.sheet-custom-roll-container .sheet-field input,
+.sheet-custom-roll-container .sheet-field select {
+    height: 38px;
+    box-sizing: border-box;
+}
+
+.sheet-custom-roll-container button {
+    flex-shrink: 0;
+    height: 25px;
+    align-self: center;
+}
+
+
+/* ==================== */
+/* Secondary Stats      */
+/* ==================== */
+.sheet-secondary-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+}
+
+.sheet-secondary-stat {
+    text-align: center;
+    padding: 10px;
+    background-color: var(--background-dark);
+    color: var(--text-primary);
+}
+
+.sheet-secondary-stat label {
+    display: block;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    color: var(--primary-color);
+}
+
+.sheet-stat-display {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+.sheet-stat-display input {
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid var(--accent-color);
+    background-color: #ffffff;
+    color: var(--text-primary);
+}
+
+.sheet-stat-display input.sheet-current {
+    background-color: #ffffff;
+    color: var(--text-primary);
+}
+
+.sheet-stat-display input:disabled {
+    opacity: 1;
+}
+
+.sheet-separator {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.sheet-unit {
+    font-size: 14px;
+}
+
+.sheet-calc-note {
+    display: block;
+    font-size: 9px;
+    opacity: 0.7;
+    margin-top: 5px;
+}
+
+/* ==================== */
+/* Resources Section    */
+/* ==================== */
+.sheet-resources-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
+
+.sheet-resource {
+    padding: 15px;
+    background-color: var(--background-light);
+    border: 1px solid var(--border-color);
+    text-align: center;
+}
+
+.sheet-resource label {
+    display: block;
+    font-size: 13px;
+    font-weight: bold;
+    color: var(--primary-color);
+    margin-bottom: 8px;
+}
+
+.sheet-resource-input {
+    width: 70px;
+    height: 70px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid var(--accent-color);
+    background-color: #ffffff;
+}
+
+.sheet-resource:nth-child(2) .sheet-resource-input {
+    border-color: var(--danger-color);
+}
+
+.sheet-resource-note {
+    display: block;
+    font-size: 9px;
+    color: var(--text-secondary);
+    margin-top: 8px;
+}
+
+/* ==================== */
+/* Conditions Section   */
+/* ==================== */
+.sheet-conditions-grid {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.sheet-condition {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    padding: 12px 20px;
+    background-color: var(--background-light);
+    border: 1px solid var(--border-color);
+    min-width: 100px;
+    text-align: center;
+}
+
+.sheet-condition input[type="checkbox"],
+.sheet-condition input[type="radio"] {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+    margin: 0;
+}
+
+.sheet-condition label {
+    font-size: 11px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* Condition severity colors */
+.sheet-condition:nth-child(2) {
+    border-left: 3px solid var(--warning-color);
+}
+
+.sheet-condition:nth-child(3) {
+    border-left: 3px solid var(--danger-color);
+}
+
+.sheet-condition:nth-child(4) {
+    border-left: 3px solid #000000;
+    background-color: #ffebee;
+}
+
+/* ==================== */
+/* Weapons Section      */
+/* ==================== */
+.sheet-weapon-row {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr 2fr auto auto;
+    gap: 10px;
+    align-items: center;
+    padding: 10px;
+    background-color: var(--background-light);
+    border: 1px solid var(--border-color);
+    margin-bottom: 10px;
+}
+
+.sheet-weapon-row input {
+    padding: 6px;
+    font-family: var(--font-main);
+    font-size: 12px;
+    border: 1px solid var(--border-color);
+}
+
+.sheet-weapon-row select {
+    padding: 6px;
+    font-family: var(--font-main);
+    font-size: 12px;
+    border: 1px solid var(--border-color);
+    background-color: #ffffff;
+}
+
+/* ==================== */
+/* Armor Section        */
+/* ==================== */
+.sheet-armor-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 15px;
+}
+
+/* ==================== */
+/* Powers Section       */
+/* ==================== */
+.sheet-power-row {
+    padding: 15px;
+    background-color: #e8eaf6;
+    border: 1px solid var(--primary-color);
+    border-left: 4px solid var(--secondary-color);
+    margin-bottom: 10px;
+}
+
+.sheet-power-row input[type="text"] {
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.sheet-power-row textarea {
+    min-height: 60px;
+    margin-bottom: 10px;
+}
+
+.sheet-power-cost {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.sheet-power-cost label {
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.sheet-power-cost input {
+    width: 50px;
+    text-align: center;
+}
+
+/* ==================== */
+/* Abilities Section    */
+/* ==================== */
+.sheet-ability-row {
+    padding: 15px;
+    background-color: var(--background-light);
+    border: 1px solid var(--border-color);
+    margin-bottom: 10px;
+}
+
+.sheet-ability-row input[type="text"] {
+    margin-bottom: 8px;
+}
+
+.sheet-ability-row input[name="attr_ability_name"] {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.sheet-ability-row input[name="attr_ability_requirements"] {
+    font-style: italic;
+    font-size: 11px;
+}
+
+.sheet-ability-row textarea {
+    min-height: 40px;
+}
+
+/* ==================== */
+/* Equipment Section    */
+/* ==================== */
+.sheet-equipment textarea,
+.sheet-languages textarea {
+    width: 100%;
+    min-height: 80px;
+    padding: 10px;
+    font-family: var(--font-main);
+    font-size: 12px;
+    border: 1px solid var(--border-color);
+    box-sizing: border-box;
+}
+
+.sheet-languages-note {
+    display: block;
+    font-size: 10px;
+    color: var(--text-secondary);
+    margin-bottom: 8px;
+    font-style: italic;
+}
+
+/* ==================== */
+/* Notes Section        */
+/* ==================== */
+.sheet-notes textarea {
+    width: 100%;
+    min-height: 120px;
+    padding: 10px;
+    font-family: var(--font-main);
+    font-size: 12px;
+    border: 1px solid var(--border-color);
+    box-sizing: border-box;
+}
+
+/* ==================== */
+/* Experience Section   */
+/* ==================== */
+.sheet-experience-container {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 20px;
+    align-items: start;
+}
+
+.sheet-experience-container .sheet-field input {
+    width: 80px;
+    height: 60px;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid var(--success-color);
+}
+
+.sheet-xp-costs {
+    font-size: 11px;
+    color: var(--text-secondary);
+}
+
+.sheet-xp-costs p {
+    margin: 0 0 5px 0;
+}
+
+.sheet-xp-costs ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.sheet-xp-costs li {
+    margin-bottom: 3px;
+}
+
+/* ==================== */
+/* Repeating Sections   */
+/* ==================== */
+fieldset {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.repcontrol {
+    margin-top: 10px;
+}
+
+.repcontrol button {
+    background-color: var(--primary-color);
+    color: var(--text-light);
+    border: none;
+    padding: 8px 15px;
+    font-family: var(--font-main);
+    font-size: 11px;
+    cursor: pointer;
+}
+
+/* ==================== */
+/* Responsive Design    */
+/* ==================== */
+@media (max-width: 700px) {
+    .sheet-attributes-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .sheet-secondary-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .sheet-rolls-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .sheet-custom-roll-container {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .sheet-resources-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .sheet-weapon-row {
+        grid-template-columns: 1fr 1fr;
+    }
+    
+    .sheet-info-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ==================== */
+/* Print Styles         */
+/* ==================== */
+@media print {
+    .sheet-container {
+        border: 1px solid #000;
+        box-shadow: none;
+    }
+    
+    button[type="roll"] {
+        display: none;
+    }
+    
+    .sheet-header {
+        background-color: #ffffff;
+        color: #000000;
+        border-bottom: 2px solid #000000;
+    }
+    
+    .sheet-section {
+        break-inside: avoid;
+    }
+}

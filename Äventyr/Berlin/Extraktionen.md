@@ -209,7 +209,8 @@ Om spelarna har egna kontakter kan de försöka aktivera dem för att få mer in
 
 Den schweiziska ambassaden ligger på **Unter Den Linden 29-31** i centrala Östberlin, en imponerande neoklassisk byggnad från 1800-talet med hög fasad och ornamenterad portal. Byggnaden symboliserar Schweiz' neutralitet – en ö av diplomatisk fred mitt i det kalla krigets Berlin.
 
-![[Swiss embassy.png]]
+Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk hemma — också ska räddas. Han vägrar lämna Östtyskland utan henne. Vad han inte vet är att **Yaakov Dayan**, Mossad-agenten, är medveten om vem Elisabeth är: Richters lojala assistent från Mengele-projektets dagar. Yaakov bär ett personligt hat mot henne och skulle inte tveka att se henne dö.
+![[Schweiziska ambassaden.png]]
 
 #### Byggnaden och lokaler
 
