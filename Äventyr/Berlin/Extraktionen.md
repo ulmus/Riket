@@ -22,11 +22,11 @@ I femton år har Richter arbetat för Stasi och Östtyskland, fortsatt sina expe
 
 I hemlighet tog Richter med sig en överlevande från Auschwitz – **Elias Lewinsky**, ett judiskt barn på åtta år. Genom år av tortyr och experiment förvandlades Elias till något som knappt längre är mänskligt: en levande vapen kallad **Golem**. Med övermänsklig styrka, nästan okrossbar kropp och totalt utplånad personlighet fungerar Golem som Richters lydiga livvakt och verktyg.
 
-Vad Richter inte vet är att Elias hade en bror – **Yaakov** (då kallad Jakob) – som överlevde lägret och nu arbetar för Mossad. Yaakov har jagat Richter i åratal och vet att hans bror på något sätt fortfarande lever.
+Vad Richter inte vet är att Elias hade en bror – **Yaakov** (då kallad Jakob) – som överlevde lägret och nu arbetar för Mossad. Yaakov har jagat Richter i åratal men tror att hans bror dog i Auschwitz.
 
 ### Program Frigg och Lars Hedström
 
-En annan vetenskapsman från Projekt Nigredo, **Lars Hedström**, lyckades fly västerut redan 1944 när han insåg krigets utgång. Fylld av skuldkänslor men också vetenskaplig nyfikenhet grundade han **Program Frigg** i Sverige – ett hemligt projekt för att skapa svenska supersoldater i neutralitetens tjänst. Till skillnad från Richter försökte Hedström utveckla mer "humana" metoder, men resultaten är fortfarande produkter av trauma och lidande.
+En annan vetenskapsman från Projekt Nigredo, **Lars Hedström**, lyckades fly västerut redan 1944 när han insåg krigets utgång. Fylld av skuldkänslor men också vetenskaplig nyfikenhet grundade han [[Program Frigg (Sverige)|Program Frigg]] i Sverige – ett hemligt projekt för att skapa svenska supersoldater i neutralitetens tjänst. Till skillnad från Richter försökte Hedström utveckla mer "humana" metoder, men resultaten är fortfarande produkter av trauma och lidande. Mer om Hedström och hans roll finns under [[Program Frigg (Sverige)#Doktor Lars Hedström och T-kontoret|Doktor Lars Hedström och T-kontoret]].
 
 Rollpersonerna är sådana produkter – Extra-Normala Subjekt från Program Frigg.
 
@@ -44,6 +44,20 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 - **Silke** – social manipulatör med feromoner som påverkar känslor och beteenden.
 - **Prisma** - kontrollerar ljus och kan bända det för förvirring och distraktion
 - **Stigmata** - läker andras sår, ibland på bekostnad av sin egen hälsa
+
+## Tidslinje
+
+- **Fredag 10 november, 09:00:** Briefing på T-kontoret, Stockholm
+- **Fredag 10 november, eftermiddag:** Förberedelser i Stockholm
+- **Lördag 11 november, 18:30:** SAS-flyg avgår från Bromma till Köpenhamn
+- **Lördag 11 november, 19:45:** Ankomst Köpenhamn, byte av flygplan
+- **Lördag 11 november, 21:30:** SAS-flyg avgår från Köpenhamn till Västberlin
+- **Söndag 12 november, 00:15:** Ankomst Tempelhof flygplats, Västberlin
+- **Söndag 12 november, 01:00:** Incheckning på hotel/ambassaden
+- **Söndag 12 november, dag:** Förberedelser i Västberlin
+- **Måndag 13 november, dag:** Fortsatta förberedelser, spaning
+- **Måndag 13 november, 19:00:** Mottagningen på schweiziska ambassaden börjar
+- **Måndag 13 november, 20:30–21:00:** Förväntat tillfälle att träffa Richter
 
 ## Upplägg
 
@@ -65,7 +79,7 @@ Hedström själv sitter bakom sitt skrivbord med en kopp kaffe och en halvrökt 
 
 Hedström tänder en ny cigarett och lutar sig tillbaka.
 
-*"Vi har en situation i Berlin. En möjlighet, kanske. Eller ett fruktansvärt misstag. Tiden får utvisa."*
+*"Vi har en situation i Berlin. En möjlighet. Tiden får utvisa."*
 
 Han skjuter över ett svartvitt fotografi. Det visar en äldre man i lab-rock, elegant klädda, men med trötta ögon.
 
@@ -91,19 +105,25 @@ Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en de
 
 **Spelarna kan nu ställa frågor.** Hedström besvarar dem efter bästa förmåga men är medvetet vag om vissa detaljer – särskilt om sin egen historia med Richter.
 
+Se [[Uppdragsbriefing - Berlin|uppdragsbriefingen]] för den fullständiga skriftliga briefingen som spelarna får.
+
 ### Förberedelser i Stockholm
 
 Efter briefingen har spelarna resten av dagen och följande dag att förbereda sig innan de flyger. Beroende på vad de vill göra kan de:
 
 - **Forska om Richter och Projekt Nebelkrone:** Spelarna måste först övertala arkivarien att få tillgång till de hemliga arkiven (*Samspel + Vilja*). Om de lyckas kan de slå *Analys + Sinnen*. Varje framgång ger dem mer information om Nebelkrone's brutala metoder och Richters tidigare historia.
+  - *1 framgång:* Grundläggande information om Projekt Nebelkrone och Richters roll som ledare.
+  - *2 framgångar:* Detaljer om Nebelkrone's metoder: isolering, elektrochock, psykologisk nedbrytning. Överlevnadsgrad cirka 5%.
+  - *3+ framgångar:* Information om Richters koppling till Projekt Nigredo och Auschwitz. Kännedom om att flera ENS skapats men få är stabila.
 - **Skaffa utrustning:** De kan begära specialutrustning från T-kontoret. Rimliga förfrågningar (verktyg för att öppna lås, medicinskt material, kameror) godkänns. Vapen kan skickas via diplomatpost och föras över till Östberlin i diplomatbilen, men kan behöva döljas om spelarna ska in på ambassaden.
 - **Studera kartor över Berlin:** De kan få översikter över Västberlin, Östberlin och de kända delarna av muren. Ett slag för *Analys + Sinnen* ger dem en bra överblick över flyktrutter och checkpoints.
+  - *Exempel på information:* Checkpoint Charlie är mest bevakad men mest förutsägbar. Potsdamer Platz är mindre bevakat på natten. Vissa delar av muren är fortfarande ofärdiga.
 - **Kontakter:** Om någon spelare har kontakter inom underrättelsevärlden kan de försöka få ytterligare information.
 - **Spela ut trauman:** Om spelarna har relevanta trauman kan de göra en scen där de bearbetar dem i förberedelsens ljus.
 
 ### Resan till Västberlin
 
-Spelarna flyger med **SAS** från Bromma flygplats till Västberlin via Köpenhamn. Flygningen är okomplicerad men fylld med spänning. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
+Spelarna flyger med **SAS** från Bromma flygplats till Västberlin via Köpenhamn. Flygplanet är en **Douglas DC-6**, en fyrmoторig propellermaskin som används på Skandinaviens längre rutter. Flygningen är okomplicerad men fylld med spänning. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
 
 På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartenstrasse 18**, där den svenska ambassaden ligger.
 
@@ -119,9 +139,9 @@ Den svenska ambassaden ligger i en elegant 1800-talsbyggnad i centrala Västberl
 
 När spelarna anländer tar han emot dem i sitt kontor, erbjuder dem te och pratar artigt om deras "vetenskapliga uppdrag". Men hans kroppsspråk avslöjar att han vet mer än han säger.
 
-*"Välkomna till Berlin. En fascinerande stad, om än på ett traggiskt sätt. Jag har instruerats att ge er allt stöd ni behöver, även om jag inte är helt insatt i detaljerna kring ert uppdrag. Men jag litar på att ni förstår de... diplomatiska konsekvenserna om något skulle gå fel."*
+*"Välkomna till Berlin. En fascinerande stad, om än på ett tragiskt sätt. Jag har instruerats att ge er allt stöd ni behöver, även om jag inte är helt insatt i detaljerna kring ert uppdrag. Men jag litar på att ni förstår de... diplomatiska konsekvenserna om något skulle gå fel."*
 
-Hellén är inte fientlig, men han är rädd. Han vet att om svenska medborgare grips i Östberlin under en spionoperation kan det bli en internationell incident.
+Hellén är inte fientlig, men han är orolig och lite frustrerad över att inte vara fullt insatt i operationen. Han vet att om svenska medborgare grips i Östberlin under en spionoperation kan det bli en internationell incident.
 
 **Egenskaper:** Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
@@ -155,11 +175,11 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
-Innan mottagningen på schweiziska ambassaden har spelarna 1–2 dagar på sig att förbereda sig. De kan:
+Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
 
-Muren mellan Väst- och Östberlin är under konstruction. I november 1961 består den mestadels av taggtråd, provisoriska betongblock och bevakade zoner. Men det finns luckor.
+Muren mellan Väst- och Östberlin är under konstruktion. I november 1961 består den mestadels av taggtråd, provisoriska betongblock och bevakade zoner. Men det finns luckor.
 
 Spelarna kan åka till **Bernauer Strasse**, en av de mest dramatiska delarna av muren där byggnader på östra sidan har murats igen och människor fortfarande försöker fly genom fönster. De kan också besöka **Checkpoint Charlie**, den mest kända passagen mellan väst och öst.
 
@@ -211,7 +231,7 @@ Den schweiziska ambassaden ligger på **Unter Den Linden 29-31** i centrala Öst
 
 Keller är genuint idealistisk men naiv. Han tror att god vilja och diplomati kan lösa allt. När kaos bryter ut kommer han att vara förvirrad och försöka medla – vilket kan bli både till hjälp och förvärra situationen.
 
-**Egenskaper:** Analys 2, Samspel 4, Vilja 2, övriga 1–2.
+**Egenskaper:** Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
 #### Gästerna på mottagningen
 
@@ -267,7 +287,7 @@ Donnelly erbjuder spelarna en affär: CIA kan hjälpa dem få ut Richter säkrar
 
 Donnelly verkar rimlig men är i hemlighet planerar att kidnappa Richter helt och hållt till USA. Om spelarna går med på hans plan kommer han att förråda dem senare.
 
-Spelarna kan försöka läsa hans avsikter (*Sinnen + Analys*, svårighet 2). Om de lyckas anar de att något inte stämmer.
+Spelarna kan försöka läsa hans avsikter (*Analys + Samspel*, svårighet 2). Om de lyckas anar de att något inte stämmer.
 
 #### KGB's närvaro
 
@@ -277,7 +297,7 @@ KGB planerar att gripa Richter innan han kan fly. De väntar bara på rätt till
 
 Om spelarna är uppmärksamma kan de märka att vissa gäster beter sig konstigt – de cirkulerar nära utgångarna, talar tyst i radio, och observerar Richter.
 
-Ett slag för *Sinnen + Analys* (svårighet 2) avslöjar KGB's närvaro.
+Ett slag för *Samspel + Sinnen* (svårighet 2) avslöjar KGB's närvaro.
 
 #### Elisabeth Richter är sjuk hemma
 
@@ -376,7 +396,7 @@ Hon är inte ångerfull för sina gärningar. Hon tror fortfarande att experimen
 
 Elisabeth är för sjuk för att fly snabbt. Hon måste bäras eller köras i rullstol.
 
-**Egenskaper:** Analys 4, Vilja 3, övriga 1–2. Döende av cancer, **medvetslös** tillstånd beror på behandling.
+**Egenskaper:** Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1. Döende av cancer, **medvetslös** tillstånd beror på behandling.
 
 #### Komplikationer
 
@@ -640,7 +660,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 
 **Egenskaper:**
 
-- Analys 4, Samspel 3, Vilja 3, List 2, övriga 1–2
+- Analys 4, Samspel 3, Vilja 3, List 2, Fysik 1, Sinnen 2, Smidighet 1, Strid 1
 - **KP:** 5, **Stabilitet:** 2
 - **Expertis:** Läkare, Vetenskapsman
 - **Förmågor:** Kirurgi, Manipulativ retorik
@@ -657,7 +677,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 
 **Egenskaper:**
 
-- Analys 4, Vilja 3, Samspel 2, övriga 1
+- Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1
 - **KP:** 3 (av 5 – svårt sjuk), **Stabilitet:** 2
 - **Tillstånd:** Döende av cancer, begränsad mobilitet
 
@@ -673,7 +693,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 **Egenskaper:**
 
-- Fysik 6 (övernatturlig), Strid 4, Vilja 1, Sinnen 2, övriga 1
+- Fysik 6 (övernatturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
 - **KP:** 16 (Fysik 6 + Vilja 1 + ENS-bonus), **Stabilitet:** 1
 - **Förflyttning:** 8 meter
 - **Slagstyrka:** 3
@@ -710,7 +730,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 
 **Egenskaper:**
 
-- Strid 4, Sinnen 3, Smidighet 3, Vilja 3, List 3, övriga 2
+- Strid 4, Sinnen 3, Smidighet 3, Vilja 3, List 3, Analys 2, Fysik 2, Samspel 2
 - **KP:** 7, **Stabilitet:** 2
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Närstrid, Smyga, Överlevnad
@@ -727,7 +747,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 
 **Egenskaper:**
 
-- Analys 4, Vilja 3, Samspel 3, övriga 2
+- Analys 4, Vilja 3, Samspel 3, Fysik 2, List 2, Sinnen 2, Smidighet 1, Strid 1
 - **KP:** 5, **Stabilitet:** 2
 - **Expertis:** Läkare, Vetenskapsman, Byråkrat
 
@@ -745,7 +765,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig. Bren
 
 **Egenskaper:**
 
-- Strid 3, Sinnen 3, Samspel 2, Vilja 3, övriga 2
+- Strid 3, Sinnen 3, Samspel 2, Vilja 3, Analys 2, Fysik 2, List 2, Smidighet 2
 - **KP:** 6, **Stabilitet:** 2
 - **Expertis:** Polis, Officer
 - **Förmågor:** Förhör, Taktik
@@ -760,7 +780,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren. Vogel är lojal mot r
 
 **Egenskaper:**
 
-- Analys 3, Sinnen 3, Samspel 3, Strid 2, Vilja 3, övriga 2
+- Analys 3, Sinnen 3, Samspel 3, Strid 2, Vilja 3, Fysik 2, List 2, Smidighet 2
 - **KP:** 6, **Stabilitet:** 2
 - **Expertis:** Officer, Byråkrat
 
@@ -778,7 +798,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 
 **Egenskaper:**
 
-- Samspel 4, List 3, Strid 3, Sinnen 3, övriga 2
+- Samspel 4, List 3, Strid 3, Sinnen 3, Analys 2, Fysik 2, Smidighet 2, Vilja 2
 - **KP:** 7, **Stabilitet:** 2
 - **Expertis:** Spion, Diplomat
 - **Förmågor:** Charm, Lögner, Nätverk
@@ -795,7 +815,7 @@ Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och
 
 **Egenskaper:**
 
-- Analys 4, Samspel 3, Vilja 4, Strid 2, övriga 2
+- Analys 4, Samspel 3, Vilja 4, Strid 2, Fysik 2, List 2, Sinnen 2, Smidighet 1
 - **KP:** 7, **Stabilitet:** 3
 - **Expertis:** Officer, Strateg, Byråkrat
 
@@ -809,7 +829,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, tyst, iskal
 
 **Egenskaper:**
 
-- Strid 4, Sinnen 3, Vilja 3, Smidighet 3, övriga 2
+- Strid 4, Sinnen 3, Vilja 3, Smidighet 3, Analys 2, Fysik 2, List 2, Samspel 2
 - **KP:** 7, **Stabilitet:** 2
 - **Expertis:** Soldat, Officer, Spion
 - **Förmågor:** Taktik, Kalla nerven, Förhör
@@ -884,32 +904,32 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, mus
 
 #### Ambassadör Otto Keller (Schweiz)
 
-Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioårsåldern med grånande mustasch och obesvärdlig diplomatisk hållning. Genuint idealistisk men naiv. Ovillig att ingripa men fast i kaoset.
+Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioårsåldern med grånande mustasch och diplomatisk hållning. Genuint idealistisk men naiv. Ovillig att ingripa men fast i kaoset.
 
-**Egenskaper:** Analys 2, Samspel 4, Vilja 2, övriga 1–2.
+**Egenskaper:** Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
 #### Ambassadör Sven Hellén (Sverige, Västberlin)
 
 Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrått hår. Van vid diplomatins känsliga balansgångar men djupt obekväm med underrättelseoperationer.
 
-**Egenskaper:** Analys 3, Samspel 4, Vilja 2, övriga 1–2.
+**Egenskaper:** Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
 #### Greta Holm (Sverige, Västberlin)
 
 Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåldern, professionell och pragmatisk. Vet om Program Frigg och har arbetat med T-kontoret tidigare.
 
-**Egenskaper:** Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, övriga 2.
+**Egenskaper:** Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2.
 
 #### Martin Weber (Förare)
 
 Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född i Berlin. Diskret men kompetent. Hatar muren men gör sitt jobb.
 
-**Egenskaper:** Smidighet 3, Sinnen 3, Strid 2, Vilja 2, övriga 1–2.
+**Egenskaper:** Smidighet 3, Sinnen 3, Strid 2, Vilja 2, Analys 2, Fysik 2, List 1, Samspel 1.
 
 #### Heinz Bauer (Volkspolizei)
 
 Östberlinsk polis i fyrtioårsåldern. Vanlig polis som hamnar mitt i händelserna. Lojal mot DDR men pragmatisk och inte särskilt ideologisk. Familjefar som inte vill dö för politikens skull.
 
-**Egenskaper:** Strid 2, Sinnen 2, Samspel 2, övriga 1–2. **KP:** 5, **Stabilitet:** 2.
+**Egenskaper:** Strid 2, Sinnen 2, Samspel 2, Analys 1, Fysik 2, List 1, Smidighet 1, Vilja 2. **KP:** 5, **Stabilitet:** 2.
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
