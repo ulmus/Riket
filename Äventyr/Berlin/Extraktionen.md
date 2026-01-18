@@ -54,7 +54,7 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 - **Lördag 11 november, 19:45:** Ankomst Köpenhamn, byte av flygplan
 - **Lördag 11 november, 21:30:** SAS-flyg avgår från Köpenhamn till Västberlin
 - **Söndag 12 november, 00:15:** Ankomst Tempelhof flygplats, Västberlin
-- **Söndag 12 november, 01:00:** Incheckning på hotel/ambassaden
+- **Söndag 12 november, 01:00:** Incheckning på hotell/ambassaden
 - **Söndag 12 november, dag:** Förberedelser i Västberlin
 - **Måndag 13 november, dag:** Fortsatta förberedelser, spaning
 - **Måndag 13 november, 19:00:** Mottagningen på schweiziska ambassaden börjar
@@ -67,11 +67,11 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 
 #### T-kontoret och Hedströms kontor
 
-T-kontoret är ett anonymt kontorshus som utåt ser ut som vilket statskontor som helst. Men bakom låsta dörrar och kodade nycklar finns Sveriges mest hemliga underrättelseverksamhet.
+T-kontoret är ett anonymt kontorshus som utåt ser ut som vilket statskontor som helst. Men bakom låsta dörrar och kodade nycklar finns Sveriges hemligaste underrättelseverksamhet.
 
 Hedströms kontor är en blandning av akademisk röra och militär precision. Bokhyllor fulla med tyska och svenska medicinska tidskrifter, kartbilder över Östeuropa, en gammal teleskrivare som tickar med kodade meddelanden. På väggen hänger en inramad bild av Uppsala universitets medicinska fakultet från 1930-talet – en påminnelse om en enklare tid.
 
-Hedström själv sitter bakom sitt skrivbord med en kopp kaffe och en halvrökt cigarett. Han ser trött ut, mer än vanligt. När spelarna kommer in vinkar han dem att sätta sig.
+Hedström själv sitter bakom sitt skrivbord med en kopp kaffe och en halvrökt cigarett. Han ser tröttare ut än vanligt. När spelarna kommer in vinkar han till dem att sätta sig.
 
 #### Briefingen
 
@@ -79,21 +79,19 @@ Hedström själv sitter bakom sitt skrivbord med en kopp kaffe och en halvrökt 
 
 Hedström tänder en ny cigarett och lutar sig tillbaka.
 
-*"Vi har en situation i Berlin. En möjlighet. Tiden får utvisa."*
+*"Vi har en situation i Berlin."*
 
-Han skjuter över ett svartvitt fotografi. Det visar en äldre man i lab-rock, elegant klädd, men med trötta ögon.
+Han skjuter över ett svartvitt fotografi. Det visar en äldre man i labb-rock, elegant klädd, men med trötta ögon.
 
-*"Doktor Hans Richter. Ni känner kanske igen namnet från era orienteringar om Projekt Nebelkrone – Östtysklands ENS-program. Det ni kanske inte vet är att Richter en gång arbetade vid min sida. Under kriget. Vid Auschwitz."*
+*"Doktor Hans Richter. Ni känner säkert igen namnet från era orienteringar om Projekt Nebelkrone – Östtysklands ENS-program. Det ni kanske inte vet är att Richter en gång arbetade vid min sida. Under kriget. Vid Auschwitz."*
 
 Hedström tar ett djupt bloss.
 
 *"Richter vill hoppa av. Han har kontaktat mig genom diskreta kanaler och erbjuder oss allt – femton års forskning från Nebelkrone, originaldata från Projekt Nigredo, allt. I utbyte mot asyl i Sverige för honom och hans fru."*
 
-*"Varför tar vi honom? För kunskapens skull. För att Program Frigg kan ta enorma kliv framåt. Men också för att om vi inte gör det tar CIA eller KGB honom istället, och då får vi ingenting."*
-
 Hedström reser sig och går till fönstret.
 
-*"Berlin är kaos just nu. Muren är inte färdig, gränserna är porösa, och alla spionerna är där. Richter ska närvara vid en vetenskaplig mottagning på **den schweiziska ambassaden i Östberlin** den 18 november. Det är vår chans."*
+*"Berlin är i kaos just nu. Honeckers mur är inte färdig, gränserna är som ett såll av rakblad, och alla spionerna är där. Richter ska närvara vid en vetenskaplig mottagning på **den schweiziska ambassaden i Östberlin** den 18 november. Det är vår chans."*
 
 *"Er uppgift är att ta kontakt med Richter, säkerställa honom och hans fru, och få ut dem ur Östtyskland. Ni reser under diplomatiska täckmantel som 'vetenskapliga rådgivare' knutna till svenska ambassaden. Ni kommer att få diplomatpass, men de skyddar er bara så länge ni inte gör något uppenbart olagligt."*
 
@@ -101,7 +99,7 @@ Hedström reser sig och går till fönstret.
 
 Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en detaljeradare briefing-fil.
 
-*"Ni flyger till Västberlin imorgon kväll. När ni är där, ta kontakt med **ambassadör Sven Hellén** och hans kontaktperson **Greta Holm**. De vet att ni kommer men inte varför. Håll dem i mörker så länge det går."*
+*"Ni flyger till Västberlin imorgon kväll. När ni är där, ta kontakt med **ambassadör S Hellén** och hans kontaktperson **Greta Holm**. De vet att ni kommer men inte varför. Håll dem i mörker så länge det går."*
 
 **Spelarna kan nu ställa frågor.** Hedström besvarar dem efter bästa förmåga men är medvetet vag om vissa detaljer – särskilt om sin egen historia med Richter.
 
@@ -115,7 +113,7 @@ Efter briefingen har spelarna resten av dagen och följande dag att förbereda s
   - *1 framgång:* Grundläggande information om Projekt Nebelkrone och Richters roll som ledare.
   - *2 framgångar:* Detaljer om Nebelkrone's metoder: isolering, elektrochock, psykologisk nedbrytning. Överlevnadsgrad cirka 5%.
   - *3+ framgångar:* Information om Richters koppling till Projekt Nigredo och Auschwitz. Kännedom om att flera ENS skapats men få är stabila.
-- **Skaffa utrustning:** De kan begära specialutrustning från T-kontoret. Rimliga förfrågningar (verktyg för att öppna lås, medicinskt material, kameror) godkänns. Vapen kan skickas via diplomatpost och föras över till Östberlin i diplomatbilen, men kan behöva döljas om spelarna ska in på ambassaden.
+- **Skaffa utrustning:** De kan begära speialutrustning från T-kontoret. Rimliga förfrågningar (verktyg för att öppna lås, medicinskt material, kameror) godkänns. Vapen kan skickas via diplomatpost och föras över till Östberlin i diplomatbilen, men kan behöva döljas om spelarna ska in på ambassaden.
 - **Studera kartor över Berlin:** De kan få översikter över Västberlin, Östberlin och de kända delarna av muren. Ett slag för *Analys + Sinnen* ger dem en bra överblick över flyktrutter och checkpoints.
   - *Exempel på information:* Checkpoint Charlie är mest bevakad men mest förutsägbar. Potsdamer Platz är mindre bevakat på natten. Vissa delar av muren är fortfarande ofärdiga.
 - **Kontakter:** Om någon spelare har kontakter inom underrättelsevärlden kan de försöka få ytterligare information.
@@ -123,15 +121,15 @@ Efter briefingen har spelarna resten av dagen och följande dag att förbereda s
 
 ### Resan till Västberlin
 
-Spelarna flyger med **SAS** från Bromma flygplats till Västberlin via Köpenhamn. Flygplanet är en **Douglas DC-6**, en fyrmoторig propellermaskin som används på Skandinaviens längre rutter. Flygningen är okomplicerad men fylld med spänning. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
+Spelarna flyger med **SAS** från Bromma flygplats till Västberlin med mellanlandning i Köpenhamn. Flygplanet är en **Douglas DC-6**, en fyrmoторig propellermaskin som används på Skandinaviens längre rutter. Flygningen är okomplicerad men anspänd. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
 
-På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartenstrasse 18**, där den svenska ambassaden ligger.
+På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartentorasse 18**, där den svenska ambassaden ligger.
 
 Västberlin känns som en ö av ljus mitt i ett mörker. Staden är livlig, neonljusen blinkar, och människor försöker leva sina liv trots den ständiga hotet från öst. Men allt är genomsyrat av en underliggande nervositet – soldater patrullerar, checkpoints övervakas, och muren skär genom staden som ett ärr.
 
 ### Svenska ambassaden i Västberlin
 
-Den svenska ambassaden ligger i en elegant 1800-talsbyggnad i centrala Västberlin, nära Tiergarten. Byggnaden är vit med stora fönster, svenska flaggan vajar över entrén. Inuti är atmosfären professionell men spänd – personalen är medveten om att Berlin är en het punkt för internationell politik.
+Den svenska ambassaden ligger i en elegant 1800-tals-byggnad i centrala Västberlin, nära Tiergarten. Byggnaden är vit med stora fönster, svenska flaggan vajar över entrén. Inuti är atmosfären professionell men spänd – personalen är medveten om att Berlin är en het punkt för internationell politik.
 
 #### Ambassadör Sven Hellén
 
@@ -153,7 +151,7 @@ Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk informa
 
 *"Ambassadör Hellén är en bra man, men han tänker för mycket på protokoll. Ni och jag vet båda att detta inte är ett vanligt diplomatiskt besök. Jag har arrangerat en bil och förare för er – **Martin**, en lokal föraere som är diskret och pålitlig. Han vet hur man navigerar i Berlin, både öst och väst."*
 
-*"Den schweiziska ambassaden ligger i Östberlin, vid Unter Den Linden. Ni kommer att åka genom **Checkpoint Charlie** med era diplomatpass. Det borde gå smidigt, men räkna med att bli övervakade från det ögonblick ni passerar."*
+*"Den schweiziska ambassaden ligger i Östberlin, vid Unter Den Linden. Ni kommer att åka genom **Checkpoint Charlie** med era diplomatpass. Det borde gå smidigt, men räkna med att bli övervakade från det ögonblick nipasserar."*
 
 *"Om något går fel, kom tillbaka till Checkpoint Charlie. Vi kan inte göra mycket om ni grips djupt inne i Östberlin, men vid gränsen har vi en chans att förhandla."*
 
@@ -175,6 +173,8 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
+![[Berlin.jpg]]
+
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
@@ -195,7 +195,7 @@ Ett slag för *Sinnen + Analys* ger spelarna en bra översikt över potentiella 
 
 Spelarna kan försöka samla information om Richter, Stasi, eller CIA's närvaro i Berlin. De kan besöka barer där underrättelsefolk samlas, prata med kontakter, eller helt enkelt lyssna på rykten.
 
-Ett slag för *Samspel + Sinnen* ger dem användbar information. Fler framgångar ger viktigare information. De kan höra om:
+Ett slag för *Samspel + Sinnen* ger dem användbar information. Fler:framgångar ger viktigare information. De kan höra om:
 
 - CIA har stationerat extra agenter i Berlin nyligen.
 - Stasi har ökat säkerheten kring vissa vetenskapliga faciliteter.
@@ -246,7 +246,7 @@ Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare so
 
 **Monsieur Jean-Pierre Leclerc:** Fransk diplomat, cynisk och road av Berlin's intrigspel. Han misstänker något men blandar sig inte i.
 
-**Agent Richard "Dick" Donnelly (CIA):** Presenterar sig som "kulturattaché vid amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter.
+**Agent Richard "Dick" Donnelly (CIA):** Presenterar sig som "kulturattaché id amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter.
 
 Spelarna kan cirkulera, mingla och samla information. Ett slag för *Samspel + Sinnen* låter dem identifiera nyckelspelare och läsa stämningar. Fler framgångar ger mer information.
 
@@ -278,7 +278,7 @@ Om Brenner blir alltför misstänksam kommer han att kalla på förstärkning �
 
 #### CIA's erbjudande
 
-**Agent Richard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han känner inte till vem de är eller vad de gör där – CIA vet om avhoppet genom signalspaning men Donnelly har inte fått den informationen.
+**Agent :ichard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han känner inte till vem de är eller vad de gör där – CIA vet om avhoppet genom signalspaning men Donnelly har inte fått den informationen.
 
 *"Hej där. Jag tror vi har liknande intressen ikväll. Doktor Richter, eller hur?"*
 
@@ -300,7 +300,7 @@ Om spelarna är uppmärksamma kan de märka att vissa gäster beter sig konstigt
 
 Ett slag för *Samspel + Sinnen* (svårighet 2) avslöjar KGB's närvaro.
 
-#### Elisabeth Richter är sjuk hemma
+#### Elisabeth Richter är sjuk hemma:
 
 Richter insisterar på att hans fru **Elisabeth** måste hämtas. Hon ligger sjuk i deras lägenhet på **Friedrichshain**, cirka 20 minuters bilkörning från ambassaden.
 
@@ -490,7 +490,7 @@ Muren är ofullständig i november 1961. Det finns flera möjliga flyktrutter:
 
 #### Kyrkruinen
 
-En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
+En bombado kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
 
 - **Fara:** Bevakade torn på båda sidor. Risk för att bli beskjuten.
 - **Svårighet:** *Smidighet + Fysik*, svårighet 1 för att ta sig över, svårighet 2 om de bär någon.
@@ -643,7 +643,7 @@ Om spelarna lyckas få med sig Richter (och eventuellt Elisabeth och Golem) mås
 - **Smyga över muren:** Om de är efterlysta måste de ta en av de farliga rutterna över muren.
 - **CIA's hjälp:** Om de tidigare förhandlade med Donnelly kan de försöka kontakta honom – men han kommer att försöka kidnappa Richter.
 
-Om de lyckas ta sig till Västberlin är de säkra – men konsekvenserna av deras val kommer att förfölja dem.
+Om de l:ckas ta sig till Västberlin är de säkra – men konsekvenserna av deras val kommer att förfölja dem.
 
 ![[Ödehus - bottenvåning.png]]
 ![[Ödehus - källare.png]]
@@ -721,7 +721,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 - Han blir en rasande kraft som attackerar allt som står i vägen.
 - Under bärsärkar-läge: +2 Strid, +2 Fysik, men −2 Sinnen (ser inte skillnad på vän och fiende förutom Richter).
 
-**Svaghet:** Mentalt instabil. Kan förvirras av minnen eller känslor. Eld orsakar intensiv rädsla (minne från Auschwitz).
+**Svaghet:** Melt instabil. Kan förvirras av minnen eller känslor. Eld orsakar intensiv rädsla (minne från Auschwitz).
 
 #### Yaakov Dayan (Jakob Lewinsky)
 
@@ -795,7 +795,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren. Vogel är lojal mot r
 
 Charmig men hänsynslös fältagent i trettifemårsåldern. Donnelly presenterar sig som kulturattaché men är uppenbart mer. Han är självsäker, pratar flera språk och har kontakter överallt.
 
-CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetna om att Richter vill hoppa av till Sverige. De vill utnyttja det faktum att de kontrollerar Checkpoint Charlie för att snuva Sverige på Richter och plocka honom till deras eget projekt.
+CIA är genom läckor i T-kontoret (som de opåstår är "signalspaning") medvetna om att Richter vill hoppa av till Sverige. De vill utnyttja det faktum att de kontrollerar Checkpoint Charlie för att snuva Sverige på Richter och plocka honom till deras eget projekt.
 
 **Motivation:** Ta Richter till USA. Snuva både Sverige och Sovjet på hans kunskap. Avancera sin egen karriär.
 
