@@ -300,7 +300,7 @@ Om spelarna är uppmärksamma kan de märka att vissa gäster beter sig konstigt
 
 Ett slag för *Samspel + Sinnen* (svårighet 2) avslöjar KGB's närvaro.
 
-#### Elisabeth Richter är sjuk hemma:
+#### Elisabeth Richter är sjuk hemma
 
 Richter insisterar på att hans fru **Elisabeth** måste hämtas. Hon ligger sjuk i deras lägenhet på **Friedrichshain**, cirka 20 minuters bilkörning från ambassaden.
 
