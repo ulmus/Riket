@@ -1,17 +1,15 @@
-# “Silke” (________________________)
+# "Silke" (________________________)
 
-| Egenskaper |  |  | Färdigheter |  |  | Skador |  |  |
-| :---- | ----- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Fysik | 1 |  | Strid | 2 |  | Sår | ❏ |  |
-| Snabbhet | 2 |  | Rörlighet | 2 |  | Kritiskt | ❏ |  |
-| Precision | 3 |  | Observation | 2 |  | Dödligt | ❏ |  |
-| Intellekt | 2 |  | Samspel | 3 |  | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |  |
-| Psyke | 3 |  | Akademi | 3 |  |  |  |  |
-| Karisma | 4 |  | Hantverk | 2 |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-| Förflyttning | 5 |  | Slagstyrka | 0 |  | Stabilitet |  | 3 |
-|  |  |  |  |  |  |  |  |  |
-| Fokus | ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏  |  |  |  |  |  |  |  |
+| Egenskaper   |     | Färdigheter |     | Skador     |        |
+| :----------- | --- | :---------- | :-- | :--------- | :----- |
+| Fysik        | 1   | Strid       | 2   | Sår        | ❏      |
+| Snabbhet     | 2   | Rörlighet   | 2   | Kritiskt   | ❏      |
+| Precision    | 3   | Observation | 2   | Dödligt    | ❏      |
+| Intellekt    | 2   | Samspel     | 3   | Stress     | ❏❏❏❏❏❏ |
+| Psyke        | 3   | Akademi     | 3   |            |        |
+| Karisma      | 4   | Hantverk    | 2   |            |        |
+| Förflyttning | 5   | Slagstyrka  | 0   | Stabilitet | 3      |
+
 
 ## Språk:
 

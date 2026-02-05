@@ -9,7 +9,8 @@
 | Psyke        | 1   | Akademi     | 2   |            |        |
 | Karisma      | 2   | Hantverk    | 3   |            |        |
 | Förflyttning | 7   | Slagstyrka  | 1   | Stabilitet | 2      |
-## Språk:
+
+## Språk
 
 ## Förmågor
 
@@ -66,9 +67,8 @@ Damm, dimma, snö och regn avslöjar konturer; observatörer får +2 tärningar 
 ## Utrustning
 
 * **Pistol m/35 med ljuddämpare**: räckvidd 20 m, skada 9+ ❏❏  
-* **Magnesiumblixtrar**: engångsbloss för att temporärt överexponera kameror/sensorer i ett rum.   
+* **Magnesiumblixtrar**: engångsbloss för att temporärt överexponera kameror/sensorer i ett rum.
 * **Mörk dräkt**: döljer konturer, +1 på Snabbhet + Rörlighet för att smyga i svagt ljus.  
 * **Tunn vajer & sugkoppar**: +2 på Fysik + Rörlighet för tyst klättring/fönsterpassage  
 * Ett set med prismor och speglar  
 * En kortlek med två extra hjärter ess
-

@@ -1,17 +1,15 @@
-# “Radar” (________________________)
+# "Radar" (________________________)
 
-| Egenskaper |  |  | Färdigheter |  |  | Skador |  |  |
-| :---- | ----- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Fysik | 2 |  | Strid | 2 |  | Sår | ❏❏ |  |
-| Snabbhet | 2 |  | Rörlighet | 2 |  | Kritiskt | ❏❏ |  |
-| Precision | 3 |  | Observation | 3 |  | Dödligt | ❏ |  |
-| Intellekt | 4 |  | Samspel | 1 |  | Stress | ❏❏ ❏❏ ❏❏ ❏❏ ❏❏ ❏❏ |  |
-| Psyke | 1 |  | Akademi | 2 |  |  |  |  |
-| Karisma | 2 |  | Hantverk | 3 |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-| Förflyttning | 6 |  | Slagstyrka | 1 |  | Stabilitet |  | 2 |
-|  |  |  |  |  |  |  |  |  |
-| Fokus | ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏  |  |  |  |  |  |  |  |
+| Egenskaper   |     | Färdigheter |     | Skador     |        |
+| :----------- | --- | :---------- | :-- | :--------- | :----- |
+| Fysik        | 2   | Strid       | 2   | Sår        | ❏❏     |
+| Snabbhet     | 2   | Rörlighet   | 2   | Kritiskt   | ❏❏     |
+| Precision    | 3   | Observation | 3   | Dödligt    | ❏      |
+| Intellekt    | 4   | Samspel     | 1   | Stress     | ❏❏❏❏❏❏ |
+| Psyke        | 1   | Akademi     | 2   |            |        |
+| Karisma      | 2   | Hantverk    | 3   |            |        |
+| Förflyttning | 6   | Slagstyrka  | 1   | Stabilitet | 2      |
+
 
 ## Språk:
 

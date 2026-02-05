@@ -1,17 +1,15 @@
-# “Stigmata” (________________________)
+# "Stigmata" (________________________)
 
-| Egenskaper |  |  | Färdigheter |  |  | Skador |  |  |
-| :---- | ----- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Fysik | 4 |  | Strid | 2 |  | Sår | ❏❏❏ |  |
-| Snabbhet | 2 |  | Rörlighet | 1 |  | Kritiskt | ❏❏ |  |
-| Precision | 2 |  | Observation | 3 |  | Dödligt | ❏❏ |  |
-| Intellekt | 3 |  | Samspel | 1 |  | Stress | ❏❏ ❏❏ ❏❏ ❏❏ ❏❏ ❏❏ |  |
-| Psyke | 2 |  | Akademi | 3 |  |  |  |  |
-| Karisma | 1 |  | Hantverk | 3 |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-| Förflyttning | 7 |  | Slagstyrka | 2 |  | Stabilitet |  | 2 |
-|  |  |  |  |  |  |  |  |  |
-| Fokus | ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏  |  |  |  |  |  |  |  |
+| Egenskaper   |     | Färdigheter |     | Skador     |        |
+| :----------- | --- | :---------- | :-- | :--------- | :----- |
+| Fysik        | 4   | Strid       | 2   | Sår        | ❏❏❏   |
+| Snabbhet     | 2   | Rörlighet   | 1   | Kritiskt   | ❏❏    |
+| Precision    | 2   | Observation | 3   | Dödligt    | ❏❏    |
+| Intellekt    | 3   | Samspel     | 1   | Stress     | ❏❏❏❏❏❏ |
+| Psyke        | 2   | Akademi     | 3   |            |        |
+| Karisma      | 1   | Hantverk    | 3   |            |        |
+| Förflyttning | 7   | Slagstyrka  | 2   | Stabilitet | 2      |
+
 
 ## Språk:
 

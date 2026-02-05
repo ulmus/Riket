@@ -1,17 +1,15 @@
-# “Tjuren” (______________________)
+# "Tjuren" (______________________)
 
-| Egenskaper |  |  | Färdigheter |  |  | Skador |  |  |
-| :---- | ----- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Fysik | 4 |  | Strid | 3 |  | Sår | ❏❏❏ |  |
-| Snabbhet | 2 |  | Rörlighet | 2 |  | Kritiskt | ❏❏ |  |
-| Precision | 1 |  | Observation | 1 |  | Dödligt | ❏❏ |  |
-| Intellekt | 3 |  | Samspel | 1 |  | Stress | ❏❏ ❏❏ ❏❏ ❏❏ ❏❏ ❏❏ |  |
-| Psyke | 2 |  | Akademi | 1 |  |  |  |  |
-| Karisma | 3 |  | Hantverk | 2 |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |
-| Förflyttning | 8 |  | Slagstyrka | 2 |  | Stabilitet |  | 2 |
-|  |  |  |  |  |  |  |  |  |
-| Fokus | ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏ ❏❏❏❏❏  |  |  |  |  |  |  |  |
+| Egenskaper   |     | Färdigheter |     | Skador     |        |
+| :----------- | --- | :---------- | :-- | :--------- | :----- |
+| Fysik        | 4   | Strid       | 3   | Sår        | ❏❏❏   |
+| Snabbhet     | 2   | Rörlighet   | 2   | Kritiskt   | ❏❏    |
+| Precision    | 1   | Observation | 1   | Dödligt    | ❏❏    |
+| Intellekt    | 3   | Samspel     | 1   | Stress     | ❏❏❏❏❏❏ |
+| Psyke        | 2   | Akademi     | 1   |            |        |
+| Karisma      | 3   | Hantverk    | 2   |            |        |
+| Förflyttning | 8   | Slagstyrka  | 2   | Stabilitet | 2      |
+
 
 ## Språk:
 
