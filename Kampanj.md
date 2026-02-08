@@ -1,5 +1,5 @@
 Radar - Ragnar Olsson (kommunist)
-Silke - Stina Svensson / Jessica Nyström
+Silke - Stina Svensson / Jessica Nyström / Elisabeth Palmén
 Tjuren - Gertrud Barsk
 Prisma - Kent Andersson ()
 

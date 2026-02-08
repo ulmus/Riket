@@ -1,6 +1,5 @@
-
-| Egenskap  |     | Sekundärt    |        |
-| :-------- | --: | :----------- | :----- |
+| Egenskap      |     | Sekundärt    |        |
+| :------------ | --: | :----------- | :----- |
 | Analys    |   1 | KP           | 3      |
 | Fysik     |   1 | Sårad        | > 1 KP |
 | List      |   3 | Medvetslös   | > 3 KP |

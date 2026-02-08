@@ -111,7 +111,7 @@ Se kapitlet för [[Strid och skada]]
 ## Stress & rädsla
 
 - Markera Stress vid skada, rädsla, trauma eller istället för att spendera Fokus
-  - När du tar ett Sår, Kritiskt Sår eller Dödligt Sår
+  - När du blir Sårad
   - När du misslyckas med ett slag för Rädsla
   - Valfritt, om du vill spendera Fokus, men inte har några att spendera så kan du istället markera Stress. Du kan bara markera Stress
 - Om du tar mer Stress än vad du har i Stabilitet så slår du på Sammanbrottstabellen
