@@ -14,9 +14,15 @@ Anja Morozova är dotter till **Morana**, den sovjetiska Zvezda-agenten med kryo
 
 Under operationen i Finnmark — rollpersonernas andra uppdrag — bröt Anja sig fri från en sovjetisk transporthelikopter som kraschade i den norska vildmarken. Rollpersonerna hittade henne, eller snarare, hon hittade rollpersonerna. De tog henne med sig tillbaka till Sverige, där hon lämnades över till anonyma statstjänstemän.
 
+### Fosterfamiljen i Värmland
+
+Efter Finnmark placerades Anja hos en fosterfamilj i Värmland med koppling till försvarsmakten. Under ett vredesutbrott dödade hon hela familjen med sina krafter — fyra personer frusna till döds i sitt eget kök. Program Frigg tystade ner händelsen. Huset brändes. Familjen rapporterades omkomna i en olycka.
+
+Sedan tidigare finns en hypotes att ENS-krafter förvagas av joniserande strålning. Man beslutar att använda sig av detta i hennes nästa placering.
+
 ### Program Friggs experiment
 
-Anja placerades i **R1-reaktorhallen**, en aktiv forskningsreaktor 30 meter under **Kungliga Tekniska Högskolan** i Stockholm. Hallen var perfekt: avsides, temperaturkontrollerad och redan säkerhetsklassad.
+Anja flyttades till **R1-reaktorhallen**, en aktiv forskningsreaktor 30 meter under **Kungliga Tekniska Högskolan** i Stockholm. Strålningen från reaktorn dämpar hennes krafter, vilket gör hallen till den enda plats där hon kan hållas säkert. Andra pågående experiment vid R1 har avbrutits för att ge utrymme åt Program Frigg.
 
 Hedströms ställföreträdare, **Dr. Martin Schultz**, fick ansvaret för Anjas "utvärdering". Schultz är en kall, metodisk man som ser Anja som ett forskningsobjekt — "Subjekt S" i protokollen. Under åtta månader har han genomfört stresstester, temperaturmätningar och provokationsexperiment. Anja har hållits isolerad, med en brits, en trasig nalle och böcker på ryska som enda sällskap. Inga fönster. Inget dagsljus.
 
@@ -28,7 +34,7 @@ Hedströms ställföreträdare, **Dr. Martin Schultz**, fick ansvaret för Anjas
 
 Natten till fredagen agerade GRU. **Kapitan Viktor Zaitsev** och hans team bröt sig in i R1-hallen via underhållstunnlar. Deras uppdrag: återföra Anja till Sovjet. Men Anja vaknade, kände främlingarnas närvaro och fick panik. Hennes krafter exploderade okontrollerat.
 
-Zaitsevs team tvingades retirera. Anja flydde genom tunnlarna upp till marknivå och ut på Valhallavägen. Klockan var halv fyra på morgonen. Termometern sjönk trettio grader på fem minuter. Frost bildades på trottoarerna. Barfotaspår i rimfrost ledde norrut, bort från KTH.
+Zaitsevs team tvingades retirera. Anja flydde genom tunnlarna, upp genom kylanläggningen och ut en nöddörr till Valhallavägen. Klockan var halv fyra på morgonen. Termometern sjönk trettio grader på fem minuter. Frost bildades på trottoarerna. Barfotaspår i rimfrost ledde norrut, bort från KTH.
 
 När morgonen kom var Anja borta. GRU letade fortfarande. Och Hedström ringde T-kontoret.
 
@@ -66,7 +72,7 @@ Fredagsmorgon. Rollpersonerna kallas till Sturegatan 58. Hedström ser tröttare
 
 Hedström tänder en ny cigarett trots att den förra fortfarande glöder. Hans händer darrar.
 
-*"Det har hänt något på KTH. I R1-hallen — ni vet, den där reaktorn. Vi har haft... ett projekt där. Barnet. Flickan från Finnmark. Ni kallade henne Snegurotjka eller något så."*
+*"Det har hänt något på KTH. I R1-hallen — ni vet, den där reaktorn. Vi har haft... ett projekt där. Subjektet. Flickan från Finnmark. Ni kallade henne Snegurotjka eller något."*
 
 Han tar ett djupt bloss.
 
@@ -93,17 +99,29 @@ Han pekar mot Eklund.
 **Vad Hedström döljer:**
 
 - Experimenten som Schultz genomfört
+- Fosterfamiljen i Värmland och vad som hände där
 - Att Anja är Moranas dotter (och att Morana troligen skickat GRU)
 - Att det finns en mullvad inom T-kontoret
-- Att hans motiv delvis är att skydda sin egen forskning
+- Att hans verkliga prioritet är att det inte ska komma fram hur de har behandlat Anja — det skulle innebära slutet för Program Frigg och hans karriär
 
 **Pressa Hedström:** Rollpersonerna kan misstänka att han håller inne med information. Ett motståndsslag (*Samspel + Sinnen* mot Hedströms *Samspel + Vilja*, 3 + 3 = 6 tärningar) kan avslöja att han verkar skuldmedveten och att han väljer sina ord ovanligt noga. Pressa vidare kräver *Samspel + Samspel* (svårighet 2) — vid framgång erkänner han att Schultz "kanske gick för långt" i sina tester, men avfärdar det som nödvändigt.
+
+#### Radio
+> Och så till vädret — och till uppståndelsen kring Tekniska högskolan i Stockholm i natt.
+> 
+> Flera personer i området uppger att temperaturen plötsligt sjönk kraftigt under kort tid, och att frost kunde ses på marken.
+> 
+> Enligt SMHI rörde det sig om ett mycket lokalt fenomen som kan förklaras med luftomslag och kallras från högre skikt.
+> 
+> Kungliga Tekniska högskolan meddelar att man inte haft någon olycka eller driftstörning i sina laboratorier. Docent Kurt Fröling vid reaktorforskningsavdelningen säger att det inte finns något som tyder på att händelsen har samband med verksamheten vid anläggningen.
+> 
+> Polisen uppger att inga skador eller tillbud har rapporterats, och att området nu åter är öppet för trafik.”
 
 #### Karin Eklund — Kontaktpersonen
 
 *"Jag har nycklar till R1-hallen. Ni behöver se brottsplatsen."*
 
-*"Flickan har blivit starkare sedan Finnmark. Var försiktiga."*
+*"Subjektet har blivit starkare sedan Finnmark. Var försiktiga."*
 
 Eklund erbjuder sig som radioförbindelse och koordinator. **I verkligheten rapporterar hon allt till GRU via kodade burst-transmissioner.** Radars Radiohörsel kan notera dessa *senare* — inte i denna scen.
 
@@ -111,11 +129,19 @@ Eklund erbjuder sig som radioförbindelse och koordinator. **I verkligheten rapp
 
 #### Scen 1: R1-reaktorhallen (brottsplats)
 
-Eklund kör rollpersonerna till KTH. Ingången: en oanmärkt ståldörr i en sidobyggnad, betongtrappa 30 meter ner i berget.
+Eklund kör rollpersonerna till KTH.
 
-##### Hallen
+##### Reaktorhuset (ovan mark)
 
-Cylindrisk bergssal, 15 meter i diameter, välvt betongtak. Reaktortanken står i rummets mitt. Runtom har Program Frigg byggt sitt laboratorium.
+En anspråkslös tegelbyggnad på KTH:s campus. Ovan mark finns **laboratorier** — kontorsrum med forskningsutrustning, arkivskåp, en liten kantine — och en **kylanläggning** med pumpar, rör och kylvattentankar. Kylanläggningen är bullrig och fuktig; det är här tunnlarna från R1-hallen under jord mynnar ut. Anja flydde denna väg: upp genom tunnlarna, genom kylanläggningen, ut en nöddörr och vidare till Valhallavägen.
+
+**Utanför byggnaden**, parkerad på gatan med sikt mot entrén: en **svart Volvo Amazon** med två män i civila kläder. De läser tidning och röker. GRU-agenter som bevakar platsen. Rollpersonerna kan notera dem med *Sinnen + Sinnen* (svårighet 0). Agenterna följer inte efter — de rapporterar.
+
+##### R1-hallen (under jord)
+
+Betongtrappa 30 meter ner i berget. Cylindrisk bergssal, 15 meter i diameter, välvt betongtak. Reaktortanken står i rummets mitt, aktiv — ett lågt brus fyller hallen. Runtom har Program Frigg byggt sitt laboratorium.
+
+**Radar** märker omedelbart ett **konstant brus** i hallen — reaktorns strålning stör hans radarsinne. Obehagligt men inte skadligt. Det förklarar varför Anjas krafter kunde hållas i schack här.
 
 **Vad rollpersonerna ser:**
 
@@ -140,6 +166,19 @@ I hallens ena ände, avskild med en glasvägg och en låst ståldörr, finns en 
 - *1 framgång:* Anja benämns "Subjekt S". Protokollen beskriver dagliga temperaturmätningar, stressresponser och "provokationsexperiment".
 - *2 framgångar:* Provokationsexperimenten innebar att man medvetet skrämde eller stressade Anja för att utlösa krafterna. Anteckningar som "Subjekt uppvisade frostreaktion vid förhöjd ångestnivå" och "Optimal provokation: separation från tröstdjur".
 - *3+ framgångar:* Schultz anteckningar i marginalen: "Kraftnivå överstiger projektioner. Rekommenderar farmakologisk kontroll vid nästa fas." En sista notering: "Moderns genetiska profil bekräftad — se Zvezda-dossier M-17."
+
+##### Anders Samuelsson — Översättare
+
+En tjänsteman från **Försvarshögkvarteret** finns på plats: **Anders Samuelsson**, översättare med ryska som specialitet. Han är införstådd med Program Frigg och har arbetat som tolk vid Schultz experiment.
+
+Samuelsson är en medelålders man med runda glasögon och nervösa vanor. Han vet vad som har sagts under experimenten — han har översatt Anjas ord och Schultz instruktioner. Han vet också att **Anja inte har talat själv på över en månad**. Hon har slutat svara, slutat reagera verbalt. Samuelsson är beklämd över detta men gör sitt jobb.
+
+**Vad han kan berätta:**
+
+- Anja slutade prata gradvis — först korta svar, sedan tystnad
+- Schultz brydde sig inte: "Subjektets verbala respons är irrelevant för mätningarna"
+- Anjas sista ord (till Samuelsson, på ryska): *"Det spelar ingen roll vad jag säger"*
+- Samuelsson kan också översätta Anjas dagbok och böcker om rollpersonerna ber om det
 
 ##### Emotionell reaktion
 
@@ -166,42 +205,49 @@ Spåren leder norrut mot Humlegården men försvinner i morgonsolen.
 
 **Nybroviken:** Flera vittnen rapporterar ett bisarrt fenomen från natten: en tunn isstig över Nybroviken, från Strandvägen mot Djurgården/Södermalm. Isen har smält i morgonsolen men spåren är tydliga — en fiskare vid Nybrokajen såg "en vit flicka springa över vattnet som frös under hennes fötter." En morgonjoggare på Strandvägen bekräftar: "Isen knakade och sjönk bakom henne." Isstigen pekar söderut.
 
-#### Scen 3: Spaningsarbetet (lång aktivitet)
+#### Scen 3: Kapplöpningen söderut
 
-Att hitta Anja i Stockholm kräver systematiskt arbete. Detta är en **lång aktivitet** som kräver **8 framgångar** sammanlagt. Varje runda representerar cirka 2 timmars arbete.
+Spåren pekar söderut. GRU följer samma spår. Det här är en **kapplöpning**, inte en detektivhistoria — rollpersonerna behöver följa vittneskedjan snabbare än GRU.
 
-##### Tillgängliga metoder
+##### Vittneskedjan
 
-Rollpersonerna kan dela upp sig och använda olika metoder. Varje rollperson kan bidra med ett slag per runda:
+Varje steg kräver ett lyckat slag för att hitta rätt vittne och få dem att prata. Om rollpersonerna misslyckas förlorar de tid — GRU kommer närmare.
 
-| Metod | Egenskap + Egenskap | Beskrivning |
-|-------|---------------------|-------------|
-| Följa temperaturavvikelser | Sinnen + Sinnen | Kallt vatten i fontäner, frost i skuggor, onormala avläsningar |
-| Intervjua vittnen | Samspel + Sinnen | Prata med poliser, butiksägare, hemlösa, parkarbetare |
-| Avlyssna polisradio | Sinnen + Vilja | Polisrapporter om "vandalism" (frusna rör), "konstigt väder" |
-| Systematisk sökning | Fysik + Sinnen | Gå igenom parker, tunnlar, övergivna byggnader |
-| Analysera mönster | Analys + Sinnen | Sammanställa ledtrådar, kartlägga rörelse, förutsäga nästa position |
-| Radars Radiohörsel | *Kraft* | Lyssna efter GRU:s kommunikation (ger bonusinfo, se nedan) |
+**Steg 1 — Humlegården** (*Samspel + Sinnen*, svårighet 0)
+En parkarbetare hittade is på fontänen i morse. En hemlös man sov under en bänk: *"En liten flicka sprang genom parken. Barfota. Gräset frös där hon sprang."* Riktning: söderut mot Strandvägen.
 
-##### Hotslag (tidspress)
+**Steg 2 — Nybroviken** (redan känt från Scen 2)
+Isstigen över viken bekräftar riktningen. Fiskaren och joggaren kan pekas ut av vittnen vid Strandvägen. *"Hon sprang rakt ut på vattnet. Det frös under henne."* Riktning: mot Södermalm.
 
-I slutet av varje runda efter den första gör SL ett hotslag som eskalerar situationen:
+**Steg 3 — Slussen/Södermalm** (*Samspel + Sinnen*, svårighet 0)
+En nattarbetare vid Slussen: *"Såg en flicka i vitt komma från vattnet vid Stadsgården. Barfota. Gick uppför backen mot söder."* En polisrapport nämner frusna vattenledningar på Södermalm utan känd orsak. Riktning: söderut, mot Hornstull.
 
-**Runda 2 — GRU spanar:** Rollpersonerna märker tecken på att de inte är ensamma. En svart Volvo Amazon kör långsamt genom samma kvarter. Två män i civilt står och röker på Karlaplan och tittar på alla som passerar. GRU har fler ögon i staden.
+**Steg 4 — Tantolunden** (*Sinnen + Sinnen*, svårighet 0)
+En kolonist som kom tidigt på morgonen: *"Jordgubbarna är frusna! Mitt i juli! Och stugan längst ner — det ser ut som vinter därinne."* Rollpersonerna har hittat gömstället.
 
-**Runda 3 — Pressen.** Reportern **Erik Lindblad** från Expressen publicerar en kort notis: *"Mystiskt köldknäpp på Östermalm — minus fem mitt i juli."* Han gräver vidare och frågar frågor om KTH och experiment. Om rollpersonerna inte agerar kommer han att publicera mer.
+##### GRU i kapplöpningen
 
-**Runda 4 — Militärpatrull.** T-kontoret skickar en militärpatrull "för att assistera" — i verkligheten för att hålla koll på rollpersonerna. Fyra soldater i civil klädsel under en löjtnant som rapporterar direkt till Thede Palm. De är i vägen och ställer frågor.
+GRU följer samma vittneskedja — de har samma information via Eklund plus egna agenter. Rollpersonerna ser tecken på att GRU har varit före dem:
 
-**Runda 5 — GRU når gömstället.** Om rollpersonerna inte har samlat 8 framgångar vid runda 5 når Zaitsevs team Anjas gömställe före dem. Rollpersonerna anländer och finner tecken på strid — frosttäckta väggar, en medvetslös GRU-soldat, och Anja borta igen. Jakten eskalerar till Akt II under nya förhållanden.
+- **Steg 1:** Parkarbetaren: *"Det var några karlar här före er som frågade samma saker. Utlänningar."*
+- **Steg 2:** Den svarta Volvo Amazon syns parkerad vid Strandvägen.
+- **Steg 3:** Om rollpersonerna är långsamma: vittnet vid Slussen har redan pratat med "andra herrar."
+
+Om rollpersonerna misslyckas med **två slag** når GRU Tantolunden före dem. De anländer och finner tecken på strid — frostskadade stugor, en medvetslös GRU-soldat — och Anja borta igen. Jakten eskalerar under nya förhållanden.
 
 ##### Bonusinformation via Radar
 
 Om Radar använder Radiohörsel kan hen fånga upp GRU:s kommunikation (krypterad rysk militärfrekvens, *Sinnen + Vilja* svårighet 2 för att avkoda):
 
-- *1 framgång:* Positionsrapporter — GRU söker i samma områden som rollpersonerna.
+- *1 framgång:* Positionsrapporter — GRU följer samma vittneskedja som rollpersonerna.
 - *2 framgångar:* En order: "Sök söder om Gamla stan. Koloniområdena."
 - *3 framgångar:* En annan signal — kort, kodad burst-transmission — inifrån Stockholm. Inte från GRU:s kända frekvenser. (Eklunds rapport.)
+
+##### Komplikationer under kapplöpningen
+
+**Pressen:** Reportern **Erik Lindblad** från Expressen publicerar en kort notis: *"Mystiskt köldknäpp på Östermalm — minus fem mitt i juli."* Han dyker upp vid Humlegården eller Strandvägen och ställer frågor. Om rollpersonerna inte hanterar honom publicerar han mer.
+
+**Militärpatrull:** Om kapplöpningen drar ut på tiden skickar T-kontoret en militärpatrull "för att assistera" — i verkligheten för att hålla koll på rollpersonerna. Fyra soldater i civil klädsel under en löjtnant som rapporterar direkt till Thede Palm.
 
 #### Anjas gömställe — Tantolunden
 
@@ -505,7 +551,7 @@ Anjas passiva köldaura varierar med hennes stressnivå:
 
 #### Dr. Lars Hedström
 
-Redan etablerad. I detta äventyr: splittrad. Vet att experimenten var fel men fascineras av resultaten. Vill ha Anja tillbaka — delvis forskningen, delvis övertygad att Frigg kan "hjälpa" henne.
+Redan etablerad. I detta äventyr: splittrad. Vet att experimenten var fel men fascineras av resultaten. Kallar Anja sällan vid namn — oftast "flickan" eller "barnet". Vill ha henne tillbaka, men minst lika viktigt: det får inte komma fram hur Program Frigg har behandlat henne. Om sanningen når pressen eller politikerna är hans karriär och hela programmet slut.
 
 **Egenskaper:**
 
@@ -656,7 +702,38 @@ Avled metallprojektiler. Skydd +2 mot skjutvapen med metallkulor.
 
 **Svaghet:** Radars Pulsstörare slår ut Polaris krafter i 1 runda per framgång (hans magnetkontroll kräver neural koncentration som Pulsstöraren avbryter). Icke-metalliska vapen (trä, sten, is) ignorerar hans sköld.
 
+### Stödpersoner
+
+#### Anna-Greta Hermelin — Hedströms sekreterare
+
+Tjugotre år, borglig bakgrund, diskret elegant. Otroligt kompetent — har telefonnummer till alla inom Program Frigg, T-kontoret och berörda myndigheter. Naturligt införstådd med Program Frigg i egenskap av sekreterare.
+
+Till skillnad från Hedström, Schultz och Eklund är Anna-Greta vänligt inställd till rollpersonerna. Hon hjälper dem utan att ifrågasätta — fixar kontakter, undersöker saker, ordnar logistik. Hon är lojal mot Hedström men inte blind för vad som pågår.
+
+**Motivation:** Göra sitt jobb. Hjälpa.
+
+**Egenskaper:** Analys 3, Samspel 3, List 2, Sinnen 2, Vilja 2, Fysik 1, Smidighet 1, Strid 1.
+**Expertis:** Administration
+
+**Vad hon kan göra för rollpersonerna:**
+
+- Ringa kontakter inom försvaret, polisen, KTH
+- Boka transport, hotellrum, utrustning
+- Undersöka personers bakgrund via register
+- Vidarebefordra meddelanden utan att Hedström vet
+- Ge rollpersonerna förvarning om T-kontorets nästa drag
+
 ### Sidofigurer
+
+#### Anders Samuelsson — Översättare
+
+Försvarshögkvarteret, fyrtio år, runda glasögon, nervösa vanor. Tolk med ryska som specialitet. Har översatt vid Schultz experiment sedan Anja anlände. Gör sitt jobb men mår dåligt av det.
+
+**Motivation:** Plikt. Samvete.
+
+**Egenskaper:** Analys 3, Samspel 2, Sinnen 2, List 1, Vilja 2, Fysik 1, Smidighet 1, Strid 1.
+**Expertis:** Översättare
+**Språk:** Svenska (modersmål), ryska, finska, tyska.
 
 #### Erik Lindblad — Reporter
 
@@ -723,9 +800,9 @@ Yttre hot. Alltid ett steg bredvid tack vare mullvaden, tills hon avslöjas.
 
 Se [[#Anjas köldaura — skaltabell]]. Alltid aktiv, varierar med stressnivå. Använd som atmosfärverktyg: lugn = isen smälter, rädd = rummet fryser.
 
-### Spaningskapplöpning (Akt I)
+### Kapplöpning söderut (Akt I)
 
-8 framgångar, tidspress. GRU söker parallellt — når fram runda 5 om RP inte hunnit.
+Vittneskedja i fyra steg. GRU följer samma spår. Två misslyckade slag = GRU når Tantolunden först.
 
 ### Biljakt (valfri)
 
