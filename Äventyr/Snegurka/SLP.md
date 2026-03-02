@@ -6,7 +6,7 @@
 | **Sersjant Knut Aasland**             | Norge                     | Heimevernet                 | Vänlig men osäker, tvekar att använda våld mot stormakter.                               |
 | **Dr. Lars Hedström**                 | Sverige                   | Teknisk rådgivare (Frigg)   | Civilt ansikte, egentligen huvudkontakt till Frigg. Vill säkra Snegurka.                 |
 | **Agent Karin Eklund**                | Sverige                   | T-Kontoret fältkontakt      | Under täckmantel som administratör. Lojal men vaksam på RP:s beslut.                     |
-| **Mr. David Harlan**                  | USA                       | CIA-station chief           | Charmig och slipad, vill ha barnet till USA, erbjuder exfiltration.                      |
+| **Mr. David Harlan**                  | USA                       | CIA-station chief           | Charmig och slipad, vill ha barnet till USA, erbjuder evakuering.                      |
 | **Sgt. William “Bill” Carter**        | USA                       | Signalist/”tekniker”        | Paramilitär, lojal mot Harlan, misstror både norrmän och svenskar.                       |
 | **Lt. Fredrick Greene**               | USA                       | US Air Force liaison        | Teknisk expert, misstänksam mot Frigg och svensk neutralitet.                            |
 | **Kapitan Sergej Zorin**              | Sovjet                    | Spetsnaz-ledare             | Brutal, kompromisslös, ska återföra Snegurka eller undanröja henne.                      |

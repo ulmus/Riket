@@ -14,7 +14,7 @@ Ni har utsetts att genomföra en säkerhetsoperation i Berlin, Västtyskland och
 
 ## BAKGRUND
 
-Ett högvärdigt mål har begärt exfiltrering från DDR till Sverige. Målet har tillgång till strategiskt viktig information av betydelse för Sveriges säkerhet och forskningsintressen.
+Ett högvärdigt mål har begärt utförsel från DDR till Sverige. Målet har tillgång till strategiskt viktig information av betydelse för Sveriges säkerhet och forskningsintressen.
 
 Målet är identifierat som **Dr. Hans Richter**, f.d. tysk vetenskapsman, för närvarande verksam inom DDR:s forskningsprogram. Richter har erbjudit sig att överföra vetenskaplig dokumentation och expertis i utbyte mot asyl för sig själv och sin maka.
 
@@ -28,18 +28,18 @@ Målet är identifierat som **Dr. Hans Richter**, f.d. tysk vetenskapsman, för 
 ### Fas 2: Kontakt
 - Dr. Richter kommer att närvara vid en diplomatisk mottagning på schweiziska ambassaden i Östberlin den 13 november 1961, kl. 19:00.
 - Etablera kontakt med Richter. Identifikationsfras: **"Professor Lindqvist hälsar från Uppsala."**
-- Richter förväntas bekräfta sin vilja att exfiltreras vid detta tillfälle.
+- Richter förväntas bekräfta sin vilja att föras ut vid detta tillfälle.
 
-### Fas 3: Exfiltrering
+### Fas 3: Utförsel
 - Säkerställ Dr. Richter och hans maka Elisabeth Richter.
 - Använd diplomatiska kanaler för utresa där så är möjligt.
-- Vid komplikationer: se alternativa exfiltreringsrutter i bilagd karta (Bilaga 1, förvaras separat).
+- Vid komplikationer: se alternativa flyktvägar i bilagd karta (Bilaga 1, förvaras separat).
 
 ## SÄRSKILDA ÖVERVÄGANDEN
 
 - **Diplomatiska konsekvenser:** Operationen får inte exponera svensk inblandning. Undvik konfrontation med DDR:s säkerhetsorgan.
 - **Tredje parts inblandning:** Västmakter och Sovjetunionen har motsvarande intressen i Berlin. Räkna med övervakning och eventuell konkurrerande verksamhet.
-- **Målgruppens säkerhet:** Dr. Richter rapporteras ha säkerhetsskydd. Var förberedda på att detta kan komplicera exfiltreringen.
+- **Målgruppens säkerhet:** Dr. Richter rapporteras ha säkerhetsskydd. Var förberedda på att detta kan komplicera utförseln.
 
 ## KONTAKTPERSONER
 

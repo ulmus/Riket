@@ -7,8 +7,8 @@
 | 5    | –15 °C     | Byig vind         | Växlande klart/snödrev          | Ostadigt väder, radiostörningar möjliga.            |
 | 6    | –12 °C     | Nästan vindstilla | Dimma, 50 m sikt                | Tyst, kusligt, ljud bär långt.                      |
 | 7    | –10 °C     | Måttlig vind      | Lätt snöfall                    | Relativt milt, men fuktigt och genomträngande kyla. |
-| 8    | –8 °C      | Kraftig vind      | White-out, <50 m sikt           | Nästan omöjligt att orientera.                      |
+| 8    | –8 °C      | Kraftig vind      | Vit vägg, <50 m sikt           | Nästan omöjligt att orientera.                      |
 | 9    | –12 °C     | Svag vind         | Klar himmel, norrsken           | Bästa chansen att röra sig obemärkt under ljuset.   |
-| 10   | –20 °C     | Stormbyar         | Snöstorm, <20 m sikt            | Rörelse nästan omöjlig, exfiltration stoppas.       |
+| 10   | –20 °C     | Stormbyar         | Snöstorm, <20 m sikt            | Rörelse nästan omöjlig, evakuering stoppas.       |
 | 11   | –18 °C     | Hård vind         | Lätt snödrev                    | Påfrestande men hanterbart.                         |
 | 12   | –15 °C     | Vindstilla        | Stjärnhimmel, norrsken          | Nästan idylliskt – men farligt bedrägligt.          |

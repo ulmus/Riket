@@ -190,7 +190,7 @@ Du får +1 på Sinnen + Smidighet vid skuggning, spaningsuppdrag och rekognoseri
 ## Snabbtänkt
 
 *Krav:* List 2, Samspel 2
-Du får +1 på List + Samspel när du bluffar, spelar en täckmantel eller improviserar en cover story under press.
+Du får +1 på List + Samspel när du bluffar, spelar en täckmantel eller improviserar en täckhistoria under press.
 
 ## Tyst intrång
 

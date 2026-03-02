@@ -48,7 +48,7 @@ När morgonen kom var Anja borta. GRU letade fortfarande. Och Hedström ringde T
 
 ## Tidslinje
 
-- **Dag 1 (fredag), 07:00:** Briefing på T-kontoret, Sturegatan 58
+- **Dag 1 (fredag), 07:00:** Genomgång på T-kontoret, Sturegatan 58
 - **Dag 1 (fredag), 08:30:** Undersökning av R1-reaktorhallen
 - **Dag 1 (fredag), förmiddag:** Valhallavägen — frostspår och vittnen
 - **Dag 1 (fredag), eftermiddag–kväll:** Spaningsarbete genom Stockholm
@@ -62,11 +62,11 @@ När morgonen kom var Anja borta. GRU letade fortfarande. Och Hedström ringde T
 
 ## Upplägg
 
-### Prolog — Briefing på T-kontoret
+### Prolog — Genomgång på T-kontoret
 
 Fredagsmorgon. Rollpersonerna kallas till Sturegatan 58. Hedström ser tröttare ut än vanligt — darriga händer, undvikande blick. **Karin Eklund** från Finnmark-operationen är också där.
 
-#### Briefingen
+#### Genomgången
 
 *"Sätt er. Stäng dörren."*
 
@@ -123,7 +123,7 @@ Han pekar mot Eklund.
 
 *"Subjektet har blivit starkare sedan Finnmark. Var försiktiga."*
 
-Eklund erbjuder sig som radioförbindelse och koordinator. **I verkligheten rapporterar hon allt till GRU via kodade burst-transmissioner.** Radars Radiohörsel kan notera dessa *senare* — inte i denna scen.
+Eklund erbjuder sig som radioförbindelse och koordinator. **I verkligheten rapporterar hon allt till GRU via kodade snabbutsändningar.** Radars Radiohörsel kan notera dessa *senare* — inte i denna scen.
 
 ### Akt I — "Köldbrott" (Session 1)
 
@@ -241,7 +241,7 @@ Om Radar använder Radiohörsel kan hen fånga upp GRU:s kommunikation (kryptera
 
 - *1 framgång:* Positionsrapporter — GRU följer samma vittneskedja som rollpersonerna.
 - *2 framgångar:* En order: "Sök söder om Gamla stan. Koloniområdena."
-- *3 framgångar:* En annan signal — kort, kodad burst-transmission — inifrån Stockholm. Inte från GRU:s kända frekvenser. (Eklunds rapport.)
+- *3 framgångar:* En annan signal — kort, kodad snabbutsändning — inifrån Stockholm. Inte från GRU:s kända frekvenser. (Eklunds rapport.)
 
 ##### Komplikationer under kapplöpningen
 
@@ -383,7 +383,7 @@ Information som delats *bara* med Eklund visar sig känd av GRU. Möjliga avslö
 
 - GRU dyker upp på en plats som bara Eklund kände till
 - Zaitsev nämner något som bara rollpersonerna och Eklund vet
-- Radars Radiohörsel fångar en burst-transmission från *nära* rollpersonernas senaste position — och Eklund var nyss där
+- Radars Radiohörsel fångar en snabbutsändning från *nära* rollpersonernas senaste position — och Eklund var nyss där
 
 ---
 
@@ -393,7 +393,7 @@ Information som delats *bara* med Eklund visar sig känd av GRU. Möjliga avslö
 
 ##### Tre vägar till avslöjandet
 
-**1. Radiotriangulering.** Radar kan aktivt söka efter burst-transmissionen med sin Radiohörsel och en bärbar radiopejlare. Kräver *Sinnen + Vilja*. Vid framgång: signalen kommer från Eklunds radio, en modifierad svensk militärradio med en extra krypteringsmodul som inte borde finnas där.
+**1. Radiotriangulering.** Radar kan aktivt söka efter snabbutsändningen med sin Radiohörsel och en bärbar radiopejlare. Kräver *Sinnen + Vilja*. Vid framgång: signalen kommer från Eklunds radio, en modifierad svensk militärradio med en extra krypteringsmodul som inte borde finnas där.
 
 **2. Kanariefågelsfälla.** Rollpersonerna ger Eklund falsk information — en fejkad plats där de "gömmer" Anja. Om GRU dyker upp på den platsen vet de att Eklund läcker. Kräver *List + Samspel* för att övertyga Eklund utan att väcka misstankar.
 
@@ -589,7 +589,7 @@ Under ytan: ångestfylld, sömnlös, skuldtyngd. Dricker för mycket kaffe, undv
 - Hon erbjuder sig att "sköta radiokommunikationen" (vill ha kontroll över vad som sänds)
 - Hon går iväg ensam en stund "för att ringa T-kontoret" (i verkligheten sänder till GRU)
 - Hon verkar nervös och kontrollerar sin klocka ofta
-- Om Radar lyssnar på hennes frekvens märker hen en kort, kodad burst-transmission
+- Om Radar lyssnar på hennes frekvens märker hen en kort, kodad snabbutsändning
 
 **Egenskaper:**
 
@@ -848,7 +848,7 @@ Minst fyra av sju bör spelas ut:
 ### Radar
 
 - **Radiohörsel** fångar GRU:s kommunikation och avslöjar deras sökområden.
-- **Radiohörsel** fångar Eklunds burst-transmission — nyckeln till att avslöja mullvaden.
+- **Radiohörsel** fångar Eklunds snabbutsändning — nyckeln till att avslöja mullvaden.
 - **Pulsstörare** mot Polaris — direkt kontra hans magnetkrafter.
 - Kan triangulera Anjas position via elektronikstörningar som hennes köldaura orsakar.
 

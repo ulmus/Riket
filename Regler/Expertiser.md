@@ -68,7 +68,7 @@ Varje Expertis listar nedan exempel på aktiviteter som kan utföras med automat
 
 ## Låssmed
 
-- **Bonus på aktiviteter:** List + Smidighet för att dyrka eller bypassa lås och enkla larm.
+- **Bonus på aktiviteter:** List + Smidighet för att dyrka eller koppla förbi lås och enkla larm.
 - **Kräver expertisen:** Dyrka säkerhetsklassade lås (List + Smidighet), tyst öppning under tidspress.
 - **Förmågor som kräver expertisen:** [[Förmågor#Andra försöket]], [[Förmågor#Snabba fingrar]].
 - **Automatisk framgång:** Dyrka enkla hänglås, bedöma lås och identifiera typ, tillverka enkel nyckelkopia med avtryck, avgöra om ett lås har manipulerats.
@@ -96,7 +96,7 @@ Varje Expertis listar nedan exempel på aktiviteter som kan utföras med automat
 
 ## Maskör
 
-- **Bonus på aktiviteter:** List + Samspel för förklädnad, cover story och kroppsspråk i infiltration.
+- **Bonus på aktiviteter:** List + Samspel för förklädnad, täckhistoria och kroppsspråk i infiltration.
 - **Kräver expertisen:** Förklädnad & uppträdande vid skarpa kontroller (List + Samspel).
 - **Förmågor som kräver expertisen:** [[Förmågor#Förvandling]], [[Förmågor#Övertygande cover]].
 - **Automatisk framgång:** Applicera grundläggande smink, förändra utseende med peruker och kläder, bygga enkel täckhistoria, avgöra om någon annan bär förklädnad.

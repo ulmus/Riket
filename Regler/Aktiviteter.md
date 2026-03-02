@@ -117,13 +117,13 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 | Aktivitet                | Beskrivning/kommentar                       | Egenskap + Egenskap   |
 | ------------------------ | ------------------------------------------- | --------------------- |
 | Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Smidighet + Smidighet |
-| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | List + Smidighet      |
+| Dyrka lås                | Klassisk pickning eller förbikoppling     | List + Smidighet      |
 | Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Analys + Sinnen       |
-| Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Analys + Smidighet    |
+| Koppla förbi larm        | Koppla förbi krets, tillfällig förbikoppling      | Analys + Smidighet    |
 | Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel        |
 | Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | List + Smidighet      |
 | Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Smidighet     |
-| Plantera bugg            | Diskret placering/dragning av kabel         | List + Smidighet      |
+| Plantera avlyssning            | Diskret placering/dragning av kabel         | List + Smidighet      |
 
 ## Social påverkan & förhör
 

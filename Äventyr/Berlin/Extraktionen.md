@@ -48,7 +48,7 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 
 ## Tidslinje
 
-- **Fredag 10 november, 09:00:** Briefing på T-kontoret, Stockholm
+- **Fredag 10 november, 09:00:** Genomgång på T-kontoret, Stockholm
 - **Fredag 10 november, eftermiddag:** Förberedelser i Stockholm
 - **Lördag 11 november, 18:30:** SAS-flyg avgår från Bromma till Köpenhamn
 - **Lördag 11 november, 19:45:** Ankomst Köpenhamn, byte av flygplan
@@ -61,7 +61,7 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 
 ## Upplägg
 
-### Prolog – Briefing på T-kontoret
+### Prolog – Genomgång på T-kontoret
 
 Äventyret börjar en regnig novembermorgon i Stockholm. Spelarna kallas till **T-kontorets högkvarter** på Sturegatan 58, Östermalm. De förs genom säkerhetskontrollen och upp till tredje våningen där **Doktor Lars Hedströms kontor** ligger.
 
@@ -73,7 +73,7 @@ Hedströms kontor är en blandning av akademisk röra och militär precision. Bo
 
 Hedström själv sitter bakom sitt skrivbord med en kopp kaffe och en halvrökt cigarett. Han ser tröttare ut än vanligt. När spelarna kommer in vinkar han till dem att sätta sig.
 
-#### Briefingen
+#### Genomgången
 
 *"Sitt. Kaffe finns där borta, men jag kan inte lova att det är drickbart."*
 
@@ -97,24 +97,24 @@ Hedström reser sig och går till fönstret.
 
 *"När ni träffar Richter på mottagningen, använd denna fras: 'Professor Lindqvist hälsar från Uppsala.' Det kommer att signalera att ni är från mig."*
 
-Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en detaljeradare briefing-fil.
+Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en detaljeradare instruktionsdokument.
 
 *"Ni flyger till Västberlin imorgon kväll. När ni är där, ta kontakt med **ambassadör S Hellén** och hans kontaktperson **Greta Holm**. De vet att ni kommer men inte varför. Håll dem i mörker så länge det går."*
 
 **Spelarna kan nu ställa frågor.** Hedström besvarar dem efter bästa förmåga men är medvetet vag om vissa detaljer – särskilt om sin egen historia med Richter.
 
-Se [[Uppdragsbriefing - Berlin|uppdragsbriefingen]] för den fullständiga skriftliga briefingen som spelarna får.
+Se [[Uppdragsbriefing - Berlin|uppdragsbriefingen]] för den fullständiga skriftliga instruktionen som spelarna får.
 
 ### Förberedelser i Stockholm
 
-Efter briefingen har spelarna resten av dagen och följande dag att förbereda sig innan de flyger. Beroende på vad de vill göra kan de:
+Efter genomgången har spelarna resten av dagen och följande dag att förbereda sig innan de flyger. Beroende på vad de vill göra kan de:
 
-- **Forska om Richter och Projekt Nebelkrone:** Spelarna måste först övertala arkivarien att få tillgång till de hemliga arkiven (*List + Samspel*). Om de lyckas kan de slå *Analys + Sinnen*. Varje framgång ger dem mer information om Nebelkrone's brutala metoder och Richters tidigare historia.
+- **Forska om Richter och Projekt Nebelkrone:** Spelarna måste först övertala arkivarien att få tillgång till de hemliga arkiven (*List + Samspel*). Om de lyckas kan de slå *Analys + Sinnen*. Varje framgång ger dem mer information om Nebelkrones brutala metoder och Richters tidigare historia.
   - *1 framgång:* Grundläggande information om Projekt Nebelkrone och Richters roll som ledare.
-  - *2 framgångar:* Detaljer om Nebelkrone's metoder: isolering, elektrochock, psykologisk nedbrytning. Överlevnadsgrad cirka 5%.
+  - *2 framgångar:* Detaljer om Nebelkrones metoder: isolering, elektrochock, psykologisk nedbrytning. Överlevnadsgrad cirka 5%.
   - *3+ framgångar:* Information om Richters koppling till Projekt Nigredo och Auschwitz. Kännedom om att flera ENS skapats men få är stabila.
-- **Skaffa utrustning:** De kan begära speialutrustning från T-kontoret. Rimliga förfrågningar (verktyg för att öppna lås, medicinskt material, kameror) godkänns. Vapen kan skickas via diplomatpost och föras över till Östberlin i diplomatbilen, men kan behöva döljas om spelarna ska in på ambassaden.
-- **Studera kartor över Berlin:** De kan få översikter över Västberlin, Östberlin och de kända delarna av muren. Ett slag för *Analys + Sinnen* ger dem en bra överblick över flyktrutter och checkpoints.
+- **Skaffa utrustning:** De kan begära specialutrustning från T-kontoret. Rimliga förfrågningar (verktyg för att öppna lås, medicinskt material, kameror) godkänns. Vapen kan skickas via diplomatpost och föras över till Östberlin i diplomatbilen, men kan behöva döljas om spelarna ska in på ambassaden.
+- **Studera kartor över Berlin:** De kan få översikter över Västberlin, Östberlin och de kända delarna av muren. Ett slag för *Analys + Sinnen* ger dem en bra överblick över flyktrutter och kontrollstationer.
   - *Exempel på information:* Checkpoint Charlie är mest bevakad men mest förutsägbar. Potsdamer Platz är mindre bevakat på natten. Vissa delar av muren är fortfarande ofärdiga.
 - **Kontakter:** Om någon spelare har kontakter inom underrättelsevärlden kan de försöka få ytterligare information.
 - **Spela ut trauman:** Om spelarna har relevanta trauman kan de göra en scen där de bearbetar dem i förberedelsens ljus.
@@ -125,7 +125,7 @@ Spelarna flyger med **SAS** från Bromma flygplats till Västberlin med mellanla
 
 På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartentorasse 18**, där den svenska ambassaden ligger.
 
-Västberlin känns som en ö av ljus mitt i ett mörker. Staden är livlig, neonljusen blinkar, och människor försöker leva sina liv trots den ständiga hotet från öst. Men allt är genomsyrat av en underliggande nervositet – soldater patrullerar, checkpoints övervakas, och muren skär genom staden som ett ärr.
+Västberlin känns som en ö av ljus mitt i ett mörker. Staden är livlig, neonljusen blinkar, och människor försöker leva sina liv trots den ständiga hotet från öst. Men allt är genomsyrat av en underliggande nervositet – soldater patrullerar, kontrollstationer övervakas, och muren skär genom staden som ett ärr.
 
 ### Svenska ambassaden i Västberlin
 
@@ -151,7 +151,7 @@ Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk informa
 
 *"Ambassadör Hellén är en bra man, men han tänker för mycket på protokoll. Ni och jag vet båda att detta inte är ett vanligt diplomatiskt besök. Jag har arrangerat en bil och förare för er – **Martin**, en lokal föraere som är diskret och pålitlig. Han vet hur man navigerar i Berlin, både öst och väst."*
 
-*"Den schweiziska ambassaden ligger i Östberlin, vid Unter Den Linden. Ni kommer att åka genom **Checkpoint Charlie** med era diplomatpass. Det borde gå smidigt, men räkna med att bli övervakade från det ögonblick nipasserar."*
+*"Den schweiziska ambassaden ligger i Östberlin, vid Unter Den Linden. Ni kommer att åka genom **Checkpoint Charlie** med era diplomatpass. Det borde gå smidigt, men räkna med att bli övervakade från det ögonblick ni passerar."*
 
 *"Om något går fel, kom tillbaka till Checkpoint Charlie. Vi kan inte göra mycket om ni grips djupt inne i Östberlin, men vid gränsen har vi en chans att förhandla."*
 
@@ -193,7 +193,7 @@ Ett slag för *Sinnen + Analys* ger spelarna en bra översikt över potentiella 
 
 #### Samla information
 
-Spelarna kan försöka samla information om Richter, Stasi, eller CIA's närvaro i Berlin. De kan besöka barer där underrättelsefolk samlas, prata med kontakter, eller helt enkelt lyssna på rykten.
+Spelarna kan försöka samla information om Richter, Stasi, eller CIA:s närvaro i Berlin. De kan besöka barer där underrättelsefolk samlas, prata med kontakter, eller helt enkelt lyssna på rykten.
 
 Ett slag för *Samspel + Sinnen* ger dem användbar information. Fler:framgångar ger viktigare information. De kan höra om:
 
@@ -244,7 +244,7 @@ Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare so
 
 **Fräulein Ingrid Schumann:** Östtysk operasångerska, bjuden för att ge mottagningen kulturell glans. Hon är charmig och pratar gärna med främlingar. Hon är omedveten om politiska intriger.
 
-**Monsieur Jean-Pierre Leclerc:** Fransk diplomat, cynisk och road av Berlin's intrigspel. Han misstänker något men blandar sig inte i.
+**Monsieur Jean-Pierre Leclerc:** Fransk diplomat, cynisk och road av Berlins intrigspel. Han misstänker något men blandar sig inte i.
 
 **Agent Richard "Dick" Donnelly (CIA):** Presenterar sig som "kulturattaché vid amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter och kommer också att närma sig rollpersonerna.
 
@@ -276,13 +276,13 @@ Spelarna kan försöka distrahera Brenner (*Samspel + List*, **Svårt**), eller 
 
 Om Brenner blir alltför misstänksam kommer han att kalla på förstärkning – fler Stasi-agenter som blockerar utgångarna.
 
-#### CIA's erbjudande
+#### CIA:s erbjudande
 
-**Agent :ichard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han känner inte till vem de är eller vad de gör där – CIA vet om avhoppet genom signalspaning men Donnelly har inte fått den informationen.
+**Agent Richard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han känner inte till vem de är eller vad de gör där – CIA vet om avhoppet genom signalspaning men Donnelly har inte fått den informationen.
 
 *"Hej där. Jag tror vi har liknande intressen ikväll. Doktor Richter, eller hur?"*
 
-Donnelly erbjuder spelarna en affär: CIA kan hjälpa dem få ut Richter säkrare och snabbare – de kontrollerar **Checkpoint Charlie** och kan "se åt andra hållet" vid rätt tidpunkt. I utbyte vill CIA få tillgång till Richter's forskning och en månad med honom innan han lämnas till Sverige.
+Donnelly erbjuder spelarna en affär: CIA kan hjälpa dem få ut Richter säkrare och snabbare – de kontrollerar **Checkpoint Charlie** och kan "se åt andra hållet" vid rätt tidpunkt. I utbyte vill CIA få tillgång till Richters forskning och en månad med honom innan han lämnas till Sverige.
 
 *"Vi kan göra detta enkelt. Eller så kan vi konkurrera. Ert val."*
 
@@ -290,7 +290,7 @@ Donnelly verkar rimlig men är i hemlighet planerar att kidnappa Richter helt oc
 
 Spelarna kan försöka läsa hans avsikter (*List + Samspel*, Svårt). Om de lyckas anar de att något inte stämmer.
 
-#### KGB's närvaro
+#### KGB:s närvaro
 
 **Kapten Lyudmila Sokolova (KGB)** och två **Zvezda-agenter** – **Morana** och **Svarog** – är också närvarande, förklädd som östtyska tjänstemän. KGB vet att Richter planerar att hoppa av tack vare en läcka inom T-kontoret (vilket spelarna inte vet).
 
@@ -298,7 +298,7 @@ KGB planerar att gripa Richter innan han kan fly. De väntar bara på rätt till
 
 Om spelarna är uppmärksamma kan de märka att vissa gäster beter sig konstigt – de cirkulerar nära utgångarna, talar tyst i radio, och observerar Richter.
 
-Ett slag för *Samspel + Sinnen* (**Svårt**) avslöjar KGB's närvaro.
+Ett slag för *Samspel + Sinnen* (**Svårt**) avslöjar KGB:s närvaro.
 
 #### Elisabeth Richter är sjuk hemma
 
@@ -308,7 +308,7 @@ Om spelarna går med på detta komplicerar det operationen enormt – de måste 
 
 Richter vägrar lämna utan Elisabeth. Om spelarna försöker övertala honom (*Samspel + Vilja*, **Mycket Svårt**) kan de få honom att åtminstone gå till bilen först och vänta där medan de hämtar Elisabeth.
 
-#### Yaakov Dayan's ingripande
+#### Yaakov Dayans ingripande
 
 **Yaakov Dayan (Mossad)** arbetar förklädd som servitör på mottagningen. Han har väntat på detta ögonblick i åratal – chansen att döda Hans Richter.
 
@@ -358,7 +358,7 @@ Efter utbrottet från ambassaden måste spelarna spåra Golem. Beroende på omst
 #### Spåra Golem
 
 - **Ögonvittnen:** Folk på gatan såg ett "monster" springa förbi. Ett slag för *Samspel + Sinnen* (**Svårt**) ger riktning.
-- **Radiotrafik:** Om spelarna har tillgång till radiomottagare kan de avlyssna Volkspolizei och Stasi's kommunikation. Golem's rörelser orsakar rapporter.
+- **Radiotrafik:** Om spelarna har tillgång till radiomottagare kan de avlyssna Volkspolizei och Stasis kommunikation. Golems rörelser orsakar rapporter.
 - **Följa förstörelsen:** Golem lämnar spår – krossade dörrar, skadade fordon, skrämda människor.
 
 #### Potentiella destinationer
@@ -426,7 +426,7 @@ Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) m�
 **Nyckelpersoner på platsen:**
 
 - **Dr. Marlene Vogel:** Östtysk läkare som försöker "moralisera" programmet. Hon hatar Richter men är tvungen att arbeta för honom. Hon kan bli en oväntad allierad om spelarna kan övertyga henne.
-- **Generalmajor Klaus Adler (Stasi):** Nebelkrone's operativa överordnade. Hård kommunist som hatar Richter men inser hans värde. Om Richter flyr hit kommer Adler att säkra honom och förbereda transport till Moskva.
+- **Generalmajor Klaus Adler (Stasi):** Nebelkrones operativa överordnade. Hård kommunist som hatar Richter men inser hans värde. Om Richter flyr hit kommer Adler att säkra honom och förbereda transport till Moskva.
 
 ### Haus an Den Birken – det övergivna huset
 
@@ -474,9 +474,9 @@ Behandla detta som en **kapplöpning** (se [[Aktiviteter]]). Spelarna försöker
 
 Om jakten blir för intensiv kan Martin krascha bilen, vilket tvingar spelarna att fortsätta till fots eller hitta ett annat fordon.
 
-#### Checkpoints och blockeringar
+#### Kontrollstationer och blockeringar
 
-Stasi kommer att radioinstruera checkpoints att stänga. **Checkpoint Charlie** kan vara blockerat när spelarna kommer dit.
+Stasi kommer att per radio instruera kontrollstationerna att stänga. **Checkpoint Charlie** kan vara blockerat när spelarna kommer dit.
 
 Spelarna kan:
 
@@ -581,7 +581,7 @@ En läcka inom T-kontoret (en sekretare med ekonomiska problem som KGB mutat) ga
 
 **Varför de vet det de vet:**
 
-CIA's signalspaning avlyssnade kommunikationer mellan Stockholm och Västberlin. De tolkade kodade meddelanden och drog slutsatser.
+CIA:s signalspaning avlyssnade kommunikationer mellan Stockholm och Västberlin. De tolkade kodade meddelanden och drog slutsatser.
 
 #### Mossad
 
@@ -594,7 +594,7 @@ CIA's signalspaning avlyssnade kommunikationer mellan Stockholm och Västberlin.
 **Vad han inte vet:**
 
 - Att Richter vill hoppa av till Sverige.
-- KGB och CIA's inblandning.
+- KGB och CIA:s inblandning.
 - Att hans bror faktiskt lever och är Golem
 
 **Varför han vet det han vet:**
@@ -641,7 +641,7 @@ Om spelarna lyckas få med sig Richter (och eventuellt Elisabeth och Golem) mås
 
 - **Diplomatisk flykt:** Om de inte väckt för mycket uppmärksamhet kan de använda sina diplomatpass och gå genom Checkpoint Charlie.
 - **Smyga över muren:** Om de är efterlysta måste de ta en av de farliga rutterna över muren.
-- **CIA's hjälp:** Om de tidigare förhandlade med Donnelly kan de försöka kontakta honom – men han kommer att försöka kidnappa Richter.
+- **CIA:s hjälp:** Om de tidigare förhandlade med Donnelly kan de försöka kontakta honom – men han kommer att försöka kidnappa Richter.
 
 Om de l:ckas ta sig till Västberlin är de säkra – men konsekvenserna av deras val kommer att förfölja dem.
 
@@ -754,7 +754,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 - **KP:** 5, **Stabilitet:** 2
 - **Expertis:** Läkare, Vetenskapsman, Byråkrat
 
-Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och briefingen.
+Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och genomgången.
 
 ### Fraktioner och motspelare
 
@@ -795,7 +795,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren. Vogel är lojal mot r
 
 Charmig men hänsynslös fältagent i trettifemårsåldern. Donnelly presenterar sig som kulturattaché men är uppenbart mer. Han är självsäker, pratar flera språk och har kontakter överallt.
 
-CIA är genom läckor i T-kontoret (som de opåstår är "signalspaning") medvetna om att Richter vill hoppa av till Sverige. De vill utnyttja det faktum att de kontrollerar Checkpoint Charlie för att snuva Sverige på Richter och plocka honom till deras eget projekt.
+CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetna om att Richter vill hoppa av till Sverige. De vill utnyttja det faktum att de kontrollerar Checkpoint Charlie för att snuva Sverige på Richter och plocka honom till deras eget projekt.
 
 **Motivation:** Ta Richter till USA. Snuva både Sverige och Sovjet på hans kunskap. Avancera sin egen karriär.
 
