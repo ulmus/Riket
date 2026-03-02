@@ -54,15 +54,15 @@ Varje Expertis listar nedan exempel på aktiviteter som kan utföras med automat
 
 ## Förfalskare
 
-- **Bonus på aktiviteter:** Analys + Smidighet för förfalskningar (pass, stämplar, patina).
-- **Kräver expertisen:** Förfalska identitetshandlingar som klarar detaljkontroller (Analys + Smidighet).
+- **Bonus på aktiviteter:** Analys + List för förfalskningar (pass, stämplar, patina).
+- **Kräver expertisen:** Förfalska identitetshandlingar som klarar detaljkontroller (Analys + List).
 - **Förmågor som kräver expertisen:** [[Förmågor#Mästerverk]], [[Förmågor#Perfekt patina]].
 - **Automatisk framgång:** Identifiera äkta dokument från uppenbara förfalskningar, kopiera enkla stämplar, åldra papper på ett trovärdigt sätt, avgöra vilka säkerhetsdetaljer ett dokument har.
 
 ## Låssmed
 
-- **Bonus på aktiviteter:** Analys + Smidighet för att dyrka eller bypassa lås och enkla larm.
-- **Kräver expertisen:** Dyrka säkerhetsklassade lås (Analys + Smidighet), tyst öppning under tidspress.
+- **Bonus på aktiviteter:** List + Smidighet för att dyrka eller bypassa lås och enkla larm.
+- **Kräver expertisen:** Dyrka säkerhetsklassade lås (List + Smidighet), tyst öppning under tidspress.
 - **Förmågor som kräver expertisen:** [[Förmågor#Andra försöket]], [[Förmågor#Snabba fingrar]].
 - **Automatisk framgång:** Dyrka enkla hänglås, bedöma lås och identifiera typ, tillverka enkel nyckelkopia med avtryck, avgöra om ett lås har manipulerats.
 

@@ -20,7 +20,7 @@ Oftast kan bara ett begränsat antal karaktärer hjälpa till i praktiken. SL av
 
 Våra hjältar försöker dyrka upp en sidodörr till en fabrik i Dresden.
 
-- **Huvudaktören** slår för **Analys + Smidighet** för att dyrka låset.
+- **Huvudaktören** slår för **List + Smidighet** för att dyrka låset.
 - **Biaktör A** kan hjälpa genom att hålla utkik (**Sinnen + Smidighet**).
 - **Biaktör B** kan hjälpa genom att småprata med förbipasserande för att dra bort uppmärksamhet (**List + Samspel**).
 - Biaktörerna slår först. Varje framgång ger +1 tärning till huvudaktören. Huvudaktören rullar sedan ett slag: lyckas → dörren öppnas diskret; misslyckas → låset sitter fast eller ett misstänkt ljud väcker uppmärksamhet.
@@ -117,13 +117,13 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 | Aktivitet                | Beskrivning/kommentar                       | Egenskap + Egenskap   |
 | ------------------------ | ------------------------------------------- | --------------------- |
 | Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Smidighet + Smidighet |
-| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | Analys + Smidighet    |
+| Dyrka lås                | Klassisk pickning eller “bypass”-teknik     | List + Smidighet      |
 | Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Analys + Sinnen       |
 | Koppla förbi larm        | Koppla förbi krets, tillfällig “shunt”      | Analys + Smidighet    |
 | Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel        |
-| Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | Analys + Smidighet    |
+| Tjuvkoppla fordon        | Starta bil utan nyckel tyst                 | List + Smidighet      |
 | Klättra fasad            | Rep, handskar, fönsterbräde                 | Fysik + Smidighet     |
-| Plantera bugg            | Diskret placering/dragning av kabel         | Analys + Smidighet    |
+| Plantera bugg            | Diskret placering/dragning av kabel         | List + Smidighet      |
 
 ## Social påverkan & förhör
 
@@ -175,12 +175,12 @@ Att skapa eller förstöra: sprängmedel, elektronik, finmekanik och improvisati
 | Aktivitet              | Beskrivning/kommentar               | Egenskap + Egenskap |
 | ---------------------- | ----------------------------------- | ------------------- |
 | Ladda sprängämne       | Val av laddning, riktning, säkring  | Analys + Analys     |
-| Spränga diskret        | Tidsinställning, dämpa signatur     | Analys + Smidighet  |
+| Spränga diskret        | Tidsinställning, dämpa signatur     | Analys + List       |
 | Bryta enkel kryptering | Kodbok, frekvensanalys              | Analys + Analys     |
 | Bygga/rigga radio      | Antenn, jordning, störningar        | Analys + Smidighet  |
 | Telefonavlyssning      | Krimpa, parallellkoppla, dölja spår | Analys + Smidighet  |
 | Fotolabb i fält        | Framkalla, förstora, beviskedja     | Analys + Smidighet  |
-| Verktygsimprovisation  | MacGyver-lösning av reservdel       | Analys + Smidighet  |
+| Verktygsimprovisation  | MacGyver-lösning av reservdel       | Analys + List       |
 
 ## Vård, överlevnad & logistik
 
@@ -193,7 +193,7 @@ Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fäl
 | Kirurgi                 | Operativa ingrepp                          | Analys + Smidighet  |
 | Lägga förband under eld | Under press, med begränsade resurser       | Analys + Smidighet  |
 | Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Smidighet   |
-| Fältläger & vindskydd   | Eld, skydd, vatten                         | Analys + Smidighet  |
+| Fältläger & vindskydd   | Eld, skydd, vatten                         | Fysik + Analys      |
 | Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen     |
 | Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + Analys     |
 | Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Sinnen      |
@@ -217,9 +217,9 @@ Att skicka/ta emot information under begränsningar: radio, morse, koder och dok
 
 | Aktivitet          | Beskrivning/kommentar           | Egenskap + Egenskap |
 | ------------------ | ------------------------------- | ------------------- |
-| Sända morse rent   | Tempo, rytm, minsta fel         | Analys + Smidighet  |
+| Sända morse rent   | Tempo, rytm, minsta fel         | Analys + Sinnen     |
 | Läsa morse i brus  | Filtrera signal ur störningar   | Sinnen + Vilja      |
 | Kodboksarbete      | Upprätta/underhålla kodsystem   | Analys + Analys     |
-| Säkra kanal        | Val av frekvens, antenn, effekt | Analys + Smidighet  |
-| Förfalska dokument | Stämplar, typsnitt, patina      | Analys + Smidighet  |
-| Säkra "dead drop"  | Diskret placering/återtag       | Smidighet + Sinnen  |
+| Säkra kanal        | Val av frekvens, antenn, effekt | Analys + Sinnen     |
+| Förfalska dokument | Stämplar, typsnitt, patina      | Analys + List       |
+| Säkra "dead drop"  | Diskret placering/återtag       | List + Smidighet    |
