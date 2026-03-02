@@ -5,7 +5,8 @@
       "WebFetch(domain:foundryvtt.com)",
       "WebFetch(domain:foundryvtt.wiki)",
       "WebFetch(domain:github.com)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(xxd:*)"
     ]
   }
 }

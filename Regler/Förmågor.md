@@ -54,11 +54,10 @@ När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom
 ## Automatsalva  
 
 *Krav:* Fysik 2, Strid 2, vapen med egenskapen *automateld*
-Du kan skjuta en lång salva med bibehållen precision
+Du är tränad i att kontrollera automateld med precision.
 
-- **Huvudhandling:** Gör en avståndsattack med *Fysik + Strid*. För varje framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
-- Varje träff ger vapnets grundskada men ett lägre i skala (det vill säga en mindre skadetärning).
-- Kostar 1 magasin.
+- Du kan använda **Fysik + Strid** istället för Smidighet + Strid vid automateld.
+- **Kort salva:** Ger **+3 skadetärningar** istället för +2.
 
 ## Täckande eld  
 

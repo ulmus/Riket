@@ -123,13 +123,13 @@ Se kapitlet för [[Trauma och stress]]
 ## Karaktärsskapande
 
 - 1 Egenskap till 4 (superegenskap)
-- 12 poäng till övriga egenskaper (1–3 vardera)
-- Välj 1 superförmåga och 1 världslig förmåga.
+- 13 poäng till övriga egenskaper (1–3 vardera)
+- Välj 3 superförmågor och 2 vanliga förmågor.
 
 Se kapitlet för [[Skapa och utveckla en rollperson]].
 
 ## Förmågor
 
-Våra hjältar har flera förmågor, dels sådana som kommer från deras krafter och dels förmågor som de fått via sin träning. Varje karaktär börjar med två superförmågor och två vanliga förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Expertis eller att karaktären har vissa andra förmågor sedan tidigare.
+Våra hjältar har flera förmågor, dels sådana som kommer från deras krafter och dels förmågor som de fått via sin träning. Varje karaktär börjar med tre superförmågor och två vanliga förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Expertis eller att karaktären har vissa andra förmågor sedan tidigare.
 
 Se kapitlet för [[Förmågor]]
