@@ -35,7 +35,13 @@ Som spelare skapar du en hemlig agent med unika krafter och ett trasigt förflut
 - **Personliga konflikter:** Dina krafter kommer från trauma. Att använda dem innebär att konfrontera det du helst vill glömma.
 - **Teamwork:** Frigg-avdelningen är en liten grupp. Ni är beroende av varandra – och ibland är det enda som håller er samman uppdraget.
 
-Välkommen till skuggorna. Svea Rike behöver dig.
+## Känsliga ämnen
+
+**I Rikets Tjänst** berör ämnen som kan vara känsliga, det förekommer beskrivningar av systematiska övergrepp hos karaktärerna och andra, samt hänvisningar till bland annat Förintelsen. Att agera ut karaktärernas inneboende trauma är en integrerad del av systemet, liksom hantering av stress och panik. För de spelgrupper som är obekväma med eller osäkra kring dessa teman rekommenderas att man använder någon typ av systematisk överenskommelse kring spelbordet om vilka ämnen som är ok och vilka som bör undvikas. 
+
+Exempel på system som kan underlätta är [TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj),
+
+Med det sagt, välkommen till skuggorna. Svea Rike behöver dig.
 
 # Läs vidare
 
