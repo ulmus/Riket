@@ -7,7 +7,7 @@ För att skapa en rollperson i I Rikets Tjänst följer du dessa steg:
     - **Skuld:** Du orsakade något fruktansvärt.
     - **Svek:** Någon du litade på förrådde dig.
     - **Skam:** Du avslöjades eller förödmjukades.
-3. **Tilldela egenskaper:** Fördela poäng till dina rollpersons egenskaper. Du har 17 poäng att fördela på åtta egenskaper där varje egenskap måste ha minst 1 poäng och högst 3 poäng. En egenskap kan väljas som en "superegenskap" och tilldelas 4 poäng.
+3. **Tilldela egenskaper:** Fördela poäng till dina rollpersons egenskaper. Du har 21 poäng att fördela på åtta egenskaper där varje egenskap måste ha minst 1 poäng och högst 4 poäng. En egenskap kan väljas som en "superegenskap" och tilldelas 5 poäng.
     - Analys
     - Fysik
     - List
@@ -30,7 +30,7 @@ Varje session som din rollperson deltar i tjänare den en (1) Erfarenhetspoäng 
 
 EP kan användas för att förbättra din rollperson på följande sätt:
 
-- **Öka en egenskap:** Kostar 5 EP för att öka en egenskap med 1 poäng (max 4 poäng per egenskap).
+- **Öka en egenskap:** Kostar 5 EP för att öka en egenskap med 1 poäng (max 5 poäng per egenskap).
 - **Lära en ny förmåga:** Kostar 2 EP för att lära sig en ny förmåga.
 - **Få en ny expertis:** Kostar 7 EP för att lägga till en ny expertis och dess förmågor.
 

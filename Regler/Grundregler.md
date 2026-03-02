@@ -27,7 +27,7 @@ En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa represen
 - **Strid** – Vapenteknik, våld, taktik.
 - **Vilja** – Mod, stresstålighet, övertygelse.
 
-Varje karaktär börjar med 17 poäng att fördela med minst 1 och högst 3 på en egenskap samt en egenskap som de får sätta 4 på.
+Varje karaktär börjar med 21 poäng att fördela med minst 1 och högst 4 på en egenskap samt en egenskap som de får sätta 5 på.
 
 ## Expertis
 
@@ -122,8 +122,8 @@ Se kapitlet för [[Trauma och stress]]
 
 ## Karaktärsskapande
 
-- 1 Egenskap till 4 (superegenskap)
-- 13 poäng till övriga egenskaper (1–3 vardera)
+- 1 Egenskap till 5 (superegenskap)
+- 16 poäng till övriga egenskaper (1–4 vardera)
 - Välj 3 superförmågor och 2 vanliga förmågor.
 
 Se kapitlet för [[Skapa och utveckla en rollperson]].

@@ -1,14 +1,14 @@
 
 | Egenskap  |     | Sekundärt    |         |
 | :-------- | --: | :----------- | :------ |
-| Analys    |   1 | KP           | 7       |
-| Fysik     |   4 | Sårad        | > 4 KP  |
-| List      |   1 | Medvetslös   | > 7 KP  |
-| Samspel   |   2 | Döende       | > 14 KP |
-| Sinnen    |   1 | Förflyttning | 6 m     |
-| Smidighet |   2 | Stabilitet   | 2       |
-| Strid     |   3 | Stress       | ❏❏❏❏❏❏  |
-| Vilja     |   3 | Språk        | 1       |
+| Analys    |   1 | KP           | 9       |
+| Fysik     |   5 | Sårad        | > 5 KP  |
+| List      |   1 | Medvetslös   | > 9 KP  |
+| Samspel   |   3 | Döende       | > 18 KP |
+| Sinnen    |   1 | Förflyttning | 7 m     |
+| Smidighet |   2 | Stabilitet   | 3       |
+| Strid     |   4 | Stress       | ❏❏❏❏❏❏  |
+| Vilja     |   4 | Språk        | 1       |
 
 **Expertis:** Officer
 

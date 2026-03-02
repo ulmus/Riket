@@ -849,8 +849,8 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 **Egenskaper:**
 
-- Vilja 4, Sinnen 3, Strid 2, Analys 2, Fysik 2, List 1, Samspel 1, Smidighet 2
-- **KP:** 6, **Stabilitet:** 1
+- Vilja 5, Sinnen 3, Strid 2, Analys 2, Fysik 2, List 1, Samspel 1, Smidighet 2
+- **KP:** 7, **Stabilitet:** 1
 - **Expertis:** Zvezda-agent
 - **Trauma:** Rädsla för osynlighet och utplåning
 
@@ -881,8 +881,8 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, mus
 
 **Egenskaper:**
 
-- Fysik 4, Strid 4, Vilja 3, Analys 2, Sinnen 2, Smidighet 2, List 1, Samspel 1
-- **KP:** 9, **Stabilitet:** 2
+- Fysik 5, Strid 4, Vilja 3, Analys 2, Sinnen 2, Smidighet 2, List 1, Samspel 1
+- **KP:** 10, **Stabilitet:** 2
 - **Expertis:** Soldat, Zvezda-agent
 - **Förmågor:** Närstrid, Uthållighet
 - **Trauma:** Kontrollerad ilska och destruktivitet

@@ -1,14 +1,14 @@
 
 | Egenskap  |     | Sekundärt    |        |
 | :-------- | --: | :----------- | :----- |
-| Analys    |   2 | KP           | 4      |
+| Analys    |   2 | KP           | 5      |
 | Fysik     |   1 | Sårad        | > 1 KP |
-| List      |   2 | Medvetslös   | > 4 KP |
-| Samspel   |   4 | Döende       | > 8 KP |
-| Sinnen    |   2 | Förflyttning | 3 m    |
-| Smidighet |   2 | Stabilitet   | 2      |
+| List      |   3 | Medvetslös   | > 5 KP |
+| Samspel   |   5 | Döende       | > 10 KP |
+| Sinnen    |   3 | Förflyttning | 3 m    |
+| Smidighet |   2 | Stabilitet   | 3      |
 | Strid     |   1 | Stress       | ❏❏❏❏❏❏ |
-| Vilja     |   3 | Språk        | 2      |
+| Vilja     |   4 | Språk        | 2      |
 
 **Expertis:** Maskör
 

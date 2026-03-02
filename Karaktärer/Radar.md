@@ -1,14 +1,14 @@
 
 | Egenskap  |     | Sekundärt    |        |
 | :-------- | --: | :----------- | :----- |
-| Analys    |   4 | KP           | 4      |
+| Analys    |   5 | KP           | 5      |
 | Fysik     |   2 | Sårad        | > 2 KP |
-| List      |   1 | Medvetslös   | > 4 KP |
-| Samspel   |   1 | Döende       | > 8 KP |
-| Sinnen    |   3 | Förflyttning | 4 m    |
+| List      |   1 | Medvetslös   | > 5 KP |
+| Samspel   |   1 | Döende       | > 10 KP |
+| Sinnen    |   4 | Förflyttning | 4 m    |
 | Smidighet |   2 | Stabilitet   | 2      |
-| Strid     |   2 | Stress       | ❏❏❏❏❏❏ |
-| Vilja     |   2 | Språk        | 4      |
+| Strid     |   3 | Stress       | ❏❏❏❏❏❏ |
+| Vilja     |   3 | Språk        | 5      |
 
 **Expertis:** Radiotekniker
 

@@ -1,13 +1,13 @@
 | Egenskap      |     | Sekundärt    |        |
 | :------------ | --: | :----------- | :----- |
-| Analys    |   1 | KP           | 3      |
+| Analys    |   1 | KP           | 4      |
 | Fysik     |   1 | Sårad        | > 1 KP |
-| List      |   3 | Medvetslös   | > 3 KP |
-| Samspel   |   2 | Döende       | > 6 KP |
-| Sinnen    |   2 | Förflyttning | 5 m    |
-| Smidighet |   4 | Stabilitet   | 2      |
+| List      |   4 | Medvetslös   | > 4 KP |
+| Samspel   |   2 | Döende       | > 8 KP |
+| Sinnen    |   3 | Förflyttning | 6 m    |
+| Smidighet |   5 | Stabilitet   | 2      |
 | Strid     |   2 | Stress       | ❏❏❏❏❏❏ |
-| Vilja     |   2 | Språk        | 1      |
+| Vilja     |   3 | Språk        | 1      |
 
 **Expertis:** Låssmed
 
