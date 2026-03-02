@@ -18,7 +18,7 @@ Behandling kräver en **huvudhandling** för första försöket. Nästa försök
 
 | Åtgärd             | Vårdtyp   | Effekt                                       |
 | ------------------ | --------- | -------------------------------------------- |
-| Stoppa blödning    | Medicin   | Ta bort en nivå blödning per framgång        |
+| Stoppa blödning    | Kirurgi   | Minska blödning ett steg per framgång        |
 | Stabilisera döende | Medicin   | Patienten behöver inte slå överlevnadsslag   |
 | Ge motgift         | Medicin   | Stoppar gifteffekter (kräver rätt motgift)   |
 | Lugna patient      | Psykologi | Ta bort 1 Stress per framgång                |

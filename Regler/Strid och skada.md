@@ -160,21 +160,16 @@ En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
 
 ## Blödning
 
-Vissa kritiska träffar orsakar **blödning**. Blödning är kumulativ – du kan ha flera nivåer av både lätt och kraftig blödning samtidigt.
-
-### Blödningstyper
+Vissa kritiska träffar orsakar **blödning**. Det finns två blödningstillstånd — bara det högsta gäller:
 
 | Typ                  | Frekvens                | Skadetärningar |
 | -------------------- | ----------------------- | -------------- |
-| **Lätt blödning**    | I början av varje minut | 1T12 per nivå  |
-| **Kraftig blödning** | I början av varje runda | 1T12 per nivå  |
+| **Lätt blödning**    | I början av varje minut | 1T12           |
+| **Kraftig blödning** | I början av varje runda | 1T12           |
 
-### Kumulativ blödning
-
-- Varje gång du får blödning, lägg till nivåerna till din nuvarande blödning.
-- Om du har **10 eller fler nivåer lätt blödning**, ersätts 10 nivåer lätt blödning med **1 nivå kraftig blödning**.
-- *Exempel: Du har 4 nivåer lätt blödning och får ytterligare 3 nivåer → du har nu 7 nivåer lätt blödning.*
-- *Exempel: Du har 8 nivåer lätt blödning och får 4 nivåer till → 12 nivåer blir 1 nivå kraftig + 2 nivåer lätt.*
+- Blödning staplas inte — bara det högsta tillståndet gäller.
+- Om du redan har Lätt blödning och får Lätt blödning igen händer inget.
+- Om du har Lätt blödning och får Kraftig blödning uppgraderas din blödning till Kraftig.
 
 ### Blödningsskada
 
@@ -185,7 +180,12 @@ Blödningsskada fungerar som vanliga skadetärningar:
 
 ### Stoppa blödning
 
-Blödning stoppas genom behandling (se [[Läkning & vård]]). Lyckad behandling stoppar **alla** nivåer av blödning från en specifik skada.
+Blödning stoppas med **Kirurgi** (Analys + Smidighet). Varje framgång minskar blödningen ett steg:
+
+- 1 framgång: Kraftig → Lätt, eller Lätt → ingen blödning.
+- 2 framgångar: Kraftig → ingen blödning.
+
+Se [[Läkning & vård]] för mer information.
 
 ## Sammanfattning
 

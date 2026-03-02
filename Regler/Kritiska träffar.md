@@ -1,5 +1,3 @@
-# Kritiska träffar
-
 När en skadetärning visar **12** inträffar en **kritisk träff**. Slå 1T12 och lägg till modifikatorer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
 
 **Modifikatorer till slaget:**
@@ -16,8 +14,8 @@ Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att u
 
 | Vårdtyp       | Slag               | Används för                                         |
 | ------------- | ------------------ | --------------------------------------------------- |
-| **Medicin**   | Analys + Sinnen    | Blödning, stabilisering, gift, yrsel, feber         |
-| **Kirurgi**   | Analys + Smidighet | Brutna ben, djupa sår, inbäddade kulor, organskador |
+| **Medicin**   | Analys + Sinnen    | Stabilisering, gift, yrsel, feber                             |
+| **Kirurgi**   | Analys + Smidighet | Blödning, brutna ben, djupa sår, inbäddade kulor, organskador |
 | **Psykologi** | Analys + Samspel   | Stress, hallucinationer, chock                      |
 
 **Svårighet:** Grundsvårighet är 0 om inget annat anges. Effekter kan ange högre svårighet, t.ex. "(Kirurgi, Svårt)".
@@ -53,45 +51,45 @@ Trubbiga slag, fall, explosiva tryckvågor. *Behandlas med Kirurgi (brutna ben) 
 
 ## Stick
 
-Knivar, spjut, pilar – vapen som penetrerar djupt. *Behandlas med Medicin (blödning) eller Kirurgi (djupa sår, **Svårt** för organskador).*
+Knivar, spjut, pilar – vapen som penetrerar djupt. *Behandlas med Kirurgi (blödning, djupa sår; **Svårt** för organskador).*
 
 | T12 | Effekt                                                                                                                                                                                                           |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Ytlig rispa.** Smärtsamt. Ta **1 Stress**.                                                                                                                                                                     |
 | 2   | **Skärsår.** Smärtsamt. Smidighet-slag är minst **Svåra** tills behandlad.                                                                                                                                      |
-| 3   | **Genomstucken lårmuskel.** Halverad förflyttning och ta 1 Stress varje gång du förflyttar dig. Båda effekter gäller tills behandlad (Medicin). **Lätt blödning (1 nivå)**                                       |
-| 4   | **Genomstucken hand.** Slå 1T12, 1-6 vänster, 7-12 höger hand. Alla slag som görs med handen är minst **Svåra** och **Lätt Blödning (1 nivå)** tills behandlad (Medicin).                                      |
-| 5   | **Djupt sticksår.** **Kraftig blödning (1 nivå)** tills behandlad (Medicin). Ta **1 Stress**.                                                                                                                    |
-| 6   | **Genomstucken hand/fot.** Slå 1T12, 1-3 vänster fot, 4-6 höger fot, 7-9 vänster hand, 10-12 höger hand. Kroppsdelen är obrukbar tills behandlad (Medicin). **Lätt blödning (1 nivå)**.                          |
-| 7   | **Stucken i armen.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning (1 nivå)**. Behandlas med Kirurgi (**Svårt**). **Läketid:** 1T12 veckor.                                       |
-| 8   | **Genomstucken axel.** Slå 1T12: 1-6 vänster, 7-12 höger axel. **Kraftig blödning (2 nivåer)**. Alla slag är minst **Svåra**. Behandlas med Kirurgi (**Svårt**). **Läketid:** 1T12 veckor.                   |
-| 9   | **Perforerad lunga.** Du kippar efter luft. Endast en bihandling per runda tills behandlad (Kirurgi, **Svårt**). **Kraftig blödning (1 nivå)**.                                                               |
-| 10  | **Njurträff.** Extremt smärtsamt. Ta **2 Stress**. **Kraftig blödning (2 nivåer)**. Behandlas med Kirurgi (**Svårt**).                                                                                        |
-| 11  | **Stucken i magen.** **Kraftig blödning (2 nivåer)**. Fysik-slag är minst **Svåra**. **Döende:** Överlevnadsslag per timme om obehandlad. Behandlas med Kirurgi (**Svårt**).                                 |
-| 12  | **Artärblödning.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda tills blödningen stoppas (Medicin).                                                                                    |
+| 3   | **Genomstucken lårmuskel.** Halverad förflyttning och ta 1 Stress varje gång du förflyttar dig. Båda effekter gäller tills behandlad (Medicin). **Lätt blödning**                                       |
+| 4   | **Genomstucken hand.** Slå 1T12, 1-6 vänster, 7-12 höger hand. Alla slag som görs med handen är minst **Svåra** och **Lätt blödning** tills behandlad (Medicin).                                      |
+| 5   | **Djupt sticksår.** **Kraftig blödning** tills behandlad (Kirurgi). Ta **1 Stress**.                                                                                                                    |
+| 6   | **Genomstucken hand/fot.** Slå 1T12, 1-3 vänster fot, 4-6 höger fot, 7-9 vänster hand, 10-12 höger hand. Kroppsdelen är obrukbar tills behandlad (Medicin). **Lätt blödning**.                          |
+| 7   | **Stucken i armen.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning**. Behandlas med Kirurgi (**Svårt**). **Läketid:** 1T12 veckor.                                       |
+| 8   | **Genomstucken axel.** Slå 1T12: 1-6 vänster, 7-12 höger axel. **Kraftig blödning**. Alla slag är minst **Svåra**. Behandlas med Kirurgi (**Svårt**). **Läketid:** 1T12 veckor.                   |
+| 9   | **Perforerad lunga.** Du kippar efter luft. Endast en bihandling per runda tills behandlad (Kirurgi, **Svårt**). **Kraftig blödning**.                                                               |
+| 10  | **Njurträff.** Extremt smärtsamt. Ta **2 Stress**. **Kraftig blödning**. Behandlas med Kirurgi (**Svårt**).                                                                                        |
+| 11  | **Stucken i magen.** **Kraftig blödning**. Fysik-slag är minst **Svåra**. **Döende:** Överlevnadsslag per timme om obehandlad. Behandlas med Kirurgi (**Svårt**).                                 |
+| 12  | **Artärblödning.** **Kraftig blödning**. **Döende:** Överlevnadsslag per runda tills blödningen stoppas (Kirurgi).                                                                                    |
 | 13  | **Genomstucket hjärtsäck.** **Döende:** Överlevnadsslag per runda. Behandlas med Kirurgi (**Mycket Svårt**). Om du överlever: **Permanent** –1 på Fysik.                                                             |
-| 14  | **Genomstucken halspulsåder.** **Kraftig blödning (4 nivåer)**. **Döende:** Överlevnadsslag per runda. Behandlas med Kirurgi (**Mycket Svårt**). Om du överlever: **Permanent** –2 på Fysik och Analys (hjärnskada). |
+| 14  | **Genomstucken halspulsåder.** **Kraftig blödning**. **Döende:** Överlevnadsslag per runda. Behandlas med Kirurgi (**Mycket Svårt**). Om du överlever: **Permanent** –2 på Fysik och Analys (hjärnskada). |
 | 15+ | **Stucken genom hjärtat.** Du dör omedelbart.                                                                                                                                                                    |
 
 ## Hugg
 
-Svärd, yxor, machetes – skärande vapen med kraft bakom. *Behandlas med Medicin (blödning) eller Kirurgi (djupa sår, amputationer).*
+Svärd, yxor, machetes – skärande vapen med kraft bakom. *Behandlas med Kirurgi (blödning, djupa sår, amputationer).*
 
 | T12 | Effekt                                                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Ytligt snitt.** Ta **1 Stress**.                                                                                                                                                         |
-| 2   | **Köttskada.** Blodigt men ytligt. **Lätt blödning (1 nivå)** tills behandlad.                                                                                                             |
+| 2   | **Köttskada.** Blodigt men ytligt. **Lätt blödning** tills behandlad.                                                                                                             |
 | 3   | **Senan skuren.** Slå 1T12 för kroppsdel (1-3: vänster arm, 4-6: höger arm, 7-9: vänster ben, 10-12: höger ben). Smidighet-slag är minst **Svåra** med drabbad kroppsdel tills behandlad. |
-| 4   | **Djupt hugg i arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Du tappar vad du håller i. **Lätt blödning (2 nivåer)**. Armen obrukbar tills behandlad.                                      |
-| 5   | **Djupt hugg i ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. **Kraftig blödning (1 nivå)**. Förflyttning halverad tills behandlad.                                                         |
-| 6   | **Ansikte skuret.** Blod i ögonen. Sinnen-slag (syn) är minst **Mycket Svåra** tills du torkar bort blodet (bihandling). **Lätt blödning (1 nivå)**.                                                  |
-| 7   | **Skadat öga.** Slå 1T12: 1-6 vänster, 7-12 höger öga. Sinnen-slag (syn) och avståndsattacker är minst **Mycket Svåra**. **Kraftig blödning (1 nivå)**. **Läketid:** 1T12 veckor.                     |
-| 8   | **Djupt brösthugg.** **Kraftig blödning (2 nivåer)**. Alla slag är minst **Svåra**. **Läketid:** 1T12 veckor.                                                                             |
-| 9   | **Svårt skadat ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller. Kan bara krypa. **Kraftig blödning (2 nivåer)**. **Läketid:** 1T12 månader.                                        |
-| 10  | **Svårt skadad arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning (2 nivåer)**. **Läketid:** 1T12 månader.                                                   |
-| 11  | **Djupt brösthugg med organskada.** **Kraftig blödning (2 nivåer)**. Alla slag är minst **Mycket Svåra**. **Döende:** Överlevnadsslag per timme.                                                 |
-| 12  | **Ben avhugget.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller. Kan inte gå. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation.        |
-| 13  | **Arm avhuggen.** Slå 1T12: 1-6 vänster, 7-12 höger arm. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation.                                |
+| 4   | **Djupt hugg i arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Du tappar vad du håller i. **Lätt blödning**. Armen obrukbar tills behandlad.                                      |
+| 5   | **Djupt hugg i ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. **Kraftig blödning**. Förflyttning halverad tills behandlad.                                                         |
+| 6   | **Ansikte skuret.** Blod i ögonen. Sinnen-slag (syn) är minst **Mycket Svåra** tills du torkar bort blodet (bihandling). **Lätt blödning**.                                                  |
+| 7   | **Skadat öga.** Slå 1T12: 1-6 vänster, 7-12 höger öga. Sinnen-slag (syn) och avståndsattacker är minst **Mycket Svåra**. **Kraftig blödning**. **Läketid:** 1T12 veckor.                     |
+| 8   | **Djupt brösthugg.** **Kraftig blödning**. Alla slag är minst **Svåra**. **Läketid:** 1T12 veckor.                                                                             |
+| 9   | **Svårt skadat ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller. Kan bara krypa. **Kraftig blödning**. **Läketid:** 1T12 månader.                                        |
+| 10  | **Svårt skadad arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning**. **Läketid:** 1T12 månader.                                                   |
+| 11  | **Djupt brösthugg med organskada.** **Kraftig blödning**. Alla slag är minst **Mycket Svåra**. **Döende:** Överlevnadsslag per timme.                                                 |
+| 12  | **Ben avhugget.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller. Kan inte gå. **Kraftig blödning**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation.        |
+| 13  | **Arm avhuggen.** Slå 1T12: 1-6 vänster, 7-12 höger arm. **Kraftig blödning**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation.                                |
 | 14  | **Klyvning av bröstkorgen.** Inre organ skärs sönder. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –3 på Fysik.                                                   |
 | 15+ | **Avhugget huvud/halshugg.** Du dör omedelbart.                                                                                                                                            |
 
@@ -107,7 +105,7 @@ Brännskador från eld, het ånga, frätande ämnen. *Behandlas med Medicin (lin
 | 4   | **Brinnande kläder.** Om du inte släcker (bihandling) tar du **3 skadetärningar** nästa runda.                                                                                                                            |
 | 5   | **Djup brännskada.** Extrem smärta. Ta **2 Stress**. Alla slag är minst **Svåra** tills behandlad.                                                                                                                       |
 | 6   | **Brända händer.** Du tappar vad du håller i. Kan inte använda händerna tills behandlad.                                                                                                                                  |
-| 7   | **Bränt ansikte.** Sinnen-slag (syn) är minst **Mycket Svåra** tills behandlad (Medicin). **Lätt blödning (1 nivå)**. **Läketid:** 1T12 veckor.                                                                                      |
+| 7   | **Bränt ansikte.** Sinnen-slag (syn) är minst **Mycket Svåra** tills behandlad (Medicin). **Lätt blödning**. **Läketid:** 1T12 veckor.                                                                                      |
 | 8   | **Svåra brännskador.** Slå 1T12 för kroppsdel (1-3: vänster arm, 4-6: höger arm, 7-9: vänster ben, 10-12: höger ben eller torso). Alla fysiska slag är minst **Mycket Svåra**. **Läketid:** 1T12 veckor.                        |
 | 9   | **Inandad het gas.** Lungorna skadas. Endast en bihandling per runda. Fysik-slag är minst **Mycket Svåra**. Behandlas med Medicin (**Svårt**). **Läketid:** 1T12 dagar.                                                      |
 | 10  | **Allvarliga brännskador.** Alla slag är minst **Mycket Svåra**. **Läketid:** 1T12 månader.                                                                                                                                     |
@@ -119,7 +117,7 @@ Brännskador från eld, het ånga, frätande ämnen. *Behandlas med Medicin (lin
 
 ## Småkalibriga eldvapen
 
-Pistoler, revolvrar, k-pistar – ammunition under 7 mm. *Behandlas med Medicin (blödning) eller Kirurgi (kulor måste opereras ut, **Svårt** för organskador).*
+Pistoler, revolvrar, k-pistar – ammunition under 7 mm. *Behandlas med Kirurgi (blödning, kulor måste opereras ut; **Svårt** för organskador).*
 
 | T12 | Effekt                                                                                                                                   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,12 +127,12 @@ Pistoler, revolvrar, k-pistar – ammunition under 7 mm. *Behandlas med Medicin 
 | 4   | **Skottsår i ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Förflyttning halverad. **Lätt blödning**.                                     |
 | 5   | **Kula fastnad.** Smärtsamt. Ta **1 Stress**. Måste opereras ut (Kirurgi). Fysik-slag är minst **Svåra** tills utopererad.              |
 | 6   | **Genomskjuten hand.** Slå 1T12: 1-6 vänster, 7-12 höger hand. Handen obrukbar tills behandlad. **Lätt blödning**.                       |
-| 7   | **Skottsår i magen.** **Kraftig blödning (1 nivå)**. Alla slag är minst **Svåra**. Behandlas med Kirurgi (**Svårt**).                |
-| 8   | **Genomskjuten axel.** Slå 1T12: 1-6 vänster, 7-12 höger axel. Armen obrukbar. **Kraftig blödning (1 nivå)**. **Läketid:** 1T12 veckor.  |
-| 9   | **Lungskott.** Endast en bihandling per runda. **Kraftig blödning (2 nivåer)**. **Läketid:** 1T12 veckor.                                |
-| 10  | **Njurskott.** Ta **2 Stress**. **Kraftig blödning (2 nivåer)**. Behandlas med Kirurgi (**Svårt**).                                   |
-| 11  | **Lungskott – kollapsad lunga.** Endast en bihandling per runda. **Kraftig blödning (2 nivåer)**. **Döende:** Överlevnadsslag per minut. |
-| 12  | **Artärträff.** **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda.                                                  |
+| 7   | **Skottsår i magen.** **Kraftig blödning**. Alla slag är minst **Svåra**. Behandlas med Kirurgi (**Svårt**).                |
+| 8   | **Genomskjuten axel.** Slå 1T12: 1-6 vänster, 7-12 höger axel. Armen obrukbar. **Kraftig blödning**. **Läketid:** 1T12 veckor.  |
+| 9   | **Lungskott.** Endast en bihandling per runda. **Kraftig blödning**. **Läketid:** 1T12 veckor.                                |
+| 10  | **Njurskott.** Ta **2 Stress**. **Kraftig blödning**. Behandlas med Kirurgi (**Svårt**).                                   |
+| 11  | **Lungskott – kollapsad lunga.** Endast en bihandling per runda. **Kraftig blödning**. **Döende:** Överlevnadsslag per minut. |
+| 12  | **Artärträff.** **Kraftig blödning**. **Döende:** Överlevnadsslag per runda.                                                  |
 | 13  | **Hjärtskott.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik.                                       |
 | 14  | **Genomskjutet bröst – organsvikt.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –3 på Fysik.                  |
 | 15+ | **Huvudskott.** Du dör omedelbart.                                                                                                       |
@@ -146,16 +144,16 @@ Gevär, kulsprutor, prickskytteammunition – kraftfull ammunition. *Behandlas m
 | T12 | Effekt                                                                                                                                                                                                      |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Rikoschett/splitter.** Ta **1 Stress**. **Lätt blödning**.                                                                                                                                                |
-| 2   | **Genomskott.** **Kraftig blödning (1 nivå)** tills behandlad.                                                                                                                                              |
-| 3   | **Skottsår i arm – ben splittrat.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning (1 nivå)**. **Läketid:** 1T12 månader.                                                        |
-| 4   | **Skottsår i ben – ben splittrat.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller. Kan inte gå. **Kraftig blödning (1 nivå)**. **Läketid:** 1T12 månader.                                                |
-| 5   | **Bröstgenomskott.** **Kraftig blödning (2 nivåer)**. Alla slag är minst **Svåra**. **Läketid:** 1T12 veckor.                                                                                              |
-| 6   | **Magskott – inre organ.** **Kraftig blödning (2 nivåer)**. Alla slag är minst **Svåra**. Behandlas med Kirurgi (**Mycket Svårt**).                                                                            |
-| 7   | **Lungskott – kollapsad lunga.** Endast en bihandling per runda. **Kraftig blödning (2 nivåer)**. Behandlas med Kirurgi (**Mycket Svårt**).                                                                     |
-| 8   | **Ryggradsskott.** Du är förlamad från träffen och nedåt. **Kraftig blödning (1 nivå)**. **Permanent:** Förlamning.                                                                                         |
-| 9   | **Arm avsliten.** Slå 1T12: 1-6 vänster, 7-12 höger arm. **Kraftig blödning (3 nivåer)**. **Permanent:** Amputation.                                                                                        |
-| 10  | **Ben avslitet.** Slå 1T12: 1-6 vänster, 7-12 höger ben. **Kraftig blödning (3 nivåer)**. **Permanent:** Amputation.                                                                                        |
-| 11  | **Arm/ben avslitet med chock.** Slå 1T12 för kroppsdel (1-6: ben, 7-12: arm), sedan udda/jämnt för sida. **Kraftig blödning (3 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
+| 2   | **Genomskott.** **Kraftig blödning** tills behandlad.                                                                                                                                              |
+| 3   | **Skottsår i arm – ben splittrat.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning**. **Läketid:** 1T12 månader.                                                        |
+| 4   | **Skottsår i ben – ben splittrat.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller. Kan inte gå. **Kraftig blödning**. **Läketid:** 1T12 månader.                                                |
+| 5   | **Bröstgenomskott.** **Kraftig blödning**. Alla slag är minst **Svåra**. **Läketid:** 1T12 veckor.                                                                                              |
+| 6   | **Magskott – inre organ.** **Kraftig blödning**. Alla slag är minst **Svåra**. Behandlas med Kirurgi (**Mycket Svårt**).                                                                            |
+| 7   | **Lungskott – kollapsad lunga.** Endast en bihandling per runda. **Kraftig blödning**. Behandlas med Kirurgi (**Mycket Svårt**).                                                                     |
+| 8   | **Ryggradsskott.** Du är förlamad från träffen och nedåt. **Kraftig blödning**. **Permanent:** Förlamning.                                                                                         |
+| 9   | **Arm avsliten.** Slå 1T12: 1-6 vänster, 7-12 höger arm. **Kraftig blödning**. **Permanent:** Amputation.                                                                                        |
+| 10  | **Ben avslitet.** Slå 1T12: 1-6 vänster, 7-12 höger ben. **Kraftig blödning**. **Permanent:** Amputation.                                                                                        |
+| 11  | **Arm/ben avslitet med chock.** Slå 1T12 för kroppsdel (1-6: ben, 7-12: arm), sedan udda/jämnt för sida. **Kraftig blödning**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
 | 12  | **Bröstkorgsexplosion.** Interna organ krossade. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik.                                                                         |
 | 13  | **Bukskott – massiv organskada.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –3 på Fysik.                                                                                        |
 | 14  | **Huvudskott – krossat kranium.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –3 på Analys och Sinnen.                                                                            |
@@ -169,17 +167,17 @@ Granater, bomber, minor – tryckvåg och splitter. Behandlas med Kirurgi (split
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Överrumplad.** Du faller omkull. Ta **1 Stress**.                                                                                                                                               |
 | 2   | **Tillfällig dövhet.** Sinnen-slag (hörsel) är minst **Mycket Svåra** under 1T12 minuter.                                                                                                                    |
-| 3   | **Splitter i huden.** Smärtsamt. **Lätt blödning (1 nivå)**. Ta **1 Stress**.                                                                                                                     |
+| 3   | **Splitter i huden.** Smärtsamt. **Lätt blödning**. Ta **1 Stress**.                                                                                                                     |
 | 4   | **Slungades iväg.** Du flyger 1T12 meter och faller. Ta **1T12 skadetärningar** (Kross) från fallet.                                                                                              |
 | 5   | **Tryckvågsskada.** Lungorna skadas. Fysiska slag är minst **Svåra**. Ta **2 Stress**.                                                                                                           |
-| 6   | **Djupt splitter.** **Kraftig blödning (1 nivå)**. Splittret måste opereras ut (Kirurgi, **Svårt**).                                                                                           |
+| 6   | **Djupt splitter.** **Kraftig blödning**. Splittret måste opereras ut (Kirurgi, **Svårt**).                                                                                           |
 | 7   | **Örontrumma sprucken.** Sinnen-slag (hörsel) är minst **Mycket Svåra**. **Läketid:** 1T12 månader.                                                                                                          |
-| 8   | **Krossade revben.** Fysik-slag är minst **Mycket Svåra**. **Kraftig blödning (1 nivå)**. **Läketid:** 1T12 veckor.                                                                                     |
-| 9   | **Svårt skadat ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Benet obrukbart. **Kraftig blödning (3 nivåer)**. **Läketid:** 1T12 månader.                                                         |
-| 10  | **Svårt skadad arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning (3 nivåer)**. **Läketid:** 1T12 månader.                                                          |
-| 11  | **Krossade revben – intern skada.** Fysik-slag är minst **Mycket Svåra**. **Kraftig blödning (1 nivå)**. **Döende:** Överlevnadsslag per timme.                                                         |
+| 8   | **Krossade revben.** Fysik-slag är minst **Mycket Svåra**. **Kraftig blödning**. **Läketid:** 1T12 veckor.                                                                                     |
+| 9   | **Svårt skadat ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Benet obrukbart. **Kraftig blödning**. **Läketid:** 1T12 månader.                                                         |
+| 10  | **Svårt skadad arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. **Kraftig blödning**. **Läketid:** 1T12 månader.                                                          |
+| 11  | **Krossade revben – intern skada.** Fysik-slag är minst **Mycket Svåra**. **Kraftig blödning**. **Döende:** Överlevnadsslag per timme.                                                         |
 | 12  | **Massiv intern skada.** Inre organ krossade av tryckvågen. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Fysik, permanent hörselskada.                             |
-| 13  | **Arm/ben avslivet.** Slå 1T12 för kroppsdel (1-6: ben, 7-12: arm), sedan udda/jämnt för sida. **Kraftig blödning (4 nivåer)**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
+| 13  | **Arm/ben avslivet.** Slå 1T12 för kroppsdel (1-6: ben, 7-12: arm), sedan udda/jämnt för sida. **Kraftig blödning**. **Döende:** Överlevnadsslag per runda. **Permanent:** Amputation. |
 | 14  | **Bortsprängd bröstorg.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –4 på Fysik.                                                                                      |
 | 15+ | **Bortsprängd.** Du dör omedelbart.                                                                                                                                                               |
 
@@ -207,7 +205,7 @@ Toxiner, droger, kemiska ämnen. Behandlas med Medicin. Svåra effekter kräver 
 
 ## Blödning
 
-När blödningsskada orsakar en kritisk träff (12 på blödningstärning). Behandlas med Medicin eller Kirurgi.
+När blödningsskada orsakar en kritisk träff (12 på blödningstärning). Behandlas med Kirurgi.
 
 | T12 | Effekt                                                                                                                                   |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -239,7 +237,7 @@ Strålsjuka, radioaktiv exponering. Behandlas med Medicin (**Mycket Svårt** fö
 | 4   | **Hudutslag.** Röda, brännskadeliknande utslag. Smidighet-slag är minst **Svåra** under 1T12 dagar.                                |
 | 5   | **Håravfall.** Håret faller av i tussar. Ta **2 Stress**.                                                                           |
 | 6   | **Feber.** Immunförsvaret reagerar. Alla slag är minst **Svåra** under 1T12 dagar.                                                 |
-| 7   | **Inre blödning.** **Lätt blödning (2 nivåer)**. Kräver sjukhusvård (Kirurgi, **Mycket Svårt**) för att stoppa.                         |
+| 7   | **Inre blödning.** **Lätt blödning**. Kräver sjukhusvård (Kirurgi, **Mycket Svårt**) för att stoppa.                         |
 | 8   | **Benmärgsskada.** Alla slag är minst **Mycket Svåra**. Kräver sjukhusvård.                                                               |
 | 9   | **Lungskada.** Endast en bihandling per runda. Alla slag är minst **Mycket Svåra**. Kräver sjukhusvård.                                   |
 | 10  | **Njursvikt.** Alla slag är minst **Mycket Svåra**. Kräver sjukhusvård.                                                                   |
