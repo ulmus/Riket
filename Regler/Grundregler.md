@@ -11,8 +11,20 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 - Slå ett antal T12 motsvarande **Egenskap + Egenskap +/- situationsmodifiering**.
 - Varje slag på **10+** är en framgång.
 - Varje slag på **12** ger dessutom 1 **Fokus**.
-- Minst en framgång krävs för att lyckas.
-- Svårare handlingar kräver fler framgångar.
+- Minst en framgång krävs för att lyckas (**Normalt**).
+- Svårare handlingar kräver fler framgångar (**Svårt** eller **Mycket Svårt**).
+
+### Svårighetsgrader
+
+| Svårighetsgrad  | Framgångar | Beskrivning                                     |
+| --------------- | ---------: | ----------------------------------------------- |
+| **Normalt**     |          1 | Standardhandlingar under press                  |
+| **Svårt**       |          2 | Ogynnsamma omständigheter eller krävande uppgift |
+| **Mycket Svårt**|          3 | Extrema förhållanden eller exceptionell uppgift  |
+
+Svårighetsgraden sätts av SL som en helhetsbedömning av situationen – inte som en summa av enskilda modifierare. När flera försvårande omständigheter samverkar (till exempel mörker *och* blåst *och* rörligt mål) behöver det inte automatiskt bli svårare – SL väger helheten och avgör om det fortfarande är **Svårt** eller om det tippar över till **Mycket Svårt**.
+
+Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Normalt → Svårt, Svårt → Mycket Svårt).
 
 ## Egenskaper
 

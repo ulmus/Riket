@@ -13,7 +13,7 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**.
 | **Scen**          | En sammanhängande episod i berättelsen (strid, undersökning, förhandling)                                |
 | **Runda**         | Ca fem sekunders speltid i strid                                                                         |
 | **Slag**          | Ett tärningskast för att avgöra utfall                                                                   |
-| **Svårighet**     | Antal framgångar som krävs för att lyckas                                                                |
+| **Svårighet**     | Antal framgångar som krävs: Normalt (1), Svårt (2), Mycket Svårt (3). Sätts av SL som helhetsbedömning  |
 | **Komplikation**  | Oväntad negativ händelse vid misslyckande efter att ha spenderat Fokus                                   |
 
 ## Egenskaper
@@ -72,7 +72,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | Tillstånd | Beskrivning |
 | --------- | ----------- |
 | **Oskadd** | Inga effekter |
-| **Sårad** | +1 svårighet på alla slag (vid skada > Fysik KP) |
+| **Sårad** | Alla handlingar ett steg svårare (vid skada > Fysik KP) |
 | **Medvetslös** | Kan inte agera (vid skada > Fysik + Vilja KP) |
 | **Döende** | Kräver akutvård eller dör (vid skada > 2 × KP eller via kritisk träff) |
 

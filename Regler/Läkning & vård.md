@@ -8,7 +8,7 @@ Det finns tre vårdtyper, var och en med sin egen attributkombination:
 | **Kirurgi**   | Analys + Smidighet | Brutna ben, djupa sår, kulor, organskador      |
 | **Psykologi** | Analys + Samspel   | Stress, hallucinationer, chock                 |
 
-Kirurgi i fält (utan operationssal) har **+1 svårighet**.
+Kirurgi i fält (utan operationssal) är normalt **Svårt**.
 
 ## Behandling
 

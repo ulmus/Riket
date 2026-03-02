@@ -412,7 +412,7 @@ När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att s
 ## Fältmedicinare i strid
 
 *Krav:* Expertis: Läkare eller Expertis: Fältmedicinare  
-Du kan ge Akutvård som en Bihandling istället för Huvudhandling under strid, men slaget får +1 svårighet.
+Du kan ge Akutvård som en Bihandling istället för Huvudhandling under strid, men handlingen blir ett steg svårare.
 
 ## Stridsstabilisering
 

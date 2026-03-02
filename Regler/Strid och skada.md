@@ -30,11 +30,14 @@ Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid med m
 - Minst en bihandling lagd på att sikta +1
 - Stabil position +1 (+2 om liggande)
 
-Svårigheten, det vill säga antalet framgångar som krävs för att träffa, bestäms av avståndet till målet och eventuella hinder eller omständigheter.
+Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott svårare:
 
-- Över vapnets räckvidd: +1 svårighet per steg över räckvidden
-- Målet i skydd eller snabb rörelse: +1
-- Mörker eller dålig sikt: +1
+- Målet är i skydd eller snabb rörelse
+- Mörker eller dålig sikt
+- Avstånd bortom vapnets räckvidd
+- Skytten är i rörelse eller instabil position
+
+En enskild försvårande faktor gör skottet normalt **Svårt**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svårt** – SL avgör. Skott långt bortom vapnets räckvidd kan vara **Mycket Svårt** eller omöjligt.
 
 ## Närstridsattacker
 
@@ -53,7 +56,7 @@ Varje karaktär har **Kroppspoäng (KP)** lika med **Fysik + Vilja**. KP represe
 | Skada          | Tröskel                  | Effekt                                     |
 | -------------- | ------------------------ | ------------------------------------------ |
 | **Oskadd**     | 0 KP                     | Inga effekter                              |
-| **Sårad**      | > Fysik KP               | **+1 svårighet** på alla slag              |
+| **Sårad**      | > Fysik KP               | Alla handlingar ett steg svårare           |
 | **Medvetslös** | > Fysik + Vilja KP       | Du faller ihop och kan inte agera          |
 | **Döende**     | > 2 × (Fysik + Vilja) KP | Se *Döende* nedan, eller via kritisk träff |
 
@@ -103,7 +106,7 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadetärningar +4**, **Kritisk bonus +0**, och skadetyp **Småkaliber**.
 > Antons träffslag ger **2 framgångar**. Han slår alltså **2 + 4 = 6 skadetärningar**.
 > Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada är **3 KP**.
-> Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada och är Sårad (tröskeln är >2) och tar därför 1 Stress och har +1 på alla svårigheter.
+> Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada och är Sårad (tröskeln är >2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
 > Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 för kritisk träff och får en 8. Med pistolens kritiska bonus på +0 blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
 
 # Effekter av skada
@@ -116,7 +119,7 @@ Varje gång du tar minst 1 KP skada så tar du också 1 Stress.
 
 När du har tagit mer än **Fysik** i KP-skada blir du **Sårad**:
 
-- **+1 svårighet** på alla slag.
+- Alla handlingar blir **ett steg svårare** (Normalt → Svårt, Svårt → Mycket Svårt).
 - Du tar **1 Stress**.
 
 ## Medvetslös

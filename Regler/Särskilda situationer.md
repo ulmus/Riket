@@ -115,7 +115,7 @@ Slå 1T12 när sömnmedlet får effekt:
 
 - Om tärningen når **Döende-tröskeln** får offret andningsstillestånd och är **Döende**.
 - Om tärningen når **Somnar-tröskeln** (men inte Döende) somnar offret.
-- Annars blir offret **Påverkad** (+1 svårighet på alla slag) men tar ingen skada.
+- Annars blir offret **Påverkad** (alla handlingar ett steg svårare) men tar ingen skada.
 
 *Exempel: Kloroform i dubbel dos ger Somnar 9+ och Döende 11+. På 9–10 somnar offret, på 11–12 är det Döende.*
 
@@ -125,7 +125,7 @@ En person med expertis **Läkare** eller **Apotekare** kan beräkna rätt dos f�
 
 ### Varaktighet
 
-Ett sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** (+1 svårighet) i en timme.
+Ett sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** (alla handlingar ett steg svårare) i en timme.
 
 ## Strålning
 
