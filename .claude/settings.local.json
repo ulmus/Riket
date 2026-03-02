@@ -6,7 +6,9 @@
       "WebFetch(domain:foundryvtt.wiki)",
       "WebFetch(domain:github.com)",
       "Bash(find:*)",
-      "Bash(xxd:*)"
+      "Bash(xxd:*)",
+      "Bash(grep:*)",
+      "Bash(python3:*)"
     ]
   }
 }
