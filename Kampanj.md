@@ -4,5 +4,5 @@ Tjuren - Gertrud Barsk
 Prisma - Kent Andersson ()
 
 
-Lars Hellman
+Lars Hellström
 Dr. Martin Schultz
