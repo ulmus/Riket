@@ -43,7 +43,7 @@ Varje karaktär börjar med 21 poäng att fördela med minst 1 och högst 4 på 
 
 ## Expertis
 
-Som tillägg till Egenskaper finns **Expertis**, som representerar träning och yrkeserfarenhet inom ett visst område. Expertis ger +1 på slag där expertisen är relevant. Exempel på expertiser är: Läkare, Soldat, Pilot, Ingenjör, Spion, Förhandlare, Mekaniker, Sprängtekniker, Narkotikaexpert, etc. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser.
+Som tillägg till Egenskaper finns **Expertis**, som representerar träning och yrkeserfarenhet inom ett visst område. Expertis ger +1 på slag där expertisen är relevant. Exempel på expertiser är: Läkare, Fältmedicinare, Pilot, Mekaniker, Kryptograf, Maskör, Officer, Chaufför. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser.
 
 Utöver att Expertis ger +1 på relevanta slag så finns det också aktiviteter som kräver Expertis för att kunna utföras. Den som försöker utföra en sådan aktivitet utan relevant Expertis får -3 på slaget. Se [[Expertiser]] för detaljer om varje expertis och deras kopplade förmågor.
 

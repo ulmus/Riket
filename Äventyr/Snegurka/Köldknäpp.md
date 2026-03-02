@@ -104,7 +104,7 @@ Han pekar mot Eklund.
 - Att det finns en mullvad inom T-kontoret
 - Att hans verkliga prioritet är att det inte ska komma fram hur de har behandlat Anja — det skulle innebära slutet för Program Frigg och hans karriär
 
-**Pressa Hedström:** Rollpersonerna kan misstänka att han håller inne med information. Ett motståndsslag (*Samspel + Sinnen* mot Hedströms *Samspel + Vilja*, 3 + 3 = 6 tärningar) kan avslöja att han verkar skuldmedveten och att han väljer sina ord ovanligt noga. Pressa vidare kräver *Samspel + Samspel* (svårighet 2) — vid framgång erkänner han att Schultz "kanske gick för långt" i sina tester, men avfärdar det som nödvändigt.
+**Pressa Hedström:** Rollpersonerna kan misstänka att han håller inne med information. Ett motståndsslag (*Samspel + Sinnen* mot Hedströms *Samspel + Vilja*, 3 + 3 = 6 tärningar) kan avslöja att han verkar skuldmedveten och att han väljer sina ord ovanligt noga. Pressa vidare kräver *Samspel + Samspel* (**Svårt**) — vid framgång erkänner han att Schultz "kanske gick för långt" i sina tester, men avfärdar det som nödvändigt.
 
 #### Radio
 > Och så till vädret — och till uppståndelsen kring Tekniska högskolan i Stockholm i natt.
@@ -135,7 +135,7 @@ Eklund kör rollpersonerna till KTH.
 
 En anspråkslös tegelbyggnad på KTH:s campus. Ovan mark finns **laboratorier** — kontorsrum med forskningsutrustning, arkivskåp, en liten kantine — och en **kylanläggning** med pumpar, rör och kylvattentankar. Kylanläggningen är bullrig och fuktig; det är här tunnlarna från R1-hallen under jord mynnar ut. Anja flydde denna väg: upp genom tunnlarna, genom kylanläggningen, ut en nöddörr och vidare till Valhallavägen.
 
-**Utanför byggnaden**, parkerad på gatan med sikt mot entrén: en **svart Volvo Amazon** med två män i civila kläder. De läser tidning och röker. GRU-agenter som bevakar platsen. Rollpersonerna kan notera dem med *Sinnen + Sinnen* (svårighet 0). Agenterna följer inte efter — de rapporterar.
+**Utanför byggnaden**, parkerad på gatan med sikt mot entrén: en **svart Volvo Amazon** med två män i civila kläder. De läser tidning och röker. GRU-agenter som bevakar platsen. Rollpersonerna kan notera dem med *Sinnen + Sinnen*. Agenterna följer inte efter — de rapporterar.
 
 ##### R1-hallen (under jord)
 
@@ -161,7 +161,7 @@ I hallens ena ände, avskild med en glasvägg och en låst ståldörr, finns en 
 - Tre böcker på ryska: *Farbror Fedjas katt*, en sagobok och en sliten upplaga av Pusjkins dikter
 - Barnteckningar ritade med blyerts på väggarna — snöflingor, en kvinna med vitt hår (Morana?), ett hus
 
-**Forskningsprotokollen** (kräver *Analys + Sinnen*, svårighet 0, för att hitta och tolka):
+**Forskningsprotokollen** (kräver *Analys + Sinnen* för att hitta och tolka):
 
 - *1 framgång:* Anja benämns "Subjekt S". Protokollen beskriver dagliga temperaturmätningar, stressresponser och "provokationsexperiment".
 - *2 framgångar:* Provokationsexperimenten innebar att man medvetet skrämde eller stressade Anja för att utlösa krafterna. Anteckningar som "Subjekt uppvisade frostreaktion vid förhöjd ångestnivå" och "Optimal provokation: separation från tröstdjur".
@@ -182,7 +182,7 @@ Samuelsson är en medelålders man med runda glasögon och nervösa vanor. Han v
 
 ##### Emotionell reaktion
 
-Att se Anjas cell — ett barns fångenskap under sin egen arbetsgivare — bör väcka starka känslor. SL kan begära ett **rädsla-slag** (*Analys + Vilja*, svårighet 0) för den moraliska chocken. Misslyckande ger **+1 Stress**.
+Att se Anjas cell — ett barns fångenskap under sin egen arbetsgivare — bör väcka starka känslor. SL kan begära ett **rädsla-slag** (*Analys + Vilja*) för den moraliska chocken. Misslyckande ger **+1 Stress**.
 
 Rollpersoner med traumakategorin **Vanmakt** eller **Skuld** kan få en extra reaktion: "Detta har *ni* gjort möjligt. Ni arbetar för dem som gjorde detta."
 
@@ -195,7 +195,7 @@ Uppe på marknivå. Spåren från natten smälter i sommarsolen men finns kvar i
 - Frusna barfotaspår på trottoaren (barnstorlek, synliga i skugga)
 - Frusna vattenpölar, fortfarande ovanligt kalla
 
-**Ögonvittnen** (*Samspel + Sinnen*, svårighet 0):
+**Ögonvittnen** (*Samspel + Sinnen*):
 
 - *Tidningsbud (kvinna, 50):* "Dimma — men bara på ett kvarter! Och en liten flicka i vitt. Barfota. I juli."
 - *Busschaufför (man, 40):* "Trafikljusen var frusna — alla visade rött. Kallt som vinter."
@@ -213,16 +213,16 @@ Spåren pekar söderut. GRU följer samma spår. Det här är en **kapplöpning*
 
 Varje steg kräver ett lyckat slag för att hitta rätt vittne och få dem att prata. Om rollpersonerna misslyckas förlorar de tid — GRU kommer närmare.
 
-**Steg 1 — Humlegården** (*Samspel + Sinnen*, svårighet 0)
+**Steg 1 — Humlegården** (*Samspel + Sinnen*)
 En parkarbetare hittade is på fontänen i morse. En hemlös man sov under en bänk: *"En liten flicka sprang genom parken. Barfota. Gräset frös där hon sprang."* Riktning: söderut mot Strandvägen.
 
 **Steg 2 — Nybroviken** (redan känt från Scen 2)
 Isstigen över viken bekräftar riktningen. Fiskaren och joggaren kan pekas ut av vittnen vid Strandvägen. *"Hon sprang rakt ut på vattnet. Det frös under henne."* Riktning: mot Södermalm.
 
-**Steg 3 — Slussen/Södermalm** (*Samspel + Sinnen*, svårighet 0)
+**Steg 3 — Slussen/Södermalm** (*Samspel + Sinnen*)
 En nattarbetare vid Slussen: *"Såg en flicka i vitt komma från vattnet vid Stadsgården. Barfota. Gick uppför backen mot söder."* En polisrapport nämner frusna vattenledningar på Södermalm utan känd orsak. Riktning: söderut, mot Hornstull.
 
-**Steg 4 — Tantolunden** (*Sinnen + Sinnen*, svårighet 0)
+**Steg 4 — Tantolunden** (*Sinnen + Sinnen*)
 En kolonist som kom tidigt på morgonen: *"Jordgubbarna är frusna! Mitt i juli! Och stugan längst ner — det ser ut som vinter därinne."* Rollpersonerna har hittat gömstället.
 
 ##### GRU i kapplöpningen
@@ -237,7 +237,7 @@ Om rollpersonerna misslyckas med **två slag** når GRU Tantolunden före dem. D
 
 ##### Bonusinformation via Radar
 
-Om Radar använder Radiohörsel kan hen fånga upp GRU:s kommunikation (krypterad rysk militärfrekvens, *Sinnen + Vilja* svårighet 2 för att avkoda):
+Om Radar använder Radiohörsel kan hen fånga upp GRU:s kommunikation (krypterad rysk militärfrekvens, *Sinnen + Vilja*, **Svårt**, för att avkoda):
 
 - *1 framgång:* Positionsrapporter — GRU följer samma vittneskedja som rollpersonerna.
 - *2 framgångar:* En order: "Sök söder om Gamla stan. Koloniområdena."
@@ -290,7 +290,7 @@ Stugan ser ut som vinter inifrån. Frost på väggarna, is på golvet, rimfrost 
 
 Anja sitter på golvet i ett hörn, insvept i en filt. Smutsig, blek, men inte utsvulten — jordgubbsfläckar på fingrarna. Tunt sjukhuslinne, bara fötter. Nallen Misha bredvid henne.
 
-**Köldaura:** Förhöjd (stressad). Alla inom 5 meter: +1 svårighet på fysiska slag, Fysik + Vilja (svårighet 0) varje runda eller +1 Stress. Under noll.
+**Köldaura:** Förhöjd (stressad). Alla inom 5 meter: fysiska slag ett steg svårare, Fysik + Vilja varje runda eller +1 Stress. Under noll.
 
 **Att närma sig:** Inte aggressiv men rädd. Snabba rörelser eller vapen kan trigga reflexmässiga **Iskristaller**.
 
@@ -359,10 +359,10 @@ Varje runda Anja är i strid eller panik, slå **T12**:
 | T12 | Effekt |
 |-----|--------|
 | 1–4 | Ingen extra effekt — auran håller sig stabil |
-| 5–7 | **Köldvåg** — temperaturen sjunker ytterligare. Alla inom 10 meter får +1 svårighet på fysiska slag |
+| 5–7 | **Köldvåg** — temperaturen sjunker ytterligare. Alla inom 10 meter: fysiska slag ett steg svårare |
 | 8–9 | **Iskristaller** — spontan salva i slumpmässig riktning. 3 skadetärningar (Stick, +3) mot en slumpmässig person inom 10 meter |
 | 10–11 | **Frostexplosion** — alla inom 5 meter tar 4 skadetärningar (Övriga/Kyla, +3) och slås tillbaka 2 meter |
-| 12 | **Fryspelare** — Anja förlorar all kontroll. En 10-meters radie fryser solid. Alla i zonen tar 5 skadetärningar (Övriga/Kyla, +5) och måste slå Fysik + Vilja (svårighet 1) eller bli **förstelnade** i isen |
+| 12 | **Fryspelare** — Anja förlorar all kontroll. En 10-meters radie fryser solid. Alla i zonen tar 5 skadetärningar (Övriga/Kyla, +5) och måste slå Fysik + Vilja eller bli **förstelnade** i isen |
 
 ##### GRU:s styrkor
 
@@ -393,9 +393,9 @@ Information som delats *bara* med Eklund visar sig känd av GRU. Möjliga avslö
 
 ##### Tre vägar till avslöjandet
 
-**1. Radiotriangulering.** Radar kan aktivt söka efter burst-transmissionen med sin Radiohörsel och en bärbar radiopejlare. Kräver *Sinnen + Vilja* (svårighet 1). Vid framgång: signalen kommer från Eklunds radio, en modifierad svensk militärradio med en extra krypteringsmodul som inte borde finnas där.
+**1. Radiotriangulering.** Radar kan aktivt söka efter burst-transmissionen med sin Radiohörsel och en bärbar radiopejlare. Kräver *Sinnen + Vilja*. Vid framgång: signalen kommer från Eklunds radio, en modifierad svensk militärradio med en extra krypteringsmodul som inte borde finnas där.
 
-**2. Kanariefågelsfälla.** Rollpersonerna ger Eklund falsk information — en fejkad plats där de "gömmer" Anja. Om GRU dyker upp på den platsen vet de att Eklund läcker. Kräver *List + Samspel* (svårighet 1) för att övertyga Eklund utan att väcka misstankar.
+**2. Kanariefågelsfälla.** Rollpersonerna ger Eklund falsk information — en fejkad plats där de "gömmer" Anja. Om GRU dyker upp på den platsen vet de att Eklund läcker. Kräver *List + Samspel* för att övertyga Eklund utan att väcka misstankar.
 
 **3. Anjas igenkänning.** Om Anja ser Eklund reagerar hon instinktivt — inte med rädsla, utan med förvirring. *"Du... du satt hos mig. Du läste för mig. Men du pratade också i den lilla radion. Och sedan kom männen."* Anja hörde Eklund sända sina rapporter genom cellens tunna väggar.
 
@@ -461,7 +461,7 @@ Om rollpersonerna är i fara kan Anja välja att använda sina krafter aktivt oc
 
 **Moraliskt dilemma:** Ett tolvårigt barn som fryser människor levande. Är detta vad Program Frigg skapat?
 
-**Alternativ:** Sammanbrott. Trauma (Förlust) aktiveras — fryspelare innesluter henne själv. Rollpersonerna måste bryta igenom (*Fysik + Fysik*, svårighet 2).
+**Alternativ:** Sammanbrott. Trauma (Förlust) aktiveras — fryspelare innesluter henne själv. Rollpersonerna måste bryta igenom (*Fysik + Fysik*, **Svårt**).
 
 #### Scen 12: Upplösningen
 
@@ -535,7 +535,7 @@ Skapa extrem kyla i 5-meters radie. Alla i zonen måste slå Fysik + Vilja varje
 - **+1 Fokus:** Marken blir hal is.
 - **1 Framgång:** +3 meters radie.
 
-**Aktiverat trauma — Fryspelare (okontrollerad):** Vid sammanbrott skapar Anja omedvetet en ispelare som omsluter henne själv och den hon fokuserar på, vare sig de vill det eller ej. Isen vägrar smälta och måste brytas loss (*Fysik + Fysik*, svårighet 2).
+**Aktiverat trauma — Fryspelare (okontrollerad):** Vid sammanbrott skapar Anja omedvetet en ispelare som omsluter henne själv och den hon fokuserar på, vare sig de vill det eller ej. Isen vägrar smälta och måste brytas loss (*Fysik + Fysik*, **Svårt**).
 
 ##### Anjas köldaura — skaltabell
 
@@ -544,9 +544,9 @@ Anjas passiva köldaura varierar med hennes stressnivå:
 | Stressnivå | Temperatur | Radie | Mekanisk effekt |
 |------------|-----------|-------|-----------------|
 | **Lugn** | 10–15 °C | 2 m | Ingen mekanisk effekt. Obekvämt kyligt. |
-| **Orolig** | 0–5 °C | 5 m | +1 svårighet på fysiska slag. Kondens och frost på ytor. |
-| **Stressad** | −5 till −10 °C | 10 m | +1 svårighet på fysiska slag. Fysik + Vilja (svårighet 0) varje runda eller +1 Stress. Is bildas. |
-| **Panik** | −15 till −25 °C | 15 m | +2 svårighet på alla slag. Fysik + Vilja (svårighet 1) varje runda eller 1 KP köldskada och +1 Stress. Farligt för alla. |
+| **Orolig** | 0–5 °C | 5 m | Fysiska slag ett steg svårare. Kondens och frost på ytor. |
+| **Stressad** | −5 till −10 °C | 10 m | Fysiska slag ett steg svårare. Fysik + Vilja varje runda eller +1 Stress. Is bildas. |
+| **Panik** | −15 till −25 °C | 15 m | Alla slag två steg svårare. Fysik + Vilja varje runda eller 1 KP köldskada och +1 Stress. Farligt för alla. |
 | **Sammanbrott** | −30 °C eller lägre | 20 m | Se Fryspelare (okontrollerad) ovan. Potentiellt dödligt. |
 
 #### Dr. Lars Hedström
@@ -810,7 +810,7 @@ Behandla som **kapplöpning** (se [[Aktiviteter#Kapplöpning]]):
 
 - **Rollpersonernas förare:** Smidighet + Smidighet, svårighet bestäms av trafikförhållanden
 - **GRU:s förare:** 5 tärningar (Smidighet 3 + Smidighet 2)
-- **Biaktörer kan:** Skjuta mot däck (Smidighet + Strid, svårighet 2), navigera genvägar (Analys + Sinnen), distrahera (Samspel + List)
+- **Biaktörer kan:** Skjuta mot däck (Smidighet + Strid, **Svårt**), navigera genvägar (Analys + Sinnen), distrahera (Samspel + List)
 - **Mål:** 6 framgångar för att komma undan / hinna ikapp
 
 ### Mullvadsavslöjande

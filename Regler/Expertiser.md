@@ -24,6 +24,13 @@ Varje Expertis listar nedan exempel på aktiviteter som kan utföras med automat
 - **Förmågor som kräver expertisen:** [[Förmågor#Fältkirurg]], [[Förmågor#Lugnande närvaro]].
 - **Automatisk framgång:** Diagnostisera vanlig sjukdom, lägga enkla förband, avgöra dödsorsak vid uppenbart trauma, ge grundläggande medicinsk rådgivning.
 
+## Fältmedicinare
+
+- **Bonus på aktiviteter:** Analys + Smidighet för akutvård och stabilisering i fält.
+- **Kräver expertisen:** Stoppa blödning under strid (Analys + Smidighet), stabilisera döende under eldgivning.
+- **Förmågor som kräver expertisen:** [[Förmågor#Fältmedicinare i strid]], [[Förmågor#Stridsstabilisering]].
+- **Automatisk framgång:** Lägga tryckförband, bedöma skadors svårighetsgrad, triagera skadade vid masskadesituation, ge grundläggande akutvård vid okomplicerade skador.
+
 ## Apotekare
 
 - **Bonus på aktiviteter:** Analys + Analys för att identifiera, dosera eller framställa läkemedel och enkla antidoter.
@@ -114,6 +121,13 @@ Varje Expertis listar nedan exempel på aktiviteter som kan utföras med automat
 - **Kräver expertisen:** Biljakt – körning (Smidighet + Smidighet) i tät trafik.
 - **Förmågor som kräver expertisen:** [[Förmågor#Kontrollerad sladd]], [[Förmågor#Racerinstinkt]].
 - **Automatisk framgång:** Köra säkert i normal trafik, backa och parkera, navigera med karta, bedöma fordonets skick och prestanda.
+
+## Pilot
+
+- **Bonus på aktiviteter:** Smidighet + Smidighet för flygning, landning och flygmanövrar.
+- **Kräver expertisen:** Flygning i strid eller extrema förhållanden (Smidighet + Smidighet), nödlandning, navigering i dåligt väder.
+- **Förmågor som kräver expertisen:** [[Förmågor#Nödmanöver]], [[Förmågor#Stridspilot]].
+- **Automatisk framgång:** Flyga under normala förhållanden, utföra kontroll av flygplan före start, navigera efter karta och kompass i klart väder, bedöma väderförhållanden för flygning.
 
 ## Underrättelseanalytiker
 

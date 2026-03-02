@@ -65,7 +65,7 @@
 
 **Förmågor:** Jujutsu → Fällning → Fastlåsning  
 **Egenskaper:** Smidighet 3+, Strid 2+  
-**Spelstil:** Kontroll, grappling, icke-dödligt
+**Spelstil:** Kontroll, låsningar, icke-dödligt våld
 
 ### Automatvapensexpert
 
@@ -77,10 +77,10 @@
 
 **Förmågor:** Fältmedicinare i strid → Stridsstabilisering  
 **Egenskaper:** Analys 3+, Smidighet 2+  
-**Expertis:** Läkare  
+**Expertis:** Läkare eller Fältmedicinare
 **Spelstil:** Håll teamet vid liv
 
-### Lagstödjare
+### Jurist
 
 **Förmågor:** Lagarbete → Inspirera → Taktisk koordinering  
 **Egenskaper:** Analys 2+, Samspel 3+, Strid 3+  
@@ -88,9 +88,15 @@
 
 ### Infiltratör
 
-**Förmågor:** Överraskningsattack (stealth-attack bonus)  
-**Egenskaper:** Smidighet 3+, Strid 2+  
-**Spelstil:** Strike från skuggorna
+**Förmågor:** Tyst intrång + Skugga + Överraskningsattack
+**Egenskaper:** Smidighet 3+, Sinnen 2+, Strid 2+
+**Spelstil:** Spaning, smyg, strike från skuggorna
+
+### Fältagent
+
+**Förmågor:** Snabbtänkt + Skugga + Tyst intrång
+**Egenskaper:** List 3+, Smidighet 3+, Sinnen 2+
+**Spelstil:** Spaningsuppdrag, infiltration, cover stories
 
 ## Vanliga frågor
 
@@ -98,7 +104,7 @@
 S: Ja, om de inte kräver samma handling. Sikta (Bihandling) + Mästerskott (Huvudhandling) fungerar.
 
 **F: Kombineras Expertis med förmågor?**  
-S: Ja, om det inte står något annat. Expertis: Soldat (+1) + Skarpskytt (+1) = +2 totalt.
+S: Ja, om det inte står något annat. Expertis: Officer (+1) + Skarpskytt (+1) = +2 totalt.
 
 **F: Kan jag använda Stress istället för Fokus?**  
 S: Ja, 1:1, men max antal = din Stabilitet per användning. Risk för Sammanbrott.

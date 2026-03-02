@@ -93,8 +93,8 @@ Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns
 |   **1-6** | **Ok**                | Du blir inte påverkad av stressen – den här gången.                                                                                                                   |
 |     **7** | **Skakad**            | Du stelnar till och **tappar en handling** eller **missar nästa runda**.                                                                                              |
 |     **8** | **Panik**             | Du **flyr** mot närmaste skydd eller bort från hotet **i en runda** och **släpper** allt du håller i. Alla i närheten gör ett **Rädsla-slag (Vilja + Vilja)**.        |
-|     **9** | **Raseri**            | Du tappar kontrollen och **attackerar närmaste hot/person** (vän eller fiende) **i en runda**. Alla i närheten gör **Rädsla-slag (Vilja + Vilja, svårighet –1)**.     |
-|    **10** | **Förstelning**       | Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Vilja-slag** som **huvudhandling** (svårighet 0).                                         |
+|     **9** | **Raseri**            | Du tappar kontrollen och **attackerar närmaste hot/person** (vän eller fiende) **i en runda**. Alla i närheten gör **Rädsla-slag (Vilja + Vilja, Svårt)**.            |
+|    **10** | **Förstelning**       | Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Vilja-slag** som **huvudhandling**.                                                       |
 | **11-12** | **Traumat aktiverat** | Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]). |
 |   **13+** | **Trauma förvärrat**  | Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL.                          |
 

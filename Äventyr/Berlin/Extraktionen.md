@@ -216,7 +216,7 @@ Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk h
 
 **Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Östtyska och schweiziska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
 
-**Entré och hall:** En stor marmorhall med mönstrat golv och kristallkronor. En trappa leder upp till diplomatmottagningen på andra våningen.
+**Entré och hall:** En stor marmorhall med mönstrat golv och kristallkronor. En trappa leder upp till diplomatmottagningen på andra våningen. En stråkkvartett spelar Vivaldi.
 
 **Diplomatsal:** Mottagningen hålls i två våningar. På den nedre våningen finns en bar och en stråkkvartett som spelar. Den övre våningen nås via en trappa och från den kan man via räcke se ner på den nedre våningen. Här cirkulerar ca 40–50 gäster – diplomater, vetenskapsmän, militära officerare och kulturpersoner från både öst och väst.
 
@@ -246,7 +246,7 @@ Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare so
 
 **Monsieur Jean-Pierre Leclerc:** Fransk diplomat, cynisk och road av Berlin's intrigspel. Han misstänker något men blandar sig inte i.
 
-**Agent Richard "Dick" Donnelly (CIA):** Presenterar sig som "kulturattaché id amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter.
+**Agent Richard "Dick" Donnelly (CIA):** Presenterar sig som "kulturattaché vid amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter och kommer också att närma sig rollpersonerna.
 
 Spelarna kan cirkulera, mingla och samla information. Ett slag för *Samspel + Sinnen* låter dem identifiera nyckelspelare och läsa stämningar. Fler framgångar ger mer information.
 
@@ -262,7 +262,7 @@ Richter verkar nervös, svettas trots kylan.
 
 *"Vi åker härifrån om trettio minuter, när jag ger signal. Vi kan gå genom garaget."*
 
-**Men här börjar komplikationerna.**
+**Här börjar komplikationerna.**
 
 ### Potentiella komplikationer och utvecklingar
 
@@ -272,7 +272,7 @@ Beroende på hur spelarna agerar och vad de observerar kan flera saker hända:
 
 **Oberleutnant Karl Brenner (Stasi)** och hans kollegor har noterat Richters nervösa beteende. Brenner misstänker att något är på gång och närmar sig Richter för att "checka in".
 
-Spelarna kan försöka distrahera Brenner (*Samspel + List*, svårighet 2), eller helt enkelt hålla sig nära Richter och hävda att de har diplomatiska samtal.
+Spelarna kan försöka distrahera Brenner (*Samspel + List*, **Svårt**), eller helt enkelt hålla sig nära Richter och hävda att de har diplomatiska samtal.
 
 Om Brenner blir alltför misstänksam kommer han att kalla på förstärkning – fler Stasi-agenter som blockerar utgångarna.
 
@@ -288,7 +288,7 @@ Donnelly erbjuder spelarna en affär: CIA kan hjälpa dem få ut Richter säkrar
 
 Donnelly verkar rimlig men är i hemlighet planerar att kidnappa Richter helt och hållt till USA. Om spelarna går med på hans plan kommer han att förråda dem senare.
 
-Spelarna kan försöka läsa hans avsikter (*Analys + Samspel*, svårighet 2). Om de lyckas anar de att något inte stämmer.
+Spelarna kan försöka läsa hans avsikter (*List + Samspel*, Svårt). Om de lyckas anar de att något inte stämmer.
 
 #### KGB's närvaro
 
@@ -298,7 +298,7 @@ KGB planerar att gripa Richter innan han kan fly. De väntar bara på rätt till
 
 Om spelarna är uppmärksamma kan de märka att vissa gäster beter sig konstigt – de cirkulerar nära utgångarna, talar tyst i radio, och observerar Richter.
 
-Ett slag för *Samspel + Sinnen* (svårighet 2) avslöjar KGB's närvaro.
+Ett slag för *Samspel + Sinnen* (**Svårt**) avslöjar KGB's närvaro.
 
 #### Elisabeth Richter är sjuk hemma
 
@@ -306,7 +306,7 @@ Richter insisterar på att hans fru **Elisabeth** måste hämtas. Hon ligger sju
 
 Om spelarna går med på detta komplicerar det operationen enormt – de måste dela upp gruppen eller ta Richter med sig till en potentiellt övervakad plats.
 
-Richter vägrar lämna utan Elisabeth. Om spelarna försöker övertala honom (*Samspel + Vilja*, svårighet 3) kan de få honom att åtminstone gå till bilen först och vänta där medan de hämtar Elisabeth.
+Richter vägrar lämna utan Elisabeth. Om spelarna försöker övertala honom (*Samspel + Vilja*, **Mycket Svårt**) kan de få honom att åtminstone gå till bilen först och vänta där medan de hämtar Elisabeth.
 
 #### Yaakov Dayan's ingripande
 
@@ -324,11 +324,11 @@ Yaakov berättar (om spelarna lyssnar) om de hemska brott Richter begått. Han t
 
 Om spelarna vägrar kan Yaakov försöka agera på egen hand senare.
 
-#### Golem bryter ut
+#### Golem bryter sig ut
 
 Om Richter känner sig hotad – genom att Stasi, KGB eller någon annan närmar sig aggressivt – aktiveras den emotionella länken mellan honom och Golem. Golem känner Richters rädsla och reagerar.
 
-**Golem**, som väntar i källarens garage, känner av hotet och börjar röra sig.
+**Golem**, som väntar i källarens garage, känner av hotet och börjar röra på sig.
 
 Plötsligt hörs ett enormt krasch från nedervåningen. Golem krossar en vägg och stormar in i ambassaden med fruktansvärd styrka och en tom blick.
 
@@ -336,7 +336,7 @@ Folk skriker. Stasi-agenter drar vapen. KGB-agenter aktiverar sina krafter. Schw
 
 Golem rör sig direkt mot Richter, river undan alla som står i vägen. Om någon försöker skada Richter attackerar Golem dem brutalt.
 
-**Detta är klimax av Akt I.** Kaos exploderar, och spelarna måste fatta snabba beslut:
+**Detta är klimax av Akt I.** Kaos följer, och spelarna måste fatta snabba beslut:
 
 - Försöker de skydda Richter och fly med honom?
 - Försöker de kommunicera med Golem?
@@ -357,7 +357,7 @@ Efter utbrottet från ambassaden måste spelarna spåra Golem. Beroende på omst
 
 #### Spåra Golem
 
-- **Ögonvittnen:** Folk på gatan såg ett "monster" springa förbi. Ett slag för *Samspel + Sinnen* (svårighet 2) ger riktning.
+- **Ögonvittnen:** Folk på gatan såg ett "monster" springa förbi. Ett slag för *Samspel + Sinnen* (**Svårt**) ger riktning.
 - **Radiotrafik:** Om spelarna har tillgång till radiomottagare kan de avlyssna Volkspolizei och Stasi's kommunikation. Golem's rörelser orsakar rapporter.
 - **Följa förstörelsen:** Golem lämnar spår – krossade dörrar, skadade fordon, skrämda människor.
 
@@ -470,7 +470,7 @@ Behandla detta som en **kapplöpning** (se [[Aktiviteter]]). Spelarna försöker
 
 - **Martin kör:** *Smidighet + Sinnen*, varje framgång är ett steg närmare gränsen.
 - **Förföljare:** Slå också *Smidighet + Sinnen* för Vopos. Om de får fler framgångar kommer de ikapp.
-- **Spelarna kan hjälpa:** De kan skjuta mot däck (*Strid + Sinnen*, svårighet 2), använda krafter för att störa, eller improvisera hinder.
+- **Spelarna kan hjälpa:** De kan skjuta mot däck (*Strid + Sinnen*, **Svårt**), använda krafter för att störa, eller improvisera hinder.
 
 Om jakten blir för intensiv kan Martin krascha bilen, vilket tvingar spelarna att fortsätta till fots eller hitta ett annat fordon.
 
@@ -480,9 +480,9 @@ Stasi kommer att radioinstruera checkpoints att stänga. **Checkpoint Charlie** 
 
 Spelarna kan:
 
-- **Försöka smita igenom:** *Smidighet + Fysik*, svårighet 3. Farligt, kan leda till beskjutning.
-- **Förhandla diplomatiskt:** *Samspel + Vilja*, svårighet 4. Svårt om de är efterlysta.
-- **Hitta en annan väg över muren:** Smyga via Potsdamer Platz eller kyrkoruinen. *Smidighet + Sinnen*, svårighet 3.
+- **Försöka smita igenom:** *Smidighet + Fysik*, **Mycket Svårt**. Farligt, kan leda till beskjutning.
+- **Förhandla diplomatiskt:** *Samspel + Vilja*, **Mycket Svårt**. Näst intill omöjligt om de är efterlysta.
+- **Hitta en annan väg över muren:** Smyga via Potsdamer Platz eller kyrkoruinen. *Smidighet + Sinnen*, **Mycket Svårt**.
 
 ### Muren och flyktrutter
 
@@ -493,21 +493,21 @@ Muren är ofullständig i november 1961. Det finns flera möjliga flyktrutter:
 En bombado kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
 
 - **Fara:** Bevakade torn på båda sidor. Risk för att bli beskjuten.
-- **Svårighet:** *Smidighet + Fysik*, svårighet 1 för att ta sig över, svårighet 2 om de bär någon.
+- **Svårighet:** *Smidighet + Fysik*, **Normalt**, **Svårt** om de bär någon.
 
 #### Potsdamer Platz – Ödemarken
 
 En gång stadens hjärta, nu en öde ruin. Muren är ofärdig här, mest taggtråd.
 
 - **Fara:** Patrullerande soldater, strålkastare.
-- **Svårighet:** *Smidighet + Sinnen*, svårighet 2 för att smyga, svårighet 3 om de har Richter eller Elisabeth med sig.
+- **Svårighet:** *Smidighet + Sinnen*, **Svårt**, **Mycket Svårt** om de har Richter eller Elisabeth med sig.
 
 #### Floden Spree
 
 Vissa delar av floden är mindre bevakade, men vattnet är iskallt i november och strömmarna farliga.
 
 - **Fara:** Hypotermi, drunkning, bevakningsbåtar.
-- **Svårighet:** *Fysik + Vilja*, svårighet 2. Kan vara dödligt utan förberedelse.
+- **Svårighet:** *Fysik + Vilja*, **Svårt**. Kan vara dödligt utan förberedelse.
 
 ### Vad vet de olika fraktionerna?
 
@@ -624,7 +624,7 @@ Om Yaakov Dayan är närvarande när spelarna hittar Richter blir det en intenst
 
 Yaakov vill döda Richter och Elisabeth för deras brott. Men när han ser Golem – ser sitt eget kött och blod förvandlat till ett vapen – bryts han nästan.
 
-Spelarna kan försöka övertala Yaakov att Richters kunskap kan rädda andra (*Samspel + Vilja*, svårighet 4). Eller de kan acceptera hans rätt till hämnd och låta det ske.
+Spelarna kan försöka övertala Yaakov att Richters kunskap kan rädda andra (*Samspel + Vilja*, **Mycket Svårt**). Eller de kan acceptera hans rätt till hämnd och låta det ske.
 
 Om Yaakov lyckas döda Richter reagerar Golem instinktivt – han attackerar sin broders mördare. Detta kan leda till en tragisk kamp där Golem dödar Yaakov, eller där Yaakov tvingas försvara sig mot sitt eget syskon.
 
@@ -860,14 +860,14 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 - Morana kan sänka temperaturen i ett 5-metersradius runt henne eller fokusera på en specifik person inom 10 meter.
 - **Kostnad:** 1 Fokus per runda.
-- **Effekt:** Alla inom området tar 1 KP skada per runda från kylan och får +1 svårighet på alla fysiska handlingar (stelhet).
-- Fokuserad attack på en person: *Vilja + Analys* (svårighet 2 för att motstå med *Fysik + Vilja*). Vid framgång: 2 skadetärningar koldskada och målet blir **bedövat** (svårt att röra sig).
+- **Effekt:** Alla inom området tar 1 KP skada per runda från kylan och fysiska handlingar blir ett steg svårare (stelhet).
+- Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 skadetärningar koldskada och målet blir **bedövat** (svårt att röra sig).
 
 **Nervbedövning:**
 
 - Genom att röra någon kan Morana bedöva deras nerver lokalt.
 - **Kostnad:** 2 Fokus.
-- **Effekt:** Målet förlorar känsel i den berörda kroppsdelen (arm, ben). +2 svårighet på handlingar med den delen. Varar 1T12 rundor.
+- **Effekt:** Målet förlorar känsel i den berörda kroppsdelen (arm, ben). Handlingar med den delen två steg svårare. Varar 1T12 rundor.
 
 **Svaghet:** Värme och eld neutraliserar hennes krafter. Hon måste hålla sig sval för att fungera. Överansträngning kan göra henne sjuk.
 
@@ -899,7 +899,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, mus
 
 - Svarog fokuserar all sin kraft på ett föremål eller person.
 - **Kostnad:** 3 Fokus.
-- **Effekt:** Han gör ett angrepp med *Fysik + Strid* (svårighet 2). Vid framgång: 4 skadetärningar brännskada. Metallföremål smälter, trä fattar eld.
+- **Effekt:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). Vid framgång: 4 skadetärningar brännskada. Metallföremål smälter, trä fattar eld.
 
 **Svaghet:** Överhettas lätt. Efter att ha använt krafter i 5+ rundor börjar han ta 1 KP skada per runda tills han svalnar. Vatten och kyla neutraliserar hans krafter tillfälligt.
 

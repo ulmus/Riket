@@ -71,7 +71,8 @@ Use bold for:
 - **Requirement labels**: Labels like "Krav:", "Effekt:", "Kostnad:".
 - **Table headers** and **column names** in inline context.
 - **Action types**: **Huvudhandling**, **Bihandling**, **Reaktion**.
-- **Numeric values** that are mechanically significant (e.g., "**+1 svårighet**", "**1 Stress**").
+- **Numeric values** that are mechanically significant (e.g., "**1 Stress**").
+- **Difficulty levels**: **Normalt**, **Svårt**, **Mycket Svårt** when specifying difficulty in rules or adventure text.
 
 ### Italics Usage (*text*)
 Use italics for:
@@ -88,7 +89,7 @@ Always use the following terms as defined in [[Terminologi]]:
 - **Fokus** (not "fokuspoäng") for the personal resource.
 - **Momentum** (not "Story-Fokus") for the narrative pacing that sets starting Fokus each scene.
 - **Slag** (not "kast" or "tärningskast") for a dice roll.
-- **Svårighet** (not "svårighetsgrad") for the number of successes required.
+- **Svårighet** expressed as named levels: **Normalt** (1 framgång), **Svårt** (2 framgångar), **Mycket Svårt** (3 framgångar). Never use numeric "svårighet X" — always use the named levels. Omit difficulty when it is **Normalt** (the default). SL sets difficulty as a holistic judgment, not by summing individual modifiers. Use "ett steg svårare" / "två steg svårare" for relative modifiers (e.g., conditions like Sårad).
 - **Komplikation** for unexpected negative events after spending Fokus on a failed roll.
 - **Kroppspoäng (KP)** with abbreviation in parentheses on first use, then just "KP".
 - **Stabilitet** for stress threshold.

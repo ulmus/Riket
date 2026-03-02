@@ -216,7 +216,7 @@ Slå Strid + Vilja. Levande varelser inom 10 meter måste slå Vilja eller förl
 
 - **+1 Fokus:** Forma attacken som en kon.
 - **+1 Fokus:** Välj vilka mål som drabbas.
-- **1 Framgång:** +1 svårighet på motståndsslaget.
+- **1 Framgång:** Motståndsslaget ett steg svårare.
 - **1 Framgång:** +1 rundas desorientering.
 
 ---
@@ -248,7 +248,7 @@ När du träffas av en attack, öka ditt skydd med 1. Kan aktiveras efter träff
 Rusa dubbla förflyttningen rakt fram. Slå Fysik + Smidighet – varje framgång låter dig ignorera ett hinder. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
 
 - **+1 Fokus:** Räknas som närstridsattack mot alla i vägen.
-- **1 Framgång:** +1 svårighet för fiender att hålla sig upp.
+- **1 Framgång:** Fienders slag för att hålla sig upp ett steg svårare.
 - **1 Framgång:** +1 förflyttning på rusningen.
 
 ---

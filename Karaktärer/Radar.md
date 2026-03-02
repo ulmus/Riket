@@ -35,7 +35,7 @@ Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vi
 
 - **+1 Fokus:** Forma attacken som en kon istället för en sfär.
 - **+1 Fokus:** Välj vilka mål inom konen som drabbas.
-- **1 Framgång:** Öka svårigheten på motståndsslaget med **+1**.
+- **1 Framgång:** Motståndsslaget ett steg svårare.
 - **1 Framgång:** Öka antalet rundor som målen blir desorienterade med **+1**.
 - **1 Framgång:** Öka räckvidden på attacken med 10 meter.
 

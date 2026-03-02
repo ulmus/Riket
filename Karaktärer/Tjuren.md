@@ -41,20 +41,20 @@ När karaktären träffas av en attack som gör skada kan de aktivera denna för
 Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och slår för Fysik + Smidighet. Varje Framgång låter karaktären ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
 
 - **+1 Fokus:** Attacken räknas som en närstridsattack mot alla som står i vägen.
-- **1 Framgång:** Öka svårigheten för fiender att hålla sig på fötter med **+1**.
+- **1 Framgång:** Fienders slag för att hålla sig på fötter ett steg svårare.
 - **1 Framgång:** Öka distansen på rusningen med en Förflyttning.
 
 ## Förmågor
 
-### Automatsalva (1 Fokus, 1 huvudhandling)
+### Automatsalva (Alltid aktiv / 1 Fokus för lång salva)
 
 *Krav:* Fysik 2, Strid 2, vapen med egenskapen *automateld*
 
-Du kan skjuta en lång salva med bibehållen precision.
+Du är tränad i att kontrollera automateld med precision.
 
-- **Huvudhandling:** Gör en avståndsattack med Fysik + Strid. För varje Framgång utöver den första så träffar ett skott extra på målet eller på ett annat mål inom tre meter från ett tidigare träffat mål (i samma salva).
-- Varje träff ger vapnets grundskada men ett lägre i skala.
-- Kostar 1 magasin.
+- Du kan använda **Fysik + Strid** istället för Smidighet + Strid vid automateld.
+- **Kort salva:** Ger **+3 skadetärningar** istället för +2.
+- **Lång salva:** Gör en avståndsattack med Fysik + Strid. Varje framgång utöver den första träffar ett extra mål inom 3 meter från föregående träff. Varje extra träff ger vapnets grundskada ett steg lägre i skala. Kostar **1 Fokus** och 1 magasin.
 
 ### Slagsmål (Alltid aktiv)
 
@@ -75,7 +75,7 @@ Du har +1 på Samspel med djur.
 
 ### Förhöjd ämnesomsättning
 
-Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 kalorier per dag). Om de inte gör det så blir de snabbt darriga och alla Fysik- och Smidighet-slag får **+1 svårighet**.
+Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 kalorier per dag). Om de inte gör det så blir de snabbt darriga och alla Fysik- och Smidighet-slag blir ett steg svårare.
 
 ## Återhämtning
 
