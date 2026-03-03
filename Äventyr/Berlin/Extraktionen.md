@@ -365,6 +365,9 @@ Beroende på situationen kan Golem ha tagit Richter till:
 
 ### Richters hem – Friedrichshain
 
+[![[Richters hus gatuplan.png]]](<Richters hus gatuplan.png>)
+[![[Richters hus andra våningen.png]]](<Richters hus andra våningen.png>)
+
 Paret Richters lägenhet ligger på **Warschauer Strasse 47**, en grå betongbyggnad från 1920-talet i stadsdelen Friedrichshain.
 
 #### Byggnaden
@@ -407,8 +410,6 @@ Om Golem inte fick order från Richter (om han var medvetslös eller död) kan h
 
 Nebelkrone-laboratoriet ligger i Berlin, i en före detta fabriksbyggnad omgjord till forskningsfacilitet, omgiven av höga staket, bevakat av Stasi-soldater.
 
-Om Golem flyr hit med Richter blir situationen extremt komplicerad. Spelarna kan inte gå in i anläggningen utan att bli gripna eller dödade.
-
 #### Beskrivning av anläggningen
 
 Bakom ett högt stängsel av taggtråd och metall ligger ett komplex av grå betongbyggnader. Huvudbyggnaden är tre våningar hög med små, barrikaderade fönster. Inuti finns laboratorier, cellrum, operationsrum och observationsenheter.
@@ -421,6 +422,12 @@ Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) m�
 - **Generalmajor Klaus Adler** – Stasi-chef för Nebelkrone, hård och pragmatisk. Se [[#Generalmajor Klaus Adler]].
 
 ### Haus an Den Birken – det övergivna huset
+
+[![[Ödehus - bottenvåning.png]]](<Ödehus - bottenvåning.png>)
+
+[![[Ödehus - källare.png]]](<Ödehus - källare.png>)
+
+[![[Ödehus - vind.png]]](<Ödehus - vind.png>)
 
 Om Golem är skadad eller förvirrad kan hans djupaste minnen väckas – minnen från innan han blev Golem, när han var Elias Lewinsky.
 
@@ -597,9 +604,6 @@ Mossad har jagat nazister i åratal. Yaakov har spenderat 15 år på att spåra 
 
 ### Akt III – Bröder och Monster
 
-[![[Richters hus gatuplan.png]]](<Richters hus gatuplan.png>)
-[![[Richters hus andra våningen.png]]](<Richters hus andra våningen.png>)
-
 Konfrontationen sker i det övergivna huset, Richters hem eller vid Nebelkrone-laboratoriet. Richter försöker åter ta kontroll över Golem. Yaakov konfronterar honom och inser till slut sanningen: monstret är hans bror Elias. Golem känner igen något i Yaakov – men bara som i en dröm.
 
 PC:s måste välja:
@@ -638,10 +642,6 @@ Om spelarna lyckas få med sig Richter (och eventuellt Elisabeth och Golem) mås
 - **CIA:s hjälp:** Om de tidigare förhandlade med Donnelly kan de försöka kontakta honom – men han kommer att försöka kidnappa Richter.
 
 Om de lyckas ta sig till Västberlin är de säkra – men konsekvenserna av deras val kommer att förfölja dem.
-
-![[Ödehus - bottenvåning.png]]
-![[Ödehus - källare.png]]
-![[Ödehus - vind.png]]
 
 ## Persongalleri
 
