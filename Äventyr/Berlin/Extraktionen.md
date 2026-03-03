@@ -250,15 +250,35 @@ Keller är genuint idealistisk men naiv. Han tror att god vilja och diplomati ka
 
 Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare som spelarna kan interagera med:
 
-**Professor Hermann Müller:** [![[Professor Hermann Müller.png]]](<SLP/Professor Hermann Müller.png>) Östtysk fysiker, genuint intresserad av vetenskapligt utbyte. Pratar ivrigt om kvantfysik och missiler, men är politiskt naiv.
+##### Professor Hermann Müller
 
-**Oberleutnant Karl Brenner (Stasi):** [![[Karl Brenner.png]]](<SLP/Karl Brenner.png>) I civil klädsel, men uppenbart militär i sitt kroppsspråk. Brenner övervakar Richter men försöker vara diskret. Han vet inte om avhoppet ännu.
+[![[Professor Hermann Müller.png]]](<SLP/Professor Hermann Müller.png>)
 
-**Fräulein Ingrid Schumann:** [![[Fräulein Ingrid Schulmann.png]]](<SLP/Fräulein Ingrid Schulmann.png>) Östtysk operasångerska, bjuden för att ge mottagningen kulturell glans. Hon är charmig och pratar gärna med främlingar. Hon är omedveten om politiska intriger.
+Östtysk fysiker i sextioårsåldern med ett närmast barnsligt engagemang för sitt ämne. Han pratar ivrigt om kvantfysik och raketteknologi med vem som helst och verkar genuint omedveten om att hans forskning tjänar militära syften. Politiskt naiv men lätt att använda som täckmantel eller distraktion vid behov.
 
-**Monsieur Jean-Pierre Leclerc:** [![[Monsieur Jean-Pierre Leclerc.png]]](<SLP/Monsieur Jean-Pierre Leclerc.png>) Fransk diplomat, cynisk och road av Berlins intrigspel. Han misstänker något men blandar sig inte i.
+##### Oberleutnant Karl Brenner
 
-**Agent Richard "Dick" Donnelly (CIA):** Presenterar sig som "kulturattaché vid amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter och kommer också att närma sig rollpersonerna.
+[![[Karl Brenner.png]]](<SLP/Karl Brenner.png>)
+
+I civil klädsel ikväll, men det militära kroppsspråket är svårt att dölja — ryggen rak, blicken konstant skannande. Brenner övervakar Richter på uppdrag av Stasi men vet ännu inte om avhoppet. Han är nervös, ambitiös och farlig för den som väcker hans misstankar för tidigt.
+
+##### Fräulein Ingrid Schumann
+
+[![[Fräulein Ingrid Schulmann.png]]](<SLP/Fräulein Ingrid Schulmann.png>)
+
+Östtysk operasångerska i trettioårsåldern, bjuden för att ge mottagningen kulturell glans. Hon är livlig och pratglad och rör sig obehindrat bland gästerna. Helt omedveten om kvällens politiska skikt kan hon fungera som täckmantel eller distraktion — en välmenande samtalspartner som inte frågar om saker hon inte förstår.
+
+##### Monsieur Jean-Pierre Leclerc
+
+[![[Monsieur Jean-Pierre Leclerc.png]]](<SLP/Monsieur Jean-Pierre Leclerc.png>)
+
+Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han har sett tillräckligt för att veta när något pågår, och ikväll pågår det definitivt något. Leclerc är cynisk och road av intrigspelet men blandar sig aldrig i andras affärer. Hans tystnad är berömvärd men hans ögon missar ingenting.
+
+##### Agent Richard "Dick" Donnelly (CIA)
+
+[![[Dick.png]]](<SLP/Dick.png>)
+
+Presenterar sig som "kulturattaché vid amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter och kommer också att närma sig rollpersonerna.
 
 Spelarna kan cirkulera, mingla och samla information. Ett slag för *Samspel + Sinnen* låter dem identifiera nyckelspelare och läsa stämningar. Fler framgångar ger mer information.
 
@@ -435,10 +455,17 @@ I källaren hålls de flesta försökspersoner – personer Stasi klassificerar 
 
 Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) möts de av en fruktansvärd plats – ett modernt helvete där människor förvandlas till vapen.
 
-**Nyckelpersoner på platsen:**
+##### Dr. Marlene Fischer
 
-- **Dr. Marlene Vogel:** Östtysk läkare som försöker "moralisera" programmet. Hon hatar Richter men är tvungen att arbeta för honom. Hon kan bli en oväntad allierad om spelarna kan övertyga henne.
-- **Generalmajor Klaus Adler (Stasi):** [![[Klaus Adler.png]]](<SLP/Klaus Adler.png>) Nebelkrones operativa överordnade. Hård kommunist som hatar Richter men inser hans värde. Om Richter flyr hit kommer Adler att säkra honom och förbereda transport till Moskva.
+[![[Dr Marlene Fischer.png]]](<SLP/Dr Marlene Fischer.png>)
+
+Östtysk läkare som försöker "moralisera" programmet. Hon hatar Richter men är tvungen att arbeta för honom. Dr. Fischer är ångerfull och kan bli en oväntad allierad om spelarna kan övertyga henne.
+
+##### Generalmajor Klaus Adler
+
+[![[Klaus Adler.png]]](<SLP/Klaus Adler.png>)
+
+Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårsåldern med rakad skalle och en blick som aldrig riktigt fokuserar på den han talar med utan på rummet runt honom. Han hatar Richter på ett personligt plan men erkänner hans vetenskapliga värde. Om Richter flyr hit kommer Adler att säkra honom och förbereda transport till Moskva — på egna villkor.
 
 ### Haus an Den Birken – det övergivna huset
 
@@ -689,7 +716,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 
 [![[Frau Richter.png]]](<SLP/Frau Richter.png>)
 
-Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinna i sextioårsåldern, märkt av cancer och bitterhet. Hon ligger mestadels i sängen, blek och svag, men hennes ögon är fortfarande skarpa och intelligenta.
+Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinna i sextioårsåldern, märkt av cancer och en tystlåten bitterhet som sitter djupare än sjukdomen. Hon ligger mestadels i sängen, blek och svag, men hennes ögon är fortfarande skarpa och intelligenta. Hennes röst har bevarat sin skärpa även om kroppen sviker, och hennes ord är aldrig slumpmässiga.
 
 **Personlighet:** Allvarligt sjuk, bitter, lojal mot sin man. Elisabeth har aldrig ifrågasatt det arbete de gjorde. Hon ser fortfarande sina gärningar som nödvändiga för vetenskapen. Hon är mer öppet kallsinnig än Hans, som åtminstone spelar varm.
 
@@ -746,7 +773,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 [![[Yaakuv.png]]](<SLP/Yaakuv.png>)
 
-Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, medelbyggd med mörkt hår och intensiva ögon. Han bär servitörskläder som täckmantel men rör sig med militär precision.
+Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, medelbyggd med mörkt hår och intensiva ögon som sällan stannar på ett ställe. Han bär servitörskläder som täckmantel men rör sig med en militär precision som avslöjar träningen bakom. Under fasaden döljer sig tolv års hat och ett löfte avgivet vid sin brors grav.
 
 **Personlighet:** Driven av hat mot Richter och hans fru. Yaakov är professionell men hans personliga vendetta gör honom farlig och oförutsägbar. Han bär djupa ärr från Auschwitz – både fysiska och psykiska.
 
@@ -763,7 +790,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 
 #### Dr. Lars Hedström
 
-Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårsåldern med glest hår, kavaj med senapsfläck och ständig cigarett. Han ser trött ut men har en skarp intelligens bakom de trötta ögonen.
+Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårsåldern med glest hår, kavaj med senapsfläck och en nästan konstant cigarett. Han ser trött ut — och han är trött, på sig själv mer än något annat. Han bär sina egna hemligheter tungt och ser i Richter en spegel av vad han en gång riskerade att bli.
 
 **Personlighet:** Försöker rädda Richter för kunskapens skull, men också som en moralisk skyldighet. Hedström bär skulden för sina egna experiment och ser Richter som en spegel av sig själv – en påminnelse om vad han kunde ha blivit.
 
@@ -785,7 +812,7 @@ Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden o
 
 [![[Karl Brenner.png]]](<SLP/Karl Brenner.png>)
 
-Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig. Brenner är vältränad, arrogant och lojal mot DDR. Han vill gripa Richter själv för ära och befordran.
+Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för sina överordnade. Brenner är vältränad, arrogant och genomlojal mot DDR. Han har spenderat tre år i Stasis skugga och ser detta uppdrag som sin chans att äntligen klättra. Hans militära hållning syns tydligt även i civil klädsel — ryggen alltid rak, blicken alltid skannande.
 
 **Motivation:** Bevisa sitt värde för Stasi. Stoppa avhoppet. Fånga Richter levande.
 
@@ -802,7 +829,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig. Bren
 
 [![[Irma Vogel.png]]](<SLP/Irma Vogel.png>)
 
-Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren. Vogel är lojal mot regimen men pragmatisk nog att se potentialen i att förhandla med Frigg om situationen kräver det.
+Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kommer med år av illusionsförlust. Vogel är lojal mot regimen men inte av idealism — hon har sett för mycket för det. Hon är pragmatisk nog att se potentialen i att förhandla med Frigg om situationen kräver det, och farlig nog att agera på det beslutet.
 
 **Motivation:** Säkra DDR:s intressen. Minimera diplomatisk skada. Hindra Richters flykt men undvika internationell incident.
 
@@ -841,7 +868,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 
 [![[Viktor Baranov.png]]](<SLP/Viktor Baranov.png>)
 
-Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och briljant strateg. Han är hänsynslös och ser både CIA och Stasi som hinder. Richter är en läckande resurs som måste säkras eller elimineras.
+Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och briljant strateg med ett rykte om kalla beslut fattade utan tvekan. Han talar alltid lugnt, nästan vänskapligt, men bakom orden döljer sig en man som ser hela schackbrädet. Han är hänsynslös och ser både CIA och Stasi som hinder. Richter är en läckande resurs som måste säkras eller elimineras.
 
 **Motivation:** Säkra Richter för Sovjet eller förhindra att han faller i västlig hand. Eliminera honom om nödvändigt.
 
@@ -857,7 +884,7 @@ Baranov är en bakgrundsfigur som koordinerar operationen men deltar inte direkt
 
 [![[Lyudmila.png]]](<SLP/Lyudmila.png>)
 
-KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, tyst, iskall och disciplinerad. Hon har full insikt i superagenter och leder gripandet av Richter.
+KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, medelstort bygge med kort mörkt hår och neutrala kläder som hjälper henne att försvinna i folkmassan. Hon är tyst, iskall och absolut disciplinerad, med en förmåga att läsa rum och situationer på ett ögonblick. Hon har full insikt i ENS-agenter och leder gripandet av Richter med metodisk precision.
 
 **Motivation:** Utföra order. Gripa Richter. Eliminera motstånd effektivt.
 
@@ -874,7 +901,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, tyst, iskal
 
 [![[Morana.png]]](<SLP/Morana.png>)
 
-Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek som is med vitt hår och blå läppar. Hon talar sällan och behandlar människor som objekt. Hon är en produkt av Sovjets experimentprogram, kontrollerad men farlig.
+Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek som is med vitt hår och läppar med en blåaktig nyans som förbryllar dem som möter henne. Hon talar knappt och behandlar alla runt henne som objekt snarare än personer. Vid mottagningen verkar hon märkligt felplacerad — för stilla, för exakt i sina rörelser, och ovanligt kall att ta i hand.
 
 **Personlighet:** Kliniskt avstängd, emotionslös. Ser uppdrag som funktioner att utföra.
 
@@ -908,7 +935,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 [![[Svarog.png]]](<SLP/Svarog.png>)
 
-Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, muskulös och tystlåten. Hans hud svettas ständigt och utstrålar värme. Han är djupt tränad i närstrid och kan inte tåla att använda sin kraft länge utan att överhettas.
+Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bred och muskulös med ständigt svettad hud som utstrålar märkbar värme vid beröring. Han rör sig som ett rovdjur bland gästerna, alltid nära Sokolova, alltid med ryggen mot väggen. Hans ärrade händer och konstanta svettning avslöjar att hans kropp är ett vapen som aldrig riktigt vilar.
 
 **Personlighet:** Tystlåten, disciplinerad, brutal vid behov. Ser sig själv som ett vapen.
 
@@ -944,7 +971,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, mus
 
 [![[Otto Keller.png]]](<SLP/Otto Keller.png>)
 
-Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioårsåldern med grånande mustasch och diplomatisk hållning. Genuint idealistisk men naiv. Ovillig att ingripa men fast i kaoset.
+Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioårsåldern med grånande mustasch och den orubbliga diplomatiska hållning som tjugo år i Utrikesdepartementet ger. Han är genuint idealistisk och tror på dialogens kraft i alla situationer. Naiv nog att ha bjudit in alla dessa intressen under samma tak — och nu fast mitt i kaoset utan en aning om vad han ska göra.
 
 **Egenskaper:** Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
@@ -952,7 +979,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 
 [![[Sven Hellén.png]]](<SLP/Sven Hellén.png>)
 
-Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrått hår. Van vid diplomatins känsliga balansgångar men djupt obekväm med underrättelseoperationer.
+Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrått hår och den lugna auktoriteten hos en van diplomat. Han har tjänstgjort i Paris, Wien och Nairobi och vet hur man navigerar svåra rum. Men operationer som dessa — hemliga, riskfyllda och tydligt utanför hans mandat — gör honom mäktigt obekväm och hans lojalitet svår att räkna med.
 
 **Egenskaper:** Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
 
@@ -960,7 +987,7 @@ Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrå
 
 [![[Greta Holm.png]]](<SLP/Greta Holm.png>)
 
-Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåldern, professionell och pragmatisk. Vet om Program Frigg och har arbetat med T-kontoret tidigare.
+Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåldern, professionell och genomskarp med ett sätt att kommunicera exakt det som behövs — aldrig mer. Till skillnad från Hellén vet hon exakt vad som pågår och har inga illusioner om riskerna. Hon är den enda på ambassaden som spelarna kan tala helt öppet med.
 
 **Egenskaper:** Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2.
 
@@ -968,7 +995,7 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 
 [![[Martin Weber.png]]](<SLP/Martin Weber.png>)
 
-Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född i Berlin. Diskret men kompetent. Hatar muren men gör sitt jobb.
+Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och uppvuxen i Berlin som han sett förvandlas från en metropol till en delad fästning. Han frågar aldrig vad passagerarna egentligen håller på med men är inte dum — han vet tillräckligt för att hålla tyst och köra fort. Han hatar muren med en tyst, metodisk ilska.
 
 **Egenskaper:** Smidighet 3, Sinnen 3, Strid 2, Vilja 2, Analys 2, Fysik 2, List 1, Samspel 1.
 
@@ -976,7 +1003,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född i B
 
 [![[Heinz Bauer.png]]](<SLP/Heinz Bauer.png>)
 
-Östberlinsk polis i fyrtioårsåldern. Vanlig polis som hamnar mitt i händelserna. Lojal mot DDR men pragmatisk och inte särskilt ideologisk. Familjefar som inte vill dö för politikens skull.
+Östberlinsk polis i fyrtioårsåldern med sliten uniform och en trötthet i blicken som berättar om för många nattpass. Vanlig polis som denna kväll hamnar mitt i händelser han inte förstår och inte bett om. Lojal mot DDR men inte av övertygelse — mer av vana och försiktighet. Han har en fru och tre barn i Lichtenberg som han tänker komma hem till.
 
 **Egenskaper:** Strid 2, Sinnen 2, Samspel 2, Analys 1, Fysik 2, List 1, Smidighet 1, Vilja 2. **KP:** 5, **Stabilitet:** 2.
 
