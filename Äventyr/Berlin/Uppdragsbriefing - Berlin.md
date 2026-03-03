@@ -23,7 +23,7 @@ Målet är identifierat som **Dr. Hans Richter**, f.d. tysk vetenskapsman, för 
 ### Fas 1: Förberedelse
 - Resa till Västberlin under täckmantel som vetenskapliga rådgivare knutna till svenska ambassaden.
 - Diplomatpass utfärdas. Observera att dessa endast ger begränsat diplomatiskt skydd.
-- Ni rapporterar till ambassadör Sven Hellén vid svenska ambassaden i Västberlin.
+- Ni rapporterar till ambassadör Sven Hellén vid svenska ambassaden i Västberlin. Han är införstådd med avhoppet, men inte med Program Frigg.
 
 ### Fas 2: Kontakt
 - Dr. Richter kommer att närvara vid en diplomatisk mottagning på schweiziska ambassaden i Östberlin den 13 november 1961, kl. 19:00.
@@ -32,13 +32,11 @@ Målet är identifierat som **Dr. Hans Richter**, f.d. tysk vetenskapsman, för 
 
 ### Fas 3: Utförsel
 - Säkerställ Dr. Richter och hans maka Elisabeth Richter.
-- Använd diplomatiska kanaler för utresa där så är möjligt.
-- Vid komplikationer: se alternativa flyktvägar i bilagd karta (Bilaga 1, förvaras separat).
+- Använd diplomatiska kanaler för utresa där så är möjligt, annars alternativa flyktvägar.
 
 ## SÄRSKILDA ÖVERVÄGANDEN
 
 - **Diplomatiska konsekvenser:** Operationen får inte exponera svensk inblandning. Undvik konfrontation med DDR:s säkerhetsorgan.
-- **Tredje parts inblandning:** Västmakter och Sovjetunionen har motsvarande intressen i Berlin. Räkna med övervakning och eventuell konkurrerande verksamhet.
 - **Målgruppens säkerhet:** Dr. Richter rapporteras ha säkerhetsskydd. Var förberedda på att detta kan komplicera utförseln.
 
 ## KONTAKTPERSONER

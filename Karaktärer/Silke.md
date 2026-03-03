@@ -15,7 +15,7 @@
 ## Språk
 
 - Svenska (modersmål)
-- (1 ytterligare språk)
+- (1 ytterligare språkpoäng)
 
 ## Krafter
 

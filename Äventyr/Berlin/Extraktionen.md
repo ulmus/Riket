@@ -121,7 +121,7 @@ Efter genomgången har spelarna resten av dagen och följande dag att förbereda
 
 ### Resan till Västberlin
 
-Spelarna flyger med **SAS** från Bromma flygplats till Västberlin med mellanlandning i Köpenhamn. Flygplanet är en **Douglas DC-6**, en fyrmoторig propellermaskin som används på Skandinaviens längre rutter. Flygningen är okomplicerad men anspänd. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
+Spelarna flyger med **SAS** från Bromma flygplats till Västberlin med mellanlandning i Köpenhamn. Flygplanet är en **Douglas DC-6**, en fyrmotorig propellermaskin som används på Skandinaviens längre rutter. Flygningen är okomplicerad men anspänd. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
 
 På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartentorasse 18**, där den svenska ambassaden ligger.
 
@@ -195,7 +195,7 @@ Ett slag för *Sinnen + Analys* ger spelarna en bra översikt över potentiella 
 
 Spelarna kan försöka samla information om Richter, Stasi, eller CIA:s närvaro i Berlin. De kan besöka barer där underrättelsefolk samlas, prata med kontakter, eller helt enkelt lyssna på rykten.
 
-Ett slag för *Samspel + Sinnen* ger dem användbar information. Fler:framgångar ger viktigare information. De kan höra om:
+Ett slag för *Samspel + Sinnen* ger dem användbar information. Fler framgångar ger viktigare information. De kan höra om:
 
 - CIA har stationerat extra agenter i Berlin nyligen.
 - Stasi har ökat säkerheten kring vissa vetenskapliga faciliteter.
@@ -353,7 +353,7 @@ Om Richter är medvetslös eller skadad tar Golem honom över axeln och springer
 
 ### Jakten efter Golem och Richter
 
-Efter utbrottet från ambassaden måste spelarna spåra Golem. Beroende på omständigheterna kan de använda olika metoder:
+Efter utbrottet från ambassaden kan spelarna behöva spåra Golem. Beroende på omständigheterna kan de använda olika metoder:
 
 #### Spåra Golem
 
@@ -371,7 +371,7 @@ Beroende på situationen kan Golem ha tagit Richter till:
 
 ### Richters hem – Friedrichshain
 
-Om Golem tog Richter hem ligger lägenheten på **Warschauer Strasse 47**, en grå betongbyggnad från 1920-talet i stadsdelen Friedrichshain.
+Paret Richters lägenhet ligger på **Warschauer Strasse 47**, en grå betongbyggnad från 1920-talet i stadsdelen Friedrichshain.
 
 #### Byggnaden
 
@@ -474,7 +474,7 @@ Behandla detta som en **kapplöpning** (se [[Aktiviteter]]). Spelarna försöker
 
 Om jakten blir för intensiv kan Martin krascha bilen, vilket tvingar spelarna att fortsätta till fots eller hitta ett annat fordon.
 
-#### Kontrollstationer och blockeringar
+#### Checkpoint Charlie
 
 Stasi kommer att per radio instruera kontrollstationerna att stänga. **Checkpoint Charlie** kan vara blockerat när spelarna kommer dit.
 
@@ -526,6 +526,7 @@ För att spelledaren ska kunna spela fraktionerna realistiskt är det viktigt at
 - KGB vet om avhoppet (läcka i T-kontoret).
 - CIA planerar att kidnappa Richter.
 - Yaakov Dayan (Mossad) är på plats med personlig vendetta.
+- Richters fru är sjuk och hemmavarande
 
 **Varför de vet det de vet:**
 

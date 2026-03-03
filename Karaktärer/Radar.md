@@ -1,10 +1,10 @@
 
 | Egenskap  |     | Sekundärt    |        |
 | :-------- | --: | :----------- | :----- |
-| Analys    |   5 | KP           | 5      |
-| Fysik     |   2 | Sårad        | > 2 KP |
-| List      |   1 | Medvetslös   | > 5 KP |
-| Samspel   |   1 | Döende       | > 10 KP |
+| Analys    |   5 | Oskadd       | ❏❏     |
+| Fysik     |   2 | Sårad        | ❏❏❏    |
+| List      |   1 | Medvetslös   | ❏❏❏❏❏  |
+| Samspel   |   1 | Döende       | ❏❏❏❏❏  |
 | Sinnen    |   4 | Förflyttning | 4 m    |
 | Smidighet |   2 | Stabilitet   | 2      |
 | Strid     |   3 | Stress       | ❏❏❏❏❏❏ |
@@ -15,7 +15,7 @@
 ## Språk
 
 - Svenska (modersmål)
-- (3 ytterligare språk)
+- (4 ytterligare språkpoäng)
 
 ## Krafter
 
@@ -33,10 +33,9 @@ Karaktären kan lyssna på radiofrekvenser så länge hen koncentrerar sig. Om s
 
 Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vilja. Om slaget lyckas så blir levande varelser inom 10 meter desorienterade och förlorar sin nästa runda om de inte lyckas med ett slag för Vilja + Vilja. Elektronik blir också utstörd, SL avgör i vilken grad.
 
-- **+1 Fokus:** Forma attacken som en kon istället för en sfär.
 - **+1 Fokus:** Välj vilka mål inom konen som drabbas.
 - **1 Framgång:** Motståndsslaget ett steg svårare.
-- **1 Framgång:** Öka antalet rundor som målen blir desorienterade med **+1**.
+- **1 Framgång:** Målen är utslagna hela scenen.
 - **1 Framgång:** Öka räckvidden på attacken med 10 meter.
 
 ## Förmågor
