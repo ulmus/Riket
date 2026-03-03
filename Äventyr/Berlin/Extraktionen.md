@@ -183,7 +183,7 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
-![[Berlin.jpg]]
+[![[Berlin.jpg]]](<Berlin.jpg>)
 
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
@@ -220,9 +220,11 @@ Om spelarna har egna kontakter kan de försöka aktivera dem för att få mer in
 Den schweiziska ambassaden ligger på **Unter Den Linden 29-31** i centrala Östberlin, en imponerande neoklassisk byggnad från 1800-talet med hög fasad och ornamenterad portal. Byggnaden symboliserar Schweiz' neutralitet – en ö av diplomatisk fred mitt i det kalla krigets Berlin.
 
 Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk hemma — också ska räddas. Han vägrar lämna Östtyskland utan henne. Vad han inte vet är att **Yaakov Dayan**, Mossad-agenten, är medveten om vem Elisabeth är: Richters lojala assistent från Mengele-projektets dagar. Yaakov bär ett personligt hat mot henne och skulle inte tveka att se henne dö.
-![[Schweiziska ambassaden.png]]
 
 #### Byggnaden och lokaler
+
+[![[Schweiziska ambassaden.png]]](<Schweiziska ambassaden.png>)
+
 
 **Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Östtyska och schweiziska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
 
@@ -256,6 +258,8 @@ Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare so
 
 Östtysk fysiker i sextioårsåldern med ett närmast barnsligt engagemang för sitt ämne. Han pratar ivrigt om kvantfysik och raketteknologi med vem som helst och verkar genuint omedveten om att hans forskning tjänar militära syften. Politiskt naiv men lätt att använda som täckmantel eller distraktion vid behov.
 
+**Egenskaper:** Analys 4, Samspel 2, Vilja 2, Fysik 1, List 1, Sinnen 2, Smidighet 1, Strid 1.
+
 ##### Oberleutnant Karl Brenner
 
 [![[Karl Brenner.png]]](<SLP/Karl Brenner.png>)
@@ -268,11 +272,15 @@ I civil klädsel ikväll, men det militära kroppsspråket är svårt att dölja
 
 Östtysk operasångerska i trettioårsåldern, bjuden för att ge mottagningen kulturell glans. Hon är livlig och pratglad och rör sig obehindrat bland gästerna. Helt omedveten om kvällens politiska skikt kan hon fungera som täckmantel eller distraktion — en välmenande samtalspartner som inte frågar om saker hon inte förstår.
 
+**Egenskaper:** Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 2, Strid 1.
+
 ##### Monsieur Jean-Pierre Leclerc
 
 [![[Monsieur Jean-Pierre Leclerc.png]]](<SLP/Monsieur Jean-Pierre Leclerc.png>)
 
 Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han har sett tillräckligt för att veta när något pågår, och ikväll pågår det definitivt något. Leclerc är cynisk och road av intrigspelet men blandar sig aldrig i andras affärer. Hans tystnad är berömvärd men hans ögon missar ingenting.
+
+**Egenskaper:** Analys 3, Samspel 3, List 3, Vilja 2, Fysik 1, Sinnen 3, Smidighet 1, Strid 1.
 
 ##### Agent Richard "Dick" Donnelly (CIA)
 
@@ -461,11 +469,15 @@ Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) m�
 
 Östtysk läkare som försöker "moralisera" programmet. Hon hatar Richter men är tvungen att arbeta för honom. Dr. Fischer är ångerfull och kan bli en oväntad allierad om spelarna kan övertyga henne.
 
+**Egenskaper:** Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
+
 ##### Generalmajor Klaus Adler
 
 [![[Klaus Adler.png]]](<SLP/Klaus Adler.png>)
 
 Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårsåldern med rakad skalle och en blick som aldrig riktigt fokuserar på den han talar med utan på rummet runt honom. Han hatar Richter på ett personligt plan men erkänner hans vetenskapliga värde. Om Richter flyr hit kommer Adler att säkra honom och förbereda transport till Moskva — på egna villkor.
+
+**Egenskaper:** Analys 3, Vilja 4, List 3, Samspel 2, Fysik 2, Sinnen 2, Smidighet 1, Strid 2.
 
 ### Haus an Den Birken – det övergivna huset
 
@@ -641,10 +653,11 @@ CIA:s signalspaning avlyssnade kommunikationer mellan Stockholm och Västberlin.
 
 Mossad har jagat nazister i åratal. Yaakov har spenderat 15 år på att spåra Richter. Han fick tips från en östtysk avhoppare om Richters närvaro på ambassaden och infiltrerade som servitör.
 
-![[Richters hus gatuplan.png]]
-![[Richters hus andra våningen.png]]
 
 ### Akt III – Bröder och Monster
+
+[![[Richters hus gatuplan.png]]](<Richters hus gatuplan.png>)
+[![[Richters hus andra våningen.png]]](<Richters hus andra våningen.png>)
 
 Konfrontationen sker i det övergivna huset, Richters hem eller vid Nebelkrone-laboratoriet. Richter försöker åter ta kontroll över Golem. Yaakov konfronterar honom och inser till slut sanningen: monstret är hans bror Elias. Golem känner igen något i Yaakov – men bara som i en dröm.
 
