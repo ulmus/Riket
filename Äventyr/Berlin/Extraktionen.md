@@ -137,9 +137,7 @@ Den svenska ambassaden ligger i en elegant 1800-tals-byggnad i centrala Västber
 
 #### Ambassadör Sven Hellén
 
-[![[Sven Hellén.png]]](<SLP/Sven Hellén.png>)
-
-**Ambassadör Sven Hellén** är en man i sextioårsåldern, elegant, med silvergrått hår och manierade sätt. Han har tjänstgjort i flera huvudstäder och är van vid diplomatins känsliga balansgångar. Han känner till T-kontoret men inte till Program Frigg.
+*Se [[#Ambassadör Sven Hellén (Sverige, Västberlin)]].*
 
 När spelarna anländer tar han emot dem i sitt kontor, erbjuder dem te och pratar artigt om deras "vetenskapliga uppdrag". Men hans kroppsspråk avslöjar att han vet mer än han säger.
 
@@ -147,17 +145,13 @@ När spelarna anländer tar han emot dem i sitt kontor, erbjuder dem te och prat
 
 Hellén är inte fientlig, men han är orolig och lite frustrerad över att inte vara fullt insatt i operationen. Han vet att om svenska medborgare grips i Östberlin under en spionoperation kan det bli en internationell incident. Och då är det han som måste städa upp.
 
-**Egenskaper:** Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
-
 #### Greta Holm
 
-[![[Greta Holm.png]]](<SLP/Greta Holm.png>)
-
-**Greta Holm** är en kvinnlig diplomat i fyrtiofemårsåldern som fungerar som kontaktperson för Program Frigg. Hon är professionell, skarp och betydligt mer pragmatisk än Hellén. Greta är den enda på ambassaden som känner till Program Frigg och en av de få som känner till T-kontoret.
+*Se [[#Greta Holm (Sverige, Västberlin)]].*
 
 Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk information:
 
-*"Ambassadör Hellén är en bra man, men han tänker för mycket på protokoll. Ni och jag vet båda att detta inte är ett vanligt diplomatiskt besök. Jag har arrangerat en bil och förare för er – **Martin**, en lokal föraere som är diskret och pålitlig. Han vet hur man navigerar i Berlin, både öst och väst."*
+*"Ambassadör Hellén är en bra man, men han tänker för mycket på protokoll. Ni och jag vet båda att detta inte är ett vanligt diplomatiskt besök. Jag har arrangerat en bil och förare för er – **Martin**, en lokal förare som är diskret och pålitlig. Han vet hur man navigerar i Berlin, både öst och väst."*
 
 *"Den schweiziska ambassaden ligger i Östberlin, vid Unter Den Linden. Ni kommer att åka genom **Checkpoint Charlie** med era diplomatpass. Det borde gå smidigt, men räkna med att bli övervakade från det ögonblick ni passerar."*
 
@@ -165,21 +159,15 @@ Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk informa
 
 Greta ger dem också en radiosändare för nödsignaler och en karta över Östberlin med markeringar för viktiga platser.
 
-**Egenskaper:** Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2.
-
 #### Martin, föraren
 
-[![[Martin Weber.png]]](<SLP/Martin Weber.png>)
-
-**Martin Weber** är en medelålders man i fyrtioårsåldern, född i Berlin. Han körde taxi före kriget och har sett staden förvandlas från en metropol till en delad fästning. Martin är tystlåten men kompetent. Han hatar muren och allt den representerar, men han gör sitt jobb.
+*Se [[#Martin Weber (Förare)]].*
 
 Martin kör en **Mercedes-Benz 190** – diskret nog att inte väcka uppmärksamhet men tillräckligt robust för att klara dåliga vägar i Östberlin. Han känner till smugglarrutter, vilka gator som patrulleras, och var man kan gömma sig om nödvändigt.
 
 *"Jag kör er dit ni behöver, och jag väntar. Men om Vopos (Volkspolizei) dyker upp, försvinner jag. Mitt jobb är att köra, inte att dö."*
 
 Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kommer han att fly.
-
-**Egenskaper:** Smidighet 3, Sinnen 3, Strid 2, Vilja 2, Analys 2, Fysik 2, List 1, Samspel 1.
 
 ### Förberedelser i Västberlin
 
@@ -238,55 +226,21 @@ Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk h
 
 #### Ambassadör Otto Keller
 
-[![[Otto Keller.png]]](<SLP/Otto Keller.png>)
-
-**Ambassadör Otto Keller** är schweizisk ambassadör i Östberlin, en man i femtioårsåldern med grånande mustasch och diplomatisk hållning. Han är värd för kvällen och ser till att alla mår bra, men vill absolut inte dras in i några intriger.
+*Se [[#Ambassadör Otto Keller (Schweiz)]].*
 
 *"Välkomna, välkomna! Schweiz står alltid för dialog och förståelse. I denna tid av spänningar måste vi hålla samtalets dörrar öppna."*
 
 Keller är genuint idealistisk men naiv. Han tror att god vilja och diplomati kan lösa allt. När kaos bryter ut kommer han att vara förvirrad och försöka medla – vilket kan bli både till hjälp och förvärra situationen.
 
-**Egenskaper:** Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
-
 #### Gästerna på mottagningen
 
-Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare som spelarna kan interagera med:
+Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare som rollpersonerna kan interagera med:
 
-##### Professor Hermann Müller
-
-[![[Professor Hermann Müller.png]]](<SLP/Professor Hermann Müller.png>)
-
-Östtysk fysiker i sextioårsåldern med ett närmast barnsligt engagemang för sitt ämne. Han pratar ivrigt om kvantfysik och raketteknologi med vem som helst och verkar genuint omedveten om att hans forskning tjänar militära syften. Politiskt naiv men lätt att använda som täckmantel eller distraktion vid behov.
-
-**Egenskaper:** Analys 4, Samspel 2, Vilja 2, Fysik 1, List 1, Sinnen 2, Smidighet 1, Strid 1.
-
-##### Oberleutnant Karl Brenner
-
-[![[Karl Brenner.png]]](<SLP/Karl Brenner.png>)
-
-I civil klädsel ikväll, men det militära kroppsspråket är svårt att dölja — ryggen rak, blicken konstant skannande. Brenner övervakar Richter på uppdrag av Stasi men vet ännu inte om avhoppet. Han är nervös, ambitiös och farlig för den som väcker hans misstankar för tidigt.
-
-##### Fräulein Ingrid Schumann
-
-[![[Fräulein Ingrid Schulmann.png]]](<SLP/Fräulein Ingrid Schulmann.png>)
-
-Östtysk operasångerska i trettioårsåldern, bjuden för att ge mottagningen kulturell glans. Hon är livlig och pratglad och rör sig obehindrat bland gästerna. Helt omedveten om kvällens politiska skikt kan hon fungera som täckmantel eller distraktion — en välmenande samtalspartner som inte frågar om saker hon inte förstår.
-
-**Egenskaper:** Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 2, Strid 1.
-
-##### Monsieur Jean-Pierre Leclerc
-
-[![[Monsieur Jean-Pierre Leclerc.png]]](<SLP/Monsieur Jean-Pierre Leclerc.png>)
-
-Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han har sett tillräckligt för att veta när något pågår, och ikväll pågår det definitivt något. Leclerc är cynisk och road av intrigspelet men blandar sig aldrig i andras affärer. Hans tystnad är berömvärd men hans ögon missar ingenting.
-
-**Egenskaper:** Analys 3, Samspel 3, List 3, Vilja 2, Fysik 1, Sinnen 3, Smidighet 1, Strid 1.
-
-##### Agent Richard "Dick" Donnelly (CIA)
-
-[![[Dick.png]]](<SLP/Dick.png>)
-
-Presenterar sig som "kulturattaché vid amerikanska ambassaden". Charmig, självsäker och uppenbart mer än en diplomat. Han håller ögonen på Richter och kommer också att närma sig rollpersonerna.
+- **Professor Hermann Müller** – Östtysk fysiker, politiskt naiv. Se [[#Professor Hermann Müller]].
+- **Fräulein Ingrid Schumann** – Östtysk operasångerska, charmig och opolitisk. Se [[#Fräulein Ingrid Schumann]].
+- **Monsieur Jean-Pierre Leclerc** – Fransk diplomat, cynisk och observant. Se [[#Monsieur Jean-Pierre Leclerc]].
+- **Oberleutnant Karl Brenner** – Stasi-officer i civil, övervakar Richter diskret. Se [[#Oberleutnant Karl Brenner]].
+- **Agent Richard "Dick" Donnelly** – CIA-agent under täckmantel som kulturattaché. Se [[#Agent Richard "Dick" Donnelly]].
 
 Spelarna kan cirkulera, mingla och samla information. Ett slag för *Samspel + Sinnen* låter dem identifiera nyckelspelare och läsa stämningar. Fler framgångar ger mer information.
 
@@ -463,21 +417,8 @@ I källaren hålls de flesta försökspersoner – personer Stasi klassificerar 
 
 Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) möts de av en fruktansvärd plats – ett modernt helvete där människor förvandlas till vapen.
 
-##### Dr. Marlene Fischer
-
-[![[Dr Marlene Fischer.png]]](<SLP/Dr Marlene Fischer.png>)
-
-Östtysk läkare som försöker "moralisera" programmet. Hon hatar Richter men är tvungen att arbeta för honom. Dr. Fischer är ångerfull och kan bli en oväntad allierad om spelarna kan övertyga henne.
-
-**Egenskaper:** Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
-
-##### Generalmajor Klaus Adler
-
-[![[Klaus Adler.png]]](<SLP/Klaus Adler.png>)
-
-Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårsåldern med rakad skalle och en blick som aldrig riktigt fokuserar på den han talar med utan på rummet runt honom. Han hatar Richter på ett personligt plan men erkänner hans vetenskapliga värde. Om Richter flyr hit kommer Adler att säkra honom och förbereda transport till Moskva — på egna villkor.
-
-**Egenskaper:** Analys 3, Vilja 4, List 3, Samspel 2, Fysik 2, Sinnen 2, Smidighet 1, Strid 2.
+- **Dr. Marlene Fischer** – Östtysk läkare, ångerfull och potentiell allierad. Se [[#Dr. Marlene Fischer]].
+- **Generalmajor Klaus Adler** – Stasi-chef för Nebelkrone, hård och pragmatisk. Se [[#Generalmajor Klaus Adler]].
 
 ### Haus an Den Birken – det övergivna huset
 
@@ -719,7 +660,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 3, List 2, Fysik 1, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 5, **Stabilitet:** 2
+- **KP:** 4, **Stabilitet:** 2
 - **Expertis:** Läkare, Vetenskapsman
 - **Förmågor:** Kirurgi, Manipulativ retorik
 
@@ -738,7 +679,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 **Egenskaper:**
 
 - Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1
-- **KP:** 3 (av 5 – svårt sjuk), **Stabilitet:** 2
+- **KP:** 3 (av 4 – svårt sjuk), **Stabilitet:** 2
 - **Tillstånd:** Döende av cancer, begränsad mobilitet
 
 **Utrustning:** Medicinska dokument, dagböcker med experimentdata.
@@ -795,7 +736,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Smidighet 3, Vilja 3, List 3, Analys 2, Fysik 2, Samspel 2
-- **KP:** 7, **Stabilitet:** 2
+- **KP:** 5, **Stabilitet:** 2
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Närstrid, Smyga, Överlevnad
 
@@ -813,7 +754,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 
 - Analys 4, Vilja 3, Samspel 3, Fysik 2, List 2, Sinnen 2, Smidighet 1, Strid 1
 - **KP:** 5, **Stabilitet:** 2
-- **Expertis:** Läkare, Vetenskapsman, Byråkrat
+- **Expertis:** Läkare, Vetenskapsman
 
 Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och genomgången.
 
@@ -832,7 +773,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för 
 **Egenskaper:**
 
 - Strid 3, Sinnen 3, Samspel 2, Vilja 3, Analys 2, Fysik 2, List 2, Smidighet 2
-- **KP:** 6, **Stabilitet:** 2
+- **KP:** 5, **Stabilitet:** 2
 - **Expertis:** Polis, Officer
 - **Förmågor:** Förhör, Taktik
 
@@ -849,10 +790,28 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kom
 **Egenskaper:**
 
 - Analys 3, Sinnen 3, Samspel 3, Strid 2, Vilja 3, Fysik 2, List 2, Smidighet 2
-- **KP:** 6, **Stabilitet:** 2
+- **KP:** 5, **Stabilitet:** 2
 - **Expertis:** Officer, Byråkrat
+- **Förmågor:** Förhör, Taktik
 
 **Utrustning:** Walther PP-pistol, dokument, radio.
+
+##### Generalmajor Klaus Adler
+
+[![[Klaus Adler.png]]](<SLP/Klaus Adler.png>)
+
+Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårsåldern med rakad skalle och en blick som aldrig riktigt fokuserar på den han talar med utan på rummet runt honom. Han hatar Richter på ett personligt plan men erkänner hans vetenskapliga värde. Om Richter flyr till Nebelkrone-laboratoriet kommer Adler att säkra honom och förbereda transport till Moskva — på egna villkor.
+
+**Motivation:** Bevara Nebelkrone och DDR:s vetenskapliga överlägsenhet. Eliminera läckor. Hålla Richter under kontroll.
+
+**Egenskaper:**
+
+- Analys 3, Vilja 4, List 3, Samspel 2, Fysik 2, Sinnen 2, Smidighet 1, Strid 2
+- **KP:** 6, **Stabilitet:** 3
+- **Expertis:** Officer, Byråkrat
+- **Förmågor:** Förhör, Taktik
+
+**Utrustning:** Makarov-pistol, Stasi-legitimation, direktlinje till Volkspolizei.
 
 #### CIA
 
@@ -869,7 +828,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 **Egenskaper:**
 
 - Samspel 4, List 3, Strid 3, Sinnen 3, Analys 2, Fysik 2, Smidighet 2, Vilja 2
-- **KP:** 7, **Stabilitet:** 2
+- **KP:** 4, **Stabilitet:** 2
 - **Expertis:** Spion, Diplomat
 - **Förmågor:** Charm, Lögner, Nätverk
 
@@ -888,8 +847,9 @@ Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 4, Strid 2, Fysik 2, List 2, Sinnen 2, Smidighet 1
-- **KP:** 7, **Stabilitet:** 3
-- **Expertis:** Officer, Strateg, Byråkrat
+- **KP:** 6, **Stabilitet:** 3
+- **Expertis:** Officer, Strateg
+- **Förmågor:** Taktik, Kalla nerven
 
 Baranov är en bakgrundsfigur som koordinerar operationen men deltar inte direkt.
 
@@ -904,8 +864,8 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, medelstort 
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Vilja 3, Smidighet 3, Analys 2, Fysik 2, List 2, Samspel 2
-- **KP:** 7, **Stabilitet:** 2
-- **Expertis:** Soldat, Officer, Spion
+- **KP:** 5, **Stabilitet:** 2
+- **Expertis:** Soldat, Spion
 - **Förmågor:** Taktik, Kalla nerven, Förhör
 
 **Utrustning:** Makarov-pistol, radio, kniv.
@@ -923,7 +883,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 **Egenskaper:**
 
 - Vilja 5, Sinnen 3, Strid 2, Analys 2, Fysik 2, List 1, Samspel 1, Smidighet 2
-- **KP:** 7, **Stabilitet:** 1
+- **KP:** 7, **Stabilitet:** 3
 - **Expertis:** Zvezda-agent
 - **Trauma:** Rädsla för osynlighet och utplåning
 
@@ -957,7 +917,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Fysik 5, Strid 4, Vilja 3, Analys 2, Sinnen 2, Smidighet 2, List 1, Samspel 1
-- **KP:** 10, **Stabilitet:** 2
+- **KP:** 8, **Stabilitet:** 2
 - **Expertis:** Soldat, Zvezda-agent
 - **Förmågor:** Närstrid, Uthållighet
 - **Trauma:** Kontrollerad ilska och destruktivitet
@@ -980,13 +940,65 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 
 ### Civila och sidofigurer
 
+#### Professor Hermann Müller
+
+[![[Professor Hermann Müller.png]]](<SLP/Professor Hermann Müller.png>)
+
+Östtysk fysiker i sextioårsåldern med ett närmast barnsligt engagemang för sitt ämne. Han pratar ivrigt om kvantfysik och raketteknologi med vem som helst och verkar genuint omedveten om att hans forskning tjänar militära syften. Politiskt naiv men lätt att använda som täckmantel eller distraktion vid behov.
+
+**Egenskaper:**
+
+- Analys 4, Samspel 2, Vilja 2, Fysik 1, List 1, Sinnen 2, Smidighet 1, Strid 1
+- **KP:** 3, **Stabilitet:** 2
+- **Expertis:** Vetenskapsman
+
+#### Fräulein Ingrid Schumann
+
+[![[Fräulein Ingrid Schulmann.png]]](<SLP/Fräulein Ingrid Schulmann.png>)
+
+Östtysk operasångerska i trettioårsåldern, bjuden för att ge mottagningen kulturell glans. Hon är livlig och pratglad och rör sig obehindrat bland gästerna. Helt omedveten om kvällens politiska skikt kan hon fungera som täckmantel eller distraktion — en välmenande samtalspartner som inte frågar om saker hon inte förstår.
+
+**Egenskaper:**
+
+- Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 2, Strid 1
+- **KP:** 3, **Stabilitet:** 2
+- **Expertis:** Konstnär
+
+#### Monsieur Jean-Pierre Leclerc
+
+[![[Monsieur Jean-Pierre Leclerc.png]]](<SLP/Monsieur Jean-Pierre Leclerc.png>)
+
+Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han har sett tillräckligt för att veta när något pågår, och ikväll pågår det definitivt något. Leclerc är cynisk och road av intrigspelet men blandar sig aldrig i andras affärer. Hans tystnad är berömvärd men hans ögon missar ingenting.
+
+**Egenskaper:**
+
+- Analys 3, Samspel 3, List 3, Vilja 2, Fysik 1, Sinnen 3, Smidighet 1, Strid 1
+- **KP:** 3, **Stabilitet:** 2
+- **Expertis:** Diplomat
+
+#### Dr. Marlene Fischer
+
+[![[Dr Marlene Fischer.png]]](<SLP/Dr Marlene Fischer.png>)
+
+Östtysk läkare stationerad vid Nebelkrone-laboratoriet. Hon försöker "moralisera" programmet inifrån men är tvungen att arbeta under Richter. Dr. Fischer är ångerfull och djupt olycklig med sin situation — spelarna kan nå henne om de visar att de förstår hennes dilemma.
+
+**Egenskaper:**
+
+- Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
+- **KP:** 3, **Stabilitet:** 2
+- **Expertis:** Läkare
+
 #### Ambassadör Otto Keller (Schweiz)
 
 [![[Otto Keller.png]]](<SLP/Otto Keller.png>)
 
 Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioårsåldern med grånande mustasch och den orubbliga diplomatiska hållning som tjugo år i Utrikesdepartementet ger. Han är genuint idealistisk och tror på dialogens kraft i alla situationer. Naiv nog att ha bjudit in alla dessa intressen under samma tak — och nu fast mitt i kaoset utan en aning om vad han ska göra.
 
-**Egenskaper:** Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
+**Egenskaper:**
+
+- Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
+- **KP:** 3, **Stabilitet:** 2
+- **Expertis:** Diplomat
 
 #### Ambassadör Sven Hellén (Sverige, Västberlin)
 
@@ -994,7 +1006,11 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 
 Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrått hår och den lugna auktoriteten hos en van diplomat. Han har tjänstgjort i Paris, Wien och Nairobi och vet hur man navigerar svåra rum. Men operationer som dessa — hemliga, riskfyllda och tydligt utanför hans mandat — gör honom mäktigt obekväm och hans lojalitet svår att räkna med.
 
-**Egenskaper:** Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1.
+**Egenskaper:**
+
+- Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
+- **KP:** 3, **Stabilitet:** 2
+- **Expertis:** Diplomat
 
 #### Greta Holm (Sverige, Västberlin)
 
@@ -1002,7 +1018,12 @@ Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrå
 
 Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåldern, professionell och genomskarp med ett sätt att kommunicera exakt det som behövs — aldrig mer. Till skillnad från Hellén vet hon exakt vad som pågår och har inga illusioner om riskerna. Hon är den enda på ambassaden som spelarna kan tala helt öppet med.
 
-**Egenskaper:** Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2.
+**Egenskaper:**
+
+- Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2
+- **KP:** 5, **Stabilitet:** 2
+- **Expertis:** Diplomat, Spion
+- **Förmågor:** Nätverk, Lögner
 
 #### Martin Weber (Förare)
 
@@ -1010,7 +1031,11 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 
 Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och uppvuxen i Berlin som han sett förvandlas från en metropol till en delad fästning. Han frågar aldrig vad passagerarna egentligen håller på med men är inte dum — han vet tillräckligt för att hålla tyst och köra fort. Han hatar muren med en tyst, metodisk ilska.
 
-**Egenskaper:** Smidighet 3, Sinnen 3, Strid 2, Vilja 2, Analys 2, Fysik 2, List 1, Samspel 1.
+**Egenskaper:**
+
+- Smidighet 3, Sinnen 3, Strid 2, Vilja 2, Analys 2, Fysik 2, List 1, Samspel 1
+- **KP:** 4, **Stabilitet:** 2
+- **Expertis:** Förare
 
 #### Heinz Bauer (Volkspolizei)
 
@@ -1018,6 +1043,6 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 
 Östberlinsk polis i fyrtioårsåldern med sliten uniform och en trötthet i blicken som berättar om för många nattpass. Vanlig polis som denna kväll hamnar mitt i händelser han inte förstår och inte bett om. Lojal mot DDR men inte av övertygelse — mer av vana och försiktighet. Han har en fru och tre barn i Lichtenberg som han tänker komma hem till.
 
-**Egenskaper:** Strid 2, Sinnen 2, Samspel 2, Analys 1, Fysik 2, List 1, Smidighet 1, Vilja 2. **KP:** 5, **Stabilitet:** 2.
+**Egenskaper:** Strid 2, Sinnen 2, Samspel 2, Analys 1, Fysik 2, List 1, Smidighet 1, Vilja 2. **KP:** 4, **Stabilitet:** 2. **Expertis:** Polis.
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
