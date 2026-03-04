@@ -20,7 +20,7 @@ Frigg-avdelningen används sparsamt. Personalen sätts in i situationer där kon
 
 # Doktor Lars Hedström och T-kontoret
 
-![[Lars Hellström.png|inline|200]]Doktor Lars Hedström är en central figur i I Rikets Tjänst. Han är initiativtagaren till Program Frigg och 15 år senare fortfarande närmast oantastlig ledare. De moraliska betänkligheter som yttrades i början av programmet har tystnat allteftersom resultaten har visat sig.
+![[Lars Hedström.png|inline|200]]Doktor Lars Hedström är en central figur i I Rikets Tjänst. Han är initiativtagaren till Program Frigg och 15 år senare fortfarande närmast oantastlig ledare. De moraliska betänkligheter som yttrades i början av programmet har tystnat allteftersom resultaten har visat sig.
 
 Från ifrågasatt forskningsledare på 40-talet så är Doktor Hedström nu en maktfaktor inom T-kontoret, Sveriges hemliga underrättelsetjänst, och en nyckelspelare för Sveriges neutralitet. Sverige är ett av ett fåtal länder med egna superagent-program och det är doktorns förtjänst.
 

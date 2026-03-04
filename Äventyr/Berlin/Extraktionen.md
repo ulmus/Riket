@@ -44,11 +44,11 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 
 ## Spelarkaraktärer
 
-- **Radar** – tekniker med intern radar och förmåga att störa elektronik och nervsystem.
-- **Tjuren** – fysisk kraftpaket som inte kan stoppas när han väl rör sig.
-- **Silke** – social manipulatör med feromoner som påverkar känslor och beteenden.
-- **Prisma** - kontrollerar ljus och kan bända det för förvirring och distraktion
-- **Stigmata** - läker andras sår, ibland på bekostnad av sin egen hälsa
+- **[[Radar]]** – tekniker med intern radar och förmåga att störa elektronik och nervsystem.
+- **[[Tjuren]]** – fysisk kraftpaket som inte kan stoppas när han väl rör sig.
+- **[[Silke]]** – social manipulatör med feromoner som påverkar känslor och beteenden.
+- **[[Prisma]]** - kontrollerar ljus och kan bända det för förvirring och distraktion
+- **[[Stigmata]]** - läker andras sår, ibland på bekostnad av sin egen hälsa
 
 ## Tidslinje
 
@@ -71,6 +71,7 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 
 #### T-kontoret och Hedströms kontor
 
+[![[Lars Hedström.png]]](<Lars Hedström.png>)
 T-kontoret är ett anonymt kontorshus som utåt ser ut som vilket statskontor som helst. Men bakom låsta dörrar och kodade nycklar finns Sveriges hemligaste underrättelseverksamhet.
 
 Hedströms kontor är en blandning av akademisk röra och militär precision. Bokhyllor fulla med tyska och svenska medicinska tidskrifter, kartbilder över Östeuropa, en gammal teleskrivare som tickar med kodade meddelanden. På väggen hänger en inramad bild av Uppsala universitets medicinska fakultet från 1930-talet – en påminnelse om en enklare tid.
@@ -172,7 +173,6 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 ### Förberedelser i Västberlin
 
 [![[Berlin.jpg]]](<Berlin.jpg>)
-
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
@@ -212,8 +212,6 @@ Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk h
 #### Byggnaden och lokaler
 
 [![[Schweiziska ambassaden.png]]](<Schweiziska ambassaden.png>)
-
-
 **Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Östtyska och schweiziska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
 
 **Entré och hall:** En stor marmorhall med mönstrat golv och kristallkronor. En trappa leder upp till diplomatmottagningen på andra våningen. En stråkkvartett spelar Vivaldi.
@@ -332,7 +330,7 @@ Golem rör sig direkt mot Richter, river undan alla som står i vägen. Om någo
 
 **Detta är klimax av Akt I.** Kaos följer, och spelarna måste fatta snabba beslut:
 
-- Försöker de skydda Richter och fly med honom?
+- Försöker de skydda Richter och eventuellt fly med honom?
 - Försöker de kommunicera med Golem?
 - Försöker de stoppa Golem?
 - Försöker de fly själva?
@@ -367,7 +365,6 @@ Beroende på situationen kan Golem ha tagit Richter till:
 
 [![[Richters hus gatuplan.png]]](<Richters hus gatuplan.png>)
 [![[Richters hus andra våningen.png]]](<Richters hus andra våningen.png>)
-
 Paret Richters lägenhet ligger på **Warschauer Strasse 47**, en grå betongbyggnad från 1920-talet i stadsdelen Friedrichshain.
 
 #### Byggnaden
@@ -423,27 +420,22 @@ Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) m�
 
 ### Haus an Den Birken – det övergivna huset
 
-[![[Ödehus - bottenvåning.png]]](<Ödehus - bottenvåning.png>)
-
-[![[Ödehus - källare.png]]](<Ödehus - källare.png>)
-
-[![[Ödehus - vind.png]]](<Ödehus - vind.png>)
-
 Om Golem är skadad eller förvirrad kan hans djupaste minnen väckas – minnen från innan han blev Golem, när han var Elias Lewinsky.
 
-**Haus an Den Birken** (Huset vid björkarna) ligger i stadsdelen **Köpenick**, nära vattnet. Det är ett gammalt tvåvåningshus från 1920-talet, nu övergivet och sönderfall. Här gömde sig Elias och hans bror Jakob (nu Yaakov) natten under **Kristallnatten 1938**, innan de greps och fördes till Auschwitz.
+**Haus an Den Birken** (Huset vid björkarna) ligger i stadsdelen **Köpenick**, nära vattnet. Det är ett gammalt tvåvåningshus från 1920-talet, nu övergivet och sönderfallet. Här gömde sig Elias och hans bror Jakob (nu Yaakov) hos sin morbror Anshel Levin natten under **Kristallnatten 1938**, innan de greps och fördes till Auschwitz.
 
 #### Byggnaden
 
 Huset är i dåligt skick. Fönster är krossade, dörrar hänger på gångjärnen, väggar är täckta av graffiti och mögel. Trädgården är övervuxen, och en björk – som en gång var ung och grön – står nu gammal och vriden vid ingången.
 
-**Bottenvåning:** Ett stort rum som en gång var vardagsrum, nu tomt och öde. En trasig spis i vad som var köket. Trappor leder upp och ner.
+[![[Ödehus - bottenvåning.png]]](<Ödehus - bottenvåning.png>)
+**Bottenvåning:** Ett stort rum som en gång var vardagsrum, nu tomt och öde. Detsamma med sovrummet, där det fortfarande finns kvar en säng. En trasig spis i vad som var köket. Två ingångar, till gatan och ut mot den övervuxna trädgården. Trappor leder upp och ner.
 
-**Andra våningen:** Två sovrum, trasiga golv. Ett rum har fortfarande barnleksaker på golvet – rostiga tåg, en trasig docka.
+[![[Ödehus - källare.png]]](<Ödehus - källare.png>)
+**Källaren:** Mörk och fuktig, en doft av mögel och vita avlagringar på väggarna. Här gömde sig Elias och Jakob i en jordkällare. Det finns fortfarande barnteckningar på väggen – enkla skisser av fåglar och stjärnor. Källaren har också en oljepanna som är tom samt ett större förråd och arbetsrum.
 
-**Källaren:** Mörk och fuktig. Här gömde sig Elias och Jakob i en liten återvändsgränd bakom vedförvaring. Det finns fortfarande barnteeckningar på väggen – enkla skisser av fåglar och stjärnor.
-
-**Vinden:** Öppen mot himlen på vissa ställen. Duvor har bott här. Det finns gamla möbler täckta av damm.
+[![[Ödehus - vind.png]]](<Ödehus - vind.png>)
+**Vinden:** Öppen mot himlen på vissa ställen. Duvor har bott här. Det finns gamla möbler täckta av damm. Vid ett skrivbord har Elias och Jakobs morbror Anshel suttit och det finns fortfarande rester av korrespondens med hans syster, brödernas mor Frieda Lewinsky.
 
 #### Golem i huset
 
@@ -455,7 +447,7 @@ Om **Yaakov** är närvarande kan det ske en känslomässig konfrontation. Yaako
 
 *"Elias... är det du? Det är jag, Jakob. Din bror."*
 
-Golem reagerar inte med ord, men något i hans ögon förändras. För ett ögonblick är det inte ett monster – det är ett barn.
+Golem reagerar inte med ord, men han reagerar. Beroende på hur rollpersonerna har agerat tidigare så kan han till exempel ta sin bror i försvar mot rollpersonerna, vända sig mot Richter eller fly ut i natten.
 
 ### Biljakten genom Östberlin
 
@@ -800,7 +792,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kom
 
 [![[Klaus Adler.png]]](<SLP/Klaus Adler.png>)
 
-Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårsåldern med rakad skalle och en blick som aldrig riktigt fokuserar på den han talar med utan på rummet runt honom. Han hatar Richter på ett personligt plan men erkänner hans vetenskapliga värde. Om Richter flyr till Nebelkrone-laboratoriet kommer Adler att säkra honom och förbereda transport till Moskva — på egna villkor.
+Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårsåldern med stålgrått hår och en blick som aldrig riktigt fokuserar på den han talar med utan på rummet runt honom. Han hatar Richter på ett personligt plan men erkänner hans vetenskapliga värde. Om Richter flyr till Nebelkrone-laboratoriet kommer Adler att säkra honom och förbereda transport till Moskva — på egna villkor.
 
 **Motivation:** Bevara Nebelkrone och DDR:s vetenskapliga överlägsenhet. Eliminera läckor. Hålla Richter under kontroll.
 
@@ -857,7 +849,7 @@ Baranov är en bakgrundsfigur som koordinerar operationen men deltar inte direkt
 
 [![[Lyudmila.png]]](<SLP/Lyudmila.png>)
 
-KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, medelstort bygge med kort mörkt hår och neutrala kläder som hjälper henne att försvinna i folkmassan. Hon är tyst, iskall och absolut disciplinerad, med en förmåga att läsa rum och situationer på ett ögonblick. Hon har full insikt i ENS-agenter och leder gripandet av Richter med metodisk precision.
+KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort mörkt hår och neutrala kläder som hjälper henne att försvinna i folkmassan. Hon är tyst, iskall och absolut disciplinerad, med en förmåga att läsa rum och situationer på ett ögonblick. Hon har full insikt i ENS-agenter och leder gripandet av Richter med metodisk precision.
 
 **Motivation:** Utföra order. Gripa Richter. Eliminera motstånd effektivt.
 
@@ -976,18 +968,6 @@ Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
-#### Dr. Marlene Fischer
-
-[![[Dr Marlene Fischer.png]]](<SLP/Dr Marlene Fischer.png>)
-
-Östtysk läkare stationerad vid Nebelkrone-laboratoriet. Hon försöker "moralisera" programmet inifrån men är tvungen att arbeta under Richter. Dr. Fischer är ångerfull och djupt olycklig med sin situation — spelarna kan nå henne om de visar att de förstår hennes dilemma.
-
-**Egenskaper:**
-
-- Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 3, **Stabilitet:** 2
-- **Expertis:** Läkare
-
 #### Ambassadör Otto Keller (Schweiz)
 
 [![[Otto Keller.png]]](<SLP/Otto Keller.png>)
@@ -999,6 +979,18 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 - Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
+
+#### Dr. Marlene Fischer
+
+[![[Dr Marlene Fischer.png]]](<SLP/Dr Marlene Fischer.png>)
+
+Östtysk läkare stationerad vid Nebelkrone-laboratoriet. Hon försöker "moralisera" programmet inifrån men är tvungen att arbeta under Richter. Dr. Fischer är ångerfull och djupt olycklig med sin situation — spelarna kan nå henne om de visar att de förstår hennes dilemma.
+
+**Egenskaper:**
+
+- Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
+- **KP:** 3, **Stabilitet:** 2
+- **Expertis:** Läkare
 
 #### Ambassadör Sven Hellén (Sverige, Västberlin)
 
