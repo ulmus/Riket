@@ -365,15 +365,17 @@ Beroende på situationen kan Golem ha tagit Richter till:
 
 [![[Richters hus gatuplan.png]]](<Richters hus gatuplan.png>)
 [![[Richters hus andra våningen.png]]](<Richters hus andra våningen.png>)
-Paret Richters lägenhet ligger på **Warschauer Strasse 47**, en grå betongbyggnad från 1920-talet i stadsdelen Friedrichshain.
+Paret Richters hus ligger på **Warschauer Strasse 47**, ett litet gatuhus med en trädgård i anslutning till en park.
 
 #### Byggnaden
 
-Ett tvåvåningshus med liten trädgård i typisk östtysk stil, sliten fasad. Richters lägenhet ligger på andra våningen. Entrén är olåst (Golem krossade låset), och trappuppgången är tyst och mörk.
+Ett tvåvåningshus med liten trädgård i typisk östtysk stil, sliten fasad. Entrén är olåst och trappuppgången är tyst och mörk.
 
-#### Lägenheten
+#### Gatuplan
 
-Lägenheten består av tre rum: vardagsrum, sovrum och ett litet kök. Den är spartanskt möblerad men har tecken på intellektuellt liv – bokhyllor fulla med vetenskapliga tidskrifter, anatomiska teckningar på väggarna, medicinska böcker.
+Husets gatuplan har fem rum. Ytterdörren kommer in i en öppen hall med en liten soffgrupp och ett skrivbord. Bredvid det ligger ett vardagsrum som vittnar om ett intellektuellt liv – bokhyllor fulla med vetenskapliga tidskrifter, anatomiska teckningar på väggarna, medicinska böcker.
+
+Matsalen är liten, men kan ta ett sällskap på åtta personer. En tavla på Dr Mengele hänger relativt diskret över vitrinskåpet. Köket är väl tilltaget med modern gasspis och även sovrummet är  
 
 I sovrummet ligger **Elisabeth Richter** i sängen, blek och svag. Hon är i sextioårsåldern, utmärglad av cancer. Vid hennes sida sitter Hans Richter, som håller hennes hand.
 
@@ -637,6 +639,8 @@ Om de lyckas ta sig till Västberlin är de säkra – men konsekvenserna av der
 
 ## Persongalleri
 
+Handouts i form av kort med bild och namn på samtliga SLP finns att ladda ner och skriva ut [[Karaktärer I Rikets Tjänst.pdf|här]].
+
 ### Huvudpersoner
 
 #### Dr. Hans Richter
@@ -862,7 +866,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 
 **Utrustning:** Makarov-pistol, radio, kniv.
 
-##### Morana (Zvezda-agent)
+##### Jelena Ivanova (Morana, Zvezda-agent)
 
 [![[Morana.png]]](<SLP/Morana.png>)
 
@@ -896,7 +900,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 **Svaghet:** Värme och eld neutraliserar hennes krafter. Hon måste hålla sig sval för att fungera. Överansträngning kan göra henne sjuk.
 
-##### Svarog (Zvezda-agent)
+##### Vladimir Popov (Svarog, Zvezda-agent)
 
 [![[Svarog.png]]](<SLP/Svarog.png>)
 
@@ -944,7 +948,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Vetenskapsman
 
-#### Fräulein Ingrid Schumann
+#### Fräulein Ingrid Schulmann
 
 [![[Fräulein Ingrid Schulmann.png]]](<SLP/Fräulein Ingrid Schulmann.png>)
 
@@ -1035,6 +1039,10 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 
 Östberlinsk polis i fyrtioårsåldern med sliten uniform och en trötthet i blicken som berättar om för många nattpass. Vanlig polis som denna kväll hamnar mitt i händelser han inte förstår och inte bett om. Lojal mot DDR men inte av övertygelse — mer av vana och försiktighet. Han har en fru och tre barn i Lichtenberg som han tänker komma hem till.
 
-**Egenskaper:** Strid 2, Sinnen 2, Samspel 2, Analys 1, Fysik 2, List 1, Smidighet 1, Vilja 2. **KP:** 4, **Stabilitet:** 2. **Expertis:** Polis.
+**Egenskaper:**
+
+- Sinnen 2, Smidighet 1, Strid 2, Samspel 2, Analys 1, Fysik 2, List 1, Vilja 2.
+- **KP:** 4, **Stabilitet:** 2
+- **Expertis:** Polis
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
