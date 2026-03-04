@@ -598,7 +598,7 @@ Mossad har jagat nazister i åratal. Yaakov har spenderat 15 år på att spåra 
 
 Konfrontationen sker i det övergivna huset, Richters hem eller vid Nebelkrone-laboratoriet. Richter försöker åter ta kontroll över Golem. Yaakov konfronterar honom och inser till slut sanningen: monstret är hans bror Elias. Golem känner igen något i Yaakov – men bara som i en dröm.
 
-PC:s måste välja:
+Rollpersonerna måste välja:
 
 - Ska de hjälpa Richter fly – eller stoppa honom?
 - Ska de rädda Golem – eller avsluta hans lidande?
@@ -608,15 +608,15 @@ Allt detta under hårt tryck från flera konkurrerande fraktioner: CIA, Stasi, M
 
 #### Konfrontationen med Yaakov
 
-Om Yaakov Dayan är närvarande när spelarna hittar Richter blir det en intenst känslomässig konfrontation.
+Om Yaakov Dayan är närvarande när spelarna hittar Richter blir det en intensiv känslomässig konfrontation.
 
 *"Det där... det är min bror. Elias. Han var åtta år när Richter tog honom. Åtta år."*
 
-Yaakov vill döda Richter och Elisabeth för deras brott. Men när han ser Golem – ser sitt eget kött och blod förvandlat till ett vapen – bryts han nästan.
+Yaakov vill döda Richter och Elisabeth för deras brott. Men när han ser Golem – ser sitt eget kött och blod förvandlat till ett vapen – bryter han nästan ihop.
 
 Spelarna kan försöka övertala Yaakov att Richters kunskap kan rädda andra (*Samspel + Vilja*, **Mycket Svårt**). Eller de kan acceptera hans rätt till hämnd och låta det ske.
 
-Om Yaakov lyckas döda Richter reagerar Golem instinktivt – han attackerar sin broders mördare. Detta kan leda till en tragisk kamp där Golem dödar Yaakov, eller där Yaakov tvingas försvara sig mot sitt eget syskon.
+Om Yaakov lyckas döda Richter reagerar Golem instinktivt – han attackerar sin upplevda faders mördare. Detta kan leda till en tragisk kamp där Golem dödar Yaakov, eller där Yaakov tvingas försvara sig mot sitt eget syskon.
 
 #### Golems valmöjligheter
 
@@ -803,7 +803,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
-**Utrustning:** Makarov-pistol, Stasi-legitimation, direktlinje till Volkspolizei.
+**Utrustning:** Makarov-pistol (+4 skadetärningar), Stasi-legitimation, direktlinje till Volkspolizei.
 
 #### CIA
 
