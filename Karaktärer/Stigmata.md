@@ -16,6 +16,12 @@
 - Svenska (modersmål)
 - (3 ytterligare språkpoäng)
 
+## Trauma – Skuld
+
+**Kärna:** Du orsakade något fruktansvärt och bär på den bördan. Dina krafter manifesterade sig för första gången okontrollerat – du rörde vid en patient och istället för att hela spred du en dödlig sjukdom. Patienten dog i dina händer. Morfinets bedövning är det enda som håller minnena på avstånd.
+
+**Beteende vid aktiverat trauma:** *Botgöraren* – Du måste ta skadan istället för andra. Du kastar dig framför attacker, vägrar skydd, saboterar dina egna chanser. Alternativt förlamar skulden dig helt.
+
 ## Krafter
 
 ### Patomimik (1 Fokus, 1 huvudhandling)
@@ -43,6 +49,10 @@ Du kan tillfälligt dämpa effekterna av stress och skada. Slå för Vilja + Vil
 - **Effekt:** En person du rör vid (eller du själv) ignorerar alla effekter av Stress och skador (inklusive kritiska skador och Stress-trauman) under en runda. Du kan upprätthålla dämpningen genom att koncentrera dig med en bihandling varje runda, du har då **−1** på alla dina övriga handlingar. När dämpningen upphör återkommer effekterna, och målet tar dessutom **+1 Stress**.
 - **1 Framgång:** Effekten täcker ytterligare en person.
 - **+1 Fokus:** Effekten har räckvidd 10 meter.
+
+### Aktiverat trauma – Patomimik
+
+*Kroppen betalar.* Patomimik slår tillbaka och manifesterar sjukdomssymtom på Stigmata själv. Kraftens effekter träffar urskillningslöst – både fiender och allierade i närheten drabbas, men Stigmata bär alltid den värsta bördan.
 
 ## Förmågor
 

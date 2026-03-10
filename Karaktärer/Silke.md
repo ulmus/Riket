@@ -17,6 +17,12 @@
 - Svenska (modersmål)
 - (1 ytterligare språkpoäng)
 
+## Trauma – Svek
+
+**Kärna:** Någon du litade på förrådde dig djupt. Den person du älskade mest – den enda du någonsin lät komma nära – visade sig vara en informatör som rapporterade varje ord du sa. Allt ni delade var en lögn, konstruerad för att kontrollera dig.
+
+**Beteende vid aktiverat trauma:** *Ingen att lita på* – Du misstror alla, även dina närmaste allierade. Du vägrar ta emot hjälp eller samarbeta. Du måste avslöja andras hemligheter.
+
 ## Krafter
 
 ### Feromoner (Alltid aktiv)
@@ -37,6 +43,10 @@ Karaktären fokuserar sin vilja på ett mål inom 10 meter som andas samma luft 
 - **+1 Fokus:** Ordern kan vara komplex eller pågå under en längre tid.
 - **+1 Fokus:** Ordern får medföra omedelbar livsfara för sig själv eller allierade.
 - **1 Framgång:** Målet kommer inte ihåg att de blev beordrade efteråt.
+
+### Aktiverat trauma – Manipulation
+
+*Sanningen stinker.* Manipulation aktiveras oombedd och tvingar alla i närheten att blotta sina verkliga känslor och avsikter – ingen kan dölja vad de egentligen tycker. Effekten sprider misstro och isolerar Silke från alla omkring henne.
 
 ## Förmågor
 

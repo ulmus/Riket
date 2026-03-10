@@ -16,6 +16,12 @@
 
 - Svenska (modersmål)
 
+## Trauma – Förlust
+
+**Kärna:** Någon du älskade togs ifrån dig. Under din militärtjänstgöring förlorade du din pluton i ett bakhåll – du var den enda som överlevde, omgiven av döda kamrater. Din övermänskliga styrka vaknade den natten, men den kom för sent för att rädda dem.
+
+**Beteende vid aktiverat trauma:** *Desperat beskyddare* – Du måste skydda någon eller något i din närhet, oavsett om de behöver det eller vill ha det. Du kan inte lämna dem eller låta dem utsättas för fara.
+
 ## Krafter
 
 ### Övermänsklig Styrka (1 Fokus, 1 bihandling)
@@ -43,6 +49,10 @@ Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och s
 - **+1 Fokus:** Attacken räknas som en närstridsattack mot alla som står i vägen.
 - **1 Framgång:** Fienders slag för att hålla sig på fötter ett steg svårare.
 - **1 Framgång:** Öka distansen på rusningen med en Förflyttning.
+
+### Aktiverat trauma – Tjurrusning
+
+*Ingen dör igen.* Tjurrusning aktiveras okontrollerat mot det närmaste hotet mot den person Tjuren fixerar på. Rusningen kan inte stoppas och Tjuren kan inte lämna den skyddades sida, även om uppdraget kräver det.
 
 ## Förmågor
 

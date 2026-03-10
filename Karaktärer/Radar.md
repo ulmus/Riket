@@ -17,6 +17,12 @@
 - Svenska (modersmål)
 - (4 ytterligare språkpoäng)
 
+## Trauma – Vanmakt
+
+**Kärna:** Du var hjälplös när det gällde som mest. Du hörde allting genom etern – nödanrop, skrik, det sista meddelandet från en agent som torterades till döds – men du satt fast vid din post, bunden av order och avstånd. Du kunde inte göra annat än att lyssna.
+
+**Beteende vid aktiverat trauma:** *Aldrig mer* – Du vägrar ge vika, fly eller visa svaghet. Du måste agera, attackera eller ta kontroll över situationen. Reträtt är omöjligt.
+
 ## Krafter
 
 ### Radarsinne (Alltid aktiv)
@@ -37,6 +43,10 @@ Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vi
 - **1 Framgång:** Motståndsslaget ett steg svårare.
 - **1 Framgång:** Målen är utslagna hela scenen.
 - **1 Framgång:** Öka räckvidden på attacken med 10 meter.
+
+### Aktiverat trauma – Pulsstörare
+
+*Aldrig mer tyst.* Pulsstöraren exploderar i en okontrollerad våg med dubbel räckvidd men utan precision – alla i närheten drabbas, vänner som fiender. Effekten kan inte stängas av förrän hotet är borta.
 
 ## Förmågor
 

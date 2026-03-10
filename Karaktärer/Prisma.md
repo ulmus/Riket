@@ -15,6 +15,12 @@
 
 - Svenska (modersmål)
 
+## Trauma – Skam
+
+**Kärna:** Du avslöjades och förödmjukades inför alla. Innan du rekryterades till Program Frigg greps du på bar gärning under ett inbrott – dina trick och illusioner räckte inte till och du ställdes ut som bedragare inför publik och press. Skammen brände sig fast.
+
+**Beteende vid aktiverat trauma:** *Dölj eller förgör* – Du måste fly och gömma dig, eller förstöra den/det som "ser" dig. Vittnen blir hot. Du kan inte uthärda att bli sedd i ditt tillstånd.
+
 ## Krafter
 
 ### Diffraktion (1 Fokus, 1 bihandling)
@@ -40,6 +46,10 @@ Du kan blända en person med dina strålar. Om du lyckas med Strid + Vilja mot p
 
 - **1 Framgång:** Personen är blind hela scenen, men kan slå ett slag för Fysik + Vilja varje runda efter den första. Om lyckat så lyckas de skaka sig av det.
 - **+2 Fokus:** Alla som tittar på dig när du använder förmågan tar effekten.
+
+### Aktiverat trauma – Synvilla
+
+*Ljuset avslöjar.* Synvilla aktiveras okontrollerat och projicerar skamfyllda minnesbilder från inbrottet och gripandet som alla i närheten kan se. Prisma kan inte stänga av effekten förrän hon har flytt eller alla vittnen har neutraliserats.
 
 ## Förmågor
 
