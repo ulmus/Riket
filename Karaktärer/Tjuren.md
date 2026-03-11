@@ -64,8 +64,8 @@ Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och s
 Du är tränad i att kontrollera automateld med precision.
 
 - Du kan använda **Fysik + Strid** istället för Smidighet + Strid vid automateld.
-- **Kort salva:** Ger **+3 skadetärningar** istället för +2.
-- **Lång salva:** Gör en avståndsattack med Fysik + Strid. Varje framgång utöver den första träffar ett extra mål inom 3 meter från föregående träff. Varje extra träff ger vapnets grundskada ett steg lägre i skala. Kostar **1 Fokus** och 1 magasin.
+- **Kort salva:** Spendera 1 Fokus för att göra en attack till mot ett extra mål
+- **Lång salva:** Spendera 2 Fokus för att göra en attack mot alla mål i en kon
 
 ### Slagsmål (Alltid aktiv)
 
@@ -102,3 +102,14 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 - **Rock med insydda plåtar:** Skydd 2, **−1** på Smidighet-slag.
 - **Fältförband:** +2 på Akutvård (Analys + Smidighet).
 - **Kung Gustafs sardiner:** 20 burkar
+
+## Regelutdrag
+
+### Automateld
+
+Vapen med egenskapen *Automateld* kan skjuta salvor:
+
+- **Kort salva:** +2 skadetärningar.
+- **Lång salva:** +4 skadetärningar. 
+
+*Förmågan Automatsalva ger dig också möjligheten att göra extra attacker mot flera mål genom att spendera fokus.*

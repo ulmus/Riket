@@ -21,8 +21,8 @@ Olika vapen har egenskaper som påverkar hur de kan användas eller vilken effek
 
 Vapen som kan skjuta automateld kan skjuta korta och långa salvor:
 
-- **Kort salva:** +2 skadetärningar. Du kan spendera 1 Fokus för ytterligare +1 skadetärning.
-- **Lång salva:** +4 skadetärningar. Du kan spendera 1 Fokus per extra mål inom målområdet för att göra en extra attack mot det målet (med vapnets vanliga skadetärningar, utan salvbonus).
+- **Kort salva:** +2 skadetärningar.
+- **Lång salva:** +4 skadetärningar.
 
 ### Grovkalibrigt
 

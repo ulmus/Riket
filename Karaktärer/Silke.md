@@ -82,3 +82,19 @@ Djur och andra karaktärer med förstärkta sinnen får **+2** tärningar på sl
 - **Garderob:** En resväska med flera eleganta outfits för att snabbt kunna byta skepnad och passa in i olika sociala sammanhang.
 - **Cyanidkapsel:** En sista utväg, gömd i en berlock.
 - **Parfymer:** Chanel No 5 (klassisk), Guerlain Shalimar (rökig, orientalisk) och Hermès Calèche (modern, fräsch). Parfymen kan ge ytterligare **+1** på Samspel om den används för att förstärka rätt intryck.
+
+## Regelutdrag
+
+### Sömnmedel
+
+Slå 1T12 när sömnmedlet får effekt:
+
+| Sömnmedel | Somnar | Döende | Anslag      |
+| --------- | -----: | -----: | ----------- |
+| Tiopental |     4+ |     12 | 30 sekunder |
+
+- Varje extra dos sänker båda trösklarna med 1.
+- Når tärningen **Döende-tröskeln**: andningsstillestånd, offret är **Döende**.
+- Når tärningen **Somnar-tröskeln** (men inte Döende): offret somnar.
+- Annars: offret blir **Påverkad** (alla handlingar ett steg svårare).
+- Sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** i en timme.

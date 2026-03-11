@@ -80,3 +80,26 @@ Stigmata måste använda morfin varje session, annars får de **1 Stress** per s
 - **Morfin:** 10 ampuller och injektionsset.
 - **Boken Inferno:** av Strindberg i originalutgåva.
 - **Pistol m/40:** Räckvidd 25 m, skadetärningar +4, kritisk bonus +0, skadetyp Småkaliber. Ammunition ❏❏
+
+## Regelutdrag
+
+### Akutvård och stabilisering
+
+En person kan stabiliseras med **Analys + Smidighet (Medicin)**:
+
+- Kräver en huvudhandling för första försöket, en minut för andra, en timme för tredje.
+- Vid framgång slutar personen vara Döende (men behöver fortfarande läkning).
+
+*Fältkirurg ger +3 tärningar på detta slag för 1 Fokus.*
+
+### Sömnmedel (morfin)
+
+Slå 1T12 när sömnmedlet får effekt:
+
+| Sömnmedel | Somnar | Döende | Anslag     |
+| --------- | -----: | -----: | ---------- |
+| Morfin    |     8+ |     12 | 10 minuter |
+
+- Varje extra dos sänker båda trösklarna med 1.
+- Expertis Läkare: lyckat slag för Analys + Sinnen höjer Döende-tröskeln med 1 per framgång (max +2).
+- Sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** i en timme.

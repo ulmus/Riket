@@ -57,8 +57,8 @@ När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom
 Du är tränad i att kontrollera automateld med precision.
 
 - Du kan använda **Fysik + Strid** istället för Smidighet + Strid vid automateld.
-- **Kort salva:** Ger **+3 skadetärningar** istället för +2.
-- **Lång salva:** Gör en avståndsattack med Fysik + Strid. Varje framgång utöver den första träffar ett extra mål inom 3 meter från föregående träff. Varje extra träff ger vapnets grundskada ett steg lägre i skala. Kostar **1 Fokus** och 1 magasin.
+- **Kort salva:** Spendera 1 Fokus för att göra en attack till mot ett extra mål.
+- **Lång salva:** Spendera 2 Fokus för att göra en attack mot alla mål i en kon.
 
 ## Täckande eld
 

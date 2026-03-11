@@ -1,6 +1,6 @@
 # Expertiser
 
-Varje expertis ger +1 på relevanta aktiviteter och öppnar upp specialförmågor. Aktiviteter som kräver expertisen ger -3 om du försöker utan den. Förmågor som kräver expertis beskrivs i [[Förmågor#Expertisförmågor]].
+Varje expertis ger +1 på relevanta aktiviteter och öppnar upp specialförmågor. Aktiviteter som kräver expertisen blir Svåra eller Mycket Svåra om du försöker utan den. Förmågor som kräver expertis beskrivs i [[Förmågor#Expertisförmågor]].
 
 ## Automatisk framgång
 

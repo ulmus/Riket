@@ -73,3 +73,22 @@ Martin är känd bland gränsvakter och Volkspolizei i Berlin. I situationer dä
 - **Karta över Berlin:** Detaljerad, med markeringar för smugglarrutter, patrullmönster och gömställen. +2 på Analys + Sinnen för att navigera i Berlin.
 - **Verktygsset:** Grundläggande bilverktyg. +1 på Analys + Smidighet för fordonsreparationer.
 - **Reservpass:** Ett falskt schweiziskt pass i namnet "Heinrich Meier".
+
+## Regelutdrag
+
+### Fordonsjakt
+
+| Aktivitet            | Slag                |
+| -------------------- | ------------------- |
+| Biljakt – körning    | Smidighet + Smidighet |
+| Undanmanöver         | Smidighet + Smidighet |
+| Terrängkörning       | Fysik + Smidighet   |
+| Navigera i okänd stad | Analys + Sinnen    |
+| Reparera i vägkanten | Analys + Smidighet  |
+| Skjuta från fordon   | Smidighet + Strid   |
+
+### Kapplöpning
+
+Två sidor försöker nå ett visst antal framgångar snabbast. Huvudaktören slår varje runda, biaktörer kan hjälpa. Om båda sidor når målet samtidigt vinner den med flest överskjutande framgångar.
+
+*Racerinstinkt: din första framgång varje runda räknas som två.*
