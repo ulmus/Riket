@@ -58,9 +58,10 @@ Varje karaktär har **Kroppspoäng (KP)** lika med **Fysik + Vilja**. KP represe
 | **Oskadd**     | 0 KP                     | Inga effekter                              |
 | **Sårad**      | > Fysik KP               | Alla handlingar ett steg svårare           |
 | **Medvetslös** | > Fysik + Vilja KP       | Du faller ihop och kan inte agera          |
-| **Döende**     | > 2 × (Fysik + Vilja) KP | Se *Döende* nedan, eller via kritisk träff |
+| **Döende**     | > 2 × (Fysik + Vilja) KP       | Se *Döende* nedan, eller via kritisk träff |
+| **Död**        | > 2 × (Fysik + Vilja) + 5 KP   | Du dör omedelbart                          |
 
-*Exempel: En karaktär med Fysik 3 och Vilja 2 har 5 KP. Hon blir Sårad vid 4+ KP skada, Medvetslös vid 6+ KP, och Döende vid 11+ KP.*
+*Exempel: En karaktär med Fysik 3 och Vilja 2 har 5 KP. Hon blir Sårad vid 4+ KP skada, Medvetslös vid 6+ KP, Döende vid 11+ KP, och dör omedelbart vid 16+ KP.*
 
 ## 1. Bestäm antal skadetärningar
 
@@ -135,6 +136,8 @@ Du blir **Döende** om:
 
 - Du tar mer än **2 × (Fysik + Vilja)** KP-skada (chock), eller
 - En **kritisk träff** gör dig Döende.
+
+Om du tar mer än **2 × (Fysik + Vilja) + 5** KP-skada dör du omedelbart – ingen stabilisering är möjlig.
 
 ### Överlevnadsslag
 

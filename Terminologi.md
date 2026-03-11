@@ -75,6 +75,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Sårad** | Alla handlingar ett steg svårare (vid skada > Fysik KP) |
 | **Medvetslös** | Kan inte agera (vid skada > Fysik + Vilja KP) |
 | **Döende** | Kräver akutvård eller dör (vid skada > 2 × KP eller via kritisk träff) |
+| **Död** | Dör omedelbart, ingen stabilisering möjlig (vid skada > 2 × KP + 5) |
 
 ## Stress och psykisk hälsa
 
