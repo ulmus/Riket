@@ -14,7 +14,7 @@ Ni har utsetts att genomföra en säkerhetsoperation i Berlin, Västtyskland och
 
 ## BAKGRUND
 
-Ett högvärdigt mål har begärt utförsel från DDR till Sverige. Målet har tillgång till strategiskt viktig information av betydelse för Sveriges säkerhet och forskningsintressen.
+Ett högvärdigt mål har begärt utförsel från DDR till Sverige. Målet har tillgång till hemlig uppgift av betydelse för Sveriges säkerhet och forskningsintressen.
 
 Målet är identifierat som **Dr. Hans Richter**, f.d. tysk vetenskapsman, för närvarande verksam inom DDR:s forskningsprogram. Richter har erbjudit sig att överföra vetenskaplig dokumentation och expertis i utbyte mot asyl för sig själv och sin maka.
 

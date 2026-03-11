@@ -304,17 +304,17 @@ Richter vägrar lämna utan Elisabeth. Om spelarna försöker övertala honom (*
 
 **Yaakov Dayan (Mossad)** arbetar förklädd som servitör på mottagningen. Han har väntat på detta ögonblick i åratal – chansen att döda Hans Richter.
 
-När han ser spelarna närma sig Richter blir han orolig. Han vill inte att Richter flyr till Sverige – han vill se honom död. Han känner inte till att Golem är närvarande.
+Han avvaktar nu rätt tillfälle. Han vet inte att Richter ska fly till Sverige, men han har förstått att något är på gång och han kan lägga ihop två och två. Han känner inte till att Golem är närvarande, eller för den delen vem Golem är.
 
 Yaakov kan försöka närma sig spelarna diskret och avslöja sin identitet:
 
-*"Jag vet vad ni planerar. Men ni vet inte vem Richter är. Ni vet inte vad han gjort."*
+*"Jag vet inte vad ni planerar. Men ni vet inte vem Richter är. Ni vet inte vad han gjort."*
 
 Yaakov berättar (om spelarna lyssnar) om de hemska brott Richter begått. Han tror att hans bror Elias dog i Auschwitz.
 
 *"Låt mig ta hand om honom. Ni får hans forskning, men han får aldrig sätta sin fot i Sverige."*
 
-Om spelarna vägrar kan Yaakov försöka agera på egen hand senare.
+Om spelarna vägrar kan Yaakov försöka agera på egen hand senare. Han vill dock inte skapa en diplomatisk kris på Schweiziska ambassaden om han kan undvika det.
 
 #### Golem bryter sig ut
 
@@ -377,9 +377,7 @@ Husets gatuplan har fem rum. Ytterdörren kommer in i en öppen hall med en lite
 
 Matsalen är liten, men kan ta ett sällskap på åtta personer. En tavla på Dr Mengele hänger relativt diskret över vitrinskåpet. Köket är väl tilltaget med modern gasspis och även sovrummet är  
 
-I sovrummet ligger **Elisabeth Richter** i sängen, blek och svag. Hon är i sextioårsåldern, utmärglad av cancer. Vid hennes sida sitter Hans Richter, som håller hennes hand.
-
-Golem står vid dörren, vaksam, som en hund som skyddar sin herre.
+I sovrummet ligger **Elisabeth Richter** i sängen, blek och svag. Hon är i sextioårsåldern, utmärglad av cancer.
 
 #### Elisabeth Richter
 
@@ -387,13 +385,13 @@ Elisabeth är vaken men svag. Hon vet vem spelarna är och varför de är där.
 
 *"Så... Sverige till slut. Hans pratade om det. Jag trodde det var en dröm."*
 
-Hon är inte ångerfull för sina gärningar. Hon tror fortfarande att experimenterna tjänade vetenskapen.
+Hon är inte ångerfull för sina gärningar. Hon tror fortfarande att experimenten tjänade vetenskapen.
 
 *"Alla offer har ett syfte. Vi vet nu saker som världen behöver."*
 
 Elisabeth är för sjuk för att fly snabbt. Hon måste bäras eller köras i rullstol.
 
-**Egenskaper:** Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1. Döende av cancer, **medvetslös** tillstånd beror på behandling.
+**Egenskaper:** Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1. Döende av cancer.
 
 #### Komplikationer
 
@@ -403,7 +401,7 @@ Elisabeth är för sjuk för att fly snabbt. Hon måste bäras eller köras i ru
 
 ### Nebelkrone-laboratoriet (om Golem flyr dit)
 
-Om Golem inte fick order från Richter (om han var medvetslös eller död) kan hans instinkt ha fört honom till Nebelkrone-laboratoriet – platsen han känner som "hem".
+Om Golem inte fick order från Richter (om han var medvetslös eller död) kan hans instinkt ha fört honom till Nebelkrone-laboratoriet – platsen han känner som "hem". Han kommer att smyga och/eller slå sig in. Det är kaos vid laboratoriet i så fall och eventuellt är polisen ditkallad (de lär dock stanna utanför och vågar sig inte in, både av säkerhetsskäl och för att det är partihemligheter därinne)
 
 #### Platsen
 

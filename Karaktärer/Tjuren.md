@@ -95,7 +95,7 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 
 ## Utrustning
 
-- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 40 m, skadetärningar +4, kritisk bonus +0, skadetyp Småkaliber, Automateld. Ammunition ❏❏❏❏
+- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, skadetärningar +4, kritisk bonus +0, skadetyp Småkaliber, Automateld. Ammunition ❏❏❏❏
 - **Knogjärn:** +1 skadetärning i obeväpnad närstrid.
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
 - **Rock med insydda plåtar:** Skydd 2, **−1** på Smidighet-slag.
