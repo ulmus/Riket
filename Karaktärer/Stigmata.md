@@ -14,7 +14,8 @@
 ## Språk
 
 - Svenska (modersmål)
-- (3 ytterligare språkpoäng)
+- Engelska (flytande)
+- Tyska (stapplande)
 
 ## Trauma – Skuld
 

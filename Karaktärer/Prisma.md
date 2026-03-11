@@ -14,6 +14,7 @@
 ## Språk
 
 - Svenska (modersmål)
+- Tyska (stapplande)
 
 ## Trauma – Skam
 

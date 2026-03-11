@@ -96,7 +96,7 @@ Hedström tar ett djupt bloss.
 
 Hedström reser sig och går till fönstret.
 
-*"Berlin är i kaos just nu. Honeckers mur är inte färdig, gränserna är som ett såll av rakblad, och alla spionerna är där. Richter ska närvara vid en vetenskaplig mottagning på **den schweiziska ambassaden i Östberlin** den 18 november. Det är vår chans."*
+*"Berlin är i kaos just nu. Honeckers mur är inte färdig, gränserna är som ett såll av rakblad, och alla spionerna är där. Richter ska närvara vid en vetenskaplig mottagning på **den schweiziska ambassaden i Östberlin** den 13 november. Det är vår chans."*
 
 *"Er uppgift är att ta kontakt med Richter, säkerställa honom och hans fru, och få ut dem ur Östtyskland. Ni reser under diplomatiska täckmantel som 'vetenskapliga rådgivare' knutna till svenska ambassaden. Ni kommer att få diplomatpass, men de skyddar er bara så länge ni inte gör något uppenbart olagligt."*
 
@@ -207,7 +207,7 @@ Om spelarna har egna kontakter kan de försöka aktivera dem för att få mer in
 
 Den schweiziska ambassaden ligger på **Unter Den Linden 29-31** i centrala Östberlin, en imponerande neoklassisk byggnad från 1800-talet med hög fasad och ornamenterad portal. Byggnaden symboliserar Schweiz' neutralitet – en ö av diplomatisk fred mitt i det kalla krigets Berlin.
 
-Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk hemma — också ska räddas. Han vägrar lämna Östtyskland utan henne. Vad han inte vet är att **Yaakov Dayan**, Mossad-agenten, är medveten om vem Elisabeth är: Richters lojala assistent från Mengele-projektets dagar. Yaakov bär ett personligt hat mot henne och skulle inte tveka att se henne dö.
+Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk hemma — också ska räddas. Han vägrar lämna Östtyskland utan henne.
 
 #### Byggnaden och lokaler
 
@@ -270,7 +270,7 @@ Om Brenner blir alltför misstänksam kommer han att kalla på förstärkning �
 
 #### CIA:s erbjudande
 
-**Agent Richard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han känner inte till vem de är eller vad de gör där – CIA vet om avhoppet genom signalspaning men Donnelly har inte fått den informationen.
+**Agent Richard "Dick" Donnelly** kommer att närma sig spelarna diskret någon gång under kvällen. Han vet inte exakt vilka de är, men han vet att de ska ta emot en avhoppande Richter – CIA vet om avhoppet genom signalspaning.
 
 *"Hej där. Jag tror vi har liknande intressen ikväll. Doktor Richter, eller hur?"*
 

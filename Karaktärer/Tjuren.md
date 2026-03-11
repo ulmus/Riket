@@ -15,6 +15,7 @@
 ## Språk
 
 - Svenska (modersmål)
+- Tyska (stapplande)
 
 ## Trauma – Förlust
 

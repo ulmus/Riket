@@ -15,7 +15,9 @@
 ## Språk
 
 - Svenska (modersmål)
-- (4 ytterligare språkpoäng)
+- Tyska (flytande)
+- Ryska (stapplande)
+- Engelska (stapplande)
 
 ## Trauma – Vanmakt
 

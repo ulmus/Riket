@@ -15,7 +15,7 @@
 ## Språk
 
 - Svenska (modersmål)
-- (1 ytterligare språkpoäng)
+- Tyska (flytande)
 
 ## Trauma – Svek
 
