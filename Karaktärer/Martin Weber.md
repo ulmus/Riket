@@ -14,7 +14,8 @@
 ## Språk
 
 - Tyska (modersmål)
-- Svenska
+- Svenska (stapplande)
+- Polska (stapplande)
 
 ## Bakgrund
 
@@ -22,7 +23,7 @@ Martin Weber är en berlinare i fyrtioårsåldern, född och uppvuxen i en stad 
 
 Martin hatar muren med en tyst, metodisk ilska. Hans bror Rolf sitter fast i Östberlin med sin familj. Varje gång Martin kör genom Checkpoint Charlie tänker han på dem. En dag ska han köra dem ut. Han vet bara inte när.
 
-Martin är inte en supermänniska och inte en agent. Han är en vanlig man med ovanligt bra händer på ratten och en stad i blodet. Han saknar krafter men kompenserar med lokalkännedom, skicklighet bakom ratten och en överlevnadsinstinkt som aldrig sviker.
+Martin är inte en supermänniska och inte en agent. Han är en vanlig man med ovanligt bra händer på ratten och staden i blodet. Han saknar krafter men kompenserar med lokalkännedom, skicklighet bakom ratten och en överlevnadsinstinkt som aldrig sviker.
 
 ## Förmågor
 
@@ -70,9 +71,8 @@ Martin är känd bland gränsvakter och Volkspolizei i Berlin. I situationer dä
 
 - **Walther PPK:** Räckvidd 15 m, skadetärningar +3, kritisk bonus −1, skadetyp Småkaliber, Lätt. Ammunition ❏
 - **Mercedes-Benz 190:** Diskret men robust diplomatbil.
-- **Karta över Berlin:** Detaljerad, med markeringar för smugglarrutter, patrullmönster och gömställen. +2 på Analys + Sinnen för att navigera i Berlin.
+- **Karta över Berlin:** Detaljerad, med markeringar för bra rutter. +2 på Analys + Sinnen för att navigera i Berlin.
 - **Verktygsset:** Grundläggande bilverktyg. +1 på Analys + Smidighet för fordonsreparationer.
-- **Reservpass:** Ett falskt schweiziskt pass i namnet "Heinrich Meier".
 
 ## Regelutdrag
 

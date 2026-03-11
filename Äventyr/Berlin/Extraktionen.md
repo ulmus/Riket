@@ -49,6 +49,8 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 - **[[Silke]]** – social manipulatör med feromoner som påverkar känslor och beteenden.
 - **[[Prisma]]** - kontrollerar ljus och kan bända det för förvirring och distraktion
 - **[[Stigmata]]** - läker andras sår, ibland på bekostnad av sin egen hälsa
+Extra karaktär vid behov:
+- **[[Martin Weber]]** - tysk chaufför
 
 ## Tidslinje
 
