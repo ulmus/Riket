@@ -1,9 +1,9 @@
 | Egenskap  |     | Sekundärt    |        |
 | :-------- | --: | :----------- | :----- |
-| Analys    |   1 | KP           | 4      |
-| Fysik     |   1 | Sårad        | > 1 KP |
-| List      |   4 | Medvetslös   | > 4 KP |
-| Samspel   |   2 | Döende       | > 8 KP |
+| Analys    |   1 | Oskadd       | ❏❏     |
+| Fysik     |   1 | Sårad        | ❏❏     |
+| List      |   4 | Medvetslös   | ❏❏❏❏   |
+| Samspel   |   2 | Döende       | ❏❏❏❏❏  |
 | Sinnen    |   3 | Förflyttning | 6 m    |
 | Smidighet |   5 | Stabilitet   | 2      |
 | Strid     |   2 | Stress       | ❏❏❏❏❏❏ |
