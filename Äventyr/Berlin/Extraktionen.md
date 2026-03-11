@@ -158,7 +158,7 @@ Hon tar spelarna åt sidan efter mötet med Hellén och ger dem praktisk informa
 
 *"Om något går fel, kom tillbaka till Checkpoint Charlie. Vi kan inte göra mycket om ni grips djupt inne i Östberlin, men vid gränsen har vi en chans att förhandla."*
 
-Greta ger dem också en radiosändare för nödsignaler och en karta över Östberlin med markeringar för viktiga platser.
+Greta ger dem också en radiosändare för nödsignaler och en karta över Östberlin med markeringar för Svenska ambassaden och Schweiziska ambassaden.
 
 #### Martin, föraren
 
@@ -172,7 +172,7 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
-[![[Berlin.jpg]]](<Berlin.jpg>)
+[![[Berlin.png]]](<Berlin.png>)
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
@@ -1025,11 +1025,14 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 
 Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och uppvuxen i Berlin som han sett förvandlas från en metropol till en delad fästning. Han frågar aldrig vad passagerarna egentligen håller på med men är inte dum — han vet tillräckligt för att hålla tyst och köra fort. Han hatar muren med en tyst, metodisk ilska.
 
+*Martin kan användas som reservkaraktär om en spelare behöver en ny rollperson. Se [[Martin Weber]] för fullständigt karaktärsblad.*
+
 **Egenskaper:**
 
-- Smidighet 3, Sinnen 3, Strid 2, Vilja 2, Analys 2, Fysik 2, List 1, Samspel 1
-- **KP:** 4, **Stabilitet:** 2
-- **Expertis:** Förare
+- Smidighet 5, Sinnen 3, Vilja 3, Analys 2, Fysik 2, List 2, Samspel 2, Strid 2
+- **KP:** 5, **Stabilitet:** 2
+- **Expertis:** Chaufför
+- **Förmågor:** Kontrollerad sladd, Racerinstinkt, Skjut och kör, Tyst intrång
 
 #### Heinz Bauer (Volkspolizei)
 

@@ -206,7 +206,7 @@ Uppfattar konturer och rörelser genom solida hinder inom 20 meter utan att anv�
 
 ### Radiohörsel (1 Fokus, en huvudhandling)
 
-Lyssna på radiofrekvenser. Krypterade signaler kräver Sinnen + Vilja mot krypteringens svårighet.
+Lyssna på radiofrekvenser. Krypterade signaler kräver Analys + Sinnen mot krypteringens svårighet.
 
 - **+1 Fokus:** Du kan också sända.
 

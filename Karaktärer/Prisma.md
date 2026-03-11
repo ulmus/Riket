@@ -1,13 +1,13 @@
-| Egenskap  |     | Sekundärt    |        |
-| :-------- | --: | :----------- | :----- |
-| Analys    |   1 | Oskadd       | ❏❏     |
-| Fysik     |   1 | Sårad        | ❏❏     |
-| List      |   4 | Medvetslös   | ❏❏❏❏   |
-| Samspel   |   2 | Döende       | ❏❏❏❏❏  |
-| Sinnen    |   3 | Förflyttning | 6 m    |
-| Smidighet |   5 | Stabilitet   | 2      |
-| Strid     |   2 | Stress       | ❏❏❏❏❏❏ |
-| Vilja     |   3 | Språk        | 1      |
+| Egenskap  |     | Sekundärt    |             |
+| :-------- | --: | :----------- | :---------- |
+| Analys    |   2 | Oskadd       | ❏❏          |
+| Fysik     |   1 | Sårad        | ❏❏          |
+| List      |   4 | Medvetslös   | ❏❏❏❏        |
+| Samspel   |   2 | Döende       | ❏❏❏❏❏       |
+| Sinnen    |   3 | Förflyttning | 6 m         |
+| Smidighet |   5 | Stabilitet   | 2           |
+| Strid     |   2 | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
+| Vilja     |   3 | Språk        | 2           |
 
 **Expertis:** Låssmed
 
@@ -43,7 +43,7 @@ Du böjer ljus till en synvilla för en person. Synvillan är inte större än e
 
 ### Blända (1 Fokus, 1 huvudhandling)
 
-Du kan blända en person med dina strålar. Om du lyckas med Strid + Vilja mot personens Fysik + Vilja så är personen blind i en runda.
+Du kan blända en person med dina strålar. Om du lyckas med Smidighet + Vilja mot personens Fysik + Vilja så är personen blind i en runda.
 
 - **1 Framgång:** Personen är blind hela scenen, men kan slå ett slag för Fysik + Vilja varje runda efter den första. Om lyckat så lyckas de skaka sig av det.
 - **+2 Fokus:** Alla som tittar på dig när du använder förmågan tar effekten.

@@ -1,14 +1,14 @@
 
-| Egenskap  |     | Sekundärt    |        |
-| :-------- | --: | :----------- | :----- |
-| Analys    |   5 | Oskadd       | ❏❏     |
-| Fysik     |   2 | Sårad        | ❏❏❏    |
-| List      |   1 | Medvetslös   | ❏❏❏❏❏  |
-| Samspel   |   1 | Döende       | ❏❏❏❏❏  |
-| Sinnen    |   4 | Förflyttning | 4 m    |
-| Smidighet |   2 | Stabilitet   | 2      |
-| Strid     |   3 | Stress       | ❏❏❏❏❏❏ |
-| Vilja     |   3 | Språk        | 5      |
+| Egenskap  |     | Sekundärt    |             |
+| :-------- | --: | :----------- | :---------- |
+| Analys    |   5 | Oskadd       | ❏❏          |
+| Fysik     |   2 | Sårad        | ❏❏❏         |
+| List      |   1 | Medvetslös   | ❏❏❏❏❏       |
+| Samspel   |   1 | Döende       | ❏❏❏❏❏       |
+| Sinnen    |   4 | Förflyttning | 4 m         |
+| Smidighet |   2 | Stabilitet   | 2           |
+| Strid     |   3 | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
+| Vilja     |   3 | Språk        | 5           |
 
 **Expertis:** Radiotekniker
 
@@ -33,7 +33,7 @@ Karaktären kan avläsa sin omgivning utan att använda synen, och uppfattar kon
 
 ### Radiohörsel (1 Fokus, en huvudhandling)
 
-Karaktären kan lyssna på radiofrekvenser så länge hen koncentrerar sig. Om signalen är krypterad så krävs ett lyckat slag för Sinnen + Vilja där svårigheten bestäms av krypteringens komplexitet.
+Karaktären kan lyssna på radiofrekvenser så länge hen koncentrerar sig. Om signalen är krypterad så krävs ett lyckat slag för Analys + Sinnen där svårigheten bestäms av krypteringens komplexitet.
 
 - **+1 Fokus:** Du kan också sända.
 
