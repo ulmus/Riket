@@ -36,20 +36,21 @@
 - Markera Stress vid: skada (Sårad), skräck, kraftanvändning (istället för Fokus)
 - **Skräck:** Slå Vilja + lämplig egenskap. Skräckfaktor (1–4) minus framgångar = Stress. Trauma-koppling ger +1 Skräckfaktor.
 - **Stabilitet** = 1 + ⌊Vilja / 2⌋ avrunda neråt
-- Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+1 per gräns utöver första)
+- Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+2 per gräns utöver första)
 
-| Slag  | Resultat                                                         |
-| ----: | ---------------------------------------------------------------- |
-| 1–6   | **Ok** – ingen effekt                                            |
-| 7     | **Skakad** – tappar en handling eller missar nästa runda         |
-| 8     | **Panik** – flyr i en runda, alla i närheten gör Skräck-slag    |
-| 9     | **Raseri** – attackerar närmaste person i en runda               |
-| 10    | **Förstelning** – kan inte agera förrän lyckat Vilja-slag        |
-| 11–12 | **Trauma aktiverat** – agerar enligt traumats beteende, krafter manifesterar okontrollerat |
-| 13+   | **Trauma förvärrat** – som ovan, plus permanent fördjupning      |
+|  Slag | Resultat                                                                                |
+| ----: | --------------------------------------------------------------------------------------- |
+|   1–2 | **Klarsynt** – stressen fokuserar dig, +1 Fokus                                         |
+|   3–6 | **Ok** – ingen effekt                                                                   |
+|   7–8 | **Skakad** – tappar en handling eller missar nästa runda                                |
+|     9 | **Panik** – flyr i en runda, alla i närheten gör Skräck-slag (1)                        |
+|    10 | **Raseri** – attackerar närmaste person i en runda, alla i närheten gör Skräck-slag (2) |
+|    11 | **Förstelning** – kan inte agera förrän lyckat Vilja-slag                               |
+| 12–13 | **Trauma aktiverat** – agerar enligt trauma resten av scenen                            |
+|   14+ | **Trauma förvärrat** – som ovan, plus permanent fördjupning                             |
 
 ## Återhämtning
 
 - **Kort vila:** −1 Stress
-- **Stressreducerande handling** (personlig): −Vilja Stress
+- **Stressreducerande handling** (personlig): −Stabilitet Stress
 - **Lång vila:** All Stress borta (kan minska Momentum)

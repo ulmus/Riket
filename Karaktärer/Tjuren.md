@@ -45,9 +45,10 @@ När karaktären träffas av en attack som gör skada kan de aktivera denna för
 
 ### Tjurrusning (1 Fokus, 1 bihandling)
 
-Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och slår för Fysik + Smidighet. Varje Framgång låter karaktären ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
+Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och slår för Fysik + Smidighet. Om du lyckas så kan du ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
 
 - **+1 Fokus:** Attacken räknas som en närstridsattack mot alla som står i vägen.
+- **1 Framgång:** Ignorera ytterligare ett hinder.
 - **1 Framgång:** Fienders slag för att hålla sig på fötter ett steg svårare.
 - **1 Framgång:** Öka distansen på rusningen med en Förflyttning.
 

@@ -86,21 +86,22 @@ När något skrämmande eller chockartat inträffar: slå ett **Skräck-slag, Vi
 
 ## Sammanbrott
 
-Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns** (Stabilitet, 2 × Stabilitet, 3 × Stabilitet, etc…): Slå **T12** och lägg till **+1** för **varje passerad gräns utöver den första**.
+Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns** (Stabilitet, 2 × Stabilitet, 3 × Stabilitet, etc…): Slå **T12** och lägg till **+2** för **varje passerad gräns utöver den första**.
 
 |      Slag | Tillstånd             | Effekt                                                                                                                                                                |
 | --------: | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   **1-6** | **Ok**                | Du blir inte påverkad av stressen – den här gången.                                                                                                                   |
-|     **7** | **Skakad**            | Du stelnar till och **tappar en handling** eller **missar nästa runda**.                                                                                              |
-|     **8** | **Panik**             | Du **flyr** mot närmaste skydd eller bort från hotet **i en runda** och **släpper** allt du håller i. Alla i närheten gör ett **Rädsla-slag (Vilja + Vilja)**.        |
-|     **9** | **Raseri**            | Du tappar kontrollen och **attackerar närmaste hot/person** (vän eller fiende) **i en runda**. Alla i närheten gör **Rädsla-slag (Vilja + Vilja, Svårt)**.            |
-|    **10** | **Förstelning**       | Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Vilja-slag** som **huvudhandling**.                                                       |
-| **11-12** | **Traumat aktiverat** | Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]). |
-|   **13+** | **Trauma förvärrat**  | Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL.                          |
+|   **1–2** | **Klarsynt**          | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                          |
+|   **3–6** | **Ok**                | Du blir inte påverkad av stressen – den här gången.                                                                                                                   |
+|   **7–8** | **Skakad**            | Du stelnar till och **tappar en handling** eller **missar nästa runda**.                                                                                              |
+|     **9** | **Panik**             | Du **flyr** mot närmaste skydd eller bort från hotet **i en runda** och **släpper** allt du håller i. Alla i närheten gör ett **Skräck-slag (Vilja + Vilja, SF 1)**.  |
+|    **10** | **Raseri**            | Du tappar kontrollen och **attackerar närmaste hot/person** (vän eller fiende) **i en runda**. Alla i närheten gör **Skräck-slag (Vilja + Vilja, SF 2)**.             |
+|    **11** | **Förstelning**       | Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Vilja + Vilja-slag** som **huvudhandling**.                                               |
+| **12–13** | **Traumat aktiverat** | Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]). |
+|   **14+** | **Trauma förvärrat**  | Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL.                          |
 
 ## Förvärrat trauma
 
-När du slår 13+ på sammanbrottstabellen fördjupas ditt trauma permanent. Välj en av de listade effekterna tillsammans med SL som passar din traumakategori. Dessa effekter är bestående drag som ska spelas ut – de definierar hur din rollperson förändras av sina upplevelser.
+När du slår 14+ på sammanbrottstabellen fördjupas ditt trauma permanent. Välj en av de listade effekterna tillsammans med SL som passar din traumakategori. Dessa effekter är bestående drag som ska spelas ut – de definierar hur din rollperson förändras av sina upplevelser.
 
 ### Förstärkta krafter
 
