@@ -1,6 +1,6 @@
 Trauma och stress är en viktig del av I Rikets Tjänst. Ur sina trauman hämtar karaktärerna sina krafter, men stressen kan också övermanna dem och leda till sammanbrott.
 
-# Trauma
+## Trauma
 
 Varje rollperson i I Rikets Tjänst bär på ett djupt trauma – en händelse eller erfarenhet som format dem och som är oupplösligt kopplad till deras krafter.
 
@@ -50,7 +50,7 @@ Välj en av följande traumakategorier vid karaktärsskapandet:
 
 Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett eget trauma med liknande struktur: en kärna (vad hände?) och ett beteende (hur agerar du när det aktiveras?).
 
-# Stress
+## Stress
 
 **Stress** är ett mått på din rollpersons psykiska belastning. Du tar Stress när du utsätts för traumatiska händelser. Du kan också ta Stress istället för att spendera Fokus vid slag för egenskaper eller för att använda krafter. När du har tagit mer Stress än din **Stabilitet** riskerar du ett Sammanbrott (se nedan).
 

@@ -510,7 +510,7 @@ Muren är ofullständig i november 1961. Det finns flera möjliga flyktrutter:
 
 #### Kyrkruinen
 
-En bombado kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
+En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
 
 - **Fara:** Bevakade torn på båda sidor. Risk för att bli beskjuten.
 - **Svårighet:** *Smidighet + Fysik*, **Normalt**, **Svårt** om de bär någon.

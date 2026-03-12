@@ -110,7 +110,7 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 > Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada och är Sårad (tröskeln är >2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
 > Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 för kritisk träff och får en 8. Med pistolens kritiska bonus på +0 blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
 
-# Effekter av skada
+## Effekter av skada
 
 ## Stress
 

@@ -169,7 +169,7 @@ När du skapar en kraft, beskriv också hur den manifesterar sig när ditt traum
 - **+1 Fokus:** *Förstärkning*
 - **1 Framgång:** +1 skadetärning
 
-# Exempelkrafter
+## Exempelkrafter
 
 ## Silke – Feromoner och manipulation
 
