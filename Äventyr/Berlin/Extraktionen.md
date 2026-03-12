@@ -334,6 +334,8 @@ Plötsligt hörs ett enormt krasch från nedervåningen. Golem krossar en vägg 
 
 Folk skriker. Stasi-agenter drar vapen. KGB-agenter aktiverar sina krafter. Schweiziska säkerhetsvakter försöker ingripa men slängs åt sidan som leksaker.
 
+> **Skräck-slag:** *Analys + Vilja*, Skräckfaktor **3** – en omänsklig varelse krossar sig genom väggen. Karaktärer med Trauma: Vanmakt eller Förlust får +1.
+
 Golem rör sig direkt mot Richter, river undan alla som står i vägen. Om någon försöker skada Richter attackerar Golem dem brutalt.
 
 **Detta är klimax av Akt I.** Kaos följer, och spelarna måste fatta snabba beslut:
@@ -408,6 +410,8 @@ Elisabeth är för sjuk för att fly snabbt. Hon måste bäras eller köras i ru
 
 #### Komplikationer
 
+> **Skräck-slag:** *Sinnen + Vilja*, Skräckfaktor **2** – Stasi omringar huset, ingen uppenbar utväg.
+
 - **Stasi är på väg:** Volkspolizei och Stasi spårar Golem och kommer att omringa byggnaden inom 10–15 minuter.
 - **Yaakov vill hämnas:** Om Yaakov följde med eller spårade spelarna kommer han att försöka döda både Hans och Elisabeth här.
 - **Golem skyddar:** Om någon hotar Richter eller Elisabeth anfaller Golem omedelbart.
@@ -435,6 +439,8 @@ I källaren hålls de flesta försökspersoner – personer Stasi klassificerar 
 
 Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) möts de av en fruktansvärd plats – ett modernt helvete där människor förvandlas till vapen.
 
+> **Skräck-slag:** *Analys + Vilja*, Skräckfaktor **3** – operationsrum, celler, torterade fångar. Karaktärer med Trauma: Vanmakt eller Skuld får +1.
+
 ### Haus an Den Birken – det övergivna huset
 
 Om Golem är skadad eller förvirrad kan hans djupaste minnen väckas – minnen från innan han blev Golem, när han var Elias Lewinsky.
@@ -460,6 +466,8 @@ Om Golem flyr hit bär han Richter till källaren – till den plats där han en
 
 Om spelarna hittar honom här är det en möjlighet att nå fram till honom. Golem är inte aggressiv om inte Richter hotas. Han verkar nästan... ledsen.
 
+> **Skräck-slag:** *Analys + Vilja*, Skräckfaktor **2** – en skadad, sörjande jätte i ett mörkt rum med barnteckningar på väggarna. Karaktärer med Trauma: Förlust får +1.
+
 Om **Yaakov** är närvarande kan det ske en känslomässig konfrontation. Yaakov inser att detta är platsen där han och Elias gömde sig. Om han pratar till Golem på jiddisch kan det väcka djupt begravda minnen.
 
 *"Elias... är det du? Det är jag, Jakob. Din bror."*
@@ -482,9 +490,13 @@ Behandla detta som en **kapplöpning** (se [[Aktiviteter]]). Spelarna försöker
 
 Om jakten blir för intensiv kan Martin krascha bilen, vilket tvingar spelarna att fortsätta till fots eller hitta ett annat fordon.
 
+> **Skräck-slag vid beskjutning:** *Strid + Vilja*, Skräckfaktor **1** – kulor slår in i bilen under jakt.
+
 #### Checkpoint Charlie
 
 Stasi kommer att per radio instruera kontrollstationerna att stänga. **Checkpoint Charlie** kan vara blockerat när spelarna kommer dit.
+
+> **Skräck-slag:** *Sinnen + Vilja*, Skräckfaktor **2** – flyktvägen stängd, beväpnade soldater framför, Stasi bakom.
 
 Spelarna kan:
 

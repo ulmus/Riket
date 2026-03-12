@@ -15,6 +15,7 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 - Varje slag på **12** ger dessutom 1 **Fokus**.
 - Minst en framgång krävs för att lyckas (**Normalt**).
 - Svårare handlingar kräver fler framgångar (**Svårt** eller **Mycket Svårt**).
+- Ett slag kan i allmänhet bara försökas en gång. För att få slå igen krävs att någon förutsättning ändras, till exempel tid eller vem som gör det.
 
 ### Svårighetsgrader
 
@@ -98,7 +99,7 @@ Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fo
 
 - Varje Stress du tar ersätter en nivå Fokus
 - Du kan bara använda lika många Stress som din Stabilitet
-- Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrotts-tabellen efter att du utfört handlingen ([[Trauma och stress#Sammanbrott]])
+- Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrotts-tabellen efter att du utfört handlingen ([[Trauma, skräck och stress#Sammanbrott]])
 
 ### Fokus till Momentum
 
@@ -110,7 +111,7 @@ Varje ny scen återställs personligt Fokus till **Momentum**. Momentum represen
 
 ### Scener
 
-En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvarande. Som grund gäller att om handlingen gör ett hopp framåt i tiden så är det en ny scen efter det.
+En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvarande. Som grund gäller att om handlingen gör ett hopp framåt i tiden så är det en ny scen efter det. Strider inleder en ny scen och efter striden inleds i allmänhet en ny scen.
 
 ## Strid och skada
 
@@ -132,7 +133,7 @@ Se kapitlet för [[Strid och skada]]
   - Varje gång du har tagit mer Stress än en multipel av din Stabilitet så slår du igen på sammanbrottstabellen, +1 för varje multipel av Stabilitet du har passerat utöver den första.
 - Återvinn stress genom att vila eller utföra stressreducerande aktiviteter (olika för varje rollperson)
 
-Se kapitlet för [[Trauma och stress]]
+Se kapitlet för [[Trauma, skräck och stress]]
 
 ## Karaktärsskapande
 

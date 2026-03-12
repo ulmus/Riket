@@ -120,7 +120,7 @@ Spelledaren uppmuntras att skapa dramatiska konsekvenser för misslyckade eller 
 
 ## Aktiverat trauma
 
-När en rollpersons trauma aktiveras genom [[Trauma och stress#Sammanbrott|Sammanbrott]] manifesterar krafterna sig okontrollerat. Krafterna blir tillfälligt mäktigare men spelaren förlorar kontrollen över dem.
+När en rollpersons trauma aktiveras genom [[Trauma, skräck och stress#Sammanbrott|Sammanbrott]] manifesterar krafterna sig okontrollerat. Krafterna blir tillfälligt mäktigare men spelaren förlorar kontrollen över dem.
 
 ### Effekter vid aktiverat trauma
 

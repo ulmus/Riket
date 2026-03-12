@@ -68,21 +68,21 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 
 > **Sammanbrottsgränser:** När din totala Stress passerar **1×B**, **2×B**, **3×B** … (där **B** är din Stabilitet) slår du på Sammanbrottstabellen.
 
-## Rädsla
+## Skräck
 
-När något skrämmande eller chockartat inträffar: **slå Vilja + lämplig egenskap**.  
-**Svårighet** sätts av SL utifrån händelsen.
-**Misslyckande:** +1 Stress (eller mer, beroende på källa).
+När något skrämmande eller chockartat inträffar: slå ett **Skräck-slag, Vilja + lämplig egenskap**.  
+
+**Skräckfaktor** sätts av SL utifrån händelsen och är normalt 1-4, för varje framgång på slaget Skräckslaget så minskar den ett steg. Om det som skräck-slaget avser tangerar ditt Trauma så ökar Skräckfaktor med +1. För varje kvarvarande nivå av Skräckfaktor så tar karaktären en poäng Stress.
 
 *Exempel:*
 
-- **Bakhåll** – *Strid + Vilja*, svårighet **0**
-- **Någon dör i strid** – *Strid + Vilja*, svårighet **–1** (*0 om du är stridstränad*)
-- **Panik i din närhet** – *Vilja + Vilja*, svårighet **0**
-- **Någon dör utanför strid** – *Vilja + Vilja*, svårighet **–1**
-- **Nära vän/familj dör** – *Vilja + Vilja*, svårighet **–3**
-- **Överväldigande hot/hopplöst läge** – *Sinnen + Vilja*, svårighet **varierar**
-- **Övernaturligt/oförklarligt fenomen** – *Analys + Vilja*, svårighet **varierar**
+- **Bakhåll** – *Strid + Vilja*, Skräck **1**
+- **Panik i din närhet** – *Vilja + Vilja*, Skräck **1**
+- **Någon dör i strid** – *Strid + Vilja*, Skräck **2** (*1 om du är stridstränad*)
+- **Någon dör utanför strid** – *Vilja + Vilja*, Skräck **3**
+- **Nära vän/familj dör** – *Vilja + Vilja*, Skräck **4**
+- **Överväldigande hot/hopplöst läge** – *Sinnen + Vilja*, Skräck **varierar**
+- **Övernaturligt/oförklarligt fenomen** – *Analys + Vilja*, Skräck **varierar**
 
 ## Sammanbrott
 

@@ -4,7 +4,7 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Turer och handlingar
 
-På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, istället för en huvudhandling utföra två bihandlingar (för totalt tre bihandlingar på din tur). Utöver det så kan en reaktionshandling utföras utanför din tur, men bara om något händer som utlöser reaktionen.
+På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, istället för en huvudhandling utföra en bihandling till (för totalt två bihandlingar på din tur). Utöver det så kan en reaktionshandling utföras utanför din tur, men bara om något händer som utlöser reaktionen.
 
 ## Huvudhandlingar
 
@@ -90,9 +90,9 @@ Skydd hindrar först icke-kritiska träffar och först när alla de har blivit a
 
 ## 4. Kritiska träffar
 
-Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 1T12 och lägg till modifikatorer för att bestämma effekten på lämplig kritisk träff-tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
+Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 1T12 och lägg till modifierare för att bestämma effekten på lämplig kritisk träff-tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
 
-**Modifikatorer till slaget:**
+**Modiferare till slaget:**
 
 - **+1 per ytterligare 12:a** på skadetärningarna
 - **Vapnets kritiska skadebonus** (från −1 till +3, se [[Vapen]])
@@ -137,7 +137,12 @@ Du blir **Döende** om:
 - Du tar mer än **2 × (Fysik + Vilja)** KP-skada (chock), eller
 - En **kritisk träff** gör dig Döende.
 
-Om du tar mer än **2 × (Fysik + Vilja) + 5** KP-skada dör du omedelbart – ingen stabilisering är möjlig.
+## Omedelbar död
+
+Du dör omedelbart om:
+
+- Om du tar mer än **2 × (Fysik + Vilja) + 5** KP-skada
+- En **kritisk träff** beskriver att du dör omedelbart
 
 ### Överlevnadsslag
 
