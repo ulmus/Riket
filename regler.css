@@ -1,0 +1,176 @@
+@page {
+  size: A4;
+  margin: 2.5cm 2cm 3cm 2cm;
+
+  @bottom-center {
+    content: counter(page);
+    font-family: "Georgia", serif;
+    font-size: 9pt;
+    color: #555;
+  }
+}
+
+@page :first {
+  @bottom-center {
+    content: none;
+  }
+}
+
+/* Base typography */
+body {
+  font-family: "Georgia", "Times New Roman", serif;
+  font-size: 9.5pt;
+  line-height: 1.45;
+  color: #1a1a1a;
+  max-width: none;
+}
+
+/* Title page */
+header {
+  page-break-after: always;
+  text-align: center;
+  padding-top: 35%;
+}
+
+header h1.title {
+  font-size: 28pt;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-bottom: none;
+  margin-bottom: 0.5em;
+}
+
+header .subtitle {
+  font-size: 14pt;
+  font-style: italic;
+  color: #555;
+}
+
+/* Headings */
+h1 {
+  font-size: 18pt;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.2em;
+  break-before: right;
+  page-break-after: avoid;
+}
+
+h1:first-of-type {
+  break-before: avoid;
+}
+
+h2 {
+  font-size: 13pt;
+  font-weight: bold;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+  border-bottom: 1px solid #999;
+  padding-bottom: 0.15em;
+  page-break-after: avoid;
+}
+
+h3 {
+  font-size: 11pt;
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+  page-break-after: avoid;
+}
+
+h4, h5, h6 {
+  font-size: 10pt;
+  font-weight: bold;
+  margin-top: 0.8em;
+  margin-bottom: 0.2em;
+  page-break-after: avoid;
+}
+
+/* Paragraphs and lists */
+p {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  orphans: 3;
+  widows: 3;
+}
+
+ul, ol {
+  margin-top: 0.2em;
+  margin-bottom: 0.2em;
+  padding-left: 1.5em;
+}
+
+li {
+  margin-bottom: 0.15em;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 0.5em 0;
+  font-size: 8.5pt;
+  page-break-inside: avoid;
+}
+
+thead {
+  background-color: #333;
+  color: #fff;
+}
+
+th {
+  padding: 0.3em 0.5em;
+  text-align: left;
+  font-weight: bold;
+}
+
+td {
+  padding: 0.25em 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+  background-color: #f5f5f0;
+}
+
+/* Blockquotes (used for callouts/examples) */
+blockquote {
+  margin: 0.5em 0;
+  padding: 0.5em 0.8em;
+  border-left: 3px solid #555;
+  background-color: #f8f8f5;
+  font-style: italic;
+  page-break-inside: avoid;
+}
+
+blockquote p {
+  margin: 0.2em 0;
+}
+
+/* Emphasis */
+em {
+  font-style: italic;
+}
+
+strong {
+  font-weight: bold;
+}
+
+/* Code (for dice notation etc.) */
+code {
+  font-family: "Courier New", monospace;
+  font-size: 8.5pt;
+  background-color: #f0f0e8;
+  padding: 0.1em 0.3em;
+  border-radius: 2px;
+}
+
+/* Horizontal rules as section dividers */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+}
