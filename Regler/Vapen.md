@@ -35,12 +35,20 @@ Lätta vapen har –1 Skadetärningar jämfört med liknande vapen.
 
 Tunga vapen gör **+1 KP skada** vid träff, utöver skaderullens resultat. Denna skada appliceras efter skadeslaget men före Skydd.
 
+### Långt (närstrid)
+
+Vapnet kan användas på 2 meters avstånd istället för normal närstrid. Fiender med kortare vapen måste spendera förflyttning för att komma innanför räckvidden. Om en fiende är innanför 1 meter blir vapnet ohanterligt och alla attacker med det är ett steg svårare.
+
+### Kastbart
+
+Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner ur din hand efter kastet.
+
 ## Avståndsvapen
 
 | Vapen             | Räckvidd | Skadetärningar | Kritisk bonus | Skadetyp   | Egenskaper                |
 | ----------------- | -------: | -------------: | ------------: | ---------- | ------------------------- |
 | Pistol            |     25 m |             +4 |            +0 | Småkaliber | –                         |
-| Revolver          |     30 m |             +4 |            +0 | Småkaliber | –                         |
+| Revolver          |     25 m |             +4 |            +1 | Småkaliber | –                         |
 | K-pist            |     40 m |             +4 |            +0 | Småkaliber | Automateld                |
 | Automatkarbin     |     80 m |             +5 |            +1 | Småkaliber | Automateld                |
 | Gevär             |    100 m |             +6 |            +2 | Högkaliber | Grovkalibrigt             |
@@ -50,14 +58,14 @@ Tunga vapen gör **+1 KP skada** vid träff, utöver skaderullens resultat. Denn
 
 ## Närstridsvapen
 
-| Vapen    | Skadetärningar | Kritisk bonus | Skadetyp | Egenskaper |
-| -------- | -------------: | ------------: | -------- | ---------- |
-| Slagsmål |             +1 |            −1 | Kross    | Lätt       |
-| Kniv     |             +2 |            +0 | Stick    | –          |
-| Batong   |             +2 |            +0 | Kross    | –          |
-| Sabel    |             +3 |            +1 | Hugg     | Finess     |
-| Yxa      |             +3 |            +2 | Hugg     | Tung       |
-| Spjut    |             +3 |            +1 | Stick    | –          |
+| Vapen    | Skadetärningar | Kritisk bonus | Skadetyp | Egenskaper             |
+| -------- | -------------: | ------------: | -------- | ---------------------- |
+| Slagsmål |             +1 |            −1 | Kross    | Lätt                   |
+| Kniv     |             +2 |            +0 | Stick    | –                      |
+| Batong   |             +2 |            +0 | Kross    | –                      |
+| Sabel    |             +3 |            +1 | Hugg     | Finess                 |
+| Yxa      |             +3 |            +2 | Hugg     | Tung                   |
+| Spjut    |             +3 |            +1 | Stick    | Långt, Kastbart (15 m) |
 
 ## Skydd och rustning
 
@@ -71,7 +79,7 @@ Pansarbrytande ammunition ignorerar 1 poäng Skydd, men ger –1 skadetärning m
 
 ### Hålspetsammunition
 
-Hålspets ger +1 skadetärning mot obepansrade mål på grund av större sårkanal, men –1 skadetärning mot mål med Skydd.
+Hålspets ger +1 kritisk bonus på grund av större sårkanal, men –1 skadetärning mot mål med Skydd.
 
 ### Kikarsikte
 
