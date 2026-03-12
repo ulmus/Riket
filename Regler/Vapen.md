@@ -2,16 +2,7 @@
 
 ### Räckvidd
 
-Vapnets grundräckvidd. Attacker inom dessa avstånd görs utan avdrag. Attacker på längre avstånd får avdrag på träffchans enligt följande tabell:
-
-| Räckvidd | Multipel | Svårighet  |
-| -------- | -------- | ---------- |
-| Kort     | 1        | 0          |
-| Medium   | 2        | +1         |
-| Lång     | 4        | +2         |
-| Extrem   | 8        | +3         |
-
-Det här är räckvidderna om du har använt en bihandling för att Sikta. Om du inte Siktat så räknas alla avstånd som över Kort som Extrema vad gäller träffchans (alltså -4).
+Vapnets grundräckvidd. Attacker inom dessa avstånd görs utan avdrag. Attacker på längre avstånd är Svåra eller till och med Mycket Svåra.
 
 ## Egenskaper
 
@@ -46,16 +37,16 @@ Tunga vapen gör **+1 KP skada** vid träff, utöver skaderullens resultat. Denn
 
 ## Avståndsvapen
 
-| Vapen             | Räckvidd | Skadetärningar | Kritisk bonus | Skadetyp    | Egenskaper                |
-| ----------------- | -------: | -------------: | ------------: | ----------- | ------------------------- |
-| Pistol            |     25 m |             +4 |            +0 | Småkaliber  | –                         |
-| Revolver          |     30 m |             +4 |            +0 | Småkaliber  | –                         |
-| K-pist            |     40 m |             +4 |            +0 | Småkaliber  | Automateld                |
-| Automatkarbin     |     80 m |             +5 |            +1 | Småkaliber  | Automateld                |
-| Gevär             |    100 m |             +6 |            +2 | Högkaliber  | Grovkalibrigt             |
-| Hagelgevär        |     10 m |             +5 |            +1 | Småkaliber  | Hagelsvärm                |
-| Kulspruta 5.56 mm |    200 m |             +6 |            +2 | Småkaliber  | Automateld                |
-| Kulspruta 7,62 mm |    300 m |             +7 |            +3 | Högkaliber  | Automateld, Grovkalibrigt |
+| Vapen             | Räckvidd | Skadetärningar | Kritisk bonus | Skadetyp   | Egenskaper                |
+| ----------------- | -------: | -------------: | ------------: | ---------- | ------------------------- |
+| Pistol            |     25 m |             +4 |            +0 | Småkaliber | –                         |
+| Revolver          |     30 m |             +4 |            +0 | Småkaliber | –                         |
+| K-pist            |     40 m |             +4 |            +0 | Småkaliber | Automateld                |
+| Automatkarbin     |     80 m |             +5 |            +1 | Småkaliber | Automateld                |
+| Gevär             |    100 m |             +6 |            +2 | Högkaliber | Grovkalibrigt             |
+| Hagelgevär        |     10 m |             +5 |            +1 | Småkaliber | Hagelsvärm                |
+| Kulspruta 5.56 mm |    100 m |             +6 |            +2 | Småkaliber | Automateld                |
+| Kulspruta 7,62 mm |    200 m |             +7 |            +3 | Högkaliber | Automateld, Grovkalibrigt |
 
 ## Närstridsvapen
 
