@@ -236,11 +236,17 @@ Keller är genuint idealistisk men naiv. Han tror att god vilja och diplomati ka
 
 Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare som rollpersonerna kan interagera med:
 
+- **Dr. Hans Richter** – Målet. Nervös, väntar på kontakt. Se [[#Dr. Hans Richter]].
 - **Professor Hermann Müller** – Östtysk fysiker, politiskt naiv. Se [[#Professor Hermann Müller]].
 - **Fräulein Ingrid Schumann** – Östtysk operasångerska, charmig och opolitisk. Se [[#Fräulein Ingrid Schumann]].
 - **Monsieur Jean-Pierre Leclerc** – Fransk diplomat, cynisk och observant. Se [[#Monsieur Jean-Pierre Leclerc]].
 - **Oberleutnant Karl Brenner** – Stasi-officer i civil, övervakar Richter diskret. Se [[#Oberleutnant Karl Brenner]].
+- **Hauptmann Irma Vogel** – Stasi-säkerhetsofficer, Brenners överordnade. Håller sig i bakgrunden. Se [[#Hauptmann Irma Vogel]].
 - **Agent Richard "Dick" Donnelly** – CIA-agent under täckmantel som kulturattaché. Se [[#Agent Richard "Dick" Donnelly]].
+- **Kapten Lyudmila Sokolova** – KGB:s fältchef, förklädd som östtysk tjänsteman. Se [[#Kapten Lyudmila Sokolova]].
+- **Jelena Ivanova (Morana)** – Zvezda-agent, märkligt blek och kall. Se [[#Jelena Ivanova (Morana, Zvezda-agent)]].
+- **Vladimir Popov (Svarog)** – Zvezda-agent, bred och svettande. Se [[#Vladimir Popov (Svarog, Zvezda-agent)]].
+- **Yaakov Dayan** – Mossad-agent förklädd som servitör. Se [[#Yaakov Dayan (Jakob Lewinsky)]].
 
 Spelarna kan cirkulera, mingla och samla information. Ett slag för *Samspel + Sinnen* låter dem identifiera nyckelspelare och läsa stämningar. Fler framgångar ger mer information.
 
@@ -369,6 +375,11 @@ Beroende på situationen kan Golem ha tagit Richter till:
 [![[Richters hus andra våningen.png]]](<Richters hus andra våningen.png>)
 Paret Richters hus ligger på **Warschauer Strasse 47**, ett litet gatuhus med en trädgård i anslutning till en park.
 
+#### Personer på platsen
+
+- **Elisabeth Richter** – Richters hustru, sängliggande med cancer. Se [[#Elisabeth Richter]].
+- **Golem** – Om han flydde hit med Richter. Se [[#Elias Lewinsky / "Golem"]].
+
 #### Byggnaden
 
 Ett tvåvåningshus med liten trädgård i typisk östtysk stil, sliten fasad. Entrén är olåst och trappuppgången är tyst och mörk.
@@ -409,6 +420,13 @@ Om Golem inte fick order från Richter (om han var medvetslös eller död) kan h
 
 Nebelkrone-laboratoriet ligger i Berlin, i en före detta fabriksbyggnad omgjord till forskningsfacilitet, omgiven av höga staket, bevakat av Stasi-soldater.
 
+#### Personer på platsen
+
+- **Generalmajor Klaus Adler** – Stasi-chef för Nebelkrone, hård och pragmatisk. Se [[#Generalmajor Klaus Adler]].
+- **Dr. Marlene Fischer** – Östtysk läkare, ångerfull och potentiell allierad. Se [[#Dr. Marlene Fischer]].
+- **Stasi-vakter** – 6–8 beväpnade soldater bevakar anläggningen i skift. Se [[#Stasi-vakt]].
+- **Försökspersoner** – 4–6 fångar i källaren, de flesta i dåligt skick. Se [[#Försöksperson]].
+
 #### Beskrivning av anläggningen
 
 Bakom ett högt stängsel av taggtråd och metall ligger ett komplex av grå betongbyggnader. Huvudbyggnaden är tre våningar hög med små, barrikaderade fönster. Inuti finns laboratorier, cellrum, operationsrum och observationsenheter.
@@ -416,9 +434,6 @@ Bakom ett högt stängsel av taggtråd och metall ligger ett komplex av grå bet
 I källaren hålls de flesta försökspersoner – personer Stasi klassificerar som "samhällsfiender" som utsätts för Richters experiment. Överlevnadsgraden är cirka 5%.
 
 Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) möts de av en fruktansvärd plats – ett modernt helvete där människor förvandlas till vapen.
-
-- **Dr. Marlene Fischer** – Östtysk läkare, ångerfull och potentiell allierad. Se [[#Dr. Marlene Fischer]].
-- **Generalmajor Klaus Adler** – Stasi-chef för Nebelkrone, hård och pragmatisk. Se [[#Generalmajor Klaus Adler]].
 
 ### Haus an Den Birken – det övergivna huset
 
@@ -1049,3 +1064,53 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 - **Expertis:** Polis
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
+
+#### Stasi-vakt
+
+Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disciplinerade och lojala. De vet inte exakt vad som pågår i laboratoriet men har sett tillräckligt för att inte ställa frågor. De arbetar i par och patrullerar i skift.
+
+**Egenskaper:**
+
+- Strid 3, Fysik 3, Sinnen 2, Smidighet 2, Vilja 2, Analys 1, List 1, Samspel 1
+- **KP:** 5, **Stabilitet:** 2
+- **Expertis:** Soldat
+
+**Utrustning:** AK-47 (räckvidd 50 m, skadetärningar +5, kritisk bonus +1, skadetyp Småkaliber, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
+
+#### Försöksperson
+
+Fångar som hålls i Nebelkrones källarceller. De flesta är politiska dissidenter, "asociala element" eller andra som Stasi ansett förbrukbara. De har utsatts för extrema fysiska och psykologiska experiment i syfte att framkalla övermänskliga förmågor. Några har inte överlevt processen. Andra har överlevt – och förändrats.
+
+De som fortfarande lever befinner sig i varierande tillstånd. Vissa är katatoniska. Men en handfull är instabila och farliga – deras krafter har väckts men utan kontroll, och deras trauma sitter som en stubin som kan tändas av vad som helst: ett högt ljud, en beröring, en öppnad dörr.
+
+**Katatonisk försöksperson (majoritet):**
+
+- Fysik 1, Vilja 1, övriga 1
+- **KP:** 2, **Stabilitet:** 1, **Stress:** 5 av 6
+- **Tillstånd:** Kan inte agera utan hjälp.
+
+**Instabil försöksperson (2-3 stycken):**
+
+- Fysik 3, Vilja 2, Strid 2, övriga 1
+- **KP:** 5, **Stabilitet:** 1, **Stress:** 6 av 6 (permanent sammanbrott)
+- **Okontrollerad kraft:** Varje instabil försöksperson har en slumpmässig, okontrollerbar kraft. Slå 1T12 eller välj:
+
+| T12 | Kraft                                                                                    |
+| --: | ---------------------------------------------------------------------------------------- |
+|   1 | **Pyrokinesi** – Föremål i närheten fattar eld spontant.                                 |
+|   2 | **Telekinetisk puls** – Allt inom 5 m slungas bort (Fysik + Vilja, +3 skadetärningar).  |
+|   3 | **Okontrollerad styrka** – Fysik 6 i en runda, attackerar urskillningslöst.              |
+|   4 | **Skrik** – Alla inom 10 m måste slå Vilja + Vilja eller ta **2 Stress**.                |
+|   5 | **Köldaura** – Temperaturen sjunker drastiskt, alla inom 5 m tar 1 KP per runda.         |
+|   6 | **Fasförskjutning** – Går genom väggar och golv, försvinner i 1T12 rundor.               |
+|   7 | **Bioelektrisk urladdning** – Blixtar slår från kroppen. Alla inom 3 m tar 2 skadetärningar. Elektronik kortsluts. |
+|   8 | **Syrahud** – Huden utsöndrar frätande vätska. Beröring ger 1 KP per runda. Kan inte bäras eller hållas fast. |
+|   9 | **Gravitationsanomali** – Tyngdkraften i rummet flippar eller försvinner i 1T12 rundor. Alla måste slå Fysik + Smidighet eller kastas mot tak/väggar. |
+|  10 | **Tankeflod** – Alla inom 10 m översköljs av offrets minnen av tortyr och experiment. Alla måste slå Vilja + Vilja eller ta **3 Stress**. |
+|  11 | **Vävnadstillväxt** – Okontrollerad bentillväxt och muskelmassa. Fysik 5, Skydd 2, men personen skriker av smärta och attackerar allt som rör sig. |
+|  12 | **Spontan duplikation** – Personen klyver sig i två instabila kopior. Båda har halverade KP och agerar oberoende i panik. Kopiorna kollapsar efter 1T12 rundor. |
+
+- **Utlösning:** Krafterna aktiveras vid stress, rädsla, beröring eller höga ljud. SL avgör när.
+- **Beteende:** Agerar enligt Sammanbrottstabellens resultat – raseri, panik, förstelning eller flykt. Skiljer inte på vän och fiende.
+
+*Försökspersonerna är inte fiender – de är offer. Men de är livsfarliga.*
