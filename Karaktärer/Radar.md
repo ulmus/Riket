@@ -43,7 +43,7 @@ Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vi
 
 - **+1 Fokus:** Välj vilka mål inom konen som drabbas.
 - **1 Framgång:** Motståndsslaget ett steg svårare.
-- **1 Framgång:** Målen är utslagna hela scenen.
+- **1 Framgång:** Alla mål är utslagna upp till en hel scen. Den utslagna personen kan varje runda slå ett slag för Vilja + Vilja för att häva det. Om det lyckas så kan de ta en Huvudhandling den rundan.
 - **1 Framgång:** Öka räckvidden på attacken med 10 meter.
 
 ### Aktiverat trauma – Pulsstörare
@@ -63,7 +63,7 @@ Gör en extra pistolattack med **−1** på slaget.
 
 ### Trimma (1 Fokus, variabel tid)
 
-Trimma en teknisk pryl. Slå ett slag för Analys + Smidighet, för varje Framgång ökar en effekt med 50 % eller motsvarande (SL avgör beroende på sammanhang). Effekten varar minst en scen.
+Trimma en teknisk pryl. Slå ett slag för Analys + Smidighet, för varje Framgång ökar en effekt med 50 %, ger +1 eller motsvarande (SL avgör beroende på sammanhang). Effekten varar minst en scen.
 
 - **+1 Fokus:** Ytterligare en effekt på samma pryl påverkas.
 
