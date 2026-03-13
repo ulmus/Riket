@@ -2,6 +2,8 @@
 cssclasses:
   - irt-image-page
 ---
+# Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovjetunionen)
+
 När Röda armén grep doktor Josef Mengele våren 1945 insåg den sovjetiska vetenskapsdelegationen omedelbart potentialen i hans forskning. Efter månader av förhör och förhandlingar ledda av vetenskapsmannen Sergei Kravkov, erbjöds Mengele ett djävulskontrakt: hans liv i utbyte mot hans kunskap. Han accepterade.
 
 ## Nyckelpersoner

@@ -2,6 +2,8 @@
 cssclasses:
   - irt-image-page
 ---
+# Projekt Nebelkrone (Östtyskland)
+
 Östtysklands hemliga ENS-program etablerades 1952 som en parallell till Sovjetunionens Zvezdy, men med en mörkare historia. Projekt Nebelkrone (Dimkronan) grundades med hjälp av före detta nazistiska forskare och drivs med en brutal pragmatism som gör det till ett av de mest kontroversiella programmen även inom östblockets slutna sällskap.
 
 ## Nyckelpersoner

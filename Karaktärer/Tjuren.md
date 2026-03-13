@@ -1,16 +1,23 @@
+---
+cssclasses:
+  - irt-image-page
+---
+
+# Tjuren
+
 
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
-| Analys    |   1 | Oskadd       | ❏❏❏❏        |
-| Fysik     |   5 | Sårad        | ❏❏❏❏❏       |
-| List      |   1 | Medvetslös   | ❏❏❏❏❏❏❏❏❏   |
-| Samspel   |   3 | Döende       | ❏❏❏❏❏       |
-| Sinnen    |   1 | Förflyttning | 7 m         |
-| Smidighet |   2 | Stabilitet   | 3           |
-| Strid     |   4 | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
-| Vilja     |   4 | Språk        | 1           |
+| Analys    | **1** | Oskadd       | ❏❏❏❏        |
+| Fysik     | **5** | Sårad        | ❏❏❏❏❏       |
+| List      | **1** | Medvetslös   | ❏❏❏❏❏❏❏❏❏   |
+| Samspel   | **3** | Döende       | ❏❏❏❏❏       |
+| Sinnen    | **1** | Förflyttning | 7 m         |
+| Smidighet | **2** | Stabilitet   | 3           |
+| Strid     | **4** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Vilja     | **4** | Expertis     | Officer       |
 
-**Expertis:** Officer
+![[Bilder/Tjuren.png]]
 
 ## Språk
 

@@ -1,15 +1,23 @@
+---
+cssclasses:
+  - irt-image-page
+---
+
+# Martin Weber
+
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
-| Analys    |   2 | Oskadd       | ❏❏          |
-| Fysik     |   2 | Sårad        | ❏❏❏         |
-| List      |   2 | Medvetslös   | ❏❏❏❏❏       |
-| Samspel   |   2 | Döende       | ❏❏❏❏❏       |
-| Sinnen    |   3 | Förflyttning | 6 m         |
-| Smidighet |   4 | Stabilitet   | 2           |
-| Strid     |   2 | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
-| Vilja     |   3 | Språk        | 2           |
+| Analys    | **2** | Oskadd       | ❏❏          |
+| Fysik     | **2** | Sårad        | ❏❏❏         |
+| List      | **2** | Medvetslös   | ❏❏❏❏❏       |
+| Samspel   | **2** | Döende       | ❏❏❏❏❏       |
+| Sinnen    | **3** | Förflyttning | 6 m         |
+| Smidighet | **4** | Stabilitet   | 2           |
+| Strid     | **2** | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
+| Vilja     | **3** | Expertis     | Chaufför      |
 
-**Expertis:** Chaufför
+![[Bilder/Martin Weber.png]]
+
 
 ## Språk
 

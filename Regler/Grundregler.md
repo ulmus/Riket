@@ -1,3 +1,5 @@
+# Grundregler
+
 **I Rikets Tjänst** är ett taktiskt, klasslöst superhjälte-rollspel som utspelar sig under kalla kriget, där individer med superkrafter verkar i historiens skuggor. Karaktärerna är hemliga agenter – soldater, forskare, sabotörer eller ledare – men alla en del av det svenska supermänniska-projektet Program Frigg.
 
 Mer om Program Frigg och världen i I Rikets Tjänst finns i [[Bakgrund]].

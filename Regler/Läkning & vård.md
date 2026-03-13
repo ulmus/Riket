@@ -1,3 +1,5 @@
+# Läkning och vård
+
 ## Vårdtyper
 
 Det finns tre vårdtyper, var och en med sin egen attributkombination:

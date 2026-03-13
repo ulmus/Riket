@@ -2,6 +2,8 @@
 cssclasses:
   - irt-image-page
 ---
+# Extraktionen
+
 Plats: Östberlin, 1961
 
 ## Bakgrund
@@ -49,8 +51,12 @@ Efter intensiva diskussioner inom T-kontorets innersta krets beslutar man att ge
 - **[[Silke]]** – social manipulatör med feromoner som påverkar känslor och beteenden.
 - **[[Prisma]]** - kontrollerar ljus och kan bända det för förvirring och distraktion
 - **[[Stigmata]]** - läker andras sår, ibland på bekostnad av sin egen hälsa
+
 Extra karaktär vid behov:
+
 - **[[Martin Weber]]** - tysk chaufför
+
+Karaktärerna saknar medvetet personnamn och bakgrund och har bara kodnamn. Lägg några minuter i början av sessionen för spelarna att komma på vem de är egentligen. Rollpersonerna (förutom Weber) har jobbat ihop förut och kan också ha setts i samband med experiment.
 
 ## Tidslinje
 
@@ -106,7 +112,7 @@ Hedström reser sig och går till fönstret.
 
 Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en detaljeradare instruktionsdokument.
 
-*"Ni flyger till Västberlin imorgon kväll. När ni är där, ta kontakt med **ambassadör S Hellén** och hans kontaktperson **Greta Holm**. De vet att ni kommer men inte varför. Håll dem i mörker så länge det går."*
+*"Ni flyger till Västberlin imorgon kväll. När ni är där, ta kontakt med **ambassadör S Hellén** och hans kontaktperson **Greta Holm**. Hellén vet att ni kommer från T-kontoret, Greta är kopplad till programmet, hon vet vilka ni är. Typ. Mer vet de inte. Låt det förbli så."*
 
 **Spelarna kan nu ställa frågor.** Hedström besvarar dem efter bästa förmåga men är medvetet vag om vissa detaljer – särskilt om sin egen historia med Richter.
 
@@ -125,6 +131,7 @@ Efter genomgången har spelarna resten av dagen och följande dag att förbereda
   - *Exempel på information:* Checkpoint Charlie är mest bevakad men mest förutsägbar. Potsdamer Platz är mindre bevakat på natten. Vissa delar av muren är fortfarande ofärdiga.
 - **Kontakter:** Om någon spelare har kontakter inom underrättelsevärlden kan de försöka få ytterligare information.
 - **Spela ut trauman:** Om spelarna har relevanta trauman kan de göra en scen där de bearbetar dem i förberedelsens ljus.
+- **Bestäm sina alter egon:** Spelarna får själva bestämma vilka deras alter egon ska vara.
 
 ### Resan till Västberlin
 
@@ -621,8 +628,6 @@ CIA:s signalspaning avlyssnade kommunikationer mellan Stockholm och Västberlin.
 **Varför han vet det han vet:**
 
 Mossad har jagat nazister i åratal. Yaakov har spenderat 15 år på att spåra Richter. Han fick tips från en östtysk avhoppare om Richters närvaro på ambassaden och infiltrerade som servitör.
-
-
 ### Akt III – Bröder och Monster
 
 Konfrontationen sker i det övergivna huset, Richters hem eller vid Nebelkrone-laboratoriet. Richter försöker åter ta kontroll över Golem. Yaakov konfronterar honom och inser till slut sanningen: monstret är hans bror Elias. Golem känner igen något i Yaakov – men bara som i en dröm.
@@ -668,9 +673,7 @@ Om de lyckas ta sig till Västberlin är de säkra – men konsekvenserna av der
 
 Handouts i form av kort med bild och namn på samtliga SLP finns att ladda ner och skriva ut [[Karaktärer I Rikets Tjänst.pdf|här]].
 
-### Huvudpersoner
-
-#### Dr. Hans Richter
+### Dr. Hans Richter
 
 [![[Dr Richter.png]]](<SLP/Dr Richter.png>)
 
@@ -689,7 +692,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 
 **Utrustning:** Mikrofilm med forskningsdata gömd i jackficka, nödsignal till Golem, cyanidkapsel (för nödfall).
 
-#### Elisabeth Richter
+### Elisabeth Richter
 
 [![[Frau Richter.png]]](<SLP/Frau Richter.png>)
 
@@ -707,7 +710,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 
 **Utrustning:** Medicinska dokument, dagböcker med experimentdata.
 
-#### Elias Lewinsky / "Golem"
+### Elias Lewinsky / "Golem"
 
 [![[Golem.png]]](<SLP/Golem.png>)
 
@@ -746,7 +749,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 **Svaghet:** Melt instabil. Kan förvirras av minnen eller känslor. Eld orsakar intensiv rädsla (minne från Auschwitz).
 
-#### Yaakov Dayan (Jakob Lewinsky)
+### Yaakov Dayan (Jakob Lewinsky)
 
 [![[Yaakuv.png]]](<SLP/Yaakuv.png>)
 
@@ -765,7 +768,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 
 **Utrustning:** Dold kniv, förgiftade nålar, garrott, falsk identitet som servitör.
 
-#### Dr. Lars Hedström
+### Dr. Lars Hedström
 
 Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårsåldern med glest hår, kavaj med senapsfläck och en nästan konstant cigarett. Han ser trött ut — och han är trött, på sig själv mer än något annat. Han bär sina egna hemligheter tungt och ser i Richter en spegel av vad han en gång riskerade att bli.
 
@@ -781,11 +784,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 
 Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och genomgången.
 
-### Fraktioner och motspelare
-
-#### Stasi
-
-##### Oberleutnant Karl Brenner
+### Oberleutnant Karl Brenner
 
 [![[Karl Brenner.png]]](<SLP/Karl Brenner.png>)
 
@@ -802,7 +801,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för 
 
 **Utrustning:** Makarov-pistol, radio, handbojor.
 
-##### Hauptmann Irma Vogel
+### Hauptmann Irma Vogel
 
 [![[Irma Vogel.png]]](<SLP/Irma Vogel.png>)
 
@@ -819,7 +818,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kom
 
 **Utrustning:** Walther PP-pistol, dokument, radio.
 
-##### Generalmajor Klaus Adler
+### Generalmajor Klaus Adler
 
 [![[Klaus Adler.png]]](<SLP/Klaus Adler.png>)
 
@@ -836,9 +835,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 
 **Utrustning:** Makarov-pistol (+4 skadetärningar), Stasi-legitimation, direktlinje till Volkspolizei.
 
-#### CIA
-
-##### Agent Richard "Dick" Donnelly
+### Agent Richard "Dick" Donnelly
 
 [![[Dick.png]]](<SLP/Dick.png>)
 
@@ -857,9 +854,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 
 **Utrustning:** Colt M1911-pistol, falska dokument, kontanter i olika valutor, radiokontakt med CIA-basen.
 
-#### KGB och Zvezda
-
-##### Generalmajor Viktor Baranov
+### Generalmajor Viktor Baranov
 
 [![[Viktor Baranov.png]]](<SLP/Viktor Baranov.png>)
 
@@ -876,7 +871,7 @@ Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och
 
 Baranov är en bakgrundsfigur som koordinerar operationen men deltar inte direkt.
 
-##### Kapten Lyudmila Sokolova
+### Kapten Lyudmila Sokolova
 
 [![[Lyudmila.png]]](<SLP/Lyudmila.png>)
 
@@ -893,7 +888,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 
 **Utrustning:** Makarov-pistol, radio, kniv.
 
-##### Jelena Ivanova (Morana, Zvezda-agent)
+### Jelena Ivanova (Morana, Zvezda-agent)
 
 [![[Morana.png]]](<SLP/Morana.png>)
 
@@ -927,7 +922,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 **Svaghet:** Värme och eld neutraliserar hennes krafter. Hon måste hålla sig sval för att fungera. Överansträngning kan göra henne sjuk.
 
-##### Vladimir Popov (Svarog, Zvezda-agent)
+### Vladimir Popov (Svarog, Zvezda-agent)
 
 [![[Svarog.png]]](<SLP/Svarog.png>)
 
@@ -960,10 +955,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 - **Effekt:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). Vid framgång: 4 skadetärningar brännskada. Metallföremål smälter, trä fattar eld.
 
 **Svaghet:** Överhettas lätt. Efter att ha använt krafter i 5+ rundor börjar han ta 1 KP skada per runda tills han svalnar. Vatten och kyla neutraliserar hans krafter tillfälligt.
-
-### Civila och sidofigurer
-
-#### Professor Hermann Müller
+### Professor Hermann Müller
 
 [![[Professor Hermann Müller.png]]](<SLP/Professor Hermann Müller.png>)
 
@@ -975,7 +967,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Vetenskapsman
 
-#### Fräulein Ingrid Schulmann
+### Fräulein Ingrid Schulmann
 
 [![[Fräulein Ingrid Schulmann.png]]](<SLP/Fräulein Ingrid Schulmann.png>)
 
@@ -987,7 +979,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Konstnär
 
-#### Monsieur Jean-Pierre Leclerc
+### Monsieur Jean-Pierre Leclerc
 
 [![[Monsieur Jean-Pierre Leclerc.png]]](<SLP/Monsieur Jean-Pierre Leclerc.png>)
 
@@ -999,7 +991,7 @@ Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
-#### Ambassadör Otto Keller (Schweiz)
+### Ambassadör Otto Keller (Schweiz)
 
 [![[Otto Keller.png]]](<SLP/Otto Keller.png>)
 
@@ -1011,7 +1003,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
-#### Dr. Marlene Fischer
+### Dr. Marlene Fischer
 
 [![[Dr Marlene Fischer.png]]](<SLP/Dr Marlene Fischer.png>)
 
@@ -1023,7 +1015,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Läkare
 
-#### Ambassadör Sven Hellén (Sverige, Västberlin)
+### Ambassadör Sven Hellén (Sverige, Västberlin)
 
 [![[Sven Hellén.png]]](<SLP/Sven Hellén.png>)
 
@@ -1035,7 +1027,7 @@ Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrå
 - **KP:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
-#### Greta Holm (Sverige, Västberlin)
+### Greta Holm (Sverige, Västberlin)
 
 [![[Greta Holm.png]]](<SLP/Greta Holm.png>)
 
@@ -1048,9 +1040,9 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 - **Expertis:** Diplomat, Spion
 - **Förmågor:** Nätverk, Lögner
 
-#### Martin Weber (Förare)
+### Martin Weber (Förare)
 
-[![[Martin Weber.png]]](<SLP/Martin Weber.png>)
+[![[Martin Weber.png]]](<Martin Weber.png>)
 
 Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och uppvuxen i Berlin som han sett förvandlas från en metropol till en delad fästning. Han frågar aldrig vad passagerarna egentligen håller på med men är inte dum — han vet tillräckligt för att hålla tyst och köra fort. Han hatar muren med en tyst, metodisk ilska.
 
@@ -1063,7 +1055,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 - **Expertis:** Chaufför
 - **Förmågor:** Kontrollerad sladd, Racerinstinkt, Skjut och kör, Tyst intrång
 
-#### Heinz Bauer (Volkspolizei)
+### Heinz Bauer (Volkspolizei)
 
 [![[Heinz Bauer.png]]](<SLP/Heinz Bauer.png>)
 
@@ -1077,7 +1069,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
 
-#### Stasi-vakt
+### Stasi-vakt
 
 Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disciplinerade och lojala. De vet inte exakt vad som pågår i laboratoriet men har sett tillräckligt för att inte ställa frågor. De arbetar i par och patrullerar i skift.
 
@@ -1089,7 +1081,7 @@ Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disc
 
 **Utrustning:** AK-47 (räckvidd 50 m, skadetärningar +5, kritisk bonus +1, skadetyp Småkaliber, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
 
-#### Försöksperson
+### Försöksperson
 
 Fångar som hålls i Nebelkrones källarceller. De flesta är politiska dissidenter, "asociala element" eller andra som Stasi ansett förbrukbara. De har utsatts för extrema fysiska och psykologiska experiment i syfte att framkalla övermänskliga förmågor. Några har inte överlevt processen. Andra har överlevt – och förändrats.
 
@@ -1125,4 +1117,3 @@ De som fortfarande lever befinner sig i varierande tillstånd. Vissa är kataton
 - **Utlösning:** Krafterna aktiveras vid stress, rädsla, beröring eller höga ljud. SL avgör när.
 - **Beteende:** Agerar enligt Sammanbrottstabellens resultat – raseri, panik, förstelning eller flykt. Skiljer inte på vän och fiende.
 
-*Försökspersonerna är inte fiender – de är offer. Men de är livsfarliga.*

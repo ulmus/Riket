@@ -1,16 +1,22 @@
+---
+cssclasses:
+  - irt-image-page
+---
+
+# Radar
 
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
-| Analys    |   5 | Oskadd       | ❏❏          |
-| Fysik     |   2 | Sårad        | ❏❏❏         |
-| List      |   1 | Medvetslös   | ❏❏❏❏❏       |
-| Samspel   |   1 | Döende       | ❏❏❏❏❏       |
-| Sinnen    |   4 | Förflyttning | 4 m         |
-| Smidighet |   2 | Stabilitet   | 2           |
-| Strid     |   3 | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
-| Vilja     |   3 | Språk        | 5           |
+| Analys    | **5** | Oskadd       | ❏❏          |
+| Fysik     | **2** | Sårad        | ❏❏❏         |
+| List      | **1** | Medvetslös   | ❏❏❏❏❏       |
+| Samspel   | **1** | Döende       | ❏❏❏❏❏       |
+| Sinnen    | **4** | Förflyttning | 4 m         |
+| Smidighet | **2** | Stabilitet   | 2           |
+| Strid     | **3** | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
+| Vilja     | **3** | Expertis     | Radiotekniker |
 
-**Expertis:** Radiotekniker
+![[Bilder/Radar.png]]
 
 ## Språk
 

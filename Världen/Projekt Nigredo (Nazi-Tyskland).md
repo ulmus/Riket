@@ -2,6 +2,8 @@
 cssclasses:
   - irt-image-page
 ---
+# Projekt Nigredo (Nazi-Tyskland)
+
 Projekt Nigredo var det första organiserade försöket att skapa mänskliga varelser med parapsykologiska förmågor. Initierat i Auschwitz koncentrationsläger 1943 under ledning av SS-läkaren Josef Mengele, är det programmets brutala arv som fortfarande spökar genom alla moderna ENS-initiativ.
 
 ## Nyckelpersoner

@@ -8,7 +8,24 @@
       "Bash(find:*)",
       "Bash(xxd:*)",
       "Bash(grep:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(\"/Users/jensalm/Documents/I Rikets Tjänst/build-pdf.sh\" 2>&1)",
+      "Bash(pdfinfo \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Regler.pdf\" | grep Pages && open \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Regler.pdf\")",
+      "Bash(sips -z 69 750 \"/Users/jensalm/Documents/I Rikets Tjänst/Assets/Page Header.png\" --out \"/Users/jensalm/Documents/I Rikets Tjänst/Assets/Page Header small.png\" 2>&1)",
+      "Bash(open \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Regler.pdf\")",
+      "Bash(\"/Users/jensalm/Documents/I Rikets Tjänst/build-pdf.sh\" 2>&1 && open \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Regler.pdf\")",
+      "Bash(\"/Users/jensalm/Documents/I Rikets Tjänst/build-pdf-världen.sh\" 2>&1)",
+      "Bash(\"/Users/jensalm/Documents/I Rikets Tjänst/build-pdf-extraktionen.sh\" 2>&1)",
+      "Bash(pdfinfo \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Världen.pdf\" | grep Pages && pdfinfo \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Extraktionen.pdf\" | grep Pages && open \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Världen.pdf\" \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Extraktionen.pdf\")",
+      "Bash(pdfinfo \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Karaktärer.pdf\" | grep Pages && open \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Karaktärer.pdf\")",
+      "Bash(\"/Users/jensalm/Documents/I Rikets Tjänst/build-pdf-karaktärer.sh\" 2>&1 | grep -E \"Building|Done\" && open \"/Users/jensalm/Documents/I Rikets Tjänst/I Rikets Tjänst - Radar.pdf\")",
+      "Bash(cd \"/Users/jensalm/Documents/I Rikets Tjänst\" && ./build-pdf.sh 2>&1 | tail -1 && ./build-pdf-världen.sh 2>&1 | tail -1 && ./build-pdf-extraktionen.sh 2>&1 | tail -1 && ./build-pdf-karaktärer.sh 2>&1 | grep -E \"Done|All\")",
+      "Bash(\"/Users/jensalm/Documents/I Rikets Tjänst/build-pdf-karaktärer.sh\" 2>&1 | grep -E \"Building|Done\" && open \"/Users/jensalm/Documents/I Rikets Tjänst/pdf/I Rikets Tjänst - Radar.pdf\")",
+      "Bash(cd \"/Users/jensalm/Documents/I Rikets Tjänst\" && ./build-pdf.sh 2>&1 | tail -1 && ./build-pdf-världen.sh 2>&1 | tail -1 && ./build-pdf-extraktionen.sh 2>&1 | tail -1)",
+      "Bash(pdfinfo \"/Users/jensalm/Documents/I Rikets Tjänst/pdf/I Rikets Tjänst - Extraktionen.pdf\" | grep Pages && open \"/Users/jensalm/Documents/I Rikets Tjänst/pdf/I Rikets Tjänst - Extraktionen.pdf\")",
+      "Bash(cd \"/Users/jensalm/Documents/I Rikets Tjänst\" && bash build-pdf-extraktionen.sh 2>&1)",
+      "Bash(cd \"/Users/jensalm/Documents/I Rikets Tjänst\" && bash build-pdf-världen.sh 2>&1)",
+      "Bash(cd \"/Users/jensalm/Documents/I Rikets Tjänst\" && bash build-pdf.sh 2>&1)"
     ]
   }
 }

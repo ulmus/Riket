@@ -2,6 +2,8 @@
 cssclasses:
   - irt-image-page
 ---
+# Program Frigg (Sverige)
+
 Program Frigg etablerades under de första efterkrigsåren som ett diskret forsknings- och beredskapsprogram inom den svenska underrättelsetjänsten T-kontoret.
 
 När Program Frigg formellt inleddes 1947 var verksamheten småskalig. Den bestod i praktiken av doktor Lars Hedström – en av doktor Josef Mengeles tidigare lärjungar – och ett fåtal assistenter, inhysta i en anonym kontorsbyggnad på Karlavägen i Stockholm. Inledningsvis var arbetet huvudsakligen teoretiskt, men i takt med att underrättelser nådde Sverige om sovjetiska och amerikanska framsteg inom parapsykologisk forskning växte både ambitionerna och resurserna.

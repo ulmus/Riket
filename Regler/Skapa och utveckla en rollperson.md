@@ -1,3 +1,5 @@
+# Skapa och utveckla en rollperson
+
 För att skapa en rollperson i I Rikets Tjänst följer du dessa steg:
 
 1. **Välj expertis:** Välj en expertis för din rollperson som ger den en grundläggande historia och motivation. Expertisen kan också ge vissa förmågor eller resurser.
@@ -24,7 +26,7 @@ För att skapa en rollperson i I Rikets Tjänst följer du dessa steg:
 6. **Konstruera superkraft:** Tillsammans med spelledaren skapar du en unik kraft för din rollperson baserat på dess trauma och personlighet. Beskriv också hur krafterna manifesterar sig när traumat aktiveras (se [[Krafter#Aktiverat trauma]]).
 7. **Bestäm resurser:** Beroende på din rollpersons expertis och bakgrund kan du ha tillgång till olika resurser som vapen, utrustning eller kontakter.
 
-# Erfarenhetspoäng och utveckling
+## Erfarenhetspoäng och utveckling
 
 Varje session som din rollperson deltar i tjänare den en (1) Erfarenhetspoäng (EP). Spelledaren kan också belöna extra EP för särskilt bra rollspel eller viktiga milstolpar i kampanjen.
 

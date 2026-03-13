@@ -1,3 +1,5 @@
+# Kritiska träffar
+
 När en skadetärning visar **12** inträffar en **kritisk träff**. Slå 1T12 och lägg till modifikatorer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
 
 **Modifikatorer till slaget:**

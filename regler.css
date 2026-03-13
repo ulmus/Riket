@@ -1,67 +1,148 @@
 @page {
   size: A4;
-  margin: 2.5cm 2cm 3cm 2cm;
+  margin: 2.8cm 2cm 2.5cm 2cm;
+
+  @top-center {
+    content: url("Assets/Page Header small.png");
+    padding-top: 0.3cm;
+    padding-bottom: 0.15cm;
+  }
 
   @bottom-center {
     content: counter(page);
     font-family: "Georgia", serif;
     font-size: 9pt;
     color: #555;
+    border-top: 0.5pt solid #999;
+    padding-top: 0.3cm;
   }
 }
 
 @page :first {
+  @top-center {
+    content: none;
+    border-bottom: none;
+  }
   @bottom-center {
     content: none;
+    border-top: none;
   }
 }
 
 /* Base typography */
 body {
   font-family: "Georgia", "Times New Roman", serif;
-  font-size: 9.5pt;
+  font-size: 10.5pt;
   line-height: 1.45;
   color: #1a1a1a;
   max-width: none;
 }
 
 /* Title page */
-header {
+.title-page {
   page-break-after: always;
   text-align: center;
-  padding-top: 35%;
+  padding-top: 6cm;
+  padding-bottom: 2cm;
 }
 
-header h1.title {
-  font-size: 28pt;
+.title-rule {
+  width: 90%;
+  margin: 0 auto;
+  border-top: 2px solid #c5a44e;
+  border-bottom: 1px solid #1b3a4b;
+  height: 4px;
+}
+
+.title-heading {
+  font-size: 42pt;
   font-weight: bold;
-  letter-spacing: 0.05em;
-  text-transform: uppercase;
+  font-variant: small-caps;
+  letter-spacing: 0.1em;
+  color: #1b3a4b;
+  margin: 0.6cm 0 0.5cm 0;
+  padding: 0;
   border-bottom: none;
-  margin-bottom: 0.5em;
+  break-before: auto;
+  page-break-before: auto;
 }
 
-header .subtitle {
-  font-size: 14pt;
-  font-style: italic;
+.title-subtitle {
+  font-size: 16pt;
+  font-variant: small-caps;
+  letter-spacing: 0.15em;
+  color: #555;
+  margin-top: 1cm;
+  margin-bottom: 0.3cm;
+}
+
+
+/* Table of contents */
+nav#TOC {
+  page-break-after: always;
+  column-count: 2;
+  column-gap: 1.5em;
+}
+
+nav#TOC > ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+nav#TOC > ul > li {
+  margin-bottom: 0.4em;
+  font-variant: small-caps;
+  font-size: 11pt;
+  font-weight: bold;
+  color: #1b3a4b;
+  padding-bottom: 0.3em;
+}
+
+nav#TOC > ul > li > ul {
+  list-style: none;
+  padding-left: 1.2em;
+  margin-top: 0.2em;
+}
+
+nav#TOC > ul > li > ul > li {
+  font-variant: normal;
+  font-size: 9pt;
+  font-weight: normal;
+  color: #333;
+  border-bottom: none;
+  margin-bottom: 0.1em;
+  padding-bottom: 0;
+}
+
+nav#TOC a {
+  text-decoration: none;
+  color: inherit;
+}
+
+nav#TOC a::after {
+  content: leader('.') target-counter(attr(href), page);
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 9pt;
   color: #555;
 }
 
 /* Headings */
 h1 {
-  font-size: 18pt;
+  font-size: 28pt;
   font-weight: bold;
-  margin-top: 1.5em;
-  margin-bottom: 0.5em;
-  border-bottom: 2px solid #333;
-  padding-bottom: 0.2em;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  margin-top: 0;
+  margin-bottom: 0.3em;
+  padding-top: 4cm;
+  padding-bottom: 0.4em;
+  border-bottom: 3px solid #333;
   break-before: right;
   page-break-after: avoid;
 }
 
-h1:first-of-type {
-  break-before: avoid;
-}
+/* First h1 after title page still starts on right */
 
 h2 {
   font-size: 13pt;
@@ -117,7 +198,7 @@ table {
 }
 
 thead {
-  background-color: #333;
+  background-color: #1b3a4b;
   color: #fff;
 }
 
@@ -166,6 +247,29 @@ code {
   background-color: #f0f0e8;
   padding: 0.1em 0.3em;
   border-radius: 2px;
+}
+
+/* Inline images – float to the side with frame */
+img {
+  width: 25%;
+  height: auto;
+  float: right;
+  margin: 0.3em 0 0.8em 1em;
+  border: 1px solid #999;
+  outline: 3px solid #f0f0e8;
+  outline-offset: -1px;
+  padding: 2px;
+  background: #fff;
+}
+
+nav#TOC img {
+  float: none;
+  width: auto;
+  margin: 0;
+  border: none;
+  outline: none;
+  padding: 0;
+  background: none;
 }
 
 /* Horizontal rules as section dividers */

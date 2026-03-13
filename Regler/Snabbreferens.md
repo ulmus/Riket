@@ -1,3 +1,5 @@
+# Snabbreferens
+
 *Året är 1961. Kalla kriget rasar bakom kulisserna – men det verkliga kriget förs i skuggorna, av människor med övermänskliga krafter. Du är ett Extra-Normalt Subjekt, rekryterad av det svenska Program Frigg. Dina krafter är verkliga, men de är födda ur trauma – och varje gång du pressar dig själv riskerar du att traumat tar över. I Rikets Tjänst är ett taktiskt superhjälte-rollspel där 1960-talets spionage möter guldålderns serietidningar, och där det farligaste hotet kanske inte är fienden – utan dig själv.*
 
 ## Slag

@@ -1,3 +1,5 @@
+# Särskilda situationer
+
 ## Fallskada
 
 Fall över två meter kan ge fallskada. Skadebonus bestäms av underlaget:

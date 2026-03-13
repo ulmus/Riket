@@ -2,6 +2,8 @@
 cssclasses:
   - irt-image-page
 ---
+# Projet Chimère (Frankrike)
+
 Frankrike initierade sitt ENS-program senare än de flesta stormakter, delvis på grund av politisk instabilitet under den tidiga efterkrigstiden. Först 1957, under den Fjärde republiken sista år, godkände regeringen Projet Chimère – ett försök att återupprätta Frankrikes stormaktsställning genom ovanliga medel.
 
 ## Nyckelpersoner

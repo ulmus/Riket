@@ -1,15 +1,22 @@
+---
+cssclasses:
+  - irt-image-page
+---
+
+# Stigmata
+
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
-| Analys    |   4 | Oskadd       | ❏❏❏❏        |
-| Fysik     |   5 | Sårad        | ❏❏❏❏        |
-| List      |   1 | Medvetslös   | ❏❏❏❏❏❏❏❏    |
-| Samspel   |   1 | Döende       | ❏❏❏❏❏       |
-| Sinnen    |   3 | Förflyttning | 7 m         |
-| Smidighet |   2 | Stabilitet   | 2           |
-| Strid     |   2 | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
-| Vilja     |   3 | Språk        | 4           |
+| Analys    | **4** | Oskadd       | ❏❏❏❏        |
+| Fysik     | **5** | Sårad        | ❏❏❏❏        |
+| List      | **1** | Medvetslös   | ❏❏❏❏❏❏❏❏    |
+| Samspel   | **1** | Döende       | ❏❏❏❏❏       |
+| Sinnen    | **3** | Förflyttning | 7 m         |
+| Smidighet | **2** | Stabilitet   | 2           |
+| Strid     | **2** | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
+| Vilja     | **3** | Expertis     | Läkare        |
 
-**Expertis:** Läkare
+![[Bilder/Stigmata.png]]
 
 ## Språk
 

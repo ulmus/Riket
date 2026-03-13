@@ -1,3 +1,5 @@
+# Aktiviteter
+
 Det finns många situationer som inte inbegriper strid, men som kräver regelstöd, ofta där flera personer samarbetar eller motarbetar varandra. Här är exempel på sådana aktiviteter:
 
 - Biljakt
@@ -91,7 +93,7 @@ Våra hjältar jagar en kurir genom Leningrads hamn samtidigt som de försöker 
 - Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Fysik + Smidighet** för att ta sig fram i de trånga utrymmena.
 - Om hjältarna får tio framgångar först så fångar de kuriren. Om kuriren når målet först lyckas hon undkomma i Leningrads gränder.
 
-# Vanliga aktiviteter
+## Vanliga aktiviteter
 
 Här är en listning på vanliga aktiviteter i spelet **I Rikets Tjänst** och förslag på vilken kombination av egenskaper som skulle kunna passa att slå för.
 

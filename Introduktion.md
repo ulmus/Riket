@@ -1,5 +1,6 @@
+# Introduktion
 
-Världen av **I Rikets Tjänst** är vår egen – men med en hemlighet. Under ytan av 1960-talets kalla krig, bakom järnridån och de diplomatiska korridorerna, pågår en annan konflikt. En konflikt där människor vars djupa trauman gett dem övermänskliga förmågor agerar som schackpjäser i stormakternas spel.
+**I Rikets Tjänst** utspelar sig i vår egen värld – men med en hemlighet. Under ytan av 1960-talets kalla krig, bakom järnridån och de diplomatiska korridorerna, pågår en annan konflikt. En konflikt där människor vars djupa trauman gett dem övermänskliga förmågor agerar som schackpjäser i stormakternas spel.
 
 ## Det kalla kriget och dess skuggor
 
@@ -43,7 +44,7 @@ Exempel på system som kan underlätta är [TTRPG Safety Toolkit](https://drive.
 
 Med det sagt, välkommen till skuggorna. Svea Rike behöver dig.
 
-# Läs vidare
+## Läs vidare
 
 - [[Grundregler]]
 - [[Bakgrund]]
