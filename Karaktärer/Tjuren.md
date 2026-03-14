@@ -78,7 +78,7 @@ Du är tränad i att kontrollera automateld med precision.
 ### Slagsmål (Alltid aktiv)
 
 - Du får +1 på slag för Fysik + Strid när du slåss obeväpnad.
-- Obeväpnade attacker har Kritisk Skadebonus **0**.
+- Dina obeväpnade attacker räknas som **beväpnade** (1 KP basskada).
 
 ### Uppercut (Alltid aktiv)
 
@@ -104,7 +104,7 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 
 ## Utrustning
 
-- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, skadetärningar +4, kritisk bonus +0, skadetyp Småkaliber, Automateld. Ammunition ❏❏❏❏
+- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, skadetärningar +4, skadetyp Småkaliber, Automateld. Ammunition ❏❏❏❏
 - **Knogjärn:** +1 skadetärning i obeväpnad närstrid.
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
 - **Rock med insydda plåtar:** Skydd 2, alla Smidighet-slag ett steg svårare.

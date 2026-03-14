@@ -47,27 +47,27 @@ Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner u
 
 ## Avståndsvapen
 
-| Vapen             | Räckvidd | Skadetärningar | Kritisk bonus | Skadetyp   | Egenskaper                |
-| ----------------- | -------: | -------------: | ------------: | ---------- | ------------------------- |
-| Pistol            |     25 m |             +4 |            +0 | Småkaliber | –                         |
-| Revolver          |     25 m |             +4 |            +1 | Småkaliber | –                         |
-| K-pist            |     40 m |             +4 |            +0 | Småkaliber | Automateld                |
-| Automatkarbin     |     80 m |             +5 |            +1 | Småkaliber | Automateld                |
-| Gevär             |    100 m |             +6 |            +2 | Högkaliber | Grovkalibrigt             |
-| Hagelgevär        |     10 m |             +5 |            +1 | Småkaliber | Hagelsvärm                |
-| Kulspruta 5.56 mm |    100 m |             +6 |            +2 | Småkaliber | Automateld                |
-| Kulspruta 7,62 mm |    200 m |             +7 |            +3 | Högkaliber | Automateld, Grovkalibrigt |
+| Vapen             | Räckvidd | Skadetärningar | Skadetyp   | Egenskaper                |
+| ----------------- | -------: | -------------: | ---------- | ------------------------- |
+| Pistol            |     25 m |             +4 | Småkaliber | –                         |
+| Revolver          |     25 m |             +4 | Småkaliber | –                         |
+| K-pist            |     40 m |             +4 | Småkaliber | Automateld                |
+| Automatkarbin     |     80 m |             +5 | Småkaliber | Automateld                |
+| Gevär             |    100 m |             +6 | Högkaliber | Grovkalibrigt             |
+| Hagelgevär        |     10 m |             +5 | Småkaliber | Hagelsvärm                |
+| Kulspruta 5.56 mm |    100 m |             +6 | Småkaliber | Automateld                |
+| Kulspruta 7,62 mm |    200 m |             +7 | Högkaliber | Automateld, Grovkalibrigt |
 
 ## Närstridsvapen
 
-| Vapen    | Skadetärningar | Kritisk bonus | Skadetyp | Egenskaper             |
-| -------- | -------------: | ------------: | -------- | ---------------------- |
-| Slagsmål |             +1 |            −1 | Kross    | Lätt                   |
-| Kniv     |             +2 |            +0 | Stick    | –                      |
-| Batong   |             +2 |            +0 | Kross    | –                      |
-| Sabel    |             +3 |            +1 | Hugg     | Finess                 |
-| Yxa      |             +3 |            +2 | Hugg     | Tung                   |
-| Spjut    |             +3 |            +1 | Stick    | Långt, Kastbart (15 m) |
+| Vapen    | Skadetärningar | Skadetyp | Egenskaper             |
+| -------- | -------------: | -------- | ---------------------- |
+| Slagsmål |             +1 | Kross    | Obeväpnad              |
+| Kniv     |             +2 | Stick    | –                      |
+| Batong   |             +2 | Kross    | –                      |
+| Sabel    |             +3 | Hugg     | Finess                 |
+| Yxa      |             +3 | Hugg     | Tung                   |
+| Spjut    |             +3 | Stick    | Långt, Kastbart (15 m) |
 
 ## Skydd och rustning
 
@@ -81,7 +81,7 @@ Pansarbrytande ammunition ignorerar 1 poäng Skydd, men ger –1 skadetärning m
 
 ### Hålspetsammunition
 
-Hålspets ger +1 kritisk bonus på grund av större sårkanal, men –1 skadetärning mot mål med Skydd.
+Hålspets ger +1 skadetärning mot obepansrade mål på grund av större sårkanal, men –1 skadetärning mot mål med Skydd.
 
 ### Kikarsikte
 

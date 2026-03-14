@@ -24,7 +24,7 @@ Om du blir attackerad, parerar och får minst en framgång på ditt försvar så
 #### Slagsmål
 
 *Krav:* Fysik 2, Strid 2
-Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Obeväpnade attacker har Kritisk Skadebonus 0.
+Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Dina obeväpnade attacker räknas som **beväpnade** (1 KP basskada).
 
 #### Jujutsu
 

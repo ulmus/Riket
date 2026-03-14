@@ -1134,7 +1134,7 @@ Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disc
 - **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Soldat
 
-**Utrustning:** AK-47 (räckvidd 50 m, skadetärningar +5, kritisk bonus +1, skadetyp Småkaliber, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
+**Utrustning:** AK-47 (räckvidd 50 m, skadetärningar +5, skadetyp Småkaliber, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
 
 ### Försöksperson
 

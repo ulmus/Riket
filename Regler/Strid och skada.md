@@ -82,17 +82,9 @@ Rulla antalet T12. Skadeslag ger inte Fokus.
 - Varje tärning som visar **10–11** ger **1 KP skada**.
 - Varje tärning som visar **12** ger **1 KP skada** och är en **kritisk träff**.
 
-## 3. Applicera skydd
+## 3. Lägg till basskada
 
-Målets **Skydd** (från rustning, täckning, etc.) minskar KP-skadan:
-
-**Skada efter Skydd = KP-skada − Skydd** (minst 0)
-
-Skydd hindrar först icke-kritiska träffar och först när alla de har blivit absorberade hindras eventuella kritiska träffar.
-
-## 4. Lägg till basskada
-
-Varje träff med ett vapen gör automatiskt **basskada** utöver skaderullens resultat:
+Alla attacker har en **basskada** som läggs till KP-skadan från skadetärningarna:
 
 | Attacktyp          | Basskada |
 | ------------------ | -------: |
@@ -100,13 +92,17 @@ Varje träff med ett vapen gör automatiskt **basskada** utöver skaderullens re
 | **Beväpnad**       |     1 KP |
 | **Tungt beväpnad** |     2 KP |
 
-Basskada läggs till *efter* att Skydd dragits av. En beväpnad attack som träffar gör alltid minst 1 KP skada, oavsett Skydd.
-
 **Tungt beväpnad** avser vapen med egenskapen **Tung** eller **Grovkalibrigt**.
 
-**Slutlig skada = Skada efter Skydd + Basskada**
-
 Basskada adderas också som modifierare till kritiska träff-slag.
+
+## 4. Applicera skydd
+
+Målets **Skydd** (från rustning, täckning, etc.) minskar den totala KP-skadan:
+
+**Slutlig skada = (KP-skada + Basskada) − Skydd** (minst 0)
+
+Skydd hindrar först icke-kritiska träffar och först när alla de har blivit absorberade hindras eventuella kritiska träffar.
 
 ## 5. Kritiska träffar
 
@@ -115,7 +111,6 @@ Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 
 **Modiferare till slaget:**
 
 - **+1 per ytterligare 12:a** på skadetärningarna
-- **Vapnets kritiska skadebonus** (från −1 till +3, se [[Vapen]])
 - **Basskada** (+1 beväpnad, +2 tungt beväpnad)
 - **Målets kritiska tålighet** (om något, endast för stora/tåliga varelser)
 
@@ -125,11 +120,11 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 
 ## Exempel
 
-> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadetärningar +4**, **Kritisk bonus +0**, och skadetyp **Småkaliber**.
+> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadetärningar +4** och skadetyp **Småkaliber**.
 > Antons träffslag ger **2 framgångar**. Han slår alltså **2 + 4 = 6 skadetärningar**.
-> Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Vakten bär **tjock rock (Skydd 1)**, så skadan efter Skydd är **3 KP**. Pistolen är ett **beväpnat** vapen, så **1 KP basskada** läggs till. Slutlig skada blir **4 KP**.
+> Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Pistolen är **beväpnad**, så **1 KP basskada** läggs till – totalt **5 KP**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada blir **5 − 1 = 4 KP**.
 > Vakten (Fysik 2, Tålighet 2) har nu tagit 4 KP skada och är Sårad (tröskeln är > 2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
-> Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 för kritisk träff och får en 7. Med pistolens kritiska bonus på +0 och basskada +1 blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
+> Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 och får en 7. Med basskada +1 (beväpnad) blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
 
 ## Effekter av skada
 
@@ -221,8 +216,8 @@ Se [[Läkning & vård]] för mer information.
 1. **Träff?** Räkna framgångar.
 2. **Skadetärningar** = Träffframgångar + Skadebonus (+ egenskaper).
 3. **Rulla** skadetärningar: 10–11 = 1 KP, 12 = 1 KP + kritisk träff.
-4. **Dra av Skydd** från KP-skadan.
-5. **Lägg till basskada:** +1 KP (beväpnad) eller +2 KP (tungt beväpnad).
+4. **Lägg till basskada:** +1 KP (beväpnad) eller +2 KP (tungt beväpnad).
+5. **Dra av Skydd** från totalen (vanlig skada först, sedan kritiska).
 6. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
 7. **Kritisk träff?** Slå på rätt tabell (basskada adderas till kritisk träff-slag).
 

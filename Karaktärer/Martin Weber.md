@@ -79,7 +79,7 @@ Martin är känd bland gränsvakter och Volkspolizei i Berlin. I situationer dä
 
 ## Utrustning
 
-- **Walther PPK:** Räckvidd 15 m, skadetärningar +3, kritisk bonus −1, skadetyp Småkaliber, Lätt. Ammunition ❏
+- **Walther PPK:** Räckvidd 15 m, skadetärningar +3, skadetyp Småkaliber, Lätt. Ammunition ❏
 - **Mercedes-Benz 190:** Diskret men robust diplomatbil.
 - **Karta över Berlin:** Detaljerad, med markeringar för bra rutter. +2 på Analys + Sinnen för att navigera i Berlin.
 - **Verktygsset:** Grundläggande bilverktyg. +1 på Analys + Smidighet för fordonsreparationer.
