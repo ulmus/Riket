@@ -8,13 +8,15 @@ cssclasses:
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
 | Analys    | **5** | Oskadd       | ❏❏          |
-| Fysik     | **2** | Sårad        | ❏❏❏         |
-| List      | **1** | Medvetslös   | ❏❏❏❏❏       |
-| Samspel   | **1** | Döende       | ❏❏❏❏❏       |
+| Fysik     | **2** | Sårad        | ❏❏          |
+| List      | **1** | Medvetslös   | ❏❏          |
+| Samspel   | **1** | Döende       | ❏❏          |
 | Sinnen    | **4** | Förflyttning | 4 m         |
-| Smidighet | **2** | Stabilitet   | 2           |
-| Strid     | **3** | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
-| Vilja     | **3** | Expertis     | Radiotekniker |
+| Smidighet | **2** | Tålighet     | 2           |
+| Strid     | **3** | Stabilitet   | 3           |
+| Vilja     | **3** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+
+**Expertis:** Radiotekniker
 
 ![[Bilder/Radar.png]]
 
@@ -65,7 +67,7 @@ Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vi
 
 ### Snabbskott (1 Fokus, 1 bihandling)
 
-Gör en extra pistolattack med **−1** på slaget.
+Gör en extra pistolattack. Attacken är **ett steg svårare**.
 
 ### Trimma (1 Fokus, variabel tid)
 

@@ -9,13 +9,15 @@ cssclasses:
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
 | Analys    | **1** | Oskadd       | ❏❏❏❏        |
-| Fysik     | **5** | Sårad        | ❏❏❏❏❏       |
-| List      | **1** | Medvetslös   | ❏❏❏❏❏❏❏❏❏   |
-| Samspel   | **3** | Döende       | ❏❏❏❏❏       |
+| Fysik     | **5** | Sårad        | ❏❏❏❏        |
+| List      | **1** | Medvetslös   | ❏❏❏❏        |
+| Samspel   | **3** | Döende       | ❏❏❏❏        |
 | Sinnen    | **1** | Förflyttning | 7 m         |
-| Smidighet | **2** | Stabilitet   | 3           |
-| Strid     | **4** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
-| Vilja     | **4** | Expertis     | Officer       |
+| Smidighet | **2** | Tålighet     | 4           |
+| Strid     | **4** | Stabilitet   | 3           |
+| Vilja     | **4** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+
+**Expertis:** Officer
 
 ![[Bilder/Tjuren.png]]
 
@@ -46,9 +48,7 @@ När karaktären blir måltavla för en attack eller effekt som skulle flytta de
 
 ### Läderhud (1 Fokus, 1 reaktion)
 
-När karaktären träffas av en attack som gör skada kan de aktivera denna förmåga och öka sitt Skydd med **1**. Förmågan kan aktiveras efter träffen, men innan skadeslaget.
-
-- **+1 Fokus:** Öka Skydd med ytterligare **1**.
+När karaktären träffas av en attack som gör skada kan de aktivera denna förmåga och öka sitt Skydd med **1** under resten av rundan. Förmågan kan aktiveras efter träffen, men innan skadeslaget.
 
 ### Tjurrusning (1 Fokus, 1 bihandling)
 
@@ -107,7 +107,7 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 - **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, skadetärningar +4, kritisk bonus +0, skadetyp Småkaliber, Automateld. Ammunition ❏❏❏❏
 - **Knogjärn:** +1 skadetärning i obeväpnad närstrid.
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
-- **Rock med insydda plåtar:** Skydd 2, **−1** på Smidighet-slag.
+- **Rock med insydda plåtar:** Skydd 2, alla Smidighet-slag ett steg svårare.
 - **Fältförband:** +2 på Akutvård (Analys + Smidighet).
 - **Kung Gustafs sardiner:** 20 burkar
 

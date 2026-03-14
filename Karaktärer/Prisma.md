@@ -10,12 +10,14 @@ cssclasses:
 | :-------- | --: | :----------- | :---------- |
 | Analys    | **2** | Oskadd       | ❏❏          |
 | Fysik     | **1** | Sårad        | ❏❏          |
-| List      | **4** | Medvetslös   | ❏❏❏❏        |
-| Samspel   | **2** | Döende       | ❏❏❏❏❏       |
+| List      | **4** | Medvetslös   | ❏❏          |
+| Samspel   | **2** | Döende       | ❏❏          |
 | Sinnen    | **3** | Förflyttning | 6 m         |
-| Smidighet | **5** | Stabilitet   | 2           |
-| Strid     | **2** | Stress       | ❏❏ ❏❏ ❏❏ ❏❏ |
-| Vilja     | **3** | Expertis     | Låssmed       |
+| Smidighet | **5** | Tålighet     | 2           |
+| Strid     | **2** | Stabilitet   | 3           |
+| Vilja     | **3** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+
+**Expertis:** Låssmed
 
 ![[Bilder/Prisma.png]]
 
@@ -36,7 +38,7 @@ cssclasses:
 
 Du böjer ljuset runt din kropp och blir svår att fokusera på.
 
-- **Effekt:** Alla som försöker se dig måste lyckas med Sinnen + Sinnen för att lokalisera dig och även då har de **−2** på avståndsattacker mot dig.
+- **Effekt:** Alla som försöker se dig måste lyckas med Sinnen + Sinnen för att lokalisera dig och även då är deras avståndsattacker mot dig **två steg svårare**.
 - **+1 Fokus:** Effekten gäller även en allierad inom 2 m.
 
 ### Synvilla (1 Fokus, 1 huvudhandling)
@@ -76,7 +78,7 @@ Med ett lyckat slag för Smidighet + List så kan du ta ett föremål från en p
 
 ### Starkt ljus
 
-Du blir lätt bländad av starkt ljus och kan då få migränliknande huvudvärk och **−1** på Sinnen-slag.
+Du blir lätt bländad av starkt ljus och kan då få migränliknande huvudvärk. Alla Sinnen-slag blir ett steg svårare.
 
 ### Partiklar i luften
 

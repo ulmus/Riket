@@ -19,9 +19,9 @@ För att skapa en rollperson i I Rikets Tjänst följer du dessa steg:
     - Strid
     - Vilja
 4. **Räkna ut sekundära egenskaper:**
-    - **Kroppspoäng (KP)** = Fysik + Vilja. Detta är hur mycket skada du tål.
+    - **Tålighet** = 1 + halva Fysik (avrundat uppåt). Detta avgör trösklarna för skadesteg.
     - **Förflyttning** = Fysik + Smidighet meter per bihandling.
-    - **Stabilitet** = 1 + halva Vilja (avrundat neråt). Detta är hur mycket stress du tål.
+    - **Stabilitet** = 1 + halva Vilja (avrundat uppåt). Detta är hur mycket stress du tål.
 5. **Välj förmågor:** Välj tre superförmågor och två vanliga förmågor.
 6. **Konstruera superkraft:** Tillsammans med spelledaren skapar du en unik kraft för din rollperson baserat på dess trauma och personlighet. Beskriv också hur krafterna manifesterar sig när traumat aktiveras (se [[Krafter#Aktiverat trauma]]).
 7. **Bestäm resurser:** Beroende på din rollpersons expertis och bakgrund kan du ha tillgång till olika resurser som vapen, utrustning eller kontakter.

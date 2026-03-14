@@ -21,23 +21,24 @@
 - **Din tur:** 1 huvudhandling + 1 bihandling + 1 reaktion
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
 - **Försvar (reaktion):** Smidighet + Strid, dra av framgångar från attackens
-- **Skada:** 1 per framgång + vapnets skadebonus; dra av målets Skydd från slutskadan
+- **Skada:** 1 per framgång + vapnets skadebonus; dra av Skydd; lägg till basskada (+1 beväpnad, +2 tungt beväpnad)
 - **Kritiskt sår**: 12:a på skadeslag innebär slag på tabell för Kritiskt sår.
 
 ## Skador
 
-- **KP** = Fysik + Vilja
-- **Sårad** (> halva KP): Alla slag ett steg svårare, +1 Stress
-- **Medvetslös** (> KP): Ur spel
-- **Döende** (> dubbla KP): Dör om inte stabiliserad
-- **Död** (> dubbla KP + 5): Död
+- **Tålighet** = 1 + ⌈Fysik / 2⌉ avrunda uppåt
+- **Sårad** (> Tålighet KP): Alla slag ett steg svårare, +1 Stress
+- **Medvetslös** (> 2 × Tålighet KP): Ur spel
+- **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad
+- **Död** (> 4 × Tålighet KP): Död
+- **Basskada:** Beväpnad +1 KP, tungt beväpnad +2 KP (efter Skydd, adderas även till kritiska träff-slag)
 - **Kritiska sår**: Enligt effekt
 
 ## Stress och Sammanbrott
 
 - Markera Stress vid: skada (Sårad), skräck, kraftanvändning (istället för Fokus)
 - **Skräck:** Slå Vilja + lämplig egenskap. Skräckfaktor (1–4) minus framgångar = Stress. Trauma-koppling ger +1 Skräckfaktor.
-- **Stabilitet** = 1 + ⌊Vilja / 2⌋ avrunda neråt
+- **Stabilitet** = 1 + ⌈Vilja / 2⌉ avrunda uppåt
 - Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+2 per gräns utöver första)
 
 |  Slag | Resultat                                                                                |

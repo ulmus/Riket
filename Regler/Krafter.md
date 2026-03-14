@@ -80,7 +80,11 @@ Begränsningar gör kraften billigare eller mer rimlig. Exempel:
 
 ### Steg 5: Lägg till förstärkningar
 
-Krafter kan förstärkas genom att spendera fler Fokus eller genom att få fler Framgångar på slaget för kraften (om kraften har ett slag). Grundprincipen är att extra Fokus används för att lägga till effekter till kraften eller förstärka de effekter som finns på ett sätt som kräver planering, det vill säga spelaren behöver veta i förväg om det är relevant. Extra framgångar förstärker istället befintliga effekter, så som mer skada, högre bonus etc. Exempel:
+Krafter kan förstärkas genom att spendera fler Fokus eller genom att få fler Framgångar på slaget för kraften (om kraften har ett slag). Grundprincipen är att extra Fokus används för att lägga till effekter till kraften eller förstärka de effekter som finns på ett sätt som kräver planering, det vill säga spelaren behöver veta i förväg om det är relevant. Extra framgångar förstärker istället befintliga effekter, så som mer skada, högre bonus etc.
+
+**Fokuskostnad vid slag:** Om kraften kräver ett slag för att lyckas gäller följande: du betalar alltid grundkostnaden i Fokus oavsett om slaget lyckas eller inte. Extra Fokus som spenderas för förstärkningar ("+1 Fokus"-alternativ) betalas däremot bara om slaget lyckas. Om slaget misslyckas förlorar du bara grundkostnaden.
+
+Exempel:
 
 - **+1 Fokus:** Öka räckvidden ett steg
 - **+1 Fokus:** Lägg till ett extra mål
@@ -239,9 +243,7 @@ När du blir måltavla för en effekt som skulle flytta dig, blir du orubblig un
 
 ### Läderhud (1 Fokus, en reaktion)
 
-När du träffas av en attack, öka ditt skydd med 1. Kan aktiveras efter träffen men innan skadeslaget.
-
-- **+1 Fokus:** +1 skydd ytterligare.
+När du träffas av en attack, öka ditt Skydd med 1 under resten av rundan. Kan aktiveras efter träffen men innan skadeslaget.
 
 ### Tjurrusning (1 Fokus, en bihandling)
 

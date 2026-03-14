@@ -6,6 +6,7 @@ När en skadetärning visar **12** inträffar en **kritisk träff**. Slå 1T12 o
 
 - **Ytterligare tolvor:** +1 per ytterligare skadetärning som visar 12
 - **Vapnets kritiska skadebonus:** Från −1 (obeväpnad) till +3 (tunga vapen)
+- **Basskada:** +1 (beväpnad) eller +2 (tungt beväpnad)
 - **Målets kritiska tålighet:** −X för stora eller väldigt tåliga varelser
 
 Om flera tärningar visar 12, slå **en gång** och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.

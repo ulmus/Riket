@@ -116,7 +116,7 @@ Om du använder din Huvudhandling för att Sikta (istället för Bihandling) få
 
 *Krav:* Pistolskytt
 
-- **Bihandling:** Gör en extra pistolattack med -1 på slaget. Kostar **1 Fokus**.
+- **Bihandling:** Gör en extra pistolattack. Attacken är **ett steg svårare**. Kostar **1 Fokus**.
 
 ### Skottväxling
 

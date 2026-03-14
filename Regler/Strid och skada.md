@@ -49,21 +49,21 @@ När du gör en närstridsattack slår du för Fysik + Strid eller Smidighet + S
 
 Om en attack träffar ett mål så avgörs skadan genom **träff-framgångar**, vapnets **skadetärningar** och målets **skydd**.
 
-## Kroppspoäng (KP)
+## Tålighet
 
-Varje karaktär har **Kroppspoäng (KP)** lika med **Fysik + Vilja**. KP representerar hur mycket skada du kan ta totalt innan du blir allvarligt påverkad. Enskilda träffar kan också ge kritiska effekter även om din totala skada inte kommit upp i din KP-nivå (se [[Kritiska träffar]]).
+Varje karaktär har en **Tålighet** lika med **1 + halva Fysik (avrundat uppåt)**. Tålighet avgör trösklarna för skadesteg och hur mycket skada du tål innan du blir allvarligt påverkad. Enskilda träffar kan också ge kritiska effekter även om din totala skada inte nått en tröskel (se [[Kritiska träffar]]).
 
 ### Skadesteg
 
-| Skada          | Tröskel                  | Effekt                                     |
-| -------------- | ------------------------ | ------------------------------------------ |
-| **Oskadd**     | 0 KP                     | Inga effekter                              |
-| **Sårad**      | > Fysik KP               | Alla handlingar ett steg svårare           |
-| **Medvetslös** | > Fysik + Vilja KP       | Du faller ihop och kan inte agera          |
-| **Döende**     | > 2 × (Fysik + Vilja) KP       | Se *Döende* nedan, eller via kritisk träff |
-| **Död**        | > 2 × (Fysik + Vilja) + 5 KP   | Du dör omedelbart                          |
+| Skada          | Tröskel              | Effekt                                     |
+| -------------- | -------------------- | ------------------------------------------ |
+| **Oskadd**     | 0 KP                 | Inga effekter                              |
+| **Sårad**      | > Tålighet KP        | Alla handlingar ett steg svårare           |
+| **Medvetslös** | > 2 × Tålighet KP    | Du faller ihop och kan inte agera          |
+| **Döende**     | > 3 × Tålighet KP    | Se *Döende* nedan, eller via kritisk träff |
+| **Död**        | > 4 × Tålighet KP    | Du dör omedelbart                          |
 
-*Exempel: En karaktär med Fysik 3 och Vilja 2 har 5 KP. Hon blir Sårad vid 4+ KP skada, Medvetslös vid 6+ KP, Döende vid 11+ KP, och dör omedelbart vid 16+ KP.*
+*Exempel: En karaktär med Fysik 2 har Tålighet 2. Hon blir Sårad vid 3+ KP skada, Medvetslös vid 5+ KP, Döende vid 7+ KP, och dör omedelbart vid 9+ KP.*
 
 ## 1. Bestäm antal skadetärningar
 
@@ -86,11 +86,29 @@ Rulla antalet T12. Skadeslag ger inte Fokus.
 
 Målets **Skydd** (från rustning, täckning, etc.) minskar KP-skadan:
 
-**Slutlig skada = KP-skada − Skydd** (minst 0)
+**Skada efter Skydd = KP-skada − Skydd** (minst 0)
 
 Skydd hindrar först icke-kritiska träffar och först när alla de har blivit absorberade hindras eventuella kritiska träffar.
 
-## 4. Kritiska träffar
+## 4. Lägg till basskada
+
+Varje träff med ett vapen gör automatiskt **basskada** utöver skaderullens resultat:
+
+| Attacktyp          | Basskada |
+| ------------------ | -------: |
+| **Obeväpnad**      |     0 KP |
+| **Beväpnad**       |     1 KP |
+| **Tungt beväpnad** |     2 KP |
+
+Basskada läggs till *efter* att Skydd dragits av. En beväpnad attack som träffar gör alltid minst 1 KP skada, oavsett Skydd.
+
+**Tungt beväpnad** avser vapen med egenskapen **Tung** eller **Grovkalibrigt**.
+
+**Slutlig skada = Skada efter Skydd + Basskada**
+
+Basskada adderas också som modifierare till kritiska träff-slag.
+
+## 5. Kritiska träffar
 
 Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 1T12 och lägg till modifierare för att bestämma effekten på lämplig kritisk träff-tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
 
@@ -98,6 +116,7 @@ Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 
 
 - **+1 per ytterligare 12:a** på skadetärningarna
 - **Vapnets kritiska skadebonus** (från −1 till +3, se [[Vapen]])
+- **Basskada** (+1 beväpnad, +2 tungt beväpnad)
 - **Målets kritiska tålighet** (om något, endast för stora/tåliga varelser)
 
 Om *flera* skadetärningar visar 12: slå **en gång** och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.
@@ -108,9 +127,9 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadetärningar +4**, **Kritisk bonus +0**, och skadetyp **Småkaliber**.
 > Antons träffslag ger **2 framgångar**. Han slår alltså **2 + 4 = 6 skadetärningar**.
-> Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada är **3 KP**.
-> Vakten (Fysik 2, Vilja 2, 4 KP totalt) har nu tagit 3 KP skada och är Sårad (tröskeln är >2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
-> Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 för kritisk träff och får en 8. Med pistolens kritiska bonus på +0 blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
+> Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Vakten bär **tjock rock (Skydd 1)**, så skadan efter Skydd är **3 KP**. Pistolen är ett **beväpnat** vapen, så **1 KP basskada** läggs till. Slutlig skada blir **4 KP**.
+> Vakten (Fysik 2, Tålighet 2) har nu tagit 4 KP skada och är Sårad (tröskeln är > 2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
+> Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 för kritisk träff och får en 7. Med pistolens kritiska bonus på +0 och basskada +1 blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
 
 ## Effekter av skada
 
@@ -120,14 +139,14 @@ Varje gång du tar minst 1 KP skada så tar du också 1 Stress.
 
 ## Sårad
 
-När du har tagit mer än **Fysik** i KP-skada blir du **Sårad**:
+När du har tagit mer än **Tålighet** i KP-skada blir du **Sårad**:
 
 - Alla handlingar blir **ett steg svårare** (Normalt → Svårt, Svårt → Mycket Svårt).
 - Du tar **1 Stress**.
 
 ## Medvetslös
 
-När du har tagit mer än **Fysik + Vilja** i KP-skada blir du **Medvetslös**:
+När du har tagit mer än **2 × Tålighet** i KP-skada blir du **Medvetslös**:
 
 - Du faller ihop och kan inte agera.
 - Du vaknar när din KP-skada återställs till under tröskeln, eller efter 1T12 minuter (spelledarens val).
@@ -136,14 +155,14 @@ När du har tagit mer än **Fysik + Vilja** i KP-skada blir du **Medvetslös**:
 
 Du blir **Döende** om:
 
-- Du tar mer än **2 × (Fysik + Vilja)** KP-skada (chock), eller
+- Du tar mer än **3 × Tålighet** KP-skada (chock), eller
 - En **kritisk träff** gör dig Döende.
 
 ## Omedelbar död
 
 Du dör omedelbart om:
 
-- Om du tar mer än **2 × (Fysik + Vilja) + 5** KP-skada
+- Du tar mer än **4 × Tålighet** KP-skada
 - En **kritisk träff** beskriver att du dör omedelbart
 
 ### Överlevnadsslag
@@ -158,7 +177,7 @@ När du är Döende måste du slå **Överlevnadsslag** (Fysik + Vilja) med ett 
 Varje Överlevnadsslag:
 
 - **Misslyckat:** Du dör.
-- **Lyckat med en framgång:** Du överlever tills nästa slag. Notera överskjutande framgångar.
+- **Lyckat med en framgång:** Du överlever tills nästa slag.
 - **Lyckat med flera framgångar:** Extra framgångar kan användas för att stabilisera dig. När du fått totalt tre stabiliseringsframgångar så är du stabil och behöver inte slå fler Överlevnadsslag.
 
 ### Stabilisering
@@ -203,8 +222,9 @@ Se [[Läkning & vård]] för mer information.
 2. **Skadetärningar** = Träffframgångar + Skadebonus (+ egenskaper).
 3. **Rulla** skadetärningar: 10–11 = 1 KP, 12 = 1 KP + kritisk träff.
 4. **Dra av Skydd** från KP-skadan.
-5. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
-6. **Kritisk träff?** Slå på rätt tabell.
+5. **Lägg till basskada:** +1 KP (beväpnad) eller +2 KP (tungt beväpnad).
+6. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
+7. **Kritisk träff?** Slå på rätt tabell (basskada adderas till kritisk träff-slag).
 
 ### Läkning
 

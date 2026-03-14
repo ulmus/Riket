@@ -18,12 +18,17 @@ Behandling kräver en **huvudhandling** för första försöket. Nästa försök
 
 **Utrustning:** +1 tärning med första-hjälpen-kit, +2 med läkarväska.
 
-| Åtgärd             | Vårdtyp   | Effekt                                       |
-| ------------------ | --------- | -------------------------------------------- |
-| Stoppa blödning    | Kirurgi   | Minska blödning ett steg per framgång        |
-| Stabilisera döende | Medicin   | Patienten behöver inte slå överlevnadsslag   |
-| Ge motgift         | Medicin   | Stoppar gifteffekter (kräver rätt motgift)   |
-| Lugna patient      | Psykologi | Ta bort 1 Stress per framgång                |
+| Åtgärd                | Vårdtyp   | Effekt                                                                   |
+| --------------------- | --------- | ------------------------------------------------------------------------ |
+| Stoppa blödning       | Kirurgi   | Minska blödning ett steg per framgång                                    |
+| Stabilisera döende    | Medicin   | Patienten behöver inte slå överlevnadsslag                               |
+| Stabilisera sårad     | Medicin   | Patienten är inte längre **Sårad** (svårighetsökningen upphör)           |
+| Ge motgift            | Medicin   | Stoppar gifteffekter (kräver rätt motgift)                               |
+| Lugna patient         | Psykologi | Ta bort 1 Stress per framgång                                            |
+
+**Stabilisera sårad:** En lyckad Medicin-behandling på en **Sårad** karaktär gör att svårighetsökningen från **Sårad** tillfälligt upphör. Om karaktären tar ytterligare skada återkommer effekten och ett nytt behandlingsslag krävs.
+
+**Medicin läker inte KP.** Behandling kan stabilisera tillstånd och lindra effekter, men KP-skada läks bara genom vila och tid (se Läkning nedan).
 
 Kritiska träffar anger vilken vårdtyp och svårighet som krävs, se [[Kritiska träffar]].
 

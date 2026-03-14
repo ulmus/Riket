@@ -116,6 +116,8 @@ Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en de
 
 **Spelarna kan nu ställa frågor.** Hedström besvarar dem efter bästa förmåga men är medvetet vag om vissa detaljer – särskilt om sin egen historia med Richter.
 
+*Notera:* Hedström utgår ifrån att Elisabeth Richter kommer att närvara vid mottagningen tillsammans med Hans. Han känner inte till att hon är svårt sjuk och sängliggande hemma. Att Elisabeth inte är på plats utan måste hämtas separat är en komplikation som spelarna inte kan planera för.
+
 Se [[Uppdragsbriefing - Berlin|uppdragsbriefingen]] för den fullständiga skriftliga instruktionen som spelarna får.
 
 ### Förberedelser i Stockholm
@@ -419,7 +421,8 @@ Elisabeth är för sjuk för att fly snabbt. Hon måste bäras eller köras i ru
 
 > **Skräck-slag:** *Sinnen + Vilja*, Skräckfaktor **2** – Stasi omringar huset, ingen uppenbar utväg.
 
-- **Stasi är på väg:** Volkspolizei och Stasi spårar Golem och kommer att omringa byggnaden inom 10–15 minuter.
+- **Stasi är på väg:** Volkspolizei och Stasi spårar Golem och kommer att omringa byggnaden inom 10–15 minuter. Stasi vet att Elisabeth bor här och kommer att använda henne som gisslan om det behövs för att tvinga Richter att ge upp.
+- **KGB interceptar:** KGB vet att Richter planerar att hoppa av och känner till hans hemadress. Om de anländer före spelarna har de redan säkrat huset och håller Elisabeth som gisslan. Om de anländer efter spelarna försöker de storma huset med Zvezda-agenter. KGB:s mål är att gripa Richter – Elisabeth är bara ett förhandlingsverktyg.
 - **Yaakov vill hämnas:** Om Yaakov följde med eller spårade spelarna kommer han att försöka döda både Hans och Elisabeth här.
 - **Golem skyddar:** Om någon hotar Richter eller Elisabeth anfaller Golem omedelbart.
 
@@ -553,7 +556,7 @@ För att spelledaren ska kunna spela fraktionerna realistiskt är det viktigt at
 - KGB vet om avhoppet (läcka i T-kontoret).
 - CIA planerar att kidnappa Richter.
 - Yaakov Dayan (Mossad) är på plats med personlig vendetta.
-- Richters fru är sjuk och hemmavarande
+- Richters fru Elisabeth är svårt sjuk och hemmavarande (Hedström tror att hon kommer till mottagningen)
 
 **Varför de vet det de vet:**
 
@@ -659,13 +662,65 @@ Om spelarna lyckas kommunicera med Golem (emotionellt, telepatiskt) kan de erbju
 1. **Följa med till Sverige:** Program Frigg kan försöka "återställa" honom, ge honom vård. Men han kommer aldrig bli normal.
 2. **Stanna i Berlin:** Antingen som fånge av Stasi/KGB eller försöka leva fritt (osannolikt).
 
-#### Flykten
+### Lämna Östberlin
 
-Om spelarna lyckas få med sig Richter (och eventuellt Elisabeth och Golem) måste de fly Östberlin.
+Om spelarna lyckas få med sig Richter (och eventuellt Elisabeth och Golem) måste de ta sig ut ur Östberlin. Nedan beskrivs de viktigaste alternativen. SL bör låta spelarna själva komma på sin plan, men kan styra dem mot ett av dessa scenarier om de kör fast.
 
-- **Diplomatisk flykt:** Om de inte väckt för mycket uppmärksamhet kan de använda sina diplomatpass och gå genom Checkpoint Charlie.
-- **Smyga över muren:** Om de är efterlysta måste de ta en av de farliga rutterna över muren.
-- **CIA:s hjälp:** Om de tidigare förhandlade med Donnelly kan de försöka kontakta honom – men han kommer att försöka kidnappa Richter.
+#### Checkpoint Charlie – diplomatisk passage
+
+Om spelarna inte väckt för mycket uppmärksamhet kan de använda sina diplomatpass och gå genom Checkpoint Charlie. Detta är det enklaste alternativet men kräver att Stasi inte har utfärdat en varning.
+
+- **Förutsättning:** Inga larm utlösta, diplomatpass intakta, Richter och Elisabeth måste döljas eller smugglas i fordonet.
+- **Svårighet:** *Samspel + List*, **Svårt**. Om Stasi har gått ut med larm: **Mycket Svårt** eller omöjligt.
+- **Risk:** Om de avslöjas vid kontrollen är de fast – beväpnade soldater på båda sidor, ingen möjlighet att fly med bil.
+- **Komplikation:** Om CIA:s Donnelly kontrollerar checkpointen kan han välja att "hjälpa" — men priset är att han behåller Richter.
+
+#### Kyrkruinen vid Sebastianstrasse
+
+En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid muren. På natten är det möjligt att klättra genom ruinerna och ta sig över.
+
+- **Förutsättning:** Mörker. Alla måste kunna klättra eller bäras.
+- **Svårighet:** *Smidighet + Fysik*, **Normalt**. **Svårt** om de bär Elisabeth eller Golem.
+- **Risk:** Bevakade torn på båda sidor. Risk för att bli beskjuten. Om de upptäcks under klättringen finns ingen reträtt.
+- **Komplikation:** Elisabeth kan inte klättra själv — hon måste bäras, vilket kräver *Fysik + Smidighet*, **Svårt**.
+
+#### Potsdamer Platz – ödemarken
+
+En gång stadens hjärta, nu en öde ruin. Muren är ofärdig här, mest taggtråd och patrullerande soldater.
+
+- **Förutsättning:** Information om patrullmönster (via spaning eller Radars krafter).
+- **Svårighet:** *Smidighet + Sinnen*, **Svårt**. **Mycket Svårt** om de har Richter eller Elisabeth med sig.
+- **Risk:** Strålkastare, patruller, hundar. Öppen terräng utan skydd om de upptäcks.
+- **Komplikation:** Golem är omöjlig att dölja i det öppna — om han är med dem ökar risken dramatiskt.
+
+#### Floden Spree
+
+Vissa delar av floden är mindre bevakade, men vattnet är iskallt i november och strömmarna farliga.
+
+- **Förutsättning:** Båt eller flotte (kan improviseras). Starka simmare.
+- **Svårighet:** *Fysik + Vilja*, **Svårt**. Kan vara dödligt utan förberedelse.
+- **Risk:** Hypotermi (varje runda i vattnet kräver *Fysik + Vilja* för att inte ta 1 Stress), drunkning, bevakningsbåtar.
+- **Komplikation:** Elisabeth överlever inte vattnet utan extraordinär hjälp (t.ex. Stigmatas krafter).
+
+#### CIA:s hjälp
+
+Om spelarna tidigare förhandlade med Donnelly kan de försöka kontakta honom. CIA kan ordna en säker passage — men det har ett pris.
+
+- **Förutsättning:** Kontakt med Donnelly etablerad. Donnelly måste se det som fördelaktigt.
+- **Svårighet:** Ingen — CIA ordnar passagen.
+- **Risk:** CIA kommer att försöka behålla Richter. Spelarna måste antingen acceptera det eller vara beredda att dubbelkorsa CIA vid överlämningen.
+- **Komplikation:** Om spelarna bryter avtalet med CIA får de en mäktig fiende.
+
+#### Martins smugglarrutt
+
+Martin Weber känner till en rutt som smugglare använder — genom industriområdet vid **Treptower Park** där muren fortfarande har luckor i stängslet.
+
+- **Förutsättning:** Martin måste vara med och vid medvetande. Bilen måste fungera.
+- **Svårighet:** *Smidighet + Sinnen* (Martin kör), **Svårt**. Martin får +2 tärningar tack vare sin lokalkännedom.
+- **Risk:** Rutten passerar nära en Volkspolizei-station. Om de upptäcks utlöses en biljakt.
+- **Komplikation:** Martin kan tveka om situationen blir livshotande (se hans nackdel *Inte mitt jobb att dö*).
+
+#### Konsekvenser
 
 Om de lyckas ta sig till Västberlin är de säkra – men konsekvenserna av deras val kommer att förfölja dem.
 
@@ -686,7 +741,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 3, List 2, Fysik 1, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 4, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Läkare, Vetenskapsman
 - **Förmågor:** Kirurgi, Manipulativ retorik
 
@@ -705,7 +760,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 **Egenskaper:**
 
 - Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1
-- **KP:** 3 (av 4 – svårt sjuk), **Stabilitet:** 2
+- **Tålighet:** 1 (döende av cancer), **Stabilitet:** 3
 - **Tillstånd:** Döende av cancer, begränsad mobilitet
 
 **Utrustning:** Medicinska dokument, dagböcker med experimentdata.
@@ -723,7 +778,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 **Egenskaper:**
 
 - Fysik 6 (övernaturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
-- **KP:** 16 (Fysik 6 + Vilja 1 + ENS-bonus), **Stabilitet:** 1
+- **Tålighet:** 8 (Fysik 6, förstärkt av ENS-bonus), **Stabilitet:** 2
 - **Förflyttning:** 8 meter
 - **Slagstyrka:** 3
 
@@ -762,7 +817,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Smidighet 3, Vilja 3, List 3, Analys 2, Fysik 2, Samspel 2
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Närstrid, Smyga, Överlevnad
 
@@ -779,7 +834,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 **Egenskaper:**
 
 - Analys 4, Vilja 3, Samspel 3, Fysik 2, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Läkare, Vetenskapsman
 
 Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och genomgången.
@@ -795,7 +850,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för 
 **Egenskaper:**
 
 - Strid 3, Sinnen 3, Samspel 2, Vilja 3, Analys 2, Fysik 2, List 2, Smidighet 2
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Polis, Officer
 - **Förmågor:** Förhör, Taktik
 
@@ -812,7 +867,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kom
 **Egenskaper:**
 
 - Analys 3, Sinnen 3, Samspel 3, Strid 2, Vilja 3, Fysik 2, List 2, Smidighet 2
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
@@ -829,7 +884,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 **Egenskaper:**
 
 - Analys 3, Vilja 4, List 3, Samspel 2, Fysik 2, Sinnen 2, Smidighet 1, Strid 2
-- **KP:** 6, **Stabilitet:** 3
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
@@ -848,7 +903,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 **Egenskaper:**
 
 - Samspel 4, List 3, Strid 3, Sinnen 3, Analys 2, Fysik 2, Smidighet 2, Vilja 2
-- **KP:** 4, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Spion, Diplomat
 - **Förmågor:** Charm, Lögner, Nätverk
 
@@ -865,7 +920,7 @@ Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 4, Strid 2, Fysik 2, List 2, Sinnen 2, Smidighet 1
-- **KP:** 6, **Stabilitet:** 3
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Officer, Strateg
 - **Förmågor:** Taktik, Kalla nerven
 
@@ -882,7 +937,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Vilja 3, Smidighet 3, Analys 2, Fysik 2, List 2, Samspel 2
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Taktik, Kalla nerven, Förhör
 
@@ -901,7 +956,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 **Egenskaper:**
 
 - Vilja 5, Sinnen 3, Strid 2, Analys 2, Fysik 2, List 1, Samspel 1, Smidighet 2
-- **KP:** 7, **Stabilitet:** 3
+- **Tålighet:** 2, **Stabilitet:** 4
 - **Expertis:** Zvezda-agent
 - **Trauma:** Rädsla för osynlighet och utplåning
 
@@ -935,7 +990,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Fysik 5, Strid 4, Vilja 3, Analys 2, Sinnen 2, Smidighet 2, List 1, Samspel 1
-- **KP:** 8, **Stabilitet:** 2
+- **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Soldat, Zvezda-agent
 - **Förmågor:** Närstrid, Uthållighet
 - **Trauma:** Kontrollerad ilska och destruktivitet
@@ -964,7 +1019,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Analys 4, Samspel 2, Vilja 2, Fysik 1, List 1, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 3, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Vetenskapsman
 
 ### Fräulein Ingrid Schulmann
@@ -976,7 +1031,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 2, Strid 1
-- **KP:** 3, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Konstnär
 
 ### Monsieur Jean-Pierre Leclerc
@@ -988,7 +1043,7 @@ Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han
 **Egenskaper:**
 
 - Analys 3, Samspel 3, List 3, Vilja 2, Fysik 1, Sinnen 3, Smidighet 1, Strid 1
-- **KP:** 3, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Ambassadör Otto Keller (Schweiz)
@@ -1000,7 +1055,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 **Egenskaper:**
 
 - Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 3, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Dr. Marlene Fischer
@@ -1012,7 +1067,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 **Egenskaper:**
 
 - Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 3, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Läkare
 
 ### Ambassadör Sven Hellén (Sverige, Västberlin)
@@ -1024,7 +1079,7 @@ Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrå
 **Egenskaper:**
 
 - Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **KP:** 3, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Greta Holm (Sverige, Västberlin)
@@ -1036,7 +1091,7 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 **Egenskaper:**
 
 - Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Diplomat, Spion
 - **Förmågor:** Nätverk, Lögner
 
@@ -1051,7 +1106,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 **Egenskaper:**
 
 - Smidighet 5, Sinnen 3, Vilja 3, Analys 2, Fysik 2, List 2, Samspel 2, Strid 2
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 3
 - **Expertis:** Chaufför
 - **Förmågor:** Kontrollerad sladd, Racerinstinkt, Skjut och kör, Tyst intrång
 
@@ -1064,7 +1119,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 **Egenskaper:**
 
 - Sinnen 2, Smidighet 1, Strid 2, Samspel 2, Analys 1, Fysik 2, List 1, Vilja 2.
-- **KP:** 4, **Stabilitet:** 2
+- **Tålighet:** 2, **Stabilitet:** 2
 - **Expertis:** Polis
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
@@ -1076,7 +1131,7 @@ Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disc
 **Egenskaper:**
 
 - Strid 3, Fysik 3, Sinnen 2, Smidighet 2, Vilja 2, Analys 1, List 1, Samspel 1
-- **KP:** 5, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Soldat
 
 **Utrustning:** AK-47 (räckvidd 50 m, skadetärningar +5, kritisk bonus +1, skadetyp Småkaliber, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
@@ -1090,13 +1145,13 @@ De som fortfarande lever befinner sig i varierande tillstånd. Vissa är kataton
 **Katatonisk försöksperson (majoritet):**
 
 - Fysik 1, Vilja 1, övriga 1
-- **KP:** 2, **Stabilitet:** 1, **Stress:** 5 av 6
+- **Tålighet:** 2, **Stabilitet:** 2, **Stress:** 5 av 6
 - **Tillstånd:** Kan inte agera utan hjälp.
 
 **Instabil försöksperson (2-3 stycken):**
 
 - Fysik 3, Vilja 2, Strid 2, övriga 1
-- **KP:** 5, **Stabilitet:** 1, **Stress:** 6 av 6 (permanent sammanbrott)
+- **Tålighet:** 3, **Stabilitet:** 2, **Stress:** 6 av 6 (permanent sammanbrott)
 - **Okontrollerad kraft:** Varje instabil försöksperson har en slumpmässig, okontrollerbar kraft. Slå 1T12 eller välj:
 
 | T12 | Kraft                                                                                    |

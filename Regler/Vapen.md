@@ -19,7 +19,7 @@ Vapen som kan skjuta automateld kan skjuta korta och långa salvor:
 
 ### Grovkalibrigt
 
-Vapen med grov kaliber bär sin energi längre och har inga avdrag på längre avstånd utöver träffchansen. Grovkalibriga vapen är alltid **Tunga** (ger +1 KP skada vid träff).
+Vapen med grov kaliber bär sin energi längre och har inga avdrag på längre avstånd utöver träffchansen. Grovkalibriga vapen är alltid **Tunga** (tungt beväpnade, 2 KP basskada).
 
 ### Hagelsvärm
 
@@ -35,7 +35,7 @@ Lätta vapen har –1 Skadetärningar jämfört med liknande vapen.
 
 ### Tung
 
-Tunga vapen gör **+1 KP skada** vid träff, utöver skaderullens resultat. Denna skada appliceras efter skadeslaget men före Skydd.
+Tunga vapen räknas som **tungt beväpnade** och gör **2 KP basskada** istället för den normala 1 KP för beväpnade attacker. Se [[Strid och skada#4. Lägg till basskada]].
 
 ### Långt (närstrid)
 
