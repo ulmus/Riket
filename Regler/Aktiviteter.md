@@ -12,6 +12,10 @@ Det finns många situationer som inte inbegriper strid, men som kräver regelst�
 
 En kortare aktivitet avgörs med ett enkelt slag där den person som är viktigast för scenen slår ett slag för *Egenskap + Egenskap* (SL avgör vilka, eventuellt efter förslag från spelaren) med en satt svårighet. Om slaget lyckas så går scenen enligt plan.
 
+### Automatisk framgång
+
+Under normala, ostressade förhållanden kan en karaktär med relevant Expertis utföra vissa aktiviteter utan att slå. Dessa räknas som **1 framgång**, men genererar aldrig Fokus. Så snart situationen blir stressad – en vakt närmar sig, klockan tickar, eller något oförutsett händer – krävs ett slag som vanligt. Se [[Expertiser#Automatisk framgång]] för fullständiga regler och exempel per Expertis.
+
 ### Hjälpa till
 
 Om någon vill hjälpa huvudaktörer så är de biaktörer, de berättar då vad de vill använda för *Egenskap + Egenskap* för att hjälpa till och SL avgör om det är möjligt och i så fall hur svårt. Alla biaktörer slår sina slag *innan* huvudaktören. Eventuella framgångar blir bonustärningar på huvudaktörens slag.
