@@ -14,28 +14,20 @@ Olika vapen har egenskaper som påverkar hur de kan användas eller vilken effek
 
 Vapen som kan skjuta automateld kan skjuta korta och långa salvor:
 
-- **Kort salva:** +2 skadetärningar.
-- **Lång salva:** +4 skadetärningar.
-
-### Grovkalibrigt
-
-Vapen med grov kaliber bär sin energi längre och har inga avdrag på längre avstånd utöver träffchansen. Grovkalibriga vapen är alltid **Tunga** (tungt beväpnade, 2 KP basskada).
+- **Kort salva:** +2 tärningar på attackslaget.
+- **Lång salva:** +4 tärningar på attackslaget.
 
 ### Hagelsvärm
 
-+2 skadetärningar och +1 på att träffa på kort håll. På långt håll: –2 skadetärningar. På extremt håll: –4 skadetärningar.
++3 tärningar på attackslaget på kort håll. På långt håll: −2 tärningar. På extremt håll: −4 tärningar.
 
 ### Finess
 
 Ett närstridsvapen som hanteras med Smidighet + Strid.
 
-### Lätt
+### Penetrerande
 
-Lätta vapen har –1 Skadetärningar jämfört med liknande vapen.
-
-### Tung
-
-Tunga vapen räknas som **tungt beväpnade** och gör **2 KP basskada** istället för den normala 1 KP för beväpnade attacker. Se [[Strid och skada#4. Lägg till basskada]].
+Vapnet penetrerar djupt. Vid kritiska träff-slag läggs **dubbla vapnets Skada** till som modifierare istället för enkel Skada. Se [[Kritiska träffar]].
 
 ### Långt (närstrid)
 
@@ -47,27 +39,27 @@ Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner u
 
 ## Avståndsvapen
 
-| Vapen             | Räckvidd | Skadetärningar | Skadetyp   | Egenskaper                |
-| ----------------- | -------: | -------------: | ---------- | ------------------------- |
-| Pistol            |     25 m |             +4 | Småkaliber | –                         |
-| Revolver          |     25 m |             +4 | Småkaliber | –                         |
-| K-pist            |     40 m |             +4 | Småkaliber | Automateld                |
-| Automatkarbin     |     80 m |             +5 | Småkaliber | Automateld                |
-| Gevär             |    100 m |             +6 | Högkaliber | Grovkalibrigt             |
-| Hagelgevär        |     10 m |             +5 | Småkaliber | Hagelsvärm                |
-| Kulspruta 5.56 mm |    100 m |             +6 | Småkaliber | Automateld                |
-| Kulspruta 7,62 mm |    200 m |             +7 | Högkaliber | Automateld, Grovkalibrigt |
+| Vapen             | Räckvidd | Skada | Skadetyp   | Egenskaper               |
+| ----------------- | -------: | ----: | ---------- | ------------------------ |
+| Pistol            |     25 m |     1 | Skjutvapen | –                        |
+| Tung pistol       |     25 m |     2 | Skjutvapen | –                        |
+| K-pist            |     40 m |     1 | Skjutvapen | Automateld               |
+| Automatkarbin     |     80 m |     2 | Skjutvapen | Automateld               |
+| Gevär             |    100 m |     3 | Skjutvapen | Penetrerande             |
+| Hagelgevär        |     10 m |     1 | Skjutvapen | Hagelsvärm               |
+| Kulspruta 5.56 mm |    100 m |     2 | Skjutvapen | Automateld               |
+| Kulspruta 7,62 mm |    200 m |     3 | Skjutvapen | Automateld, Penetrerande |
 
 ## Närstridsvapen
 
-| Vapen    | Skadetärningar | Skadetyp | Egenskaper             |
-| -------- | -------------: | -------- | ---------------------- |
-| Slagsmål |             +1 | Kross    | Obeväpnad              |
-| Kniv     |             +2 | Stick    | –                      |
-| Batong   |             +2 | Kross    | –                      |
-| Sabel    |             +3 | Hugg     | Finess                 |
-| Yxa      |             +3 | Hugg     | Tung                   |
-| Spjut    |             +3 | Stick    | Långt, Kastbart (15 m) |
+| Vapen    | Skada | Skadetyp | Egenskaper                           |
+| -------- | ----: | -------- | ------------------------------------ |
+| Slagsmål |     0 | Kross    | Obeväpnad                            |
+| Kniv     |     1 | Stick    | –                                    |
+| Batong   |     1 | Kross    | –                                    |
+| Sabel    |     1 | Hugg     | Finess                               |
+| Yxa      |     2 | Hugg     | –                                    |
+| Spjut    |     2 | Stick    | Långt, Kastbart (15 m), Penetrerande |
 
 ## Skydd och rustning
 
@@ -77,11 +69,11 @@ Skydd minskar KP-skadan från attacker. Normalt kroppsskydd ger 1 poäng Skydd, 
 
 ### Pansarbrytande ammunition
 
-Pansarbrytande ammunition ignorerar 1 poäng Skydd, men ger –1 skadetärning mot obepansrade mål på grund av snävare sårkanal.
+Pansarbrytande ammunition ignorerar 1 poäng Skydd, men ger −1 Skada mot mål utan Skydd (minimum 0) på grund av snävare sårkanal.
 
 ### Hålspetsammunition
 
-Hålspets ger +1 skadetärning mot obepansrade mål på grund av större sårkanal, men –1 skadetärning mot mål med Skydd.
+Hålspets ger +1 Skada mot mål utan Skydd på grund av större sårkanal, men −1 Skada mot mål med Skydd (minimum 0).
 
 ### Kikarsikte
 

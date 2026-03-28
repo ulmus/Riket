@@ -108,7 +108,7 @@ Om kraften kan användas för att attackera, använd samma system som för vanli
 | **Mycket stark** | +6         | Gevär, explosion       |
 | **Extrem**       | +8         | Artilleri, katastrofal |
 
-Attacken slås med **Strid + Vilja** (eller annan lämplig kombination). Antal **skadetärningar = träffframgångar + skadebonus**. Skada och kritiska träffar fungerar som vanligt (se [[Strid och skada]] och [[Kritiska träffar]]).
+Attacken slås med **Strid + Vilja** (eller annan lämplig kombination). Antal **skadetärningar = träffframgångar + skadebonus** från kraftnivån. Skada och kritiska träffar fungerar som vanligt (se [[Strid och skada]] och [[Kritiska träffar]]).
 
 **Skadetyp:** Ange lämplig skadetyp för kritiska träffar (Eld, Kross, Stick, etc.).
 

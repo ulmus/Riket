@@ -888,7 +888,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
-**Utrustning:** Makarov-pistol (+4 skadetärningar), Stasi-legitimation, direktlinje till Volkspolizei.
+**Utrustning:** Makarov-pistol (Skada 1, skadetyp Skjutvapen), Stasi-legitimation, direktlinje till Volkspolizei.
 
 ### Agent Richard "Dick" Donnelly
 
@@ -1134,7 +1134,7 @@ Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disc
 - **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Soldat
 
-**Utrustning:** AK-47 (räckvidd 50 m, skadetärningar +5, skadetyp Småkaliber, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
+**Utrustning:** AK-47 (räckvidd 50 m, Skada 2, skadetyp Skjutvapen, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
 
 ### Försöksperson
 

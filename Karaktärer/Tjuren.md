@@ -78,13 +78,13 @@ Du är tränad i att kontrollera automateld med precision.
 ### Slagsmål (Alltid aktiv)
 
 - Du får +1 på slag för Fysik + Strid när du slåss obeväpnad.
-- Dina obeväpnade attacker räknas som **beväpnade** (1 KP basskada).
+- Dina obeväpnade attacker har **Skada 1** istället för 0.
 
 ### Uppercut (Alltid aktiv)
 
 *Krav:* Slagsmål
 
-Dina obeväpnade attacker får **+1** skadetärning.
+Dina obeväpnade attacker får **+1** extra tärning på skadeslaget.
 
 ### Djurvän (Alltid aktiv)
 
@@ -104,8 +104,8 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 
 ## Utrustning
 
-- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, skadetärningar +4, skadetyp Småkaliber, Automateld. Ammunition ❏❏❏❏
-- **Knogjärn:** +1 skadetärning i obeväpnad närstrid.
+- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, Skada 1, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏
+- **Knogjärn:** +1 extra tärning på skadeslaget i obeväpnad närstrid.
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
 - **Rock med insydda plåtar:** Skydd 2, alla Smidighet-slag ett steg svårare.
 - **Fältförband:** +2 på Akutvård (Analys + Smidighet).
@@ -117,7 +117,7 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 
 Vapen med egenskapen *Automateld* kan skjuta salvor:
 
-- **Kort salva:** +2 skadetärningar.
-- **Lång salva:** +4 skadetärningar. 
+- **Kort salva:** +2 tärningar på attackslaget.
+- **Lång salva:** +4 tärningar på attackslaget.
 
 *Förmågan Automatsalva ger dig också möjligheten att göra extra attacker mot flera mål genom att spendera fokus.*

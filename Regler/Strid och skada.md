@@ -47,7 +47,7 @@ När du gör en närstridsattack slår du för Fysik + Strid eller Smidighet + S
 
 ## Skador
 
-Om en attack träffar ett mål så avgörs skadan genom **träff-framgångar**, vapnets **skadetärningar** och målets **skydd**.
+Om en attack träffar ett mål så avgörs skadan genom **träff-framgångar**, vapnets **Skada** och målets **skydd**.
 
 ## Tålighet
 
@@ -65,54 +65,36 @@ Varje karaktär har en **Tålighet** lika med **1 + halva Fysik (avrundat uppåt
 
 *Exempel: En karaktär med Fysik 2 har Tålighet 2. Hon blir Sårad vid 3+ KP skada, Medvetslös vid 5+ KP, Döende vid 7+ KP, och dör omedelbart vid 9+ KP.*
 
-## 1. Bestäm antal skadetärningar
+## 1. Rulla skadetärningar
 
-När en attack träffar, räkna ihop **skadetärningar**:
-
-Antal skadetärningar = Träff-framgångar + Vapnets Skadetärningar
-
-- **Träff-framgångar:** Antalet framgångar på attackslaget.
-- **Skadetärningar:** Vapnets skadetärningar enligt vapentabellen (se [[Vapen]]).
-- **Egenskaper:** Vissa vapenegenskaper (t.ex. **Automateld**) ger extra skadetärningar.
-
-## 2. Rulla skadetärningar
-
-Rulla antalet T12. Skadeslag ger inte Fokus.
+När en attack träffar, rulla lika många **skadetärningar** (T12) som antalet **Framgångar** på attackslaget. Skadeslag ger inte Fokus.
 
 - Varje tärning som visar **10–11** ger **1 KP skada**.
 - Varje tärning som visar **12** ger **1 KP skada** och är en **kritisk träff**.
 
-## 3. Lägg till basskada
+Vissa vapenegenskaper (t.ex. **Automateld**) ger extra tärningar på attackslaget, vilket indirekt ökar antalet skadetärningar.
 
-Alla attacker har en **basskada** som läggs till KP-skadan från skadetärningarna:
+## 2. Lägg till Skada
 
-| Attacktyp          | Basskada |
-| ------------------ | -------: |
-| **Obeväpnad**      |     0 KP |
-| **Beväpnad**       |     1 KP |
-| **Tungt beväpnad** |     2 KP |
+Varje vapen har ett **Skada**-värde som anger den garanterade KP-skadan vid en lyckad träff. **Skada** läggs till KP-skadan från skadetärningarna. Typiska värden är **0** för obeväpnade attacker och **1–4** för beväpnade attacker – se [[Vapen]] för varje vapens Skada-värde.
 
-**Tungt beväpnad** avser vapen med egenskapen **Tung** eller **Grovkalibrigt**.
-
-Basskada adderas också som modifierare till kritiska träff-slag.
-
-## 4. Applicera skydd
+## 3. Applicera skydd
 
 Målets **Skydd** (från rustning, täckning, etc.) minskar den totala KP-skadan:
 
-**Slutlig skada = (KP-skada + Basskada) − Skydd** (minst 0)
+**Slutlig skada = (KP-skada + Skada) − Skydd** (minst 0)
 
 Skydd hindrar först icke-kritiska träffar och först när alla de har blivit absorberade hindras eventuella kritiska träffar.
 
-## 5. Kritiska träffar
+## 4. Kritiska träffar
 
 Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 1T12 och lägg till modifierare för att bestämma effekten på lämplig kritisk träff-tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
 
-**Modiferare till slaget:**
+**Modifierare till slaget:**
 
 - **+1 per ytterligare 12:a** på skadetärningarna
-- **Basskada** (+1 beväpnad, +2 tungt beväpnad)
-- **Målets kritiska tålighet** (om något, endast för stora/tåliga varelser)
+- **Skada:** +vapnets **Skada**-värde (vapen med egenskapen **Penetrerande** lägger istället till **dubbla Skada**)
+- **Målets kritiska tålighet:** −X (endast för stora eller väldigt tåliga varelser)
 
 Om *flera* skadetärningar visar 12: slå **en gång** och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.
 
@@ -120,11 +102,11 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 
 ## Exempel
 
-> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skadetärningar +4** och skadetyp **Småkaliber**.
-> Antons träffslag ger **2 framgångar**. Han slår alltså **2 + 4 = 6 skadetärningar**.
-> Han rullar 6T12: **3, 7, 10, 10, 11, 12**. Fyra tärningar visar 10+, alltså **4 KP skada**. Pistolen är **beväpnad**, så **1 KP basskada** läggs till – totalt **5 KP**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada blir **5 − 1 = 4 KP**.
-> Vakten (Fysik 2, Tålighet 2) har nu tagit 4 KP skada och är Sårad (tröskeln är > 2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
-> Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 och får en 7. Med basskada +1 (beväpnad) blir totalen **8**. Han slår på tabellen för **Småkalibriga eldvapen** och får effekt 8: *Genomskjuten axel*.
+> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 1** och skadetyp **Skjutvapen**.
+> Antons attackslag ger **3 framgångar**. Han rullar alltså **3 skadetärningar** (T12).
+> Han rullar 3T12: **10, 11, 12**. Alla tre visar 10+, alltså **3 KP skada**. Pistolens **Skada 1** läggs till – totalt **4 KP**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada blir **4 − 1 = 3 KP**.
+> Vakten (Fysik 2, Tålighet 2) har nu tagit 3 KP skada och är Sårad (tröskeln är > 2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
+> Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 och får en 7. Med Skada +1 (pistol) blir totalen **8**. Han slår på tabellen för **Skjutvapen** och får effekt 8: *Genomskjuten axel*.
 
 ## Effekter av skada
 
@@ -213,13 +195,12 @@ Se [[Läkning & vård]] för mer information.
 
 ## Sammanfattning
 
-1. **Träff?** Räkna framgångar.
-2. **Skadetärningar** = Träffframgångar + Skadebonus (+ egenskaper).
-3. **Rulla** skadetärningar: 10–11 = 1 KP, 12 = 1 KP + kritisk träff.
-4. **Lägg till basskada:** +1 KP (beväpnad) eller +2 KP (tungt beväpnad).
-5. **Dra av Skydd** från totalen (vanlig skada först, sedan kritiska).
-6. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
-7. **Kritisk träff?** Slå på rätt tabell (basskada adderas till kritisk träff-slag).
+1. **Träff?** Räkna framgångar på attackslaget.
+2. **Rulla skadetärningar:** Lika många T12 som framgångar. 10–11 = 1 KP, 12 = 1 KP + kritisk träff.
+3. **Lägg till Skada:** Vapnets Skada-värde adderas som KP.
+4. **Dra av Skydd** från totalen (vanlig skada först, sedan kritiska).
+5. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
+6. **Kritisk träff?** Slå på rätt tabell (Skada adderas till kritisk träff-slag, dubbelt med Penetrerande).
 
 ### Läkning
 
@@ -227,7 +208,7 @@ Se kapitlet [[Läkning & vård]].
 
 ### Kritiska träffar
 
-Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, Stick, Hugg, Eld, Småkaliber, Högkaliber, Explosion, Gift, Blödning, Övriga).
+Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, Stick, Hugg, Eld, Skjutvapen, Explosion, Gift, Blödning, Strålning, Övriga).
 
 ## Särskilda situationer
 
