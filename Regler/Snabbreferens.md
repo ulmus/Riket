@@ -21,7 +21,7 @@
 - **Din tur:** 1 huvudhandling + 1 bihandling + 1 reaktion
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
 - **Försvar (reaktion):** Smidighet + Strid, dra av framgångar från attackens
-- **Skada:** 1 per framgång + vapnets skadebonus + basskada (+1 beväpnad, +2 tungt beväpnad); dra av Skydd
+- **Skada:** Varje framgång ger 1 skadetärning (T12; 10+ = 1 KP, 12 = kritisk träff); lägg till vapnets Skada och dra av Skydd
 - **Kritiskt sår**: 12:a på skadeslag innebär slag på tabell för Kritiskt sår.
 
 ## Skador
@@ -31,7 +31,7 @@
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad
 - **Död** (> 4 × Tålighet KP): Död
-- **Basskada:** Beväpnad +1 KP, tungt beväpnad +2 KP (adderas före Skydd och till kritiska träff-slag)
+- **Skada:** Vapnets Skada adderas som KP (före Skydd) och till kritiska träff-slag (dubbelt med Penetrerande)
 - **Kritiska sår**: Enligt effekt
 
 ## Stress och Sammanbrott

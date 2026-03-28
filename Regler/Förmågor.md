@@ -24,7 +24,7 @@ Om du blir attackerad, parerar och får minst en framgång på ditt försvar så
 #### Slagsmål
 
 *Krav:* Fysik 2, Strid 2
-Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Dina obeväpnade attacker räknas som **beväpnade** (1 KP basskada).
+Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Dina obeväpnade attacker har **Skada 1** istället för 0.
 
 #### Jujutsu
 
@@ -44,12 +44,12 @@ Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att kop
 #### Uppercut
 
 *Krav:* Slagsmål
-Dina obeväpnade attacker får +1 skadetärning.
+Dina obeväpnade attacker får +1 extra tärning på skadeslaget.
 
 ### Överraskningsattack
 
 *Krav:* Smidighet 3, Strid 2
-När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 skadetärningar och +1 på kritiska träffar.
+När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 extra tärningar på skadeslaget och +1 på kritiska träffar.
 
 ## Eldstrid
 
@@ -248,7 +248,7 @@ När du skulle missa en avståndsattack kan du spendera 1 Stress för att slå o
 Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt:
 
 - +2 på alla närstridsattacker
-- +2 skadetärningar i närstrid
+- +2 extra tärningar på skadeslaget i närstrid
 - Du kan inte använda Fokus
 - Du måste attackera närmaste fiende
 

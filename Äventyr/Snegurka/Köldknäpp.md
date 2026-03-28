@@ -635,7 +635,7 @@ Soldat med order, inte monster. Respekterar fiender, undviker onödig brutalitet
 
 **Utrustning:**
 
-- **Stechkin APS (automatpistol):** Räckvidd 30 m, skadetärningar +4, skadetyp Småkaliber, Automateld. Ammunition ❏❏❏
+- **Stechkin APS (automatpistol):** Räckvidd 30 m, Skada 1, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏
 - **Bedövningspilpistol:** Räckvidd 15 m, se [[Särskilda situationer#Sömnmedel]]. Sömnmedel: tiopental. Ammunition ❏❏
 - Kniv, radio, rökgranat ×2
 
@@ -660,8 +660,8 @@ Civilklädda operatörer, 25–30 år, militär hållning. Talar inte svenska.
 
 **Utrustning (per soldat):**
 
-- **AK-47 (gömd i resväska):** Räckvidd 60 m, skadetärningar +5, skadetyp Storkaliber, Automateld. Ammunition ❏❏❏
-- **Makarov PM:** Räckvidd 25 m, skadetärningar +4, skadetyp Småkaliber. Ammunition ❏❏
+- **AK-47 (gömd i resväska):** Räckvidd 60 m, Skada 2, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏
+- **Makarov PM:** Räckvidd 25 m, Skada 1, skadetyp Skjutvapen. Ammunition ❏❏
 - Kniv, radio
 
 #### Polaris (valfri Zvezda-agent)
