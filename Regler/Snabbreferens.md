@@ -31,7 +31,7 @@
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad
 - **Död** (> 4 × Tålighet KP): Död
-- **Skada:** Vapnets Skada-värde adderas som KP (före Skydd) och till kritiska träff-slag (dubbelt med Penetrerande)
+- **Skada:** Vapnets Skada adderas som KP (före Skydd) och till kritiska träff-slag (dubbelt med Penetrerande)
 - **Kritiska sår**: Enligt effekt
 
 ## Stress och Sammanbrott

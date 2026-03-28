@@ -76,7 +76,7 @@ Vissa vapenegenskaper (t.ex. **Automateld**) ger extra tärningar på attackslag
 
 ## 2. Lägg till Skada
 
-Varje vapen har ett **Skada**-värde som anger den garanterade KP-skadan vid en lyckad träff. **Skada** läggs till KP-skadan från skadetärningarna. Typiska värden är **0** för obeväpnade attacker och **1–4** för beväpnade attacker – se [[Vapen]] för varje vapens Skada-värde.
+Varje vapen har ett värde för **Skada** som anger den garanterade KP-skadan vid en lyckad träff. **Skada** läggs till KP-skadan från skadetärningarna. Typiska värden är **0** för obeväpnade attacker och **1–4** för beväpnade attacker – se [[Vapen]] för varje vapens Skada.
 
 ## 3. Applicera skydd
 
@@ -93,7 +93,7 @@ Om minst en skadetärning visar **12** har du fått en **kritisk träff**. Slå 
 **Modifierare till slaget:**
 
 - **+1 per ytterligare 12:a** på skadetärningarna
-- **Skada:** +vapnets **Skada**-värde (vapen med egenskapen **Penetrerande** lägger istället till **dubbla Skada**)
+- **Skada:** +vapnets värde för **Skada** (vapen med egenskapen **Penetrerande** lägger istället till **dubbla Skada**)
 - **Målets kritiska tålighet:** −X (endast för stora eller väldigt tåliga varelser)
 
 Om *flera* skadetärningar visar 12: slå **en gång** och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.
