@@ -167,3 +167,167 @@ SL bör ge utrymme för rollpersonerna att uttrycka hur de känner inför uppdra
 #### Elisabeths öde
 
 Om rollpersonerna frågar om Elisabeth Richter: hon avled i cancer under hösten 1962. Richter tog det tungt men visar det inte. Det kan vara ett sätt att mjuka upp honom — eller provocera honom.
+
+---
+
+## Akt I — Wien
+
+Plats: Wien, Österrike
+Tid: Januari–februari 1963
+Sessioner: 3–5
+
+### Översikt
+
+Wien 1963 är en stad med dubbelnaturer. På ytan: den eleganta kejserliga huvudstaden med kafékulturen, operan och den nyvunna neutraliteten. Under ytan: Europas mest aktiva spionhub, där öst möter väst i en oändlig karusell av dubbelagenter, avhoppare och hemliga transaktioner. Den fyrdelade ockupationen är över sedan 1955, men vanorna lever kvar. Alla underrättelsetjänster har fortfarande stationer här. Wien är en stad där alla bevakar alla.
+
+Rollpersonernas mål i Wien är att spåra advokaten **Leopold Braun** och genom honom lokalisera den första cachen av Mengeles arkiv. Men de är inte ensamma — CIA har redan agenter på plats, och KGB:s Wienstation har aktiverats.
+
+### Ankomst
+
+Rollpersonerna flyger med SAS från Bromma till Wien via Köpenhamn. Flygplanet landar på **Flughafen Wien-Schwechat** en kall eftermiddag. Landskapet utanför flygplatsen är grått och platt — vinterns grepp om den österrikiska slättmarken.
+
+T-kontoret har arrangerat boende på **Hotel König von Ungarn**, ett diskret men välbeläget hotell i Innere Stadt, nära Stephansdom. Hotellet är populärt bland diplomater och affärsresande — tillräckligt anonymt för att inte väcka uppmärksamhet.
+
+Deras kontaktperson i Wien är **Gustav Falk**, T-kontorets enda fasta tillgång i Österrike. Falk möter dem på hotellet samma kväll.
+
+### Gustav Falk — kontaktpersonen
+
+*Se [[SLP Dr Mengeles Arkiv#Gustav Falk (Sverige/Österrike)]].*
+
+Falk väntar i hotellbaren med en kopp melange och en österrikisk tidning. Han är en medelålders man med runda glasögon och ett vänligt men vaksamt ansikte. Han ser ut som en bibliotekarier — vilket är exakt hans täckidentitet. Falk driver en antikvarisk bokhandel i Josefstadt och har bott i Wien sedan 1949.
+
+*"Välkomna till Wien. Drömmarnas stad, som man säger. Och spionarnas, som man inte säger."*
+
+Falk orienterar rollpersonerna:
+
+- **Leopold Braun** lever och praktiserar fortfarande — han har en advokatbyrå på **Wipplingerstrasse** i Innere Stadt, nära den gamla börsen
+- Braun är känd i Wiens juridiska kretsar som en diskret och dyr advokat med specialitet i förmögenhetsrätt och internationell bankjuridik
+- Han har aldrig åtalats för ODESSA-kopplingar men har figurerat i österrikisk säkerhetstjänsts akter sedan 1947
+- Braun har ett socialt umgänge som inkluderar gamla Wienburgherre, pensionerade diplomater och ett fåtal misstänkta ex-nazister som lever öppet under nya identiteter
+
+*"Braun är inte dum. Han har levt i fjorton år med sitt förflutna utan att fällas. Han kommer inte att prata frivilligt. Och han har mäktiga vänner — även i den österrikiska polisen."*
+
+Falk varnar också:
+
+- CIA:s Wienstation ligger på **amerikanska ambassaden** vid Boltzmanngasse — de har minst trettio agenter i staden
+- KGB opererar från **sovjetiska ambassaden** vid Reisnerstrasse — deras verksamhet i Wien har ökat markant den senaste veckan
+- Mossad har historiskt varit aktiva i Wien — det var här de fångade Adolf Eichmann (delvis, ledtrådarna kom härifrån)
+- Den österrikiska säkerhetstjänsten **Staatspolizei** övervakar alla utländska underrättelsetjänster men har begränsade resurser
+
+### Spåra Leopold Braun
+
+Rollpersonerna måste närma sig Braun försiktigt. Flera tillvägagångssätt är möjliga:
+
+#### Spaning
+
+Rollpersonerna kan övervaka Brauns byrå och bostad i några dagar. Hans rutin är förutsägbar: byrån på förmiddagen, lunch på **Café Central** (Herrengasse), eftermiddagspromenader, och kvällarna hemma eller på operan.
+
+*Sinnen + Analys* under en dags spaning avslöjar:
+
+- *1 framgång:* Braun tar emot klienter på byrån — mestadels förmögna österrikare. Han har en sekreterare, **Frau Gertrud Hagen**, som sköter all bokning.
+- *2 framgångar:* Braun har ett kassaskåp på byrån — ett gammalt Wertheim-skåp, troligen från mellankrigsåren. Han öppnar det minst en gång per dag.
+- *3+ framgångar:* En man i mörk rock besöker Braun varje onsdag eftermiddag. Mötet varar exakt trettio minuter. Mannen anländer och lämnar till fots, alltid via en annan väg. Detta är **Werner Holt**, Brauns ODESSA-kontakt.
+
+#### Social infiltration
+
+Braun rör sig i Wiens övre borgerliga kretsar. Rollpersonerna kan försöka komma i kontakt med honom via sociala evenemang — en konstauktion, en konsert på Musikverein, en middag hos gemensamma bekanta.
+
+*Samspel + List* för att få en inbjudan till rätt evenemang. Vid framgång kan rollpersonerna hamna vid samma bord som Braun under en middag och inleda en konversation under naturliga former.
+
+Braun är en charmig och kultiverad man som gärna talar om konst, musik och wiensk historia. Han undviker aktivt alla ämnen som rör kriget eller politik.
+
+#### Direkt kontakt
+
+Rollpersonerna kan uppsöka Brauns byrå under förevändning — ett juridiskt ärende, en fråga om förmögenhetsförvaltning, en arvsutredning. Braun tar emot nya klienter men är misstänksam mot okända besökare.
+
+*Samspel + List* för att upprätthålla en trovärdig täckhistoria. Om Braun misstänker att besökarna inte är vad de utger sig för avbryter han mötet artigt men bestämt och kontaktar sina beskyddare.
+
+#### Inbrott
+
+Om rollpersonerna väljer att bryta sig in på Brauns byrå nattetid krävs först spaning för att kartlägga säkerheten. Byrån har ett enkelt larmsystem (det är 1963, inte Fort Knox) och Wertheim-kassaskåpet kräver *Smidighet + List* (**Svårt**) för att öppna.
+
+I kassaskåpet finns:
+
+- Klientakter med kodade namn
+- Ett kuvert med schweiziska bankuppgifter
+- En gammal adressbok med namn och adresser i Istanbul, Kairo och Buenos Aires — skrivna i en annan handstil än Brauns. Detta är **Kesslers ursprungliga kontaktlista**, det mest värdefulla fyndet i Wien.
+
+### Komplikationer i Wien
+
+#### CIA — Agent Dale Whitfield
+
+CIA:s Wienstation har skickat **Dale Whitfield**, en erfaren fältoperatör, för att säkra arkivet. Whitfield arbetar under täckmantel som amerikansk handelsattaché och har två agenter till sitt förfogande.
+
+Whitfield är metodisk och tålmodig. Han har inte samma ledtråd som rollpersonerna (han vet inte om Braun) men han övervakar alla kända ODESSA-kopplingar i Wien. Om rollpersonerna agerar öppet kring Braun kommer Whitfield att märka dem och börja följa dem.
+
+**Whitfields metod:** Han försöker först identifiera rollpersonerna och deras mål. Sedan erbjuder han samarbete — precis som Donnelly i Berlin. *"Vi vill samma sak. Varför inte dela på bördan?"* Men till skillnad från Donnelly är Whitfield inte en bedragare — han menar sitt erbjudande, men CIA:s villkor är att USA får en fullständig kopia av allt material.
+
+Om rollpersonerna avvisar samarbete övergår Whitfield till övervakning och försöker komma före dem till cachen.
+
+#### KGB — Kapten Arkadij Volkov
+
+KGB:s Wienstation har aktiverat **Arkadij Volkov**, en ung men ambitiös officer som fått order att säkra arkivet till varje pris. Volkov har en liten operativ grupp — tre agenter plus en Zvezda-operatör som kan kallas in vid behov.
+
+Volkov vet om Braun — Morozova delade Mengeles dödsbäddsuppgifter med KGB:s ledning, och de har redan identifierat advokaten. Volkov planerar att kidnappa Braun och förhöra honom. Om rollpersonerna inte agerar snabbt nog kommer de att upptäcka att Braun plötsligt "försvunnit".
+
+**Tidsfönster:** Volkov planerar att slå till under rollpersonernas tredje dag i Wien. Om rollpersonerna redan fått det de behöver spelar det mindre roll. Om inte skapas en brådskande situation.
+
+#### ODESSA — Werner Holt
+
+**Werner Holt** är Brauns ODESSA-kontakt och fungerar som ett skyddslager. Holt är en före detta SS-Untersturmführer som lever som affärsman i Wien. Han är i femtioårsåldern, välklädd och med hårda ögon bakom ett jovialiskt leende.
+
+Om Braun känner sig hotad — av rollpersonerna, CIA eller KGB — kontaktar han Holt. Holt har tillgång till ett litet nätverk av gamla SS-kamrater som fungerar som muskler. De är äldre men fortfarande farliga och desperata.
+
+Holts första reaktion är att flytta eller förstöra materialet som Braun bevakar. Hans andra reaktion är våld.
+
+### Cachen i Wien
+
+Det Braun bevakar är inte själva arkivdokumenten utan en **nyckel** — uppgifter om var de riktiga dokumenten finns och hur man når dem. Specifikt:
+
+- **Kesslers kontaktlista:** Namn och adresser i Istanbul, Kairo och Buenos Aires
+- **En kodbok:** Ett litet häfte med chiffer som behövs för att dekryptera markeringar på de övriga cacherna
+- **Ett brev från Kessler till Braun**, daterat 1946, som beskriver överenskommelsen — Braun fick betalt i guld för att förvara materialet och skicka det vidare om Kessler dog
+
+Braun har inte själv läst materialet i detalj — han vet att det är värdefullt men inte exakt vad det innehåller. Han har behandlat det som en juridisk deposition: förvara, skydda, inte fråga.
+
+### Möjliga utgångar
+
+#### Rollpersonerna lyckas
+
+De får tag i Kesslers kontaktlista och kodboken — antingen genom Braun direkt, genom inbrott, eller genom att avlyssna Brauns kommunikation med Holt. Med denna information kan de planera nästa steg: Istanbul.
+
+Brauns öde varierar — han kan förbli omedveten om att materialet kopierats, han kan gripas av KGB, eller han kan fly med Holts hjälp.
+
+#### KGB hinner före
+
+Volkov kidnappar Braun och förhör honom. KGB får kontaktlistan men inte kodboken (den låg gömd separat, och Braun vet inte var den hamnade). Rollpersonerna måste sedan hantera situationen — rädda Braun, stjäla informationen från KGB, eller acceptera att Sovjet har ett försprång.
+
+#### Konfrontation
+
+Om rollpersonerna, CIA och KGB alla konvergerar på Braun samtidigt — vilket är fullt möjligt — uppstår en kaotisk situation. En trevägskonfrontation i Wiens gränder, med ODESSA:s män som vilda kort, kan bli aktens klimax.
+
+### SL-anteckningar till Akt I
+
+#### Ton och atmosfär
+
+Wien bör kännas som *Den tredje mannen*: vackert men förfallet, elegant men korrupt. Långa skuggor på kullerstensgator. Kaffehusen där alla lyssnar och ingen talar öppet. Stråkmusik som hörs från öppna fönster medan agenter skuggar varandra genom gränder.
+
+Kontrasten mot Stockholms funktionalistiska saklighet bör vara påtaglig — Wien är en stad med lager av historia och hemligheter.
+
+#### Tempo
+
+Akt I bör börja långsamt med spaning och socialt arbete, sedan accelerera när tidsfristen för Volkovs ingripande närmar sig. Den första sessionen i Wien kan vara nästan helt social — spaningar, kafébesök, planering. Den andra sessionen ökar tempot. Den tredje sessionen bör innehålla aktens klimax.
+
+#### Moraliska frågor
+
+Braun är inte en monster — han är en opportunist som hjälpte nazister fly för pengar. Men han är heller ingen oskyldig. Rollpersonerna kan behöva bestämma vad som händer med honom. Lämnar de honom till KGB? Varnar de honom? Ignorerar de hans öde?
+
+#### Richter som resurs
+
+Inför Wien kan rollpersonerna konsultera Richter. Han "minns" nu att Braun hade en svaghet för ungt sällskap och dyra viner — information som kan vara användbar socialt. Han antyder också att Braun inte var den enda ODESSA-kontakten i Wien, men vägrar ge mer detaljer förrän rollpersonerna "visat sig dugliga."
+
+#### Övergång till Akt II
+
+Kesslers kontaktlista pekar mot Istanbul som nästa destination — ett namn, en adress i Beyoğlu-distriktet, och en kort anteckning: "Hamam. Fråga efter Mehmet." Med kodboken kan rollpersonerna avkoda ytterligare detaljer — eller så måste de arbeta utan den om den förlorades.
+
+Hedström drar tillbaka rollpersonerna till Stockholm för en kort debriefing — eller skickar dem direkt till Istanbul om situationen är brådskande. Det beror på hur Wien slutade.
