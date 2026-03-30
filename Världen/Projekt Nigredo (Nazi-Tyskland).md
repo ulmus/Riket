@@ -10,6 +10,8 @@ Projekt Nigredo var det första organiserade försöket att skapa mänskliga var
 
 **SS-Hauptsturmführer Dr. Josef Mengele** – "Dödens ängel", ansvarig för medicinska experiment i Auschwitz. Mengele såg i Projekt Nigredo en möjlighet att bevisa sina teorier om rashygien och överlägsna människors skapande. Hans metoder var så brutala att även andra SS-officerare reagerade med vämjelse.
 
+**Dr. Karin Magnussen** – Rasbiologisk forskare som bland annat piblicerat den nazistiska rasundervisningsmanualen "Ras- och befolkningspolitisk utrustning". Arbetade tillsammans med Dr. Mengele i Auschwitz.
+
 **Erich Neumann** – Judisk psykolog och lärjunge till Carl Gustav Jung, fånge i Auschwitz. Det var Neumanns teoretiska ramverk om det jungianska skuggkomplexet som gav Nigredo dess grund. Under extremt tvång utformade han hypotesen att extrem trauma kunde tvinga psyket att manifestera sitt "skuggjag" i fysisk form. Han överlevde inte krigets slut.
 
 **Dr. Hans Richter** – Mengeles främste assistent, genetiker med bakgrund från Kaiser Wilhelm-institutet. Yngre och mindre ideologiskt driven än Mengele, men lika hänsynslös i sin vetenskapliga metod. Richter förde detaljerade anteckningar som senare skulle bli grunden för andra nationers program.
@@ -38,10 +40,10 @@ Teorin bekräftades på ett förskräckande sätt. Ett fåtal fångar – kanske
 
 ## Efterspel och arv
 
-När Röda armén närmade sig Auschwitz i januari 1945 evakuerades Projekt Nigredo hastigt. Mengele och flera assistenter försökte fly västerut men Mengele greps av sovjeterna. Richter lyckades ta sig till Östberlin med sin "skapelse" Golem. Hedström nådde Sverige.
+När Röda armén närmade sig Auschwitz i januari 1945 evakuerades Projekt Nigredo hastigt. Mengele och flera assistenter försökte fly västerut men flera av dem greps av sovjeterna. Richter lyckades ta sig till Östberlin med sin "skapelse" Golem. Hedström nådde Sverige. Dr Mengele gick under jorden och flydde sedan via ODESSA-nätverket.
 
 Dokumentationen från Nigredo spreds till flera håll:
-- Mengele tog med sig sina viktigaste anteckningar till Sovjetunionen
+- Magnussen blev tagen till Sovjetunionen
 - Richter bevarade kopior som blev grunden för Östtysklands Projekt Nebelkrone
 - Hedström smugglade ut en ofullständig version som blev basen för Program Frigg
 - Fragmentariska dokument hamnade i amerikanska händer via Operation Paperclip

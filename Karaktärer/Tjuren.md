@@ -19,7 +19,7 @@ cssclasses:
 
 **Expertis:** Officer
 
-![[Bilder/Tjuren.png]]
+![[Bilder/Tjuren.png|697]]
 
 ## Språk
 

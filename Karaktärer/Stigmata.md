@@ -18,7 +18,7 @@ cssclasses:
 
 **Expertis:** Läkare
 
-![[Bilder/Stigmata.png]]
+![[Bilder/Stigmata.png|697]]
 
 ## Språk
 
