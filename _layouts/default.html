@@ -42,43 +42,6 @@
   </footer>
 
   <script>
-    // Convert Obsidian wikilinks [[Page Name]] and [[Page Name|Display Text]] to HTML links
-    (function() {
-      var baseUrl = '{{ "/" | relative_url }}';
-      var article = document.querySelector('article');
-      if (!article) return;
-
-      var walker = document.createTreeWalker(article, NodeFilter.SHOW_TEXT, null, false);
-      var textNodes = [];
-      while (walker.nextNode()) textNodes.push(walker.currentNode);
-
-      textNodes.forEach(function(node) {
-        if (!node.nodeValue.match(/\[\[/)) return;
-        // Skip nodes inside code/pre
-        var parent = node.parentNode;
-        if (parent.tagName === 'CODE' || parent.tagName === 'PRE') return;
-
-        var html = node.nodeValue.replace(
-          /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
-          function(match, target, display) {
-            var text = display || target;
-            // Remove section anchors for the link path
-            var path = target.split('#')[0];
-            var anchor = target.includes('#') ? '#' + target.split('#').slice(1).join('#').toLowerCase().replace(/\s+/g, '-').replace(/[^\w\-åäöÅÄÖ]/g, '') : '';
-            // Encode the path for URL
-            var href = baseUrl + encodeURIComponent(path).replace(/%2F/g, '/') + anchor;
-            return '<a href="' + href + '">' + text + '</a>';
-          }
-        );
-
-        if (html !== node.nodeValue) {
-          var span = document.createElement('span');
-          span.innerHTML = html;
-          parent.replaceChild(span, node);
-        }
-      });
-    })();
-
     // Mobile nav toggle
     (function() {
       var btn = document.querySelector('.nav-toggle');
