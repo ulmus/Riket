@@ -13,63 +13,63 @@ title: I Rikets Tjänst
 <div class="toc-section">
 <h3>Grunderna</h3>
 <ul>
-<li><a href="Introduktion">Introduktion</a></li>
-<li><a href="Terminologi">Terminologi</a></li>
+<li><a href="{{ 'Introduktion' | relative_url }}">Introduktion</a></li>
+<li><a href="{{ 'Terminologi' | relative_url }}">Terminologi</a></li>
 </ul>
 </div>
 
 <div class="toc-section">
 <h3>Regler</h3>
 <ul>
-<li><a href="Regler/Grundregler">Grundregler</a></li>
-<li><a href="Regler/Skapa%20och%20utveckla%20en%20rollperson">Skapa och utveckla en rollperson</a></li>
-<li><a href="Regler/Expertiser">Expertiser</a></li>
-<li><a href="Regler/F%C3%B6rm%C3%A5gor">Förmågor</a></li>
-<li><a href="Regler/Krafter">Krafter</a></li>
-<li><a href="Regler/Trauma,%20skr%C3%A4ck%20och%20stress">Trauma, skräck och stress</a></li>
-<li><a href="Regler/Aktiviteter">Aktiviteter</a></li>
-<li><a href="Regler/Strid%20och%20skada">Strid och skada</a></li>
-<li><a href="Regler/Vapen">Vapen</a></li>
-<li><a href="Regler/Kritiska%20tr%C3%A4ffar">Kritiska träffar</a></li>
-<li><a href="Regler/L%C3%A4kning%20%26%20v%C3%A5rd">Läkning & vård</a></li>
-<li><a href="Regler/S%C3%A4rskilda%20situationer">Särskilda situationer</a></li>
-<li><a href="Regler/Snabbreferens">Snabbreferens</a></li>
-<li><a href="Regler/Snabbreferens%20-%20F%C3%B6rm%C3%A5gor">Snabbreferens – Förmågor</a></li>
+<li><a href="{{ 'Regler/Grundregler' | relative_url }}">Grundregler</a></li>
+<li><a href="{{ 'Regler/Skapa och utveckla en rollperson' | relative_url }}">Skapa och utveckla en rollperson</a></li>
+<li><a href="{{ 'Regler/Expertiser' | relative_url }}">Expertiser</a></li>
+<li><a href="{{ 'Regler/Förmågor' | relative_url }}">Förmågor</a></li>
+<li><a href="{{ 'Regler/Krafter' | relative_url }}">Krafter</a></li>
+<li><a href="{{ 'Regler/Trauma, skräck och stress' | relative_url }}">Trauma, skräck och stress</a></li>
+<li><a href="{{ 'Regler/Aktiviteter' | relative_url }}">Aktiviteter</a></li>
+<li><a href="{{ 'Regler/Strid och skada' | relative_url }}">Strid och skada</a></li>
+<li><a href="{{ 'Regler/Vapen' | relative_url }}">Vapen</a></li>
+<li><a href="{{ 'Regler/Kritiska träffar' | relative_url }}">Kritiska träffar</a></li>
+<li><a href="{{ 'Regler/Läkning & vård' | relative_url }}">Läkning &amp; vård</a></li>
+<li><a href="{{ 'Regler/Särskilda situationer' | relative_url }}">Särskilda situationer</a></li>
+<li><a href="{{ 'Regler/Snabbreferens' | relative_url }}">Snabbreferens</a></li>
+<li><a href="{{ 'Regler/Snabbreferens - Förmågor' | relative_url }}">Snabbreferens – Förmågor</a></li>
 </ul>
 </div>
 
 <div class="toc-section">
 <h3>Världen</h3>
 <ul>
-<li><a href="V%C3%A4rlden/Bakgrund">Bakgrund</a></li>
-<li><a href="V%C3%A4rlden/Program%20Frigg%20(Sverige)">Program Frigg (Sverige)</a></li>
-<li><a href="V%C3%A4rlden/Projekt%20Nigredo%20(Nazi-Tyskland)">Projekt Nigredo (Nazi-Tyskland)</a></li>
-<li><a href="V%C3%A4rlden/Projekt%20Nebelkrone%20(%C3%96sttyskland)">Projekt Nebelkrone (Östtyskland)</a></li>
-<li><a href="V%C3%A4rlden/Sotsializma%20Pervye%20Zvezdy%20(Socialismens%20F%C3%B6rsta%20Stj%C3%A4rnor,%20Sovjetunionen)">Zvezda (Sovjetunionen)</a></li>
-<li><a href="V%C3%A4rlden/Project%20Phoenix%20(USA)">Project Phoenix (USA)</a></li>
-<li><a href="V%C3%A4rlden/Operation%20Grendel%20(Storbritannien)">Operation Grendel (Storbritannien)</a></li>
-<li><a href="V%C3%A4rlden/Projet%20Chim%C3%A8re%20(Frankrike)">Projet Chimère (Frankrike)</a></li>
+<li><a href="{{ 'Världen/Bakgrund' | relative_url }}">Bakgrund</a></li>
+<li><a href="{{ 'Världen/Program Frigg (Sverige)' | relative_url }}">Program Frigg (Sverige)</a></li>
+<li><a href="{{ 'Världen/Projekt Nigredo (Nazi-Tyskland)' | relative_url }}">Projekt Nigredo (Nazi-Tyskland)</a></li>
+<li><a href="{{ 'Världen/Projekt Nebelkrone (Östtyskland)' | relative_url }}">Projekt Nebelkrone (Östtyskland)</a></li>
+<li><a href="{{ 'Världen/Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovjetunionen)' | relative_url }}">Zvezda (Sovjetunionen)</a></li>
+<li><a href="{{ 'Världen/Project Phoenix (USA)' | relative_url }}">Project Phoenix (USA)</a></li>
+<li><a href="{{ 'Världen/Operation Grendel (Storbritannien)' | relative_url }}">Operation Grendel (Storbritannien)</a></li>
+<li><a href="{{ 'Världen/Projet Chimère (Frankrike)' | relative_url }}">Projet Chimère (Frankrike)</a></li>
 </ul>
 </div>
 
 <div class="toc-section">
 <h3>Rollpersoner</h3>
 <ul>
-<li><a href="Karakt%C3%A4rer/Martin%20Weber">Martin Weber</a></li>
-<li><a href="Karakt%C3%A4rer/Prisma">Prisma</a></li>
-<li><a href="Karakt%C3%A4rer/Radar">Radar</a></li>
-<li><a href="Karakt%C3%A4rer/Silke">Silke</a></li>
-<li><a href="Karakt%C3%A4rer/Stigmata">Stigmata</a></li>
-<li><a href="Karakt%C3%A4rer/Tjuren">Tjuren</a></li>
+<li><a href="{{ 'Karaktärer/Martin Weber' | relative_url }}">Martin Weber</a></li>
+<li><a href="{{ 'Karaktärer/Prisma' | relative_url }}">Prisma</a></li>
+<li><a href="{{ 'Karaktärer/Radar' | relative_url }}">Radar</a></li>
+<li><a href="{{ 'Karaktärer/Silke' | relative_url }}">Silke</a></li>
+<li><a href="{{ 'Karaktärer/Stigmata' | relative_url }}">Stigmata</a></li>
+<li><a href="{{ 'Karaktärer/Tjuren' | relative_url }}">Tjuren</a></li>
 </ul>
 </div>
 
 <div class="toc-section">
 <h3>Äventyr</h3>
 <ul>
-<li><a href="%C3%84ventyr/Snegurka/SLP">Snegurka</a></li>
-<li><a href="%C3%84ventyr/Extraktionen/Extraktionen">Extraktionen</a></li>
-<li><a href="%C3%84ventyr/D%C3%B6ds%C3%A4ngelns%20Evangelium/DE%20-%20Kampanj%C3%B6versikt">Dödsängelns Evangelium</a></li>
+<li><a href="{{ 'Äventyr/Snegurka/SLP' | relative_url }}">Snegurka</a></li>
+<li><a href="{{ 'Äventyr/Extraktionen/Extraktionen' | relative_url }}">Extraktionen</a></li>
+<li><a href="{{ 'Äventyr/Dödsängelns Evangelium/DE - Kampanjöversikt' | relative_url }}">Dödsängelns Evangelium</a></li>
 </ul>
 </div>
 

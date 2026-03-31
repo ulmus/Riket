@@ -3,6 +3,8 @@ description: Ett taktiskt superhjälte-rollspel under kalla kriget
 baseurl: "/Riket"
 url: ""
 
+permalink: pretty
+
 markdown: kramdown
 kramdown:
   input: GFM
@@ -39,7 +41,6 @@ exclude:
   - Assets/*.pxd
   - "*.pxd"
   - .markdownlint.json
-  - .github/
   - .claude/
   - .obsidian/
   - Gemfile

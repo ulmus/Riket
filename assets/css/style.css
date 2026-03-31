@@ -43,6 +43,7 @@ body {
 .site-logo img {
   height: 36px;
   width: auto;
+  max-width: 100%;
   display: block;
 }
 
@@ -391,6 +392,21 @@ hr {
 
   .nav-toggle {
     display: block;
+  }
+
+  .header-inner {
+    flex-wrap: wrap;
+  }
+
+  .site-logo {
+    min-width: 0;
+    flex-shrink: 1;
+  }
+
+  .site-logo img {
+    height: auto;
+    max-height: 36px;
+    max-width: min(60vw, 280px);
   }
 
   article img[src*="Bilder/"],
