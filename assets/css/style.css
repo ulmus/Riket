@@ -41,9 +41,9 @@ body {
 }
 
 .site-logo img {
-  height: 36px;
-  width: auto;
-  max-width: 100%;
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
   display: block;
 }
 
@@ -155,6 +155,14 @@ a {
 
 a:hover {
   color: #c5a44e;
+}
+
+a > img {
+  text-decoration: none;
+}
+
+a:has(> img) {
+  text-decoration: none;
 }
 
 /* ---- Lists ---- */
@@ -404,9 +412,8 @@ hr {
   }
 
   .site-logo img {
-    height: auto;
-    max-height: 36px;
-    max-width: min(60vw, 280px);
+    height: 36px;
+    width: 36px;
   }
 
   article img[src*="Bilder/"],

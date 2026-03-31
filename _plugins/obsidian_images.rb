@@ -87,7 +87,7 @@ module Jekyll
       alt = File.basename(filename, ext)
       width_attr = width ? " width=\"#{width}\"" : ""
 
-      "<img src=\"#{url}\" alt=\"#{alt}\"#{width_attr}>"
+      "<a href=\"#{url}\"><img src=\"#{url}\" alt=\"#{alt}\"#{width_attr}></a>"
     end
 
     def resolve_image(filename, page)

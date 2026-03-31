@@ -2,8 +2,6 @@
 title: I Rikets Tjänst
 ---
 
-<div class="title-rule"></div>
-
 <p class="intro">
 <strong>I Rikets Tjänst</strong> är ett taktiskt superhjälte-rollspel satt under kalla kriget. Hemliga agenter med övermänskliga krafter, födda ur djupa trauman, tjänar det neutrala Sverige i en värld av spionage, sabotage och skuggkonflikter. Som <em>Legion of Super-Heroes</em> om John Le Carré hade skrivit manus.
 </p>
