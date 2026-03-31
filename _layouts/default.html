@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} – {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="192x192" href="{{ '/favicon-192x192.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-logo">
+        <img src="{{ '/Assets/Page Header small.png' | relative_url }}" alt="{{ site.title }}">
+      </a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Hem</a>
+        <a href="{{ '/Introduktion' | relative_url }}">Introduktion</a>
+        <a href="{{ '/Terminologi' | relative_url }}">Terminologi</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Meny" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <main class="content">
+    <article>
+      {% if page.title and page.url != "/" %}
+      <h1 class="page-title">{{ page.title }}</h1>
+      {% endif %}
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>&copy; I Rikets Tjänst</p>
+    </div>
+  </footer>
+
+  <script>
+    // Convert Obsidian wikilinks [[Page Name]] and [[Page Name|Display Text]] to HTML links
+    (function() {
+      var baseUrl = '{{ "/" | relative_url }}';
+      var article = document.querySelector('article');
+      if (!article) return;
+
+      var walker = document.createTreeWalker(article, NodeFilter.SHOW_TEXT, null, false);
+      var textNodes = [];
+      while (walker.nextNode()) textNodes.push(walker.currentNode);
+
+      textNodes.forEach(function(node) {
+        if (!node.nodeValue.match(/\[\[/)) return;
+        // Skip nodes inside code/pre
+        var parent = node.parentNode;
+        if (parent.tagName === 'CODE' || parent.tagName === 'PRE') return;
+
+        var html = node.nodeValue.replace(
+          /\[\[([^\]|]+?)(?:\|([^\]]+?))?\]\]/g,
+          function(match, target, display) {
+            var text = display || target;
+            // Remove section anchors for the link path
+            var path = target.split('#')[0];
+            var anchor = target.includes('#') ? '#' + target.split('#').slice(1).join('#').toLowerCase().replace(/\s+/g, '-').replace(/[^\w\-åäöÅÄÖ]/g, '') : '';
+            // Encode the path for URL
+            var href = baseUrl + encodeURIComponent(path).replace(/%2F/g, '/') + anchor;
+            return '<a href="' + href + '">' + text + '</a>';
+          }
+        );
+
+        if (html !== node.nodeValue) {
+          var span = document.createElement('span');
+          span.innerHTML = html;
+          parent.replaceChild(span, node);
+        }
+      });
+    })();
+
+    // Mobile nav toggle
+    (function() {
+      var btn = document.querySelector('.nav-toggle');
+      var nav = document.querySelector('.site-nav');
+      if (btn && nav) {
+        btn.addEventListener('click', function() {
+          var expanded = btn.getAttribute('aria-expanded') === 'true';
+          btn.setAttribute('aria-expanded', !expanded);
+          nav.classList.toggle('open');
+        });
+      }
+    })();
+  </script>
+
+</body>
+</html>
