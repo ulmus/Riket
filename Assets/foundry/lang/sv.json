@@ -119,6 +119,9 @@
   "IRT.NotesPlaceholder": "Bakgrund, kontakter, mål och andra anteckningar...",
   "IRT.XP": "Erfarenhetspoäng",
   "IRT.XPShort": "EP",
+  "IRT.XPTotal": "EP totalt",
+  "IRT.XPSpent": "EP spenderat",
+  "IRT.XPRemaining": "EP kvar",
 
   "IRT.Chat.Failed": "Misslyckat",
   "IRT.Chat.Successes": "Framgångar",
@@ -139,5 +142,20 @@
 
   "IRT.Dialog.DamageTitle": "Skadeslag",
   "IRT.Dialog.NumDice": "Skadetärningar (antal framgångar)",
-  "IRT.Dialog.TargetSkydd": "Målets Skydd"
+  "IRT.Dialog.TargetSkydd": "Målets Skydd",
+
+  "IRT.Sammanbrott": "Sammanbrott",
+  "IRT.SammanbrottRoll": "Slå Sammanbrott",
+  "IRT.SammanbrottBonus": "Bonus",
+  "IRT.Chat.Sammanbrott": "Sammanbrott",
+
+  "IRT.WeaponHeader.name": "Namn",
+  "IRT.WeaponHeader.attr": "Attr",
+  "IRT.WeaponHeader.damage": "Skada",
+  "IRT.WeaponHeader.range": "Räckv.",
+  "IRT.WeaponHeader.type": "Skadetyp",
+  "IRT.WeaponHeader.props": "Egenskaper",
+
+  "IRT.Confirm.Delete": "Ta bort",
+  "IRT.Confirm.DeleteMsg": "Vill du ta bort"
 }

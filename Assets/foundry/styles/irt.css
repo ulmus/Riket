@@ -117,6 +117,25 @@
   font-size: 9px;
 }
 
+/* ====== NPC Toggle ====== */
+
+.irt-npc-label {
+  display: inline-flex !important;
+  align-items: center;
+  gap: 4px;
+  cursor: pointer;
+}
+
+.irt-npc-toggle {
+  margin: 0;
+  vertical-align: middle;
+}
+
+.irt-field--npc {
+  display: flex;
+  align-items: center;
+}
+
 /* ====== Info Grid ====== */
 
 .irt-info-grid {
@@ -179,10 +198,15 @@
   background: #a31f1f;
 }
 
+.irt-d12-icon {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: url("../assets/irt-die.png") center/contain no-repeat;
+}
+
 .irt-d12-icon::before {
-  content: "12";
-  font-size: 10px;
-  font-weight: bold;
+  content: none;
 }
 
 /* Selected attribute */
@@ -385,16 +409,39 @@
   opacity: 0.5;
 }
 
-.irt-condition--active { opacity: 1; }
+.irt-condition--active {
+  opacity: 1;
+  font-weight: bold;
+  transform: scale(1.08);
+  z-index: 1;
+  position: relative;
+  box-shadow: 0 0 0 2px var(--irt-primary);
+}
+
 .irt-condition--warning { border-left: 3px solid var(--irt-warning); }
 .irt-condition--danger { border-left: 3px solid var(--irt-danger); }
 .irt-condition--critical { border-left: 3px solid #000; background: #ffebee; }
 .irt-condition--dead { border-left: 3px solid #000; background: #e0e0e0; color: #757575; }
 
-.irt-condition--warning.irt-condition--active { background: #fff3e0; }
-.irt-condition--danger.irt-condition--active { background: #ffebee; color: var(--irt-danger); }
-.irt-condition--critical.irt-condition--active { background: #ffcdd2; color: #000; }
-.irt-condition--dead.irt-condition--active { background: #bdbdbd; color: #212121; }
+.irt-condition--warning.irt-condition--active {
+  background: #fff3e0;
+  box-shadow: 0 0 0 2px var(--irt-warning);
+}
+.irt-condition--danger.irt-condition--active {
+  background: #ffebee;
+  color: var(--irt-danger);
+  box-shadow: 0 0 0 2px var(--irt-danger);
+}
+.irt-condition--critical.irt-condition--active {
+  background: #ffcdd2;
+  color: #000;
+  box-shadow: 0 0 0 2px #000;
+}
+.irt-condition--dead.irt-condition--active {
+  background: #bdbdbd;
+  color: #212121;
+  box-shadow: 0 0 0 2px #000;
+}
 
 .irt-blodning-row {
   display: flex;
@@ -410,7 +457,35 @@
   padding: 2px 4px;
 }
 
+.irt-blodning-info {
+  font-size: 10px;
+  font-style: italic;
+  color: var(--irt-danger);
+  padding: 2px 0 4px;
+}
+
 /* ====== Weapons & Items ====== */
+
+/* Weapon column headers */
+
+.irt-weapon-header {
+  display: flex;
+  gap: 4px;
+  padding: 2px 4px;
+  font-size: 9px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--irt-text-muted);
+  border-bottom: 1px solid var(--irt-border);
+  margin-bottom: 4px;
+}
+
+.irt-wh-name { flex: 2; min-width: 80px; }
+.irt-wh-attr { flex: 1; min-width: 70px; }
+.irt-wh-damage { width: 40px; flex: 0 0 40px; text-align: center; }
+.irt-wh-range { width: 40px; flex: 0 0 40px; text-align: center; }
+.irt-wh-type { flex: 1; min-width: 70px; }
+.irt-wh-props { flex: 2; min-width: 80px; }
 
 .irt-item-row {
   display: flex;
@@ -421,6 +496,11 @@
   border: 1px solid var(--irt-border);
   margin-bottom: 4px;
   flex-wrap: wrap;
+}
+
+/* Weapon rows stay single-line */
+.irt-weapon-row {
+  flex-wrap: nowrap;
 }
 
 .irt-item-row input[type="text"],
@@ -436,6 +516,29 @@
 .irt-item-row input[type="text"] { flex: 2; min-width: 80px; }
 .irt-item-row select { flex: 1; min-width: 70px; }
 .irt-item-num { width: 40px !important; flex: 0 0 40px !important; text-align: center; }
+
+/* Weapon row specific column sizing */
+.irt-wi-name { flex: 2; min-width: 80px; }
+.irt-wi-attr { flex: 1; min-width: 70px; }
+.irt-wi-damage { width: 40px !important; flex: 0 0 40px !important; }
+.irt-wi-range { width: 40px !important; flex: 0 0 40px !important; }
+.irt-wi-type { flex: 1; min-width: 70px; }
+.irt-wi-props { flex: 2; min-width: 80px; }
+
+/* Compact icon buttons for weapon rows */
+.irt-weapon-row .irt-btn-icon {
+  flex: 0 0 auto;
+  font-size: 11px;
+  padding: 2px 4px;
+}
+
+.irt-weapon-row .irt-weapon-attack {
+  color: var(--irt-secondary);
+}
+
+.irt-weapon-row .irt-weapon-attack:hover {
+  color: #a31f1f;
+}
 
 /* ====== Powers & Abilities ====== */
 
@@ -480,11 +583,36 @@
   gap: 12px;
 }
 
+/* ====== Sammanbrott ====== */
+
+.irt-sammanbrott-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.irt-sammanbrott-info {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+}
+
+.irt-sammanbrott-bonus-label {
+  font-weight: bold;
+  color: var(--irt-primary);
+}
+
+.irt-sammanbrott-note {
+  font-size: 10px;
+  color: var(--irt-text-muted);
+}
+
 /* ====== XP ====== */
 
 .irt-xp-row {
   display: grid;
-  grid-template-columns: auto 1fr;
+  grid-template-columns: auto auto auto 1fr;
   gap: 16px;
   align-items: start;
 }
@@ -497,6 +625,20 @@
   text-align: center;
   border: 2px solid var(--irt-success);
   background: #fff;
+}
+
+.irt-xp-input--spent {
+  border-color: var(--irt-warning);
+}
+
+.irt-xp-remaining {
+  display: block;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  color: var(--irt-success);
+  min-width: 60px;
+  padding-top: 6px;
 }
 
 .irt-xp-costs {
@@ -849,7 +991,8 @@
   .irt-weapon-damage,
   .irt-custom-roll,
   .irt-npc-toggle,
-  .irt-spend-buttons {
+  .irt-spend-buttons,
+  .irt-sammanbrott-roll {
     display: none !important;
   }
 

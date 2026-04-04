@@ -4,6 +4,8 @@
  */
 
 import { attributeRoll } from "../dice/irt-roll.mjs";
+import { calcSammanbrottsBonus } from "../helpers/derived-stats.mjs";
+import { SAMMANBROTT } from "../dice/tables/sammanbrott.mjs";
 
 export class IRTActorSheet extends ActorSheet {
   static get defaultOptions() {
@@ -46,6 +48,33 @@ export class IRTActorSheet extends ActorSheet {
     // Damage level flags for template
     context.skadeniva = system.skadeniva;
 
+    // Derived value tooltips
+    const attrs = system.attributes;
+    context.derivedTooltips = {
+      talighet: `1 + ⌈Fysik / 2⌉ = 1 + ⌈${attrs.fysik} / 2⌉ = ${system.derived.talighet}`,
+      stabilitet: `1 + ⌈Vilja / 2⌉ = 1 + ⌈${attrs.vilja} / 2⌉ = ${system.derived.stabilitet}`,
+      forflyttning: `Fysik + Smidighet = ${attrs.fysik} + ${attrs.smidighet} = ${system.derived.forflyttning} m`,
+      slagstyrka: `⌊Fysik / 2⌋ = ⌊${attrs.fysik} / 2⌋ = ${system.derived.slagstyrka}`,
+      kpMax: `Fysik + Vilja = ${attrs.fysik} + ${attrs.vilja} = ${system.kp.max}`,
+    };
+
+    // Wound thresholds for tooltips
+    const talighet = system.derived.talighet;
+    context.woundThresholds = {
+      oskadd: talighet,
+      medvetslos: 2 * talighet,
+      doende: 3 * talighet,
+      dod: 4 * talighet,
+    };
+
+    // XP remaining
+    context.xpRemaining = (system.xp ?? 0) - (system.xpSpent ?? 0);
+
+    // Sammanbrott bonus
+    const stress = system.stress?.value ?? 0;
+    const stabilitet = system.derived?.stabilitet ?? 0;
+    context.sammanbrottsBonus = calcSammanbrottsBonus(stress, stabilitet);
+
     return context;
   }
 
@@ -78,6 +107,9 @@ export class IRTActorSheet extends ActorSheet {
       const section = ev.currentTarget.closest(".irt-collapsible");
       section.classList.toggle("collapsed");
     });
+
+    // Sammanbrott roll
+    html.find(".irt-sammanbrott-roll").on("click", () => this._onSammanbrottRoll());
 
     // Restore attribute selection state after re-render
     this._updateAttrSelectionUI();
@@ -188,7 +220,13 @@ export class IRTActorSheet extends ActorSheet {
     ev.preventDefault();
     const itemId = ev.currentTarget.closest(".irt-item-row").dataset.itemId;
     const item = this.actor.items.get(itemId);
-    if (item) await item.delete();
+    if (!item) return;
+    const confirmed = await Dialog.confirm({
+      title: "Ta bort",
+      content: `<p>Vill du ta bort <strong>${item.name}</strong>?</p>`,
+      defaultYes: false,
+    });
+    if (confirmed) await item.delete();
   }
 
   async _onItemInputChange(ev) {
@@ -202,8 +240,51 @@ export class IRTActorSheet extends ActorSheet {
       await item.update({ [updateKey]: value });
     }
   }
+
+  async _onSammanbrottRoll() {
+    const stress = this.actor.system.stress?.value ?? 0;
+    const stabilitet = this.actor.system.derived?.stabilitet ?? 0;
+    const bonus = calcSammanbrottsBonus(stress, stabilitet);
+
+    const roll = new Roll(`1d12 + ${bonus}`);
+    await roll.evaluate();
+    const total = roll.total;
+
+    // Look up result in table
+    const entry = SAMMANBROTT.find((e) => total >= e.min && total <= e.max) ?? SAMMANBROTT[SAMMANBROTT.length - 1];
+    const critText = `${entry.label}: ${entry.effect}`;
+
+    let html = `<div class="irt-roll-card">`;
+    html += `<div class="irt-roll-header">Sammanbrott</div>`;
+    html += `<div class="irt-roll-body">`;
+    html += `<div class="irt-dice-tray"><span class="irt-die">${roll.terms[0].results[0].result}</span></div>`;
+    if (bonus > 0) {
+      html += `<div class="irt-info-row"><span class="irt-label">Bonus</span> <span>+${bonus}</span></div>`;
+    }
+    html += `<div class="irt-result">${total}</div>`;
+    html += `<div class="irt-critical-hit">`;
+    html += `<div class="irt-critical-label">${_esc(entry.label)}</div>`;
+    html += `<div class="irt-critical-effect">${_esc(entry.effect)}</div>`;
+    html += `<button class="irt-copy-crit-btn" data-crit-text="${_esc(critText)}"><i class="fas fa-copy"></i> Kopiera</button>`;
+    html += `</div>`;
+    html += `</div></div>`;
+
+    await ChatMessage.create({
+      speaker: ChatMessage.getSpeaker({ actor: this.actor }),
+      content: html,
+      rolls: [roll],
+      sound: CONFIG.sounds.dice,
+    });
+  }
 }
 
 function _capitalize(s) {
   return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+function _esc(str) {
+  if (typeof foundry !== "undefined" && foundry.utils?.escapeHTML) {
+    return foundry.utils.escapeHTML(str);
+  }
+  return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
