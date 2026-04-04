@@ -57,6 +57,8 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
   const rollId = `irt-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
 
   // Build chat HTML
+  const fokusAvailable = (actor.system.fokus.value ?? 0) + fokusEarned;
+  const stabilitet = actor.system.derived?.stabilitet ?? 0;
   const html = _buildRollChat({
     rollLabel,
     dice,
@@ -65,6 +67,8 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
     rollId,
     actorId: actor.id,
     fokusSpent: 0,
+    fokusAvailable,
+    stabilitet,
   });
 
   // Always store for potential Focus spend (GM decides if it failed)
@@ -86,12 +90,12 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
 }
 
 /**
- * Handle Focus spending from chat button click.
+ * Handle Focus/Stress spending from chat button click.
+ * Automatically splits amount between available Focus and Stress.
  * @param {string} rollId
- * @param {number} amount - Number of Focus to spend
- * @param {boolean} useStress - Use Stress instead of Focus
+ * @param {number} amount - Total extra dice to add
  */
-export async function spendFokusOnRoll(rollId, amount, useStress = false) {
+export async function spendFokusOnRoll(rollId, amount) {
   const pending = _getPendingRoll(rollId);
   if (!pending) {
     ui.notifications.warn("Det slaget finns inte längre tillgängligt.");
@@ -105,10 +109,16 @@ export async function spendFokusOnRoll(rollId, amount, useStress = false) {
     return;
   }
 
-  const current = useStress ? (actor.system.stress.value ?? 0) : (actor.system.fokus.value ?? 0);
+  const currentFokus = actor.system.fokus.value ?? 0;
+  const currentStress = actor.system.stress.value ?? 0;
+  const stabilitet = actor.system.derived?.stabilitet ?? 0;
 
-  if (!useStress && current < amount) {
-    ui.notifications.warn(`Inte tillräckligt med Fokus! (Har: ${current}, Behöver: ${amount})`);
+  // Split amount between Focus and Stress
+  const fokusToUse = Math.min(amount, currentFokus);
+  const stressToUse = amount - fokusToUse;
+
+  if (stressToUse > stabilitet) {
+    ui.notifications.warn(`Inte tillräckligt! Max ${currentFokus} Fokus + ${stabilitet} Stress.`);
     return;
   }
 
@@ -126,20 +136,16 @@ export async function spendFokusOnRoll(rollId, amount, useStress = false) {
 
   // Update actor resources
   const updates = {};
-  if (useStress) {
-    updates["system.stress.value"] = current + amount;
-  } else {
-    updates["system.fokus.value"] = current - amount + extra.fokusEarned;
-  }
-  // Add any new Focus earned from extra dice (even when spending stress)
-  if (useStress && extra.fokusEarned > 0) {
-    updates["system.fokus.value"] = (actor.system.fokus.value ?? 0) + extra.fokusEarned;
+  updates["system.fokus.value"] = currentFokus - fokusToUse + extra.fokusEarned;
+  if (stressToUse > 0) {
+    updates["system.stress.value"] = currentStress + stressToUse;
   }
   await actor.update(updates);
 
   // Refresh timeout on pending roll so it stays available
   pending.timestamp = Date.now();
 
+  const updatedFokus = currentFokus - fokusToUse + extra.fokusEarned;
   const html = _buildRollChat({
     rollLabel: pending.rollLabel + " (uppdaterat)",
     dice: pending.dice,
@@ -148,6 +154,8 @@ export async function spendFokusOnRoll(rollId, amount, useStress = false) {
     rollId,
     actorId: pending.actorId,
     fokusSpent: pending.fokusSpent,
+    fokusAvailable: updatedFokus,
+    stabilitet,
   });
 
   await ChatMessage.create({
@@ -203,7 +211,7 @@ function _esc(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
-function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent }) {
+function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent, fokusAvailable, stabilitet }) {
   let html = `<div class="irt-roll-card">`;
   html += `<div class="irt-roll-header">${_esc(rollLabel)}</div>`;
   html += `<div class="irt-roll-body">`;
@@ -246,17 +254,16 @@ function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actor
     html += `<div class="irt-info-row"><span class="irt-label">Fokus spenderat:</span> <span>${fokusSpent}</span></div>`;
   }
 
-  // Spend buttons (always available for pending rolls)
-  if (rollId) {
+  // Spend buttons: single row, yellow for Focus then red for Stress
+  const maxSpend = (fokusAvailable ?? 0) + (stabilitet ?? 0);
+  if (rollId && maxSpend > 0) {
     html += `<div class="irt-spend-buttons">`;
-    html += `<span class="irt-label">Spendera Fokus:</span>`;
-    for (let i = 1; i <= 3; i++) {
-      html += ` <button class="irt-spend-btn" data-roll-id="${rollId}" data-amount="${i}" data-use-stress="false">+${i}</button>`;
+    html += `<span class="irt-label">Lägg till tärningar:</span><br>`;
+    for (let i = 1; i <= maxSpend; i++) {
+      const btnClass = i <= (fokusAvailable ?? 0) ? "irt-spend-btn irt-spend-btn--fokus" : "irt-spend-btn irt-spend-btn--stress";
+      html += ` <button class="${btnClass}" data-roll-id="${rollId}" data-amount="${i}">+${i}</button>`;
     }
-    html += `<br><span class="irt-label">Spendera Stress:</span>`;
-    for (let i = 1; i <= 3; i++) {
-      html += ` <button class="irt-spend-btn" data-roll-id="${rollId}" data-amount="${i}" data-use-stress="true">+${i}</button>`;
-    }
+    html += `<div class="irt-spend-explainer">Gul = Fokus, Röd = Stress</div>`;
     html += `</div>`;
   }
 
@@ -275,8 +282,7 @@ export function registerChatListeners() {
       const btn = ev.currentTarget;
       const rollId = btn.dataset.rollId;
       const amount = parseInt(btn.dataset.amount) || 1;
-      const useStress = btn.dataset.useStress === "true";
-      await spendFokusOnRoll(rollId, amount, useStress);
+      await spendFokusOnRoll(rollId, amount);
     });
   });
 }
