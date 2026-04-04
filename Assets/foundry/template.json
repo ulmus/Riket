@@ -1,0 +1,69 @@
+{
+  "Actor": {
+    "types": ["character"],
+    "character": {
+      "attributes": {
+        "analys": 1,
+        "fysik": 1,
+        "list": 1,
+        "samspel": 1,
+        "sinnen": 1,
+        "smidighet": 1,
+        "strid": 1,
+        "vilja": 1
+      },
+      "derived": {
+        "talighet": 0,
+        "stabilitet": 0,
+        "forflyttning": 0,
+        "slagstyrka": 0
+      },
+      "kp": {
+        "value": 0,
+        "max": 0
+      },
+      "fokus": {
+        "value": 0,
+        "momentum": 1
+      },
+      "stress": {
+        "value": 0
+      },
+      "skadeniva": "oskadd",
+      "blodning": "ingen",
+      "kritiska_effekter": "",
+      "expertis": "",
+      "trauma": {
+        "type": "",
+        "description": ""
+      },
+      "isNPC": false,
+      "notes": "",
+      "languages": "",
+      "equipment": "",
+      "xp": 0,
+      "skydd": {
+        "name": "",
+        "value": 0
+      }
+    }
+  },
+  "Item": {
+    "types": ["weapon", "power", "ability"],
+    "weapon": {
+      "damage": 0,
+      "range": 0,
+      "damageType": "kross",
+      "properties": "",
+      "attackAttr": "smidighet"
+    },
+    "power": {
+      "description": "",
+      "fokusCost": 0
+    },
+    "ability": {
+      "description": "",
+      "requirements": ""
+    }
+  }
+}

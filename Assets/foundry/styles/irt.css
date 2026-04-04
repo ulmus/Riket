@@ -1,0 +1,717 @@
+/* I Rikets Tjänst - Foundry VTT Stylesheet */
+/* Cold War Thriller Theme */
+
+:root {
+  --irt-primary: #1b3a4b;
+  --irt-secondary: #8b2020;
+  --irt-accent: #c5a44e;
+  --irt-bg-light: #fafafa;
+  --irt-bg-dark: #f0efe8;
+  --irt-text: #1a1a1a;
+  --irt-text-muted: #666;
+  --irt-text-light: #ffffff;
+  --irt-border: #ccc;
+  --irt-success: #2e7d32;
+  --irt-warning: #f57c00;
+  --irt-danger: #c62828;
+  --irt-font: 'Georgia', 'Times New Roman', serif;
+  --irt-font-header: 'Georgia', serif;
+}
+
+/* ====== Sheet Container ====== */
+
+.irt-sheet {
+  font-family: var(--irt-font);
+  color: var(--irt-text);
+  background: var(--irt-bg-light);
+  padding: 0;
+}
+
+/* ====== Header ====== */
+
+.irt-header {
+  background: var(--irt-primary);
+  color: var(--irt-text-light);
+  padding: 14px 20px;
+  text-align: center;
+  border-bottom: 4px solid var(--irt-secondary);
+  margin-bottom: 10px;
+}
+
+.irt-title {
+  font-family: var(--irt-font-header);
+  font-size: 22px;
+  margin: 0;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.irt-subtitle {
+  font-size: 12px;
+  opacity: 0.85;
+  letter-spacing: 1px;
+}
+
+/* ====== Sections ====== */
+
+.irt-section {
+  margin: 0 8px 10px;
+  padding: 10px 12px;
+  background: #ffffff;
+  border: 1px solid var(--irt-border);
+  border-left: 4px solid var(--irt-primary);
+}
+
+.irt-section-title {
+  font-family: var(--irt-font-header);
+  font-size: 13px;
+  color: var(--irt-primary);
+  margin: 0 0 8px;
+  padding-bottom: 4px;
+  border-bottom: 2px solid var(--irt-accent);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* ====== Fields ====== */
+
+.irt-field {
+  margin-bottom: 6px;
+}
+
+.irt-field label {
+  display: block;
+  font-size: 10px;
+  font-weight: bold;
+  color: var(--irt-text-muted);
+  text-transform: uppercase;
+  margin-bottom: 2px;
+}
+
+.irt-field input[type="text"],
+.irt-field input[type="number"],
+.irt-field select,
+.irt-field textarea {
+  width: 100%;
+  padding: 4px 6px;
+  font-family: var(--irt-font);
+  font-size: 12px;
+  border: 1px solid var(--irt-border);
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.irt-field textarea {
+  min-height: 50px;
+  resize: vertical;
+}
+
+.irt-field--wide {
+  grid-column: span 2;
+}
+
+.irt-note {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 9px;
+}
+
+/* ====== Info Grid ====== */
+
+.irt-info-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6px 12px;
+}
+
+/* ====== Attributes ====== */
+
+.irt-attr-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+}
+
+.irt-attr-box {
+  text-align: center;
+  padding: 6px;
+  background: var(--irt-bg-light);
+  border: 1px solid var(--irt-border);
+}
+
+.irt-attr-name {
+  display: block;
+  font-family: var(--irt-font-header);
+  font-size: 12px;
+  font-weight: bold;
+  color: var(--irt-primary);
+  margin-bottom: 4px;
+}
+
+.irt-attr-box input[type="number"] {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid var(--irt-primary);
+  background: #fff;
+}
+
+.irt-attr-roll {
+  display: inline-block;
+  margin-top: 4px;
+  background: var(--irt-secondary);
+  color: var(--irt-text-light);
+  border: none;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+  font-size: 11px;
+  line-height: 24px;
+  padding: 0;
+}
+
+.irt-attr-roll:hover {
+  background: #a31f1f;
+}
+
+/* ====== Custom Roll ====== */
+
+.irt-custom-roll-form {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: flex-end;
+}
+
+.irt-custom-roll-form .irt-field {
+  flex: 1;
+  min-width: 80px;
+}
+
+.irt-custom-roll-form select,
+.irt-custom-roll-form input {
+  width: 100%;
+  height: 28px;
+  font-size: 11px;
+  padding: 2px 4px;
+  box-sizing: border-box;
+}
+
+/* ====== Buttons ====== */
+
+.irt-btn {
+  background: var(--irt-secondary);
+  color: var(--irt-text-light);
+  border: none;
+  padding: 5px 12px;
+  font-family: var(--irt-font);
+  font-size: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.irt-btn:hover { background: #a31f1f; }
+
+.irt-btn--sm {
+  padding: 3px 8px;
+  font-size: 9px;
+}
+
+.irt-btn-icon {
+  background: none;
+  border: none;
+  color: var(--irt-text-muted);
+  cursor: pointer;
+  padding: 2px;
+  font-size: 12px;
+}
+
+.irt-btn-icon:hover { color: var(--irt-danger); }
+
+/* ====== Secondary Stats ====== */
+
+.irt-secondary-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+}
+
+.irt-secondary-stat {
+  text-align: center;
+  padding: 6px;
+  background: var(--irt-bg-dark);
+}
+
+.irt-secondary-stat label {
+  display: block;
+  font-size: 9px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--irt-primary);
+  margin-bottom: 4px;
+}
+
+.irt-stat-display {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3px;
+}
+
+.irt-current {
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid var(--irt-accent);
+  background: #fff;
+}
+
+.irt-sep { font-size: 16px; font-weight: bold; }
+.irt-max { font-size: 16px; font-weight: bold; color: var(--irt-text-muted); }
+
+.irt-derived-val {
+  font-size: 20px;
+  font-weight: bold;
+  color: var(--irt-text);
+}
+
+/* ====== Resources ====== */
+
+.irt-resources-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.irt-resource {
+  text-align: center;
+  padding: 8px;
+  background: var(--irt-bg-light);
+  border: 1px solid var(--irt-border);
+}
+
+.irt-resource label {
+  display: block;
+  font-size: 11px;
+  font-weight: bold;
+  color: var(--irt-primary);
+  margin-bottom: 4px;
+}
+
+.irt-resource-input {
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid var(--irt-accent);
+  background: #fff;
+}
+
+.irt-resource--stress .irt-resource-input {
+  border-color: var(--irt-danger);
+}
+
+.irt-resource-input--small {
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+}
+
+.irt-resource-note {
+  display: block;
+  font-size: 9px;
+  color: var(--irt-text-muted);
+  margin-top: 4px;
+}
+
+/* ====== Damage Status ====== */
+
+.irt-conditions-grid {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 8px;
+}
+
+.irt-condition {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 10px;
+  background: var(--irt-bg-light);
+  border: 1px solid var(--irt-border);
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.irt-condition input { margin: 0; }
+.irt-condition--warning { border-left: 3px solid var(--irt-warning); }
+.irt-condition--danger { border-left: 3px solid var(--irt-danger); }
+.irt-condition--critical { border-left: 3px solid #000; background: #ffebee; }
+.irt-condition--dead { border-left: 3px solid #000; background: #e0e0e0; color: #757575; }
+
+.irt-blodning-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.irt-blodning-row select {
+  font-size: 11px;
+  padding: 2px 4px;
+}
+
+/* ====== Weapons & Items ====== */
+
+.irt-item-row {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+  padding: 4px;
+  background: var(--irt-bg-light);
+  border: 1px solid var(--irt-border);
+  margin-bottom: 4px;
+  flex-wrap: wrap;
+}
+
+.irt-item-row input[type="text"],
+.irt-item-row input[type="number"],
+.irt-item-row select {
+  font-family: var(--irt-font);
+  font-size: 11px;
+  padding: 3px 4px;
+  border: 1px solid var(--irt-border);
+  background: #fff;
+}
+
+.irt-item-row input[type="text"] { flex: 2; min-width: 80px; }
+.irt-item-row select { flex: 1; min-width: 70px; }
+.irt-item-num { width: 40px !important; flex: 0 0 40px !important; text-align: center; }
+
+/* ====== Powers & Abilities ====== */
+
+.irt-power-row, .irt-ability-row {
+  flex-direction: column;
+  align-items: stretch;
+}
+
+.irt-power-row input[type="text"],
+.irt-ability-row input[type="text"] {
+  font-size: 12px;
+  font-weight: bold;
+  flex: 1;
+}
+
+.irt-power-cost {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.irt-power-cost input { width: 40px; text-align: center; }
+
+.irt-item-row textarea {
+  width: 100%;
+  min-height: 36px;
+  font-family: var(--irt-font);
+  font-size: 11px;
+  padding: 3px 4px;
+  border: 1px solid var(--irt-border);
+  resize: vertical;
+  box-sizing: border-box;
+}
+
+/* ====== Armor ====== */
+
+.irt-armor-row {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 12px;
+}
+
+/* ====== XP ====== */
+
+.irt-xp-row {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 16px;
+  align-items: start;
+}
+
+.irt-xp-input {
+  width: 60px;
+  height: 48px;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  border: 2px solid var(--irt-success);
+  background: #fff;
+}
+
+.irt-xp-costs {
+  font-size: 10px;
+  color: var(--irt-text-muted);
+}
+
+.irt-xp-costs p { margin: 0 0 4px; }
+.irt-xp-costs ul { margin: 0; padding-left: 16px; }
+.irt-xp-costs li { margin-bottom: 2px; }
+
+/* ====== Collapsible ====== */
+
+.irt-collapsible .irt-collapse-toggle {
+  cursor: pointer;
+  user-select: none;
+}
+
+.irt-collapse-icon {
+  float: right;
+  font-size: 10px;
+  transition: transform 0.2s;
+}
+
+.irt-collapsible.collapsed .irt-collapse-icon {
+  transform: rotate(-90deg);
+}
+
+.irt-collapsible.collapsed .irt-collapsible-content {
+  display: none;
+}
+
+/* ====== Chat Cards ====== */
+
+.irt-roll-card {
+  background: var(--irt-primary);
+  border: 2px solid var(--irt-secondary);
+  border-radius: 4px;
+  overflow: hidden;
+  font-family: var(--irt-font);
+  margin: 4px 0;
+}
+
+.irt-roll-header {
+  background: var(--irt-primary);
+  color: var(--irt-text-light);
+  padding: 6px 10px;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 12px;
+  border-bottom: 2px solid var(--irt-accent);
+}
+
+.irt-roll-body {
+  background: #fafafa;
+  padding: 8px;
+}
+
+/* Dice tray */
+
+.irt-dice-tray {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  justify-content: center;
+  margin: 6px 0;
+}
+
+.irt-die {
+  width: 28px;
+  height: 28px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 3px;
+  font-weight: bold;
+  font-size: 13px;
+  background: #e0e0e0;
+  color: #212121;
+  border: 1px solid #9e9e9e;
+}
+
+.irt-die--success {
+  background: var(--irt-success);
+  color: #fff;
+  border-color: #1b5e20;
+}
+
+.irt-die--fokus {
+  background: var(--irt-accent);
+  color: #1a1a1a;
+  border: 2px solid #a88c3a;
+}
+
+/* Result */
+
+.irt-result {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  padding: 6px;
+}
+
+.irt-result--success { color: var(--irt-success); }
+.irt-result--fail { color: var(--irt-danger); }
+
+/* Fokus earned */
+
+.irt-fokus-earned {
+  background: #fff8e1;
+  border-left: 3px solid var(--irt-accent);
+  padding: 4px 8px;
+  margin: 4px 0;
+  font-size: 11px;
+}
+
+/* Info rows */
+
+.irt-info-row {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px 0;
+  font-size: 11px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.irt-label {
+  font-weight: bold;
+  color: var(--irt-text-muted);
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+/* Komplikation */
+
+.irt-komplikation {
+  background: #ffebee;
+  border-left: 3px solid var(--irt-danger);
+  padding: 6px 8px;
+  margin: 6px 0;
+  color: var(--irt-danger);
+  font-weight: bold;
+  font-size: 11px;
+}
+
+/* Spend buttons */
+
+.irt-spend-buttons {
+  text-align: center;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.irt-spend-btn {
+  background: var(--irt-secondary);
+  color: var(--irt-text-light);
+  border: none;
+  padding: 3px 10px;
+  margin: 2px;
+  cursor: pointer;
+  font-family: var(--irt-font);
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.irt-spend-btn:hover { background: #a31f1f; }
+
+/* Damage card */
+
+.irt-damage-total {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: var(--irt-danger);
+  padding: 4px;
+}
+
+.irt-damage-breakdown {
+  text-align: center;
+  font-size: 10px;
+  color: var(--irt-text-muted);
+  margin-bottom: 4px;
+}
+
+/* Critical hit */
+
+.irt-critical-hit {
+  background: #ffebee;
+  border: 1px solid var(--irt-danger);
+  border-left: 4px solid var(--irt-danger);
+  padding: 6px 8px;
+  margin: 6px 0;
+}
+
+.irt-critical-header {
+  font-weight: bold;
+  color: var(--irt-danger);
+  font-size: 12px;
+  margin-bottom: 4px;
+}
+
+.irt-critical-label {
+  font-weight: bold;
+  font-size: 12px;
+  margin-bottom: 2px;
+}
+
+.irt-critical-effect {
+  font-size: 11px;
+  line-height: 1.4;
+}
+
+/* ====== Print Styles ====== */
+
+@media print {
+  .irt-sheet {
+    background: #fff;
+  }
+
+  .irt-header {
+    background: #fff;
+    color: #1b3a4b;
+    border-bottom: 3px solid #1b3a4b;
+  }
+
+  .irt-title {
+    color: #1b3a4b;
+  }
+
+  .irt-section {
+    break-inside: avoid;
+    border-color: #999;
+  }
+
+  .irt-btn,
+  .irt-attr-roll,
+  .irt-item-create,
+  .irt-item-delete,
+  .irt-weapon-attack,
+  .irt-weapon-damage,
+  .irt-custom-roll,
+  .irt-npc-toggle,
+  .irt-spend-buttons {
+    display: none !important;
+  }
+
+  .irt-attr-box input[type="number"],
+  .irt-current,
+  .irt-resource-input,
+  .irt-xp-input {
+    border-color: #999;
+  }
+}
