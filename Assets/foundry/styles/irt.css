@@ -225,6 +225,7 @@
 
 .irt-attr-box--selected .irt-attr-select {
   background: var(--irt-accent);
+  box-shadow: 0 0 0 2px var(--irt-accent);
   color: #1a1a1a;
 }
 
