@@ -168,6 +168,14 @@
   margin-bottom: 4px;
 }
 
+.irt-attr-box-inputs {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin-top: 4px;
+}
+
 .irt-attr-box input[type="number"] {
   width: 40px;
   height: 40px;
@@ -182,26 +190,23 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  margin-top: 4px;
-  background: var(--irt-secondary);
-  color: var(--irt-text-light);
   border: none;
   width: 28px;
   height: 28px;
   cursor: pointer;
   padding: 0;
-  clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
   transition: background 0.15s;
 }
 
 .irt-attr-select:hover {
-  background: #a31f1f;
+  background: var(--irt-accent);
 }
 
 .irt-d12-icon {
   display: inline-block;
   width: 20px;
   height: 20px;
+  margin-right: 0; /* Override default margin for select buttons */
   background: url("../assets/irt-die.png") center/contain no-repeat;
 }
 
@@ -219,6 +224,13 @@
 .irt-attr-box--selected .irt-attr-select {
   background: var(--irt-accent);
   color: #1a1a1a;
+}
+
+.irt-attr-box-inputs {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
 }
 
 /* Clear button on section title */

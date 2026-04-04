@@ -52,10 +52,12 @@
       {{#each attributeKeys}}
       <div class="irt-attr-box" data-attr="{{this}}">
         <label class="irt-attr-name">{{localize (concat "IRT.Attr." this)}}</label>
-        <input type="number" name="system.attributes.{{this}}" value="{{lookup ../system.attributes this}}" min="1" max="5" />
-        <button type="button" class="irt-attr-select" data-attr="{{this}}" title="Välj {{localize (concat "IRT.Attr." this)}}">
-          <i class="irt-d12-icon"></i>
-        </button>
+        <div class="irt-attr-box-inputs">
+          <input type="number" name="system.attributes.{{this}}" value="{{lookup ../system.attributes this}}" min="1" max="5" />
+          <button type="button" class="irt-attr-select" data-attr="{{this}}" title="Välj {{localize (concat "IRT.Attr." this)}}">
+            <i class="irt-d12-icon"></i>
+          </button>
+        </div>
       </div>
       {{/each}}
     </div>
