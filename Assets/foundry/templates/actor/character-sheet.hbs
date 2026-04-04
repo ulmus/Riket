@@ -139,7 +139,7 @@
 
   {{!-- Damage Status --}}
   <section class="irt-section irt-damage-status">
-    <h2 class="irt-section-title">{{localize "IRT.DamageLevel"}}</h2>
+    <h2 class="irt-section-title">{{localize "IRT.Skadeniva.label"}}</h2>
     <div class="irt-conditions-grid">
       <label class="irt-condition">
         <input type="radio" name="system.skadeniva" value="oskadd" {{#if (eq system.skadeniva "oskadd")}}checked{{/if}} />
@@ -163,7 +163,7 @@
       </label>
     </div>
     <div class="irt-blodning-row">
-      <label>{{localize "IRT.Blodning"}}:</label>
+      <label>{{localize "IRT.Blodning.label"}}:</label>
       <select name="system.blodning">
         <option value="ingen" {{#if (eq system.blodning "ingen")}}selected{{/if}}>{{localize "IRT.Blodning.ingen"}}</option>
         <option value="latt" {{#if (eq system.blodning "latt")}}selected{{/if}}>{{localize "IRT.Blodning.latt"}}</option>

@@ -32,15 +32,15 @@
   "IRT.Momentum": "Momentum",
   "IRT.Stress": "Stress",
 
-  "IRT.DamageLevel": "Damage Level",
+  "IRT.Skadeniva.label": "Damage Level",
   "IRT.Skadeniva.oskadd": "Unhurt",
   "IRT.Skadeniva.sarad": "Wounded",
   "IRT.Skadeniva.medvetslos": "Unconscious",
   "IRT.Skadeniva.doende": "Dying",
   "IRT.Skadeniva.dod": "Dead",
 
-  "IRT.Blodning": "Bleeding",
-  "IRT.Blodning.ingen": "None",
+  "IRT.Blodning.label": "Bleeding",
+  "IRT.Blodning.ingen": "No bleeding",
   "IRT.Blodning.latt": "Light",
   "IRT.Blodning.kraftig": "Heavy",
 
@@ -70,7 +70,7 @@
   "IRT.FirstAttr": "First Attribute",
   "IRT.SecondAttr": "Second Attribute",
   "IRT.Modifier": "Modifier",
-  "IRT.Difficulty": "Difficulty",
+  "IRT.Difficulty.label": "Difficulty",
   "IRT.Difficulty.normal": "Normal (1)",
   "IRT.Difficulty.svart": "Hard (2)",
   "IRT.Difficulty.mycketsvart": "Very Hard (3)",
