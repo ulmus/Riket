@@ -59,7 +59,7 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
   const rollId = `irt-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
 
   // Build chat HTML
-  const fokusAvailable = (actor.system.fokus.value ?? 0) + fokusEarned;
+  const fokusAvailable = (actor.system.fokus.value ?? 0);
   const stabilitet = actor.system.derived?.stabilitet ?? 0;
   // Serialize weapon data for chat embedding
   const weaponData = weapon ? {
