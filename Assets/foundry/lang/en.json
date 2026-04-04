@@ -119,6 +119,9 @@
   "IRT.NotesPlaceholder": "Background, contacts, goals and other notes...",
   "IRT.XP": "Experience Points",
   "IRT.XPShort": "XP",
+  "IRT.XPTotal": "XP Total",
+  "IRT.XPSpent": "XP Spent",
+  "IRT.XPRemaining": "XP Remaining",
 
   "IRT.Chat.Failed": "Failed",
   "IRT.Chat.Successes": "Successes",
@@ -139,5 +142,20 @@
 
   "IRT.Dialog.DamageTitle": "Damage Roll",
   "IRT.Dialog.NumDice": "Damage Dice (number of successes)",
-  "IRT.Dialog.TargetSkydd": "Target's Armor"
+  "IRT.Dialog.TargetSkydd": "Target's Armor",
+
+  "IRT.Sammanbrott": "Breakdown",
+  "IRT.SammanbrottRoll": "Roll Breakdown",
+  "IRT.SammanbrottBonus": "Bonus",
+  "IRT.Chat.Sammanbrott": "Breakdown",
+
+  "IRT.WeaponHeader.name": "Name",
+  "IRT.WeaponHeader.attr": "Attr",
+  "IRT.WeaponHeader.damage": "Dmg",
+  "IRT.WeaponHeader.range": "Range",
+  "IRT.WeaponHeader.type": "Type",
+  "IRT.WeaponHeader.props": "Properties",
+
+  "IRT.Confirm.Delete": "Delete",
+  "IRT.Confirm.DeleteMsg": "Do you want to delete"
 }

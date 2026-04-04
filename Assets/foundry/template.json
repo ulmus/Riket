@@ -42,6 +42,7 @@
       "languages": "",
       "equipment": "",
       "xp": 0,
+      "xpSpent": 0,
       "skydd": {
         "name": "",
         "value": 0

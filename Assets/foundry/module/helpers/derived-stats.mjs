@@ -55,6 +55,16 @@ export function calcSkadeniva(kpDamage, talighet) {
 }
 
 /**
+ * Calculate Sammanbrott (Breakdown) bonus from Stress and Stabilitet.
+ * Formula: max(0, (floor(Stress / Stabilitet) - 1)) * 2
+ * Each threshold beyond the first adds +2.
+ */
+export function calcSammanbrottsBonus(stress, stabilitet) {
+  if (stabilitet <= 0) return 0;
+  return Math.max(0, Math.floor(stress / stabilitet) - 1) * 2;
+}
+
+/**
  * Calculate all derived stats from primary attributes.
  * Returns an object with all secondary values.
  */
