@@ -127,6 +127,8 @@ export class IRTActorSheet extends ActorSheet {
       // Second click: open roll dialog with attr1 + attr2
       const attr1 = this._selectedAttr;
       const attr2 = attr;
+      this._selectedAttr2 = attr2;
+      this._updateAttrSelectionUI();
       await this._showRollDialog(attr1, attr2);
       this._clearAttrSelection();
     }
@@ -134,16 +136,18 @@ export class IRTActorSheet extends ActorSheet {
 
   _clearAttrSelection() {
     this._selectedAttr = null;
+    this._selectedAttr2 = null;
     this._updateAttrSelectionUI();
   }
 
   _updateAttrSelectionUI() {
     const html = this.element;
     const selected = this._selectedAttr;
+    const selected2 = this._selectedAttr2;
 
     // Toggle selected class on attribute boxes
     html.find(".irt-attr-box").each((_, el) => {
-      el.classList.toggle("irt-attr-box--selected", el.dataset.attr === selected);
+      el.classList.toggle("irt-attr-box--selected", el.dataset.attr === selected || el.dataset.attr === selected2);
     });
 
     // Toggle clear button visibility
