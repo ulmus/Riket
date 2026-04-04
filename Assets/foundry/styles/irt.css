@@ -654,7 +654,25 @@
   font-weight: bold;
 }
 
-.irt-spend-btn:hover { background: #a31f1f; }
+.irt-spend-btn--fokus {
+  background: #e6a817;
+  color: #1a1a1a;
+}
+
+.irt-spend-btn--fokus:hover { background: #c89510; }
+
+.irt-spend-btn--stress {
+  background: #c62828;
+  color: #ffffff;
+}
+
+.irt-spend-btn--stress:hover { background: #a31f1f; }
+
+.irt-spend-explainer {
+  font-size: 9px;
+  color: #666;
+  margin-top: 2px;
+}
 
 /* Damage card */
 
