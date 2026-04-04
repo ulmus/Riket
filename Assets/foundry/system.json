@@ -1,0 +1,40 @@
+{
+  "id": "i-rikets-tjanst",
+  "title": "I Rikets Tjänst",
+  "description": "Ett taktiskt superhjälte-rollspel under kalla kriget.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "I Rikets Tjänst"
+    }
+  ],
+  "esmodules": ["irt.mjs"],
+  "styles": ["styles/irt.css"],
+  "languages": [
+    {
+      "lang": "sv",
+      "name": "Svenska",
+      "path": "lang/sv.json",
+      "flags": {}
+    },
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "primaryTokenAttribute": "kp",
+  "secondaryTokenAttribute": "fokus",
+  "initiative": "1d12 + @attributes.strid",
+  "gridDistance": 1,
+  "gridUnits": "m",
+  "background": "",
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
