@@ -141,26 +141,21 @@
   <section class="irt-section irt-damage-status">
     <h2 class="irt-section-title">{{localize "IRT.Skadeniva.label"}}</h2>
     <div class="irt-conditions-grid">
-      <label class="irt-condition">
-        <input type="radio" name="system.skadeniva" value="oskadd" {{#if (eq system.skadeniva "oskadd")}}checked{{/if}} />
+      <span class="irt-condition {{#if (eq system.skadeniva "oskadd")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.oskadd"}}
-      </label>
-      <label class="irt-condition irt-condition--warning">
-        <input type="radio" name="system.skadeniva" value="sarad" {{#if (eq system.skadeniva "sarad")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--warning {{#if (eq system.skadeniva "sarad")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.sarad"}} (+1)
-      </label>
-      <label class="irt-condition irt-condition--danger">
-        <input type="radio" name="system.skadeniva" value="medvetslos" {{#if (eq system.skadeniva "medvetslos")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--danger {{#if (eq system.skadeniva "medvetslos")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.medvetslos"}}
-      </label>
-      <label class="irt-condition irt-condition--critical">
-        <input type="radio" name="system.skadeniva" value="doende" {{#if (eq system.skadeniva "doende")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--critical {{#if (eq system.skadeniva "doende")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.doende"}}
-      </label>
-      <label class="irt-condition irt-condition--dead">
-        <input type="radio" name="system.skadeniva" value="dod" {{#if (eq system.skadeniva "dod")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--dead {{#if (eq system.skadeniva "dod")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.dod"}}
-      </label>
+      </span>
     </div>
     <div class="irt-blodning-row">
       <label>{{localize "IRT.Blodning.label"}}:</label>

@@ -321,5 +321,12 @@ export function registerChatListeners() {
         actor,
       });
     });
+
+    html.find(".irt-copy-crit-btn").on("click", async (ev) => {
+      ev.preventDefault();
+      const text = ev.currentTarget.dataset.critText;
+      await navigator.clipboard.writeText(text);
+      ui.notifications.info("Kritisk effekt kopierad.");
+    });
   });
 }

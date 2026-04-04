@@ -335,28 +335,34 @@
 
 .irt-conditions-grid {
   display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
+  gap: 4px;
   margin-bottom: 8px;
 }
 
 .irt-condition {
+  flex: 1;
   display: flex;
   align-items: center;
-  gap: 4px;
-  padding: 4px 10px;
+  justify-content: center;
+  padding: 6px 4px;
   background: var(--irt-bg-light);
   border: 1px solid var(--irt-border);
   font-size: 10px;
   font-weight: bold;
-  cursor: pointer;
+  text-align: center;
+  opacity: 0.5;
 }
 
-.irt-condition input { margin: 0; }
+.irt-condition--active { opacity: 1; }
 .irt-condition--warning { border-left: 3px solid var(--irt-warning); }
 .irt-condition--danger { border-left: 3px solid var(--irt-danger); }
 .irt-condition--critical { border-left: 3px solid #000; background: #ffebee; }
 .irt-condition--dead { border-left: 3px solid #000; background: #e0e0e0; color: #757575; }
+
+.irt-condition--warning.irt-condition--active { background: #fff3e0; }
+.irt-condition--danger.irt-condition--active { background: #ffebee; color: var(--irt-danger); }
+.irt-condition--critical.irt-condition--active { background: #ffcdd2; color: #000; }
+.irt-condition--dead.irt-condition--active { background: #bdbdbd; color: #212121; }
 
 .irt-blodning-row {
   display: flex;
@@ -757,6 +763,28 @@
 .irt-critical-effect {
   font-size: 11px;
   line-height: 1.4;
+}
+
+.irt-copy-crit-btn {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 3px 10px;
+  background: var(--irt-primary);
+  color: var(--irt-text-light);
+  border: none;
+  font-family: var(--irt-font);
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.irt-copy-crit-btn:hover {
+  background: #2a4f63;
+}
+
+.irt-copy-crit-btn i {
+  margin-right: 3px;
 }
 
 /* ====== Print Styles ====== */

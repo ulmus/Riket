@@ -4,7 +4,7 @@
  */
 
 import { IRTActorSheet } from "./module/actor/actor-sheet.mjs";
-import { calcAllDerived } from "./module/helpers/derived-stats.mjs";
+import { calcAllDerived, calcSkadeniva } from "./module/helpers/derived-stats.mjs";
 import { registerChatListeners } from "./module/dice/irt-roll.mjs";
 
 /* ---- Hooks ---- */
@@ -54,6 +54,13 @@ Hooks.on("preUpdateActor", (actor, changes) => {
     foundry.utils.setProperty(changes, "system.derived", derived);
     foundry.utils.setProperty(changes, "system.kp.max", derived.kpMax);
   }
+
+  // Auto-compute skadeniva when KP or attributes change
+  if (changes?.system?.kp?.value !== undefined || changes?.system?.attributes) {
+    const kpValue = changes?.system?.kp?.value ?? actor.system.kp.value;
+    const talighet = changes?.system?.derived?.talighet ?? actor.system.derived.talighet;
+    foundry.utils.setProperty(changes, "system.skadeniva", calcSkadeniva(kpValue, talighet));
+  }
 });
 
 /**
@@ -71,6 +78,7 @@ Hooks.on("prepareData", (document) => {
   system.derived.forflyttning = derived.forflyttning;
   system.derived.slagstyrka = derived.slagstyrka;
   system.kp.max = derived.kpMax;
+  system.skadeniva = calcSkadeniva(system.kp.value, derived.talighet);
 });
 
 /* ---- Handlebars helpers ---- */

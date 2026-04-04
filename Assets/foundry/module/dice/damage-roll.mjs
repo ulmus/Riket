@@ -199,10 +199,12 @@ function _buildDamageChat({ weaponName, dice, totalKP, kpFromDice, weaponSkada, 
 
   // Critical hit
   if (critCount > 0 && critResult) {
+    const critText = `${critResult.label}: ${critResult.effect}`;
     html += `<div class="irt-critical-hit">`;
     html += `<div class="irt-critical-header">&#128128; Kritisk träff! (${critRollValue} på ${damageType})</div>`;
     html += `<div class="irt-critical-label">${_esc(critResult.label)}</div>`;
     html += `<div class="irt-critical-effect">${_esc(critResult.effect)}</div>`;
+    html += `<button class="irt-copy-crit-btn" data-crit-text="${_esc(critText)}" title="Kopiera kritisk effekt"><i class="fas fa-clipboard"></i> Kopiera</button>`;
     html += `</div>`;
   } else if (critCount > 0) {
     html += `<div class="irt-critical-hit">`;
