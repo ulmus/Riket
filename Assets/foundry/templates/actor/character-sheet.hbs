@@ -2,66 +2,52 @@
 
   {{!-- Header --}}
   <header class="irt-header">
-    <h1 class="irt-title">I Rikets Tjänst</h1>
-    <div class="irt-subtitle">Program Frigg — Personakt</div>
+    <h1 class="irt-title">{{localize "IRT.SystemTitle"}}</h1>
+    <div class="irt-subtitle">{{localize "IRT.SystemSubtitle"}} — {{localize "IRT.CharInfo"}}</div>
   </header>
 
   {{!-- Character Info --}}
   <section class="irt-section irt-char-info">
-    <h2 class="irt-section-title">Personakt</h2>
+    <h2 class="irt-section-title">{{localize "IRT.CharInfo"}}</h2>
     <div class="irt-info-grid">
       <div class="irt-field">
-        <label>Namn</label>
-        <input type="text" name="name" value="{{actor.name}}" placeholder="Kodnamn / Riktigt namn" />
+        <label>{{localize "IRT.Name"}}</label>
+        <input type="text" name="name" value="{{actor.name}}" placeholder="{{localize "IRT.NamePlaceholder"}}" />
       </div>
       <div class="irt-field">
-        <label>Expertis</label>
-        <input type="text" name="system.expertis" value="{{system.expertis}}" placeholder="T.ex. Soldat, Spion, Läkare" />
+        <label>{{localize "IRT.Expertis"}}</label>
+        <input type="text" name="system.expertis" value="{{system.expertis}}" placeholder="{{localize "IRT.ExpertisPlaceholder"}}" />
       </div>
       <div class="irt-field">
-        <label>Trauma</label>
+        <label>{{localize "IRT.Trauma"}}</label>
         <select name="system.trauma.type">
           <option value="">—</option>
           {{#each traumaTypes}}
           <option value="{{this}}" {{#if (eq this ../system.trauma.type)}}selected{{/if}}>
-            {{lookup (lookup @root "IRT.TraumaTypes") this}}{{!-- fallback --}}
-            {{#if (eq this "forlust")}}Förlust{{/if}}
-            {{#if (eq this "vanmakt")}}Vanmakt{{/if}}
-            {{#if (eq this "skuld")}}Skuld{{/if}}
-            {{#if (eq this "svek")}}Svek{{/if}}
-            {{#if (eq this "skam")}}Skam{{/if}}
+            {{localize (concat "IRT.TraumaTypes." this)}}
           </option>
           {{/each}}
         </select>
       </div>
       <div class="irt-field">
         <label>
-          <input type="checkbox" name="system.isNPC" class="irt-npc-toggle" {{#if system.isNPC}}checked{{/if}} /> SLP-karaktär
+          <input type="checkbox" name="system.isNPC" class="irt-npc-toggle" {{#if system.isNPC}}checked{{/if}} /> {{localize "IRT.IsNPC"}}
         </label>
       </div>
       <div class="irt-field irt-field--wide">
-        <label>Traumabeskrivning</label>
-        <textarea name="system.trauma.description" placeholder="Beskriv händelsen som format din karaktär...">{{system.trauma.description}}</textarea>
+        <label>{{localize "IRT.TraumaDescription"}}</label>
+        <textarea name="system.trauma.description" placeholder="{{localize "IRT.TraumaPlaceholder"}}">{{system.trauma.description}}</textarea>
       </div>
     </div>
   </section>
 
   {{!-- Attributes --}}
   <section class="irt-section irt-attributes">
-    <h2 class="irt-section-title">Egenskaper</h2>
+    <h2 class="irt-section-title">{{localize "IRT.Attributes"}}</h2>
     <div class="irt-attr-grid">
       {{#each attributeKeys}}
       <div class="irt-attr-box">
-        <label class="irt-attr-name">
-          {{#if (eq this "analys")}}Analys{{/if}}
-          {{#if (eq this "fysik")}}Fysik{{/if}}
-          {{#if (eq this "list")}}List{{/if}}
-          {{#if (eq this "samspel")}}Samspel{{/if}}
-          {{#if (eq this "sinnen")}}Sinnen{{/if}}
-          {{#if (eq this "smidighet")}}Smidighet{{/if}}
-          {{#if (eq this "strid")}}Strid{{/if}}
-          {{#if (eq this "vilja")}}Vilja{{/if}}
-        </label>
+        <label class="irt-attr-name">{{localize (concat "IRT.Attr." this)}}</label>
         <input type="number" name="system.attributes.{{this}}" value="{{lookup ../system.attributes this}}" min="1" max="5" />
         <button type="button" class="irt-attr-roll" data-attr="{{this}}" title="Slå {{this}} + {{this}}">
           <i class="fas fa-dice-d20"></i>
@@ -73,56 +59,38 @@
 
   {{!-- Custom Roll --}}
   <section class="irt-section irt-custom-roll-section">
-    <h2 class="irt-section-title">Egenskapsslag</h2>
+    <h2 class="irt-section-title">{{localize "IRT.RollSection"}}</h2>
     <div class="irt-custom-roll-form">
       <div class="irt-field">
-        <label>Egenskap 1</label>
+        <label>{{localize "IRT.FirstAttr"}}</label>
         <select name="customAttr1">
           {{#each attributeKeys}}
-          <option value="{{this}}">
-            {{#if (eq this "analys")}}Analys{{/if}}
-            {{#if (eq this "fysik")}}Fysik{{/if}}
-            {{#if (eq this "list")}}List{{/if}}
-            {{#if (eq this "samspel")}}Samspel{{/if}}
-            {{#if (eq this "sinnen")}}Sinnen{{/if}}
-            {{#if (eq this "smidighet")}}Smidighet{{/if}}
-            {{#if (eq this "strid")}}Strid{{/if}}
-            {{#if (eq this "vilja")}}Vilja{{/if}}
-          </option>
+          <option value="{{this}}">{{localize (concat "IRT.Attr." this)}}</option>
           {{/each}}
         </select>
       </div>
       <div class="irt-field">
-        <label>Egenskap 2</label>
+        <label>{{localize "IRT.SecondAttr"}}</label>
         <select name="customAttr2">
           {{#each attributeKeys}}
-          <option value="{{this}}">
-            {{#if (eq this "analys")}}Analys{{/if}}
-            {{#if (eq this "fysik")}}Fysik{{/if}}
-            {{#if (eq this "list")}}List{{/if}}
-            {{#if (eq this "samspel")}}Samspel{{/if}}
-            {{#if (eq this "sinnen")}}Sinnen{{/if}}
-            {{#if (eq this "smidighet")}}Smidighet{{/if}}
-            {{#if (eq this "strid")}}Strid{{/if}}
-            {{#if (eq this "vilja")}}Vilja{{/if}}
-          </option>
+          <option value="{{this}}">{{localize (concat "IRT.Attr." this)}}</option>
           {{/each}}
         </select>
       </div>
       <div class="irt-field">
-        <label>Mod</label>
+        <label>{{localize "IRT.Modifier"}}</label>
         <input type="number" name="customMod" value="0" />
       </div>
-      <button type="button" class="irt-custom-roll irt-btn">Slå</button>
+      <button type="button" class="irt-custom-roll irt-btn">{{localize "IRT.Roll"}}</button>
     </div>
   </section>
 
   {{!-- Secondary Stats --}}
   <section class="irt-section irt-secondary">
-    <h2 class="irt-section-title">Sekundära Egenskaper</h2>
+    <h2 class="irt-section-title">{{localize "IRT.Secondary"}}</h2>
     <div class="irt-secondary-grid">
       <div class="irt-secondary-stat">
-        <label>KP</label>
+        <label>{{localize "IRT.KPShort"}}</label>
         <div class="irt-stat-display">
           <input type="number" name="system.kp.value" value="{{system.kp.value}}" class="irt-current" />
           <span class="irt-sep">/</span>
@@ -130,19 +98,19 @@
         </div>
       </div>
       <div class="irt-secondary-stat">
-        <label>Tålighet</label>
+        <label>{{localize "IRT.Derived.talighet"}}</label>
         <span class="irt-derived-val">{{system.derived.talighet}}</span>
       </div>
       <div class="irt-secondary-stat">
-        <label>Stabilitet</label>
+        <label>{{localize "IRT.Derived.stabilitet"}}</label>
         <span class="irt-derived-val">{{system.derived.stabilitet}}</span>
       </div>
       <div class="irt-secondary-stat">
-        <label>Förflyttning</label>
+        <label>{{localize "IRT.Derived.forflyttning"}}</label>
         <span class="irt-derived-val">{{system.derived.forflyttning}} m</span>
       </div>
       <div class="irt-secondary-stat">
-        <label>Slagstyrka</label>
+        <label>{{localize "IRT.Derived.slagstyrka"}}</label>
         <span class="irt-derived-val">{{system.derived.slagstyrka}}</span>
       </div>
     </div>
@@ -150,20 +118,20 @@
 
   {{!-- Resources --}}
   <section class="irt-section irt-resources">
-    <h2 class="irt-section-title">Resurser</h2>
+    <h2 class="irt-section-title">{{localize "IRT.Resources"}}</h2>
     <div class="irt-resources-grid">
       <div class="irt-resource">
-        <label>Fokus</label>
+        <label>{{localize "IRT.Fokus"}}</label>
         <input type="number" name="system.fokus.value" value="{{system.fokus.value}}" min="0" class="irt-resource-input" />
-        <span class="irt-resource-note">Momentum: {{system.fokus.momentum}}</span>
+        <span class="irt-resource-note">{{localize "IRT.Momentum"}}: {{system.fokus.momentum}}</span>
       </div>
       <div class="irt-resource irt-resource--stress">
-        <label>Stress</label>
+        <label>{{localize "IRT.Stress"}}</label>
         <input type="number" name="system.stress.value" value="{{system.stress.value}}" min="0" class="irt-resource-input" />
         <span class="irt-resource-note">Sammanbrott vid &gt; {{system.derived.stabilitet}}</span>
       </div>
       <div class="irt-resource">
-        <label>Momentum</label>
+        <label>{{localize "IRT.Momentum"}}</label>
         <input type="number" name="system.fokus.momentum" value="{{system.fokus.momentum}}" min="1" max="5" class="irt-resource-input irt-resource-input--small" />
       </div>
     </div>
@@ -171,90 +139,81 @@
 
   {{!-- Damage Status --}}
   <section class="irt-section irt-damage-status">
-    <h2 class="irt-section-title">Skadenivå</h2>
+    <h2 class="irt-section-title">{{localize "IRT.DamageLevel"}}</h2>
     <div class="irt-conditions-grid">
       <label class="irt-condition">
         <input type="radio" name="system.skadeniva" value="oskadd" {{#if (eq system.skadeniva "oskadd")}}checked{{/if}} />
-        Oskadd
+        {{localize "IRT.Skadeniva.oskadd"}}
       </label>
       <label class="irt-condition irt-condition--warning">
         <input type="radio" name="system.skadeniva" value="sarad" {{#if (eq system.skadeniva "sarad")}}checked{{/if}} />
-        Sårad (+1 svårighet)
+        {{localize "IRT.Skadeniva.sarad"}} (+1)
       </label>
       <label class="irt-condition irt-condition--danger">
         <input type="radio" name="system.skadeniva" value="medvetslos" {{#if (eq system.skadeniva "medvetslos")}}checked{{/if}} />
-        Medvetslös
+        {{localize "IRT.Skadeniva.medvetslos"}}
       </label>
       <label class="irt-condition irt-condition--critical">
         <input type="radio" name="system.skadeniva" value="doende" {{#if (eq system.skadeniva "doende")}}checked{{/if}} />
-        Döende
+        {{localize "IRT.Skadeniva.doende"}}
       </label>
       <label class="irt-condition irt-condition--dead">
         <input type="radio" name="system.skadeniva" value="dod" {{#if (eq system.skadeniva "dod")}}checked{{/if}} />
-        Död
+        {{localize "IRT.Skadeniva.dod"}}
       </label>
     </div>
     <div class="irt-blodning-row">
-      <label>Blödning:</label>
+      <label>{{localize "IRT.Blodning"}}:</label>
       <select name="system.blodning">
-        <option value="ingen" {{#if (eq system.blodning "ingen")}}selected{{/if}}>Ingen</option>
-        <option value="latt" {{#if (eq system.blodning "latt")}}selected{{/if}}>Lätt</option>
-        <option value="kraftig" {{#if (eq system.blodning "kraftig")}}selected{{/if}}>Kraftig</option>
+        <option value="ingen" {{#if (eq system.blodning "ingen")}}selected{{/if}}>{{localize "IRT.Blodning.ingen"}}</option>
+        <option value="latt" {{#if (eq system.blodning "latt")}}selected{{/if}}>{{localize "IRT.Blodning.latt"}}</option>
+        <option value="kraftig" {{#if (eq system.blodning "kraftig")}}selected{{/if}}>{{localize "IRT.Blodning.kraftig"}}</option>
       </select>
     </div>
     <div class="irt-field">
-      <label>Kritiska effekter</label>
-      <textarea name="system.kritiska_effekter" placeholder="Aktiva kritiska träff-effekter...">{{system.kritiska_effekter}}</textarea>
+      <label>{{localize "IRT.KritiskaEffekter"}}</label>
+      <textarea name="system.kritiska_effekter" placeholder="{{localize "IRT.KritiskaEffekterPlaceholder"}}">{{system.kritiska_effekter}}</textarea>
     </div>
   </section>
 
   {{!-- Weapons --}}
   <section class="irt-section irt-weapons">
-    <h2 class="irt-section-title">Vapen</h2>
+    <h2 class="irt-section-title">{{localize "IRT.Weapons"}}</h2>
     {{#each weapons}}
     <div class="irt-item-row" data-item-id="{{this._id}}">
-      <input type="text" class="irt-item-input" data-field="name" value="{{this.name}}" placeholder="Vapennamn" />
+      <input type="text" class="irt-item-input" data-field="name" value="{{this.name}}" placeholder="{{localize "IRT.WeaponName"}}" />
       <select class="irt-item-input" data-field="attackAttr">
-        <option value="fysik" {{#if (eq this.system.attackAttr "fysik")}}selected{{/if}}>Fysik</option>
-        <option value="smidighet" {{#if (eq this.system.attackAttr "smidighet")}}selected{{/if}}>Smidighet</option>
+        <option value="fysik" {{#if (eq this.system.attackAttr "fysik")}}selected{{/if}}>{{localize "IRT.Attr.fysik"}}</option>
+        <option value="smidighet" {{#if (eq this.system.attackAttr "smidighet")}}selected{{/if}}>{{localize "IRT.Attr.smidighet"}}</option>
       </select>
-      <input type="number" class="irt-item-input irt-item-num" data-field="damage" value="{{this.system.damage}}" title="Skada" />
-      <input type="number" class="irt-item-input irt-item-num" data-field="range" value="{{this.system.range}}" title="Räckvidd (m)" />
+      <input type="number" class="irt-item-input irt-item-num" data-field="damage" value="{{this.system.damage}}" title="{{localize "IRT.WeaponDamage"}}" />
+      <input type="number" class="irt-item-input irt-item-num" data-field="range" value="{{this.system.range}}" title="{{localize "IRT.WeaponRange"}} (m)" />
       <select class="irt-item-input" data-field="damageType">
         {{#each ../damageTypes}}
         <option value="{{this}}" {{#if (eq this ../this.system.damageType)}}selected{{/if}}>
-          {{#if (eq this "kross")}}Kross{{/if}}
-          {{#if (eq this "stick")}}Stick{{/if}}
-          {{#if (eq this "hugg")}}Hugg{{/if}}
-          {{#if (eq this "eld")}}Eld{{/if}}
-          {{#if (eq this "skjutvapen")}}Skjutvapen{{/if}}
-          {{#if (eq this "explosion")}}Explosion{{/if}}
-          {{#if (eq this "gift")}}Gift{{/if}}
-          {{#if (eq this "blodning")}}Blödning{{/if}}
-          {{#if (eq this "stralning")}}Strålning{{/if}}
-          {{#if (eq this "ovriga")}}Övriga{{/if}}
+          {{localize (concat "IRT.DamageType." this)}}
         </option>
         {{/each}}
       </select>
-      <input type="text" class="irt-item-input" data-field="properties" value="{{this.system.properties}}" placeholder="Egenskaper" />
-      <button type="button" class="irt-weapon-attack irt-btn irt-btn--sm" title="Attackslag">Träffa</button>
-      <button type="button" class="irt-weapon-damage irt-btn irt-btn--sm" title="Skadeslag">Skada</button>
+      <input type="text" class="irt-item-input" data-field="properties" value="{{this.system.properties}}" placeholder="{{localize "IRT.WeaponProperties"}}" />
+      <button type="button" class="irt-weapon-attack irt-btn irt-btn--sm" title="{{localize "IRT.Attack"}}">{{localize "IRT.Attack"}}</button>
+      <button type="button" class="irt-weapon-damage irt-btn irt-btn--sm" title="{{localize "IRT.DamageRoll"}}">{{localize "IRT.DamageRoll"}}</button>
       <button type="button" class="irt-item-delete irt-btn-icon" title="Ta bort"><i class="fas fa-trash"></i></button>
     </div>
     {{/each}}
-    <button type="button" class="irt-item-create irt-btn" data-type="weapon"><i class="fas fa-plus"></i> Lägg till vapen</button>
+    <button type="button" class="irt-item-create irt-btn" data-type="weapon"><i class="fas fa-plus"></i> {{localize "IRT.Weapons"}}</button>
   </section>
 
   {{!-- Armor --}}
   <section class="irt-section irt-armor">
-    <h2 class="irt-section-title">Skydd</h2>
+    <h2 class="irt-section-title">{{localize "IRT.Armor"}}</h2>
     <div class="irt-armor-row">
       <div class="irt-field">
-        <label>Rustning/Skydd</label>
-        <input type="text" name="system.skydd.name" value="{{system.skydd.name}}" placeholder="Typ av skydd" />
+        <label>{{localize "IRT.ArmorName"}}</label>
+        <input type="text" name="system.skydd.name" value="{{system.skydd.name}}" placeholder="{{localize "IRT.ArmorName"}}" />
       </div>
       <div class="irt-field">
-        <label>Skyddsvärde</label>
+        <label>{{localize "IRT.ArmorValue"}}</label>
         <input type="number" name="system.skydd.value" value="{{system.skydd.value}}" min="0" />
       </div>
     </div>
@@ -262,65 +221,65 @@
 
   {{!-- Powers --}}
   <section class="irt-section irt-powers irt-collapsible {{#if system.isNPC}}collapsed{{/if}}">
-    <h2 class="irt-section-title irt-collapse-toggle">Krafter <span class="irt-collapse-icon">&#9660;</span></h2>
+    <h2 class="irt-section-title irt-collapse-toggle">{{localize "IRT.Powers"}} <span class="irt-collapse-icon">&#9660;</span></h2>
     <div class="irt-collapsible-content">
       {{#each powers}}
       <div class="irt-item-row irt-power-row" data-item-id="{{this._id}}">
-        <input type="text" class="irt-item-input" data-field="name" value="{{this.name}}" placeholder="Kraftens namn" />
+        <input type="text" class="irt-item-input" data-field="name" value="{{this.name}}" placeholder="{{localize "IRT.PowerName"}}" />
         <div class="irt-power-cost">
-          <label>Fokus:</label>
+          <label>{{localize "IRT.PowerCost"}}:</label>
           <input type="number" class="irt-item-input irt-item-num" data-field="fokusCost" value="{{this.system.fokusCost}}" min="0" />
         </div>
-        <textarea class="irt-item-input" data-field="description" placeholder="Beskrivning och effekt...">{{this.system.description}}</textarea>
+        <textarea class="irt-item-input" data-field="description" placeholder="{{localize "IRT.PowerDescription"}}">{{this.system.description}}</textarea>
         <button type="button" class="irt-item-delete irt-btn-icon" title="Ta bort"><i class="fas fa-trash"></i></button>
       </div>
       {{/each}}
-      <button type="button" class="irt-item-create irt-btn" data-type="power"><i class="fas fa-plus"></i> Lägg till kraft</button>
+      <button type="button" class="irt-item-create irt-btn" data-type="power"><i class="fas fa-plus"></i> {{localize "IRT.Powers"}}</button>
     </div>
   </section>
 
   {{!-- Abilities --}}
   <section class="irt-section irt-abilities irt-collapsible {{#if system.isNPC}}collapsed{{/if}}">
-    <h2 class="irt-section-title irt-collapse-toggle">Förmågor <span class="irt-collapse-icon">&#9660;</span></h2>
+    <h2 class="irt-section-title irt-collapse-toggle">{{localize "IRT.Abilities"}} <span class="irt-collapse-icon">&#9660;</span></h2>
     <div class="irt-collapsible-content">
       {{#each abilities}}
       <div class="irt-item-row irt-ability-row" data-item-id="{{this._id}}">
-        <input type="text" class="irt-item-input" data-field="name" value="{{this.name}}" placeholder="Förmågans namn" />
-        <input type="text" class="irt-item-input" data-field="requirements" value="{{this.system.requirements}}" placeholder="Krav" />
-        <textarea class="irt-item-input" data-field="description" placeholder="Beskrivning och effekt...">{{this.system.description}}</textarea>
+        <input type="text" class="irt-item-input" data-field="name" value="{{this.name}}" placeholder="{{localize "IRT.AbilityName"}}" />
+        <input type="text" class="irt-item-input" data-field="requirements" value="{{this.system.requirements}}" placeholder="{{localize "IRT.AbilityRequirements"}}" />
+        <textarea class="irt-item-input" data-field="description" placeholder="{{localize "IRT.AbilityDescription"}}">{{this.system.description}}</textarea>
         <button type="button" class="irt-item-delete irt-btn-icon" title="Ta bort"><i class="fas fa-trash"></i></button>
       </div>
       {{/each}}
-      <button type="button" class="irt-item-create irt-btn" data-type="ability"><i class="fas fa-plus"></i> Lägg till förmåga</button>
+      <button type="button" class="irt-item-create irt-btn" data-type="ability"><i class="fas fa-plus"></i> {{localize "IRT.Abilities"}}</button>
     </div>
   </section>
 
   {{!-- Equipment, Languages, Notes --}}
   <section class="irt-section irt-misc irt-collapsible {{#if system.isNPC}}collapsed{{/if}}">
-    <h2 class="irt-section-title irt-collapse-toggle">Utrustning &amp; Anteckningar <span class="irt-collapse-icon">&#9660;</span></h2>
+    <h2 class="irt-section-title irt-collapse-toggle">{{localize "IRT.Equipment"}} &amp; {{localize "IRT.Notes"}} <span class="irt-collapse-icon">&#9660;</span></h2>
     <div class="irt-collapsible-content">
       <div class="irt-field">
-        <label>Utrustning</label>
-        <textarea name="system.equipment" placeholder="Lista din utrustning här...">{{system.equipment}}</textarea>
+        <label>{{localize "IRT.Equipment"}}</label>
+        <textarea name="system.equipment" placeholder="{{localize "IRT.EquipmentPlaceholder"}}">{{system.equipment}}</textarea>
       </div>
       <div class="irt-field">
-        <label>Språk <span class="irt-note">(antal = Analys)</span></label>
-        <textarea name="system.languages" placeholder="Lista dina språk här (modersmål först)...">{{system.languages}}</textarea>
+        <label>{{localize "IRT.Languages"}} <span class="irt-note">({{localize "IRT.LanguagesNote"}})</span></label>
+        <textarea name="system.languages" placeholder="{{localize "IRT.LanguagesPlaceholder"}}">{{system.languages}}</textarea>
       </div>
       <div class="irt-field">
-        <label>Anteckningar</label>
-        <textarea name="system.notes" rows="6" placeholder="Bakgrund, kontakter, mål och andra anteckningar...">{{system.notes}}</textarea>
+        <label>{{localize "IRT.Notes"}}</label>
+        <textarea name="system.notes" rows="6" placeholder="{{localize "IRT.NotesPlaceholder"}}">{{system.notes}}</textarea>
       </div>
     </div>
   </section>
 
   {{!-- XP --}}
   <section class="irt-section irt-xp irt-collapsible {{#if system.isNPC}}collapsed{{/if}}">
-    <h2 class="irt-section-title irt-collapse-toggle">Erfarenhet <span class="irt-collapse-icon">&#9660;</span></h2>
+    <h2 class="irt-section-title irt-collapse-toggle">{{localize "IRT.XP"}} <span class="irt-collapse-icon">&#9660;</span></h2>
     <div class="irt-collapsible-content">
       <div class="irt-xp-row">
         <div class="irt-field">
-          <label>EP</label>
+          <label>{{localize "IRT.XPShort"}}</label>
           <input type="number" name="system.xp" value="{{system.xp}}" min="0" class="irt-xp-input" />
         </div>
         <div class="irt-xp-costs">

@@ -25,11 +25,21 @@ export function assertEqual(actual, expected, msg = "") {
 }
 
 export function assertDeepEqual(actual, expected, msg = "") {
-  const a = JSON.stringify(actual);
-  const e = JSON.stringify(expected);
-  if (a !== e) {
-    throw new Error(`${msg ? msg + ": " : ""}expected ${e}, got ${a}`);
+  if (!_deepEqual(actual, expected)) {
+    throw new Error(`${msg ? msg + ": " : ""}expected ${JSON.stringify(expected)}, got ${JSON.stringify(actual)}`);
   }
+}
+
+function _deepEqual(a, b) {
+  if (a === b) return true;
+  if (a == null || b == null) return false;
+  if (typeof a !== typeof b) return false;
+  if (typeof a !== "object") return false;
+  if (Array.isArray(a) !== Array.isArray(b)) return false;
+  const keysA = Object.keys(a);
+  const keysB = Object.keys(b);
+  if (keysA.length !== keysB.length) return false;
+  return keysA.every((k) => _deepEqual(a[k], b[k]));
 }
 
 export function assertTruthy(val, msg = "") {

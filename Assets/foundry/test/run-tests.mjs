@@ -1,6 +1,6 @@
 /**
  * I Rikets Tjänst - Test Runner
- * Zero-dependency test runner using Node.js built-in assert.
+ * Zero-dependency test runner using custom assertion helpers.
  * Run: node Assets/foundry/test/run-tests.mjs
  */
 

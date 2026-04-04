@@ -100,6 +100,10 @@ export async function spendFokusOnRoll(rollId, amount, useStress = false) {
 
   const actor = game.actors.get(pending.actorId);
   if (!actor) return;
+  if (!actor.isOwner) {
+    ui.notifications.warn("Du har inte behörighet att ändra denna karaktär.");
+    return;
+  }
 
   const current = useStress ? (actor.system.stress.value ?? 0) : (actor.system.fokus.value ?? 0);
 
@@ -192,9 +196,16 @@ function _dieClass(val) {
   return "irt-die";
 }
 
+function _esc(str) {
+  if (typeof foundry !== "undefined" && foundry.utils?.escapeHTML) {
+    return foundry.utils.escapeHTML(str);
+  }
+  return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
 function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent }) {
   let html = `<div class="irt-roll-card">`;
-  html += `<div class="irt-roll-header">${rollLabel}</div>`;
+  html += `<div class="irt-roll-header">${_esc(rollLabel)}</div>`;
   html += `<div class="irt-roll-body">`;
 
   // Dice

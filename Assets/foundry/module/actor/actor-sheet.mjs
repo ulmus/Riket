@@ -3,9 +3,8 @@
  * Shared ActorSheet for PC and NPC characters.
  */
 
-import { calcAllDerived, calcSkadeniva } from "../helpers/derived-stats.mjs";
 import { attributeRoll } from "../dice/irt-roll.mjs";
-import { damageRollDialog, damageRoll } from "../dice/damage-roll.mjs";
+import { damageRollDialog } from "../dice/damage-roll.mjs";
 
 export class IRTActorSheet extends ActorSheet {
   static get defaultOptions() {
@@ -14,8 +13,7 @@ export class IRTActorSheet extends ActorSheet {
       template: "systems/i-rikets-tjanst/templates/actor/character-sheet.hbs",
       width: 750,
       height: 800,
-      tabs: [{ navSelector: ".sheet-tabs", contentSelector: ".sheet-body", initial: "attributes" }],
-      scrollY: [".sheet-body"],
+      scrollY: [".irt-sheet"],
     });
   }
 
@@ -92,7 +90,7 @@ export class IRTActorSheet extends ActorSheet {
     ev.preventDefault();
     const attr = ev.currentTarget.dataset.attr;
     // Roll attr + attr (same attribute doubled)
-    await attributeRoll(this.actor, { attr1: attr, attr2: attr, difficulty: 1 });
+    await attributeRoll(this.actor, { attr1: attr, attr2: attr });
   }
 
   async _onCustomRoll(ev) {

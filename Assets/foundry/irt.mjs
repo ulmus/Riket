@@ -4,7 +4,7 @@
  */
 
 import { IRTActorSheet } from "./module/actor/actor-sheet.mjs";
-import { calcAllDerived, calcSkadeniva } from "./module/helpers/derived-stats.mjs";
+import { calcAllDerived } from "./module/helpers/derived-stats.mjs";
 import { registerChatListeners } from "./module/dice/irt-roll.mjs";
 
 /* ---- Hooks ---- */
@@ -22,7 +22,7 @@ Hooks.once("init", () => {
   Actors.registerSheet("i-rikets-tjanst", IRTActorSheet, {
     types: ["character"],
     makeDefault: true,
-    label: "IRT.CharacterSheet",
+    label: "IRT.SheetLabel",
   });
 
   // Register Handlebars helpers
@@ -78,6 +78,11 @@ Hooks.on("prepareData", (document) => {
 function _registerHelpers() {
   Handlebars.registerHelper("eq", (a, b) => a === b);
   Handlebars.registerHelper("gt", (a, b) => a > b);
+  Handlebars.registerHelper("concat", (...args) => {
+    // Last argument is the Handlebars options hash - exclude it
+    args.pop();
+    return args.join("");
+  });
   Handlebars.registerHelper("irt-capitalize", (s) => {
     if (typeof s !== "string") return "";
     return s.charAt(0).toUpperCase() + s.slice(1);

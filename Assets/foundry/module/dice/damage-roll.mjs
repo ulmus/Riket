@@ -169,9 +169,16 @@ function _dieClass(val) {
   return "irt-die";
 }
 
+function _esc(str) {
+  if (typeof foundry !== "undefined" && foundry.utils?.escapeHTML) {
+    return foundry.utils.escapeHTML(str);
+  }
+  return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+}
+
 function _buildDamageChat({ weaponName, dice, totalKP, kpFromDice, weaponSkada, skydd, critCount, critRollValue, critResult, damageType }) {
   let html = `<div class="irt-roll-card irt-damage-card">`;
-  html += `<div class="irt-roll-header">${weaponName}</div>`;
+  html += `<div class="irt-roll-header">${_esc(weaponName)}</div>`;
   html += `<div class="irt-roll-body">`;
 
   // Dice
@@ -194,8 +201,8 @@ function _buildDamageChat({ weaponName, dice, totalKP, kpFromDice, weaponSkada, 
   if (critCount > 0 && critResult) {
     html += `<div class="irt-critical-hit">`;
     html += `<div class="irt-critical-header">&#128128; Kritisk träff! (${critRollValue} på ${damageType})</div>`;
-    html += `<div class="irt-critical-label">${critResult.label}</div>`;
-    html += `<div class="irt-critical-effect">${critResult.effect}</div>`;
+    html += `<div class="irt-critical-label">${_esc(critResult.label)}</div>`;
+    html += `<div class="irt-critical-effect">${_esc(critResult.effect)}</div>`;
     html += `</div>`;
   } else if (critCount > 0) {
     html += `<div class="irt-critical-hit">`;
