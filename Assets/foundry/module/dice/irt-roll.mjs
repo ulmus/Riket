@@ -7,6 +7,8 @@
  * and allows spending Focus/Stress to add more dice.
  */
 
+import { damageRoll } from "./damage-roll.mjs";
+
 /* ---- Pure helper functions (testable without Foundry) ---- */
 
 /**
@@ -35,7 +37,7 @@ export function analyzeResults(dice) {
  * @param {number} [options.modifier=0]
  * @param {string} [options.label]
  */
-export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label = "" }) {
+export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label = "", weapon = null }) {
   const a1 = actor.system.attributes[attr1] ?? 0;
   const a2 = actor.system.attributes[attr2] ?? 0;
   const pool = Math.max(1, a1 + a2 + modifier);
@@ -59,6 +61,14 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
   // Build chat HTML
   const fokusAvailable = (actor.system.fokus.value ?? 0) + fokusEarned;
   const stabilitet = actor.system.derived?.stabilitet ?? 0;
+  // Serialize weapon data for chat embedding
+  const weaponData = weapon ? {
+    name: weapon.name,
+    damage: weapon.system.damage ?? 0,
+    damageType: weapon.system.damageType ?? "kross",
+    penetrerande: (weapon.system.properties ?? "").toLowerCase().includes("penetrerande"),
+  } : null;
+
   const html = _buildRollChat({
     rollLabel,
     dice,
@@ -69,6 +79,7 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
     fokusSpent: 0,
     fokusAvailable,
     stabilitet,
+    weaponData,
   });
 
   // Always store for potential Focus spend (GM decides if it failed)
@@ -79,6 +90,7 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
     fokusEarned,
     rollLabel,
     fokusSpent: 0,
+    weaponData,
   });
 
   await ChatMessage.create({
@@ -156,6 +168,7 @@ export async function spendFokusOnRoll(rollId, amount) {
     fokusSpent: pending.fokusSpent,
     fokusAvailable: updatedFokus,
     stabilitet,
+    weaponData: pending.weaponData,
   });
 
   await ChatMessage.create({
@@ -211,7 +224,7 @@ function _esc(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
-function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent, fokusAvailable, stabilitet }) {
+function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent, fokusAvailable, stabilitet, weaponData = null }) {
   let html = `<div class="irt-roll-card">`;
   html += `<div class="irt-roll-header">${_esc(rollLabel)}</div>`;
   html += `<div class="irt-roll-body">`;
@@ -267,6 +280,14 @@ function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actor
     html += `</div>`;
   }
 
+  // Damage roll button for weapon attacks
+  if (weaponData && successes > 0) {
+    html += `<div class="irt-roll-damage-row">`;
+    html += `<button class="irt-roll-damage-btn" data-successes="${successes}" data-weapon-name="${_esc(weaponData.name)}" data-weapon-skada="${weaponData.damage}" data-damage-type="${weaponData.damageType}" data-penetrerande="${weaponData.penetrerande}" data-actor-id="${actorId}">`;
+    html += `<i class="fas fa-burst"></i> Slå skada (${successes} tärning${successes !== 1 ? "ar" : ""})`;
+    html += `</button></div>`;
+  }
+
   html += `</div></div>`;
   return html;
 }
@@ -283,6 +304,29 @@ export function registerChatListeners() {
       const rollId = btn.dataset.rollId;
       const amount = parseInt(btn.dataset.amount) || 1;
       await spendFokusOnRoll(rollId, amount);
+    });
+
+    html.find(".irt-roll-damage-btn").on("click", async (ev) => {
+      ev.preventDefault();
+      const btn = ev.currentTarget;
+      const actorId = btn.dataset.actorId;
+      const actor = game.actors.get(actorId) ?? null;
+      await damageRoll({
+        numDice: parseInt(btn.dataset.successes) || 1,
+        weaponSkada: parseInt(btn.dataset.weaponSkada) || 0,
+        damageType: btn.dataset.damageType || "kross",
+        weaponName: btn.dataset.weaponName || "Skada",
+        skydd: 0,
+        penetrerande: btn.dataset.penetrerande === "true",
+        actor,
+      });
+    });
+
+    html.find(".irt-copy-crit-btn").on("click", async (ev) => {
+      ev.preventDefault();
+      const text = ev.currentTarget.dataset.critText;
+      await navigator.clipboard.writeText(text);
+      ui.notifications.info("Kritisk effekt kopierad.");
     });
   });
 }

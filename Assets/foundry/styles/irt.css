@@ -158,45 +158,76 @@
   background: #fff;
 }
 
-.irt-attr-roll {
-  display: inline-block;
+.irt-attr-select {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   margin-top: 4px;
   background: var(--irt-secondary);
   color: var(--irt-text-light);
   border: none;
-  width: 24px;
-  height: 24px;
+  width: 28px;
+  height: 28px;
   cursor: pointer;
-  font-size: 11px;
-  line-height: 24px;
   padding: 0;
+  clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+  transition: background 0.15s;
 }
 
-.irt-attr-roll:hover {
+.irt-attr-select:hover {
   background: #a31f1f;
 }
 
-/* ====== Custom Roll ====== */
+.irt-d12-icon::before {
+  content: "12";
+  font-size: 10px;
+  font-weight: bold;
+}
 
-.irt-custom-roll-form {
+/* Selected attribute */
+
+.irt-attr-box--selected {
+  border-color: var(--irt-accent);
+  box-shadow: 0 0 0 2px var(--irt-accent);
+}
+
+.irt-attr-box--selected .irt-attr-select {
+  background: var(--irt-accent);
+  color: #1a1a1a;
+}
+
+/* Clear button on section title */
+
+.irt-attributes .irt-section-title {
   display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  align-items: flex-end;
+  align-items: center;
 }
 
-.irt-custom-roll-form .irt-field {
-  flex: 1;
-  min-width: 80px;
+.irt-attr-clear {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--irt-border);
+  color: var(--irt-text-muted);
+  width: 22px;
+  height: 22px;
+  font-size: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
 }
 
-.irt-custom-roll-form select,
-.irt-custom-roll-form input {
-  width: 100%;
-  height: 28px;
-  font-size: 11px;
-  padding: 2px 4px;
-  box-sizing: border-box;
+.irt-attr-clear--visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.irt-attr-clear--visible:hover {
+  color: var(--irt-danger);
+  border-color: var(--irt-danger);
 }
 
 /* ====== Buttons ====== */
@@ -335,28 +366,34 @@
 
 .irt-conditions-grid {
   display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
+  gap: 4px;
   margin-bottom: 8px;
 }
 
 .irt-condition {
+  flex: 1;
   display: flex;
   align-items: center;
-  gap: 4px;
-  padding: 4px 10px;
+  justify-content: center;
+  padding: 6px 4px;
   background: var(--irt-bg-light);
   border: 1px solid var(--irt-border);
   font-size: 10px;
   font-weight: bold;
-  cursor: pointer;
+  text-align: center;
+  opacity: 0.5;
 }
 
-.irt-condition input { margin: 0; }
+.irt-condition--active { opacity: 1; }
 .irt-condition--warning { border-left: 3px solid var(--irt-warning); }
 .irt-condition--danger { border-left: 3px solid var(--irt-danger); }
 .irt-condition--critical { border-left: 3px solid #000; background: #ffebee; }
 .irt-condition--dead { border-left: 3px solid #000; background: #e0e0e0; color: #757575; }
+
+.irt-condition--warning.irt-condition--active { background: #fff3e0; }
+.irt-condition--danger.irt-condition--active { background: #ffebee; color: var(--irt-danger); }
+.irt-condition--critical.irt-condition--active { background: #ffcdd2; color: #000; }
+.irt-condition--dead.irt-condition--active { background: #bdbdbd; color: #212121; }
 
 .irt-blodning-row {
   display: flex;
@@ -683,6 +720,37 @@
   margin-top: 2px;
 }
 
+/* Roll damage button in attack card */
+
+.irt-roll-damage-row {
+  text-align: center;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.irt-roll-damage-btn {
+  background: var(--irt-secondary);
+  color: var(--irt-text-light);
+  border: none;
+  padding: 6px 16px;
+  cursor: pointer;
+  font-family: var(--irt-font);
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 3px;
+}
+
+.irt-roll-damage-btn:hover {
+  background: #6e1515;
+}
+
+.irt-roll-damage-btn i {
+  margin-right: 4px;
+}
+
 /* Damage card */
 
 .irt-damage-total {
@@ -726,6 +794,28 @@
 .irt-critical-effect {
   font-size: 11px;
   line-height: 1.4;
+}
+
+.irt-copy-crit-btn {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 3px 10px;
+  background: var(--irt-primary);
+  color: var(--irt-text-light);
+  border: none;
+  font-family: var(--irt-font);
+  font-size: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 2px;
+}
+
+.irt-copy-crit-btn:hover {
+  background: #2a4f63;
+}
+
+.irt-copy-crit-btn i {
+  margin-right: 3px;
 }
 
 /* ====== Print Styles ====== */

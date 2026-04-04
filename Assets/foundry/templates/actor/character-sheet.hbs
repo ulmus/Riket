@@ -43,45 +43,20 @@
 
   {{!-- Attributes --}}
   <section class="irt-section irt-attributes">
-    <h2 class="irt-section-title">{{localize "IRT.Attributes"}}</h2>
+    <h2 class="irt-section-title">
+      {{localize "IRT.Attributes"}}
+      <button type="button" class="irt-attr-clear" title="Avmarkera"><i class="fas fa-times"></i></button>
+    </h2>
     <div class="irt-attr-grid">
       {{#each attributeKeys}}
-      <div class="irt-attr-box">
+      <div class="irt-attr-box" data-attr="{{this}}">
         <label class="irt-attr-name">{{localize (concat "IRT.Attr." this)}}</label>
         <input type="number" name="system.attributes.{{this}}" value="{{lookup ../system.attributes this}}" min="1" max="5" />
-        <button type="button" class="irt-attr-roll" data-attr="{{this}}" title="Slå {{this}} + {{this}}">
-          <i class="fas fa-dice-d20"></i>
+        <button type="button" class="irt-attr-select" data-attr="{{this}}" title="Välj {{localize (concat "IRT.Attr." this)}}">
+          <i class="irt-d12-icon"></i>
         </button>
       </div>
       {{/each}}
-    </div>
-  </section>
-
-  {{!-- Custom Roll --}}
-  <section class="irt-section irt-custom-roll-section">
-    <h2 class="irt-section-title">{{localize "IRT.RollSection"}}</h2>
-    <div class="irt-custom-roll-form">
-      <div class="irt-field">
-        <label>{{localize "IRT.FirstAttr"}}</label>
-        <select name="customAttr1">
-          {{#each attributeKeys}}
-          <option value="{{this}}">{{localize (concat "IRT.Attr." this)}}</option>
-          {{/each}}
-        </select>
-      </div>
-      <div class="irt-field">
-        <label>{{localize "IRT.SecondAttr"}}</label>
-        <select name="customAttr2">
-          {{#each attributeKeys}}
-          <option value="{{this}}">{{localize (concat "IRT.Attr." this)}}</option>
-          {{/each}}
-        </select>
-      </div>
-      <div class="irt-field">
-        <label>{{localize "IRT.Modifier"}}</label>
-        <input type="number" name="customMod" value="0" />
-      </div>
-      <button type="button" class="irt-custom-roll irt-btn">{{localize "IRT.Roll"}}</button>
     </div>
   </section>
 
@@ -141,26 +116,21 @@
   <section class="irt-section irt-damage-status">
     <h2 class="irt-section-title">{{localize "IRT.Skadeniva.label"}}</h2>
     <div class="irt-conditions-grid">
-      <label class="irt-condition">
-        <input type="radio" name="system.skadeniva" value="oskadd" {{#if (eq system.skadeniva "oskadd")}}checked{{/if}} />
+      <span class="irt-condition {{#if (eq system.skadeniva "oskadd")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.oskadd"}}
-      </label>
-      <label class="irt-condition irt-condition--warning">
-        <input type="radio" name="system.skadeniva" value="sarad" {{#if (eq system.skadeniva "sarad")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--warning {{#if (eq system.skadeniva "sarad")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.sarad"}} (+1)
-      </label>
-      <label class="irt-condition irt-condition--danger">
-        <input type="radio" name="system.skadeniva" value="medvetslos" {{#if (eq system.skadeniva "medvetslos")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--danger {{#if (eq system.skadeniva "medvetslos")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.medvetslos"}}
-      </label>
-      <label class="irt-condition irt-condition--critical">
-        <input type="radio" name="system.skadeniva" value="doende" {{#if (eq system.skadeniva "doende")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--critical {{#if (eq system.skadeniva "doende")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.doende"}}
-      </label>
-      <label class="irt-condition irt-condition--dead">
-        <input type="radio" name="system.skadeniva" value="dod" {{#if (eq system.skadeniva "dod")}}checked{{/if}} />
+      </span>
+      <span class="irt-condition irt-condition--dead {{#if (eq system.skadeniva "dod")}}irt-condition--active{{/if}}">
         {{localize "IRT.Skadeniva.dod"}}
-      </label>
+      </span>
     </div>
     <div class="irt-blodning-row">
       <label>{{localize "IRT.Blodning.label"}}:</label>
@@ -197,7 +167,6 @@
       </select>
       <input type="text" class="irt-item-input" data-field="properties" value="{{this.system.properties}}" placeholder="{{localize "IRT.WeaponProperties"}}" />
       <button type="button" class="irt-weapon-attack irt-btn irt-btn--sm" title="{{localize "IRT.Attack"}}">{{localize "IRT.Attack"}}</button>
-      <button type="button" class="irt-weapon-damage irt-btn irt-btn--sm" title="{{localize "IRT.DamageRoll"}}">{{localize "IRT.DamageRoll"}}</button>
       <button type="button" class="irt-item-delete irt-btn-icon" title="Ta bort"><i class="fas fa-trash"></i></button>
     </div>
     {{/each}}
