@@ -195,12 +195,13 @@
   height: 28px;
   cursor: pointer;
   padding: 0;
-  transition: background 0.15s;
+  transition: background 0.15s, box-shadow 0.15s;
 }
 
 .irt-attr-select:hover {
   background: var(--irt-accent);
-  box-shadow: none; /* Remove default focus outline */
+  box-shadow: 0 0 0 2px var(--irt-accent);
+
 }
 
 .irt-d12-icon {
