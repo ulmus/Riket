@@ -151,7 +151,8 @@ export class IRTActorSheet extends ActorSheet {
     let value = input.type === "number" ? (parseInt(input.value) || 0) : input.value;
     const item = this.actor.items.get(itemId);
     if (item && field) {
-      await item.update({ [`system.${field}`]: value });
+      const updateKey = field === "name" ? "name" : `system.${field}`;
+      await item.update({ [updateKey]: value });
     }
   }
 }
