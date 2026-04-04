@@ -498,6 +498,7 @@
 .irt-wh-range { width: 40px; flex: 0 0 40px; text-align: center; }
 .irt-wh-type { flex: 1; min-width: 70px; }
 .irt-wh-props { flex: 2; min-width: 80px; }
+.irt-wh-buttons { width: 68px; }
 
 .irt-item-row {
   display: flex;
@@ -542,6 +543,7 @@
   flex: 0 0 auto;
   font-size: 11px;
   padding: 2px 4px;
+  width: 32px;
 }
 
 .irt-weapon-row .irt-weapon-attack {

@@ -161,13 +161,13 @@
         <option value="latt" {{#if (eq system.blodning "latt")}}selected{{/if}}>{{localize "IRT.Blodning.latt"}}</option>
         <option value="kraftig" {{#if (eq system.blodning "kraftig")}}selected{{/if}}>{{localize "IRT.Blodning.kraftig"}}</option>
       </select>
+      {{#if (eq system.blodning "latt")}}
+      <div class="irt-blodning-info">Lätt blödning: 1T12 skada i början av varje minut.</div>
+      {{/if}}
+      {{#if (eq system.blodning "kraftig")}}
+      <div class="irt-blodning-info">Kraftig blödning: 1T12 skada i början av varje runda!</div>
+      {{/if}}
     </div>
-    {{#if (eq system.blodning "latt")}}
-    <div class="irt-blodning-info">Lätt blödning: 1T12 skada i början av varje minut.</div>
-    {{/if}}
-    {{#if (eq system.blodning "kraftig")}}
-    <div class="irt-blodning-info">Kraftig blödning: 1T12 skada i början av varje runda!</div>
-    {{/if}}
     <div class="irt-field">
       <label>{{localize "IRT.KritiskaEffekter"}}</label>
       <textarea name="system.kritiska_effekter" placeholder="{{localize "IRT.KritiskaEffekterPlaceholder"}}">{{system.kritiska_effekter}}</textarea>
@@ -184,6 +184,7 @@
       <span class="irt-wh-range">{{localize "IRT.WeaponHeader.range"}}</span>
       <span class="irt-wh-type">{{localize "IRT.WeaponHeader.type"}}</span>
       <span class="irt-wh-props">{{localize "IRT.WeaponHeader.props"}}</span>
+      <span class="irt-wh-buttons"></span>
     </div>
     {{#each weapons}}
     <div class="irt-item-row irt-weapon-row" data-item-id="{{this._id}}">
