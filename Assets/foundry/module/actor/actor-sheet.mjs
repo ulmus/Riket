@@ -4,7 +4,6 @@
  */
 
 import { attributeRoll } from "../dice/irt-roll.mjs";
-import { damageRollDialog } from "../dice/damage-roll.mjs";
 
 export class IRTActorSheet extends ActorSheet {
   static get defaultOptions() {
@@ -63,9 +62,6 @@ export class IRTActorSheet extends ActorSheet {
     // Weapon attack roll
     html.find(".irt-weapon-attack").on("click", (ev) => this._onWeaponAttack(ev));
 
-    // Weapon damage roll
-    html.find(".irt-weapon-damage").on("click", (ev) => this._onWeaponDamage(ev));
-
     // Item CRUD
     html.find(".irt-item-create").on("click", (ev) => this._onItemCreate(ev));
     html.find(".irt-item-edit").on("click", (ev) => this._onItemEdit(ev));
@@ -112,15 +108,8 @@ export class IRTActorSheet extends ActorSheet {
       attr1: attackAttr,
       attr2: "strid",
       label: `${weapon.name} (${_capitalize(attackAttr)} + Strid)`,
+      weapon,
     });
-  }
-
-  async _onWeaponDamage(ev) {
-    ev.preventDefault();
-    const itemId = ev.currentTarget.closest(".irt-item-row").dataset.itemId;
-    const weapon = this.actor.items.get(itemId);
-    if (!weapon) return;
-    await damageRollDialog(weapon, this.actor);
   }
 
   async _onItemCreate(ev) {

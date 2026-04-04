@@ -683,6 +683,37 @@
   margin-top: 2px;
 }
 
+/* Roll damage button in attack card */
+
+.irt-roll-damage-row {
+  text-align: center;
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.irt-roll-damage-btn {
+  background: var(--irt-secondary);
+  color: var(--irt-text-light);
+  border: none;
+  padding: 6px 16px;
+  cursor: pointer;
+  font-family: var(--irt-font);
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border-radius: 3px;
+}
+
+.irt-roll-damage-btn:hover {
+  background: #6e1515;
+}
+
+.irt-roll-damage-btn i {
+  margin-right: 4px;
+}
+
 /* Damage card */
 
 .irt-damage-total {
