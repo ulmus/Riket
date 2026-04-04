@@ -200,6 +200,7 @@
 
 .irt-attr-select:hover {
   background: var(--irt-accent);
+  box-shadow: none; /* Remove default focus outline */
 }
 
 .irt-d12-icon {

@@ -127,8 +127,8 @@ export class IRTActorSheet extends ActorSheet {
       // Second click: open roll dialog with attr1 + attr2
       const attr1 = this._selectedAttr;
       const attr2 = attr;
-      this._clearAttrSelection();
       this._showRollDialog(attr1, attr2);
+      this._clearAttrSelection();
     }
   }
 
