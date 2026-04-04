@@ -53,11 +53,9 @@ export class IRTActorSheet extends ActorSheet {
     super.activateListeners(html);
     if (!this.isEditable) return;
 
-    // Attribute roll buttons
-    html.find(".irt-attr-roll").on("click", (ev) => this._onAttributeRoll(ev));
-
-    // Custom roll (two-attribute picker)
-    html.find(".irt-custom-roll").on("click", (ev) => this._onCustomRoll(ev));
+    // Attribute picker buttons
+    html.find(".irt-attr-select").on("click", (ev) => this._onAttrSelect(ev));
+    html.find(".irt-attr-clear").on("click", () => this._clearAttrSelection());
 
     // Weapon attack roll
     html.find(".irt-weapon-attack").on("click", (ev) => this._onWeaponAttack(ev));
@@ -80,22 +78,82 @@ export class IRTActorSheet extends ActorSheet {
       const section = ev.currentTarget.closest(".irt-collapsible");
       section.classList.toggle("collapsed");
     });
+
+    // Restore attribute selection state after re-render
+    this._updateAttrSelectionUI();
   }
 
-  async _onAttributeRoll(ev) {
+  _onAttrSelect(ev) {
     ev.preventDefault();
     const attr = ev.currentTarget.dataset.attr;
-    // Roll attr + attr (same attribute doubled)
-    await attributeRoll(this.actor, { attr1: attr, attr2: attr });
+
+    if (!this._selectedAttr) {
+      // First click: select this attribute
+      this._selectedAttr = attr;
+      this._updateAttrSelectionUI();
+    } else {
+      // Second click: open roll dialog with attr1 + attr2
+      const attr1 = this._selectedAttr;
+      const attr2 = attr;
+      this._clearAttrSelection();
+      this._showRollDialog(attr1, attr2);
+    }
   }
 
-  async _onCustomRoll(ev) {
-    ev.preventDefault();
-    const form = this.element.find(".irt-custom-roll-form")[0];
-    const attr1 = form.querySelector('[name="customAttr1"]').value;
-    const attr2 = form.querySelector('[name="customAttr2"]').value;
-    const modifier = parseInt(form.querySelector('[name="customMod"]').value) || 0;
-    await attributeRoll(this.actor, { attr1, attr2, modifier });
+  _clearAttrSelection() {
+    this._selectedAttr = null;
+    this._updateAttrSelectionUI();
+  }
+
+  _updateAttrSelectionUI() {
+    const html = this.element;
+    const selected = this._selectedAttr;
+
+    // Toggle selected class on attribute boxes
+    html.find(".irt-attr-box").each((_, el) => {
+      el.classList.toggle("irt-attr-box--selected", el.dataset.attr === selected);
+    });
+
+    // Toggle clear button visibility
+    html.find(".irt-attr-clear").toggleClass("irt-attr-clear--visible", !!selected);
+  }
+
+  async _showRollDialog(attr1, attr2) {
+    const label1 = _capitalize(attr1);
+    const label2 = _capitalize(attr2);
+    const content = `
+      <form>
+        <p style="text-align:center;font-weight:bold;margin:0 0 8px">${label1} + ${label2}</p>
+        <div class="form-group">
+          <label>Bonus/modifierare</label>
+          <input type="number" name="modifier" value="0" />
+        </div>
+      </form>
+    `;
+
+    return new Promise((resolve) => {
+      new Dialog({
+        title: `Slag: ${label1} + ${label2}`,
+        content,
+        buttons: {
+          roll: {
+            icon: '<i class="fas fa-dice"></i>',
+            label: "Slå",
+            callback: async (html) => {
+              const modifier = parseInt(html.find('[name="modifier"]').val()) || 0;
+              await attributeRoll(this.actor, { attr1, attr2, modifier });
+              resolve(true);
+            },
+          },
+          cancel: {
+            icon: '<i class="fas fa-times"></i>',
+            label: "Avbryt",
+            callback: () => resolve(false),
+          },
+        },
+        default: "roll",
+      }).render(true);
+    });
   }
 
   async _onWeaponAttack(ev) {

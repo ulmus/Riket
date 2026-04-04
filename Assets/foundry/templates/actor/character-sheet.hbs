@@ -43,45 +43,20 @@
 
   {{!-- Attributes --}}
   <section class="irt-section irt-attributes">
-    <h2 class="irt-section-title">{{localize "IRT.Attributes"}}</h2>
+    <h2 class="irt-section-title">
+      {{localize "IRT.Attributes"}}
+      <button type="button" class="irt-attr-clear" title="Avmarkera"><i class="fas fa-times"></i></button>
+    </h2>
     <div class="irt-attr-grid">
       {{#each attributeKeys}}
-      <div class="irt-attr-box">
+      <div class="irt-attr-box" data-attr="{{this}}">
         <label class="irt-attr-name">{{localize (concat "IRT.Attr." this)}}</label>
         <input type="number" name="system.attributes.{{this}}" value="{{lookup ../system.attributes this}}" min="1" max="5" />
-        <button type="button" class="irt-attr-roll" data-attr="{{this}}" title="Slå {{this}} + {{this}}">
-          <i class="fas fa-dice-d20"></i>
+        <button type="button" class="irt-attr-select" data-attr="{{this}}" title="Välj {{localize (concat "IRT.Attr." this)}}">
+          <i class="irt-d12-icon"></i>
         </button>
       </div>
       {{/each}}
-    </div>
-  </section>
-
-  {{!-- Custom Roll --}}
-  <section class="irt-section irt-custom-roll-section">
-    <h2 class="irt-section-title">{{localize "IRT.RollSection"}}</h2>
-    <div class="irt-custom-roll-form">
-      <div class="irt-field">
-        <label>{{localize "IRT.FirstAttr"}}</label>
-        <select name="customAttr1">
-          {{#each attributeKeys}}
-          <option value="{{this}}">{{localize (concat "IRT.Attr." this)}}</option>
-          {{/each}}
-        </select>
-      </div>
-      <div class="irt-field">
-        <label>{{localize "IRT.SecondAttr"}}</label>
-        <select name="customAttr2">
-          {{#each attributeKeys}}
-          <option value="{{this}}">{{localize (concat "IRT.Attr." this)}}</option>
-          {{/each}}
-        </select>
-      </div>
-      <div class="irt-field">
-        <label>{{localize "IRT.Modifier"}}</label>
-        <input type="number" name="customMod" value="0" />
-      </div>
-      <button type="button" class="irt-custom-roll irt-btn">{{localize "IRT.Roll"}}</button>
     </div>
   </section>
 

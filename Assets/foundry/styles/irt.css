@@ -158,45 +158,76 @@
   background: #fff;
 }
 
-.irt-attr-roll {
-  display: inline-block;
+.irt-attr-select {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   margin-top: 4px;
   background: var(--irt-secondary);
   color: var(--irt-text-light);
   border: none;
-  width: 24px;
-  height: 24px;
+  width: 28px;
+  height: 28px;
   cursor: pointer;
-  font-size: 11px;
-  line-height: 24px;
   padding: 0;
+  clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+  transition: background 0.15s;
 }
 
-.irt-attr-roll:hover {
+.irt-attr-select:hover {
   background: #a31f1f;
 }
 
-/* ====== Custom Roll ====== */
+.irt-d12-icon::before {
+  content: "12";
+  font-size: 10px;
+  font-weight: bold;
+}
 
-.irt-custom-roll-form {
+/* Selected attribute */
+
+.irt-attr-box--selected {
+  border-color: var(--irt-accent);
+  box-shadow: 0 0 0 2px var(--irt-accent);
+}
+
+.irt-attr-box--selected .irt-attr-select {
+  background: var(--irt-accent);
+  color: #1a1a1a;
+}
+
+/* Clear button on section title */
+
+.irt-attributes .irt-section-title {
   display: flex;
-  gap: 8px;
-  flex-wrap: wrap;
-  align-items: flex-end;
+  align-items: center;
 }
 
-.irt-custom-roll-form .irt-field {
-  flex: 1;
-  min-width: 80px;
+.irt-attr-clear {
+  margin-left: auto;
+  background: none;
+  border: 1px solid var(--irt-border);
+  color: var(--irt-text-muted);
+  width: 22px;
+  height: 22px;
+  font-size: 10px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
 }
 
-.irt-custom-roll-form select,
-.irt-custom-roll-form input {
-  width: 100%;
-  height: 28px;
-  font-size: 11px;
-  padding: 2px 4px;
-  box-sizing: border-box;
+.irt-attr-clear--visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.irt-attr-clear--visible:hover {
+  color: var(--irt-danger);
+  border-color: var(--irt-danger);
 }
 
 /* ====== Buttons ====== */
