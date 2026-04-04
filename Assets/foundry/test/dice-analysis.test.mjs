@@ -1,5 +1,5 @@
-import { analyzeResults, isSuccess } from "../module/dice/irt-roll.mjs";
-import { runSuite, assertEqual, assertDeepEqual } from "./test-helpers.mjs";
+import { analyzeResults } from "../module/dice/irt-roll.mjs";
+import { runSuite, assertEqual } from "./test-helpers.mjs";
 
 export function runDiceAnalysisTests() {
   return runSuite({
@@ -66,13 +66,5 @@ export function runDiceAnalysisTests() {
       assertEqual(r.successes, 3);
       assertEqual(r.fokusEarned, 1);
     },
-
-    "isSuccess: 1 success, difficulty 1 => true": () => assertEqual(isSuccess(1, 1), true),
-    "isSuccess: 0 successes, difficulty 1 => false": () => assertEqual(isSuccess(0, 1), false),
-    "isSuccess: 2 successes, difficulty 2 => true": () => assertEqual(isSuccess(2, 2), true),
-    "isSuccess: 1 success, difficulty 2 => false": () => assertEqual(isSuccess(1, 2), false),
-    "isSuccess: 3 successes, difficulty 3 => true": () => assertEqual(isSuccess(3, 3), true),
-    "isSuccess: 2 successes, difficulty 3 => false": () => assertEqual(isSuccess(2, 3), false),
-    "isSuccess: 5 successes, difficulty 1 => true": () => assertEqual(isSuccess(5, 1), true),
   });
 }

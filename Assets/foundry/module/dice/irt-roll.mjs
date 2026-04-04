@@ -1,6 +1,10 @@
 /**
  * I Rikets Tjänst - Core Dice Roller
  * d12 dice pools with Focus generation and spending.
+ *
+ * Difficulty is NOT part of the roll - the GM determines it, sometimes after
+ * seeing the result. The roller simply reports successes and Focus earned,
+ * and allows spending Focus/Stress to add more dice.
  */
 
 /* ---- Pure helper functions (testable without Foundry) ---- */
@@ -20,16 +24,6 @@ export function analyzeResults(dice) {
   return { successes, fokusEarned };
 }
 
-/**
- * Check if a roll meets the required difficulty.
- * @param {number} successes
- * @param {number} difficulty - 1 (Normal), 2 (Svårt), 3 (Mycket Svårt)
- * @returns {boolean}
- */
-export function isSuccess(successes, difficulty) {
-  return successes >= difficulty;
-}
-
 /* ---- Foundry-dependent functions ---- */
 
 /**
@@ -39,10 +33,9 @@ export function isSuccess(successes, difficulty) {
  * @param {string} options.attr1 - First attribute key
  * @param {string} options.attr2 - Second attribute key
  * @param {number} [options.modifier=0]
- * @param {number} [options.difficulty=1]
  * @param {string} [options.label]
  */
-export async function attributeRoll(actor, { attr1, attr2, modifier = 0, difficulty = 1, label = "" }) {
+export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label = "" }) {
   const a1 = actor.system.attributes[attr1] ?? 0;
   const a2 = actor.system.attributes[attr2] ?? 0;
   const pool = Math.max(1, a1 + a2 + modifier);
@@ -51,7 +44,6 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, difficu
   await roll.evaluate();
   const dice = roll.terms[0].results.map((r) => r.result);
   const { successes, fokusEarned } = analyzeResults(dice);
-  const success = isSuccess(successes, difficulty);
 
   // Update Focus on actor
   if (fokusEarned > 0) {
@@ -60,7 +52,6 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, difficu
   }
 
   const rollLabel = label || `${_attrLabel(attr1)} + ${_attrLabel(attr2)}`;
-  const diffLabel = difficulty === 1 ? "Normalt" : difficulty === 2 ? "Svårt" : "Mycket Svårt";
 
   // Store roll data for Focus spending
   const rollId = `irt-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
@@ -68,31 +59,23 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, difficu
   // Build chat HTML
   const html = _buildRollChat({
     rollLabel,
-    diffLabel,
-    difficulty,
     dice,
     successes,
     fokusEarned,
-    success,
     rollId,
     actorId: actor.id,
     fokusSpent: 0,
-    komplikation: false,
   });
 
-  // Store pending roll for Focus spend
-  if (!success) {
-    _storePendingRoll(rollId, {
-      actorId: actor.id,
-      dice: [...dice],
-      successes,
-      fokusEarned,
-      difficulty,
-      rollLabel,
-      diffLabel,
-      fokusSpent: 0,
-    });
-  }
+  // Always store for potential Focus spend (GM decides if it failed)
+  _storePendingRoll(rollId, {
+    actorId: actor.id,
+    dice: [...dice],
+    successes,
+    fokusEarned,
+    rollLabel,
+    fokusSpent: 0,
+  });
 
   await ChatMessage.create({
     speaker: ChatMessage.getSpeaker({ actor }),
@@ -118,7 +101,6 @@ export async function spendFokusOnRoll(rollId, amount, useStress = false) {
   const actor = game.actors.get(pending.actorId);
   if (!actor) return;
 
-  const resource = useStress ? "system.stress.value" : "system.fokus.value";
   const current = useStress ? (actor.system.stress.value ?? 0) : (actor.system.fokus.value ?? 0);
 
   if (!useStress && current < amount) {
@@ -151,25 +133,17 @@ export async function spendFokusOnRoll(rollId, amount, useStress = false) {
   }
   await actor.update(updates);
 
-  const success = isSuccess(pending.successes, pending.difficulty);
-  const komplikation = !success && pending.fokusSpent > 0;
-
-  if (success || komplikation) {
-    _removePendingRoll(rollId);
-  }
+  // Refresh timeout on pending roll so it stays available
+  pending.timestamp = Date.now();
 
   const html = _buildRollChat({
     rollLabel: pending.rollLabel + " (uppdaterat)",
-    diffLabel: pending.diffLabel,
-    difficulty: pending.difficulty,
     dice: pending.dice,
     successes: pending.successes,
     fokusEarned: pending.fokusEarned,
-    success,
-    rollId: success ? null : rollId,
+    rollId,
     actorId: pending.actorId,
     fokusSpent: pending.fokusSpent,
-    komplikation,
   });
 
   await ChatMessage.create({
@@ -218,7 +192,7 @@ function _dieClass(val) {
   return "irt-die";
 }
 
-function _buildRollChat({ rollLabel, diffLabel, difficulty, dice, successes, fokusEarned, success, rollId, actorId, fokusSpent, komplikation }) {
+function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent }) {
   let html = `<div class="irt-roll-card">`;
   html += `<div class="irt-roll-header">${rollLabel}</div>`;
   html += `<div class="irt-roll-body">`;
@@ -230,11 +204,9 @@ function _buildRollChat({ rollLabel, diffLabel, difficulty, dice, successes, fok
   }
   html += `</div>`;
 
-  // Result
-  const resultClass = success ? "irt-result--success" : "irt-result--fail";
-  html += `<div class="irt-result ${resultClass}">`;
+  // Result - just show successes count, no pass/fail judgment
+  html += `<div class="irt-result">`;
   html += `${successes} Framgång${successes !== 1 ? "ar" : ""}`;
-  if (difficulty > 1) html += ` (behöver ${difficulty})`;
   html += `</div>`;
 
   // Focus earned
@@ -247,13 +219,8 @@ function _buildRollChat({ rollLabel, diffLabel, difficulty, dice, successes, fok
     html += `<div class="irt-info-row"><span class="irt-label">Fokus spenderat:</span> <span>${fokusSpent}</span></div>`;
   }
 
-  // Komplikation
-  if (komplikation) {
-    html += `<div class="irt-komplikation">&#9888; KOMPLIKATION! Fokus spenderat men slaget misslyckades.</div>`;
-  }
-
-  // Spend buttons (only if failed and not a komplikation)
-  if (!success && !komplikation && rollId) {
+  // Spend buttons (always available for pending rolls)
+  if (rollId) {
     html += `<div class="irt-spend-buttons">`;
     html += `<span class="irt-label">Spendera Fokus:</span>`;
     for (let i = 1; i <= 3; i++) {

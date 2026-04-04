@@ -101,8 +101,7 @@ export class IRTActorSheet extends ActorSheet {
     const attr1 = form.querySelector('[name="customAttr1"]').value;
     const attr2 = form.querySelector('[name="customAttr2"]').value;
     const modifier = parseInt(form.querySelector('[name="customMod"]').value) || 0;
-    const difficulty = parseInt(form.querySelector('[name="customDifficulty"]').value) || 1;
-    await attributeRoll(this.actor, { attr1, attr2, modifier, difficulty });
+    await attributeRoll(this.actor, { attr1, attr2, modifier });
   }
 
   async _onWeaponAttack(ev) {
@@ -114,7 +113,6 @@ export class IRTActorSheet extends ActorSheet {
     await attributeRoll(this.actor, {
       attr1: attackAttr,
       attr2: "strid",
-      difficulty: 1,
       label: `${weapon.name} (${_capitalize(attackAttr)} + Strid)`,
     });
   }

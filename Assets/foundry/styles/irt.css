@@ -564,8 +564,7 @@
   padding: 6px;
 }
 
-.irt-result--success { color: var(--irt-success); }
-.irt-result--fail { color: var(--irt-danger); }
+.irt-result { color: var(--irt-text); }
 
 /* Fokus earned */
 
