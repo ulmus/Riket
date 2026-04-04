@@ -1,4 +1,9 @@
 {
+  "TYPES.Actor.character": "Karaktär",
+  "TYPES.Item.weapon": "Vapen",
+  "TYPES.Item.power": "Kraft",
+  "TYPES.Item.ability": "Förmåga",
+
   "IRT.SystemTitle": "I Rikets Tjänst",
   "IRT.SystemSubtitle": "Program Frigg",
   "IRT.SheetLabel": "Personakt",

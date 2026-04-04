@@ -1,4 +1,9 @@
 {
+  "TYPES.Actor.character": "Character",
+  "TYPES.Item.weapon": "Weapon",
+  "TYPES.Item.power": "Power",
+  "TYPES.Item.ability": "Ability",
+
   "IRT.SystemTitle": "In Service of the Realm",
   "IRT.SystemSubtitle": "Program Frigg",
   "IRT.SheetLabel": "Character Sheet",
