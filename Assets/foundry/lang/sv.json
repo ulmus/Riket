@@ -115,6 +115,7 @@
   "IRT.XP": "Erfarenhetspoäng",
   "IRT.XPShort": "EP",
 
+  "IRT.Chat.Failed": "Misslyckat",
   "IRT.Chat.Successes": "Framgångar",
   "IRT.Chat.FokusEarned": "Fokus",
   "IRT.Chat.Komplikation": "KOMPLIKATION!",

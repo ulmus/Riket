@@ -566,6 +566,34 @@
 
 .irt-result { color: var(--irt-text); }
 
+/* Difficulty summary */
+
+.irt-difficulty-summary {
+  display: flex;
+  justify-content: center;
+  gap: 6px;
+  padding: 4px 0 6px;
+  font-size: 11px;
+  font-family: var(--irt-font);
+}
+
+.irt-difficulty-summary > span {
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.irt-diff-pass {
+  background: #e8f5e9;
+  color: var(--irt-success);
+}
+
+.irt-diff-fail {
+  background: #fce4ec;
+  color: var(--irt-danger);
+  opacity: 0.7;
+}
+
 /* Fokus earned */
 
 .irt-fokus-earned {

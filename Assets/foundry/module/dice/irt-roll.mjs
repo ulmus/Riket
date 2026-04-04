@@ -215,9 +215,25 @@ function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actor
   }
   html += `</div>`;
 
-  // Result - just show successes count, no pass/fail judgment
+  // Result summary: show successes and which difficulty levels pass
   html += `<div class="irt-result">`;
   html += `${successes} Framgång${successes !== 1 ? "ar" : ""}`;
+  html += `</div>`;
+
+  html += `<div class="irt-difficulty-summary">`;
+  if (successes === 0) {
+    html += `<span class="irt-diff-fail">Misslyckat</span>`;
+  } else {
+    const levels = [
+      { min: 1, label: "Normalt", css: "irt-diff-normal" },
+      { min: 2, label: "Svårt", css: "irt-diff-svart" },
+      { min: 3, label: "Mycket Svårt", css: "irt-diff-mycketsvart" },
+    ];
+    for (const lv of levels) {
+      const pass = successes >= lv.min;
+      html += `<span class="${lv.css} ${pass ? "irt-diff-pass" : "irt-diff-fail"}">${lv.label} ${pass ? "✓" : "✗"}</span>`;
+    }
+  }
   html += `</div>`;
 
   // Focus earned
