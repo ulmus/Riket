@@ -151,7 +151,7 @@ export async function spendFokusOnRoll(rollId, amount) {
     dice: pending.dice,
     successes: pending.successes,
     fokusEarned: pending.fokusEarned,
-    rollId,
+    rollId: null,
     actorId: pending.actorId,
     fokusSpent: pending.fokusSpent,
     fokusAvailable: updatedFokus,
@@ -258,7 +258,7 @@ function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actor
   const maxSpend = (fokusAvailable ?? 0) + (stabilitet ?? 0);
   if (rollId && maxSpend > 0) {
     html += `<div class="irt-spend-buttons">`;
-    html += `<span class="irt-label">Lägg till tärningar:</span><br>`;
+    html += `<span class="irt-label">Lägg till tärningar:</span>`;
     for (let i = 1; i <= maxSpend; i++) {
       const btnClass = i <= (fokusAvailable ?? 0) ? "irt-spend-btn irt-spend-btn--fokus" : "irt-spend-btn irt-spend-btn--stress";
       html += ` <button class="${btnClass}" data-roll-id="${rollId}" data-amount="${i}">+${i}</button>`;

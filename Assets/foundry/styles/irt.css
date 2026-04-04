@@ -636,10 +636,18 @@
 /* Spend buttons */
 
 .irt-spend-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
   text-align: center;
   margin-top: 6px;
   padding-top: 6px;
   border-top: 1px solid #e0e0e0;
+}
+
+.irt-spend-buttons .irt-label {
+  width: 100%;
 }
 
 .irt-spend-btn {
@@ -669,6 +677,7 @@
 .irt-spend-btn--stress:hover { background: #a31f1f; }
 
 .irt-spend-explainer {
+  width: 100%;
   font-size: 9px;
   color: #666;
   margin-top: 2px;
