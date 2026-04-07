@@ -6,12 +6,7 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Turer och handlingar
 
-Striden delas in i rundor om ca fem sekunder. På din tur gör du en **Handling** och väljer en **Manöver**. Handlingen är *vad* du gör; Manövern är *hur* du gör det och vilken hållning du har.
-
-- Du kan offra din Handling för att välja en andra Manöver samma runda (t.ex. både *Ta skydd* och *Sikta*, eller förflytta dig två gånger).
-- Du kan inte välja två Handlingar på samma tur.
-- Vissa Manövrer är **Bestående** – de behålls automatiskt mellan rundor tills du byter Manöver eller något bryter dem.
-- Defensiva Manövrer ersätter tidigare reaktioner: parad, undanmanöver och motangrepp är effekter av din aktiva Manöver, inte separata slag utanför din tur.
+Striden delas in i rundor om ca fem sekunder. På din tur gör du en **Handling** och väljer en **Manöver**. Handlingen är *vad* du gör; Manövern är *hur* du gör det och vilken hållning du har. Vissa Manövrer är **Bestående** – de behålls automatiskt mellan rundor tills du byter Manöver eller något bryter dem
 
 ## Handlingar
 
@@ -23,7 +18,9 @@ En Handling är en aktiv insats. Typiska Handlingar:
 - **Använda en färdighet** i strid (akutvård, forcera lås, hacka radio, etc.)
 - **Kasta granat eller sprängladdning** (Smidighet + Strid)
 - **Ge order eller leda** (Samspel + Strid)
+- **Ladda om ett vapen**
 - **Aktivera en kraft** som kräver en Handling
+- **Återhämtning**, slå ett slag för Vilja + Strid. Om du lyckas minskas din Stress ett steg. Kan bara göras när du har tagit stress i en strid och inte igen förrän du tagit stress igen.
 
 En rollperson gör normalt en Handling per runda.
 
@@ -31,20 +28,19 @@ En rollperson gör normalt en Handling per runda.
 
 En Manöver är hur du positionerar dig och vilken hållning du intar. Varje Manöver ger en **offensiv effekt** (bonus eller möjlighet på din Handling) och en **defensiv effekt** (hur svår du är att träffa eller skada).
 
-### Kärnmanövrer
-
-| Manöver | Bestående | Offensiv effekt | Defensiv effekt | Krav |
-| --- | --- | --- | --- | --- |
-| **Sikta** | Ja | +1 på nästa avståndsattack | — | Stabilt underlag |
-| **Stadigt sikte** | Ja | +2 på nästa avståndsattack | Lättare att träffa i närstrid | Liggande eller fast stöd |
-| **Ta skydd** | Ja | −1 på egna avståndsattacker | +1 Skydd (+2 bakom tungt skydd) | Täckning finns |
-| **Defensiv ställning** | Ja | −1 på egna attacker | Närstridsattacker mot dig ett steg **Svårare**; tillåter motangrepp | — |
-| **Aggressiv** | Nej | +1 på närstridsattack | −1 mot inkommande attacker | — |
-| **Framryckning** | Nej | — (förflytta Fysik + Smidighet meter) | Avståndsattacker mot dig ett steg **Svårare**; närstridsattacker ett steg lättare | — |
-| **Rusa** | Nej | — (dubbel förflyttning) | Lätt att träffa i närstrid | — |
-| **Flanka** | Nej | +1 mot mål utan skydd mot dig | — | Position runt målets sida/rygg |
-| **Täckande eld** | Ja | Lägger zon enligt förmågan **Täckande eld** | Skydd +1 för allierade i zonen | Förmåga och automatvapen |
-| **Neutral** | — | — | — | Standard om inget annat väljs |
+| Manöver                | Bestående | Effekt                                                                                                                                                                                                 | Krav                                          |
+| ---------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| **Sikta**              | Ja        | +1 på nästa avståndsattack                                                                                                                                                                             |                                               |
+| **Stadigt sikte**      | Ja        | +2 på nästa avståndsattack                                                                                                                                                                             | Liggande eller fast stöd                      |
+| **Ta skydd**           | Ja        | **Svår** att träffa på avstånd.                                                                                                                                                                        | Täckning finns                                |
+| **Defensiv ställning** | Ja        | Dina attacker blir **Svåra**. Andras närstridsattacker mot dig blir **Svåra** och du får eventuellt göra motangrepp.                                                                                   | —                                             |
+| **Framryckning**       | Nej       | Förflyttning Fysik + Smidighet mete. Avståndsattacker mot dig blir **Svåra**. Dina avståndsattacker blir **Svåra**.                                                                                    | —                                             |
+| **Rusa**               | Nej       | Dubbel förflyttning. Avståndsattacker mot dig blir **Svåra**. Dina avståndsattacker blir **Mycket Svåra** och dina närstridsattacker blir **Svåra**.                                                   | —                                             |
+| **Neutral**            | Nej       | Ingen                                                                                                                                                                                                  | Standard om inget annat väljs                 |
+| **Övervakning**        | Ja        | Du håller ett område under uppsikt och väntar på något och anger en handling som kommer att göra om det händer (t ex skjuta). Om det händer som du väntar så får du ta din handling.                   | Du behöver också lägga din handling på detta. |
+| **Koncentration**      | Ja        | Upprätthåll en förmåga                                                                                                                                                                                 |                                               |
+| **Täckande eld**       | Ja        | Välj ett område som du försöker täcka. Alla i det området som försöker skjuta mot dig måste slå ett slag för Vilja+Strid eller ta en stress. Om de misslyckas så är också deras träffa-slag **Svåra**. | Avståndsvapen, kostar 1 ammunition            |
+| **Full sving**         | Nej       | Närstridsattack blir **Svår**, men får tre extra skadetärningar om den träffar.                                                                                                                        |                                               |
 
 SL kan godkänna andra Manövrer efter situation, till exempel att hänga från ett rep, stå över en fallen kamrat, eller rida på en fordonstak.
 
@@ -57,15 +53,15 @@ En **Bestående Manöver** varar utan omval runda efter runda. Den bryts om du:
 - tappar förutsättningen (t.ex. ditt skydd förstörs, stödet glider undan),
 - förflyttar dig längre än ett steg från din position.
 
-Att återta en Bestående Manöver är en ny Manöver-slot på en kommande tur.
+Att återta en Bestående Manöver kräver en ny Manöver på en kommande tur.
 
 ### Försvar mot attacker
 
 Du behöver inte slå separata försvarsslag. Din aktiva Manöver avgör försvaret:
 
-- **Ta skydd** ger Skydd som drar av KP-skada (se *Applicera skydd* nedan).
-- **Defensiv ställning** gör närstridsattacker mot dig *ett steg svårare* och ger rätt till ett motangrepp mot en motståndare som missar (Smidighet + Strid; ingen extra Handling krävs).
-- **Framryckning** och **Rusa** gör dig till ett rörligt mål: avståndsattacker mot dig blir ett steg svårare men närstridsattacker ett steg lättare.
+- **Ta skydd** gör att attacker mot dig blir **Svåra**.
+- **Defensiv ställning** gör närstridsattacker mot dig **Svåra** och ger rätt till ett motangrepp mot en motståndare som missar (Smidighet + Strid; ingen extra Handling krävs).
+- **Framryckning** och **Rusa** gör dig till ett rörligt mål: avståndsattacker mot dig blir **Svåra**.
 - **Neutral** ger inga försvarseffekter.
 
 En karaktär som saknar aktiv Manöver (t.ex. överraskad, kullstött, medvetslös) försvarar sig inte. Attacker mot målet är då ett steg lättare.
@@ -149,9 +145,9 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 > Vakten (Fysik 2, Tålighet 2) har nu tagit 3 KP skada och är Sårad (tröskeln är > 2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
 > Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 och får en 7. Med Skada +1 (pistol) blir totalen **8**. Han slår på tabellen för **Skjutvapen** och får effekt 8: *Genomskjuten axel*.
 
-> **Bestående Manöver – skarpskytt på tak:** **Lovisa** ligger på ett plåttak över Snegurka-stationen. Runda 1 väljer hon Manöver **Stadigt sikte** (Bestående) och offrar sin Handling för en andra Manöver: **Sikta**. Runda 2 är båda Manövrerna kvar – hon gör Handling **Avståndsattack** med gevär och får +2 (Stadigt sikte) och +1 (Sikta) på slaget. När hon träffas av retureld rundan därpå bryts bägge Manövrerna och hon måste välja nya.
+> **Bestående Manöver – skarpskytt på tak:** **Hedda** ligger på ett plåttak över den östtyska polisstationen. Runda 1 väljer hon Manöver **Stadigt sikte** (Bestående) och offrar sin Handling för en andra Manöver: **Sikta**. Runda 2 är båda Manövrerna kvar – hon gör Handling **Avståndsattack** med gevär och får +2 (Stadigt sikte) och +1 (Sikta) på slaget. När hon träffas av retureld rundan därpå bryts bägge Manövrerna och hon måste välja nya.
 
-> **Defensiv ställning istället för parad:** **Kasimir** möter en GRU-officer med bajonett i en trång tågkupé. Han väljer Manöver **Defensiv ställning** och Handling **Närstridsattack**. Officerens anfall blir ett steg svårare och misslyckas med en framgång. Kasimirs Defensiva ställning ger honom rätt till ett motangrepp (Smidighet + Strid) utan att använda någon ny Handling – ett mekaniskt uttryck för samma idé som en parad med ripost.
+> **Defensiv ställning:** **Günther** möter en GRU-officer med bajonett i en trång tågkupé. Han väljer Manöver **Defensiv ställning** och Handling **Närstridsattack**. Officerens anfall blir ett steg svårare och misslyckas med en framgång. Günthers Defensiva ställning ger honom rätt till ett motangrepp (Smidighet + Strid) utan att använda någon ny Handling, men den är **Svår**.
 
 ## Effekter av skada
 
