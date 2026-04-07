@@ -34,23 +34,23 @@ cssclasses:
 
 ## Krafter
 
-### Övermänsklig Styrka (1 Fokus, 1 bihandling)
+### Övermänsklig Styrka (1 Fokus, 1 Manöver)
 
 Du kan göra enorma styrkeansträngningar. Under en runda får du **+2** i Fysik.
 
-### Kinetisk Förankring (1 Fokus, 1 reaktion)
+### Kinetisk Förankring (1 Fokus, Bestående Manöver)
 
-När karaktären blir måltavla för en attack eller effekt som skulle flytta dem, kan de aktivera denna förmåga för att bli helt orubbliga under en runda.
+Så länge Manövern är aktiv är Tjuren orubblig mot effekter som skulle flytta honom. Manövern bryts om han själv förflyttar sig, byter Manöver eller blir kullstött.
 
 - **+1 Fokus:** Reflektera knuff-effekten tillbaka på angriparen.
 - **+2 Fokus:** Reflektera både knuff och skada.
 - **1 Framgång:** Förankringen håller i en extra runda.
 
-### Läderhud (1 Fokus, 1 reaktion)
+### Läderhud (1 Fokus, Bestående Manöver)
 
-När karaktären träffas av en attack som gör skada kan de aktivera denna förmåga och öka sitt Skydd med **1** under resten av rundan. Förmågan kan aktiveras efter träffen, men innan skadeslaget.
+Så länge Manövern är aktiv har Tjuren **+1 Skydd** mot alla attacker. Manövern bryts om han byter Manöver eller blir kullstött.
 
-### Tjurrusning (1 Fokus, 1 bihandling)
+### Tjurrusning (1 Fokus, 1 Manöver)
 
 Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och slår för Fysik + Smidighet. Om du lyckas så kan du ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
 

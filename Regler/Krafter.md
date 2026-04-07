@@ -48,12 +48,12 @@ Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
 
 #### Handlingskostnad
 
-| Handlingstyp      | Användning                             |
-| ----------------- | -------------------------------------- |
-| **Ingen**         | Passiva krafter                        |
-| **Bihandling**    | Snabba aktiveringar                    |
-| **Huvudhandling** | De flesta aktiva krafter               |
-| **Reaktion**      | Defensiva krafter som svar på attacker |
+| Slot                    | Användning                                                              |
+| ----------------------- | ----------------------------------------------------------------------- |
+| **Ingen**               | Passiva krafter                                                         |
+| **Manöver**             | Snabba aktiveringar, positionsbaserade effekter                         |
+| **Bestående Manöver**   | Defensiva krafter och hållningar som varar mellan rundor                |
+| **Handling**            | De flesta aktiva krafter                                                |
 
 ### Steg 3: Bestäm räckvidd
 
@@ -159,7 +159,7 @@ När du skapar en kraft, beskriv också hur den manifesterar sig när ditt traum
 
 ### Standardkraft
 
-***Kraftnamn*** (1 Fokus, en huvudhandling)
+***Kraftnamn*** (1 Fokus, en Handling)
 *Slå Egenskap + Egenskap för att uppnå effekt.*
 
 - **+1 Fokus:** *Förstärkning*
@@ -167,7 +167,7 @@ När du skapar en kraft, beskriv också hur den manifesterar sig när ditt traum
 
 ### Attackkraft
 
-***Kraftnamn*** (X Fokus, en huvudhandling)
+***Kraftnamn*** (X Fokus, en Handling)
 *Slå Strid + Vilja för att attackera. Skadebonus +X. Skadetyp: typ.*
 
 - **+1 Fokus:** *Förstärkning*
@@ -183,14 +183,14 @@ Silke var en introvert och blyg ung kvinna. Hennes trauma kom från mobbning och
 
 Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla som är inom 10 meter och andas samma luft.
 
-### Manipulation (1 Fokus, en huvudhandling)
+### Manipulation (1 Fokus, en Handling)
 
 Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp inom 10 meter. Ger +1 tärning på efterföljande sociala slag.
 
 - **+1 Fokus:** Radien ökar 10 meter.
 - **1 Framgång:** Känslan håller i sig hela scenen.
 
-### Förslag (2 Fokus, en huvudhandling)
+### Förslag (2 Fokus, en Handling)
 
 Slå Samspel + Vilja mot målets Samspel + Vilja för att ge en enkel, verbal order. Om du vinner måste målet lyda. Ordern kan inte innebära omedelbar livsfara.
 
@@ -208,13 +208,13 @@ Radar är en ingenjör som alltid känt sig ignorerad. Hans krafter är baserade
 
 Uppfattar konturer och rörelser genom solida hinder inom 20 meter utan att använda synen.
 
-### Radiohörsel (1 Fokus, en huvudhandling)
+### Radiohörsel (1 Fokus, en Handling)
 
 Lyssna på radiofrekvenser. Krypterade signaler kräver Analys + Sinnen mot krypteringens svårighet.
 
 - **+1 Fokus:** Du kan också sända.
 
-### Pulsstörare (1 Fokus, en huvudhandling)
+### Pulsstörare (1 Fokus, en Handling)
 
 Slå Strid + Vilja. Levande varelser inom 10 meter måste slå Vilja eller förlora sin nästa runda. Elektronik störs ut.
 
@@ -229,23 +229,23 @@ Slå Strid + Vilja. Levande varelser inom 10 meter måste slå Vilja eller förl
 
 Tjuren är en före detta soldat med svårt att kontrollera sin ilska. Hans krafter är baserade på övermänsklig styrka och uthållighet.
 
-### Övermänsklig Styrka (1 Fokus, en bihandling)
+### Övermänsklig Styrka (1 Fokus, en Manöver)
 
 +2 i Fysik för en handling (lyfta, bryta, slå).
 
-### Kinetisk Förankring (1 Fokus, en reaktion)
+### Kinetisk Förankring (1 Fokus, Bestående Manöver)
 
-När du blir måltavla för en effekt som skulle flytta dig, blir du orubblig under en runda.
+Så länge Manövern är aktiv är du orubblig mot effekter som skulle flytta dig. Manövern bryts om du själv förflyttar dig, byter Manöver eller blir kullstött.
 
 - **+1 Fokus:** Reflektera knuff-effekten tillbaka.
 - **+2 Fokus:** Reflektera både knuff och skada.
 - **1 Framgång:** Förankringen håller en extra runda.
 
-### Läderhud (1 Fokus, en reaktion)
+### Läderhud (1 Fokus, Bestående Manöver)
 
-När du träffas av en attack, öka ditt Skydd med 1 under resten av rundan. Kan aktiveras efter träffen men innan skadeslaget.
+Så länge Manövern är aktiv har du +1 Skydd mot alla attacker. Manövern bryts om du byter Manöver eller blir kullstött.
 
-### Tjurrusning (1 Fokus, en bihandling)
+### Tjurrusning (1 Fokus, en Manöver)
 
 Rusa dubbla förflyttningen rakt fram. Slå Fysik + Smidighet – varje framgång låter dig ignorera ett hinder. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
 
@@ -263,23 +263,23 @@ Frostbrand upplevde extrem emotionell kyla i sin uppväxt. Hennes krafter manife
 
 Tar aldrig skada av kyla. Kan röra sig normalt på is.
 
-### Frostberöring (1 Fokus, en huvudhandling)
+### Frostberöring (1 Fokus, en Handling)
 
 Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring.
 
 - **+1 Fokus:** Räckvidden ökar till 5 meter.
 - **1 Framgång:** Effekten är starkare och varar längre.
 
-### Iskristaller (1 Fokus, en huvudhandling)
+### Iskristaller (1 Fokus, en Handling)
 
 Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål inom 15 meter. **Skadebonus +3.** Skadetyp: Stick.
 
 - **+1 Fokus:** Träffar alla inom 3 meter från målet.
-- **+1 Fokus:** Vid 2+ KP skada måste målet slå Fysik + Vilja eller förlora sin nästa bihandling.
+- **+1 Fokus:** Vid 2+ KP skada måste målet slå Fysik + Vilja eller förlora sin nästa Manöver.
 - **1 Framgång:** +1 skadetärning.
 - **1 Framgång:** +10 meter räckvidd.
 
-### Fryspelare (2 Fokus, en huvudhandling)
+### Fryspelare (2 Fokus, en Handling)
 
 Skapa extrem kyla i 5-meters radie inom 20 meter. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
 
@@ -297,18 +297,18 @@ Voltaic har levt med konstant smärta och nervskador. Hans krafter låter honom 
 
 Känner elektriska fält och nervimpulser inom 10 meter. Uppfattar starka känslor som förändringar i bioelektriska fält.
 
-### Stötchock (1 Fokus, en huvudhandling)
+### Stötchock (1 Fokus, en Handling)
 
 Slå Strid + Vilja för elektrisk stöt genom beröring. **Skadebonus +3.** Skadetyp: Övriga.
 
 *Begränsning:* Kräver beröring.
 
 - **+1 Fokus:** Skjut stöten som ljusbåge upp till 5 meter.
-- **+1 Fokus:** Målet tappar vad det håller och förlorar nästa bihandling.
+- **+1 Fokus:** Målet tappar vad det håller och förlorar nästa Manöver.
 - **1 Framgång:** +1 skadetärning.
 - **1 Framgång:** Elektronik på målet kortsluts.
 
-### Neural överbelastning (2 Fokus, en huvudhandling)
+### Neural överbelastning (2 Fokus, en Handling)
 
 Slå Samspel + Vilja mot målets Fysik + Vilja. Om du vinner blir målet paralyserat i en runda och tar +1 Stress.
 
@@ -318,7 +318,7 @@ Slå Samspel + Vilja mot målets Fysik + Vilja. Om du vinner blir målet paralys
 - **+2 Fokus:** Rikta specifika kommandon till nervsystemet (tvinga en hand att släppa, ett ben att ge vika).
 - **1 Framgång:** +1 Stress till målet.
 
-### Adrenalinpuls (1 Fokus, en bihandling)
+### Adrenalinpuls (1 Fokus, en Manöver)
 
 Överladda ditt eget nervsystem. +1 på Smidighet och Strid till slutet av din nästa tur.
 
@@ -332,7 +332,7 @@ Slå Samspel + Vilja mot målets Fysik + Vilja. Om du vinner blir målet paralys
 | Element       | Starkare = Billigare | Svagare = Kraftfullare |
 | ------------- | -------------------- | ---------------------- |
 | Fokuskostnad  | Lägre                | Högre                  |
-| Handlingstyp  | Bihandling/Reaktion  | Huvudhandling          |
+| Slot          | Manöver              | Handling               |
 | Räckvidd      | Kortare              | Längre                 |
 | Begränsningar | Färre                | Fler                   |
 | Skadebonus    | Lägre                | Högre                  |

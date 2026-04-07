@@ -516,7 +516,7 @@ Anjas krafter följer Frostbrand-mallen från [[Krafter#Frostbrand – Kryokines
 **Köldaura** (Alltid aktiv)
 Tar aldrig skada av kyla. Kan röra sig normalt på is. Temperaturen runt henne sjunker alltid — se [[#Anjas köldaura — skaltabell]].
 
-**Frostberöring** (1 Fokus, en huvudhandling)
+**Frostberöring** (1 Fokus, en Handling)
 Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring. Hos Anja aktiveras detta ofta *omedvetet* vid fysisk kontakt.
 
 - **+1 Fokus:** Räckvidden ökar till 5 meter.
@@ -528,7 +528,7 @@ Slå Strid + Vilja för att skjuta vassa iskristaller. **Skadebonus +3.** Skadet
 - **+1 Fokus:** Träffar alla inom 3 meter från målet.
 - **1 Framgång:** +1 skadetärning.
 
-**Fryspelare** (2 Fokus, en huvudhandling)
+**Fryspelare** (2 Fokus, en Handling)
 Skapa extrem kyla i 5-meters radie. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och −1 på fysiska slag. Varar 3 rundor.
 
 - **+1 Fokus:** Varar hela scenen.
@@ -688,15 +688,15 @@ Förstärkning om Zaitsev misslyckas. Trettiofem år, blek, tunnhårig, intensiv
 
 **Krafter:**
 
-**Magnetisk kontroll** (1 Fokus, en huvudhandling)
+**Magnetisk kontroll** (1 Fokus, en Handling)
 Slå Vilja + Sinnen för att manipulera metallföremål inom 15 meter. Kan rycka vapen ur händer (motståndsslag Fysik + Strid), blockera dörrar, eller kasta metallföremål.
 
 - **+1 Fokus:** Kontrollera flera föremål samtidigt (max Vilja st).
 - **+1 Fokus:** Räckvidden ökar till 30 meter.
 - **1 Framgång:** Föremål flyger med dödlig kraft (3 skadetärningar, Kross, +3).
 
-**Magnetisk sköld** (1 Fokus, en reaktion)
-Avled metallprojektiler. Skydd +2 mot skjutvapen med metallkulor.
+**Magnetisk sköld** (1 Fokus, Bestående Manöver)
+Så länge Manövern är aktiv har Polaris **+2 Skydd** mot skjutvapen med metallkulor. Manövern bryts om han byter Manöver eller tappar koncentrationen (t.ex. Pulsstörare).
 
 - **1 Framgång:** Skydd +3 istället.
 

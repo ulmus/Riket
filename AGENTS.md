@@ -71,7 +71,7 @@ Use bold for:
 - **Important effects**: Conditions and states that affect gameplay (e.g., **Sårad**, **Döende**, **Medvetslös**).
 - **Requirement labels**: Labels like "Krav:", "Effekt:", "Kostnad:".
 - **Table headers** and **column names** in inline context.
-- **Action types**: **Huvudhandling**, **Bihandling**, **Reaktion**.
+- **Action types**: **Handling**, **Manöver** (markera **Bestående** för persistenta Manövrer).
 - **Numeric values** that are mechanically significant (e.g., "**1 Stress**").
 - **Difficulty levels**: **Normalt**, **Svårt**, **Mycket Svårt** when specifying difficulty in rules or adventure text.
 

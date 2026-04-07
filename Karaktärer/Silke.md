@@ -37,14 +37,14 @@ cssclasses:
 
 Karaktären utsöndrar alltid feromoner. Ger en permanent bonus på **+1** tärning på alla slag som använder Samspel för alla som är inom 10 meter (och andas samma luft).
 
-### Manipulation (1 Fokus, en huvudhandling)
+### Manipulation (1 Fokus, en Handling)
 
 Karaktären slår Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (t.ex. lugn, rädsla, tillit) under ett par minuter hos en liten grupp inom 10 meter som andas samma luft. Detta kan ge **+1** tärning på efterföljande sociala slag och generellt ändra sinnesstämningen.
 
 - **+1 Fokus:** Radien för effekten ökar 10 meter.
 - **1 Framgång:** Känslan är starkare och håller i sig hela scenen.
 
-### Förslag (2 Fokus, en huvudhandling)
+### Förslag (2 Fokus, en Handling)
 
 Karaktären fokuserar sin vilja på ett mål inom 10 meter som andas samma luft och ger en enkel, verbal order som inte innebär att personen utsätter sig själv eller allierade för omedelbar livsfara. Detta är ett motståndsslag (Samspel + Vilja mot målets Samspel + Vilja). Om karaktären vinner måste målet omedelbart lyda ordern.
 

@@ -33,12 +33,14 @@
 
 ## Handlingstyper
 
-| Handling            | Kostnad                                         | Används för                                       |
-| ------------------- | ----------------------------------------------- | ------------------------------------------------- |
-| **Huvudhandling**   | 1 per tur                                       | Attacker, komplexa manövrar, kraftfulla effekter  |
-| **Bihandling**      | 1 per tur (eller 3 om du skippar Huvudhandling) | Sikta, röra sig, dra vapen, snabba förstärkningar |
-| **Reaktion**        | 1 per runda                                     | Försvar, motattacker, skydda allierade            |
-| **Gratis handling** | Flera                                           | Prata, tappa något, vissa förmågor                |
+| Typ                 | Kostnad                                         | Används för                                                             |
+| ------------------- | ----------------------------------------------- | ----------------------------------------------------------------------- |
+| **Handling**        | 1 per tur                                       | Attacker, komplexa manövrar, kraftfulla effekter                        |
+| **Manöver**         | 1 per tur (eller 2 om du offrar din Handling)   | Sikta, Ta skydd, Defensiv ställning, Framryckning, förflyttning, hållning |
+| **Bestående**       | Bibehålls mellan rundor tills den bryts         | Markerar en Manöver som håller i sig utan omval                         |
+| **Gratis handling** | Flera                                           | Prata, tappa något, vissa förmågor                                      |
+
+Försvar sker genom din aktiva Manöver: **Ta skydd** ger Skydd, **Defensiv ställning** gör närstrid mot dig Svårare och tillåter motangrepp, **Framryckning**/**Rusa** gör avståndsattacker mot dig Svårare.
 
 ## Exempel på karaktärsbyggen
 
@@ -100,7 +102,7 @@
 ## Vanliga frågor
 
 **F: Kan jag använda flera förmågor samtidigt?**  
-S: Ja, om de inte kräver samma handling. Sikta (Bihandling) + Mästerskott (Huvudhandling) fungerar.
+S: Ja, om de inte kräver samma slot. Sikta (Manöver) + Mästerskott (Handling) fungerar.
 
 **F: Kombineras Expertis med förmågor?**  
 S: Ja, om det inte står något annat. Expertis: Officer (+1) + Skarpskytt (+1) = +2 totalt.

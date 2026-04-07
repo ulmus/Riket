@@ -1003,7 +1003,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 - **Kostnad:** 1 Fokus per runda.
 - **Effekt:** Hans slag gör +2 skadetärningar brännskada. Han kan smälta lås, bränna rep, och orsaka brännskador vid beröring.
 
-**Intensiv hetta (huvudhandling):**
+**Intensiv hetta (Handling):**
 
 - Svarog fokuserar all sin kraft på ett föremål eller person.
 - **Kostnad:** 3 Fokus.
