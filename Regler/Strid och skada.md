@@ -51,7 +51,7 @@ Om en attack träffar ett mål så avgörs skadan genom **träff-framgångar**, 
 
 ## Tålighet
 
-Varje karaktär har en **Tålighet** lika med **1 + halva Fysik (avrundat uppåt)**. Tålighet avgör trösklarna för skadesteg och hur mycket skada du tål innan du blir allvarligt påverkad. Enskilda träffar kan också ge kritiska effekter även om din totala skada inte nått en tröskel (se [[Kritiska träffar]]).
+Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgör trösklarna för skadesteg och hur mycket skada du tål innan du blir allvarligt påverkad. Enskilda träffar kan också ge kritiska effekter även om din totala skada inte nått en tröskel (se [[Kritiska träffar]]).
 
 ### Skadesteg
 
@@ -63,7 +63,7 @@ Varje karaktär har en **Tålighet** lika med **1 + halva Fysik (avrundat uppåt
 | **Döende**     | > 3 × Tålighet KP    | Se *Döende* nedan, eller via kritisk träff |
 | **Död**        | > 4 × Tålighet KP    | Du dör omedelbart                          |
 
-*Exempel: En karaktär med Fysik 2 har Tålighet 2. Hon blir Sårad vid 3+ KP skada, Medvetslös vid 5+ KP, Döende vid 7+ KP, och dör omedelbart vid 9+ KP.*
+*Exempel: En karaktär med Fysik 2 och Vilja 3 har Tålighet 5. Hon blir Sårad vid 6+ KP skada, Medvetslös vid 11+ KP, Döende vid 16+ KP, och dör omedelbart vid 21+ KP.*
 
 ## 1. Rulla skadetärningar
 
@@ -105,7 +105,7 @@ Kritiska träffar ger effekter som blödning, brutna ben, eller döende – oavs
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 1** och skadetyp **Skjutvapen**.
 > Antons attackslag ger **3 framgångar**. Han rullar alltså **3 skadetärningar** (T12).
 > Han rullar 3T12: **10, 11, 12**. Alla tre visar 10+, alltså **3 KP skada**. Pistolens **Skada 1** läggs till – totalt **4 KP**. Vakten bär **tjock rock (Skydd 1)**, så slutlig skada blir **4 − 1 = 3 KP**.
-> Vakten (Fysik 2, Tålighet 2) har nu tagit 3 KP skada och är Sårad (tröskeln är > 2) och tar därför 1 Stress och alla hans handlingar blir ett steg svårare.
+> Vakten (Fysik 2, Vilja 3, Tålighet 5) har nu tagit 3 KP skada och är fortfarande Oskadd.
 > Dessutom visade en tärning **12** – kritisk träff! Anton slår 1T12 och får en 7. Med Skada +1 (pistol) blir totalen **8**. Han slår på tabellen för **Skjutvapen** och får effekt 8: *Genomskjuten axel*.
 
 ## Effekter av skada

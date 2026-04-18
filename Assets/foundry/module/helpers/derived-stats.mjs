@@ -5,11 +5,11 @@
  */
 
 /**
- * Calculate Tålighet (Toughness) from Fysik.
- * Formula: 1 + ceil(Fysik / 2)
+ * Calculate Tålighet (Toughness) from Fysik and Vilja.
+ * Formula: Fysik + Vilja
  */
-export function calcTalighet(fysik) {
-  return 1 + Math.ceil(fysik / 2);
+export function calcTalighet(fysik, vilja) {
+  return fysik + vilja;
 }
 
 /**
@@ -69,7 +69,7 @@ export function calcSammanbrottsBonus(stress, stabilitet) {
  * Returns an object with all secondary values.
  */
 export function calcAllDerived(attrs) {
-  const talighet = calcTalighet(attrs.fysik);
+  const talighet = calcTalighet(attrs.fysik, attrs.vilja);
   const kpMax = calcKpMax(attrs.fysik, attrs.vilja);
   return {
     talighet,

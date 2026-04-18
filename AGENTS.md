@@ -31,7 +31,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Attributes:** Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja.
 - **Expertise (Expertis):** Adds +1 to the roll and unlocks specific abilities.
 - **Secondary Stats:**
-  - *Tålighet* = 1 + (Fysik / 2, avrundat uppåt).
+  - *Tålighet* = Fysik + Vilja.
   - *Stabilitet* = 1 + (Vilja / 2, avrundat uppåt).
   - *Slagstyrka* = Fysik / 2.
 

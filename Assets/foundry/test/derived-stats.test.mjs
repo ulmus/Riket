@@ -3,11 +3,11 @@ import { runSuite, assertEqual, assertDeepEqual } from "./test-helpers.mjs";
 
 export function runDerivedStatsTests() {
   return runSuite({
-    "calcTalighet: Fysik 1 => 2": () => assertEqual(calcTalighet(1), 2),
-    "calcTalighet: Fysik 2 => 2": () => assertEqual(calcTalighet(2), 2),
-    "calcTalighet: Fysik 3 => 3": () => assertEqual(calcTalighet(3), 3),
-    "calcTalighet: Fysik 4 => 3": () => assertEqual(calcTalighet(4), 3),
-    "calcTalighet: Fysik 5 => 4": () => assertEqual(calcTalighet(5), 4),
+    "calcTalighet: 1+1 => 2": () => assertEqual(calcTalighet(1, 1), 2),
+    "calcTalighet: 2+3 => 5": () => assertEqual(calcTalighet(2, 3), 5),
+    "calcTalighet: 3+3 => 6": () => assertEqual(calcTalighet(3, 3), 6),
+    "calcTalighet: 5+4 => 9": () => assertEqual(calcTalighet(5, 4), 9),
+    "calcTalighet: 5+5 => 10": () => assertEqual(calcTalighet(5, 5), 10),
 
     "calcStabilitet: Vilja 1 => 2": () => assertEqual(calcStabilitet(1), 2),
     "calcStabilitet: Vilja 2 => 2": () => assertEqual(calcStabilitet(2), 2),
@@ -29,17 +29,17 @@ export function runDerivedStatsTests() {
     "calcKpMax: 5+5 => 10": () => assertEqual(calcKpMax(5, 5), 10),
     "calcKpMax: 1+1 => 2": () => assertEqual(calcKpMax(1, 1), 2),
 
-    "calcSkadeniva: 0 damage => oskadd": () => assertEqual(calcSkadeniva(0, 2), "oskadd"),
-    "calcSkadeniva: at talighet => oskadd": () => assertEqual(calcSkadeniva(2, 2), "oskadd"),
-    "calcSkadeniva: above talighet => sarad": () => assertEqual(calcSkadeniva(3, 2), "sarad"),
-    "calcSkadeniva: at 2x talighet => sarad": () => assertEqual(calcSkadeniva(4, 2), "sarad"),
-    "calcSkadeniva: above 2x talighet => medvetslos": () => assertEqual(calcSkadeniva(5, 2), "medvetslos"),
-    "calcSkadeniva: above 3x talighet => doende": () => assertEqual(calcSkadeniva(7, 2), "doende"),
-    "calcSkadeniva: above 4x talighet => dod": () => assertEqual(calcSkadeniva(9, 2), "dod"),
+    "calcSkadeniva: 0 damage => oskadd": () => assertEqual(calcSkadeniva(0, 5), "oskadd"),
+    "calcSkadeniva: at talighet => oskadd": () => assertEqual(calcSkadeniva(5, 5), "oskadd"),
+    "calcSkadeniva: above talighet => sarad": () => assertEqual(calcSkadeniva(6, 5), "sarad"),
+    "calcSkadeniva: at 2x talighet => sarad": () => assertEqual(calcSkadeniva(10, 5), "sarad"),
+    "calcSkadeniva: above 2x talighet => medvetslos": () => assertEqual(calcSkadeniva(11, 5), "medvetslos"),
+    "calcSkadeniva: above 3x talighet => doende": () => assertEqual(calcSkadeniva(16, 5), "doende"),
+    "calcSkadeniva: above 4x talighet => dod": () => assertEqual(calcSkadeniva(21, 5), "dod"),
 
     "calcAllDerived: example character (Fysik 2, Vilja 4, Smidighet 3)": () => {
       const result = calcAllDerived({ fysik: 2, vilja: 4, smidighet: 3 });
-      assertEqual(result.talighet, 2);
+      assertEqual(result.talighet, 6);
       assertEqual(result.stabilitet, 3);
       assertEqual(result.forflyttning, 5);
       assertEqual(result.slagstyrka, 1);
@@ -57,7 +57,7 @@ export function runDerivedStatsTests() {
 
     "calcAllDerived: max values (all 5s)": () => {
       const result = calcAllDerived({ fysik: 5, vilja: 5, smidighet: 5 });
-      assertEqual(result.talighet, 4);
+      assertEqual(result.talighet, 10);
       assertEqual(result.stabilitet, 4);
       assertEqual(result.forflyttning, 10);
       assertEqual(result.slagstyrka, 2);

@@ -26,7 +26,7 @@
 
 ## Skador
 
-- **Tålighet** = 1 + ⌈Fysik / 2⌉ avrunda uppåt
+- **Tålighet** = Fysik + Vilja
 - **Sårad** (> Tålighet KP): Alla slag ett steg svårare, +1 Stress
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad

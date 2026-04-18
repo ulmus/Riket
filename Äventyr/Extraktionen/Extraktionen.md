@@ -741,7 +741,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 3, List 2, Fysik 1, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Läkare, Vetenskapsman
 - **Förmågor:** Kirurgi, Manipulativ retorik
 
@@ -760,7 +760,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 **Egenskaper:**
 
 - Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1
-- **Tålighet:** 1 (döende av cancer), **Stabilitet:** 3
+- **Tålighet:** 2 (döende av cancer, halverad från 4), **Stabilitet:** 3
 - **Tillstånd:** Döende av cancer, begränsad mobilitet
 
 **Utrustning:** Medicinska dokument, dagböcker med experimentdata.
@@ -778,7 +778,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 **Egenskaper:**
 
 - Fysik 6 (övernaturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
-- **Tålighet:** 8 (Fysik 6, förstärkt av ENS-bonus), **Stabilitet:** 2
+- **Tålighet:** 9 (Fysik 6 + Vilja 1, förstärkt av ENS-bonus +2), **Stabilitet:** 2
 - **Förflyttning:** 8 meter
 - **Slagstyrka:** 3
 
@@ -817,7 +817,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Smidighet 3, Vilja 3, List 3, Analys 2, Fysik 2, Samspel 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Närstrid, Smyga, Överlevnad
 
@@ -834,7 +834,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 **Egenskaper:**
 
 - Analys 4, Vilja 3, Samspel 3, Fysik 2, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Läkare, Vetenskapsman
 
 Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och genomgången.
@@ -850,7 +850,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för 
 **Egenskaper:**
 
 - Strid 3, Sinnen 3, Samspel 2, Vilja 3, Analys 2, Fysik 2, List 2, Smidighet 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Polis, Officer
 - **Förmågor:** Förhör, Taktik
 
@@ -867,7 +867,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kom
 **Egenskaper:**
 
 - Analys 3, Sinnen 3, Samspel 3, Strid 2, Vilja 3, Fysik 2, List 2, Smidighet 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
@@ -884,7 +884,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 **Egenskaper:**
 
 - Analys 3, Vilja 4, List 3, Samspel 2, Fysik 2, Sinnen 2, Smidighet 1, Strid 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 6, **Stabilitet:** 3
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
@@ -903,7 +903,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 **Egenskaper:**
 
 - Samspel 4, List 3, Strid 3, Sinnen 3, Analys 2, Fysik 2, Smidighet 2, Vilja 2
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 4, **Stabilitet:** 2
 - **Expertis:** Spion, Diplomat
 - **Förmågor:** Charm, Lögner, Nätverk
 
@@ -920,7 +920,7 @@ Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 4, Strid 2, Fysik 2, List 2, Sinnen 2, Smidighet 1
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 6, **Stabilitet:** 3
 - **Expertis:** Officer, Strateg
 - **Förmågor:** Taktik, Kalla nerven
 
@@ -937,7 +937,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Vilja 3, Smidighet 3, Analys 2, Fysik 2, List 2, Samspel 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Taktik, Kalla nerven, Förhör
 
@@ -956,7 +956,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 **Egenskaper:**
 
 - Vilja 5, Sinnen 3, Strid 2, Analys 2, Fysik 2, List 1, Samspel 1, Smidighet 2
-- **Tålighet:** 2, **Stabilitet:** 4
+- **Tålighet:** 7, **Stabilitet:** 4
 - **Expertis:** Zvezda-agent
 - **Trauma:** Rädsla för osynlighet och utplåning
 
@@ -990,7 +990,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Fysik 5, Strid 4, Vilja 3, Analys 2, Sinnen 2, Smidighet 2, List 1, Samspel 1
-- **Tålighet:** 4, **Stabilitet:** 3
+- **Tålighet:** 8, **Stabilitet:** 3
 - **Expertis:** Soldat, Zvezda-agent
 - **Förmågor:** Närstrid, Uthållighet
 - **Trauma:** Kontrollerad ilska och destruktivitet
@@ -1019,7 +1019,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Analys 4, Samspel 2, Vilja 2, Fysik 1, List 1, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Vetenskapsman
 
 ### Fräulein Ingrid Schulmann
@@ -1031,7 +1031,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 2, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Konstnär
 
 ### Monsieur Jean-Pierre Leclerc
@@ -1043,7 +1043,7 @@ Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han
 **Egenskaper:**
 
 - Analys 3, Samspel 3, List 3, Vilja 2, Fysik 1, Sinnen 3, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Ambassadör Otto Keller (Schweiz)
@@ -1055,7 +1055,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 **Egenskaper:**
 
 - Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Dr. Marlene Fischer
@@ -1067,7 +1067,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 **Egenskaper:**
 
 - Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Läkare
 
 ### Ambassadör Sven Hellén (Sverige, Västberlin)
@@ -1079,7 +1079,7 @@ Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrå
 **Egenskaper:**
 
 - Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Greta Holm (Sverige, Västberlin)
@@ -1091,7 +1091,7 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 **Egenskaper:**
 
 - Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Diplomat, Spion
 - **Förmågor:** Nätverk, Lögner
 
@@ -1106,7 +1106,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 **Egenskaper:**
 
 - Smidighet 5, Sinnen 3, Vilja 3, Analys 2, Fysik 2, List 2, Samspel 2, Strid 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Chaufför
 - **Förmågor:** Kontrollerad sladd, Racerinstinkt, Skjut och kör, Tyst intrång
 
@@ -1119,7 +1119,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 **Egenskaper:**
 
 - Sinnen 2, Smidighet 1, Strid 2, Samspel 2, Analys 1, Fysik 2, List 1, Vilja 2.
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 4, **Stabilitet:** 2
 - **Expertis:** Polis
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
@@ -1131,7 +1131,7 @@ Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disc
 **Egenskaper:**
 
 - Strid 3, Fysik 3, Sinnen 2, Smidighet 2, Vilja 2, Analys 1, List 1, Samspel 1
-- **Tålighet:** 3, **Stabilitet:** 2
+- **Tålighet:** 5, **Stabilitet:** 2
 - **Expertis:** Soldat
 
 **Utrustning:** AK-47 (räckvidd 50 m, Skada 2, skadetyp Skjutvapen, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
@@ -1151,7 +1151,7 @@ De som fortfarande lever befinner sig i varierande tillstånd. Vissa är kataton
 **Instabil försöksperson (2-3 stycken):**
 
 - Fysik 3, Vilja 2, Strid 2, övriga 1
-- **Tålighet:** 3, **Stabilitet:** 2, **Stress:** 6 av 6 (permanent sammanbrott)
+- **Tålighet:** 5, **Stabilitet:** 2, **Stress:** 6 av 6 (permanent sammanbrott)
 - **Okontrollerad kraft:** Varje instabil försöksperson har en slumpmässig, okontrollerbar kraft. Slå 1T12 eller välj:
 
 | T12 | Kraft                                                                                    |

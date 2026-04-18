@@ -13,7 +13,7 @@ cssclasses:
 | List      | **1** | Medvetslös   | ❏❏❏❏        |
 | Samspel   | **3** | Döende       | ❏❏❏❏        |
 | Sinnen    | **1** | Förflyttning | 7 m         |
-| Smidighet | **2** | Tålighet     | 4           |
+| Smidighet | **2** | Tålighet     | 9           |
 | Strid     | **4** | Stabilitet   | 3           |
 | Vilja     | **4** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
 

@@ -35,7 +35,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 | Term | Beräkning | Beskrivning |
 | ---- | --------- | ----------- |
-| **Tålighet** | 1 + (Fysik/2, uppåt) | Tröskel för skadesteg |
+| **Tålighet** | Fysik + Vilja | Tröskel för skadesteg |
 | **Stabilitet** | 1 + (Vilja/2, uppåt) | Hur mycket stress du tål innan sammanbrott |
 | **Förflyttning** | Fysik + Smidighet | Meter per bihandling |
 | **Slagstyrka** | Fysik / 2 | Bonus på obeväpnad skada |
@@ -62,7 +62,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | Term | Förkortning | Beskrivning |
 | ---- | ----------- | ----------- |
 | **Kroppspoäng** | KP | Enhet för skada |
-| **Tålighet** | – | 1 + halva Fysik (uppåt); tröskel för skadesteg |
+| **Tålighet** | – | Fysik + Vilja; tröskel för skadesteg |
 | **Skada** | – | Vapnets garanterade KP-skada vid träff; adderas också till kritiska träff-slag |
 | **Skadetärningar** | – | Antal tärningar vid skadeslag, lika med antal Framgångar på attackslaget |
 | **Kritisk träff** | – | Skadetärning som visar 12; utlöser effekt på kritisk-tabellen |
