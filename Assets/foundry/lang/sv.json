@@ -140,8 +140,8 @@
   "IRT.Chat.ApplyDamage": "Applicera skada",
   "IRT.Chat.Initiative": "Initiativ",
 
-  "IRT.Dialog.DamageTitle": "Skadeslag",
-  "IRT.Dialog.NumDice": "Skadetärningar (antal framgångar)",
+  "IRT.Dialog.DamageTitle": "Skada",
+  "IRT.Dialog.NumDice": "Framgångar på attackslaget",
   "IRT.Dialog.TargetSkydd": "Målets Skydd",
 
   "IRT.Sammanbrott": "Sammanbrott",

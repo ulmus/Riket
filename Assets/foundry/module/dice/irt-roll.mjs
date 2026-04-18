@@ -280,11 +280,12 @@ function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actor
     html += `</div>`;
   }
 
-  // Damage roll button for weapon attacks
+  // Damage resolution button for weapon attacks
   if (weaponData && successes > 0) {
     html += `<div class="irt-roll-damage-row">`;
-    html += `<button class="irt-roll-damage-btn" data-successes="${successes}" data-weapon-name="${_esc(weaponData.name)}" data-weapon-skada="${weaponData.damage}" data-damage-type="${weaponData.damageType}" data-penetrerande="${weaponData.penetrerande}" data-actor-id="${actorId}">`;
-    html += `<i class="fas fa-burst"></i> Slå skada (${successes} tärning${successes !== 1 ? "ar" : ""})`;
+    html += `<button class="irt-roll-damage-btn" data-successes="${successes}" data-twelve-count="${fokusEarned}" data-weapon-name="${_esc(weaponData.name)}" data-weapon-skada="${weaponData.damage}" data-damage-type="${weaponData.damageType}" data-penetrerande="${weaponData.penetrerande}" data-actor-id="${actorId}">`;
+    const critNote = fokusEarned > 0 ? ` + ${fokusEarned} krit` : "";
+    html += `<i class="fas fa-burst"></i> Räkna skada (${successes} framgång${successes !== 1 ? "ar" : ""}${critNote})`;
     html += `</button></div>`;
   }
 
@@ -312,7 +313,8 @@ export function registerChatListeners() {
       const actorId = btn.dataset.actorId;
       const actor = game.actors.get(actorId) ?? null;
       await damageRoll({
-        numDice: parseInt(btn.dataset.successes) || 1,
+        successes: parseInt(btn.dataset.successes) || 0,
+        twelveCount: parseInt(btn.dataset.twelveCount) || 0,
         weaponSkada: parseInt(btn.dataset.weaponSkada) || 0,
         damageType: btn.dataset.damageType || "kross",
         weaponName: btn.dataset.weaponName || "Skada",

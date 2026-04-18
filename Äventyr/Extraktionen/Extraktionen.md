@@ -787,7 +787,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 **Övermänsklig styrka:**
 
 - Golem kan lyfta upp till 1000 kg utan ansträngning.
-- Hans slag gör +3 skadetärningar utöver normala närstridsanfall.
+- Hans slag får **+2 skada** utöver normala närstridsanfall.
 - Han kan krossa sig genom väggar, dörrar och de flesta hinder.
 
 **Nästan okrossbar kropp:**
@@ -967,7 +967,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 - Morana kan sänka temperaturen i ett 5-metersradius runt henne eller fokusera på en specifik person inom 10 meter.
 - **Kostnad:** 1 Fokus per runda.
 - **Effekt:** Alla inom området tar 1 KP skada per runda från kylan och fysiska handlingar blir ett steg svårare (stelhet).
-- Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 skadetärningar koldskada och målet blir **bedövat** (svårt att röra sig).
+- Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP köldskada och målet blir **bedövat** (svårt att röra sig).
 
 **Nervbedövning:**
 
@@ -1001,13 +1001,13 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 
 - Svarog kan hetta upp sin egen kropp och föremål han rör.
 - **Kostnad:** 1 Fokus per runda.
-- **Effekt:** Hans slag gör +2 skadetärningar brännskada. Han kan smälta lås, bränna rep, och orsaka brännskador vid beröring.
+- **Effekt:** Hans slag får **+1 skada** (brännskada, Skadetyp Eld). Han kan smälta lås, bränna rep, och orsaka brännskador vid beröring.
 
 **Intensiv hetta (huvudhandling):**
 
 - Svarog fokuserar all sin kraft på ett föremål eller person.
 - **Kostnad:** 3 Fokus.
-- **Effekt:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). Vid framgång: 4 skadetärningar brännskada. Metallföremål smälter, trä fattar eld.
+- **Effekt:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). **Skadebonus +3** (Mycket stark, Skadetyp Eld). Metallföremål smälter, trä fattar eld.
 
 **Svaghet:** Överhettas lätt. Efter att ha använt krafter i 5+ rundor börjar han ta 1 KP skada per runda tills han svalnar. Vatten och kyla neutraliserar hans krafter tillfälligt.
 ### Professor Hermann Müller
@@ -1157,12 +1157,12 @@ De som fortfarande lever befinner sig i varierande tillstånd. Vissa är kataton
 | T12 | Kraft                                                                                    |
 | --: | ---------------------------------------------------------------------------------------- |
 |   1 | **Pyrokinesi** – Föremål i närheten fattar eld spontant.                                 |
-|   2 | **Telekinetisk puls** – Allt inom 5 m slungas bort (Fysik + Vilja, +3 skadetärningar).  |
+|   2 | **Telekinetisk puls** – Allt inom 5 m slungas bort (Fysik + Vilja, **Skadebonus +2**, Skadetyp Kross). |
 |   3 | **Okontrollerad styrka** – Fysik 6 i en runda, attackerar urskillningslöst.              |
 |   4 | **Skrik** – Alla inom 10 m måste slå Vilja + Vilja eller ta **2 Stress**.                |
 |   5 | **Köldaura** – Temperaturen sjunker drastiskt, alla inom 5 m tar 1 KP per runda.         |
 |   6 | **Fasförskjutning** – Går genom väggar och golv, försvinner i 1T12 rundor.               |
-|   7 | **Bioelektrisk urladdning** – Blixtar slår från kroppen. Alla inom 3 m tar 2 skadetärningar. Elektronik kortsluts. |
+|   7 | **Bioelektrisk urladdning** – Blixtar slår från kroppen. Alla inom 3 m tar 2 KP skada (Skadetyp Övriga). Elektronik kortsluts. |
 |   8 | **Syrahud** – Huden utsöndrar frätande vätska. Beröring ger 1 KP per runda. Kan inte bäras eller hållas fast. |
 |   9 | **Gravitationsanomali** – Tyngdkraften i rummet flippar eller försvinner i 1T12 rundor. Alla måste slå Fysik + Smidighet eller kastas mot tak/väggar. |
 |  10 | **Tankeflod** – Alla inom 10 m översköljs av offrets minnen av tortyr och experiment. Alla måste slå Vilja + Vilja eller ta **3 Stress**. |

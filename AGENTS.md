@@ -67,7 +67,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 ### Bold Usage (**text**)
 Use bold for:
 - **Term definitions**: When first introducing or defining a game term (e.g., "**Fokus** är en personlig resurs...").
-- **Mechanical keywords**: Key terms in rules that have specific meaning (e.g., **Framgång**, **Svårighet**, **Skadetärningar**).
+- **Mechanical keywords**: Key terms in rules that have specific meaning (e.g., **Framgång**, **Svårighet**, **Skada**, **Skydd**).
 - **Important effects**: Conditions and states that affect gameplay (e.g., **Sårad**, **Döende**, **Medvetslös**).
 - **Requirement labels**: Labels like "Krav:", "Effekt:", "Kostnad:".
 - **Table headers** and **column names** in inline context.
@@ -96,9 +96,9 @@ Always use the following terms as defined in [[Terminologi]]:
 - **Stabilitet** for stress threshold.
 - **Sammanbrott** for psychological breakdown.
 - **Extra-Normalt Subjekt (ENS)** for superhumans, abbreviated as "ENS" after first use.
-- **Skadetärning/ar** (not "skada" alone) any damage die, from weapon or success.
+- **Skada** for weapon's flat KP bonus on hit; total KP damage = framgångar + Skada − Skydd.
 - **Skydd** (not "rustning" alone) for armor/protection value.
-- **Kritisk träff** for critical hits (die showing 12 on damage roll).
+- **Kritisk träff** for critical hits (die showing 12 on the attack roll).
 
 ### Formatting Patterns
 - **Dice pools**: Write as "Egenskap + Egenskap" (e.g., "Fysik + Strid") in alphabetical order.

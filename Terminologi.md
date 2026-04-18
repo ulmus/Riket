@@ -63,9 +63,8 @@ De åtta grundegenskaperna som definierar en rollperson:
 | ---- | ----------- | ----------- |
 | **Kroppspoäng** | KP | Enhet för skada |
 | **Tålighet** | – | Fysik + Vilja; tröskel för skadesteg |
-| **Skada** | – | Vapnets garanterade KP-skada vid träff; adderas också till kritiska träff-slag |
-| **Skadetärningar** | – | Antal tärningar vid skadeslag, lika med antal Framgångar på attackslaget |
-| **Kritisk träff** | – | Skadetärning som visar 12; utlöser effekt på kritisk-tabellen |
+| **Skada** | – | Vapnets KP-bonus vid träff; adderas till KP-skadan och till kritiska träff-slag |
+| **Kritisk träff** | – | 12:a på attackslaget; utlöser effekt på kritisk-tabellen (och ger 1 Fokus som vanligt) |
 | **Skydd** | – | Rustning eller täckning som minskar KP-skada |
 | **Skadetyp** | – | Vapnets skadetyp (Kross, Stick, Hugg, Skjutvapen, etc.); avgör kritisk-tabell |
 | **Penetrerande** | – | Vapenegenskap; dubbla Skada adderas till kritiska träff-slag |
@@ -75,10 +74,10 @@ De åtta grundegenskaperna som definierar en rollperson:
 | Tillstånd | Beskrivning |
 | --------- | ----------- |
 | **Oskadd** | Inga effekter |
-| **Sårad** | Alla handlingar ett steg svårare (vid skada > Fysik KP) |
-| **Medvetslös** | Kan inte agera (vid skada > Fysik + Vilja KP) |
-| **Döende** | Kräver akutvård eller dör (vid skada > 2 × KP eller via kritisk träff) |
-| **Död** | Dör omedelbart, ingen stabilisering möjlig (vid skada > 2 × KP + 5) |
+| **Sårad** | Alla handlingar ett steg svårare (vid skada > Tålighet KP) |
+| **Medvetslös** | Kan inte agera (vid skada > 2 × Tålighet KP) |
+| **Döende** | Kräver akutvård eller dör (vid skada > 3 × Tålighet KP eller via kritisk träff) |
+| **Död** | Dör omedelbart (vid skada > 4 × Tålighet KP) |
 
 ## Stress och psykisk hälsa
 
