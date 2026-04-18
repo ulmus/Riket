@@ -18,7 +18,7 @@ This workspace contains the rules, campaign notes, and adventures for **"I Riket
 ## Terminology
 When generating content, always use the established terminology defined in [[Terminologi]]. This ensures consistency across all rules, adventures, and campaign materials. Key terms include:
 - **Egenskaper** (Attributes): Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja.
-- **Sekundära egenskaper**: Kroppspoäng (KP), Stabilitet, Förflyttning, Slagstyrka.
+- **Sekundära egenskaper**: Kroppspoäng (KP), Tålighet, Stabilitet, Förflyttning.
 - **Speltermer**: Framgång, Fokus, Momentum, Scen, Runda, Slag, Svårighet, Komplikation.
 - **Organisationer**: Program Frigg, T-kontoret, Frigg-avdelningen, FÖPA, Extra-Normalt Subjekt (ENS).
 
@@ -33,7 +33,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Secondary Stats:**
   - *Tålighet* = Fysik + Vilja.
   - *Stabilitet* = 1 + (Vilja / 2, avrundat uppåt).
-  - *Slagstyrka* = Fysik / 2.
+  - *Förflyttning* = Fysik + Smidighet.
 
 ## Content Generation Guidelines
 - **Tone:** Maintain a "Cold War thriller" vibe mixed with "Golden Age comics" but grounded in a gritty reality.
@@ -55,7 +55,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 
 ### Capitalization Rules
 - **Egenskaper** (Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja): Always capitalize when referring to the specific attribute (e.g., "slå för Fysik + Strid").
-- **Sekundära egenskaper** (Kroppspoäng, Stabilitet, Förflyttning, Slagstyrka): Capitalize when referring to the stat name.
+- **Sekundära egenskaper** (Kroppspoäng, Tålighet, Stabilitet, Förflyttning): Capitalize when referring to the stat name.
 - **Expertiser**: Capitalize when referring to a specific expertis (e.g., "Expertis: Läkare").
 - **Förmågor**: Capitalize the förmåga name when referring to it specifically (e.g., "förmågan Fäktning").
 - **Krafter**: Capitalize when referring to specific named powers.

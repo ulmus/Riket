@@ -8,10 +8,10 @@ cssclasses:
 
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
-| Analys    | **2** | Oskadd       | ❏❏          |
-| Fysik     | **1** | Sårad        | ❏❏          |
-| List      | **4** | Medvetslös   | ❏❏          |
-| Samspel   | **2** | Döende       | ❏❏          |
+| Analys    | **2** | Oskadd       | ❏❏❏❏        |
+| Fysik     | **1** | Sårad        | ❏❏❏❏        |
+| List      | **4** | Medvetslös   | ❏❏❏❏        |
+| Samspel   | **2** | Döende       | ❏❏❏❏        |
 | Sinnen    | **3** | Förflyttning | 6 m         |
 | Smidighet | **5** | Tålighet     | 4           |
 | Strid     | **2** | Stabilitet   | 3           |

@@ -28,14 +28,6 @@ export function calcForflyttning(fysik, smidighet) {
 }
 
 /**
- * Calculate Slagstyrka (Melee Bonus) from Fysik.
- * Formula: floor(Fysik / 2)
- */
-export function calcSlagstyrka(fysik) {
-  return Math.floor(fysik / 2);
-}
-
-/**
  * Calculate KP max from Fysik + Vilja.
  */
 export function calcKpMax(fysik, vilja) {
@@ -75,7 +67,6 @@ export function calcAllDerived(attrs) {
     talighet,
     stabilitet: calcStabilitet(attrs.vilja),
     forflyttning: calcForflyttning(attrs.fysik, attrs.smidighet),
-    slagstyrka: calcSlagstyrka(attrs.fysik),
     kpMax,
   };
 }

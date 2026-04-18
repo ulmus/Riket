@@ -38,7 +38,6 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Tålighet** | Fysik + Vilja | Tröskel för skadesteg |
 | **Stabilitet** | 1 + (Vilja/2, uppåt) | Hur mycket stress du tål innan sammanbrott |
 | **Förflyttning** | Fysik + Smidighet | Meter per bihandling |
-| **Slagstyrka** | Fysik / 2 | Bonus på obeväpnad skada |
 
 ## Expertis och förmågor
 

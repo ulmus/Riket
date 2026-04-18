@@ -780,7 +780,6 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 - Fysik 6 (övernaturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
 - **Tålighet:** 9 (Fysik 6 + Vilja 1, förstärkt av ENS-bonus +2), **Stabilitet:** 2
 - **Förflyttning:** 8 meter
-- **Slagstyrka:** 3
 
 **Krafter:**
 
