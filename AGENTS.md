@@ -18,7 +18,7 @@ This workspace contains the rules, campaign notes, and adventures for **"I Riket
 ## Terminology
 When generating content, always use the established terminology defined in [[Terminologi]]. This ensures consistency across all rules, adventures, and campaign materials. Key terms include:
 - **Egenskaper** (Attributes): Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja.
-- **Sekundära egenskaper**: Kroppspoäng (KP), Stabilitet, Förflyttning, Slagstyrka.
+- **Sekundära egenskaper**: Kroppspoäng (KP), Tålighet, Stabilitet, Förflyttning.
 - **Speltermer**: Framgång, Fokus, Momentum, Scen, Runda, Slag, Svårighet, Komplikation.
 - **Organisationer**: Program Frigg, T-kontoret, Frigg-avdelningen, FÖPA, Extra-Normalt Subjekt (ENS).
 
@@ -31,9 +31,9 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Attributes:** Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja.
 - **Expertise (Expertis):** Adds +1 to the roll and unlocks specific abilities.
 - **Secondary Stats:**
-  - *Tålighet* = 1 + (Fysik / 2, avrundat uppåt).
+  - *Tålighet* = Fysik + Vilja.
   - *Stabilitet* = 1 + (Vilja / 2, avrundat uppåt).
-  - *Slagstyrka* = Fysik / 2.
+  - *Förflyttning* = Fysik + Smidighet.
 
 ## Content Generation Guidelines
 - **Tone:** Maintain a "Cold War thriller" vibe mixed with "Golden Age comics" but grounded in a gritty reality.
@@ -55,7 +55,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 
 ### Capitalization Rules
 - **Egenskaper** (Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja): Always capitalize when referring to the specific attribute (e.g., "slå för Fysik + Strid").
-- **Sekundära egenskaper** (Kroppspoäng, Stabilitet, Förflyttning, Slagstyrka): Capitalize when referring to the stat name.
+- **Sekundära egenskaper** (Kroppspoäng, Tålighet, Stabilitet, Förflyttning): Capitalize when referring to the stat name.
 - **Expertiser**: Capitalize when referring to a specific expertis (e.g., "Expertis: Läkare").
 - **Förmågor**: Capitalize the förmåga name when referring to it specifically (e.g., "förmågan Fäktning").
 - **Krafter**: Capitalize when referring to specific named powers.
@@ -67,7 +67,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 ### Bold Usage (**text**)
 Use bold for:
 - **Term definitions**: When first introducing or defining a game term (e.g., "**Fokus** är en personlig resurs...").
-- **Mechanical keywords**: Key terms in rules that have specific meaning (e.g., **Framgång**, **Svårighet**, **Skadetärningar**).
+- **Mechanical keywords**: Key terms in rules that have specific meaning (e.g., **Framgång**, **Svårighet**, **Skada**, **Skydd**).
 - **Important effects**: Conditions and states that affect gameplay (e.g., **Sårad**, **Döende**, **Medvetslös**).
 - **Requirement labels**: Labels like "Krav:", "Effekt:", "Kostnad:".
 - **Table headers** and **column names** in inline context.
@@ -96,9 +96,9 @@ Always use the following terms as defined in [[Terminologi]]:
 - **Stabilitet** for stress threshold.
 - **Sammanbrott** for psychological breakdown.
 - **Extra-Normalt Subjekt (ENS)** for superhumans, abbreviated as "ENS" after first use.
-- **Skadetärning/ar** (not "skada" alone) any damage die, from weapon or success.
+- **Skada** for weapon's flat KP bonus on hit; total KP damage = framgångar + Skada − Skydd.
 - **Skydd** (not "rustning" alone) for armor/protection value.
-- **Kritisk träff** for critical hits (die showing 12 on damage roll).
+- **Kritisk träff** for critical hits (die showing 12 on the attack roll).
 
 ### Formatting Patterns
 - **Dice pools**: Write as "Egenskap + Egenskap" (e.g., "Fysik + Strid") in alphabetical order.

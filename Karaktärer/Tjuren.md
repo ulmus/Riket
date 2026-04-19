@@ -8,12 +8,12 @@ cssclasses:
 
 | Egenskap  |     | Sekundärt    |             |
 | :-------- | --: | :----------- | :---------- |
-| Analys    | **1** | Oskadd       | ❏❏❏❏        |
-| Fysik     | **5** | Sårad        | ❏❏❏❏        |
-| List      | **1** | Medvetslös   | ❏❏❏❏        |
-| Samspel   | **3** | Döende       | ❏❏❏❏        |
+| Analys    | **1** | Oskadd       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Fysik     | **5** | Sårad        | ❏❏❏ ❏❏❏ ❏❏❏ |
+| List      | **1** | Medvetslös   | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Samspel   | **3** | Döende       | ❏❏❏ ❏❏❏ ❏❏❏ |
 | Sinnen    | **1** | Förflyttning | 7 m         |
-| Smidighet | **2** | Tålighet     | 4           |
+| Smidighet | **2** | Tålighet     | 9           |
 | Strid     | **4** | Stabilitet   | 3           |
 | Vilja     | **4** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
 
@@ -48,7 +48,7 @@ När karaktären blir måltavla för en attack eller effekt som skulle flytta de
 
 ### Läderhud (1 Fokus, 1 reaktion)
 
-När karaktären träffas av en attack som gör skada kan de aktivera denna förmåga och öka sitt Skydd med **1** under resten av rundan. Förmågan kan aktiveras efter träffen, men innan skadeslaget.
+När karaktären träffas av en attack som gör skada kan de aktivera denna förmåga och öka sitt Skydd med **1** under resten av rundan. Förmågan kan aktiveras efter träffen, men innan skadan räknas.
 
 ### Tjurrusning (1 Fokus, 1 bihandling)
 
@@ -84,7 +84,7 @@ Du är tränad i att kontrollera automateld med precision.
 
 *Krav:* Slagsmål
 
-Dina obeväpnade attacker får **+1** extra tärning på skadeslaget.
+Dina obeväpnade attacker får **+1 skada**.
 
 ### Djurvän (Alltid aktiv)
 
@@ -105,7 +105,7 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 ## Utrustning
 
 - **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, Skada 1, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏
-- **Knogjärn:** +1 extra tärning på skadeslaget i obeväpnad närstrid.
+- **Knogjärn:** +1 skada i obeväpnad närstrid.
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
 - **Rock med insydda plåtar:** Skydd 2, alla Smidighet-slag ett steg svårare.
 - **Fältförband:** +2 på Akutvård (Analys + Smidighet).

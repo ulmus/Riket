@@ -19,7 +19,7 @@ För att skapa en rollperson i I Rikets Tjänst följer du dessa steg:
     - Strid
     - Vilja
 4. **Räkna ut sekundära egenskaper:**
-    - **Tålighet** = 1 + halva Fysik (avrundat uppåt). Detta avgör trösklarna för skadesteg.
+    - **Tålighet** = Fysik + Vilja. Detta avgör trösklarna för skadesteg.
     - **Förflyttning** = Fysik + Smidighet meter per bihandling.
     - **Stabilitet** = 1 + halva Vilja (avrundat uppåt). Detta är hur mycket stress du tål.
 5. **Välj förmågor:** Välj tre superförmågor och två vanliga förmågor.

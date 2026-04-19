@@ -3,7 +3,7 @@ export const ELD = [
   { min: 1, max: 1, label: "Svedd", effect: "Obehagligt. Ta 1 Stress." },
   { min: 2, max: 2, label: "Ytlig brännskada", effect: "Smärtsamt. Finmotorik är minst Svårt om händerna är drabbade." },
   { min: 3, max: 3, label: "Bränd hud", effect: "Slå 1T12 för kroppsdel (1-3: vänster arm, 4-6: höger arm, 7-9: vänster ben, 10-12: höger ben). Slag som involverar det brända området är minst Svåra tills behandlad." },
-  { min: 4, max: 4, label: "Brinnande kläder", effect: "Om du inte släcker (bihandling) tar du 3 skadetärningar nästa runda." },
+  { min: 4, max: 4, label: "Brinnande kläder", effect: "Om du inte släcker (bihandling) tar du 3 KP Eldskada nästa runda." },
   { min: 5, max: 5, label: "Djup brännskada", effect: "Extrem smärta. Ta 2 Stress. Alla slag är minst Svåra tills behandlad." },
   { min: 6, max: 6, label: "Brända händer", effect: "Du tappar vad du håller i. Kan inte använda händerna tills behandlad." },
   { min: 7, max: 7, label: "Bränt ansikte", effect: "Sinnen-slag (syn) är minst Mycket Svåra tills behandlad (Medicin). Lätt blödning. Läketid: 1T12 veckor." },

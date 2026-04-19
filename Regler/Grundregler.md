@@ -57,7 +57,7 @@ Varje karaktär börjar spelet med en Expertis.
 ## Sekundära Egenskaper
 
 - **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling.
-- **Tålighet** avgör hur mycket skada du tål och är lika med 1 + halva Fysik (avrundat uppåt). Se [[Strid och skada#Tålighet]].
+- **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Vilja (avrundat uppåt).
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
 
@@ -121,7 +121,7 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 - Turordning i sjunkande initiativ.
 - Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
 - Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Smidighet + Strid och drar av framgångar från attackens framgångar.
-- Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med 1 + halva Fysik (avrundat uppåt). Skadestegen baseras på multiplar av Tålighet.
+- Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.
 
 Se kapitlet för [[Strid och skada]]
 

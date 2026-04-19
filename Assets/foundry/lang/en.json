@@ -22,7 +22,6 @@
   "IRT.Derived.talighet": "Toughness",
   "IRT.Derived.stabilitet": "Stability",
   "IRT.Derived.forflyttning": "Movement",
-  "IRT.Derived.slagstyrka": "Melee Bonus",
 
   "IRT.KP": "Hit Points",
   "IRT.KPShort": "HP",
@@ -140,8 +139,8 @@
   "IRT.Chat.ApplyDamage": "Apply Damage",
   "IRT.Chat.Initiative": "Initiative",
 
-  "IRT.Dialog.DamageTitle": "Damage Roll",
-  "IRT.Dialog.NumDice": "Damage Dice (number of successes)",
+  "IRT.Dialog.DamageTitle": "Damage",
+  "IRT.Dialog.NumDice": "Attack Roll Successes",
   "IRT.Dialog.TargetSkydd": "Target's Armor",
 
   "IRT.Sammanbrott": "Breakdown",
