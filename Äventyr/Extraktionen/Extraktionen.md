@@ -741,7 +741,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 3, List 2, Fysik 1, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Läkare, Vetenskapsman
 - **Förmågor:** Kirurgi, Manipulativ retorik
 
@@ -760,7 +760,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 **Egenskaper:**
 
 - Analys 4, Vilja 3, Samspel 2, Fysik 1, List 1, Sinnen 1, Smidighet 1, Strid 1
-- **Tålighet:** 1 (döende av cancer), **Stabilitet:** 3
+- **Tålighet:** 2 (döende av cancer, halverad från 4), **Stabilitet:** 3
 - **Tillstånd:** Döende av cancer, begränsad mobilitet
 
 **Utrustning:** Medicinska dokument, dagböcker med experimentdata.
@@ -778,16 +778,15 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 **Egenskaper:**
 
 - Fysik 6 (övernaturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
-- **Tålighet:** 8 (Fysik 6, förstärkt av ENS-bonus), **Stabilitet:** 2
+- **Tålighet:** 9 (Fysik 6 + Vilja 1, förstärkt av ENS-bonus +2), **Stabilitet:** 2
 - **Förflyttning:** 8 meter
-- **Slagstyrka:** 3
 
 **Krafter:**
 
 **Övermänsklig styrka:**
 
 - Golem kan lyfta upp till 1000 kg utan ansträngning.
-- Hans slag gör +3 skadetärningar utöver normala närstridsanfall.
+- Hans slag får **+2 skada** utöver normala närstridsanfall.
 - Han kan krossa sig genom väggar, dörrar och de flesta hinder.
 
 **Nästan okrossbar kropp:**
@@ -817,7 +816,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Smidighet 3, Vilja 3, List 3, Analys 2, Fysik 2, Samspel 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Närstrid, Smyga, Överlevnad
 
@@ -834,7 +833,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 **Egenskaper:**
 
 - Analys 4, Vilja 3, Samspel 3, Fysik 2, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Läkare, Vetenskapsman
 
 Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och genomgången.
@@ -850,7 +849,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för 
 **Egenskaper:**
 
 - Strid 3, Sinnen 3, Samspel 2, Vilja 3, Analys 2, Fysik 2, List 2, Smidighet 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Polis, Officer
 - **Förmågor:** Förhör, Taktik
 
@@ -867,7 +866,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kom
 **Egenskaper:**
 
 - Analys 3, Sinnen 3, Samspel 3, Strid 2, Vilja 3, Fysik 2, List 2, Smidighet 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
@@ -884,7 +883,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 **Egenskaper:**
 
 - Analys 3, Vilja 4, List 3, Samspel 2, Fysik 2, Sinnen 2, Smidighet 1, Strid 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 6, **Stabilitet:** 3
 - **Expertis:** Officer, Byråkrat
 - **Förmågor:** Förhör, Taktik
 
@@ -903,7 +902,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 **Egenskaper:**
 
 - Samspel 4, List 3, Strid 3, Sinnen 3, Analys 2, Fysik 2, Smidighet 2, Vilja 2
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 4, **Stabilitet:** 2
 - **Expertis:** Spion, Diplomat
 - **Förmågor:** Charm, Lögner, Nätverk
 
@@ -920,7 +919,7 @@ Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och
 **Egenskaper:**
 
 - Analys 4, Samspel 3, Vilja 4, Strid 2, Fysik 2, List 2, Sinnen 2, Smidighet 1
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 6, **Stabilitet:** 3
 - **Expertis:** Officer, Strateg
 - **Förmågor:** Taktik, Kalla nerven
 
@@ -937,7 +936,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 **Egenskaper:**
 
 - Strid 4, Sinnen 3, Vilja 3, Smidighet 3, Analys 2, Fysik 2, List 2, Samspel 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Soldat, Spion
 - **Förmågor:** Taktik, Kalla nerven, Förhör
 
@@ -956,7 +955,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 **Egenskaper:**
 
 - Vilja 5, Sinnen 3, Strid 2, Analys 2, Fysik 2, List 1, Samspel 1, Smidighet 2
-- **Tålighet:** 2, **Stabilitet:** 4
+- **Tålighet:** 7, **Stabilitet:** 4
 - **Expertis:** Zvezda-agent
 - **Trauma:** Rädsla för osynlighet och utplåning
 
@@ -967,7 +966,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 - Morana kan sänka temperaturen i ett 5-metersradius runt henne eller fokusera på en specifik person inom 10 meter.
 - **Kostnad:** 1 Fokus per runda.
 - **Effekt:** Alla inom området tar 1 KP skada per runda från kylan och fysiska handlingar blir ett steg svårare (stelhet).
-- Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 skadetärningar koldskada och målet blir **bedövat** (svårt att röra sig).
+- Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP köldskada och målet blir **bedövat** (svårt att röra sig).
 
 **Nervbedövning:**
 
@@ -990,7 +989,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Fysik 5, Strid 4, Vilja 3, Analys 2, Sinnen 2, Smidighet 2, List 1, Samspel 1
-- **Tålighet:** 4, **Stabilitet:** 3
+- **Tålighet:** 8, **Stabilitet:** 3
 - **Expertis:** Soldat, Zvezda-agent
 - **Förmågor:** Närstrid, Uthållighet
 - **Trauma:** Kontrollerad ilska och destruktivitet
@@ -1001,13 +1000,13 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 
 - Svarog kan hetta upp sin egen kropp och föremål han rör.
 - **Kostnad:** 1 Fokus per runda.
-- **Effekt:** Hans slag gör +2 skadetärningar brännskada. Han kan smälta lås, bränna rep, och orsaka brännskador vid beröring.
+- **Effekt:** Hans slag får **+1 skada** (brännskada, Skadetyp Eld). Han kan smälta lås, bränna rep, och orsaka brännskador vid beröring.
 
 **Intensiv hetta (Handling):**
 
 - Svarog fokuserar all sin kraft på ett föremål eller person.
 - **Kostnad:** 3 Fokus.
-- **Effekt:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). Vid framgång: 4 skadetärningar brännskada. Metallföremål smälter, trä fattar eld.
+- **Effekt:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). **Skadebonus +3** (Mycket stark, Skadetyp Eld). Metallföremål smälter, trä fattar eld.
 
 **Svaghet:** Överhettas lätt. Efter att ha använt krafter i 5+ rundor börjar han ta 1 KP skada per runda tills han svalnar. Vatten och kyla neutraliserar hans krafter tillfälligt.
 ### Professor Hermann Müller
@@ -1019,7 +1018,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Analys 4, Samspel 2, Vilja 2, Fysik 1, List 1, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Vetenskapsman
 
 ### Fräulein Ingrid Schulmann
@@ -1031,7 +1030,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Egenskaper:**
 
 - Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 2, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Konstnär
 
 ### Monsieur Jean-Pierre Leclerc
@@ -1043,7 +1042,7 @@ Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han
 **Egenskaper:**
 
 - Analys 3, Samspel 3, List 3, Vilja 2, Fysik 1, Sinnen 3, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Ambassadör Otto Keller (Schweiz)
@@ -1055,7 +1054,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 **Egenskaper:**
 
 - Analys 2, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Dr. Marlene Fischer
@@ -1067,7 +1066,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 **Egenskaper:**
 
 - Analys 3, Samspel 3, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Läkare
 
 ### Ambassadör Sven Hellén (Sverige, Västberlin)
@@ -1079,7 +1078,7 @@ Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrå
 **Egenskaper:**
 
 - Analys 3, Samspel 4, Vilja 2, Fysik 1, List 2, Sinnen 2, Smidighet 1, Strid 1
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 3, **Stabilitet:** 2
 - **Expertis:** Diplomat
 
 ### Greta Holm (Sverige, Västberlin)
@@ -1091,7 +1090,7 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 **Egenskaper:**
 
 - Analys 3, List 3, Samspel 3, Sinnen 2, Vilja 3, Fysik 2, Smidighet 2, Strid 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Diplomat, Spion
 - **Förmågor:** Nätverk, Lögner
 
@@ -1106,7 +1105,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 **Egenskaper:**
 
 - Smidighet 5, Sinnen 3, Vilja 3, Analys 2, Fysik 2, List 2, Samspel 2, Strid 2
-- **Tålighet:** 2, **Stabilitet:** 3
+- **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Chaufför
 - **Förmågor:** Kontrollerad sladd, Racerinstinkt, Skjut och kör, Tyst intrång
 
@@ -1119,7 +1118,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 **Egenskaper:**
 
 - Sinnen 2, Smidighet 1, Strid 2, Samspel 2, Analys 1, Fysik 2, List 1, Vilja 2.
-- **Tålighet:** 2, **Stabilitet:** 2
+- **Tålighet:** 4, **Stabilitet:** 2
 - **Expertis:** Polis
 
 **Utrustning:** Makarov-pistol, visselpipa, radio.
@@ -1131,7 +1130,7 @@ Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disc
 **Egenskaper:**
 
 - Strid 3, Fysik 3, Sinnen 2, Smidighet 2, Vilja 2, Analys 1, List 1, Samspel 1
-- **Tålighet:** 3, **Stabilitet:** 2
+- **Tålighet:** 5, **Stabilitet:** 2
 - **Expertis:** Soldat
 
 **Utrustning:** AK-47 (räckvidd 50 m, Skada 2, skadetyp Skjutvapen, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
@@ -1151,18 +1150,18 @@ De som fortfarande lever befinner sig i varierande tillstånd. Vissa är kataton
 **Instabil försöksperson (2-3 stycken):**
 
 - Fysik 3, Vilja 2, Strid 2, övriga 1
-- **Tålighet:** 3, **Stabilitet:** 2, **Stress:** 6 av 6 (permanent sammanbrott)
+- **Tålighet:** 5, **Stabilitet:** 2, **Stress:** 6 av 6 (permanent sammanbrott)
 - **Okontrollerad kraft:** Varje instabil försöksperson har en slumpmässig, okontrollerbar kraft. Slå 1T12 eller välj:
 
 | T12 | Kraft                                                                                    |
 | --: | ---------------------------------------------------------------------------------------- |
 |   1 | **Pyrokinesi** – Föremål i närheten fattar eld spontant.                                 |
-|   2 | **Telekinetisk puls** – Allt inom 5 m slungas bort (Fysik + Vilja, +3 skadetärningar).  |
+|   2 | **Telekinetisk puls** – Allt inom 5 m slungas bort (Fysik + Vilja, **Skadebonus +2**, Skadetyp Kross). |
 |   3 | **Okontrollerad styrka** – Fysik 6 i en runda, attackerar urskillningslöst.              |
 |   4 | **Skrik** – Alla inom 10 m måste slå Vilja + Vilja eller ta **2 Stress**.                |
 |   5 | **Köldaura** – Temperaturen sjunker drastiskt, alla inom 5 m tar 1 KP per runda.         |
 |   6 | **Fasförskjutning** – Går genom väggar och golv, försvinner i 1T12 rundor.               |
-|   7 | **Bioelektrisk urladdning** – Blixtar slår från kroppen. Alla inom 3 m tar 2 skadetärningar. Elektronik kortsluts. |
+|   7 | **Bioelektrisk urladdning** – Blixtar slår från kroppen. Alla inom 3 m tar 2 KP skada (Skadetyp Övriga). Elektronik kortsluts. |
 |   8 | **Syrahud** – Huden utsöndrar frätande vätska. Beröring ger 1 KP per runda. Kan inte bäras eller hållas fast. |
 |   9 | **Gravitationsanomali** – Tyngdkraften i rummet flippar eller försvinner i 1T12 rundor. Alla måste slå Fysik + Smidighet eller kastas mot tak/väggar. |
 |  10 | **Tankeflod** – Alla inom 10 m översköljs av offrets minnen av tortyr och experiment. Alla måste slå Vilja + Vilja eller ta **3 Stress**. |

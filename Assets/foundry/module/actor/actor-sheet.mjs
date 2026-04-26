@@ -51,10 +51,9 @@ export class IRTActorSheet extends ActorSheet {
     // Derived value tooltips
     const attrs = system.attributes;
     context.derivedTooltips = {
-      talighet: `1 + ⌈Fysik / 2⌉ = 1 + ⌈${attrs.fysik} / 2⌉ = ${system.derived.talighet}`,
+      talighet: `Fysik + Vilja = ${attrs.fysik} + ${attrs.vilja} = ${system.derived.talighet}`,
       stabilitet: `1 + ⌈Vilja / 2⌉ = 1 + ⌈${attrs.vilja} / 2⌉ = ${system.derived.stabilitet}`,
       forflyttning: `Fysik + Smidighet = ${attrs.fysik} + ${attrs.smidighet} = ${system.derived.forflyttning} m`,
-      slagstyrka: `⌊Fysik / 2⌋ = ⌊${attrs.fysik} / 2⌋ = ${system.derived.slagstyrka}`,
       kpMax: `Fysik + Vilja = ${attrs.fysik} + ${attrs.vilja} = ${system.kp.max}`,
     };
 

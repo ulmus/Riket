@@ -3,7 +3,7 @@ export const EXPLOSION = [
   { min: 1, max: 1, label: "Överrumplad", effect: "Du faller omkull. Ta 1 Stress." },
   { min: 2, max: 2, label: "Tillfällig dövhet", effect: "Sinnen-slag (hörsel) är minst Mycket Svåra under 1T12 minuter." },
   { min: 3, max: 3, label: "Splitter i huden", effect: "Smärtsamt. Lätt blödning. Ta 1 Stress." },
-  { min: 4, max: 4, label: "Slungades iväg", effect: "Du flyger 1T12 meter och faller. Ta 1T12 skadetärningar (Kross) från fallet." },
+  { min: 4, max: 4, label: "Slungades iväg", effect: "Du flyger 1T12 meter och faller. Ta 1T12 KP skada (Kross) från fallet." },
   { min: 5, max: 5, label: "Tryckvågsskada", effect: "Lungorna skadas. Fysiska slag är minst Svåra. Ta 2 Stress." },
   { min: 6, max: 6, label: "Djupt splitter", effect: "Kraftig blödning. Splittret måste opereras ut (Kirurgi, Svårt)." },
   { min: 7, max: 7, label: "Örontrumma sprucken", effect: "Sinnen-slag (hörsel) är minst Mycket Svåra. Läketid: 1T12 månader." },

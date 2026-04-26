@@ -91,7 +91,7 @@ Exempel:
 - **+1 Fokus:** Öka varaktigheten
 - **+1 Fokus:** Öka effektens intensitet
 - **+2 Fokus:** Dramatisk förstärkning
-- **1 Framgång:** +1 skadetärning
+- **1 Framgång:** +1 skada
 - **1 Framgång:** +1 bonus på egenskap
 
 ## Attacker med krafter
@@ -102,13 +102,13 @@ Om kraften kan användas för att attackera, använd samma system som för vanli
 
 | Kraftnivå        | Skadebonus | Jämförbart med         |
 | ---------------- | ---------- | ---------------------- |
-| **Svag**         | +1         | Slag, knuff            |
-| **Standard**     | +3         | Kniv, lågor            |
-| **Stark**        | +5         | Pistol, kraftig eld    |
-| **Mycket stark** | +6         | Gevär, explosion       |
-| **Extrem**       | +8         | Artilleri, katastrofal |
+| **Svag**         | +0         | Slag, knuff            |
+| **Standard**     | +1         | Kniv, pistol, lågor    |
+| **Stark**        | +2         | Tung pistol, yxa       |
+| **Mycket stark** | +3         | Gevär, explosion       |
+| **Extrem**       | +4         | Artilleri, katastrofal |
 
-Attacken slås med **Strid + Vilja** (eller annan lämplig kombination). Antal **skadetärningar = träffframgångar + skadebonus** från kraftnivån. Skada och kritiska träffar fungerar som vanligt (se [[Strid och skada]] och [[Kritiska träffar]]).
+Attacken slås med **Strid + Vilja** (eller annan lämplig kombination). **KP-skada = framgångar + skadebonus − Skydd** (minst 0). Kritiska träffar fungerar som vanligt (se [[Strid och skada]] och [[Kritiska träffar]]).
 
 **Skadetyp:** Ange lämplig skadetyp för kritiska träffar (Eld, Kross, Stick, etc.).
 
@@ -171,7 +171,7 @@ När du skapar en kraft, beskriv också hur den manifesterar sig när ditt traum
 *Slå Strid + Vilja för att attackera. Skadebonus +X. Skadetyp: typ.*
 
 - **+1 Fokus:** *Förstärkning*
-- **1 Framgång:** +1 skadetärning
+- **1 Framgång:** +1 skada
 
 ## Exempelkrafter
 
@@ -272,11 +272,11 @@ Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen p�
 
 ### Iskristaller (1 Fokus, en Handling)
 
-Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål inom 15 meter. **Skadebonus +3.** Skadetyp: Stick.
+Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål inom 15 meter. **Skadebonus +2** (Stark). Skadetyp: Stick.
 
 - **+1 Fokus:** Träffar alla inom 3 meter från målet.
 - **+1 Fokus:** Vid 2+ KP skada måste målet slå Fysik + Vilja eller förlora sin nästa Manöver.
-- **1 Framgång:** +1 skadetärning.
+- **1 Framgång:** +1 skada.
 - **1 Framgång:** +10 meter räckvidd.
 
 ### Fryspelare (2 Fokus, en Handling)
@@ -299,13 +299,13 @@ Känner elektriska fält och nervimpulser inom 10 meter. Uppfattar starka känsl
 
 ### Stötchock (1 Fokus, en Handling)
 
-Slå Strid + Vilja för elektrisk stöt genom beröring. **Skadebonus +3.** Skadetyp: Övriga.
+Slå Strid + Vilja för elektrisk stöt genom beröring. **Skadebonus +2** (Stark). Skadetyp: Övriga.
 
 *Begränsning:* Kräver beröring.
 
 - **+1 Fokus:** Skjut stöten som ljusbåge upp till 5 meter.
 - **+1 Fokus:** Målet tappar vad det håller och förlorar nästa Manöver.
-- **1 Framgång:** +1 skadetärning.
+- **1 Framgång:** +1 skada.
 - **1 Framgång:** Elektronik på målet kortsluts.
 
 ### Neural överbelastning (2 Fokus, en Handling)

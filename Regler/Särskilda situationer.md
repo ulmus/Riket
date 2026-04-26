@@ -2,7 +2,7 @@
 
 ## Fallskada
 
-Fall över två meter kan ge fallskada. Skadebonus bestäms av underlaget:
+Fall över två meter kan ge fallskada. Underlagets skadebonus läggs till grundskadan:
 
 | Underlag                  | Skadebonus | Kritiska träffar |
 | ------------------------- | ---------- | ---------------- |
@@ -11,16 +11,18 @@ Fall över två meter kan ge fallskada. Skadebonus bestäms av underlaget:
 | Hårt (betong, sten)       | +2         | Kross +1         |
 | Vasst (taggtråd, spjut)   | +3         | Stick +1         |
 
-Antal skadetärningar baseras på fallets höjd plus skadebonus:
+Grundskadan beror på fallets höjd:
 
-| Fallhöjd | Skadetärningar |
-| -------- | -------------- |
-| 2 meter  | 1 + skadebonus |
-| 3 meter  | 2 + skadebonus |
-| 4 meter  | 3 + skadebonus |
-| +2 meter | +1             |
+| Fallhöjd | Grundskada |
+| -------- | ---------- |
+| 2 meter  | 1          |
+| 3 meter  | 2          |
+| 4 meter  | 3          |
+| +2 meter | +1         |
 
-Ett lyckat slag för **Fysik + Smidighet** minskar antalet skadetärningar med framgångarna. Skydd hjälper generellt dåligt mot fallskada, så allt skydd räknas ett steg lägre (minst 0).
+**KP-skada = grundskada + skadebonus − framgångar på Fysik + Smidighet − Skydd** (minst 0). Skydd hjälper generellt dåligt mot fallskada, så allt skydd räknas ett steg lägre (minst 0).
+
+**Kritiska träffar vid miljöskada:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff enligt underlaget (slå en gång på tabellen, +1 per ytterligare 12:a).
 
 ## Eldskada
 
@@ -33,21 +35,21 @@ Skadebonus från eld beror på eldens intensitet:
 | Bål, svetslåga             | +3         | Eld +1           |
 | Brinnande rum, napalm      | +4         | Eld +2           |
 
-Antalet skadetärningar beror på eldens omfattning relativt personen:
+Grundskadan beror på eldens omfattning relativt personen:
 
-| Eldens storlek   | Skadetärningar   |
-| ---------------- | ---------------- |
-| Bränd hand/arm   | 1 + skadebonus   |
-| Halva kroppen    | 2 + skadebonus   |
-| Hela kroppen     | 3 + skadebonus   |
+| Eldens storlek   | Grundskada |
+| ---------------- | ---------- |
+| Bränd hand/arm   | 1          |
+| Halva kroppen    | 2          |
+| Hela kroppen     | 3          |
+
+**KP-skada = grundskada + skadebonus − Skydd** (minst 0). Skydd skyddar bara mot eld om det är rimligt heltäckande och inte eldfängt.
 
 ### Brinnande
 
-Om du tar minst 1 KP av eldskada och inte lyckades släcka elden, är du **Brinnande**. I början av varje runda tar du automatiskt skadetärningar baserat på eldens intensitet (se tabell ovan). Du kan släcka elden som en handling (kasta dig på marken, hoppa i vatten, etc.).
+Om du tar minst 1 KP av eldskada och inte lyckades släcka elden, är du **Brinnande**. I början av varje runda tar du automatiskt KP-skada baserat på eldens intensitet och omfattning (se tabellerna ovan). Du kan släcka elden som en handling (kasta dig på marken, hoppa i vatten, etc.).
 
-Skydd skyddar bara mot eld om det är rimligt heltäckande och inte eldfängd.
-
-Kritiska träffar (12 på skadetärning) slås på tabellen **Eld** (se [[Kritiska träffar#Eld]]).
+**Kritiska träffar vid eldskada:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff på tabellen **Eld** (se [[Kritiska träffar#Eld]]).
 
 ## Explosioner
 
@@ -62,16 +64,18 @@ En explosions skadebonus beror på styrkan i explosionen:
 
 Skadebonus minskar med 1 för varje dubbling av avståndet från explosionspunkten.
 
-Antalet skadetärningar beror på omständigheterna:
+Grundskadan beror på omständigheterna:
 
-| Miljö          | Skadetärningar |
-| -------------- | -------------- |
-| Person i skydd | 2 + skadebonus |
-| Öppen mark     | 3 + skadebonus |
-| Öppna väggar   | 4 + skadebonus |
-| Slutna rum     | 5 + skadebonus |
+| Miljö          | Grundskada |
+| -------------- | ---------- |
+| Person i skydd | 2          |
+| Öppen mark     | 3          |
+| Öppna väggar   | 4          |
+| Slutna rum     | 5          |
 
-Explosionsskada ignorerar 1 poäng skydd.
+**KP-skada = grundskada + skadebonus − framgångar på Fysik + Smidighet (undan-slag) − (Skydd − 1)** (minst 0). Explosionsskada ignorerar 1 poäng Skydd.
+
+**Kritiska träffar vid explosion:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff på tabellen **Explosion**.
 
 ### Splitter
 
@@ -80,15 +84,13 @@ Många explosioner ger också splitterskada. Splitter har:
 - Samma skadebonus som explosionen (naturligt splitter)
 - +1 skadebonus utöver explosionen (splittergranater)
 
-Splitterskada minskar med 1 tärning per 5 meter avstånd. Skydd fungerar normalt mot splitter.
+Splitterskadans grundskada minskar med 1 per 5 meter avstånd. Skydd fungerar normalt mot splitter.
 
 ## Gift
 
-Giftets styrka avgör skadebonus, och dosen avgör antal skadetärningar – varje dubbling av dosen lägger till en skadetärning.
+Giftets styrka avgör skadebonus. Grundskadan börjar på **1** och ökar med **+1 per dubbling av dosen**.
 
-**Dödliga gifter** gör skada som vanliga attacker (10+ = 1 KP, 12 = kritisk träff).
-
-Kemdräkter och gasmask kan skydda helt (immun) eller delvis (halvera skadetärningar).
+Kemdräkter och gasmask kan skydda helt (immun) eller delvis (halvera grundskadan, minst 0).
 
 | Gift                | Typ     | Skadebonus | Anslag     | Noter               |
 | ------------------- | ------- | ---------- | ---------- | ------------------- |
@@ -96,7 +98,9 @@ Kemdräkter och gasmask kan skydda helt (immun) eller delvis (halvera skadetärn
 | Nervgas (sarin, VX) | Dödligt | +5         | Omedelbart | Inandning/kontakt   |
 | Arsenik             | Dödligt | +3         | 1 dag      | Förtäring           |
 
-Kritiska träffar (12 på skadetärning) slås på tabellen **Gift** (se [[Kritiska träffar#Gift]]).
+**KP-skada = grundskada + skadebonus − framgångar på Fysik + Vilja (motståndsslag)** (minst 0).
+
+**Kritiska träffar vid gift:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff på tabellen **Gift** (se [[Kritiska träffar#Gift]]).
 
 ## Sömnmedel
 
@@ -131,7 +135,7 @@ Ett sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** (alla hand
 
 ## Strålning
 
-En person som utsätts för strålning tar skada där skadebonus beror på strålningens intensitet och antal skadetärningar beror på hur länge de blev exponerade. I allmänhet slås slaget efter att expositionen är slut.
+En person som utsätts för strålning tar skada där skadebonus beror på strålningens intensitet och grundskadan beror på hur länge de blev exponerade. I allmänhet räknas skadan efter att exponeringen är slut.
 
 ### Intensitet (skadebonus)
 
@@ -142,16 +146,18 @@ En person som utsätts för strålning tar skada där skadebonus beror på strå
 | Kraftig    | +4         | Reaktorläcka, bränslestav i närheten    |
 | Extrem     | +6         | Inuti härden, atombombens epicentrum    |
 
-### Exponering (skadetärningar)
+### Exponering (grundskada)
 
-| Exponeringstid               | Skadetärningar |
-| ---------------------------- | -------------- |
-| Kortvarig (sekunder–minuter) | 2 + skadebonus |
-| Längre (timmar)              | 3 + skadebonus |
-| Långvarig (dagar–veckor)     | 5 + skadebonus |
+| Exponeringstid               | Grundskada |
+| ---------------------------- | ---------- |
+| Kortvarig (sekunder–minuter) | 2          |
+| Längre (timmar)              | 3          |
+| Långvarig (dagar–veckor)     | 5          |
+
+**KP-skada = grundskada + skadebonus − framgångar på Fysik + Vilja** (minst 0).
 
 ### Strålsjuka
 
 Strålningsskada visar sig ofta fördröjt. SL kan välja att låta effekterna slå igenom timmar eller dagar efter exponeringen.
 
-Kritiska träffar (12 på skadetärning) slås på tabellen **Strålning** (se [[Kritiska träffar#Strålning]]).
+**Kritiska träffar vid strålning:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff på tabellen **Strålning** (se [[Kritiska träffar#Strålning]]).

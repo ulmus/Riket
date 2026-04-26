@@ -1,6 +1,9 @@
 /**
- * I Rikets Tjänst - Damage Roller
- * Handles damage dice, KP calculation, and critical hit integration.
+ * I Rikets Tjänst - Damage Resolver
+ *
+ * Damage is calculated directly from the attack roll - no separate damage roll.
+ * KP damage = attack successes + weapon Skada − Skydd (minimum 0).
+ * Every 12 on the attack roll triggers a critical hit (in addition to granting 1 Focus).
  */
 
 import { lookupCritical, criticalModifier } from "./critical-tables.mjs";
@@ -8,38 +11,16 @@ import { lookupCritical, criticalModifier } from "./critical-tables.mjs";
 /* ---- Pure helper functions (testable without Foundry) ---- */
 
 /**
- * Analyze damage dice results.
- * @param {number[]} dice - Array of d12 results
- * @returns {{ kp: number, critCount: number, critDice: number[] }}
- */
-export function analyzeDamage(dice) {
-  let kp = 0;
-  let critCount = 0;
-  const critDice = [];
-  for (const d of dice) {
-    if (d >= 10) {
-      kp++;
-      if (d === 12) {
-        critCount++;
-        critDice.push(d);
-      }
-    }
-  }
-  return { kp, critCount, critDice };
-}
-
-/**
- * Calculate total damage after applying weapon Skada and armor Skydd.
+ * Calculate total KP damage from attack successes, weapon Skada and target Skydd.
  * @param {object} params
- * @param {number[]} params.dice - Damage dice results
- * @param {number} params.weaponSkada - Weapon's flat damage value
- * @param {number} params.skydd - Target's armor/protection value
- * @returns {{ totalKP: number, kpFromDice: number, critCount: number }}
+ * @param {number} params.successes - Number of 10+ results on the attack roll
+ * @param {number} [params.weaponSkada=0] - Weapon's flat damage bonus
+ * @param {number} [params.skydd=0] - Target's armor/protection value
+ * @returns {{ totalKP: number }}
  */
-export function calculateDamage({ dice, weaponSkada = 0, skydd = 0 }) {
-  const { kp, critCount } = analyzeDamage(dice);
-  const totalKP = Math.max(0, kp + weaponSkada - skydd);
-  return { totalKP, kpFromDice: kp, critCount };
+export function calculateDamage({ successes, weaponSkada = 0, skydd = 0 }) {
+  const totalKP = Math.max(0, successes + weaponSkada - skydd);
+  return { totalKP };
 }
 
 /**
@@ -57,42 +38,41 @@ export function calcCritRoll(baseRoll, weaponSkada, extraTwelves, penetrerande =
 /* ---- Foundry-dependent functions ---- */
 
 /**
- * Perform a damage roll and post to chat.
+ * Resolve damage from an attack roll and post to chat.
+ * No dice are rolled for the damage itself; only for the critical table lookup (if any).
+ *
  * @param {object} options
- * @param {number} options.numDice - Number of damage dice (= attack successes)
- * @param {number} options.weaponSkada - Weapon Skada value
- * @param {string} options.damageType - Damage type key for critical table
- * @param {string} options.weaponName - Display name
- * @param {number} options.skydd - Target armor
- * @param {boolean} options.penetrerande - Penetrerande property
- * @param {Actor} [options.actor] - Rolling actor for speaker
+ * @param {number} options.successes - Attack roll successes (10+)
+ * @param {number} [options.twelveCount=0] - Number of 12s on the attack roll
+ * @param {number} [options.weaponSkada=0]
+ * @param {string} [options.damageType="kross"]
+ * @param {string} [options.weaponName="Skada"]
+ * @param {number} [options.skydd=0]
+ * @param {boolean} [options.penetrerande=false]
+ * @param {Actor} [options.actor]
  */
-export async function damageRoll({ numDice, weaponSkada = 0, damageType = "kross", weaponName = "Skada", skydd = 0, penetrerande = false, actor = null }) {
-  const pool = Math.max(1, numDice);
-  const roll = new Roll(`${pool}d12`);
-  await roll.evaluate();
-  const dice = roll.terms[0].results.map((r) => r.result);
-  const { totalKP, kpFromDice, critCount } = calculateDamage({ dice, weaponSkada, skydd });
+export async function damageRoll({ successes, twelveCount = 0, weaponSkada = 0, damageType = "kross", weaponName = "Skada", skydd = 0, penetrerande = false, actor = null }) {
+  const { totalKP } = calculateDamage({ successes, weaponSkada, skydd });
 
   let critResult = null;
   let critRollValue = null;
-  if (critCount > 0) {
-    const critRoll = new Roll("1d12");
+  let critRoll = null;
+  if (twelveCount > 0) {
+    critRoll = new Roll("1d12");
     await critRoll.evaluate();
     const baseRoll = critRoll.terms[0].results[0].result;
-    const extraTwelves = critCount - 1;
+    const extraTwelves = twelveCount - 1;
     critRollValue = calcCritRoll(baseRoll, weaponSkada, extraTwelves, penetrerande);
     critResult = lookupCritical(damageType, critRollValue);
   }
 
   const html = _buildDamageChat({
     weaponName,
-    dice,
+    successes,
     totalKP,
-    kpFromDice,
     weaponSkada,
     skydd,
-    critCount,
+    twelveCount,
     critRollValue,
     critResult,
     damageType,
@@ -102,13 +82,13 @@ export async function damageRoll({ numDice, weaponSkada = 0, damageType = "kross
   await ChatMessage.create({
     speaker,
     content: html,
-    rolls: [roll],
+    rolls: critRoll ? [critRoll] : [],
     sound: CONFIG.sounds.dice,
   });
 }
 
 /**
- * Show a damage roll dialog to the user.
+ * Show a damage resolution dialog to the user (used when applying damage manually).
  * @param {object} weapon - Weapon item data
  * @param {Actor} actor
  */
@@ -116,8 +96,12 @@ export async function damageRollDialog(weapon, actor) {
   const content = `
     <form>
       <div class="form-group">
-        <label>Skadetärningar (antal framgångar)</label>
-        <input type="number" name="numDice" value="1" min="1" />
+        <label>Framgångar på attackslaget</label>
+        <input type="number" name="successes" value="1" min="0" />
+      </div>
+      <div class="form-group">
+        <label>Antal 12:or på attackslaget</label>
+        <input type="number" name="twelveCount" value="0" min="0" />
       </div>
       <div class="form-group">
         <label>Målets Skydd</label>
@@ -128,18 +112,20 @@ export async function damageRollDialog(weapon, actor) {
 
   return new Promise((resolve) => {
     new Dialog({
-      title: `Skadeslag: ${weapon.name}`,
+      title: `Skada: ${weapon.name}`,
       content,
       buttons: {
         roll: {
-          icon: '<i class="fas fa-dice"></i>',
-          label: "Slå",
+          icon: '<i class="fas fa-burst"></i>',
+          label: "Räkna skada",
           callback: async (html) => {
-            const numDice = parseInt(html.find('[name="numDice"]').val()) || 1;
+            const successes = parseInt(html.find('[name="successes"]').val()) || 0;
+            const twelveCount = parseInt(html.find('[name="twelveCount"]').val()) || 0;
             const skydd = parseInt(html.find('[name="skydd"]').val()) || 0;
             const props = (weapon.system.properties ?? "").toLowerCase();
             await damageRoll({
-              numDice,
+              successes,
+              twelveCount,
               weaponSkada: weapon.system.damage ?? 0,
               damageType: weapon.system.damageType ?? "kross",
               weaponName: weapon.name,
@@ -163,12 +149,6 @@ export async function damageRollDialog(weapon, actor) {
 
 /* ---- Chat HTML builder ---- */
 
-function _dieClass(val) {
-  if (val === 12) return "irt-die irt-die--fokus";
-  if (val >= 10) return "irt-die irt-die--success";
-  return "irt-die";
-}
-
 function _esc(str) {
   if (typeof foundry !== "undefined" && foundry.utils?.escapeHTML) {
     return foundry.utils.escapeHTML(str);
@@ -176,29 +156,20 @@ function _esc(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
-function _buildDamageChat({ weaponName, dice, totalKP, kpFromDice, weaponSkada, skydd, critCount, critRollValue, critResult, damageType }) {
+function _buildDamageChat({ weaponName, successes, totalKP, weaponSkada, skydd, twelveCount, critRollValue, critResult, damageType }) {
   let html = `<div class="irt-roll-card irt-damage-card">`;
   html += `<div class="irt-roll-header">${_esc(weaponName)}</div>`;
   html += `<div class="irt-roll-body">`;
 
-  // Dice
-  html += `<div class="irt-dice-tray">`;
-  for (const d of dice) {
-    html += `<span class="${_dieClass(d)}">${d}</span>`;
-  }
-  html += `</div>`;
-
-  // Damage breakdown
+  // Damage total
   html += `<div class="irt-damage-total">${totalKP} KP skada</div>`;
-  if (weaponSkada > 0 || skydd > 0) {
-    html += `<div class="irt-damage-breakdown">`;
-    html += `<span>${kpFromDice} (tärningar) + ${weaponSkada} (Skada)`;
-    if (skydd > 0) html += ` − ${skydd} (Skydd)`;
-    html += `</span></div>`;
-  }
+  html += `<div class="irt-damage-breakdown">`;
+  html += `<span>${successes} framgång${successes !== 1 ? "ar" : ""} + ${weaponSkada} Skada`;
+  if (skydd > 0) html += ` − ${skydd} Skydd`;
+  html += `</span></div>`;
 
   // Critical hit
-  if (critCount > 0 && critResult) {
+  if (twelveCount > 0 && critResult) {
     const critText = `${critResult.label}: ${critResult.effect}`;
     html += `<div class="irt-critical-hit">`;
     html += `<div class="irt-critical-header">&#128128; Kritisk träff! (${critRollValue} på ${damageType})</div>`;
@@ -206,7 +177,7 @@ function _buildDamageChat({ weaponName, dice, totalKP, kpFromDice, weaponSkada, 
     html += `<div class="irt-critical-effect">${_esc(critResult.effect)}</div>`;
     html += `<button class="irt-copy-crit-btn" data-crit-text="${_esc(critText)}" title="Kopiera kritisk effekt"><i class="fas fa-clipboard"></i> Kopiera</button>`;
     html += `</div>`;
-  } else if (critCount > 0) {
+  } else if (twelveCount > 0) {
     html += `<div class="irt-critical-hit">`;
     html += `<div class="irt-critical-header">&#128128; Kritisk träff!</div>`;
     html += `<div class="irt-critical-effect">Slå på tabellen för ${damageType}.</div>`;

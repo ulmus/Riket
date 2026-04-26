@@ -76,7 +76,6 @@ Hooks.on("prepareData", (document) => {
   system.derived.talighet = derived.talighet;
   system.derived.stabilitet = derived.stabilitet;
   system.derived.forflyttning = derived.forflyttning;
-  system.derived.slagstyrka = derived.slagstyrka;
   system.kp.max = derived.kpMax;
   system.skadeniva = calcSkadeniva(system.kp.value, derived.talighet);
 });

@@ -23,18 +23,18 @@
 - **Manöver:** Hur du gör det – Sikta, Ta skydd, Defensiv ställning, Framryckning, Rusa, Flanka, Aggressiv, Neutral. **Bestående** Manövrer behålls tills något bryter dem.
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid), modifierat av din Manöver
 - **Försvar:** Aktiv Manöver avgör försvar – *Ta skydd* ger Skydd, *Defensiv ställning* gör närstrid mot dig ett steg Svårare och ger motangrepp, *Framryckning/Rusa* gör avståndsattacker mot dig Svårare
-- **Skada:** Varje framgång ger 1 skadetärning (T12; 10+ = 1 KP, 12 = kritisk träff); lägg till vapnets Skada och dra av Skydd
-- **Kritiskt sår**: 12:a på skadeslag innebär slag på tabell för Kritiskt sår.
+- **Skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0)
+- **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus **och** triggar en kritisk träff. +1 per ytterligare 12:a
 
 ## Skador
 
-- **Tålighet** = 1 + ⌈Fysik / 2⌉ avrunda uppåt
+- **Tålighet** = Fysik + Vilja
 - **Sårad** (> Tålighet KP): Alla slag ett steg svårare, +1 Stress
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad
 - **Död** (> 4 × Tålighet KP): Död
-- **Skada:** Vapnets Skada adderas som KP (före Skydd) och till kritiska träff-slag (dubbelt med Penetrerande)
-- **Kritiska sår**: Enligt effekt
+- **Vapnets Skada** läggs till KP-skadan och till kritisk träff-slaget (dubbelt med Penetrerande)
+- **Kritiska sår**: Enligt effekt på tabellen
 
 ## Stress och Sammanbrott
 

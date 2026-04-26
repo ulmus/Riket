@@ -1,14 +1,14 @@
 # Kritiska träffar
 
-När en skadetärning visar **12** inträffar en **kritisk träff**. Slå 1T12 och lägg till modifikatorer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
+När en tärning på attackslaget visar **12** inträffar en **kritisk träff** (utöver den 1 Fokus som 12:an alltid ger). Slå 1T12 och lägg till modifikatorer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
 
 **Modifikatorer till slaget:**
 
-- **Ytterligare tolvor:** +1 per ytterligare skadetärning som visar 12
+- **Ytterligare tolvor:** +1 per ytterligare tärning som visar 12 på attackslaget
 - **Skada:** +vapnets **Skada**-värde (vapen med egenskapen **Penetrerande** lägger istället till **dubbla Skada**)
 - **Målets kritiska tålighet:** −X för stora eller väldigt tåliga varelser
 
-Om flera tärningar visar 12, slå **en gång** och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.
+Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.
 
 ## Behandling av kritiska träffar
 
@@ -104,7 +104,7 @@ Brännskador från eld, het ånga, frätande ämnen. *Behandlas med Medicin (lin
 | 1   | **Svedd.** Obehagligt. Ta **1 Stress**.                                                                                                                                                                                   |
 | 2   | **Ytlig brännskada.** Smärtsamt. Finmotorik är minst **Svårt** om händerna är drabbade.                                                                                                                                  |
 | 3   | **Bränd hud.** Slå 1T12 för kroppsdel (1-3: vänster arm, 4-6: höger arm, 7-9: vänster ben, 10-12: höger ben). Slag som involverar det brända området är minst **Svåra** tills behandlad.                                 |
-| 4   | **Brinnande kläder.** Om du inte släcker (Manöver) tar du **3 skadetärningar** nästa runda.                                                                                                                            |
+| 4   | **Brinnande kläder.** Om du inte släcker (Manöver) tar du **3 KP Eldskada** nästa runda.                                                                                                                            |
 | 5   | **Djup brännskada.** Extrem smärta. Ta **2 Stress**. Alla slag är minst **Svåra** tills behandlad.                                                                                                                       |
 | 6   | **Brända händer.** Du tappar vad du håller i. Kan inte använda händerna tills behandlad.                                                                                                                                  |
 | 7   | **Bränt ansikte.** Sinnen-slag (syn) är minst **Mycket Svåra** tills behandlad (Medicin). **Lätt blödning**. **Läketid:** 1T12 veckor.                                                                                      |
@@ -148,7 +148,7 @@ Granater, bomber, minor – tryckvåg och splitter. Behandlas med Kirurgi (split
 | 1   | **Överrumplad.** Du faller omkull. Ta **1 Stress**.                                                                                                                                               |
 | 2   | **Tillfällig dövhet.** Sinnen-slag (hörsel) är minst **Mycket Svåra** under 1T12 minuter.                                                                                                                    |
 | 3   | **Splitter i huden.** Smärtsamt. **Lätt blödning**. Ta **1 Stress**.                                                                                                                     |
-| 4   | **Slungades iväg.** Du flyger 1T12 meter och faller. Ta **1T12 skadetärningar** (Kross) från fallet.                                                                                              |
+| 4   | **Slungades iväg.** Du flyger 1T12 meter och faller. Ta **1T12 KP** skada (Kross) från fallet.                                                                                              |
 | 5   | **Tryckvågsskada.** Lungorna skadas. Fysiska slag är minst **Svåra**. Ta **2 Stress**.                                                                                                           |
 | 6   | **Djupt splitter.** **Kraftig blödning**. Splittret måste opereras ut (Kirurgi, **Svårt**).                                                                                           |
 | 7   | **Örontrumma sprucken.** Sinnen-slag (hörsel) är minst **Mycket Svåra**. **Läketid:** 1T12 månader.                                                                                                          |

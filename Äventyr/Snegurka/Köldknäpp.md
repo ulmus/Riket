@@ -311,7 +311,7 @@ Anja sitter på golvet i ett hörn, insvept i en filt. Smutsig, blek, men inte u
 
 **Lyckat:** Köldauran sjunker ett steg. Anja slutar backa.
 
-**Misslyckat:** Iskristaller. Alla inom 3 meter: 2 skadetärningar (Stick, +3). Nytt försök nästa runda.
+**Misslyckat:** Iskristaller. Alla inom 3 meter: grundskada 2, **Skadebonus +2**, Skadetyp Stick. Nytt försök nästa runda.
 
 Uppmuntra rollspel. Tjuren erbjuder sardiner. Stigmata: "Jag vet hur det känns." Prisma gör ljusspel. Äkta empati fungerar — inte order.
 
@@ -360,9 +360,9 @@ Varje runda Anja är i strid eller panik, slå **T12**:
 |-----|--------|
 | 1–4 | Ingen extra effekt — auran håller sig stabil |
 | 5–7 | **Köldvåg** — temperaturen sjunker ytterligare. Alla inom 10 meter: fysiska slag ett steg svårare |
-| 8–9 | **Iskristaller** — spontan salva i slumpmässig riktning. 3 skadetärningar (Stick, +3) mot en slumpmässig person inom 10 meter |
-| 10–11 | **Frostexplosion** — alla inom 5 meter tar 4 skadetärningar (Övriga/Kyla, +3) och slås tillbaka 2 meter |
-| 12 | **Fryspelare** — Anja förlorar all kontroll. En 10-meters radie fryser solid. Alla i zonen tar 5 skadetärningar (Övriga/Kyla, +5) och måste slå Fysik + Vilja eller bli **förstelnade** i isen |
+| 8–9 | **Iskristaller** — spontan salva i slumpmässig riktning mot en slumpmässig person inom 10 meter. Grundskada 3, **Skadebonus +2**, Skadetyp Stick |
+| 10–11 | **Frostexplosion** — alla inom 5 meter: grundskada 4, **Skadebonus +2**, Skadetyp Övriga (Kyla). Slås tillbaka 2 meter |
+| 12 | **Fryspelare** — Anja förlorar all kontroll. En 10-meters radie fryser solid. Alla i zonen: grundskada 5, **Skadebonus +3**, Skadetyp Övriga (Kyla). Måste slå Fysik + Vilja eller bli **förstelnade** i isen |
 
 ##### GRU:s styrkor
 
@@ -523,10 +523,10 @@ Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen p�
 - **1 Framgång:** Effekten är starkare och varar längre.
 
 **Iskristaller** (1 Fokus, reflexmässig)
-Slå Strid + Vilja för att skjuta vassa iskristaller. **Skadebonus +3.** Skadetyp: Stick. Räckvidd 15 meter. Anja avfyrar dessa instinktivt vid panik — hon har ingen medveten kontroll.
+Slå Strid + Vilja för att skjuta vassa iskristaller. **Skadebonus +2** (Stark). Skadetyp: Stick. Räckvidd 15 meter. Anja avfyrar dessa instinktivt vid panik — hon har ingen medveten kontroll.
 
 - **+1 Fokus:** Träffar alla inom 3 meter från målet.
-- **1 Framgång:** +1 skadetärning.
+- **1 Framgång:** +1 skada.
 
 **Fryspelare** (2 Fokus, en Handling)
 Skapa extrem kyla i 5-meters radie. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och −1 på fysiska slag. Varar 3 rundor.
@@ -693,7 +693,7 @@ Slå Vilja + Sinnen för att manipulera metallföremål inom 15 meter. Kan rycka
 
 - **+1 Fokus:** Kontrollera flera föremål samtidigt (max Vilja st).
 - **+1 Fokus:** Räckvidden ökar till 30 meter.
-- **1 Framgång:** Föremål flyger med dödlig kraft (3 skadetärningar, Kross, +3).
+- **1 Framgång:** Föremål flyger med dödlig kraft (grundskada 3, **Skadebonus +2**, Skadetyp Kross).
 
 **Magnetisk sköld** (1 Fokus, Bestående Manöver)
 Så länge Manövern är aktiv har Polaris **+2 Skydd** mot skjutvapen med metallkulor. Manövern bryts om han byter Manöver eller tappar koncentrationen (t.ex. Pulsstörare).

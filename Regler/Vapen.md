@@ -63,7 +63,7 @@ Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner u
 
 ## Skydd och rustning
 
-Skydd minskar KP-skadan från attacker. Normalt kroppsskydd ger 1 poäng Skydd, medan kraftigare rustningar kan ge mer. Skydd tar först bort vanliga KP-skador och därefter kritiska träffar.
+Skydd minskar KP-skadan från attacker. Normalt kroppsskydd ger 1 poäng Skydd, medan kraftigare rustningar kan ge mer. Skydd påverkar inte om en kritisk träff triggas, men vapnets **Skada** läggs fortfarande till på kritiska träff-slaget.
 
 ## Ammunition och vapenutrustning
 
