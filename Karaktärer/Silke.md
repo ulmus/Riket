@@ -33,13 +33,9 @@ cssclasses:
 
 ## Krafter
 
-### Feromoner (Alltid aktiv)
+### Feromoner (1 Fokus, en huvudhandling)
 
-Karaktären utsöndrar alltid feromoner. Ger en permanent bonus på **+1** tärning på alla slag som använder Samspel för alla som är inom 10 meter (och andas samma luft).
-
-### Manipulation (1 Fokus, en huvudhandling)
-
-Karaktären slår Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (t.ex. lugn, rädsla, tillit) under ett par minuter hos en liten grupp inom 10 meter som andas samma luft. Detta kan ge **+1** tärning på efterföljande sociala slag och generellt ändra sinnesstämningen.
+Karaktären slår Samspel + Vilja för att via feromoner subtilt ingjuta en grundläggande känsla (t.ex. lugn, rädsla, tillit) under ett par minuter hos en liten grupp inom 10 meter som andas samma luft. Detta kan ge **+2** tärningar på efterföljande sociala slag och generellt ändra sinnesstämningen.
 
 - **+1 Fokus:** Radien för effekten ökar 10 meter.
 - **1 Framgång:** Känslan är starkare och håller i sig hela scenen.

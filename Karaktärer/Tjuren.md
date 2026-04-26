@@ -6,12 +6,12 @@ cssclasses:
 # Tjuren
 
 
-| Egenskap  |     | Sekundärt    |             |
-| :-------- | --: | :----------- | :---------- |
-| Analys    | **1** | Oskadd       | ❏❏❏ ❏❏❏ ❏❏❏ |
-| Fysik     | **5** | Sårad        | ❏❏❏ ❏❏❏ ❏❏❏ |
-| List      | **1** | Medvetslös   | ❏❏❏ ❏❏❏ ❏❏❏ |
-| Samspel   | **3** | Döende       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Egenskap  |       | Sekundärt    |             |
+| :-------- | ----: | :----------- | :---------- |
+| Analys    | **1** | Oskadd       | ❏❏❏❏❏ ❏❏❏❏  |
+| Fysik     | **5** | Sårad        | ❏❏❏❏❏ ❏❏❏❏  |
+| List      | **1** | Medvetslös   | ❏❏❏❏❏ ❏❏❏❏  |
+| Samspel   | **3** | Döende       | ❏❏❏❏❏ ❏❏❏❏  |
 | Sinnen    | **1** | Förflyttning | 7 m         |
 | Smidighet | **2** | Tålighet     | 9           |
 | Strid     | **4** | Stabilitet   | 3           |
@@ -104,7 +104,7 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 
 ## Utrustning
 
-- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, Skada 1, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏
+- **Kulsprutepistol m/45 "Carl Gustaf":** Räckvidd 15 m, Skada 2, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏
 - **Knogjärn:** +1 skada i obeväpnad närstrid.
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
 - **Rock med insydda plåtar:** Skydd 2, alla Smidighet-slag ett steg svårare.

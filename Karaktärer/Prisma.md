@@ -6,9 +6,9 @@ cssclasses:
 # Prisma
 
 
-| Egenskap  |     | Sekundärt    |             |
-| :-------- | --: | :----------- | :---------- |
-| Analys    | **2** | Oskadd       | ❏❏❏❏        |
+| Egenskap  |       | Sekundärt    |             |
+| :-------- | ----: | :----------- | :---------- |
+| Analys    | **3** | Oskadd       | ❏❏❏❏        |
 | Fysik     | **1** | Sårad        | ❏❏❏❏        |
 | List      | **4** | Medvetslös   | ❏❏❏❏        |
 | Samspel   | **2** | Döende       | ❏❏❏❏        |
