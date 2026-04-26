@@ -56,7 +56,7 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära Egenskaper
 
-- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling.
+- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per Manöver (t.ex. *Framryckning*).
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Vilja (avrundat uppåt).
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
@@ -93,7 +93,7 @@ Fokus är en personlig resurs som återställs inför varje scen. Fokus används
 
 Om du använt Fokus för att lägga till tärningar till ett slag och slaget ändå misslyckas så kan du drabbas av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. Exempel:
 
-- Eldavbrott på ditt vapen, du måste lägga en huvudhandling och lyckas med Analys + Smidighet för att återställa vapnet.
+- Eldavbrott på ditt vapen, du måste lägga en Handling och lyckas med Analys + Smidighet för att återställa vapnet.
 
 ### Stress istället för Fokus
 
@@ -119,8 +119,8 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
-- Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
-- Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Smidighet + Strid och drar av framgångar från attackens framgångar.
+- Din tur: 1 **Handling** + 1 **Manöver**. Du kan offra Handlingen för en andra Manöver.
+- Försvar avgörs av din aktiva Manöver: *Ta skydd* ger Skydd, *Defensiv ställning* gör närstrid mot dig Svårare och ger motangrepp, *Framryckning*/*Rusa* gör avståndsattacker mot dig Svårare. Ingen separat reaktion krävs.
 - Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.
 
 Se kapitlet för [[Strid och skada]]

@@ -39,19 +39,19 @@ cssclasses:
 
 Karaktären kan avläsa sin omgivning utan att använda synen, och uppfattar konturer av föremål och rörelser genom solida hinder inom cirka 20 meter.
 
-### Radiohörsel (1 Fokus, en huvudhandling)
+### Radiohörsel (1 Fokus, en Handling)
 
 Karaktären kan lyssna på radiofrekvenser så länge hen koncentrerar sig. Om signalen är krypterad så krävs ett lyckat slag för Analys + Sinnen där svårigheten bestäms av krypteringens komplexitet.
 
 - **+1 Fokus:** Du kan också sända.
 
-### Pulsstörare (1 Fokus, en huvudhandling)
+### Pulsstörare (1 Fokus, en Handling)
 
 Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vilja. Om slaget lyckas så blir levande varelser inom 10 meter desorienterade och förlorar sin nästa runda om de inte lyckas med ett slag för Vilja + Vilja. Elektronik blir också utstörd, SL avgör i vilken grad.
 
 - **+1 Fokus:** Välj vilka mål inom konen som drabbas.
 - **1 Framgång:** Motståndsslaget ett steg svårare.
-- **1 Framgång:** Alla mål är utslagna upp till en hel scen. Den utslagna personen kan varje runda slå ett slag för Vilja + Vilja för att häva det. Om det lyckas så kan de ta en Huvudhandling den rundan.
+- **1 Framgång:** Alla mål är utslagna upp till en hel scen. Den utslagna personen kan varje runda slå ett slag för Vilja + Vilja för att häva det. Om det lyckas så kan de ta en Handling den rundan.
 - **1 Framgång:** Öka räckvidden på attacken med 10 meter.
 
 ### Aktiverat trauma – Pulsstörare
@@ -65,7 +65,7 @@ Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vi
 - +1 på Smidighet + Strid med pistoler.
 - Dra eller byta till pistol som gratis handling.
 
-### Snabbskott (1 Fokus, 1 bihandling)
+### Snabbskott (1 Fokus, 1 Manöver)
 
 Gör en extra pistolattack. Attacken är **ett steg svårare**.
 

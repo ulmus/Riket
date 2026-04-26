@@ -18,9 +18,11 @@
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
-- **Din tur:** 1 huvudhandling + 1 bihandling + 1 reaktion
-- **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
-- **Försvar (reaktion):** Smidighet + Strid, dra av framgångar från attackens
+- **Din tur:** 1 **Handling** + 1 **Manöver** (offra Handling för en andra Manöver)
+- **Handling:** Vad du gör – attack, använd färdighet, bär en skadad, aktivera kraft
+- **Manöver:** Hur du gör det – Sikta, Ta skydd, Defensiv ställning, Framryckning, Rusa, Flanka, Aggressiv, Neutral. **Bestående** Manövrer behålls tills något bryter dem.
+- **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid), modifierat av din Manöver
+- **Försvar:** Aktiv Manöver avgör försvar – *Ta skydd* ger Skydd, *Defensiv ställning* gör närstrid mot dig ett steg Svårare och ger motangrepp, *Framryckning/Rusa* gör avståndsattacker mot dig Svårare
 - **Skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0)
 - **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus **och** triggar en kritisk träff. +1 per ytterligare 12:a
 

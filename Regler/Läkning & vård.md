@@ -14,7 +14,7 @@ Kirurgi i fält (utan operationssal) är normalt **Svårt**.
 
 ## Behandling
 
-Behandling kräver en **huvudhandling** för första försöket. Nästa försök kräver en full minut och ytterligare försök kan bara göras om förutsättningarna förbättras (bättre utrustning, mer tid, stabilare patient).
+Behandling kräver en **Handling** för första försöket. Nästa försök kräver en full minut och ytterligare försök kan bara göras om förutsättningarna förbättras (bättre utrustning, mer tid, stabilare patient).
 
 **Utrustning:** +1 tärning med första-hjälpen-kit, +2 med läkarväska.
 

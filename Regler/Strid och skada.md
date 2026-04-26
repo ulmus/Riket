@@ -6,44 +6,82 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Turer och handlingar
 
-På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, istället för en huvudhandling utföra en bihandling till (för totalt två bihandlingar på din tur). Utöver det så kan en reaktionshandling utföras utanför din tur, men bara om något händer som utlöser reaktionen.
+Striden delas in i rundor om ca fem sekunder. På din tur gör du en **Handling** och väljer en **Manöver**. Handlingen är *vad* du gör; Manövern är *hur* du gör det och vilken hållning du har. Vissa Manövrer är **Bestående** – de behålls automatiskt mellan rundor tills du byter Manöver eller något bryter dem
 
-## Huvudhandlingar
+## Handlingar
 
-- Avståndsattack (Smidighet + Strid)
-- Närstridsattack (Fysik + Strid eller Smidighet + Strid)
+En Handling är en aktiv insats. Typiska Handlingar:
 
-## Bihandlingar
+- **Avståndsattack** (Smidighet + Strid)
+- **Närstridsattack** (Fysik + Strid eller Smidighet + Strid)
+- **Bära eller dra en skadad** (Fysik + Smidighet)
+- **Använda en färdighet** i strid (akutvård, forcera lås, hacka radio, etc.)
+- **Kasta granat eller sprängladdning** (Smidighet + Strid)
+- **Ge order eller leda** (Samspel + Strid)
+- **Ladda om ett vapen**
+- **Aktivera en kraft** som kräver en Handling
+- **Återhämtning**, slå ett slag för Vilja + Strid. Om du lyckas minskas din Stress ett steg. Kan bara göras när du har tagit stress i en strid och inte igen förrän du tagit stress igen.
 
-- Sikta: +1
-- Ställa sig upp
-- Dra ett vapen
-- Röra sig Fysik + Smidighet meter
+En rollperson gör normalt en Handling per runda.
 
-## Reaktionshandlingar
+## Manövrer
 
-- Kasta sig undan en attack (Smidighet + Strid), du är på marken efteråt och det krävs en bihandling för att resa sig
-- Parera en närstridsattack (Smidighet + Strid + Paradbonus)
+En Manöver är hur du positionerar dig och vilken hållning du intar. Varje Manöver ger en **offensiv effekt** (bonus eller möjlighet på din Handling) och en **defensiv effekt** (hur svår du är att träffa eller skada).
+
+| Manöver                | Bestående | Effekt                                                                                                                                                                                                 | Krav                                          |
+| ---------------------- | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
+| **Sikta**              | Ja        | +1 på nästa avståndsattack                                                                                                                                                                             |                                               |
+| **Stadigt sikte**      | Ja        | +2 på nästa avståndsattack                                                                                                                                                                             | Liggande eller fast stöd                      |
+| **Ta skydd**           | Ja        | **Svår** att träffa på avstånd.                                                                                                                                                                        | Täckning finns                                |
+| **Defensiv ställning** | Ja        | Dina attacker blir **Svåra**. Andras närstridsattacker mot dig blir **Svåra** och du får eventuellt göra motangrepp.                                                                                   | —                                             |
+| **Framryckning**       | Nej       | Förflyttning Fysik + Smidighet mete. Avståndsattacker mot dig blir **Svåra**. Dina avståndsattacker blir **Svåra**.                                                                                    | —                                             |
+| **Rusa**               | Nej       | Dubbel förflyttning. Avståndsattacker mot dig blir **Svåra**. Dina avståndsattacker blir **Mycket Svåra** och dina närstridsattacker blir **Svåra**.                                                   | —                                             |
+| **Neutral**            | Nej       | Ingen                                                                                                                                                                                                  | Standard om inget annat väljs                 |
+| **Övervakning**        | Ja        | Du håller ett område under uppsikt och väntar på något och anger en handling som kommer att göra om det händer (t ex skjuta). Om det händer som du väntar så får du ta din handling.                   | Du behöver också lägga din handling på detta. |
+| **Koncentration**      | Ja        | Upprätthåll en förmåga                                                                                                                                                                                 |                                               |
+| **Täckande eld**       | Ja        | Välj ett område som du försöker täcka. Alla i det området som försöker skjuta mot dig måste slå ett slag för Vilja+Strid eller ta en stress. Om de misslyckas så är också deras träffa-slag **Svåra**. | Avståndsvapen, kostar 1 ammunition            |
+| **Full sving**         | Nej       | Närstridsattack blir **Svår**, men får tre extra skadetärningar om den träffar.                                                                                                                        |                                               |
+
+SL kan godkänna andra Manövrer efter situation, till exempel att hänga från ett rep, stå över en fallen kamrat, eller rida på en fordonstak.
+
+### Bestående Manövrer
+
+En **Bestående Manöver** varar utan omval runda efter runda. Den bryts om du:
+
+- väljer en ny Manöver,
+- tar minst 1 KP skada eller faller omkull,
+- tappar förutsättningen (t.ex. ditt skydd förstörs, stödet glider undan),
+- förflyttar dig längre än ett steg från din position.
+
+Att återta en Bestående Manöver kräver en ny Manöver på en kommande tur.
+
+### Försvar mot attacker
+
+Du behöver inte slå separata försvarsslag. Din aktiva Manöver avgör försvaret:
+
+- **Ta skydd** gör att attacker mot dig blir **Svåra**.
+- **Defensiv ställning** gör närstridsattacker mot dig **Svåra** och ger rätt till ett motangrepp mot en motståndare som missar (Smidighet + Strid; ingen extra Handling krävs).
+- **Framryckning** och **Rusa** gör dig till ett rörligt mål: avståndsattacker mot dig blir **Svåra**.
+- **Neutral** ger inga försvarseffekter.
+
+En karaktär som saknar aktiv Manöver (t.ex. överraskad, kullstött, medvetslös) försvarar sig inte. Attacker mot målet är då ett steg lättare.
 
 ## Avståndsattacker
 
-Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid med modifikationer.
-
-- Minst en bihandling lagd på att sikta +1
-- Stabil position +1 (+2 om liggande)
+Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid med modifikationer från din Manöver.
 
 Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott svårare:
 
-- Målet är i skydd eller snabb rörelse
+- Målet är i **Ta skydd**, **Framryckning** eller **Rusa**
 - Mörker eller dålig sikt
 - Avstånd bortom vapnets räckvidd
-- Skytten är i rörelse eller instabil position
+- Du är själv i en rörlig Manöver eller utan stabilt sikte
 
 En enskild försvårande faktor gör skottet normalt **Svårt**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svårt** – SL avgör. Skott långt bortom vapnets räckvidd kan vara **Mycket Svårt** eller omöjligt.
 
 ## Närstridsattacker
 
-När du gör en närstridsattack slår du för Fysik + Strid eller Smidighet + Strid (beroende på vapen och förmågor) med modifikationer.
+När du gör en närstridsattack slår du för Fysik + Strid eller Smidighet + Strid (beroende på vapen och förmågor), modifierat av din aktiva Manöver. Om motståndaren är i **Defensiv ställning** blir attacken ett steg svårare.
 
 ## Skador
 
@@ -97,11 +135,15 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende – oavse
 
 ## Exempel
 
-> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 1** och skadetyp **Skjutvapen**.
+> **Anton** vaktar en korridor när en sovjetisk gränsvakt dyker upp i andra änden. Anton väljer Manöver **Ta skydd** bakom dörrkarmen och Handling **Avståndsattack** med sin pistol (Skada 1, skadetyp **Skjutvapen**). Skyddet ger −1 på hans eget skott men +1 Skydd mot vaktens eldgivning.
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
 > Vakten bär **tjock rock (Skydd 1)**. KP-skada = 3 framgångar + 1 Skada − 1 Skydd = **3 KP**.
 > Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 3 KP – fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
 > 12:an triggar en kritisk träff. Anton slår 1T12 och får en 7. Med Skada +1 (pistol) blir totalen **8** på Skjutvapen-tabellen: *Genomskjuten axel*.
+
+> **Bestående Manöver – skarpskytt på tak:** **Hedda** ligger på ett plåttak över den östtyska polisstationen. Runda 1 väljer hon Manöver **Stadigt sikte** (Bestående) och offrar sin Handling för en andra Manöver: **Sikta**. Runda 2 är båda Manövrerna kvar – hon gör Handling **Avståndsattack** med gevär och får +2 (Stadigt sikte) och +1 (Sikta) på slaget. När hon träffas av retureld rundan därpå bryts bägge Manövrerna och hon måste välja nya.
+
+> **Defensiv ställning:** **Günther** möter en GRU-officer med bajonett i en trång tågkupé. Han väljer Manöver **Defensiv ställning** och Handling **Närstridsattack**. Officerens anfall blir ett steg svårare och misslyckas med en framgång. Günthers Defensiva ställning ger honom rätt till ett motangrepp (Smidighet + Strid) utan att använda någon ny Handling, men den är **Svår**.
 
 ## Effekter av skada
 
@@ -156,7 +198,7 @@ Varje Överlevnadsslag:
 
 En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
 
-- Kräver en huvudhandling för första försöket, en minut för andra försöket och en timme för tredje försöket.
+- Kräver en Handling för första försöket, en minut för andra försöket och en timme för tredje försöket.
 - Vid framgång slutar du vara Döende (men behöver fortfarande läkning).
 
 ## Blödning

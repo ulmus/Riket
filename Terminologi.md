@@ -37,7 +37,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | ---- | --------- | ----------- |
 | **Tålighet** | Fysik + Vilja | Tröskel för skadesteg |
 | **Stabilitet** | 1 + (Vilja/2, uppåt) | Hur mycket stress du tål innan sammanbrott |
-| **Förflyttning** | Fysik + Smidighet | Meter per bihandling |
+| **Förflyttning** | Fysik + Smidighet | Meter per Manöver (Framryckning) |
 
 ## Expertis och förmågor
 
@@ -51,9 +51,9 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 | Term | Beskrivning |
 | ---- | ----------- |
-| **Huvudhandling** | Den primära handlingen på din tur (attack, aktivera kraft, etc.) |
-| **Bihandling** | En mindre handling (förflytta sig, dra vapen, sikta) |
-| **Reaktion** | En handling utanför din tur som svar på ett utlösande event (försvar) |
+| **Handling** | Vad du gör på din tur – attack, använda färdighet, bära en skadad, aktivera kraft |
+| **Manöver** | Hur du gör det – hållning och position (Sikta, Ta skydd, Defensiv ställning, Framryckning, Flanka, Aggressiv, etc.). Ger både offensiv bonus och defensiv effekt |
+| **Bestående** | Egenskap på vissa Manövrer; de behålls automatiskt mellan rundor tills de bryts |
 | **Initiativ** | Bestämmer turordning i strid; 1T12 + Strid |
 
 ## Skada och hälsa

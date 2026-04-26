@@ -12,12 +12,12 @@ Du får +1 på slag för Smidighet + Strid när du slåss med ett finess-vapen (
 #### Fint
 
 *Krav:* Fäktning, Slagsmål eller Jujutsu (en av dessa)
-Som en bihandling kan du finta en motståndare, slå för Smidighet + Strid. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
+Som Manöver kan du finta en motståndare – slå för Smidighet + Strid. Dina framgångar dras av från motståndarens försvar (t.ex. *Defensiv ställning*) mot en attack från dig samma runda.
 
 #### Ripost
 
 *Krav:* Fäktning eller Jujutsu
-Om du blir attackerad, parerar och får minst en framgång på ditt försvar så kan du spendera 1 Fokus och göra en motattack (finess-vapen med Fäktning, obeväpnad med Jujutsu).
+När du står i Manöver **Defensiv ställning** och en motståndare missar en närstridsattack mot dig, kan du spendera 1 Fokus för att förvandla det normala motangreppet till en riktig attack (finess-vapen med Fäktning, obeväpnad med Jujutsu).
 
 ### Obeväpnad närstrid
 
@@ -34,7 +34,7 @@ Du kan använda Smidighet + Strid för obeväpnade närstridsattacker och får +
 #### Fällning
 
 *Krav:* Jujutsu
-Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus och en Bihandling för att fälla motståndaren.
+Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att fälla motståndaren till marken. Ett kullstött mål förlorar sin Manöver tills det reser sig (kräver en egen Manöver).
 
 #### Fastlåsning
 
@@ -65,21 +65,22 @@ Du är tränad i att kontrollera automateld med precision.
 ### Täckande eld
 
 *Krav:* Automatsalva
-Du skjuter täckande eld som hindrar fienden från att förflytta sig
+Du skjuter täckande eld som hindrar fienden från att förflytta sig.
 
-- **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
-- Kostar **1 Fokus** och 1 magasin.
+- **Handling:** Aktivera Manövern **Täckande eld** (Bestående). Lägg en zon (~10 m bredd) som varar så länge Manövern är aktiv. Fiender i **Framryckning**, **Rusa** eller som annars rör sig in i eller genom zonen får automatiskt en träff mot sig med en framgång och tar vapnets normala skada om de inte har en Manöver som skyddar dem (t.ex. **Ta skydd**).
+- Kostar **1 Fokus** och 1 magasin per aktivering. Manövern bryts om du tar skada, byter Manöver eller får slut på ammunition.
+- Allierade i zonen får +1 Skydd så länge Manövern är aktiv.
 
 ### Undertryckande eld
 
 *Krav:* Täckande eld
-Din täckande eld gör det också svårt att attackera
+Din täckande eld gör det också svårt att attackera.
 
-- Om du har lagt en zon med **Täckande eld** så aktiveras den även av attacker gjorda från zonen, inte bara av förflyttningar.
+- När du håller Manövern **Täckande eld** aktiv utlöses effekten även av attacker gjorda från zonen, inte bara av förflyttningar.
 - Effekten av **Undertryckande eld** kommer före effekten av den utlösande attacken.
 - Om den som attackerar tar skada från **Undertryckande eld** så avbryts automatiskt personens attack.
 
-*Notis:* Detta är en utvidgning av **Täckande eld** och använder samma zon och kostnader. Syftet är att kunna störa och avbryta fiendens attacker mot allierade genom att hålla dem under eld.
+*Notis:* Detta är en utvidgning av Manövern **Täckande eld** och använder samma zon och kostnader. Syftet är att kunna störa och avbryta fiendens attacker mot allierade genom att hålla dem under eld.
 
 ### Skarpskytt
 
@@ -92,7 +93,7 @@ Din täckande eld gör det också svårt att attackera
 
 *Krav:* Skarpskytt
 
-- **Huvudhandling:** Spendera **1 Fokus** för att öka skalan på din träff med ett gevär med ett.
+- **Handling:** Spendera **1 Fokus** för att öka skalan på din träff med ett gevär med ett. Kräver att du har Manövern **Sikta** eller **Stadigt sikte** aktiv.
 
 ### Kallblodig träff
 
@@ -103,7 +104,7 @@ Din täckande eld gör det också svårt att attackera
 ### Andningskontroll
 
 *Krav:* Skarpskytt
-Om du använder din Huvudhandling för att Sikta (istället för Bihandling) får du +2 istället för +1 på nästa attack.
+När du har Manövern **Sikta** aktiv ger den +2 istället för +1 på nästa avståndsattack.
 
 ### Pistolskytt
 
@@ -116,7 +117,7 @@ Om du använder din Huvudhandling för att Sikta (istället för Bihandling) få
 
 *Krav:* Pistolskytt
 
-- **Bihandling:** Gör en extra pistolattack. Attacken är **ett steg svårare**. Kostar **1 Fokus**.
+- **Manöver:** Gör en extra pistolattack som del av din Manöver samma runda. Attacken är **ett steg svårare**. Kostar **1 Fokus**.
 
 ### Skottväxling
 
@@ -134,12 +135,12 @@ Om du använder din Huvudhandling för att Sikta (istället för Bihandling) få
 ### Livvakt
 
 *Krav:* Fysik 2, Strid 2
-Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera en Reaktion för att ge dem +1 tärning på deras försvar.
+Du är expert på att skydda andra. Så länge du har Manövern **Bevaka allierad** aktiv (en Bestående defensiv Manöver riktad mot en specifik allierad inom 2 meter) får den allierade +1 Skydd och dina egna attacker blir −1. Manövern bryts om den allierade rör sig mer än 2 meter från dig.
 
 ### Offervilja
 
 *Krav:* Livvakt, Vilja 3
-När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus och en Reaktion för att ta all skadan själv istället. Du kan inte försvara dig mot denna skada.
+När en allierad som du **Bevakar** skulle ta skada kan du spendera 1 Fokus för att ta all skadan själv istället. Din aktiva Manöver skyddar dig inte mot denna skada.
 
 ### Järnvilja
 
@@ -151,7 +152,7 @@ När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbar
 ### Fältmedicinare i strid
 
 *Krav:* Expertis: Läkare eller Expertis: Fältmedicinare
-Du kan ge Akutvård som en Bihandling istället för Huvudhandling under strid, men handlingen blir ett steg svårare.
+Du kan ge Akutvård som en del av din Manöver istället för som en Handling under strid, men insatsen blir ett steg svårare.
 
 ### Stridsstabilisering
 
@@ -170,7 +171,7 @@ När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 p
 ### Taktisk koordinering
 
 *Krav:* Analys 2, Strid 3
-Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Analys + Strid. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
+Som Handling kan du analysera stridsläget och ge order. Slå Analys + Strid. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
 
 ### Lagarbete
 
@@ -180,7 +181,7 @@ När du hjälper en allierad och får minst 1 framgång, genererar du 1 Fokus (�
 ### Inspirera
 
 *Krav:* Samspel 3
-Som en Bihandling kan du spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måste spenderas inom en runda.
+Som del av din Manöver kan du spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måste spenderas inom en runda.
 
 ## Fältarbete
 
@@ -350,7 +351,7 @@ Vid misslyckad dyrkning kan du spendera 1 Fokus för att slå om.
 #### Snabba fingrar
 
 *Krav:* Expertis: Låssmed
-Du kan dyrka enkla lås som en Bihandling.
+Du kan dyrka enkla lås som en Manöver.
 
 ### Sappör
 
@@ -369,12 +370,12 @@ Du kan alltid välja att sprängskadan inte påverkar en zon eller person du ang
 #### Fältfix
 
 *Krav:* Expertis: Mekaniker
-Spendera 1 Fokus för att utföra en snabbreparation som en bihandling istället för huvudhandling. Reparationen är ett steg svårare.
+Spendera 1 Fokus för att utföra en snabbreparation som del av din Manöver istället för som en Handling. Reparationen är ett steg svårare.
 
 #### Provisorisk lösning
 
 *Krav:* Expertis: Mekaniker
-Du kan reparera ett fordon eller maskin som en Bihandling; reparationen håller till scenens slut.
+Du kan reparera ett fordon eller maskin som en Manöver; reparationen håller till scenens slut.
 
 ### Elektriker
 

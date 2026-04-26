@@ -34,16 +34,16 @@ cssclasses:
 
 ## Krafter
 
-### Diffraktion (1 Fokus, 1 bihandling)
+### Diffraktion (1 Fokus, 1 Manöver)
 
 Du böjer ljuset runt din kropp och blir svår att fokusera på.
 
 - **Effekt:** Alla som försöker se dig måste lyckas med Sinnen + Sinnen för att lokalisera dig och även då är deras avståndsattacker mot dig **två steg svårare**.
 - **+1 Fokus:** Effekten gäller även en allierad inom 2 m.
 
-### Synvilla (1 Fokus, 1 huvudhandling)
+### Synvilla (1 Fokus, 1 Handling)
 
-Du böjer ljus till en synvilla för en person. Synvillan är inte större än en människa och kan vara rörlig, men inte röra sig från sin plats (som måste vara inom synhåll från dig och max 20 meter bort). Slå för Smidighet + Vilja mot motståndarens Sinnen + Vilja. Om du lyckas så tror de på synvillan. Synvillan varar så länge du koncentrerar dig (= en bihandling varje runda).
+Du böjer ljus till en synvilla för en person. Synvillan är inte större än en människa och kan vara rörlig, men inte röra sig från sin plats (som måste vara inom synhåll från dig och max 20 meter bort). Slå för Smidighet + Vilja mot motståndarens Sinnen + Vilja. Om du lyckas så tror de på synvillan. Synvillan varar så länge du håller Manövern **Koncentration** aktiv (Bestående).
 
 - **+1 Fokus:** Synvillan drabbar alla som tittar på den.
 - **+1 Fokus:** Du kan välja ut personer som inte ska se synvillan.
@@ -51,7 +51,7 @@ Du böjer ljus till en synvilla för en person. Synvillan är inte större än e
 - **+1 Fokus:** Synvillan kan vara var som helst inom synhåll från dig.
 - **1 Framgång:** Synvillan kan röra sig fritt så länge den är inom 20 meter från dig och inom synhåll.
 
-### Blända (1 Fokus, 1 huvudhandling)
+### Blända (1 Fokus, 1 Handling)
 
 Du kan blända en person med dina strålar. Om du lyckas med Smidighet + Vilja mot personens Fysik + Vilja så är personen blind i en runda.
 
@@ -68,7 +68,7 @@ Du kan blända en person med dina strålar. Om du lyckas med Smidighet + Vilja m
 
 +1 på Smidighet + List för trollerikonster, korttrick etc.
 
-### Ingenting här, ingenting där (1 Fokus, 1 huvudhandling)
+### Ingenting här, ingenting där (1 Fokus, 1 Handling)
 
 Med ett lyckat slag för Smidighet + List så kan du ta ett föremål från en person utan att personen märker det. Om du misslyckas så får personen slå ett slag för Sinnen + Sinnen för att upptäcka att du försökte.
 
