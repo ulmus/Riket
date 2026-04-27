@@ -111,7 +111,6 @@ Tatueringen på underarmen och dina reaktioner på uniformer, hundar och låssla
 
 ## Utrustning
 
-- **Pistol m/07:** Räckvidd 15 m, Skada 1, skadetyp Skjutvapen. Ammunition ❏
 - **Anteckningsbok:** Logg över visioner. +1 på Analys + Sinnen för att minnas detaljer från tidigare visioner.
 - **Fotografisamling:** Foton, brev och föremål från kontakter runt om i Europa – ankare för känslomässiga kopplingar.
 - **Sjal av grov ull:** Mot kylan.
