@@ -15,14 +15,14 @@ På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, is
 
 ## Bihandlingar
 
-- Sikta: +1
+- Sikta: +1 på avståndsattack
 - Ställa sig upp
 - Dra ett vapen
 - Röra sig Fysik + Smidighet meter
 
 ## Reaktionshandlingar
 
-- Kasta sig undan en attack (Smidighet + Strid), du är på marken efteråt och det krävs en bihandling för att resa sig
+- Kasta sig undan en attack (Smidighet + Strid), du är på marken efteråt och det krävs en bihandling för att resa sig. Dra av lika många framgångar från attacken som du slår.
 - Parera en närstridsattack (Smidighet + Strid + Paradbonus)
 
 ## Avståndsattacker
@@ -69,39 +69,39 @@ Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgö
 
 KP-skadan räknas direkt från attackslaget – inget separat skadeslag behövs.
 
-**KP-skada = framgångar + vapnets Skada − målets Skydd** (minst 0)
+**KP-skada =  Vapnets Skada + träffslagets skade-effekt − målets Skydd** (minst 0)
 
-En **framgång** är varje tärning som visar **10+** på attackslaget. En **12:a** ger dessutom 1 Fokus (som tidigare) och triggar en **kritisk träff** (se nedan).
+Träffslagets **skade-effekt** är överskjutande framgångar på träffslaget som karaktären valt att använda för att öka skadan. En eller flera framgångar (beroende på svårighet) går alltså åt till att träffa. Eventuella överskjutande framgångar kan användas till exempel för att öka skadan.
 
 ## 2. Skada (vapenbonus)
 
-Varje vapen har ett värde för **Skada** som är en fast bonus till KP-skadan vid en lyckad träff. Typiska värden är **0** för obeväpnade attacker och **1–4** för beväpnade attacker – se [[Vapen]] för varje vapens Skada.
+Varje vapen har ett värde för **Skada** som är en fast bonus till KP-skadan vid en lyckad träff. Typiska värden är **1** för obeväpnade attacker och **1–5** för beväpnade attacker – se [[Vapen]] för varje vapens Skada.
 
 ## 3. Skydd
 
-Målets **Skydd** (från rustning, täckning, etc.) dras av från KP-skadan (minst 0). Skydd hindrar KP-skada men påverkar inte om en kritisk träff utlöses.
+Målets **Skydd** (från rustning, täckning, etc.) dras av från KP-skadan (minst 0). Skydd hindrar KP-skada men påverkar inte om en kritisk träff utlöses, förutsatt att det finns KP kvar av skadan efter att skyddet dragits av.
 
 ## 4. Kritiska träffar
 
-Om minst en tärning på attackslaget visar **12** har du fått en **kritisk träff**. Slå 1T12 och lägg till modifierare för att bestämma effekten på lämplig tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
+Om minst en tärning på attackslaget visar **12** och attacken gör minst 1 KP skada på målet efter Skydd så har du fått en **kritisk träff**. Slå 1T12 och lägg till modifierare för att bestämma effekten på lämplig tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
 
 **Modifierare till slaget:**
 
 - **+1 per ytterligare 12:a** på attackslaget
-- **Skada:** +vapnets värde för **Skada** (vapen med egenskapen **Penetrerande** lägger istället till **dubbla Skada**)
+- **Penetrerande vapens skada:** + vapnets värde för **Skada** om vapnet har egenskapen Penetrerande.
 - **Målets kritiska tålighet:** −X (endast för stora eller väldigt tåliga varelser)
 
 Om *flera* tärningar visar 12: slå **en gång** på tabellen och lägg till +1 per ytterligare 12:a.
 
-Kritiska träffar ger effekter som blödning, brutna ben eller döende – oavsett hur mycket KP-skada som gick igenom Skyddet. En 12:a ger alltid både 1 Fokus och en kritisk träff.
+Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 1 KP skada gick igenom Skyddet. En 12:a ger alltid både 1 Fokus och en kritisk träff.
 
 ## Exempel
 
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 1** och skadetyp **Skjutvapen**.
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
-> Vakten bär **tjock rock (Skydd 1)**. KP-skada = 3 framgångar + 1 Skada − 1 Skydd = **3 KP**.
-> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 3 KP – fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
-> 12:an triggar en kritisk träff. Anton slår 1T12 och får en 7. Med Skada +1 (pistol) blir totalen **8** på Skjutvapen-tabellen: *Genomskjuten axel*.
+> Vakten bär **tjock rock (Skydd 1)**. KP-skada = 2 extra framgångar + 1 Skada − 1 Skydd = **2 KP**.
+> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 2 KP – fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
+> 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8 : *Genomskjuten axel*.
 
 ## Effekter av skada
 
@@ -113,7 +113,7 @@ Varje gång du tar minst 1 KP skada så tar du också 1 Stress.
 
 När du har tagit mer än **Tålighet** i KP-skada blir du **Sårad**:
 
-- Alla handlingar blir **ett steg svårare** (Normalt → Svårt, Svårt → Mycket Svårt).
+- Alla handlingar blir **ett steg svårare** (Lätt → Normalt → Svårt, Svårt → Mycket Svårt).
 - Du tar **1 Stress**.
 
 ## Medvetslös
@@ -172,16 +172,9 @@ Vissa kritiska träffar orsakar **blödning**. Det finns två blödningstillstå
 - Om du redan har Lätt blödning och får Lätt blödning igen händer inget.
 - Om du har Lätt blödning och får Kraftig blödning uppgraderas din blödning till Kraftig.
 
-### Blödningsskada
-
-Varje gång blödningen orsakar KP-skada: slå 1T12. På **12** triggas en **kritisk träff** (Blödning-tabellen, se [[Kritiska träffar#Blödning]]).
-
 ### Stoppa blödning
 
-Blödning stoppas med **Kirurgi** (Analys + Smidighet). Varje framgång minskar blödningen ett steg:
-
-- 1 framgång: Kraftig → Lätt, eller Lätt → ingen blödning.
-- 2 framgångar: Kraftig → ingen blödning.
+Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en stridsrunda, andra tar en minut. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
 
 Se [[Läkning & vård]] för mer information.
 
@@ -190,7 +183,7 @@ Se [[Läkning & vård]] för mer information.
 1. **Träff?** Räkna framgångar (10+) på attackslaget.
 2. **Räkna skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0).
 3. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
-4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +vapnets Skada (dubbel med Penetrerande), +1 per ytterligare 12:a.
+4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +vapnets Skada om Penetrerande vapen, +1 per ytterligare 12:a.
 
 ### Läkning
 

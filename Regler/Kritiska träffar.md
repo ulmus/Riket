@@ -5,10 +5,10 @@ När en tärning på attackslaget visar **12** inträffar en **kritisk träff** 
 **Modifikationer till slaget:**
 
 - **Ytterligare tolvor:** +1 per ytterligare tärning som visar 12 på attackslaget
-- **Skada:** +vapnets **Skada**-värde (vapen med egenskapen **Penetrerande** lägger istället till **dubbla Skada**)
+- **Penetrerande vapens skada:** om vapnet har egenskapen *Penetrerande* så läggs dess skadevärde till slaget.
 - **Målets kritiska tålighet:** −X för stora eller väldigt tåliga varelser
 
-Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 för varje ytterligare 12:a, plus övriga modifikatorer.
+Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 för varje ytterligare 12:a, plus övriga modifikationer.
 
 ## Behandling av kritiska träffar
 
