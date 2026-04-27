@@ -31,3 +31,6 @@ Fysiskt så är Lars Hedström inte lika imponerande. Han är en satt man i 45-�
 På T-kontoret, beläget på Sturegatan 58, Östermalm i Stockholm, huserar Lars Hedström med ett tjugotal tjänstemän. Formellt rapporterar han till T-kontorets chef Thede Palm. Palm har försökt snäva in Hedströms handlingsutrymme, men utvecklingen har snarare varit i andra riktningen. Program Frigg får agera i stort självständigt, med egna, hemliga kopplingar till Kungliga Tekniska Högskolan och Karolinska Institutet. I utbyte mot sitt fria handlingsutrymme så förser Hedström T-kontoret med agenter till specifika uppdrag.
 
 Med åren så har Hedström blivit mer egensinnig och vresig. Han ser T-Kontorets överrock som hinder för hans forskning och upplever på vissa sätt mer samhörighet med sina gelikar i andra nationers ENS-program.
+## Fröken Anna-Greta Hansson
+
+![[Fröken Hansson.png|inline|200]]Fröken Hansson är Dr. Hedströms sekreterare och har varit det i över tio år. Hon är 35 år, ogift och lojal mot såväl Hedström som T-kontoret (men mest Hedström om det skulle gälla). Majoriteten av det som händer i Program Frigg passerar förbi fröken Hanssons skrivbord och i hennes telefonbok finns alla som är värda att prata med på T-kontoret, eller i alla fall deras sekreterare.

@@ -5,12 +5,12 @@ cssclasses:
 
 # Stigmata
 
-| Egenskap  |     | Sekundärt    |             |
-| :-------- | --: | :----------- | :---------- |
-| Analys    | **4** | Oskadd       | ❏❏❏❏ ❏❏❏❏   |
-| Fysik     | **5** | Sårad        | ❏❏❏❏ ❏❏❏❏   |
-| List      | **1** | Medvetslös   | ❏❏❏❏ ❏❏❏❏   |
-| Samspel   | **1** | Döende       | ❏❏❏❏ ❏❏❏❏   |
+| Egenskap  |       | Sekundärt    |             |
+| :-------- | ----: | :----------- | :---------- |
+| Analys    | **4** | Oskadd       | ❏❏❏❏❏ ❏❏❏   |
+| Fysik     | **5** | Sårad        | ❏❏❏❏❏ ❏❏❏   |
+| List      | **1** | Medvetslös   | ❏❏❏❏❏ ❏❏❏   |
+| Samspel   | **1** | Döende       | ❏❏❏❏❏ ❏❏❏   |
 | Sinnen    | **3** | Förflyttning | 7 m         |
 | Smidighet | **2** | Tålighet     | 8           |
 | Strid     | **2** | Stabilitet   | 3           |

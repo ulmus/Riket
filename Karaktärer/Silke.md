@@ -5,8 +5,8 @@ cssclasses:
 
 # Silke
 
-| Egenskap  |     | Sekundärt    |             |
-| :-------- | --: | :----------- | :---------- |
+| Egenskap  |       | Sekundärt    |             |
+| :-------- | ----: | :----------- | :---------- |
 | Analys    | **2** | Oskadd       | ❏❏❏❏❏       |
 | Fysik     | **1** | Sårad        | ❏❏❏❏❏       |
 | List      | **3** | Medvetslös   | ❏❏❏❏❏       |
@@ -14,7 +14,7 @@ cssclasses:
 | Sinnen    | **3** | Förflyttning | 3 m         |
 | Smidighet | **2** | Tålighet     | 5           |
 | Strid     | **1** | Stabilitet   | 3           |
-| Vilja     | **4** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Vilja     | **3** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
 
 **Expertis:** Maskör
 
