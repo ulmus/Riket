@@ -6,10 +6,10 @@ Fall över två meter kan ge fallskada. Underlagets skadebonus läggs till grund
 
 | Underlag                  | Skadebonus | Kritiska träffar |
 | ------------------------- | ---------- | ---------------- |
-| Mjukt (snö, sand, vatten) | +0         | Kross -1         |
+| Mjukt (snö, sand, vatten) | +0         | Kross            |
 | Normalt (gräs, jord)      | +1         | Kross            |
-| Hårt (betong, sten)       | +2         | Kross +1         |
-| Vasst (taggtråd, spjut)   | +3         | Stick +1         |
+| Hårt (betong, sten)       | +2         | Kross            |
+| Vasst (taggtråd, spjut)   | +3         | Stick            |
 
 Grundskadan beror på fallets höjd:
 
@@ -20,7 +20,7 @@ Grundskadan beror på fallets höjd:
 | 4 meter  | 3          |
 | +2 meter | +1         |
 
-**KP-skada = grundskada + skadebonus − framgångar på Fysik + Smidighet − Skydd** (minst 0). Skydd hjälper generellt dåligt mot fallskada, så allt skydd räknas ett steg lägre (minst 0).
+**KP-skada = grundskada + skadebonus − framgångar på Fysik + Smidighet − Skydd** (minst 0).
 
 **Kritiska träffar vid miljöskada:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff enligt underlaget (slå en gång på tabellen, +1 per ytterligare 12:a).
 

@@ -157,7 +157,7 @@ Varje Överlevnadsslag:
 En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
 
 - Kräver en huvudhandling för första försöket, en minut för andra försöket och en timme för tredje försöket.
-- Vid framgång slutar du vara Döende (men behöver fortfarande läkning).
+- Varje framgång läggs till stabiliseringsframgångarna som krävs för att överleva (totalt tre)
 
 ## Blödning
 

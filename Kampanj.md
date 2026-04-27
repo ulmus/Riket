@@ -5,4 +5,6 @@ Prisma - Kent Andersson ()
 
 
 Lars Hellström
-Dr. Martin Schultz
+Dr. Hans Richter
+Anna-Greta Hansson
+

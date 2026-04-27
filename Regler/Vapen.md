@@ -14,8 +14,8 @@ Olika vapen har egenskaper som påverkar hur de kan användas eller vilken effek
 
 Vapen som kan skjuta automateld kan skjuta korta och långa salvor:
 
-- **Kort salva:** +2 tärningar på attackslaget.
-- **Lång salva:** +4 tärningar på attackslaget.
+- **Kort salva:** +2 tärningar på attackslaget, kostar en ammunition
+- **Lång salva:** +4 tärningar på attackslaget, kostar två ammunition
 
 ### Hagelsvärm
 
@@ -27,7 +27,7 @@ Ett närstridsvapen som hanteras med Smidighet + Strid.
 
 ### Penetrerande
 
-Vapnet penetrerar djupt. Vid kritiska träff-slag läggs **dubbla vapnets Skada** till som modifierare istället för enkel Skada. Se [[Kritiska träffar]].
+Vapnet penetrerar djupt. Vid kritiska träff-slag läggs **vapnets Skada** till som modifierare. Se [[Kritiska träffar]].
 
 ### Långt (närstrid)
 
@@ -47,7 +47,7 @@ Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner u
 | Automatkarbin     |     80 m |     2 | Skjutvapen | Automateld               |
 | Gevär             |    100 m |     3 | Skjutvapen | Penetrerande             |
 | Hagelgevär        |     10 m |     1 | Skjutvapen | Hagelsvärm               |
-| Kulspruta 5.56 mm |    100 m |     2 | Skjutvapen | Automateld               |
+| Kulspruta 5.56 mm |    100 m |     2 | Skjutvapen | Automateld, Penetrerande |
 | Kulspruta 7,62 mm |    200 m |     3 | Skjutvapen | Automateld, Penetrerande |
 
 ## Närstridsvapen
@@ -66,6 +66,8 @@ Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner u
 Skydd minskar KP-skadan från attacker. Normalt kroppsskydd ger 1 poäng Skydd, medan kraftigare rustningar kan ge mer. Skydd påverkar inte om en kritisk träff triggas, men vapnets **Skada** läggs fortfarande till på kritiska träff-slaget.
 
 ## Ammunition och vapenutrustning
+
+Varje vapen har en viss ammunitionsnivå
 
 ### Pansarbrytande ammunition
 

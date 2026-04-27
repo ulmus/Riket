@@ -1,8 +1,8 @@
 # Kritiska träffar
 
-När en tärning på attackslaget visar **12** inträffar en **kritisk träff** (utöver den 1 Fokus som 12:an alltid ger). Slå 1T12 och lägg till modifikatorer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
+När en tärning på attackslaget visar **12** inträffar en **kritisk träff** (utöver den 1 Fokus som 12:an alltid ger). Slå 1T12 och lägg till modifikationer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
 
-**Modifikatorer till slaget:**
+**Modifikationer till slaget:**
 
 - **Ytterligare tolvor:** +1 per ytterligare tärning som visar 12 på attackslaget
 - **Skada:** +vapnets **Skada**-värde (vapen med egenskapen **Penetrerande** lägger istället till **dubbla Skada**)
@@ -33,23 +33,23 @@ Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att u
 
 Trubbiga slag, fall, explosiva tryckvågor. *Behandlas med Kirurgi (brutna ben) eller Medicin (övriga).*
 
-| T12 | Effekt                                                                                                                                                                                         |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Blåmärke.** Smärtsamt men ofarligt. Ta **1 Stress**.                                                                                                                                         |
-| 2   | **Andan slagen ur dig.** Du tappar andan. Förlorar din nästa bihandling.                                                                                                                       |
-| 3   | **Stukat finger.** Slå 1T12 för kroppsdel (1-3: vänster hand, 4-6: höger hand, 7-9: vänster fot, 10-12: höger fot). Finmotorik är minst **Svårt** tills det är behandlat.                      |
-| 4   | **Örfil.** Du är desorienterad. Sinnen slag är minst **Svåra** under 1T12 rundor.                                                                                                              |
-| 5   | **Slagen till marken.** Du faller omkull och tappar vad du håller i. Ta **1 Stress**.                                                                                                          |
-| 6   | **Knäckt revben.** Smärtsamt att andas. **1 Stress** varje gång du rullar för Fysik eller Strid tills behandlad.                                                                               |
-| 7   | **Krossad hand.** Slå 1T12: 1-6 vänster, 7-12 höger hand. Handen är obrukbar tills behandlad (Kirurgi). Du tappar omedelbart vad du håller i. **Läketid:** 1T12 veckor.                        |
-| 8   | **Hjärnskakning.** Du är yr. Om du misslyckas med Analys- eller Sinnen-slag tappar du din nästa handling.                                                                                      |
-| 9   | **Brutet ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller omkull. Du kan inte gå eller springa, endast krypa (bihandling för 1 meter). Behandlas med Kirurgi. **Läketid:** 1T12 veckor. |
-| 10  | **Bruten arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen är obrukbar. Försök att använda den misslyckas automatiskt. Behandlas med Kirurgi. **Läketid:** 1T12 veckor.                      |
-| 11  | **Skalltrauma.** Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. **Döende:** Överlevnadsslag per minut. **Permanent:** –1 på Analys-slag under tidspress.                     |
-| 12  | **Krossad skalle.** **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –2 på Analys och Sinnen.                                                                             |
-| 13  | **Krossat ansikte.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Sinnen och Samspel (vanställd).                                                               |
-| 14  | **Krossad bröstorg.** Inre organ svårt skadade. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –3 på Fysik.                                                             |
-| 15+ | **Krossad till döds.** Du dör omedelbart.                                                                                                                                                      |
+| T12 | Effekt                                                                                                                                                                                                                                       |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Blåmärke.** Smärtsamt men ofarligt. Ta **1 Stress**.                                                                                                                                                                                       |
+| 2   | **Andan slagen ur dig.** Du tappar andan. Förlorar din nästa bihandling.                                                                                                                                                                     |
+| 3   | **Stukat finger.** Slå 1T12 för kroppsdel (1-3: vänster hand, 4-6: höger hand, 7-9: vänster fot, 10-12: höger fot). Finmotorik är minst **Svårt** tills det är behandlat.                                                                    |
+| 4   | **Örfil.** Du är desorienterad. Sinnen-slag är minst **Svåra** under 1T12 rundor.                                                                                                                                                            |
+| 5   | **Slagen till marken.** Du faller omkull och tappar vad du håller i. Ta **1 Stress**.                                                                                                                                                        |
+| 6   | **Knäckt revben.** Smärtsamt att andas. **1 Stress** varje gång du rullar för Fysik eller Smidighet tills behandlad.                                                                                                                         |
+| 7   | **Krossad hand.** Slå 1T12: 1-6 vänster, 7-12 höger hand. Handen är obrukbar tills behandlad (Kirurgi) och därefter är allt som involverar handen mins **Svårt** tills läkt. Du tappar omedelbart vad du håller i. **Läketid:** 1T12 veckor. |
+| 8   | **Hjärnskakning.** Du är yr. Om du misslyckas med Analys- eller Sinnen-slag tappar du din nästa handling.                                                                                                                                    |
+| 9   | **Brutet ben.** Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller omkull. Du kan inte gå eller springa, endast krypa (bihandling för 1 meter). Behandlas med Kirurgi. **Läketid:** 1T12 veckor.                                               |
+| 10  | **Bruten arm.** Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen är obrukbar. Försök att använda den misslyckas automatiskt. Behandlas med Kirurgi. **Läketid:** 1T12 veckor.                                                                    |
+| 11  | **Skalltrauma.** Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. **Döende:** Överlevnadsslag per minut. **Permanent:** –1 på Analys-slag under tidspress.                                                                   |
+| 12  | **Krossad skalle.** **Döende:** Överlevnadsslag per minut. Om du överlever: **Permanent** –2 på Analys och Sinnen.                                                                                                                           |
+| 13  | **Krossat ansikte.** **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –2 på Sinnen och Samspel (vanställd).                                                                                                             |
+| 14  | **Krossad bröstorg.** Inre organ svårt skadade. **Döende:** Överlevnadsslag per runda. Om du överlever: **Permanent** –3 på Fysik.                                                                                                           |
+| 15+ | **Krossad till döds.** Du dör omedelbart.                                                                                                                                                                                                    |
 
 ## Stick
 
