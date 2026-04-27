@@ -32,7 +32,9 @@ cssclasses:
 
 Verdandi växte upp i ett judiskt hem i Łódź. När kriget kom togs hon och hennes familj till lägren. Hon var sjutton år när hon kom till Auschwitz och nitton när hon räddades till Sverige med de vita bussarna. Hennes mor, far och två yngre bröder kom aldrig ut.
 
-Det var i lägret hennes krafter vaknade. Bakom taggtråden, hungrig och frusen, började hon se sin mor i en annan barack. Sedan sina bröder vid en grav i skogen. Sedan sin far i kremationsugnens kö. Hon såg allt och kunde ingenting göra. Visionerna kom oombedda och kunde inte stängas av – det fanns ingenstans att fly, och de hon älskade dog framför hennes inre öga, en efter en, medan hon stod kvar bakom stängslet.
+Det var i lägret hennes krafter vaknade – inte av sig själva. Hon plockades ut av Josef Mengele tillsammans med sin tvillingsyster och fördes till baracken där han bedrev sina experiment. Vad de gjorde med henne minns hon i fragment – sprutor, kammare, ljus, kyla, syster Hanas röst genom en vägg. Hana överlevde inte. Verdandi vaknade på britsen några dagar senare och såg sin syster ligga död i en annan barack, lika tydligt som om hon stått där själv.
+
+Sedan kom de andra visionerna. Hennes mor i baracken bredvid. Hennes bröder vid en grav i skogen. Hennes far i kremationsugnens kö. Hon såg allt och kunde ingenting göra. Visionerna kom oombedda och kunde inte stängas av – det fanns ingenstans att fly, och de hon älskade dog framför hennes inre öga, en efter en, medan hon stod kvar bakom stängslet.
 
 Efter kriget kom hon till Stockholm. Hon talar sällan om lägret, men hennes krafter har bara blivit starkare med åren. Program Frigg rekryterade henne sedan hon av misstag delat en vision av en sovjetisk arrestering med en hanterare som tog henne i hand. Hon säger ja till uppdragen för att hon vill att någon annan ska se det hon ser – så att ingen ska behöva vara vittne ensam igen.
 
@@ -40,7 +42,7 @@ Hon är liten och mager, med rakade hårtussar som aldrig riktigt vuxit ut orden
 
 ## Trauma – Vanmakt
 
-**Kärna:** Du var hjälplös när det gällde som mest. Bakom taggtråden i lägret såg du dina nära dö – inte bara med ögonen, utan med dina vaknande krafter, plats efter plats, person efter person. Du var vittne till allt och kunde inte ingripa. Visionerna gick inte att stänga av, och varken bönen eller skriket räckte fram.
+**Kärna:** Du var hjälplös när det gällde som mest. Mengele plockade ut dig och din tvillingsyster för sina experiment och det var där dina krafter slets fram – på en brits, fastspänd, medan han antecknade. Hana dog under proceduren, och din första vision var av hennes kropp. Sedan kom resten av familjen, en efter en, plats efter plats. Du var vittne till allt och kunde inte ingripa. Visionerna gick inte att stänga av, och varken bönen eller skriket räckte fram.
 
 **Beteende vid aktiverat trauma:** *Aldrig mer* – Du vägrar ge vika, fly eller visa svaghet. Du måste agera, attackera eller ta kontroll över situationen. Reträtt är omöjligt.
 
