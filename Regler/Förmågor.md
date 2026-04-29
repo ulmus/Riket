@@ -266,7 +266,7 @@ Förmågor som kräver en specifik [[Expertiser|Expertis]]. Du måste ha experti
 ### Erfaren
 
 *Krav:* En Expertis
-Välj en expertis du har. Du får ytterligare +1 på aktiviteter som omfattas av den expertisen (totalt +2 med expertis). Du kan ta denna förmåga flera gånger, en gång per expertis.
+Välj en expertis du har. Svårigheten sänks ytterligare ett steg på aktiviteter som omfattas av den expertisen (totalt två steg med expertis, så **Svåra** uppgifter blir **Lätta**). Du kan ta denna förmåga flera gånger, en gång per expertis.
 
 ### Läkare
 

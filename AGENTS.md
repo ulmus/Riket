@@ -29,7 +29,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Success:** Any die showing **10+** is a success.
 - **Focus (Fokus):** Any die showing **12** generates 1 Focus point.
 - **Attributes:** Analys, Fysik, List, Samspel, Sinnen, Smidighet, Strid, Vilja.
-- **Expertise (Expertis):** Adds +1 to the roll and unlocks specific abilities.
+- **Expertise (Expertis):** Reduces difficulty by one step (Normal → Easy = auto-success) and unlocks specific abilities.
 - **Secondary Stats:**
   - *Tålighet* = Fysik + Vilja.
   - *Stabilitet* = 1 + (Vilja / 2, avrundat uppåt).
