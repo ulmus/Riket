@@ -1,4 +1,3 @@
-# Trauma, skräck och stress
 
 Trauma och stress är en viktig del av I Rikets Tjänst. Ur sina trauman hämtar karaktärerna sina krafter, men stressen kan också övermanna dem och leda till sammanbrott.
 
@@ -65,9 +64,13 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 
 ## Stabilitet
 
-**Stabilitet** anger hur mycket **Stress** du tål innan ett sammanbrott. Stabiliteten för vanliga karaktärer är **3**. Vissa förmågor kan öka eller minska Stabiliteten.
+**Stabilitet** anger hur mycket **Stress** du tål innan ett sammanbrott. Stabiliteten för vanliga karaktärer är **3**.
 
 > **Sammanbrottsgränser:** När din totala Stress passerar **1×B**, **2×B**, **3×B** … (där **B** är din Stabilitet) slår du på Sammanbrottstabellen.
+
+Stabilitet kan minska när karaktären utsätts för permanent trauma (14+ på Sammanbrotts-tabellen). Karaktären får då ett nytt stabilitetsvärde och endas lång tids terapi eller motsvarande kan återställa det.
+
+En person som når Stabilitet **0** går in i en permanent psykos eller depression.
 
 ## Skräck
 
@@ -88,18 +91,18 @@ När något skrämmande eller chockartat inträffar: slå ett **Skräck-slag, Vi
 
 ## Sammanbrott
 
-Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns** (Stabilitet, 2 × Stabilitet, 3 × Stabilitet, etc…): Slå **T12** och lägg till **+2** för **varje passerad gräns utöver den första**.
+Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns** (Stabilitet, 2 × Stabilitet, 3 × Stabilitet, etc…): Slå **T12** och lägg till **+1** för **varje passerad gräns utöver den första**.
 
 |      Slag | Tillstånd             | Effekt                                                                                                                                                                                     |
 | --------: | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |   **1–2** | **Klarsynt**          | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                               |
-|   **3–6** | **Ok**                | Du blir inte påverkad av stressen – den här gången.                                                                                                                                        |
-|   **7–8** | **Skakad**            | Du stelnar till och **tappar en handling** eller **missar nästa runda**.                                                                                                                   |
-|     **9** | **Panik**             | Du **flyr** mot närmaste skydd eller bort från hotet **i en runda** och **släpper** allt du håller i. Alla i närheten gör ett **Skräck-slag (Vilja + Vilja, SF 1)**.                       |
-|    **10** | **Raseri**            | Du tappar kontrollen och **attackerar närmaste hot/person** (vän eller fiende) **i en runda**. Alla i närheten gör **Skräck-slag (Vilja + Vilja, SF 2)**.                                  |
-|    **11** | **Förstelning**       | Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Vilja + Vilja-slag** som **huvudhandling**.                                                                    |
-| **12–13** | **Traumat aktiverat** | Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]). |
-|   **14+** | **Trauma förvärrat**  | Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL.                                               |
+|   **3–4** | **Ok**                | Du blir inte påverkad av stressen – den här gången.                                                                                                                                        |
+|   **5–6** | **Skakad**            | Du stelnar till och **tappar en handling** eller **missar nästa runda**.                                                                                                                   |
+|     **7** | **Panik**             | Du **flyr** mot närmaste skydd eller bort från hotet **i en runda** och **släpper** allt du håller i. Alla i närheten gör ett **Skräck-slag (Vilja + Vilja, SF 1)**.                       |
+|     **8** | **Raseri**            | Du tappar kontrollen och **attackerar närmaste hot/person** (vän eller fiende) **i en runda**. Alla i närheten gör **Skräck-slag (Vilja + Vilja, SF 2)**.                                  |
+|     **9** | **Förstelning**       | Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Vilja + Vilja-slag** som **huvudhandling**.                                                                    |
+| **10–12** | **Traumat aktiverat** | Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]). |
+|   **13+** | **Trauma förvärrat**  | Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL. Din stabilitet sjunker ett steg permanent.    |
 
 ## Förvärrat trauma
 
