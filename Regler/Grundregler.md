@@ -51,9 +51,7 @@ Varje karaktär börjar med 21 poäng att fördela med minst 1 och högst 4 på 
 
 ## Expertis
 
-Som tillägg till Egenskaper finns **Expertis**, som representerar träning och yrkeserfarenhet inom ett visst område. Expertis ger +2 på slag där expertisen är relevant. Exempel på expertiser är: Läkare, Fältmedicinare, Pilot, Mekaniker, Kryptograf, Maskör, Officer, Chaufför. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser.
-
-Utöver att Expertis ger +2 på relevanta slag så finns det också aktiviteter som kräver Expertis för att kunna utföras. Sådana aktiviter är Mycket Svåra för den som försöker utföra dem utan relevant Expertis. Se [[Expertiser]] för detaljer om varje expertis och deras kopplade förmågor.
+Som tillägg till Egenskaper finns **Expertis**, som representerar träning och yrkeserfarenhet inom ett visst område. Expertis sänker svårigheten ett steg på aktiviteter inom expertisens område: **Normala** uppgifter blir **Lätta** och lyckas automatiskt, **Svåra** uppgifter blir **Normala** och **Mycket Svåra** uppgifter blir **Svåra**. Utan expertis är varje aktivitet ett steg svårare. Exempel på expertiser är: Läkare, Fältmedicinare, Pilot, Mekaniker, Kryptograf, Maskör, Officer, Chaufför. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser. Se [[Expertiser]] för detaljer om varje expertis och deras kopplade förmågor.
 
 Varje karaktär börjar spelet med en Expertis.
 

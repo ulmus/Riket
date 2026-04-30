@@ -43,7 +43,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 | Term | Beskrivning |
 | ---- | ----------- |
-| **Expertis** | Träning inom ett yrke eller specialområde; ger +1 på relevanta slag och tillgång till förmågor |
+| **Expertis** | Träning inom ett yrke eller specialområde; sänker svårigheten ett steg på relevanta aktiviteter och ger tillgång till förmågor |
 | **Förmåga** | Speciell teknik eller egenskap som ger unika fördelar i spelet |
 | **Kraft** | En övermänsklig förmåga hos ett ENS (Extra-Normalt Subjekt) |
 

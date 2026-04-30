@@ -263,11 +263,6 @@ När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att s
 
 Förmågor som kräver en specifik [[Expertiser|Expertis]]. Du måste ha expertisen för att kunna välja förmågan.
 
-### Erfaren
-
-*Krav:* En Expertis
-Välj en expertis du har. Du får ytterligare +1 på aktiviteter som omfattas av den expertisen (totalt +2 med expertis). Du kan ta denna förmåga flera gånger, en gång per expertis.
-
 ### Läkare
 
 #### Fältkirurg
