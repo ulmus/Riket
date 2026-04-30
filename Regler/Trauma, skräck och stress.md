@@ -93,57 +93,18 @@ När något skrämmande eller chockartat inträffar: slå ett **Skräck-slag, Vi
 
 Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns** (Stabilitet, 2 × Stabilitet, 3 × Stabilitet, etc…): Slå **T12** och lägg till **+1** för **varje passerad gräns utöver den första**.
 
-Slå i kolumnen **Spänning** om du tog Stressen frivilligt (betalning för Fokus eller kraft), eller i kolumnen **Rädsla** om den kom från ett Skräck-slag eller traumatisk händelse.
+Resultaten skiljer sig beroende på om stressen togs frivilligt (**Spänning**) eller kom från ett Skräck-slag eller traumatisk händelse (**Rädsla**).
 
-<table>
-<thead>
-<tr>
-<th>Slag</th>
-<th>Spänning</th>
-<th>Rädsla</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>1–2</strong></td>
-<td><strong>Klarsynt</strong> – Stressen fokuserar dig. Du får <strong>+1 Fokus</strong>.</td>
-<td><strong>Klarsynt</strong> – Rädslan skärper dig. Du får <strong>+1 Fokus</strong>.</td>
-</tr>
-<tr>
-<td><strong>3–4</strong></td>
-<td><strong>Ok</strong> – Du klarar av det – den här gången.</td>
-<td><strong>Ok</strong> – Du håller ihop – den här gången.</td>
-</tr>
-<tr>
-<td><strong>5–6</strong></td>
-<td><strong>Nervös</strong> – Din koncentration brister och du <strong>tappar en handling</strong> eller <strong>missar nästa runda</strong>.</td>
-<td><strong>Skakad</strong> – Du rycker till av rädsla och <strong>tappar en handling</strong> eller <strong>missar nästa runda</strong>.</td>
-</tr>
-<tr>
-<td><strong>7</strong></td>
-<td><strong>Uppjagad</strong> – Du blir nervös och okoncentrerad. Alla dina slag är <strong>ett steg svårare</strong> tills du lyckas med <strong>Vilja + Vilja</strong> som <strong>huvudhandling</strong>.</td>
-<td><strong>Panik</strong> – Du <strong>flyr</strong> mot närmaste skydd eller bort från hotet <strong>i en runda</strong> och <strong>släpper</strong> allt du håller i. Alla i närheten gör ett <strong>Skräck-slag (Vilja + Vilja, SF 1)</strong>.</td>
-</tr>
-<tr>
-<td><strong>8</strong></td>
-<td><strong>Utbrott</strong> – Du tappar fattningen – reagerar med raseri, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett <strong>Skräck-slag (Vilja + Vilja, SF 1)</strong>.</td>
-<td><strong>Raseri</strong> – Du tappar kontrollen och <strong>attackerar närmaste hot/person</strong> (vän eller fiende) <strong>i en runda</strong>. Alla i närheten gör <strong>Skräck-slag (Vilja + Vilja, SF 2)</strong>.</td>
-</tr>
-<tr>
-<td><strong>9</strong></td>
-<td><strong>Handlingsförlamad</strong> – Du stelnar av mental utmattning och kan inte agera förrän du lyckas med ett <strong>Vilja + Vilja-slag</strong> som <strong>huvudhandling</strong>.</td>
-<td><strong>Förstelning</strong> – Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett <strong>Vilja + Vilja-slag</strong> som <strong>huvudhandling</strong>.</td>
-</tr>
-<tr>
-<td><strong>10–12</strong></td>
-<td colspan="2"><strong>Traumat aktiverat</strong> – Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende <strong>resten av scenen</strong>. Dina <strong>krafter manifesterar okontrollerat</strong> (se [[Krafter#Aktiverat trauma]]).</td>
-</tr>
-<tr>
-<td><strong>13+</strong></td>
-<td colspan="2"><strong>Trauma förvärrat</strong> – Ditt trauma aktiveras som ovan, <strong>och</strong> det fördjupas permanent. Välj en negativ effekt från tabellen <em>Förvärrat trauma</em> tillsammans med SL. Din Stabilitet sjunker ett steg permanent.</td>
-</tr>
-</tbody>
-</table>
+|      Slag | Tillstånd                                                       | Effekt                                                                                                                                                                                                                                                                                                                           |
+| --------: | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **1–2** | Klarsynt                                                        | **Spänning:** Stressen fokuserar dig. Du får **+1 Fokus**.<br>**Rädsla:** Rädslan skärper dig. Du får **+1 Fokus**.                                                                                                                                                                                                              |
+|   **3–4** | Ok                                                              | **Spänning:** Du klarar av det – den här gången.<br>**Rädsla:** Du håller ihop – den här gången.                                                                                                                                                                                                                                 |
+|   **5–6** | **Spänning:** Nervös<br>**Rädsla:** Skakad                      | **Spänning:** Din koncentration brister och du **tappar en handling** eller **missar nästa runda**.<br>**Rädsla:** Du rycker till av rädsla och **tappar en handling** eller **missar nästa runda**.                                                                                                                              |
+|     **7** | **Spänning:** Uppjagad<br>**Rädsla:** Panik                     | **Spänning:** Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas med **Vilja + Vilja** som **huvudhandling**.<br>**Rädsla:** Du **flyr** mot närmaste skydd eller bort från hotet **i en runda** och **släpper** allt du håller i. Alla i närheten gör ett **Skräck-slag (Vilja + Vilja, SF 1)**. |
+|     **8** | **Spänning:** Utbrott<br>**Rädsla:** Raseri                     | **Spänning:** Du tappar fattningen – reagerar med raseri, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Skräck-slag (Vilja + Vilja, SF 1)**.<br>**Rädsla:** Du tappar kontrollen och **attackerar närmaste hot/person** (vän eller fiende) **i en runda**. Alla i närheten gör **Skräck-slag (Vilja + Vilja, SF 2)**. |
+|     **9** | **Spänning:** Handlingsförlamad<br>**Rädsla:** Förstelning      | **Spänning:** Du stelnar av mental utmattning och kan inte agera förrän du lyckas med ett **Vilja + Vilja-slag** som **huvudhandling**.<br>**Rädsla:** Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett **Vilja + Vilja-slag** som **huvudhandling**.                                                    |
+| **10–12** | **Traumat aktiverat**                                           | Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]).                                                                                                                                       |
+|   **13+** | **Trauma förvärrat**                                            | Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL. Din Stabilitet sjunker ett steg permanent.                                                                                                                                          |
 
 ## Förvärrat trauma
 
