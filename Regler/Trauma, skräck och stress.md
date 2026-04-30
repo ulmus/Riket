@@ -1,3 +1,4 @@
+# Trauma, skräck och stress
 
 Trauma och stress är en viktig del av I Rikets Tjänst. Ur sina trauman hämtar karaktärerna sina krafter, men stressen kan också övermanna dem och leda till sammanbrott.
 

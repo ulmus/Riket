@@ -2,7 +2,6 @@
 cssclasses:
   - irt-image-page
 ---
-
 # Silke
 
 | Egenskap  |       | Sekundärt    |             |
