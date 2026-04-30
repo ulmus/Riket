@@ -4,17 +4,17 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**.
 
 ## Grundläggande speltermer
 
-| Term              | Beskrivning                                                                                              |
-| ----------------- | -------------------------------------------------------------------------------------------------------- |
-| **Tärning (T12)** | Tolvsidig tärning, den enda tärningstypen som används i spelet                                           |
-| **Framgång**      | Ett tärningsresultat på 10+                                                                              |
-| **Fokus**         | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar |
-| **Momentum**      | Berättelsetempo som avgör startvärdet på Fokus varje scen (1–5)                                          |
-| **Scen**          | En sammanhängande episod i berättelsen (strid, undersökning, förhandling)                                |
-| **Runda**         | Ca fem sekunders speltid i strid                                                                         |
-| **Slag**          | Ett tärningskast för att avgöra utfall                                                                   |
-| **Svårighet**     | Antal framgångar som krävs: Normalt (1), Svårt (2), Mycket Svårt (3). Sätts av SL som helhetsbedömning  |
-| **Komplikation**  | Oväntad negativ händelse vid misslyckande efter att ha spenderat Fokus                                   |
+| Term              | Beskrivning                                                                                                                                                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tärning (T12)** | Tolvsidig tärning, den enda tärningstypen som används i spelet                                                                                                            |
+| **Framgång**      | Ett tärningsresultat på 10+                                                                                                                                               |
+| **Fokus**         | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar. Alla lägen där fokus kan användas kan istället Stress användas. |
+| **Momentum**      | Berättelsetempo som avgör startvärdet på Fokus varje scen (1–5)                                                                                                           |
+| **Scen**          | En sammanhängande episod i berättelsen (strid, undersökning, förhandling)                                                                                                 |
+| **Runda**         | Ca fem sekunders speltid i strid                                                                                                                                          |
+| **Slag**          | Ett tärningskast för att avgöra utfall                                                                                                                                    |
+| **Svårighet**     | Antal framgångar som krävs: Normalt (1), Svårt (2), Mycket Svårt (3). Sätts av SL som helhetsbedömning                                                                    |
+| **Komplikation**  | Oväntad negativ händelse vid misslyckande efter att ha spenderat Fokus                                                                                                    |
 
 ## Egenskaper
 
@@ -33,11 +33,11 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 ## Sekundära egenskaper
 
-| Term | Beräkning | Beskrivning |
-| ---- | --------- | ----------- |
-| **Tålighet** | Fysik + Vilja | Tröskel för skadesteg |
-| **Stabilitet** | 1 + (Vilja/2, uppåt) | Hur mycket stress du tål innan sammanbrott |
-| **Förflyttning** | Fysik + Smidighet | Meter per bihandling |
+| Term             | Beräkning         | Beskrivning                                |
+| ---------------- | ----------------- | ------------------------------------------ |
+| **Tålighet**     | Fysik + Vilja     | Tröskel för skadesteg                      |
+| **Stabilitet**   | Normalt 3         | Hur mycket stress du tål innan sammanbrott |
+| **Förflyttning** | Fysik + Smidighet | Meter per bihandling                       |
 
 ## Expertis och förmågor
 
@@ -80,13 +80,13 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 ## Stress och psykisk hälsa
 
-| Term                 | Beskrivning                                                                    |
-| -------------------- | ------------------------------------------------------------------------------ |
-| **Trauma**           | Det utlösande psykiska trauma som gett karaktären dess krafter.                |
-| **Stress**           | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag |
-| **Stabilitet**       | Tröskel för sammanbrott (1 + ⌊Vilja/2⌋)                                        |
-| **Sammanbrott**      | Psykisk kris som utlöses när Stress överskrider Stabilitet                     |
-| **Rädsla**           | Slag för att motstå skräckfyllda händelser (Vilja + relevant egenskap)         |
+| Term            | Beskrivning                                                                                                         |
+| --------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Trauma**      | Det utlösande psykiska trauma som gett karaktären dess krafter.                                                     |
+| **Stress**      | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag och kan spenderas istället för Fokus |
+| **Stabilitet**  | Tröskel för sammanbrott (1 + ⌊Vilja/2⌋)                                                                             |
+| **Sammanbrott** | Psykisk kris som utlöses när Stress överskrider Stabilitet                                                          |
+| **Rädsla**      | Slag för att motstå skräckfyllda händelser (Vilja + relevant egenskap)                                              |
 
 ### Sammanbrottseffekter
 

@@ -114,7 +114,7 @@ Varje ny scen återställs personligt Fokus till **Momentum**. Momentum represen
 
 ### Scener
 
-En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvarande. Som grund gäller att om handlingen gör ett hopp framåt i tiden så är det en ny scen efter det. Strider inleder en ny scen och efter striden inleds i allmänhet en ny scen.
+En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvarande. Som grund gäller att om handlingen gör ett hopp framåt i tiden så är det en ny scen efter det.
 
 ## Strid och skada
 

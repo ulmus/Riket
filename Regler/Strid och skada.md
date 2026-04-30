@@ -43,7 +43,7 @@ En enskild försvårande faktor gör skottet normalt **Svårt**. Flera faktorer 
 
 ## Närstridsattacker
 
-När du gör en närstridsattack slår du för Fysik + Strid eller Smidighet + Strid (beroende på vapen och förmågor) med modifikationer.
+När du gör en närstridsattack slår du för **Fysik + Strid** eller **Smidighet + Strid** (beroende på vapen och förmågor) med modifikationer.
 
 ## Skador
 
