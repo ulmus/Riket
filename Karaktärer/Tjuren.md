@@ -4,7 +4,6 @@ cssclasses:
 ---
 # Tjuren
 
-
 | Egenskap  |       | Sekundärt    |             |
 | :-------- | ----: | :----------- | :---------- |
 | Analys    | **1** | Oskadd       | ❏❏❏❏❏ ❏❏❏   |

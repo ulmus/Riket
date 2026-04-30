@@ -4,7 +4,6 @@ cssclasses:
 ---
 # Prisma
 
-
 | Egenskap  |       | Sekundärt    |             |
 | :-------- | ----: | :----------- | :---------- |
 | Analys    | **3** | Oskadd       | ❏❏❏❏        |
