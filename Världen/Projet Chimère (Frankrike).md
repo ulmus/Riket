@@ -26,13 +26,13 @@ Verksamheten bedrivs från en hemlig anläggning i Alperna nära Grenoble, offic
 
 ## Exempel på Chimère-agenter
 
-**Prisme** (Agent Étienne Valois) – Ljusmanipulation och refraktion. Kan böja ljusstrålar för att skapa förbländning, optiska distorsioner eller skapa ljusblixtrar. Tidigare underrättelseofficer i Algeriet som blev expert på psykologisk krigföring.
-
 **Tempête** (Lieutenante Sophie Moreau) – Luftmanipulation och tryckvariationer. Kan skapa kraftiga vindstötar eller lokala tryckvakuum. Flygvapenofficer som överlevde en krasch där hon "borde ha dött". Hennes förmåga ansågs vara latent och väcktes genom Chimère-protokollet.
 
 **Fantôme** (Agent Luc Renault) – Ultraljud-generering och akustisk manipulation. Kan skapa desorientering, illamående eller till och med intern vävnadsskada genom fokuserade ljudvågor. Tidigare ljudtekniker som rekryterades för sin ovanliga hörselkänslighet.
 
 **Méduse** (Dr. Isabelle Laurent) – Psykomimetisk förlamning. Kan tillfälligt framkalla kataleptiska tillstånd hos personer genom ögonkontakt. Psykiater som frivilligt anmälde sig till programmet av vetenskaplig nyfikenhet. Har svårt att kontrollera förmågan under stress.
+
+**Anamorphose** (Étienne Vasseur) – Lokal verklighetsförvrängning. Kan inom några meters radie tänja rum, upphäva hinder och förvrida perspektiv. En korridor är plötsligt dubbelt så lång, ett träd smälter till en pöl, en människa förvrängs till oigenkännlighet. Det är oklart om det är en illusorisk effekt eller om verkligheten förändras, när effekten avtar återställs allt. Eller nästan allt, ofta finns en svårförklarad skevhet kvar. Tidigare arkitekt och konservator vid Centre des monuments nationaux. Rekryterades efter en oförklarlig incident i Albi-katedralen 1959. Varje användning av förmågan tycks urgröpa hans egen verklighetsuppfattning, och han kan inte längre lita på sina egna minnen eller observationer.
 
 ## Relationer och politik
 

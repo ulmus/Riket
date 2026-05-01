@@ -41,6 +41,10 @@ Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott 
 
 En enskild försvårande faktor gör skottet normalt **Svårt**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svårt** – SL avgör. Skott långt bortom vapnets räckvidd kan vara **Mycket Svårt** eller omöjligt.
 
+### Skjuta tillbaka mot nedhållande eld
+
+En karaktär som blir beskjuten och försöker skjuta tillbaka eller inte försöker ta skydd måste slå ett Chock-slag med chockvärde 1. Chockvärdet blir ett lägre om man är skjuter tillbaka från skydd, men ett högre om man beskjutes av automateld och två högre om det är lång salva eller många som skjuter.
+
 ## Närstridsattacker
 
 När du gör en närstridsattack slår du för **Fysik + Strid** eller **Smidighet + Strid** (beroende på vapen och förmågor) med modifikationer.

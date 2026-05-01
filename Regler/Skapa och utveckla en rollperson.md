@@ -3,7 +3,7 @@
 För att skapa en rollperson i I Rikets Tjänst följer du dessa steg:
 
 1. **Välj expertis:** Välj en expertis för din rollperson som ger den en grundläggande historia och motivation. Expertisen kan också ge vissa förmågor eller resurser.
-2. **Välj trauma:** Försökspersonerna i I Rikets Tjänst har valts ut på grund av sina inre konflikter och trauman. Välj en traumakategori och beskriv den specifika händelsen som format din rollperson (se [[Trauma, skräck och stress#Trauma]]).
+2. **Välj trauma:** Försökspersonerna i I Rikets Tjänst har valts ut på grund av sina inre konflikter och trauman. Välj en traumakategori och beskriv den specifika händelsen som format din rollperson (se [[Trauma, chock och stress#Trauma]]).
     - **Förlust:** Någon eller något du älskade togs ifrån dig.
     - **Vanmakt:** Du var hjälplös när det gällde som mest.
     - **Skuld:** Du orsakade något fruktansvärt.

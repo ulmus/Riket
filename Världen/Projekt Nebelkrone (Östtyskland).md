@@ -26,13 +26,13 @@ Anläggningen finns nära Sachsenhausen, norr om Berlin, officiellt listad som "
 
 ## Exempel på Nebelkrone-ENS
 
-**Golem** (Elias Lewinsky) – Richters "mästerverk" från Auschwitz. Övermänsklig styrka och nästan okrossbar kropp, men totalförstörd psykiskt. Fungerar som Richters livvakt.
+**Golem** (Elias Lewinsky) – Richters "mästerverk" från Auschwitz. Övermänsklig styrka och nästan okrossbar kropp, men psykiskt ett vrak. Fungerar som Richters livvakt.
 
-**Eisenherz** (Martin Steiner) – Före detta officer som försökte desertera. Kan "förstärka" metallföremål genom beröring. Används för sabotage och mord.
+**Eisenherz** (Martin Steiner) – Före detta officer som försökte desertera. Kan absorbera och utgjuta metall ur sin kropp. Används för sabotage och mord.
 
 **Nachtmahr** (Karin Brandt) – Tidigare lärare. Kan inducera intensiva mardrömmar. Nästan totalt sinnessjuk, används endast som sista utväg för förhör.
 
-**Schatten** (Emil Krause) – Kan tillfälligt bli "osynlig" genom att böja ljus. Den enda relativt stabila ENS, används för underrättelse. Flydde 1961.
+**Schatten** (Emil Krause) – Kan manipulera skuggor och röra sig obehindrat från en skugga till en annan. Den enda relativt stabila ENS, används för underrättelse. Flydde 1961.
 
 ## Relationer och politik
 

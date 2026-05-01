@@ -36,9 +36,9 @@
 
 ## Stress och Sammanbrott
 
-- Markera Stress vid: skada (Sårad), skräck, kraftanvändning (istället för Fokus)
-- **Skräck:** Slå Vilja + lämplig egenskap. Skräckfaktor (1–4) minus framgångar = Stress. Trauma-koppling ger +1 Skräckfaktor.
-- **Stabilitet** = 1 + ⌈Vilja / 2⌉ avrunda uppåt
+- Markera **Stress** vid: skada (Sårad), chock, kraftanvändning (istället för Fokus)
+- **Chock:** Slå Vilja + lämplig egenskap. Chockfaktor (1–4) minus framgångar = Stress. Trauma-koppling ger +1 Chockfaktor.
+- **Stabilitet** = 3 för vanliga karaktärer
 - Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+2 per gräns utöver första)
 
 |  Slag | Resultat                                                                                |
@@ -46,8 +46,8 @@
 |   1–2 | **Klarsynt** – stressen fokuserar dig, +1 Fokus                                         |
 |   3–6 | **Ok** – ingen effekt                                                                   |
 |   7–8 | **Skakad** – tappar en handling eller missar nästa runda                                |
-|     9 | **Panik** – flyr i en runda, alla i närheten gör Skräck-slag (1)                        |
-|    10 | **Raseri** – attackerar närmaste person i en runda, alla i närheten gör Skräck-slag (2) |
+|     9 | **Panik** – flyr i en runda, alla i närheten gör Chock-slag (1)                        |
+|    10 | **Raseri** – attackerar närmaste person i en runda, alla i närheten gör Chock-slag (2) |
 |    11 | **Förstelning** – kan inte agera förrän lyckat Vilja-slag                               |
 | 12–13 | **Trauma aktiverat** – agerar enligt trauma resten av scenen                            |
 |   14+ | **Trauma förvärrat** – som ovan, plus permanent fördjupning                             |

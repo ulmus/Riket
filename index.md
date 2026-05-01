@@ -24,7 +24,7 @@ title: I Rikets Tjänst
 <li><a href="{{ 'Regler/Expertiser' | relative_url }}">Expertiser</a></li>
 <li><a href="{{ 'Regler/Förmågor' | relative_url }}">Förmågor</a></li>
 <li><a href="{{ 'Regler/Krafter' | relative_url }}">Krafter</a></li>
-<li><a href="{{ 'Regler/Trauma, skräck och stress' | relative_url }}">Trauma, skräck och stress</a></li>
+<li><a href="{{ 'Regler/Trauma, chock och stress' | relative_url }}">Trauma, skräck och stress</a></li>
 <li><a href="{{ 'Regler/Aktiviteter' | relative_url }}">Aktiviteter</a></li>
 <li><a href="{{ 'Regler/Strid och skada' | relative_url }}">Strid och skada</a></li>
 <li><a href="{{ 'Regler/Vapen' | relative_url }}">Vapen</a></li>

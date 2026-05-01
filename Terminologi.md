@@ -84,9 +84,9 @@ De åtta grundegenskaperna som definierar en rollperson:
 | --------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Trauma**      | Det utlösande psykiska trauma som gett karaktären dess krafter.                                                     |
 | **Stress**      | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag och kan spenderas istället för Fokus |
-| **Stabilitet**  | Tröskel för sammanbrott (1 + ⌊Vilja/2⌋)                                                                             |
+| **Stabilitet**  | Tröskel för sammanbrott, 3 för vanliga karaktärer                                                                   |
 | **Sammanbrott** | Psykisk kris som utlöses när Stress överskrider Stabilitet                                                          |
-| **Rädsla**      | Slag för att motstå skräckfyllda händelser (Vilja + relevant egenskap)                                              |
+| **Chock**       | Slag för att motstå chockerande händelser (Vilja + relevant egenskap)                                               |
 
 ### Sammanbrottseffekter
 
@@ -143,16 +143,17 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 För översättning och internationell kommunikation:
 
-| Svenska | Engelska |
-| ------- | -------- |
-| Framgång | Success |
-| Fokus | Focus |
-| Egenskap | Attribute |
-| Expertis | Expertise |
-| Förmåga | Ability/Feat |
-| Kraft | Power |
-| Kroppspoäng | Hit Points (HP) |
-| Stress | Stress |
-| Stabilitet | Stability |
-| Sammanbrott | Breakdown |
+| Svenska               | Engelska                   |
+| --------------------- | -------------------------- |
+| Chock                 | Shock                      |
+| Framgång              | Success                    |
+| Fokus                 | Focus                      |
+| Egenskap              | Attribute                  |
+| Expertis              | Expertise                  |
 | Extra-Normalt Subjekt | Extra-Normal Subject (ENS) |
+| Förmåga               | Ability/Feat               |
+| Kraft                 | Power                      |
+| Kroppspoäng           | Hit Points (HP)            |
+| Stress                | Stress                     |
+| Stabilitet            | Stability                  |
+| Sammanbrott           | Breakdown                  |

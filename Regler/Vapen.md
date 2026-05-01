@@ -38,7 +38,7 @@ Vapnet kan användas på 2 meters avstånd istället för normal närstrid. Fien
 
 ### Kastbart
 
-Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner ur din hand efter kastet.
+Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har räckvidd Fysik x 5 meter,
 
 ## Avståndsvapen
 
@@ -52,17 +52,18 @@ Vapnet kan kastas som ett avståndsvapen med Fysik + Strid. Vapnet försvinner u
 | Hagelgevär        |     20 m |     4 |    2 | Skjutvapen | Hagelsvärm               |
 | Kulspruta 5.56 mm |    100 m |     3 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Kulspruta 7,62 mm |    200 m |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
+| Handgranat        |     Kast |       |      |            |                          |
 
 ## Närstridsvapen
 
-| Vapen    | Skada | Skadetyp | Egenskaper                           |
-| -------- | ----: | -------- | ------------------------------------ |
-| Slagsmål |     1 | Kross    | Obeväpnad                            |
-| Kniv     |     2 | Stick    | Finess                               |
-| Batong   |     2 | Kross    | –                                    |
-| Sabel    |     2 | Hugg     | Finess                               |
-| Yxa      |     3 | Hugg     | –                                    |
-| Spjut    |     4 | Stick    | Långt, Kastbart (15 m), Penetrerande |
+| Vapen    | Skada | Skadetyp | Egenskaper                    |
+| -------- | ----: | -------- | ----------------------------- |
+| Slagsmål |     1 | Kross    | Obeväpnad                     |
+| Kniv     |     2 | Stick    | Finess                        |
+| Batong   |     2 | Kross    | –                             |
+| Sabel    |     2 | Hugg     | Finess                        |
+| Yxa      |     3 | Hugg     | –                             |
+| Spjut    |     4 | Stick    | Långt, Kastbart, Penetrerande |
 
 ## Skydd och rustning
 

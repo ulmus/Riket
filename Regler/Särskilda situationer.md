@@ -26,24 +26,14 @@ Grundskadan beror på fallets höjd:
 
 ## Eldskada
 
-Skadebonus från eld beror på eldens intensitet:
+Skada från eld beror på eldens intensitet och tas varje omgång. Slå lika många tärningar.
 
-| Eldens intensitet          | Skadebonus | Kritiska träffar |
-| -------------------------- | ---------- | ---------------- |
-| Fackla, tändsticka         | +1         | Eld -1           |
-| Lägereld, brinnande kläder | +2         | Eld              |
-| Bål, svetslåga             | +3         | Eld +1           |
-| Brinnande rum, napalm      | +4         | Eld +2           |
-
-Grundskadan beror på eldens omfattning relativt personen:
-
-| Eldens storlek   | Grundskada |
-| ---------------- | ---------- |
-| Bränd hand/arm   | 1          |
-| Halva kroppen    | 2          |
-| Hela kroppen     | 3          |
-
-**KP-skada = grundskada + skadebonus − Skydd** (minst 0). Skydd skyddar bara mot eld om det är rimligt heltäckande och inte eldfängt.
+| Eldens intensitet          | Skada | Kritiska träffar  |
+| -------------------------- | ----- | ----------------- |
+| Fackla                     | 1     | Eld               |
+| Lägereld, brinnande kläder | 2     | Eld               |
+| Bål, svetslåga             | 3     | Eld               |
+| Brinnande rum, napalm      | 4     | Eld, Penetrerande |
 
 ### Brinnande
 
@@ -55,36 +45,24 @@ Om du tar minst 1 KP av eldskada och inte lyckades släcka elden, är du **Brinn
 
 En explosions skadebonus beror på styrkan i explosionen:
 
-| Explosionstyp             | Skadebonus | Kritiska träffar |
-| ------------------------- | ---------- | ---------------- |
-| Handgranat, mindre bomb   | +3         | Explosion        |
-| Dynamitladdning, granat   | +4         | Explosion        |
-| Block C4, stor bomb       | +5         | Explosion +1     |
-| Bilbomb, tungt sprängämne | +6         | Explosion +1     |
+| Explosionstyp             | Skada |
+| ------------------------- | ----- |
+| Handgranat, mindre bomb   | 4     |
+| Dynamitladdning, granat   | 6     |
+| Block C4, stor bomb       | 8     |
+| Bilbomb, tungt sprängämne | 12    |
 
-Skadebonus minskar med 1 för varje dubbling av avståndet från explosionspunkten.
+Skadan minskar med 1 efter två meter och sedan med ytterligare 1 för varje dubbling av avståndet från explosionspunkten.
 
-Grundskadan beror på omständigheterna:
+Beroende på omständigheterna slås också ett antal skadetärningar. Dessa fungerar som ett Lätt attackslag, dvs det träffar automatiskt och varje framgång ger +1 skada. 12:or ger kritisk träff på Explosions-tabellen. 
 
-| Miljö          | Grundskada |
-| -------------- | ---------- |
-| Person i skydd | 2          |
-| Öppen mark     | 3          |
-| Öppna väggar   | 4          |
-| Slutna rum     | 5          |
-
-**KP-skada = grundskada + skadebonus − framgångar på Fysik + Smidighet (undan-slag) − (Skydd − 1)** (minst 0). Explosionsskada ignorerar 1 poäng Skydd.
-
-**Kritiska träffar vid explosion:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff på tabellen **Explosion**.
-
-### Splitter
-
-Många explosioner ger också splitterskada. Splitter har:
-
-- Samma skadebonus som explosionen (naturligt splitter)
-- +1 skadebonus utöver explosionen (splittergranater)
-
-Splitterskadans grundskada minskar med 1 per 5 meter avstånd. Skydd fungerar normalt mot splitter.
+| Miljö          | Skadetärningar |
+| -------------- | -------------- |
+| Person i skydd | 2              |
+| Öppen mark     | 4              |
+| Öppna väggar   | 6              |
+| Slutna rum     | 8              |
+| Splitter       | +4             |
 
 ## Gift
 

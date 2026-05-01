@@ -1,4 +1,4 @@
-# Trauma, skräck och stress
+# Trauma, chock och stress
 
 Trauma och stress är en viktig del av I Rikets Tjänst. Ur sina trauman hämtar karaktärerna sina krafter, men stressen kan också övermanna dem och leda till sammanbrott.
 
@@ -59,8 +59,8 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 ## Återhämtning – minska Stress
 
 - **Kort vila:** ta bort **1 Stress**.
-- **Stressreducerande handling** (RP-specifik): ta bort **Vilja** rutor.
-- **Lång vila:** ta bort **all Stress** (kan riskera att minska **Momentum** enligt SL).
+- **Stressreducerande handling** (RP-specifik): ta bort **Stabilitet** rutor.
+- **Lång vila:** ta bort **Stabilitet** rutor (kan riskera att minska **Momentum** enligt SL).
 - **Rollspel & stöd:** Meningsfulla scener med tröst, stöd eller terapi kan ytterligare minska Stress (se t.ex. förmågan **[[Förmågor#Terapeut|Terapeut]]**).
 
 ## Stabilitet
@@ -73,22 +73,23 @@ Stabilitet kan minska när karaktären utsätts för permanent trauma (14+ på S
 
 En person som når Stabilitet **0** går in i en permanent psykos eller depression.
 
-## Skräck
+## Chock
 
-När något skrämmande eller chockartat inträffar: slå ett **Skräck-slag, Vilja + lämplig egenskap**.  
+När något skrämmande eller chockartat inträffar: slå ett **Chock-slag, Vilja + lämplig egenskap**.  
 
-**Skräckfaktor** sätts av SL utifrån händelsen och är normalt 1-4, för varje framgång på slaget Skräckslaget så minskar den ett steg. Om det som skräck-slaget avser tangerar ditt Trauma så ökar Skräckfaktor med +1. För varje kvarvarande nivå av Skräckfaktor så tar karaktären en poäng Stress.
+**Chockfaktor** sätts av SL utifrån händelsen och är normalt 1-4, för varje framgång på slaget Chockslaget så minskar den ett steg. Om det som Chock-slaget avser tangerar ditt Trauma så ökar Chockfaktor med +1. För varje kvarvarande nivå av Chockfaktor så tar karaktären en poäng Stress.
 
 *Exempel:*
 
-- **Eldstrid** - *Strid + Vilja*, Skräck **1**
-- **Bakhåll** – *Strid + Vilja*, Skräck **2**
-- **Panik i din närhet** – *Vilja + Vilja*, Skräck **1**
-- **Någon dör i strid** – *Strid + Vilja*, Skräck **2** (*1 om du är stridstränad*)
-- **Någon dör utanför strid** – *Vilja + Vilja*, Skräck **3**
-- **Nära vän/familj dör** – *Vilja + Vilja*, Skräck **4**
-- **Överväldigande hot/hopplöst läge** – *Sinnen + Vilja*, Skräck **varierar**
-- **Övernaturligt/oförklarligt fenomen** – *Analys + Vilja*, Skräck **varierar**
+- **Eldstrid** - *Strid + Vilja*, Chock **1**
+- **Bakhåll** – *Strid + Vilja*, Chock **2**
+- **Skjuta tillbaka mot nedhållande eld** – Strid + Vilja, Chock **1** (2 om automateld, 3 om lång salva)
+- **Panik i din närhet** – *Vilja + Vilja*, Chock **1**
+- **Någon dör i strid** – *Strid + Vilja*, Chock **2** (*1 om du är stridstränad*)
+- **Någon dör utanför strid** – *Vilja + Vilja*, Chock **3**
+- **Nära vän/familj dör** – *Vilja + Vilja*, Chock **4**
+- **Överväldigande hot/hopplöst läge** – *Sinnen + Vilja*, Chock **varierar**
+- **Övernaturligt/oförklarligt fenomen** – *Analys + Vilja*, Chock **varierar**
 
 ## Sammanbrott
 
@@ -100,7 +101,7 @@ Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns
 |   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |
 |     **5** | **Skakad** – Du rycker till av rädsla och **tappar en handling** eller **missar nästa runda**.                                                                                                                                              |
 |     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som huvudhandling.                                                              |
-|     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Skräck-slag (Vilja + Vilja, SF 1)**.                                     |
+|     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chock-slag (Vilja + Vilja, SF 1)**.                                     |
 |     **8** | **Panikångest** - Du drabbas av panik, beroende på situation kan det innebär att du fryser på stället eller springer. Du måste lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda).                                |
 |     **9** | **Raseri** - Du reagerar med vansinnigt raseri, riktat mot din utrustning, dina fiender, dina vänner eller dig själv. Du attackerar någon eller något tills du lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda) |
 | **10–12** | **Traumat aktiverat** – Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]).                          |
