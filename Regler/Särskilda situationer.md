@@ -133,12 +133,12 @@ En person som utsätts för strålning tar skada där grundskadan beror på str�
 
 ### Exponering (skadetärningar)
 
-| Exponeringstid               | Skadetärningar |
-| ---------------------------- | -------------- |
-| Kortvarig (sekunder–minuter) | 2              |
-| Längre (timmar)              | 4              |
-| Långvarig (dagar)            | 6              |
-| Kronisk (veckor eller mer)   | 8              |
+| Exponeringstid | Skadetärningar |
+| -------------- | -------------- |
+| Sekunder       | 2              |
+| Minuter        | 4              |
+| Timmar         | 6              |
+| Dagar          | 8              |
 
 Karaktären får slå **Fysik + Vilja** för att motstå – varje framgång minskar KP-skadan med 1. Vanlig rustning och kläder ger inget skydd mot strålning. Specifika strålskydd – blyförkläde, tjock betongvägg eller strålskyddsdräkt – halverar grundskadan (avrunda uppåt); fullständigt inneslutet skydd (bunker, blyrum) ger immunitet.
 
