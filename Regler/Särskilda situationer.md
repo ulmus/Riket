@@ -112,7 +112,7 @@ Slå 1T12 när sömnmedlet får effekt:
 
 ### Medicinsk kunskap
 
-Att beräkna rätt dos är ett Svårt slag för **Analys + Sinnen** (görs lättare av rätt Expertis, till exempel Läkare eller Apotekare). Om det lyckas höjs Döende-tröskeln med 1 per framgång, utan att påverka Somnar-tröskeln.
+Att beräkna rätt dos är ett slag för **Analys + Sinnen** (görs lättare av rätt Expertis, till exempel Läkare eller Apotekare). Om det lyckas höjs Döende-tröskeln med 1 per framgång, utan att påverka Somnar-tröskeln.
 
 ### Varaktighet
 
@@ -122,16 +122,16 @@ Ett sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** (alla hand
 
 En person som utsätts för strålning tar skada där grundskadan beror på strålningens intensitet och skadetärningarna på exponeringens längd. I allmänhet räknas skadan efter att exponeringen är slut, eftersom strålsjukans symptom manifesteras fördröjt. Kritiska träffar slås på [[Kritiska träffar#Strålning]].
 
-### Intensitet (grundskada)
+Intensiteten avgör grundskadan.
 
-| Intensitet | Grundskada | Exempel                                 |
-| ---------- | ---------- | --------------------------------------- |
-| Svag       | 0          | Bakgrundsnivå, avlägsna källor          |
-| Måttlig    | 2          | Förorenat område, trasig röntgenapparat |
-| Kraftig    | 4          | Reaktorläcka, bränslestav i närheten    |
-| Extrem     | 6          | Inuti härden, atombombens epicentrum    |
+| Intensitet | Skada | Exempel                                 |
+| ---------- | ----- | --------------------------------------- |
+| Svag       | 0     | Bakgrundsnivå, avlägsna källor          |
+| Måttlig    | 2     | Förorenat område, trasig röntgenapparat |
+| Kraftig    | 4     | Reaktorläcka, bränslestav i närheten    |
+| Extrem     | 6     | Inuti härden, atombombens epicentrum    |
 
-### Exponering (skadetärningar)
+Exponeringstiden avgör skadetärningar.
 
 | Exponeringstid | Skadetärningar |
 | -------------- | -------------- |
@@ -140,9 +140,7 @@ En person som utsätts för strålning tar skada där grundskadan beror på str�
 | Timmar         | 6              |
 | Dagar          | 8              |
 
-Karaktären får slå **Fysik + Vilja** för att motstå – varje framgång minskar KP-skadan med 1. Vanlig rustning och kläder ger inget skydd mot strålning. Specifika strålskydd – blyförkläde, tjock betongvägg eller strålskyddsdräkt – halverar grundskadan (avrunda uppåt); fullständigt inneslutet skydd (bunker, blyrum) ger immunitet.
-
-**KP-skada = grundskada + skadetärningar − framgångar på Fysik + Vilja** (minst 0).
+Vanlig rustning och kläder ger inget skydd mot strålning. Specifika strålskydd – blyförkläde, tjock betongvägg eller strålskyddsdräkt – halverar grundskadan (avrunda uppåt); fullständigt inneslutet skydd (bunker, blyrum) ger immunitet.
 
 ### Strålsjuka
 
