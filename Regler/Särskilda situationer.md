@@ -120,29 +120,30 @@ Ett sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** (alla hand
 
 ## Strålning
 
-En person som utsätts för strålning tar skada där skadebonus beror på strålningens intensitet och grundskadan beror på hur länge de blev exponerade. I allmänhet räknas skadan efter att exponeringen är slut.
+En person som utsätts för strålning tar skada där grundskadan beror på strålningens intensitet och skadetärningarna på exponeringens längd. I allmänhet räknas skadan efter att exponeringen är slut, eftersom strålsjukans symptom manifesteras fördröjt. Kritiska träffar slås på [[Kritiska träffar#Strålning]].
 
-### Intensitet (skadebonus)
+### Intensitet (grundskada)
 
-| Intensitet | Skadebonus | Exempel                                 |
+| Intensitet | Grundskada | Exempel                                 |
 | ---------- | ---------- | --------------------------------------- |
-| Svag       | +0         | Bakgrundsnivå, avlägsna källor          |
-| Måttlig    | +2         | Förorenat område, trasig röntgenapparat |
-| Kraftig    | +4         | Reaktorläcka, bränslestav i närheten    |
-| Extrem     | +6         | Inuti härden, atombombens epicentrum    |
+| Svag       | 0          | Bakgrundsnivå, avlägsna källor          |
+| Måttlig    | 2          | Förorenat område, trasig röntgenapparat |
+| Kraftig    | 4          | Reaktorläcka, bränslestav i närheten    |
+| Extrem     | 6          | Inuti härden, atombombens epicentrum    |
 
-### Exponering (grundskada)
+### Exponering (skadetärningar)
 
-| Exponeringstid               | Grundskada |
-| ---------------------------- | ---------- |
-| Kortvarig (sekunder–minuter) | 2          |
-| Längre (timmar)              | 3          |
-| Långvarig (dagar–veckor)     | 5          |
+| Exponeringstid               | Skadetärningar |
+| ---------------------------- | -------------- |
+| Kortvarig (sekunder–minuter) | 2              |
+| Längre (timmar)              | 4              |
+| Långvarig (dagar)            | 6              |
+| Kronisk (veckor eller mer)   | 8              |
 
-**KP-skada = grundskada + skadebonus − framgångar på Fysik + Vilja** (minst 0).
+Karaktären får slå **Fysik + Vilja** för att motstå – varje framgång minskar KP-skadan med 1. Vanlig rustning och kläder ger inget skydd mot strålning. Specifika strålskydd – blyförkläde, tjock betongvägg eller strålskyddsdräkt – halverar grundskadan (avrunda uppåt); fullständigt inneslutet skydd (bunker, blyrum) ger immunitet.
+
+**KP-skada = grundskada + skadetärningar − framgångar på Fysik + Vilja** (minst 0).
 
 ### Strålsjuka
 
-Strålningsskada visar sig ofta fördröjt. SL kan välja att låta effekterna slå igenom timmar eller dagar efter exponeringen.
-
-**Kritiska träffar vid strålning:** Slå lika många T12 som KP-skadan som gick igenom. Varje **12** triggar en kritisk träff på tabellen **Strålning** (se [[Kritiska träffar#Strålning]]).
+Strålsjuka manifesteras sällan omedelbart. SL kan välja att låta KP-skadan slå igenom timmar eller dagar efter exponeringen, och kritiska träffars effekter (illamående, håravfall, benmärgsskada, organsvikt) kan utvecklas över loppet av minuter, timmar eller veckor beroende på effektens svårighet.
