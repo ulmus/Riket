@@ -1,7 +1,7 @@
 # Dödsängelns Testamtente
-Sommaren 1962 ligger Dr. Mengele för döden på Sklifosovsky-institutet i Mosvka. I ett infall av högmod injicerade han sig själv med tallium i ett försöka at inducera ENS-krafter. Försöket misslyckades
+Sommaren 1962 ligger Dr. Mengele för döden på Sklifosovsky-institutet i Moskva. I ett infall av högmod injicerade han sig själv med tallium i ett försök att inducera ENS-krafter. Försöket misslyckades
 ## Bakgrund
-När Auschwitz befriades av Röda Armén 1945 hade Dr. Josef Mengele en plan. Han skulle fly till fäderneslandet och om Tredje Riket föll, vilket verkade mer och mer troligt, så skulle han gå under jorden. Planen misslyckades, Dr. Mengele dröjde sig kvar för länge i Auschwitz, uppslukad av sina experiment. Men andra lyckades, specifikt Victor Capesius lägrets rumänske chefsapotekare. Han var ansvarig för mördargasen Zyklon B, men också nära förtrogen med Dr. Mengele och djupt involverad i doktorns ENS-experiment. Med sig på sin hastiga flykt västerut hade Capsius Dr. Mengeles samlade anteckningar.
+När Auschwitz befriades av Röda Armén 1945 hade Dr. Josef Mengele en plan. Han skulle fly till fäderneslandet och om Tredje Riket föll, vilket verkade mer och mer troligt, så skulle han gå under jorden. Planen misslyckades, Dr. Mengele dröjde sig kvar för länge i Auschwitz, uppslukad av sina experiment. Men andra lyckades, specifikt Victor Capesius lägrets rumänske chefsapotekare. Han var ansvarig för mördargasen Zyklon B, men också nära förtrogen med Dr. Mengele och djupt involverad i doktorns ENS-experiment. Med sig på sin hastiga flykt västerut hade Capesius Dr. Mengeles samlade anteckningar.
 
 Capesius höll sig först under radarn i Västtyskland. Han ljög aldrig om sin identitet, men utelämnade sin postering i Auschwitz och undvek därmed att ställas till svars för sina brott. I mitten på femtiotalet började emellertid den tysk-judiske åklagaren Franz Bauer nysta i flera av de försvunna SS-officerarna från Auschwitz. Capesius blev kallad till förhör, men valde istället att gå under jorden. Med hjälpa av den övervintrade nazisten Otto Skorzeny och hans nätverk Der Spinne fick Capesius en ny identitet som apotekaren Dr. Roland Wenger i Wien. Och allt han behövde betala var det han hade tagit med sig från Auschwitz, lite judiskt guld och Dr. Mengeles anteckningar.
 
@@ -23,7 +23,7 @@ Sex personer reser som östtysk handelsdelegation från **VEB Bergmann-Borsig** 
 ## Resväg och händelser
 
 ### Östersjön — överlämningen vid Osmussaar
-En svensk fiskebåt möter den sovjetestniska tråleren **SRT-4417 *Koidula*** i skymningen. Överlämning på fyra minuter. Besättningen har dock en angivare ombord.
+En svensk fiskebåt möter den sovjetestniska trålaren **SRT-4417 *Koidula*** i skymningen. Överlämning på fyra minuter. Besättningen har dock en angivare ombord.
 
 ### Leningrad — bakhållet på Gutujevskij-ön
 Kvällen 17 maj. KGB väntar med 10 gränstrupper, larmade av maskinchefen Arvo Lepik som hatar svenskar sedan baltutlämningen 1946 (hans bror hängdes). När rollpersonerna gått av kapar Arvo *Koidula* och låter henne driva ut i bassängen med besättningen ombord. Rollpersonerna flyr in i hamnen.

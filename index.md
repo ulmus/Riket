@@ -24,7 +24,7 @@ title: I Rikets Tjänst
 <li><a href="{{ 'Regler/Expertiser' | relative_url }}">Expertiser</a></li>
 <li><a href="{{ 'Regler/Förmågor' | relative_url }}">Förmågor</a></li>
 <li><a href="{{ 'Regler/Krafter' | relative_url }}">Krafter</a></li>
-<li><a href="{{ 'Regler/Trauma, chock och stress' | relative_url }}">Trauma, skräck och stress</a></li>
+<li><a href="{{ 'Regler/Trauma, chock och stress' | relative_url }}">Trauma, chock och stress</a></li>
 <li><a href="{{ 'Regler/Aktiviteter' | relative_url }}">Aktiviteter</a></li>
 <li><a href="{{ 'Regler/Strid och skada' | relative_url }}">Strid och skada</a></li>
 <li><a href="{{ 'Regler/Vapen' | relative_url }}">Vapen</a></li>
@@ -59,6 +59,7 @@ title: I Rikets Tjänst
 <li><a href="{{ 'Karaktärer/Silke' | relative_url }}">Silke</a></li>
 <li><a href="{{ 'Karaktärer/Stigmata' | relative_url }}">Stigmata</a></li>
 <li><a href="{{ 'Karaktärer/Tjuren' | relative_url }}">Tjuren</a></li>
+<li><a href="{{ 'Karaktärer/Verdandi' | relative_url }}">Verdandi</a></li>
 </ul>
 </div>
 
@@ -67,7 +68,7 @@ title: I Rikets Tjänst
 <ul>
 <li><a href="{{ 'Äventyr/Snegurka/SLP' | relative_url }}">Snegurka</a></li>
 <li><a href="{{ 'Äventyr/Extraktionen/Extraktionen' | relative_url }}">Extraktionen</a></li>
-<li><a href="{{ 'Äventyr/Dödsängelns Evangelium/DE - Kampanjöversikt' | relative_url }}">Dödsängelns Evangelium</a></li>
+<li><a href="{{ 'Äventyr/Dödsängelns Testamente/Kampanjöversikt' | relative_url }}">Dödsängelns Evangelium</a></li>
 </ul>
 </div>
 
