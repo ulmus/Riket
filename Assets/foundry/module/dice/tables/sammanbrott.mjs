@@ -1,11 +1,12 @@
 /** Sammanbrottstabellen (Breakdown table) */
 export const SAMMANBROTT = [
   { min: 1, max: 2, label: "Klarsynt", effect: "Stressen fokuserar dig. Du får +1 Fokus." },
-  { min: 3, max: 6, label: "Ok", effect: "Du blir inte påverkad av stressen — den här gången." },
-  { min: 7, max: 8, label: "Skakad", effect: "Du stelnar till och tappar en handling eller missar nästa runda." },
-  { min: 9, max: 9, label: "Panik", effect: "Du flyr mot närmaste skydd eller bort från hotet i en runda och släpper allt du håller i. Alla i närheten gör ett Skräck-slag (Vilja + Vilja, Svårt)." },
-  { min: 10, max: 10, label: "Raseri", effect: "Du tappar kontrollen och attackerar närmaste hot/person (vän eller fiende) i en runda. Alla i närheten gör Skräck-slag (Vilja + Vilja, Mycket Svårt)." },
-  { min: 11, max: 11, label: "Förstelning", effect: "Du blir paralyserad av skräck och kan inte agera förrän du lyckas med ett Vilja + Vilja-slag som huvudhandling." },
-  { min: 12, max: 13, label: "Traumat aktiverat", effect: "Ditt trauma aktiveras. Du tvingas agera enligt ditt traumas beteende resten av scenen. Dina krafter manifesterar okontrollerat." },
-  { min: 14, max: 99, label: "Trauma förvärrat", effect: "Ditt trauma aktiveras och fördjupas permanent. Välj en negativ effekt tillsammans med SL." },
+  { min: 3, max: 4, label: "Ok", effect: "Du klarar av det – den här gången." },
+  { min: 5, max: 5, label: "Skakad", effect: "Du rycker till av rädsla och tappar en handling eller missar nästa runda." },
+  { min: 6, max: 6, label: "Uppjagad", effect: "Du blir nervös och okoncentrerad. Alla dina slag är ett steg svårare tills du lyckas samla dig med ett lyckat slag för Vilja + Vilja som huvudhandling." },
+  { min: 7, max: 7, label: "Utbrott", effect: "Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett Chock-slag (Vilja + Vilja, SF 1)." },
+  { min: 8, max: 8, label: "Panikångest", effect: "Du drabbas av panik; beroende på situation kan det innebära att du fryser på stället eller springer. Du måste lyckas med ett slag för Vilja + Vilja för att sluta (ett slag per runda)." },
+  { min: 9, max: 9, label: "Raseri", effect: "Du reagerar med vansinnigt raseri, riktat mot din utrustning, dina fiender, dina vänner eller dig själv. Du attackerar någon eller något tills du lyckas med ett slag för Vilja + Vilja för att sluta (ett slag per runda)." },
+  { min: 10, max: 12, label: "Traumat aktiverat", effect: "Ditt trauma aktiveras. Du tvingas agera enligt ditt traumas beteende resten av scenen. Dina krafter manifesterar okontrollerat." },
+  { min: 13, max: 99, label: "Trauma förvärrat", effect: "Ditt trauma aktiveras och fördjupas permanent. Välj en negativ effekt från tabellen Förvärrat trauma tillsammans med SL. Din Stabilitet sjunker ett steg permanent." },
 ];

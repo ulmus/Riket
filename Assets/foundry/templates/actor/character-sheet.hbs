@@ -79,9 +79,11 @@
         <label>{{localize "IRT.Derived.talighet"}}</label>
         <span class="irt-derived-val">{{system.derived.talighet}}</span>
       </div>
-      <div class="irt-secondary-stat" title="{{derivedTooltips.stabilitet}}">
+      <div class="irt-secondary-stat">
         <label>{{localize "IRT.Derived.stabilitet"}}</label>
-        <span class="irt-derived-val">{{system.derived.stabilitet}}</span>
+        <div class="irt-stat-display">
+          <input type="number" name="system.stabilitet" value="{{system.stabilitet}}" min="0" max="3" class="irt-current" />
+        </div>
       </div>
       <div class="irt-secondary-stat" title="{{derivedTooltips.forflyttning}}">
         <label>{{localize "IRT.Derived.forflyttning"}}</label>
@@ -102,7 +104,7 @@
       <div class="irt-resource irt-resource--stress">
         <label>{{localize "IRT.Stress"}}</label>
         <input type="number" name="system.stress.value" value="{{system.stress.value}}" min="0" class="irt-resource-input" />
-        <span class="irt-resource-note">Sammanbrott vid &gt; {{system.derived.stabilitet}}</span>
+        <span class="irt-resource-note">Sammanbrott vid &gt; {{system.stabilitet}}</span>
       </div>
       <div class="irt-resource">
         <label>{{localize "IRT.Momentum"}}</label>
@@ -117,7 +119,7 @@
     <div class="irt-sammanbrott-row">
       <div class="irt-sammanbrott-info">
         <span class="irt-sammanbrott-bonus-label">{{localize "IRT.SammanbrottBonus"}}: <strong>+{{sammanbrottsBonus}}</strong></span>
-        <span class="irt-sammanbrott-note">(Stress {{system.stress.value}} / Stabilitet {{system.derived.stabilitet}})</span>
+        <span class="irt-sammanbrott-note">(Stress {{system.stress.value}} / Stabilitet {{system.stabilitet}})</span>
       </div>
       <button type="button" class="irt-sammanbrott-roll irt-btn irt-btn--sm">
         <i class="fas fa-dice"></i> {{localize "IRT.SammanbrottRoll"}}
@@ -158,10 +160,10 @@
         <option value="kraftig" {{#if (eq system.blodning "kraftig")}}selected{{/if}}>{{localize "IRT.Blodning.kraftig"}}</option>
       </select>
       {{#if (eq system.blodning "latt")}}
-      <div class="irt-blodning-info">Lätt blödning: 1T12 skada i början av varje minut.</div>
+      <div class="irt-blodning-info">Lätt blödning: 1 KP skada i början av varje minut.</div>
       {{/if}}
       {{#if (eq system.blodning "kraftig")}}
-      <div class="irt-blodning-info">Kraftig blödning: 1T12 skada i början av varje runda!</div>
+      <div class="irt-blodning-info">Kraftig blödning: 1 KP skada i början av varje runda!</div>
       {{/if}}
     </div>
     <div class="irt-field">

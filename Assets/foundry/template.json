@@ -14,9 +14,9 @@
       },
       "derived": {
         "talighet": 0,
-        "stabilitet": 0,
         "forflyttning": 0
       },
+      "stabilitet": 3,
       "kp": {
         "value": 0,
         "max": 0

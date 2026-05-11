@@ -9,11 +9,11 @@ export function runDerivedStatsTests() {
     "calcTalighet: 5+4 => 9": () => assertEqual(calcTalighet(5, 4), 9),
     "calcTalighet: 5+5 => 10": () => assertEqual(calcTalighet(5, 5), 10),
 
-    "calcStabilitet: Vilja 1 => 2": () => assertEqual(calcStabilitet(1), 2),
-    "calcStabilitet: Vilja 2 => 2": () => assertEqual(calcStabilitet(2), 2),
+    "calcStabilitet: Vilja 1 => 3": () => assertEqual(calcStabilitet(1), 3),
+    "calcStabilitet: Vilja 2 => 3": () => assertEqual(calcStabilitet(2), 3),
     "calcStabilitet: Vilja 3 => 3": () => assertEqual(calcStabilitet(3), 3),
     "calcStabilitet: Vilja 4 => 3": () => assertEqual(calcStabilitet(4), 3),
-    "calcStabilitet: Vilja 5 => 4": () => assertEqual(calcStabilitet(5), 4),
+    "calcStabilitet: Vilja 5 => 3": () => assertEqual(calcStabilitet(5), 3),
 
     "calcForflyttning: 2+3 => 5": () => assertEqual(calcForflyttning(2, 3), 5),
     "calcForflyttning: 5+5 => 10": () => assertEqual(calcForflyttning(5, 5), 10),
@@ -34,7 +34,6 @@ export function runDerivedStatsTests() {
     "calcAllDerived: example character (Fysik 2, Vilja 4, Smidighet 3)": () => {
       const result = calcAllDerived({ fysik: 2, vilja: 4, smidighet: 3 });
       assertEqual(result.talighet, 6);
-      assertEqual(result.stabilitet, 3);
       assertEqual(result.forflyttning, 5);
       assertEqual(result.kpMax, 6);
     },
@@ -42,7 +41,6 @@ export function runDerivedStatsTests() {
     "calcAllDerived: min values (all 1s)": () => {
       const result = calcAllDerived({ fysik: 1, vilja: 1, smidighet: 1 });
       assertEqual(result.talighet, 2);
-      assertEqual(result.stabilitet, 2);
       assertEqual(result.forflyttning, 2);
       assertEqual(result.kpMax, 2);
     },
@@ -50,7 +48,6 @@ export function runDerivedStatsTests() {
     "calcAllDerived: max values (all 5s)": () => {
       const result = calcAllDerived({ fysik: 5, vilja: 5, smidighet: 5 });
       assertEqual(result.talighet, 10);
-      assertEqual(result.stabilitet, 4);
       assertEqual(result.forflyttning, 10);
       assertEqual(result.kpMax, 10);
     },

@@ -88,16 +88,21 @@ export async function damageRoll({ successes, twelveCount = 0, weaponSkada = 0, 
 }
 
 /**
- * Show a damage resolution dialog to the user (used when applying damage manually).
+ * Show a damage resolution dialog for a weapon attack.
+ * Framgångar are optional — the player chooses how many to apply to damage.
  * @param {object} weapon - Weapon item data
  * @param {Actor} actor
  */
 export async function damageRollDialog(weapon, actor) {
   const content = `
     <form>
+      <p style="margin:0 0 8px;font-size:11px;color:#666">
+        Skada ${weapon.system.damage ?? 0} är garanterad vid träff.
+        Framgångar är valfria – de kan användas till skada eller andra effekter.
+      </p>
       <div class="form-group">
-        <label>Framgångar på attackslaget</label>
-        <input type="number" name="successes" value="1" min="0" />
+        <label>Framgångar till skada (valfritt)</label>
+        <input type="number" name="successes" value="0" min="0" />
       </div>
       <div class="form-group">
         <label>Antal 12:or på attackslaget</label>
@@ -147,6 +152,66 @@ export async function damageRollDialog(weapon, actor) {
   });
 }
 
+/**
+ * Show a damage picker dialog triggered from an attack roll chat card.
+ * Displays how many framgångar are available and lets the player choose how many to apply to damage.
+ */
+export async function damageRollFromAttack({ availableSuccesses, twelveCount, weaponSkada, damageType, weaponName, penetrerande, actor }) {
+  const content = `
+    <form>
+      <p style="margin:0 0 8px;font-size:11px;color:#666">
+        <strong>${_esc(weaponName)}</strong> — Skada ${weaponSkada} KP garanterat vid träff.<br>
+        Framgångar tillgängliga: <strong>${availableSuccesses}</strong> (valfri bonus till skada eller andra effekter).
+      </p>
+      <div class="form-group">
+        <label>Framgångar till skada (0–${availableSuccesses})</label>
+        <input type="number" name="successesForDamage" value="0" min="0" max="${availableSuccesses}" />
+      </div>
+      <div class="form-group">
+        <label>Målets Skydd</label>
+        <input type="number" name="skydd" value="0" min="0" />
+      </div>
+    </form>
+  `;
+
+  return new Promise((resolve) => {
+    new Dialog({
+      title: `Skada: ${weaponName}`,
+      content,
+      buttons: {
+        roll: {
+          icon: '<i class="fas fa-burst"></i>',
+          label: "Räkna skada",
+          callback: async (html) => {
+            const successesForDamage = Math.min(
+              parseInt(html.find('[name="successesForDamage"]').val()) || 0,
+              availableSuccesses
+            );
+            const skydd = parseInt(html.find('[name="skydd"]').val()) || 0;
+            await damageRoll({
+              successes: successesForDamage,
+              twelveCount,
+              weaponSkada,
+              damageType,
+              weaponName,
+              skydd,
+              penetrerande,
+              actor,
+            });
+            resolve(true);
+          },
+        },
+        cancel: {
+          icon: '<i class="fas fa-times"></i>',
+          label: "Avbryt",
+          callback: () => resolve(false),
+        },
+      },
+      default: "roll",
+    }).render(true);
+  });
+}
+
 /* ---- Chat HTML builder ---- */
 
 function _esc(str) {
@@ -164,9 +229,11 @@ function _buildDamageChat({ weaponName, successes, totalKP, weaponSkada, skydd, 
   // Damage total
   html += `<div class="irt-damage-total">${totalKP} KP skada</div>`;
   html += `<div class="irt-damage-breakdown">`;
-  html += `<span>${successes} framgång${successes !== 1 ? "ar" : ""} + ${weaponSkada} Skada`;
-  if (skydd > 0) html += ` − ${skydd} Skydd`;
-  html += `</span></div>`;
+  const parts = [`<strong>${weaponSkada}</strong> Skada`];
+  if (successes > 0) parts.push(`+ <strong>${successes}</strong> framgång${successes !== 1 ? "ar" : ""}`);
+  if (skydd > 0) parts.push(`− <strong>${skydd}</strong> Skydd`);
+  html += `<span>${parts.join(" ")}</span>`;
+  html += `</div>`;
 
   // Critical hit
   if (twelveCount > 0 && critResult) {
