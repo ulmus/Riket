@@ -33,7 +33,7 @@ Ibland är det snarare en fråga om ett gemensamt arbete än att någon är huvu
 
 Ett vanligt exempel är om alla ska lyckas med något som att klättra eller smyga, men karaktärerna kan hjälpa varandra. Då behöver gruppen få minst en framgång per gruppmedlem. Mer framgångsrika karaktärer kan därmed kompensera för de som inte lyckas lika bra.
 
-#### Exempel: Klättra I Belgrad
+#### Exempel: Klättra i Belgrad
 
 Våra hjältar ska ta sig **över en mur** till en ambassadgård i Belgrad.
 

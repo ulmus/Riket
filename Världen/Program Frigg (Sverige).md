@@ -16,7 +16,7 @@ Rekryteringen inriktades efterhand allt mer på personer med dokumenterade traum
 
 Utfallet var i huvudsak negativt. Många försökspersoner avled under experimentens gång. Andra utvecklade svåra psykoser och bedömdes som permanent oförmögna att fungera i samhället. Dessa omhändertogs inom slutna vårdformer under strikt sekretess.
 
-Ett begränsat antal individer uppvisade däremot avvikelser – i vissa fall förmågor – som inte kunde förklaras inom dåtidens vetenskapliga ramar. Trots kvarstående psykiska problem bedömdes dessa personer som operativt användbara. Under etiketten Extra-Normativa Subjekt, ENS placerades de i statlig tjänst, tillbaka under T-kontoret, inom en särskild sektion benämnd Frigg-avdelningen. Med Lars Hedström som avdelningschef.
+Ett begränsat antal individer uppvisade däremot avvikelser – i vissa fall förmågor – som inte kunde förklaras inom dåtidens vetenskapliga ramar. Trots kvarstående psykiska problem bedömdes dessa personer som operativt användbara. Under etiketten Extra-Normala Subjekt (ENS) placerades de i statlig tjänst, tillbaka under T-kontoret, inom en särskild sektion benämnd Frigg-avdelningen, med Lars Hedström som avdelningschef.
 
 Frigg-avdelningen används sparsamt. Personalen sätts in i situationer där konventionella metoder bedöms otillräckliga, främst inom underrättelse- och säkerhetsarbete. Internt betraktas programmet som riskfyllt och svårkontrollerat, men det anses samtidigt fylla en begränsad men nödvändig funktion för att upprätthålla Sveriges säkerhet och handlingsfrihet i ett allt mer spänt internationellt läge.
 

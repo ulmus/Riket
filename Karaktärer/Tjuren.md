@@ -70,8 +70,8 @@ Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och s
 Du är tränad i att kontrollera automateld med precision.
 
 - Du kan använda **Fysik + Strid** istället för Smidighet + Strid vid automateld.
-- **Kort salva:** Spendera 1 Fokus för att göra en attack till mot ett extra mål
-- **Lång salva:** Spendera 2 Fokus för att göra en attack mot alla mål i en kon
+- **Kort salva:** Spendera 1 Fokus för att göra en attack till mot ett extra mål.
+- **Lång salva:** Spendera 2 Fokus för att göra en attack mot alla mål i en kon.
 
 ### Slagsmål (Alltid aktiv)
 
@@ -107,4 +107,4 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
 - **Rock med insydda plåtar:** Skydd 2, alla Smidighet-slag ett steg svårare.
 - **Fältförband:** +2 på Akutvård (Analys + Smidighet).
-- **Kung Gustafs sardiner:** 20 burkar
+- **Kung Gustafs sardiner:** 20 burkar.

@@ -343,7 +343,7 @@ Plötsligt hörs ett enormt krasch från nedervåningen. Golem krossar en vägg 
 
 Folk skriker. Stasi-agenter drar vapen. KGB-agenter aktiverar sina krafter. Schweiziska säkerhetsvakter försöker ingripa men slängs åt sidan som leksaker.
 
-> **Chock-slag:** *Analys + Vilja*, Chockfaktor **3** – en omänsklig varelse krossar sig genom väggen. Karaktärer med Trauma: Vanmakt eller Förlust har Chockfaktor +1.
+> **Chockslag:** *Analys + Vilja*, Chockfaktor **3** – en omänsklig varelse krossar sig genom väggen. Karaktärer med Trauma: Vanmakt eller Förlust har Chockfaktor +1.
 
 Golem rör sig direkt mot Richter, river undan alla som står i vägen. Om någon försöker skada Richter attackerar Golem dem brutalt.
 
@@ -419,7 +419,7 @@ Elisabeth är för sjuk för att fly snabbt. Hon måste bäras eller köras i ru
 
 #### Komplikationer
 
-> **Chock-slag:** *Sinnen + Vilja*, Chockfaktor **2** – Stasi omringar huset, ingen uppenbar utväg.
+> **Chockslag:** *Sinnen + Vilja*, Chockfaktor **2** – Stasi omringar huset, ingen uppenbar utväg.
 
 - **Stasi är på väg:** Volkspolizei och Stasi spårar Golem och kommer att omringa byggnaden inom 10–15 minuter. Stasi vet att Elisabeth bor här och kommer att använda henne som gisslan om det behövs för att tvinga Richter att ge upp.
 - **KGB interceptar:** KGB vet att Richter planerar att hoppa av och känner till hans hemadress. Om de anländer före spelarna har de redan säkrat huset och håller Elisabeth som gisslan. Om de anländer efter spelarna försöker de storma huset med Zvezda-agenter. KGB:s mål är att gripa Richter – Elisabeth är bara ett förhandlingsverktyg.
@@ -449,7 +449,7 @@ I källaren hålls de flesta försökspersoner – personer Stasi klassificerar 
 
 Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) möts de av en fruktansvärd plats – ett modernt helvete där människor förvandlas till vapen.
 
-> **Chock-slag:** *Analys + Vilja*, Chockfaktor **3** – operationsrum, celler, torterade fångar. Karaktärer med Trauma: Vanmakt eller Skuld har Chockfaktor +1.
+> **Chockslag:** *Analys + Vilja*, Chockfaktor **3** – operationsrum, celler, torterade fångar. Karaktärer med Trauma: Vanmakt eller Skuld har Chockfaktor +1.
 
 ### Haus an Den Birken – det övergivna huset
 
@@ -476,7 +476,7 @@ Om Golem flyr hit bär han Richter till källaren – till den plats där han en
 
 Om spelarna hittar honom här är det en möjlighet att nå fram till honom. Golem är inte aggressiv om inte Richter hotas. Han verkar nästan... ledsen.
 
-> **Chock-slag:** *Analys + Vilja*, Chockfaktor **2** – en skadad, sörjande jätte i ett mörkt rum med barnteckningar på väggarna. Karaktärer med Trauma: Förlust har Chockfaktor +1.
+> **Chockslag:** *Analys + Vilja*, Chockfaktor **2** – en skadad, sörjande jätte i ett mörkt rum med barnteckningar på väggarna. Karaktärer med Trauma: Förlust har Chockfaktor +1.
 
 Om **Yaakov** är närvarande kan det ske en känslomässig konfrontation. Yaakov inser att detta är platsen där han och Elias gömde sig. Om han pratar till Golem på jiddisch kan det väcka djupt begravda minnen.
 
@@ -500,13 +500,13 @@ Behandla detta som en **kapplöpning** (se [[Aktiviteter]]). Spelarna försöker
 
 Om jakten blir för intensiv kan Martin krascha bilen, vilket tvingar spelarna att fortsätta till fots eller hitta ett annat fordon.
 
-> **Chock-slag vid beskjutning:** *Strid + Vilja*, Chockfaktor **1** – kulor slår in i bilen under jakt.
+> **Chockslag vid beskjutning:** *Strid + Vilja*, Chockfaktor **1** – kulor slår in i bilen under jakt.
 
 #### Checkpoint Charlie
 
 Stasi kommer att per radio instruera kontrollstationerna att stänga. **Checkpoint Charlie** kan vara blockerat när spelarna kommer dit.
 
-> **Chock-slag:** *Sinnen + Vilja*, Chockfaktor **2** – flyktvägen stängd, beväpnade soldater framför, Stasi bakom. Karaktärer med Trauma: Vanmakt har Chockfaktor +1.
+> **Chockslag:** *Sinnen + Vilja*, Chockfaktor **2** – flyktvägen stängd, beväpnade soldater framför, Stasi bakom. Karaktärer med Trauma: Vanmakt har Chockfaktor +1.
 
 Spelarna kan:
 

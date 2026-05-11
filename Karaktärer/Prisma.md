@@ -94,5 +94,5 @@ Damm, dimma, snö och regn avslöjar konturer; observatörer får **+2** tärnin
 - **Magnesiumblixtrar:** Engångsbloss för att temporärt överexponera kameror/sensorer i ett rum.
 - **Mörk dräkt:** Döljer konturer, +1 på slag för att smyga i svagt ljus.
 - **Tunn vajer och sugkoppar:** +2 på Fysik + Smidighet för tyst klättring/fönsterpassage.
-- Ett set med prismor och speglar
-- En kortlek med två extra hjärter ess
+- Ett set med prismor och speglar.
+- En kortlek med två extra hjärter ess.

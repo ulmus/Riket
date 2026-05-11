@@ -73,7 +73,7 @@ Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgö
 
 KP-skadan räknas direkt från attackslaget – inget separat skadeslag behövs.
 
-**KP-skada =  Vapnets Skada + träffslagets skade-effekt − målets Skydd** (minst 0)
+**KP-skada = Vapnets Skada + träffslagets skade-effekt − målets Skydd** (minst 0)
 
 Träffslagets **skade-effekt** är överskjutande framgångar på träffslaget som karaktären valt att använda för att öka skadan. En eller flera framgångar (beroende på svårighet) går alltså åt till att träffa. Eventuella överskjutande framgångar kan användas till exempel för att öka skadan.
 
@@ -105,7 +105,7 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
 > Vakten bär **tjock rock (Skydd 1)**. KP-skada = 2 extra framgångar + 1 Skada − 1 Skydd = **2 KP**.
 > Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 2 KP – fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
-> 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8 : *Genomskjuten axel*.
+> 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
 
 ## Effekter av skada
 
@@ -138,8 +138,8 @@ Du blir **Döende** om:
 
 Du dör omedelbart om:
 
-- Du tar mer än **4 × Tålighet** KP-skada
-- En **kritisk träff** beskriver att du dör omedelbart
+- Du tar mer än **4 × Tålighet** KP-skada.
+- En **kritisk träff** beskriver att du dör omedelbart.
 
 ### Överlevnadsslag
 
@@ -161,7 +161,7 @@ Varje Överlevnadsslag:
 En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
 
 - Kräver en huvudhandling för första försöket, en minut för andra försöket och en timme för tredje försöket.
-- Varje framgång läggs till stabiliseringsframgångarna som krävs för att överleva (totalt tre)
+- Varje framgång läggs till stabiliseringsframgångarna som krävs för att överleva (totalt tre).
 
 ## Blödning
 
@@ -199,4 +199,4 @@ Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, St
 
 ## Särskilda situationer
 
-Se särskilt avsnitt för [[Särskilda situationer]]
+Se särskilt avsnitt för [[Särskilda situationer]].

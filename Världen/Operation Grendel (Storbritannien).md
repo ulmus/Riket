@@ -2,7 +2,7 @@
 cssclasses:
   - irt-image-page
 ---
-We are currently the# Operation Grendel
+# Operation Grendel
 
 Storbritannien var sena med att inleda ett eget ENS-program. Först 1955, efter att både Sovjet och USA etablerat fungerande projekt, övertygade MI6 och militären regeringen om nödvändigheten. Programmet kodnamn: Operation Grendel – en ironisk referens till det monster som Beowulf besegrade.
 
