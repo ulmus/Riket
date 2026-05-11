@@ -69,15 +69,15 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 
 > **Sammanbrottsgränser:** När din totala Stress passerar **1×B**, **2×B**, **3×B** … (där **B** är din Stabilitet) slår du på Sammanbrottstabellen.
 
-Stabilitet kan minska när karaktären utsätts för permanent trauma (14+ på Sammanbrotts-tabellen). Karaktären får då ett nytt stabilitetsvärde och endast lång tids terapi eller motsvarande kan återställa det.
+Stabilitet kan minska när karaktären utsätts för permanent trauma (13+ på Sammanbrottstabellen). Karaktären får då ett nytt stabilitetsvärde och endast lång tids terapi eller motsvarande kan återställa det.
 
 En person som når Stabilitet **0** går in i en permanent psykos eller depression.
 
 ## Chock
 
-När något skrämmande eller chockartat inträffar: slå ett **Chock-slag, Vilja + lämplig egenskap**.  
+När något skrämmande eller chockartat inträffar: slå ett **Chockslag, Vilja + lämplig egenskap**.
 
-**Chockfaktor** sätts av SL utifrån händelsen och är normalt 1-4, för varje framgång på slaget Chockslaget så minskar den ett steg. Om det som Chock-slaget avser tangerar ditt Trauma så ökar Chockfaktor med +1. För varje kvarvarande nivå av Chockfaktor så tar karaktären en poäng Stress.
+**Chockfaktor** sätts av SL utifrån händelsen och är normalt 1–4; för varje framgång på Chockslaget minskar den ett steg. Om det som Chockslaget avser tangerar ditt Trauma ökar Chockfaktorn med +1. För varje kvarvarande nivå av Chockfaktor tar karaktären en poäng Stress.
 
 *Exempel:*
 
@@ -101,7 +101,7 @@ Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns
 |   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |
 |     **5** | **Skakad** – Du rycker till av rädsla och **tappar en handling** eller **missar nästa runda**.                                                                                                                                              |
 |     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som huvudhandling.                                                              |
-|     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chock-slag (Vilja + Vilja, SF 1)**.                                     |
+|     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chockslag (Vilja + Vilja, Chockfaktor 1)**.                               |
 |     **8** | **Panikångest** – Du drabbas av panik. Beroende på situationen kan det innebära att du fryser på stället eller springer. Du måste lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda).                              |
 |     **9** | **Raseri** – Du reagerar med vansinnigt raseri, riktat mot din utrustning, dina fiender, dina vänner eller dig själv. Du attackerar någon eller något tills du lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda). |
 | **10–12** | **Traumat aktiverat** – Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]).                          |
@@ -109,7 +109,7 @@ Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns
 
 ## Förvärrat trauma
 
-När du slår 14+ på sammanbrottstabellen fördjupas ditt trauma permanent. Välj en av de listade effekterna tillsammans med SL som passar din traumakategori. Dessa effekter är bestående drag som ska spelas ut – de definierar hur din rollperson förändras av sina upplevelser.
+När du slår 13+ på Sammanbrottstabellen fördjupas ditt trauma permanent. Välj en av de listade effekterna tillsammans med SL som passar din traumakategori. Dessa effekter är bestående drag som ska spelas ut – de definierar hur din rollperson förändras av sina upplevelser.
 
 ### Förstärkta krafter
 

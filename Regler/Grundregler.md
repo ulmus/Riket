@@ -55,11 +55,11 @@ Som tillägg till Egenskaper finns **Expertis**, som representerar träning och 
 
 Varje karaktär börjar spelet med en Expertis.
 
-## Sekundära Egenskaper
+## Sekundära egenskaper
 
 - **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling.
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
-- **Stabilitet** avgör hur mycket stress en person tål, det är normalt 1-3 och börjar på **3** för rollpersoner.
+- **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
 
 ## Storlek

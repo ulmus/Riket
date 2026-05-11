@@ -65,7 +65,7 @@ Du är tränad i att kontrollera automateld med precision.
 ### Täckande eld
 
 *Krav:* Automatsalva
-Du skjuter täckande eld som hindrar fienden från att förflytta sig
+Du skjuter täckande eld som hindrar fienden från att förflytta sig.
 
 - **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
 - Kostar **1 Fokus** och 1 magasin.

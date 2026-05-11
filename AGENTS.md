@@ -32,7 +32,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Expertise (Expertis):** Reduces difficulty by one step (Normal → Easy = auto-success) and unlocks specific abilities.
 - **Secondary Stats:**
   - *Tålighet* = Fysik + Vilja.
-  - *Stabilitet* = 1 + (Vilja / 2, avrundat uppåt).
+  - *Stabilitet* = 3 (fast värde för alla rollpersoner).
   - *Förflyttning* = Fysik + Smidighet.
 
 ## Content Generation Guidelines

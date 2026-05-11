@@ -47,7 +47,7 @@
 |   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |
 |     **5** | **Skakad** – Du rycker till av rädsla och **tappar en handling** eller **missar nästa runda**.                                                                                                                                              |
 |     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som huvudhandling.                                                              |
-|     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chock-slag (Vilja + Vilja, SF 1)**.                                     |
+|     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chockslag (Vilja + Vilja, Chockfaktor 1)**.                               |
 |     **8** | **Panikångest** – Du drabbas av panik. Beroende på situationen kan det innebära att du fryser på stället eller springer. Du måste lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda).                              |
 |     **9** | **Raseri** – Du reagerar med vansinnigt raseri, riktat mot din utrustning, dina fiender, dina vänner eller dig själv. Du attackerar någon eller något tills du lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda). |
 | **10–12** | **Traumat aktiverat** – Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]).                          |
@@ -57,4 +57,4 @@
 
 - **Kort vila:** −1 Stress
 - **Stressreducerande handling** (personlig): −Stabilitet Stress
-- **Lång vila:** All Stress borta (kan minska Momentum)
+- **Lång vila:** −Stabilitet Stress (kan minska Momentum)
