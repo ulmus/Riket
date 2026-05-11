@@ -167,6 +167,12 @@ När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 p
 
 ## Taktik och stöd
 
+### Stridsträning
+
+*Krav:* Strid 3
+- +1 på slag för Initiaitiv
+- Du behöver inte slå för *Chock* i början av en strid och har ett lägre *Chock-faktor* för stridsrelaterade händelser som stupad kamrat i strid.
+
 ### Taktisk koordinering
 
 *Krav:* Analys 2, Strid 3
@@ -175,7 +181,7 @@ Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Analys + S
 ### Lagarbete
 
 *Krav:* Samspel 2
-När du hjälper en allierad och får minst 1 framgång, genererar du 1 Fokus (åt dig själv, inte allierade).
+När du hjälper en allierad och får minst 1 framgång, genererar du 1 extra Fokus (åt dig själv, inte allierade).
 
 ### Inspirera
 

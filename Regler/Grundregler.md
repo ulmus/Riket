@@ -59,7 +59,7 @@ Varje karaktär börjar spelet med en Expertis.
 
 - **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling.
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
-- **Stabilitet** avgör hur mycket stress en person tål och är lika med 1 + halva Vilja (avrundat uppåt).
+- **Stabilitet** avgör hur mycket stress en person tål, det är normalt 1-3 och börjar på **3** för rollpersoner.
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
 
 ## Storlek
@@ -92,9 +92,10 @@ Fokus är en personlig resurs som återställs inför varje scen. Fokus används
 
 ### Komplikationer
 
-Om du använt Fokus för att lägga till tärningar till ett slag och slaget ändå misslyckas så kan du drabbas av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. Exempel:
+Om du använt Fokus för att lägga till tärningar till ett slag och någon av de tärningar som du lade till visar en etta så drabbas du av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. SL avgör vad det är för komplikation. Exempel:
 
 - Eldavbrott på ditt vapen, du måste lägga en huvudhandling och lyckas med Analys + Smidighet för att återställa vapnet.
+- Om ingen lämplig komplikation passar, ta en Stress
 
 ### Stress istället för Fokus
 

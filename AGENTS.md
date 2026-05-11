@@ -91,7 +91,7 @@ Always use the following terms as defined in [[Terminologi]]:
 - **Momentum** (not "Story-Fokus") for the narrative pacing that sets starting Fokus each scene.
 - **Slag** (not "kast" or "tärningskast") for a dice roll.
 - **Svårighet** expressed as named levels: **Normalt** (1 framgång), **Svårt** (2 framgångar), **Mycket Svårt** (3 framgångar). Never use numeric "svårighet X" — always use the named levels. Omit difficulty when it is **Normalt** (the default). SL sets difficulty as a holistic judgment, not by summing individual modifiers. Use "ett steg svårare" / "två steg svårare" for relative modifiers (e.g., conditions like Sårad).
-- **Komplikation** for unexpected negative events after spending Fokus on a failed roll.
+- **Komplikation** for unexpected negative events after spending Fokus and rolling a one on the extra die.
 - **Kroppspoäng (KP)** with abbreviation in parentheses on first use, then just "KP".
 - **Stabilitet** for stress threshold.
 - **Sammanbrott** for psychological breakdown.

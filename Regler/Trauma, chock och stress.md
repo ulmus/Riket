@@ -59,8 +59,8 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 ## Återhämtning – minska Stress
 
 - **Kort vila:** ta bort **1 Stress**.
-- **Stressreducerande handling** (RP-specifik): ta bort **Stabilitet** rutor.
-- **Lång vila:** ta bort **Stabilitet** rutor (kan riskera att minska **Momentum** enligt SL).
+- **Stressreducerande handling** (RP-specifik): ta bort **Stabilitet** **Stress**.
+- **Lång vila:** ta bort **Stabilitet** **Stress** (kan riskera att minska **Momentum** enligt SL).
 - **Rollspel & stöd:** Meningsfulla scener med tröst, stöd eller terapi kan ytterligare minska Stress (se t.ex. förmågan **[[Förmågor#Terapeut|Terapeut]]**).
 
 ## Stabilitet
@@ -81,9 +81,9 @@ När något skrämmande eller chockartat inträffar: slå ett **Chock-slag, Vilj
 
 *Exempel:*
 
-- **Eldstrid** - *Strid + Vilja*, Chock **1**
+- **Eldstrid** - *Strid + Vilja*, Chock **1** (0 om du är stridstränad)
 - **Bakhåll** – *Strid + Vilja*, Chock **2**
-- **Skjuta tillbaka mot nedhållande eld** – Strid + Vilja, Chock **1** (2 om automateld, 3 om lång salva)
+- **Skjuta tillbaka mot nedhållande eld** – Strid + Vilja, Chock **1** (3 om automateld)
 - **Panik i din närhet** – *Vilja + Vilja*, Chock **1**
 - **Någon dör i strid** – *Strid + Vilja*, Chock **2** (*1 om du är stridstränad*)
 - **Någon dör utanför strid** – *Vilja + Vilja*, Chock **3**

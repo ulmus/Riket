@@ -36,7 +36,7 @@
 | Handling            | Kostnad                                         | Används för                                       |
 | ------------------- | ----------------------------------------------- | ------------------------------------------------- |
 | **Huvudhandling**   | 1 per tur                                       | Attacker, komplexa manövrar, kraftfulla effekter  |
-| **Bihandling**      | 1 per tur (eller 3 om du skippar Huvudhandling) | Sikta, röra sig, dra vapen, snabba förstärkningar |
+| **Bihandling**      | 1 per tur (eller 2 om du skippar Huvudhandling) | Sikta, röra sig, dra vapen, snabba förstärkningar |
 | **Reaktion**        | 1 per runda                                     | Försvar, motattacker, skydda allierade            |
 | **Gratis handling** | Flera                                           | Prata, tappa något, vissa förmågor                |
 

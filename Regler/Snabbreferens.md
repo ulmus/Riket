@@ -12,13 +12,13 @@
 
 - Återställs till **Momentum** varje scen
 - Spendera för att aktivera krafter och förmågor
-- Lägg till extra tärningar efter slag (1 per Fokus, en gång per slag) – misslyckat slag ger **Komplikation**
+- Lägg till extra tärningar efter slag (1 per Fokus, en gång per slag) – etta på extra tärning ger **Komplikation**
 - Har du slut på Fokus? Ta **Stress** istället (max lika med din Stabilitet)
 
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
-- **Din tur:** 1 huvudhandling + 1 bihandling + 1 reaktion
+- **Din tur:** 1 huvudhandling + 1 bihandling + 1 reaktion eller 2 bihandlingar + 1 reaktion
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
 - **Försvar (reaktion):** Smidighet + Strid, dra av framgångar från attackens
 - **Skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0)
@@ -41,16 +41,17 @@
 - **Stabilitet** = 3 för vanliga karaktärer
 - Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+2 per gräns utöver första)
 
-|  Slag | Resultat                                                                                |
-| ----: | --------------------------------------------------------------------------------------- |
-|   1–2 | **Klarsynt** – stressen fokuserar dig, +1 Fokus                                         |
-|   3–6 | **Ok** – ingen effekt                                                                   |
-|   7–8 | **Skakad** – tappar en handling eller missar nästa runda                                |
-|     9 | **Panik** – flyr i en runda, alla i närheten gör Chock-slag (1)                        |
-|    10 | **Raseri** – attackerar närmaste person i en runda, alla i närheten gör Chock-slag (2) |
-|    11 | **Förstelning** – kan inte agera förrän lyckat Vilja-slag                               |
-| 12–13 | **Trauma aktiverat** – agerar enligt trauma resten av scenen                            |
-|   14+ | **Trauma förvärrat** – som ovan, plus permanent fördjupning                             |
+|      Slag | Effekt                                                                                                                                                                                                                                      |
+| --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   **1–2** | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                                                                                |
+|   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |
+|     **5** | **Skakad** – Du rycker till av rädsla och **tappar en handling** eller **missar nästa runda**.                                                                                                                                              |
+|     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som huvudhandling.                                                              |
+|     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chock-slag (Vilja + Vilja, SF 1)**.                                     |
+|     **8** | **Panikångest** - Du drabbas av panik, beroende på situation kan det innebär att du fryser på stället eller springer. Du måste lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda).                                |
+|     **9** | **Raseri** - Du reagerar med vansinnigt raseri, riktat mot din utrustning, dina fiender, dina vänner eller dig själv. Du attackerar någon eller något tills du lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda) |
+| **10–12** | **Traumat aktiverat** – Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]).                          |
+|   **13+** | **Trauma förvärrat** – Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL. Din Stabilitet sjunker ett steg permanent.                              |
 
 ## Återhämtning
 
