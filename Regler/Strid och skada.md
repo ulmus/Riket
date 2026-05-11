@@ -43,7 +43,7 @@ En enskild försvårande faktor gör skottet normalt **Svårt**. Flera faktorer 
 
 ### Skjuta tillbaka mot nedhållande eld
 
-En karaktär som blir beskjuten och försöker skjuta tillbaka eller inte försöker ta skydd måste slå ett Chock-slag med chockvärde 1. Chockvärdet blir ett lägre om man är skjuter tillbaka från skydd, men ett högre om man beskjutes av automateld och två högre om det är lång salva eller många som skjuter.
+En karaktär som blir beskjuten och försöker skjuta tillbaka eller inte försöker ta skydd måste slå ett Chockslag med Chockfaktor 1. Chockfaktorn blir ett lägre om man skjuter tillbaka från skydd, men ett högre om man beskjuts av automateld och två högre om det är lång salva eller många som skjuter.
 
 ## Närstridsattacker
 

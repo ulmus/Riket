@@ -6,7 +6,7 @@ Mer om Program Frigg och världen i I Rikets Tjänst finns i [[Bakgrund]].
 
 För förklaring av vanliga termer i spelet, se [[Terminologi]].
 
-För en snabbstart, se [[Snabbreferens]]
+För en snabbstart, se [[Snabbreferens]].
 
 ## Grundmekanik: Egenskap + Egenskap T12or
 
@@ -55,7 +55,7 @@ Som tillägg till Egenskaper finns **Expertis**, som representerar träning och 
 
 Varje karaktär börjar spelet med en Expertis.
 
-## Sekundära Egenskaper
+## Sekundära egenskaper
 
 - **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling.
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
@@ -103,7 +103,7 @@ Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fo
 
 - Varje Stress du tar ersätter en nivå Fokus
 - Du kan bara använda lika många Stress som din Stabilitet
-- Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrotts-tabellen efter att du utfört handlingen ([[Trauma, chock och stress#Sammanbrott]])
+- Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrottstabellen efter att du utfört handlingen ([[Trauma, chock och stress#Sammanbrott]])
 
 ### Fokus till Momentum
 

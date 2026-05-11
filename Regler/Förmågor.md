@@ -65,7 +65,7 @@ Du är tränad i att kontrollera automateld med precision.
 ### Täckande eld
 
 *Krav:* Automatsalva
-Du skjuter täckande eld som hindrar fienden från att förflytta sig
+Du skjuter täckande eld som hindrar fienden från att förflytta sig.
 
 - **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
 - Kostar **1 Fokus** och 1 magasin.
@@ -170,7 +170,7 @@ När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 p
 ### Stridsträning
 
 *Krav:* Strid 3
-- +1 på slag för Initiaitiv
+- +1 på slag för Initiativ
 - Du behöver inte slå för *Chock* i början av en strid och har ett lägre *Chock-faktor* för stridsrelaterade händelser som stupad kamrat i strid.
 
 ### Taktisk koordinering
