@@ -1,12 +1,12 @@
 # Expertiser
 
-En expertis karaktäriseras av att den sänker svårigheten ett steg på aktiviteter inom expertisens område, och öppnar upp specialförmågor. Förmågor som kräver expertis beskrivs i [[Förmågor#Expertisförmågor]].
+En expertis karaktäriseras av att den **sänker svårigheten ett steg på aktiviteter inom expertisens område**, och öppnar upp specialförmågor. Förmågor som kräver expertis beskrivs i [[Förmågor#Expertisförmågor]].
 
 ## Normalt blir Lätt
 
 Eftersom expertis sänker svårigheten ett steg innebär det att **Normala** uppgifter inom ens område blir **Lätta** – karaktären lyckas automatiskt utan att slå. **Lätta** aktiviteter genererar aldrig Fokus. I vissa fall kan SL tillåta ett valfritt slag för att uppnå extra effekter, men karaktären lyckas automatiskt.
 
-Svårigheterna under varje expertis nedan visar vad aktiviteterna kostar **med** expertisen. Utan expertis är varje aktivitet ett steg svårare.
+Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **med** expertisen. Utan expertis är varje aktivitet ett steg svårare.
 
 ## Läkare
 
