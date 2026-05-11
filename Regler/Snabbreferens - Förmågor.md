@@ -76,7 +76,7 @@
 
 **Förmågor:** Fältmedicinare i strid → Stridsstabilisering  
 **Egenskaper:** Analys 3+, Smidighet 2+  
-**Expertis:** Läkare eller Fältmedicinare
+**Expertis:** Läkare eller Fältmedicinare  
 **Spelstil:** Håll teamet vid liv
 
 ### Jurist

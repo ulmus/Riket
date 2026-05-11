@@ -10,7 +10,7 @@ Projekt Nigredo var det första organiserade försöket att skapa mänskliga var
 
 **SS-Hauptsturmführer Dr. Josef Mengele** – "Dödens ängel", ansvarig för medicinska experiment i Auschwitz. Mengele såg i Projekt Nigredo en möjlighet att bevisa sina teorier om rashygien och överlägsna människors skapande. Hans metoder var så brutala att även andra SS-officerare reagerade med vämjelse.
 
-**Dr. Karin Magnussen** – Rasbiologisk forskare som bland annat piblicerat den nazistiska rasundervisningsmanualen "Ras- och befolkningspolitisk utrustning". Arbetade tillsammans med Dr. Mengele i Auschwitz.
+**Dr. Karin Magnussen** – Rasbiologisk forskare som bland annat publicerat den nazistiska rasundervisningsmanualen "Ras- och befolkningspolitisk utrustning". Arbetade tillsammans med Dr. Mengele i Auschwitz.
 
 **Erich Neumann** – Judisk psykolog och lärjunge till Carl Gustav Jung, fånge i Auschwitz. Det var Neumanns teoretiska ramverk om det jungianska skuggkomplexet som gav Nigredo dess grund. Under extremt tvång utformade han hypotesen att extrem trauma kunde tvinga psyket att manifestera sitt "skuggjag" i fysisk form. Han överlevde inte krigets slut.
 
@@ -20,7 +20,7 @@ Projekt Nigredo var det första organiserade försöket att skapa mänskliga var
 
 ## Projektets "särart"
 
-Nigredo var unikt genom sin fullständiga brist på etiska gränser. Fångar i Auschwitz – mestadels judiska barn och vuxna – utsattes för systematisk tortyr, droger, kirurgiska ingrepp, och psykologisk nedbrytning. Hypotesen var att när människan nådde absolut förtvivlan skulle dess psyke "manifestera" övermänskliga förmågor som ett överlevnadsinstinkt.
+Nigredo var unikt genom sin fullständiga brist på etiska gränser. Fångar i Auschwitz – mestadels judiska barn och vuxna – utsattes för systematisk tortyr, droger, kirurgiska ingrepp, och psykologisk nedbrytning. Hypotesen var att när människan nådde absolut förtvivlan skulle dess psyke "manifestera" övermänskliga förmågor som en överlevnadsinstinkt.
 
 Metoderna inkluderade:
 - Långvarig isolering i fullständigt mörker eller med stroboskopisk belysning
@@ -48,4 +48,4 @@ Dokumentationen från Nigredo spreds till flera håll:
 - Hedström smugglade ut en ofullständig version som blev basen för Program Frigg
 - Fragmentariska dokument hamnade i amerikanska händer via Operation Paperclip
 
-Det är Nigreos metodologi – idén att extrem stress framkallar förmågor – som ligger till grund för alla moderna ENS-program. Varje nation har försökt "humanisera" eller "vetenskapliggöra" metoderna, men den mörka kärnan kvarstår.
+Det är Nigredos metodologi – idén att extrem stress framkallar förmågor – som ligger till grund för alla moderna ENS-program. Varje nation har försökt "humanisera" eller "vetenskapliggöra" metoderna, men den mörka kärnan kvarstår.

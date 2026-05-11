@@ -170,8 +170,9 @@ När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 p
 ### Stridsträning
 
 *Krav:* Strid 3
-- +1 på slag för Initiaitiv
-- Du behöver inte slå för *Chock* i början av en strid och har ett lägre *Chock-faktor* för stridsrelaterade händelser som stupad kamrat i strid.
+
+- +1 på slag för Initiativ.
+- Du behöver inte slå för *Chock* i början av en strid och har en lägre *Chockfaktor* för stridsrelaterade händelser som stupad kamrat i strid.
 
 ### Taktisk koordinering
 
@@ -258,12 +259,12 @@ Du kan aktivera raseri som en fri handling när du tar skada. Du tar 1 Stress pe
 - Du kan inte använda Fokus
 - Du måste attackera närmaste fiende
 
-Du kan avsluta raseriet i början av din tur med ett lyckat slag för Strid+Vilja.
+Du kan avsluta raseriet i början av din tur med ett lyckat slag för Strid + Vilja.
 
 ### Sista ansträngning
 
 *Krav:* Vilja 3
-När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att stanna vid medvetande. Du kan inte spendera mer än 3 Fokus på detta sätt. Efter sista runda faller du medvetslös oavsett skadeläge.
+När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att stanna vid medvetande. Du kan inte spendera mer än 3 Fokus på detta sätt. Efter sista rundan faller du medvetslös oavsett skadeläge.
 
 ## Expertisförmågor
 
