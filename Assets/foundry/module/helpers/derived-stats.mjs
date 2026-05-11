@@ -13,11 +13,11 @@ export function calcTalighet(fysik, vilja) {
 }
 
 /**
- * Calculate Stabilitet (Stability) from Vilja.
- * Formula: 1 + ceil(Vilja / 2)
+ * Calculate Stabilitet (Stability).
+ * Fixed at 3 for all characters.
  */
-export function calcStabilitet(vilja) {
-  return 1 + Math.ceil(vilja / 2);
+export function calcStabilitet(_vilja) {
+  return 3;
 }
 
 /**
@@ -65,7 +65,6 @@ export function calcAllDerived(attrs) {
   const kpMax = calcKpMax(attrs.fysik, attrs.vilja);
   return {
     talighet,
-    stabilitet: calcStabilitet(attrs.vilja),
     forflyttning: calcForflyttning(attrs.fysik, attrs.smidighet),
     kpMax,
   };

@@ -52,7 +52,6 @@ export class IRTActorSheet extends ActorSheet {
     const attrs = system.attributes;
     context.derivedTooltips = {
       talighet: `Fysik + Vilja = ${attrs.fysik} + ${attrs.vilja} = ${system.derived.talighet}`,
-      stabilitet: `1 + ⌈Vilja / 2⌉ = 1 + ⌈${attrs.vilja} / 2⌉ = ${system.derived.stabilitet}`,
       forflyttning: `Fysik + Smidighet = ${attrs.fysik} + ${attrs.smidighet} = ${system.derived.forflyttning} m`,
       kpMax: `Fysik + Vilja = ${attrs.fysik} + ${attrs.vilja} = ${system.kp.max}`,
     };
@@ -71,7 +70,7 @@ export class IRTActorSheet extends ActorSheet {
 
     // Sammanbrott bonus
     const stress = system.stress?.value ?? 0;
-    const stabilitet = system.derived?.stabilitet ?? 0;
+    const stabilitet = system.stabilitet ?? 3;
     context.sammanbrottsBonus = calcSammanbrottsBonus(stress, stabilitet);
 
     return context;
@@ -246,7 +245,7 @@ export class IRTActorSheet extends ActorSheet {
 
   async _onSammanbrottRoll() {
     const stress = this.actor.system.stress?.value ?? 0;
-    const stabilitet = this.actor.system.derived?.stabilitet ?? 0;
+    const stabilitet = this.actor.system.stabilitet ?? 3;
     const bonus = calcSammanbrottsBonus(stress, stabilitet);
 
     const roll = new Roll(`1d12 + ${bonus}`);

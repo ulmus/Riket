@@ -7,7 +7,7 @@
  * and allows spending Focus/Stress to add more dice.
  */
 
-import { damageRoll } from "./damage-roll.mjs";
+import { damageRoll, damageRollFromAttack } from "./damage-roll.mjs";
 
 /* ---- Pure helper functions (testable without Foundry) ---- */
 
@@ -60,7 +60,7 @@ export async function attributeRoll(actor, { attr1, attr2, modifier = 0, label =
 
   // Build chat HTML
   const fokusAvailable = (actor.system.fokus.value ?? 0);
-  const stabilitet = actor.system.derived?.stabilitet ?? 0;
+  const stabilitet = actor.system.stabilitet ?? 3;
   // Serialize weapon data for chat embedding
   const weaponData = weapon ? {
     name: weapon.name,
@@ -123,7 +123,7 @@ export async function spendFokusOnRoll(rollId, amount) {
 
   const currentFokus = actor.system.fokus.value ?? 0;
   const currentStress = actor.system.stress.value ?? 0;
-  const stabilitet = actor.system.derived?.stabilitet ?? 0;
+  const stabilitet = actor.system.stabilitet ?? 3;
 
   // Split amount between Focus and Stress
   const fokusToUse = Math.min(amount, currentFokus);
@@ -139,12 +139,14 @@ export async function spendFokusOnRoll(rollId, amount) {
   await roll.evaluate();
   const newDice = roll.terms[0].results.map((r) => r.result);
   const extra = analyzeResults(newDice);
+  const complicationsFromFokus = newDice.filter((d) => d === 1).length;
 
   // Update pending data
   pending.dice.push(...newDice);
   pending.successes += extra.successes;
   pending.fokusEarned += extra.fokusEarned;
   pending.fokusSpent += amount;
+  pending.complications = (pending.complications ?? 0) + complicationsFromFokus;
 
   // Update actor resources
   const updates = {};
@@ -169,6 +171,7 @@ export async function spendFokusOnRoll(rollId, amount) {
     fokusAvailable: updatedFokus,
     stabilitet,
     weaponData: pending.weaponData,
+    complications: pending.complications ?? 0,
   });
 
   await ChatMessage.create({
@@ -224,7 +227,7 @@ function _esc(str) {
   return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 }
 
-function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent, fokusAvailable, stabilitet, weaponData = null }) {
+function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actorId, fokusSpent, fokusAvailable, stabilitet, weaponData = null, complications = 0 }) {
   let html = `<div class="irt-roll-card">`;
   html += `<div class="irt-roll-header">${_esc(rollLabel)}</div>`;
   html += `<div class="irt-roll-body">`;
@@ -260,6 +263,12 @@ function _buildRollChat({ rollLabel, dice, successes, fokusEarned, rollId, actor
   // Focus earned
   if (fokusEarned > 0) {
     html += `<div class="irt-fokus-earned">&#10022; +${fokusEarned} Fokus</div>`;
+  }
+
+  // Complications from focus dice (1s on extra dice)
+  if (complications > 0) {
+    const times = complications === 1 ? "Komplikation" : `${complications} Komplikationer`;
+    html += `<div class="irt-komplikation">&#9888; ${times} — SL avgör vad som händer.</div>`;
   }
 
   // Focus spent
@@ -312,13 +321,12 @@ export function registerChatListeners() {
       const btn = ev.currentTarget;
       const actorId = btn.dataset.actorId;
       const actor = game.actors.get(actorId) ?? null;
-      await damageRoll({
-        successes: parseInt(btn.dataset.successes) || 0,
+      await damageRollFromAttack({
+        availableSuccesses: parseInt(btn.dataset.successes) || 0,
         twelveCount: parseInt(btn.dataset.twelveCount) || 0,
         weaponSkada: parseInt(btn.dataset.weaponSkada) || 0,
         damageType: btn.dataset.damageType || "kross",
         weaponName: btn.dataset.weaponName || "Skada",
-        skydd: 0,
         penetrerande: btn.dataset.penetrerande === "true",
         actor,
       });
