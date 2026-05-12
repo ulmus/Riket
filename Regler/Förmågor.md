@@ -7,16 +7,19 @@
 #### Fäktning
 
 *Krav:* Smidighet 2, Strid 2
+
 Du får +1 på slag för Smidighet + Strid när du slåss med ett finess-vapen (närstridsvapen med egenskapen Finess).
 
 #### Fint
 
 *Krav:* Fäktning, Slagsmål eller Jujutsu (en av dessa)
-Som en bihandling kan du finta en motståndare, slå för Smidighet + Strid. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
+
+Som en bihandling kan du finta en motståndare, slå för *Smidighet + Strid*. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
 
 #### Ripost
 
 *Krav:* Fäktning eller Jujutsu
+
 Om du blir attackerad, parerar och får minst en framgång på ditt försvar så kan du spendera 1 Fokus och göra en motattack (finess-vapen med Fäktning, obeväpnad med Jujutsu).
 
 ### Obeväpnad närstrid
@@ -24,126 +27,117 @@ Om du blir attackerad, parerar och får minst en framgång på ditt försvar så
 #### Slagsmål
 
 *Krav:* Fysik 2, Strid 2
-Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Dina obeväpnade attacker har **Skada 1** istället för 0.
+
+Du får +1 på slag för *Fysik + Strid* när du slåss obeväpnad.
 
 #### Jujutsu
 
 *Krav:* Smidighet 2, Strid 2
-Du kan använda Smidighet + Strid för obeväpnade närstridsattacker och får +1 på det slaget.
+
+Du kan använda Smidighet + Strid för obeväpnade närstridsattacker och får +1 på det slaget. 
 
 #### Fällning
 
 *Krav:* Jujutsu
-Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus och en Bihandling för att fälla motståndaren.
+
+Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att fälla motståndaren.
 
 #### Fastlåsning
 
 *Krav:* Jujutsu
-Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att koppla ett grepp om personen istället för att göra skada.
+
+Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att koppla ett grepp om personen istället för att göra skada. Personen du kopplar grepp om kan inte 
 
 #### Uppercut
 
 *Krav:* Slagsmål
-Dina obeväpnade attacker får **+1 skada**.
+
+Dina obeväpnade attacker får +1 skada.
 
 ### Överraskningsattack
 
 *Krav:* Smidighet 3, Strid 2
-När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du **+2 skada** och **+1 på kritiska träff-slag**.
+
+När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 skada och +1 på kritiska träff-tabellen om du får en kritisk träff.
 
 ## Eldstrid
 
 ### Automatsalva
 
 *Krav:* Fysik 2, Strid 2, vapen med egenskapen *automateld*
-Du är tränad i att kontrollera automateld med precision.
 
-- Du kan använda **Fysik + Strid** istället för Smidighet + Strid vid automateld.
-- **Kort salva:** Spendera 1 Fokus för att göra en attack till mot ett extra mål.
-- **Lång salva:** Spendera 2 Fokus för att göra en attack mot alla mål i en kon.
+Du är tränad i att kontrollera automateld med precision. Du kan använda Fysik + Strid istället för Smidighet + Strid vid automateld. Varje framgång du använder för att träffa ett extra mål med automateld ger _också_ ett högre skada på det målet
 
 ### Täckande eld
 
 *Krav:* Automatsalva
 Du skjuter täckande eld som hindrar fienden från att förflytta sig.
 
-- **Huvudhandling:** Lägg en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
-- Kostar **1 Fokus** och 1 magasin.
+För en huvudhandling och 1 Fokus så kan du lägga en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in/igenom zonen måste slå ett Chokslag med Chockfaktor 3 (2 om de har Stridsvana) och får automatiskt en lyckad attack mot sig med en framgång och måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
 
 ### Undertryckande eld
 
 *Krav:* Täckande eld
 Din täckande eld gör det också svårt att attackera
 
-- Om du har lagt en zon med **Täckande eld** så aktiveras den även av attacker gjorda från zonen, inte bara av förflyttningar.
-- Effekten av **Undertryckande eld** kommer före effekten av den utlösande attacken.
-- Om den som attackerar tar skada från **Undertryckande eld** så avbryts automatiskt personens attack.
+Om du har lagt en zon med Täckande eld så aktiveras den även av attacker gjorda från zonen, inte bara av förflyttningar. Effekten av Undertryckande eld kommer före effekten av den utlösande attacken. Om den som attackerar tar skada från Undertryckande eld så avbryts automatiskt personens attack.
 
-*Notis:* Detta är en utvidgning av **Täckande eld** och använder samma zon och kostnader. Syftet är att kunna störa och avbryta fiendens attacker mot allierade genom att hålla dem under eld.
+Detta är en utvidgning av Täckande eld och använder samma zon och kostnader. Syftet är att kunna störa och avbryta fiendens attacker mot allierade genom att hålla dem under eld.
 
 ### Skarpskytt
 
 *Krav:* Smidighet 2, Strid 2
 
-- +1 på *Smidighet + Strid* med gevär.
-- Långt avstånd gör inte dina skott svårare.
-
-### Mästerskott
-
-*Krav:* Skarpskytt
-
-- **Huvudhandling:** Spendera **1 Fokus** för att öka skalan på din träff med ett gevär med ett.
-
-### Kallblodig träff
-
-*Krav:* Mästerskott
-
-- När du får en 12:a på en attack kan du spendera **1 Fokus** för att omedelbart göra en extra attack mot samma mål.
+Du får +1 på *Smidighet + Strid* med gevär. Långt avstånd gör inte dina attacker med gevär svårare.
 
 ### Andningskontroll
 
 *Krav:* Skarpskytt
-Om du använder din Huvudhandling för att Sikta (istället för Bihandling) får du +2 istället för +1 på nästa attack.
+
+Sikta ger dig +2 istället för +1 med gevär.
+
+### Kallblodig träff
+
+*Krav:* Andningskontroll
+
+Du kan spendera 1 Fokus efter att ha träffat för att öka skadan på din träff med ett gevär med ett.
 
 ### Pistolskytt
 
 *Krav:* Smidighet 2, Strid 2
 
-- +1 på Smidighet + Strid med pistoler.
-- Dra eller byta till pistol som gratis handling.
+Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol som gratis handling.
 
 ### Snabbskott
 
 *Krav:* Pistolskytt
 
-- **Bihandling:** Gör en extra pistolattack. Attacken är **ett steg svårare**. Kostar **1 Fokus**.
+Spendera en bihandling och 1 Fokus för att göra en pistolattack (även om du gjort en attack redan i rundan). Attacken är ett steg svårare än normalt.
 
-### Skottväxling
-
-*Krav:* Snabbskott
-
-- När du träffar med en pistolattack kan du spendera **1 Fokus** för att omedelbart göra en ny attack mot ett annat mål inom ~2 m från det första.
-
-### Granatkastare
+### Stark kastarm
 
 *Krav:* Strid 2, Smidighet 2
-+1 på attacker med kastade granater och sprängladdningar. Du får också +5 meter på kastdistans.
+
+Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdistans.
 
 ## Försvar
 
 ### Livvakt
 
 *Krav:* Fysik 2, Strid 2
+
 Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera en Reaktion för att ge dem +1 tärning på deras försvar.
 
 ### Offervilja
 
 *Krav:* Livvakt, Vilja 3
-När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus och en Reaktion för att ta all skadan själv istället. Du kan inte försvara dig mot denna skada.
+
+När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus för att ta all skadan själv istället (kan kombineras med Livvakt). Du kan inte försvara dig mot denna skada, men försvararens.
 
 ### Järnvilja
 
 *Krav:* Fysik 3, Vilja 3
+
 När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbart spendera 1 Fokus per tillståndseffekt för att ignorera den till slutet av scenen. Du tar fortfarande skadan och kan fortfarande bli Döende.
 
 ## Fältvård
@@ -156,14 +150,14 @@ Du kan ge Akutvård som en Bihandling istället för Huvudhandling under strid, 
 ### Stridsstabilisering
 
 *Krav:* Fältmedicinare i strid
+
 När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 per framgång på ditt vårdslag.
 
 ### Terapeut
 
 *Krav:* Samspel 2
 
-- +1 på Samspel i terapeutiska sammanhang
-- Du kan ha ett terapeutiskt samtal med en person. Slå List + Samspel och minska personens stress med antalet framgångar.
+Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt samtal med en person. Slå List + Samspel och minska personens stress med antalet framgångar.
 
 ## Taktik och stöd
 
@@ -171,73 +165,74 @@ När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 p
 
 *Krav:* Strid 3
 
-- +1 på slag för Initiativ.
-- Du behöver inte slå för *Chock* i början av en strid och har en lägre *Chockfaktor* för stridsrelaterade händelser som stupad kamrat i strid.
+Du får +1 på slag för Initiativ. Du behöver inte slå för *Chock* i början av en strid och har en lägre *Chockfaktor* för stridsrelaterade händelser som stupad kamrat i strid, attacker under beskjutning med mera.
 
 ### Taktisk koordinering
 
 *Krav:* Analys 2, Strid 3
-Som en Huvudhandling kan du analysera stridsläget och ge order. Slå Analys + Strid. Varje framgång ger dig en "Taktikpoäng". Du kan spendera Taktikpoäng (1:1) för att ge allierade +1 tärning på deras attacker eller försvar. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
+
+Som en Huvudhandling kan du analysera stridsläget och ge order. Slå *Analys + Strid*. Varje framgång ger dig ett Taktikpoäng. Du kan spendera Taktikpoäng för att ge allierade +1 tärning på deras attacker eller försvar om de följer dina order. Taktikpoängen är kvar striden ut. Om du använder Taktisk koordinering igen under samma strid så ersätter dina nya taktikpoäng gamla taktikpoäng (de läggs inte till). Taktikpoängen måste spenderas innan slaget och kan bara spenderas till någon som du kan kommunicera med.
 
 ### Lagarbete
 
 *Krav:* Samspel 2
-När du hjälper en allierad och får minst 1 framgång, genererar du 1 extra Fokus (åt dig själv, inte allierade).
+
+Du har +1 på alla slag för att hjälpa andra.
 
 ### Inspirera
 
 *Krav:* Samspel 3
-Som en Bihandling kan du spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måste spenderas inom en runda.
+
+Du kan spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måste spenderas inom en runda.
 
 ## Fältarbete
 
 ### Skugga
 
 *Krav:* Sinnen 2, Smidighet 2
-Du får +1 på Sinnen + Smidighet vid skuggning, spaningsuppdrag och rekognosering.
+
+Du får +1 på *List + Sinnen* vid skuggning, spaningsuppdrag och rekognosering.
 
 ### Snabbtänkt
 
 *Krav:* List 2, Samspel 2
-Du får +1 på List + Samspel när du bluffar, spelar en täckmantel eller improviserar en täckhistoria under press.
+
+Du får +1 på *List + Samspel* när du bluffar, spelar en täckmantel eller improviserar en täckhistoria under press.
 
 ### Tyst intrång
 
 *Krav:* Smidighet 2, List 2
-Du får +1 på Smidighet + Smidighet för att smyga eller ta dig in obemärkt i ett bevakat område.
+
+Du får +1 på *List + Smidighet* för att smyga eller ta dig in obemärkt i ett bevakat område.
 
 ### Skjut och kör
 
 *Krav:* Smidighet 2, Strid 2
-Du kan skjuta med enhandsvapen och köra ett fordon samtidigt utan extra svårighet. Normalt är detta minst **Svårt** — du ignorerar det avdraget.
 
-### Fingerfärdighet
+Du kan skjuta med enhandsvapen och köra ett fordon samtidigt utan extra svårighet. Normalt är detta minst Svårt.
 
-#### Magiker
+#### Fingerfärdighet
 
 *Krav:* Smidighet 2, List 2
-Du får +1 på Smidighet + List för trollerikonster, korttrick och fingerfärdighet.
 
-#### Ingenting här, ingenting där
-
-*Krav:* Magiker
-Med ett lyckat slag för Smidighet + List kan du ta ett föremål från en person utan att personen märker det. Om du misslyckas får personen slå Sinnen + Sinnen för att upptäcka försöket. Kostar **1 Fokus**.
-
-- **1 framgång:** Du kan ta ytterligare ett föremål.
+Du får +1 på *List + Smidighet* för trollerikonster, korttrick, ficktjuveri och annan fingerfärdighet.
 
 ### Förförisk
 
 *Krav:* Samspel 3
-Du har +1 på Samspel i romantiska eller förföriska sammanhang.
+
+Du har +1 på *List + Samspel* i romantiska eller förföriska sammanhang.
 
 ### Vem, jag?
 
 *Krav:* List 2, Samspel 2
+
 Spendera 1 Fokus och lyckas med List + Samspel för att framstå som helt ovetande om något som du inte vill visa att du känner till.
 
 ### Trimma
 
 *Krav:* Analys 2, Smidighet 2
+
 Trimma en teknisk pryl. Slå Analys + Smidighet — för varje framgång ökar en effekt med 50 % eller motsvarande (SL avgör). Effekten varar minst en scen. Kostar **1 Fokus**.
 
 - **+1 Fokus:** Ytterligare en effekt på samma pryl påverkas.
