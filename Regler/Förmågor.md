@@ -40,7 +40,7 @@ Om du blir attackerad, parerar och får minst en framgång på ditt försvar så
 
 *Krav:* Jujutsu
 
-Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att fälla motståndaren. En liggande motståndare har det ett steg svårare att försvara sig och måste lägga en bihandling på att resa sig.
+Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att fälla motståndaren. En liggande motståndare har alla sina handlingar i strid ett steg svårare tills den står upp igen.
 
 ### Fastlåsning
 
@@ -52,13 +52,13 @@ Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att kop
 
 *Krav:* Slagsmål
 
-Dina obeväpnade attacker får +1 Skada. Spendera 1 framgång på en träff för att också göra motståndaren omtumlad — denne förlorar sin nästa bihandling.
+Dina obeväpnade attacker får +1 Skada. Spendera 1 framgång på en träff för att också göra motståndaren omtumlad — alla deras handlingar nästa runda är ett steg svårare.
 
 ### Överraskningsattack
 
 *Krav:* Smidighet 3, Strid 2
 
-När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 Skada och +1 på den kritiska träff-tabellen om du får en kritisk träff. Spendera 1 Fokus före slaget för att också få +1 tärning på attacken — du har valt rätt ögonblick.
+När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom, får du +2 Skada och +1 på den kritiska träff-tabellen om du får en kritisk träff. Spendera 1 Fokus före slaget för att inte avslöja din position vid skottet — målets eventuella allierade förstår inte var attacken kom ifrån och du behåller överraskningsfördelen för ett till skott samma scen.
 
 ## Eldstrid
 
@@ -84,7 +84,7 @@ Din täckande eld gör det också svårt att attackera. Om du har lagt en zon me
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på *Smidighet + Strid* med gevär. Långt avstånd gör inte dina attacker med gevär svårare. Spendera 1 framgång på en träff för att också ignorera målets Skydd från terräng och täckning (inte bärd rustning) — du har hittat en lucka.
+Du får +1 på *Smidighet + Strid* med gevär. Långt avstånd gör inte dina attacker med gevär svårare. Spendera 1 framgång på en träff för att också ignorera målets Skydd från terräng och täckning (men inte buren rustning) — du har hittat en lucka.
 
 ### Andningskontroll
 
@@ -96,13 +96,13 @@ Sikta ger dig +2 istället för +1 med gevär. Spendera 1 Fokus före slaget fö
 
 *Krav:* Andningskontroll
 
-När du träffar med ett gevär kan du spendera 1 framgång för att den framgången ska ge +2 KP-skada istället för +1. Ett enda, väl placerat skott räcker långt.
+När du träffar med ett gevär kan du spendera 1 framgång på träffen för att den framgången ska ge +2 KP-skada istället för +1 — ett enda, väl placerat skott räcker långt. Bara en framgång per skott kan användas på detta sätt.
 
 ### Pistolskytt
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol som gratis handling. Spendera 1 Fokus före slaget för att skjuta från en oväntad vinkel eller medan du rör dig — du tappar inte modifikationer från instabil position eller rörelse.
+Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol som gratis handling. Spendera 1 Fokus före slaget för att skjuta och röra dig i samma rörelse — du kan förflytta dig upp till din halva Förflyttning som en del av attacken utan att det räknas som handling eller försvårar slaget.
 
 ### Snabbskott
 
@@ -114,7 +114,7 @@ Spendera en bihandling och 1 Fokus för att göra en pistolattack (även om du g
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdistans. Spendera 1 framgång på en träff för att också få vapnet att landa på en plats du anger (till exempel återvändande till handen, vid en allierad eller bakom skydd).
+Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdistans. Spendera 1 framgång på en träff för att också få vapnet att landa precis där du behöver det — vid en allierads fötter, studsa in genom ett fönster, eller hamna bakom skydd där du senare kan plocka upp det.
 
 ## Försvar
 
@@ -128,7 +128,7 @@ Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan
 
 *Krav:* Livvakt, Vilja 3
 
-När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus för att ta all skadan själv istället (kan kombineras med Livvakt). Du kan inte försvara dig mot denna skada, men eventuella reaktioner du redan lagt ned på den allierades försvar räknas.
+När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus för att ta skadan själv istället (kan kombineras med Livvakt). Det är den allierades skada efter deras eventuella försvar och Skydd som överförs — du kan inte själv försvara dig eller använda ditt eget Skydd mot den.
 
 ### Järnvilja
 
@@ -142,7 +142,7 @@ När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbar
 
 *Krav:* Expertis: Läkare eller Expertis: Fältmedicinare
 
-Du kan ge Akutvård som en bihandling istället för huvudhandling under strid, men handlingen blir ett steg svårare. Spendera 1 framgång på vårdslaget för att också flytta patienten upp till två meter i skydd som en del av samma handling.
+Du kan utföra vård även under stridsförhållanden utan att svårigheten ökar av närvaron av strid, skottlossning eller annan tidspress runt dig. Spendera 1 framgång på ett vårdslag för att också flytta patienten upp till två meter i skydd som en del av samma handling.
 
 ### Stridsstabilisering
 
@@ -154,7 +154,7 @@ När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 p
 
 *Krav:* Samspel 2
 
-Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt samtal med en person under en lugn scen — slå *List + Samspel* och minska personens Stress med antalet framgångar. Spendera 1 framgång för att också hjälpa personen att integrera ett trauma så att de inte tar Stress från liknande utlösare under nästa scen.
+Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt samtal med en person under en lugn scen — slå *Analys + Samspel* och minska personens Stress med antalet framgångar. Spendera 1 framgång för att också hjälpa personen att integrera ett trauma så att de inte tar Stress från liknande utlösare under nästa scen.
 
 ## Taktik och stöd
 
@@ -162,7 +162,7 @@ Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt sam
 
 *Krav:* Strid 3
 
-Du får +1 på slag för Initiativ. Du behöver inte slå för Chock i början av en strid och har en lägre Chockfaktor för stridsrelaterade händelser (stupad kamrat i strid, attacker under beskjutning med mera). Du räknas som *stridstränad* för regler som hänvisar till det.
+Du räknas som *stridstränad* för regler som hänvisar till det — du behöver inte slå för Chock i början av en strid och har en lägre Chockfaktor för stridsrelaterade händelser (stupad kamrat i strid, attacker under beskjutning med mera). Dessutom får du +1 på slag för Initiativ.
 
 ### Taktisk koordinering
 
@@ -188,7 +188,7 @@ Du kan spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måst
 
 *Krav:* Sinnen 2, Smidighet 2
 
-Du får +1 på *List + Sinnen* vid skuggning, spaningsuppdrag och rekognosering. Spendera 1 framgång på ett spaningsslag för att SL avslöjar en användbar detalj om målet — en vana, en mottagare av ett möte, en gömd kontakt.
+Du får +1 på *List + Sinnen* vid skuggning, spaningsuppdrag och rekognosering. Spendera 1 Fokus före slaget för att vid framgång också förutse målets nästa drag — SL berättar vart de är på väg, vem de ska träffa eller vad de planerar härnäst, även om det inte framgår av det du har observerat.
 
 ### Snabbtänkt
 
@@ -200,7 +200,7 @@ Du får +1 på *List + Samspel* när du bluffar, spelar en täckmantel eller imp
 
 *Krav:* List 2, Smidighet 2
 
-Du får +1 på *List + Smidighet* för att smyga eller ta dig in obemärkt i ett bevakat område. Spendera 1 framgång för att också lämna inga spår — vakterna upptäcker inte intrånget vid senare kontroller heller.
+Du får +1 på *List + Smidighet* för att smyga eller ta dig in obemärkt i ett bevakat område. Spendera 1 framgång för att inte lämna några spår — vakterna upptäcker inte intrånget vid senare kontroller heller.
 
 ### Skjut och kör
 
@@ -238,13 +238,13 @@ Du kan trimma en teknisk pryl. Spendera 1 Fokus och slå *Analys + Smidighet* �
 
 *Krav:* Strid 3
 
-När du skulle missa en avståndsattack kan du spendera 1 Stress för att slå om alla tärningar som missade. Detta fungerar bara en gång per slag.
+När du skulle missa en avståndsattack kan du spendera 1 Fokus för att slå om alla tärningar som missade. Detta fungerar bara en gång per slag.
 
 ### Bärsärkarraseri
 
 *Krav:* Fysik 3, Strid 3
 
-Du kan aktivera ett raseri som en fri handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt får du +2 på alla närstridsattacker och +2 Skada i närstrid, men du kan inte använda Fokus och du måste attackera närmaste fiende. Du kan avsluta raseriet i början av din tur med ett lyckat slag för *Strid + Vilja*.
+Du kan aktivera ett raseri som en fri handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt får du +2 på alla närstridsattacker och +2 Skada i närstrid, men du kan inte använda Fokus och du måste attackera närmaste fiende. Du kan försöka avsluta raseriet i början av din tur med en bihandling och ett lyckat slag för *Strid + Vilja*.
 
 ### Sista ansträngning
 
@@ -256,13 +256,15 @@ När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att s
 
 Förmågor som kräver en specifik [[Expertiser|Expertis]]. Du måste ha expertisen för att kunna välja förmågan.
 
+Många Expertis-förmågor har samma grundmönster: spendera 1 Fokus före ett relevant slag för antingen **+3 tärningar** eller för att **garantera minst en framgång** — din yrkesvana räddar dig från grova misstag. Bara 1 Fokus kan spenderas på dessa effekter per slag.
+
 ### Läkare
 
 #### Fältkirurg
 
 *Krav:* Expertis: Läkare
 
-Spendera 1 Fokus för +3 tärningar på ett vårdslag.
+Spendera 1 Fokus före ett vårdslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Lugnande närvaro
 
@@ -290,7 +292,7 @@ Dina läkemedel ger effekt omedelbart istället för efter normal väntetid.
 
 *Krav:* Expertis: Radiotekniker
 
-Spendera 1 Fokus för +3 tärningar på radioslag.
+Spendera 1 Fokus före ett radioslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Stabil länk
 
@@ -304,13 +306,13 @@ Dina radioförbindelser håller en extra runda under tidspress innan de bryts.
 
 *Krav:* Expertis: Telegrafist
 
-Spendera 1 Fokus för +3 tärningar på avlyssningsslag.
+Spendera 1 Fokus före ett avlyssningsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter. Dessutom känner du igen specifika operatörers handlag och kan identifiera kända individer som sänder.
 
 #### Morsemästare
 
 *Krav:* Expertis: Telegrafist
 
-Du kan sända och ta emot morse dubbelt så snabbt och behöver aldrig slå för att sända korrekt.
+Du kan signalera morse dolt via knackningar, blinkningar eller subtila gester. Du och en allierad som behärskar morse kan utbyta korta meddelanden inom syn- eller hörhåll utan att andra närvarande märker det.
 
 ### Kryptograf
 
@@ -318,13 +320,13 @@ Du kan sända och ta emot morse dubbelt så snabbt och behöver aldrig slå för
 
 *Krav:* Expertis: Kryptograf
 
-Spendera 1 Fokus för +3 tärningar på dekrypteringsslag.
+Spendera 1 Fokus före ett dekrypteringsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Mönsteröga
 
 *Krav:* Expertis: Kryptograf
 
-Varje framgång på dekryptering räknas som två mot scenens framgångskrav.
+Du ser mönster där andra ser brus. Varje framgång på slag för dekryptering, kodanalys eller annan ren mönstertolkning räknas som två mot scenens framgångskrav. Dessutom kan du, en gång per session, peka ut ett dolt samband, en återkommande kontakt eller ett mönster i ett spaningsmaterial utan att slå.
 
 ### Förfalskare
 
@@ -332,7 +334,7 @@ Varje framgång på dekryptering räknas som två mot scenens framgångskrav.
 
 *Krav:* Expertis: Förfalskare
 
-Spendera 1 Fokus för +3 tärningar på förfalskningsslag.
+Spendera 1 Fokus före ett förfalskningsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Perfekt patina
 
@@ -352,7 +354,7 @@ Du kan göra ett andra dyrkningsförsök på samma lås även om det första mis
 
 *Krav:* Expertis: Låssmed
 
-Du kan dyrka enkla lås som en bihandling.
+Du har snabba fingrar för all finmekanik — dyrka lås, knyta upp knutar, plocka isär eller sätta ihop enkla apparater, eller hantera vapen och utrustning under press. Du kan utföra två sådana finmotoriska handlingar för priset av en, eller hantera saker som normalt kräver båda händer med bara en hand.
 
 ### Sappör
 
@@ -360,7 +362,7 @@ Du kan dyrka enkla lås som en bihandling.
 
 *Krav:* Expertis: Sappör
 
-Spendera 1 Fokus för +3 tärningar på sprängslag.
+Spendera 1 Fokus före ett sprängslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Riktad laddning
 
@@ -374,13 +376,13 @@ Du kan alltid välja att sprängskadan inte påverkar en zon eller person du ang
 
 *Krav:* Expertis: Mekaniker
 
-Spendera 1 Fokus för att utföra en snabbreparation som en bihandling istället för huvudhandling. Reparationen är ett steg svårare.
+Spendera 1 Fokus före ett reparationsslag i fält för att slutföra en reparation på en runda istället för minuter eller timmar. Reparationen är ett steg svårare och håller bara till scenens slut.
 
 #### Provisorisk lösning
 
 *Krav:* Expertis: Mekaniker
 
-Du kan reparera ett fordon eller en maskin som en bihandling; reparationen håller till scenens slut.
+Du kan improvisera reparationer eller bygga om utrustning med vad som finns till hands — ett tändstift av en kapsyl, en antenn av en klädhängare, en strömkälla av ett bilbatteri. Du behöver inte rätt reservdelar; slå *Analys + List* för att avgöra om improvisationen håller. Resultatet håller till scenens slut.
 
 ### Elektriker
 
@@ -388,7 +390,7 @@ Du kan reparera ett fordon eller en maskin som en bihandling; reparationen håll
 
 *Krav:* Expertis: Elektriker
 
-Spendera 1 Fokus för +3 tärningar på elektriker-slag.
+Spendera 1 Fokus före ett slag för elektriska kopplingar för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Spårfri koppling
 
@@ -416,13 +418,13 @@ När du hjälper en allierad med sociala slag ger dina framgångar +2 bonustärn
 
 *Krav:* Expertis: Förhörsledare
 
-Spendera 1 Fokus för +3 tärningar på förhörsslag.
+Spendera 1 Fokus före ett förhörsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Psykologisk insikt
 
 *Krav:* Expertis: Förhörsledare
 
-När du lyckas med ett förhör tjänar du 1 Fokus.
+När du lyckas med ett förhör eller annat slag där du läser en persons sinnesstämning eller motiv (avläsa lögner, skaka motparten, övertala under press) kan du ställa SL en fråga om personens motiv, rädslor eller vad de döljer — SL svarar sanningsenligt utifrån personens perspektiv.
 
 ### Officer
 
@@ -436,7 +438,7 @@ Spendera 1 Fokus för att ge en allierad +3 tärningar på nästa attack eller f
 
 *Krav:* Expertis: Officer
 
-När du hjälper en allierad i strid ger dina framgångar +2 bonustärningar istället för +1.
+När du hjälper en allierad i strid ger dina framgångar +2 bonustärningar istället för +1. Om du också har Taktisk koordinering räknas varje framgång på ditt koordineringsslag som två Taktikpoäng.
 
 ### Chaufför
 
@@ -444,7 +446,7 @@ När du hjälper en allierad i strid ger dina framgångar +2 bonustärningar ist
 
 *Krav:* Expertis: Chaufför
 
-Spendera 1 framgång på ett körslag för att också få fordonet i en gynnsam position inför nästa runda (parallellt med målet, mellan målet och skydd, redo att accelerera).
+När du gör snabba, riskfyllda manövrar (vass sladd, halvsväng på platsen, hård gir i full fart, ducka under en bro) räknas det inte som ett extra eller försvårat slag — du gör manövern som en del av ditt vanliga körslag.
 
 #### Racerinstinkt
 
@@ -478,7 +480,7 @@ Spendera 1 framgång på ett lyckat analysslag för att ställa SL en extra frå
 
 *Krav:* Expertis: Underrättelseanalytiker
 
-När du lyckas med en analys före en operation får alla allierade +1 på sitt första slag i operationen.
+När du gör ett analysslag inför en specifik kommande scen — ett intrång, ett förhör, en strid, en undersökning — och lyckas, får alla i ditt team +1 tärning på sitt första slag i den scenen. Du har förberett dem på vad som väntar.
 
 ### Säkerhetsofficer
 
@@ -486,13 +488,13 @@ När du lyckas med en analys före en operation får alla allierade +1 på sitt 
 
 *Krav:* Expertis: Säkerhetsofficer
 
-Spendera 1 Fokus för +3 tärningar på upptäcktsslag.
+Spendera 1 Fokus före ett upptäcktsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
 
 #### Protokollkännedom
 
 *Krav:* Expertis: Säkerhetsofficer
 
-Du upptäcker alltid automatiskt uppenbara säkerhetsbrister utan att slå.
+När du befinner dig i en miljö med säkerhetsrutiner (en bevakad anläggning, en gränspassage, ett bostadsområde med vakter) noterar du automatiskt rutinmässiga brister utan att slå — schemaglapp mellan vaktbyten, dåligt installerade lås, oövervakade ingångar, slarviga rondsystem. SL beskriver vilka svaga punkter som finns.
 
 ## Bakgrundsförmågor
 
