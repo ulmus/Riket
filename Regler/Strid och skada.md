@@ -99,8 +99,6 @@ Om *flera* tärningar visar 12: slå **en gång** på tabellen och lägg till +1
 
 Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 1 KP skada gick igenom Skyddet. En 12:a ger alltid både 1 Fokus och en kritisk träff.
 
-Effekter på rad **15+** beskriver omedelbar död. Fokus, Stress eller kraftaktivering kan inte rädda dig från sådana effekter — du dör direkt enligt tabellens beskrivning.
-
 ## Exempel
 
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 2** och skadetyp **Skjutvapen**.

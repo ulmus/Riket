@@ -43,7 +43,7 @@ Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har r�
 
 | Vapen             | Räckvidd | Skada | Ammo | Skadetyp   | Egenskaper               |
 | ----------------- | -------: | ----: | ---: | ---------- | ------------------------ |
-| Pistol            |     25 m |     2 |    2 | Skjutvapen | —                        |
+| Pistol            |     25 m |     2 |    2 | Skjutvapen | –                        |
 | Tung pistol       |     25 m |     3 |    2 | Skjutvapen | Penetrerande             |
 | K-pist            |     40 m |     2 |    3 | Skjutvapen | Automateld               |
 | Automatkarbin     |     80 m |     3 |    4 | Skjutvapen | Automateld, Penetrerande |
