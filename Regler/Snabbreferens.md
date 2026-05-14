@@ -6,7 +6,7 @@
 
 - Slå **Egenskap + Egenskap** antal T12
 - **10+** = Framgång, **12** = Framgång + 1 Fokus
-- **Normalt** = 1 framgång, **Svårt** = 2, **Mycket Svårt** = 3
+- **Normal** = 1 framgång, **Svår** = 2, **Mycket Svår** = 3
 
 ## Fokus
 

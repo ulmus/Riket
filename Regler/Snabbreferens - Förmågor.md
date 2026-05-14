@@ -5,8 +5,8 @@
 | Bonustyp                   | Format                                    | Kombineras?                          | Exempel                                                     |
 | -------------------------- | ----------------------------------------- | ------------------------------------ | ----------------------------------------------------------- |
 | **Tärningsbonus**          | +X tärningar eller +X T12                 | Ja                                   | Sikta (+1), Expertis (+1), Stabil position (+1) = +3 totalt |
-| **Skada**                  | Vapnets Skada-värde (0–4)                 | Nej (bestäms av vapnet)              | Obeväpnad (0), Pistol (1), Gevär (3)                        |
-| **Svårighetsgrad**         | Normalt (1) / Svårt (2) / Mycket Svårt (3) | SL:s helhetsbedömning                | Mörker och skydd → SL bedömer **Svårt** eller **Mycket Svårt** |
+| **Skada**                  | Vapnets Skada-värde (1–6)                 | Nej (bestäms av vapnet)              | Obeväpnad (1), Pistol (2), Gevär (4), Handgranat (6)        |
+| **Svårighetsgrad**         | Normal (1) / Svår (2) / Mycket Svår (3)   | SL:s helhetsbedömning                | Mörker och skydd → SL bedömer **Svår** eller **Mycket Svår** |
 
 ## Fokus-ekonomi
 

@@ -13,7 +13,7 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**.
 | **Scen**          | En sammanhängande episod i berättelsen (strid, undersökning, förhandling)                                                                                                 |
 | **Runda**         | Ca fem sekunders speltid i strid                                                                                                                                          |
 | **Slag**          | Ett tärningskast för att avgöra utfall                                                                                                                                    |
-| **Svårighet**     | Antal framgångar som krävs: Normalt (1), Svårt (2), Mycket Svårt (3). Sätts av SL som helhetsbedömning                                                                    |
+| **Svårighet**     | Antal framgångar som krävs: Normal (1), Svår (2), Mycket Svår (3). Sätts av SL som helhetsbedömning                                                                       |
 | **Komplikation**  | Oväntad negativ händelse vid etta på slag efter att ha spenderat Fokus                                                                                                    |
 
 ## Egenskaper

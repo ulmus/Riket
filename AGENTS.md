@@ -73,7 +73,7 @@ Use bold for:
 - **Table headers** and **column names** in inline context.
 - **Action types**: **Huvudhandling**, **Bihandling**, **Reaktion**.
 - **Numeric values** that are mechanically significant (e.g., "**1 Stress**").
-- **Difficulty levels**: **Normalt**, **Svårt**, **Mycket Svårt** when specifying difficulty in rules or adventure text.
+- **Difficulty levels**: **Normal**, **Svår**, **Mycket Svår** when specifying difficulty as a named level in rules or adventure text. Inflect to **Normalt/Svårt/Mycket Svårt** (neutrum singular) or **Svåra/Mycket Svåra** (plural) when used as predicate adjective.
 
 ### Italics Usage (*text*)
 Use italics for:
@@ -90,7 +90,7 @@ Always use the following terms as defined in [[Terminologi]]:
 - **Fokus** (not "fokuspoäng") for the personal resource.
 - **Momentum** (not "Story-Fokus") for the narrative pacing that sets starting Fokus each scene.
 - **Slag** (not "kast" or "tärningskast") for a dice roll.
-- **Svårighet** expressed as named levels: **Normalt** (1 framgång), **Svårt** (2 framgångar), **Mycket Svårt** (3 framgångar). Never use numeric "svårighet X" — always use the named levels. Omit difficulty when it is **Normalt** (the default). SL sets difficulty as a holistic judgment, not by summing individual modifiers. Use "ett steg svårare" / "två steg svårare" for relative modifiers (e.g., conditions like Sårad).
+- **Svårighet** expressed as named levels: **Normal** (1 framgång), **Svår** (2 framgångar), **Mycket Svår** (3 framgångar). Never use numeric "svårighet X" — always use the named levels. Omit difficulty when it is **Normal** (the default). SL sets difficulty as a holistic judgment, not by summing individual modifiers. Use "ett steg svårare" / "två steg svårare" for relative modifiers (e.g., conditions like Sårad). When the difficulty appears as a predicate adjective with plural subject ("alla slag är minst..."), inflect to **Svåra** / **Mycket Svåra**.
 - **Komplikation** for unexpected negative events after spending Fokus and rolling a one on the extra die.
 - **Kroppspoäng (KP)** with abbreviation in parentheses on first use, then just "KP".
 - **Stabilitet** for stress threshold.

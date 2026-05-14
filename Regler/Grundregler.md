@@ -15,24 +15,24 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 - Slå ett antal T12 motsvarande **Egenskap + Egenskap +/- situationsmodifiering**.
 - Varje slag på **10+** är en framgång.
 - Varje slag på **12** ger dessutom 1 **Fokus**.
-- Minst en framgång krävs för att lyckas (**Normalt**).
-- Svårare handlingar kräver fler framgångar (**Svårt** eller **Mycket Svårt**).
+- Minst en framgång krävs för att lyckas (**Normal**).
+- Svårare handlingar kräver fler framgångar (**Svår** eller **Mycket Svår**).
 - Vissa aktiviteter är **Lätta** och kräver ingen framgång för att lyckas.
 - Ett slag kan i allmänhet bara försökas en gång. För att få slå igen krävs att någon förutsättning ändras, till exempel tid eller vem som gör det.
 - Framgångar utöver de som krävs för att lyckas kan användas till att aktivera effekter.
 
 ### Svårighetsgrader
 
-| Svårighetsgrad   | Framgångar | Beskrivning                                                                                                       |
-| ---------------- | ---------: | ----------------------------------------------------------------------------------------------------------------- |
-| **Lätt**         |          0 | Lyckas automatiskt, men vid vissa tillfällen kan ett slag tillåtas för att få effekter, dock erhålls ingen Fokus. |
-| **Normalt**      |          1 | Standardhandlingar under press                                                                                    |
-| **Svårt**        |          2 | Ogynnsamma omständigheter eller krävande uppgift                                                                  |
-| **Mycket Svårt** |          3 | Extrema förhållanden eller exceptionell uppgift                                                                   |
+| Svårighetsgrad  | Framgångar | Beskrivning                                                                                                       |
+| --------------- | ---------: | ----------------------------------------------------------------------------------------------------------------- |
+| **Lätt**        |          0 | Lyckas automatiskt, men vid vissa tillfällen kan ett slag tillåtas för att få effekter, dock erhålls ingen Fokus. |
+| **Normal**      |          1 | Standardhandlingar under press                                                                                    |
+| **Svår**        |          2 | Ogynnsamma omständigheter eller krävande uppgift                                                                  |
+| **Mycket Svår** |          3 | Extrema förhållanden eller exceptionell uppgift                                                                   |
 
-Svårighetsgraden sätts av SL som en helhetsbedömning av situationen – inte som en summa av enskilda modifierare. När flera försvårande omständigheter samverkar (till exempel mörker *och* blåst *och* rörligt mål) behöver det inte automatiskt bli svårare – SL väger helheten och avgör om det fortfarande är **Svårt** eller om det tippar över till **Mycket Svårt**.
+Svårighetsgraden sätts av SL som en helhetsbedömning av situationen — inte som en summa av enskilda modifierare. När flera försvårande omständigheter samverkar (till exempel mörker *och* blåst *och* rörligt mål) behöver det inte automatiskt bli svårare — SL väger helheten och avgör om det fortfarande är **Svår** eller om det tippar över till **Mycket Svår**.
 
-Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Lätt → Normalt → Svårt, Svårt → Mycket Svårt).
+Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Lätt → Normal → Svår, Svår → Mycket Svår).
 
 ## Egenskaper
 

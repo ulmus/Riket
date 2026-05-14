@@ -206,7 +206,7 @@ Du får +1 på *List + Smidighet* för att smyga eller ta dig in obemärkt i ett
 
 *Krav:* Smidighet 2, Strid 2
 
-Du kan skjuta med enhandsvapen och köra ett fordon samtidigt utan extra svårighet (normalt minst Svårt). Spendera 1 Fokus före slaget för att din skytt-handling inte ska räknas som en handling i fordonsturen — du kan köra som vanligt samma runda.
+Du kan skjuta med enhandsvapen och köra ett fordon samtidigt utan extra svårighet (normalt minst **Svår**). Spendera 1 Fokus före slaget för att din skytt-handling inte ska räknas som en handling i fordonsturen — du kan köra som vanligt samma runda.
 
 ### Fingerfärdighet
 

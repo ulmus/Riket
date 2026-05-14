@@ -34,7 +34,7 @@ Skada från eld beror på eldens storlek och tas varje omgång.
 
 Varje Skadevärde innebär att personen tar 1 KP skada och rullar en skadetärning. Kritiska träffar slås på tabellen för [[Kritiska träffar#Eld]]. Skydd skyddar normalt.
 
-Om du tar minst 3 KP av eldskada i en runda, är du **Brinnande**. Du fortsätter ta skada med skadevärde 3 varje runda till du släckt elden. Man kan försöka släcka elden genom att rulla runt. Det tar en huvudhandling med ett slag för *Fysik + Smidighet*. Varje framgång sänker skadevärdet ett steg.
+Om du tar minst 3 KP av eldskada i en runda **eller** drabbas av en kritisk träff som anger att du blir Brinnande (t.ex. *Brinnande kläder*, rad 4 på [[Kritiska träffar#Eld]]), så är du **Brinnande**. Du fortsätter ta skada med skadevärde 3 varje runda till du släckt elden. Man kan försöka släcka elden genom att rulla runt. Det tar en huvudhandling med ett slag för *Fysik + Smidighet*. Varje framgång sänker skadevärdet ett steg.
 
 ## Explosioner
 
@@ -59,7 +59,7 @@ Gift har ett skadevärde beroende på gifttyp. Varje nivå skadevärde ger 1 KP 
 | ------------------- | ---------- | -------- | ---------------------------------------------------- |
 | Arsenik             | 4          | Dagar    | Förtäring                                            |
 | Ricin               | 6          | Dagar    | Injektion/inandning                                  |
-| Pollonium           | 6          | Veckor   | Kritiska slag slås på [[Kritiska träffar#Strålning]] |
+| Polonium            | 6          | Veckor   | Kritiska slag slås på [[Kritiska träffar#Strålning]] |
 | Cyanid              | 8          | Minuter  | Inandning/förtäring                                  |
 | Nervgas (sarin, VX) | 8          | Sekunder | Inandning/kontakt                                    |
 
@@ -107,12 +107,17 @@ Intensiteten avgör grundskadan.
 | Kärnvapenexplosion | 12    | Omedelbart, därefter 6 per timme        |
 Skyddsutrustning skyddar, gasmask sänker strålningsdosen ett steg per timme och full skyddsdräkt sänker upp till fyra steg per timme. 
 
-Varje dygn, eller när karaktären har fått minst 5 strålningsdoser (vilket som kommer först) så utsätts karaktären för en strålskada med skadevärde motsvarande mängden stråldoser tagna hittills. Därefter återställs karaktärens strålningsdoser ner till dess permanenta strålningsdosnivå och geigermätaren fortsätter ticka.
+Varje karaktär har två värden:
 
-### Permanenta strålningsdoser
+- **Stråldos** — den aktiva ackumulerade dosen från pågående exponering.
+- **Permanent stråldos** — den baslinje som Stråldos återställs till efter ett strålskadeslag. Startar på 0.
 
-Alla resultat på 10+ i tabellen för [[Kritiska träffar#Strålning]] ger ökade *permanenta strålningsdoser*. Det innebär att så fort karaktären tar en strålningsdos så börjar nivån inte på noll utan på nivån för permanenta strålningsdoser.
+Varje dygn, eller när Stråldos når **5** (vilket som kommer först), utsätts karaktären för en **strålskada** med skadevärde lika med nuvarande Stråldos. Slå skada och eventuell kritträff på [[Kritiska träffar#Strålning]]. Därefter återställs Stråldos till nivån för Permanent stråldos och fortsätter byggas upp igen från det värdet.
+
+### Permanent stråldos
+
+Vissa resultat på [[Kritiska träffar#Strålning]] höjer **Permanent stråldos** (anges på raden, t.ex. *"Stråldosen ökar med ett efter återställning"*). Det innebär att karaktärens framtida exponeringar börjar från en högre baslinje — varje ny dos lägger sig ovanpå Permanent stråldos.
 
 ### Cancer
 
-Varje år så ska karaktären slå lika många T12 som sina permanenta strålningsdoser. Om minst en av tärningarna visar en tolva så har karaktären fått någon form av cancer. Tolvorna räknas kumulativt över åren och leder till accelererande cancer-diagnos. En tolva innebär en långsamväxande, men malign cancer, dödlig inom 3-5 år om den inte behandlas. Med två tolvor så är den dödlig inom 12-24 månader och därefter accelererar det. SL avgör vilken sorts cancer och om karaktären upplever några symtom.
+Varje år slår karaktären lika många T12 som sin Permanenta stråldos. Om minst en tärning visar en tolva har karaktären fått någon form av cancer. Tolvorna räknas kumulativt över åren och leder till accelererande cancer-diagnos. En tolva innebär en långsamväxande, men malign cancer, dödlig inom 3–5 år om den inte behandlas. Med två tolvor är den dödlig inom 12–24 månader och därefter accelererar det. SL avgör vilken sorts cancer och om karaktären upplever några symtom.
