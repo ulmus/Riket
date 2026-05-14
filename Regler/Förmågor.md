@@ -256,7 +256,7 @@ När du blir Medvetslös kan du omedelbart spendera 1 Fokus per runda för att s
 
 Förmågor som kräver en specifik [[Expertiser|Expertis]]. Du måste ha expertisen för att kunna välja förmågan.
 
-Många Expertis-förmågor har samma grundmönster: spendera 1 Fokus före ett relevant slag för antingen **+3 tärningar** eller för att **garantera minst en framgång** — din yrkesvana räddar dig från grova misstag. Bara 1 Fokus kan spenderas på dessa effekter per slag.
+Många Expertis-förmågor har samma grundmönster: spendera 1 Fokus före ett relevant slag för **+3 tärningar**. Bara 1 Fokus kan spenderas på det sättet per slag.
 
 ### Läkare
 
@@ -264,7 +264,7 @@ Många Expertis-förmågor har samma grundmönster: spendera 1 Fokus före ett r
 
 *Krav:* Expertis: Läkare
 
-Spendera 1 Fokus före ett vårdslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett vårdslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Lugnande närvaro
 
@@ -292,7 +292,7 @@ Dina läkemedel ger effekt omedelbart istället för efter normal väntetid.
 
 *Krav:* Expertis: Radiotekniker
 
-Spendera 1 Fokus före ett radioslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett radioslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Stabil länk
 
@@ -306,13 +306,13 @@ Dina radioförbindelser håller en extra runda under tidspress innan de bryts.
 
 *Krav:* Expertis: Telegrafist
 
-Spendera 1 Fokus före ett avlyssningsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter. Dessutom känner du igen specifika operatörers handlag och kan identifiera kända individer som sänder.
+Spendera 1 Fokus före ett avlyssningsslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt. Dessutom känner du igen specifika operatörers handlag och kan identifiera kända individer som sänder.
 
 #### Morsemästare
 
 *Krav:* Expertis: Telegrafist
 
-Du kan signalera morse dolt via knackningar, blinkningar eller subtila gester. Du och en allierad som behärskar morse kan utbyta korta meddelanden inom syn- eller hörhåll utan att andra närvarande märker det.
+Du kan tolka även förvanskad, störd eller delvis hörbar morse där andra bara hör brus. Dessutom kan du och en annan med Expertis: Telegrafist eller Morsemästare utbyta meddelanden på en bråkdel av normal sändningstid genom gemensam shorthand — användbart när tid eller sändningsfönster är knappt.
 
 ### Kryptograf
 
@@ -320,7 +320,7 @@ Du kan signalera morse dolt via knackningar, blinkningar eller subtila gester. D
 
 *Krav:* Expertis: Kryptograf
 
-Spendera 1 Fokus före ett dekrypteringsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett dekrypteringsslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Mönsteröga
 
@@ -334,7 +334,7 @@ Du ser mönster där andra ser brus. Varje framgång på slag för dekryptering,
 
 *Krav:* Expertis: Förfalskare
 
-Spendera 1 Fokus före ett förfalskningsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett förfalskningsslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Perfekt patina
 
@@ -354,7 +354,7 @@ Du kan göra ett andra dyrkningsförsök på samma lås även om det första mis
 
 *Krav:* Expertis: Låssmed
 
-Du har snabba fingrar för all finmekanik — dyrka lås, knyta upp knutar, plocka isär eller sätta ihop enkla apparater, eller hantera vapen och utrustning under press. Du kan utföra två sådana finmotoriska handlingar för priset av en, eller hantera saker som normalt kräver båda händer med bara en hand.
+När du dyrkar lås, öppnar kassaskåp eller forcerar mekaniska säkerhetslösningar tar uppgiften en tidsklass kortare än normalt (timmar → minuter, minuter → sekunder). Spendera 1 Fokus för att vid framgång inte heller lämna spår — säkerhetsanordningen ser orörd ut efteråt.
 
 ### Sappör
 
@@ -362,7 +362,7 @@ Du har snabba fingrar för all finmekanik — dyrka lås, knyta upp knutar, ploc
 
 *Krav:* Expertis: Sappör
 
-Spendera 1 Fokus före ett sprängslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett sprängslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Riktad laddning
 
@@ -390,7 +390,7 @@ Du kan improvisera reparationer eller bygga om utrustning med vad som finns till
 
 *Krav:* Expertis: Elektriker
 
-Spendera 1 Fokus före ett slag för elektriska kopplingar för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett slag för elektriska kopplingar för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Spårfri koppling
 
@@ -418,13 +418,13 @@ När du hjälper en allierad med sociala slag ger dina framgångar +2 bonustärn
 
 *Krav:* Expertis: Förhörsledare
 
-Spendera 1 Fokus före ett förhörsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett förhörsslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Psykologisk insikt
 
 *Krav:* Expertis: Förhörsledare
 
-När du lyckas med ett förhör eller annat slag där du läser en persons sinnesstämning eller motiv (avläsa lögner, skaka motparten, övertala under press) kan du ställa SL en fråga om personens motiv, rädslor eller vad de döljer — SL svarar sanningsenligt utifrån personens perspektiv.
+Spendera 1 Fokus före ett förhör för att etablera en avväpnande, vänlig stämning — bjuda på kaffe, småprat om vädret, en personlig anekdot. Alla involverade i förhörs-scenen, inklusive den förhörde, får +1 på alla slag som involverar Samspel under scenen.
 
 ### Officer
 
@@ -436,9 +436,9 @@ Spendera 1 Fokus för att ge en allierad +3 tärningar på nästa attack eller f
 
 #### Fältbefäl
 
-*Krav:* Expertis: Officer
+*Krav:* Expertis: Officer, Taktisk koordinering
 
-När du hjälper en allierad i strid ger dina framgångar +2 bonustärningar istället för +1. Om du också har Taktisk koordinering räknas varje framgång på ditt koordineringsslag som två Taktikpoäng.
+Varje framgång på ditt slag för Taktisk koordinering ger två Taktikpoäng istället för en — dina order är extra slagkraftiga och allas insatser samordnas mer effektivt än vanligt.
 
 ### Chaufför
 
@@ -446,13 +446,13 @@ När du hjälper en allierad i strid ger dina framgångar +2 bonustärningar ist
 
 *Krav:* Expertis: Chaufför
 
-När du gör snabba, riskfyllda manövrar (vass sladd, halvsväng på platsen, hård gir i full fart, ducka under en bro) räknas det inte som ett extra eller försvårat slag — du gör manövern som en del av ditt vanliga körslag.
+Spendera 1 Fokus för att utföra en snabb, riskfylld manöver utan slag — en vass sladd, en halvsväng på platsen, en hård gir i full fart eller att ducka under en bro. Manövern lyckas automatiskt så länge den är fysiskt möjlig för fordonet.
 
 #### Racerinstinkt
 
 *Krav:* Expertis: Chaufför
 
-I en jakt eller kapplöpning räknas din första framgång varje runda som två.
+I en jakt eller kapplöpning kan du spendera 1 Fokus för att förutse motståndarens manöver — du tar din runda efter dem som vanligt, men din handling räknas som om du gått före. Du kan reagera på deras drag och ändå utföra ditt eget först.
 
 ### Pilot
 
@@ -460,7 +460,7 @@ I en jakt eller kapplöpning räknas din första framgång varje runda som två.
 
 *Krav:* Expertis: Pilot
 
-Spendera 1 Fokus före en flygmanöver eller landning för att slå med +2 tärningar och dessutom hålla planet i luften även vid misslyckande — du får ett nödslag till nästa runda.
+Spendera 1 Fokus före en flygmanöver eller landning för att slå med +2 tärningar. Om slaget ändå misslyckas håller planet sig i luften och du får ett nödslag nästa runda för att rätta till situationen. Förmågan kan bara aktiveras en gång per slag — du kan inte kedja flera nödslag på samma misslyckande.
 
 #### Stridspilot
 
@@ -474,13 +474,13 @@ Under beskjutning eller turbulens behöver du inte slå extra slag för att hål
 
 *Krav:* Expertis: Underrättelseanalytiker
 
-Spendera 1 framgång på ett lyckat analysslag för att ställa SL en extra fråga om situationen, dess aktörer eller dolda samband.
+När du har lyckats med ett analysslag på underrättelsematerial, dokument eller spaningsrapporter kan du, en gång per scen, peka ut en dold koppling mellan något du upptäckt och en annan känd faktor — en gemensam kontakt, ett återkommande mönster, ett motsägelsefullt detalj som avslöjar en agenda. SL berättar vad du sett.
 
 #### Förvarning
 
 *Krav:* Expertis: Underrättelseanalytiker
 
-När du gör ett analysslag inför en specifik kommande scen — ett intrång, ett förhör, en strid, en undersökning — och lyckas, får alla i ditt team +1 tärning på sitt första slag i den scenen. Du har förberett dem på vad som väntar.
+Innan en specifik kommande scen — ett intrång, ett förhör, en strid, en undersökning — kan du genom analys av tillgänglig information få veta en konkret kritisk detalj som ditt team annars hade upptäckt först på plats: en vakt mer än väntat, en hemlig utgång, ett byte av personal, en tidskänslig faktor. Slå *Analys + Sinnen* — vid framgång berättar SL en sådan detalj, plus en till per extra framgång.
 
 ### Säkerhetsofficer
 
@@ -488,13 +488,13 @@ När du gör ett analysslag inför en specifik kommande scen — ett intrång, e
 
 *Krav:* Expertis: Säkerhetsofficer
 
-Spendera 1 Fokus före ett upptäcktsslag för antingen +3 tärningar eller för att garantera minst en framgång. Bara 1 Fokus per slag på dessa effekter.
+Spendera 1 Fokus före ett upptäcktsslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
 #### Protokollkännedom
 
 *Krav:* Expertis: Säkerhetsofficer
 
-När du befinner dig i en miljö med säkerhetsrutiner (en bevakad anläggning, en gränspassage, ett bostadsområde med vakter) noterar du automatiskt rutinmässiga brister utan att slå — schemaglapp mellan vaktbyten, dåligt installerade lås, oövervakade ingångar, slarviga rondsystem. SL beskriver vilka svaga punkter som finns.
+När du befinner dig i en miljö med säkerhetsrutiner (en bevakad anläggning, en gränspassage, ett bostadsområde med vakter) kan du spendera 1 Fokus för att vid en kort observation, utan slag, notera rutinmässiga brister — schemaglapp mellan vaktbyten, dåligt installerade lås, oövervakade ingångar, slarviga rondsystem. SL beskriver vilka svaga punkter som finns.
 
 ## Bakgrundsförmågor
 
@@ -508,4 +508,4 @@ Utöver dina grundspråk kan du välja ytterligare ett språk per nivå i Analys
 
 *Krav:* Samspel 2
 
-Du har +1 på Samspel med djur. Spendera 1 Fokus för att låta ett djur du etablerat kontakt med utföra en enkel tjänst åt dig under en scen — avleda en vakt, bära ett kort meddelande, leta upp en bekant plats.
+Du har +1 på slag som involverar Samspel med djur. Spendera 1 Fokus för att låta ett djur du etablerat kontakt med utföra en enkel tjänst åt dig under en scen — avleda en vakt, bära ett kort meddelande, leta upp en bekant plats.
