@@ -4,27 +4,21 @@ I flera av dessa situationer anges att man ska slå **skadetärningar**. Dessa s
 
 ## Fallskada
 
-Fall över två meter kan ge fallskada. Grundskadan beror på fallets höjd:
+Den som faller riskerar att ta fallskada. Grundskadan och skadetärningarna beror på fallets höjd och underlaget. För varje full fallängd tar karaktären 1 KP skada och slår en skadetärning.
 
-| Fallhöjd | Grundskada |
-| -------- | ---------- |
-| 2 meter  | 1          |
-| 3 meter  | 2          |
-| 4 meter  | 3          |
-| +1 meter | +1         |
+Kritiska träffar slås på [[Kritiska träffar#Kross]].
 
-Utöver det så slås ett antal skadetärningar. Kritiska träffar blir på [[Kritiska träffar#Kross]] eller [[Kritiska träffar#Stick]] beroende på underlag.
+| Underlag                           | Fallängd / skada | Kritiska träffar |
+| ---------------------------------- | ---------------- | ---------------- |
+| Mjukt (snö, sand, buskage, vatten) | 3 meter          | Kross            |
+| Normalt (gräs, jord)               | 2 meter          | Kross            |
+| Hårt (betong, sten)                | 1 meter          | Kross            |
 
-| Underlag                  | Skadetärningar | Kritiska träffar |
-| ------------------------- | -------------- | ---------------- |
-| Mjukt (snö, sand, vatten) | 2              | Kross            |
-| Normalt (gräs, jord)      | 4              | Kross            |
-| Hårt (betong, sten)       | 6              | Kross            |
-| Vasst (taggtråd, spjut)   | 8              | Stick            |
+Karaktären kan försöka minska skadan genom att rulla med fallet och slår då **Fysik + Smidighet** och får minska fallet med lika många fallängder som framgångar.
 
-Karaktären kan försöka minska detta genom att rulla med fallet och slår då **Fysik + Smidighet** och får dra av lika många KP som framgångar.
+Den som **landar i vatten** kan minska fallet med två fallängder per framgång av slag för **Fysik + Smidighet** istället för en fallängd.
 
-**KP-skada = grundskada + skadetärningar − framgångar på Fysik + Smidighet − Skydd** (minst 0).
+Den som **landar på något vasst** och tar en Kritisk träff slår en extra Kritisk träff med samma bonus på [[Kritiska träffar#Stick]]
 
 ## Eldskada
 
