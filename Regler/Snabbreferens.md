@@ -31,7 +31,7 @@
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad
 - **Död** (> 4 × Tålighet KP): Död
-- **Vapnets Skada** läggs till KP-skadan och till kritisk träff-slaget (dubbelt med Penetrerande)
+- **Vapnets Skada** läggs till KP-skadan. Vid **Penetrerande** vapen läggs Skada också till kritisk träff-slaget.
 - **Kritiska sår**: Enligt effekt på tabellen
 
 ## Stress och Sammanbrott
