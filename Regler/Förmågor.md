@@ -148,13 +148,13 @@ Du kan utföra vård även under stridsförhållanden utan att svårigheten öka
 
 *Krav:* Fältmedicinare i strid
 
-När du stabiliserar en Döende allierad minskar du också dennes Stress med 1 per framgång på ditt vårdslag.
+När du stabiliserar en Döende allierad läker denne också ett KP per framgång på slaget.
 
 ### Terapeut
 
 *Krav:* Samspel 2
 
-Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt samtal med en person under en lugn scen — slå *Analys + Samspel* och minska personens Stress med antalet framgångar. Spendera 1 framgång för att också hjälpa personen att integrera ett trauma så att de inte tar Stress från liknande utlösare under nästa scen.
+Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt samtal med en person under en lugn scen — slå *Analys + Samspel* och minska personens Stress med antalet framgångar.
 
 ## Taktik och stöd
 
