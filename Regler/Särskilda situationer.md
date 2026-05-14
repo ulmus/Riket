@@ -24,7 +24,7 @@ Den som **landar på något vasst** och tar en Kritisk träff slår en extra Kri
 
 Skada från eld beror på eldens storlek och tas varje omgång.
 
-| Eldens storlek   | Grundskada |
+| Eldens storlek   | Skadevärde |
 | ---------------- | ---------- |
 | Fackla           | 1          |
 | Eldstad          | 2          |
@@ -32,73 +32,53 @@ Skada från eld beror på eldens storlek och tas varje omgång.
 | Brinnande rum    | 4          |
 | Eldinferno       | 5          |
 
-Utöver det så slås ett antal skadetärningar baserat på eldens intensitet, kritiska träffar blir på [[Kritiska träffar#Eld]]
+Varje Skadevärde innebär att personen tar 1 KP skada och rullar en skadetärning. Kritiska träffar slås på tabellen för [[Kritiska träffar#Eld]]. Skydd skyddar normalt.
 
-| Eldens intensitet | Skadetärningar |
-| ----------------- | -------------- |
-| Låga              | 2              |
-| Öppen eld         | 4              |
-| Svetslåga         | 6              |
-| Napalm            | 8              |
-### Brinnande
-
-Om du tar minst 2 KP av eldskada och inte lyckades släcka elden, är du **Brinnande**. I början av varje runda tar du automatiskt KP-skada baserat på eldens intensitet och omfattning (se tabellerna ovan). Du kan släcka elden som en handling (kasta dig på marken, hoppa i vatten, etc.).
+Om du tar minst 3 KP av eldskada i en runda, är du **Brinnande**. Du fortsätter ta skada med skadevärde 3 varje runda till du släckt elden. Man kan försöka släcka elden genom att rulla runt. Det tar en huvudhandling med ett slag för *Fysik + Smidighet*. Varje framgång sänker skadevärdet ett steg.
 
 ## Explosioner
 
 En explosions skada beror på styrkan i explosionen:
 
-| Explosionstyp             | Skada |
-| ------------------------- | ----- |
-| Handgranat, mindre bomb   | 4     |
-| Dynamitladdning, granat   | 6     |
-| Block C4, stor bomb       | 8     |
-| Bilbomb, tungt sprängämne | 10    |
+| Explosionstyp             | Skadevärde |
+| ------------------------- | ---------- |
+| Handgranat, mindre bomb   | 4          |
+| Dynamitladdning, granat   | 6          |
+| Block C4, stor bomb       | 8          |
+| Bilbomb, tungt sprängämne | 10         |
 
-Skadan minskar med 1 efter två meter och sedan med ytterligare 1 för varje dubbling av avståndet från explosionspunkten.
+För varje skadevärde så tar målet 1 KP skada och slår en skadetärning. Skadevärdet minskar med 1 efter två meter (fem meter om det är en splitterbomb) och sedan med ytterligare 1 för varje dubblering av avståndet från explosionspunkten. Kritiska träffar slås på [[Kritiska träffar#Explosion]].
 
-Beroende på omständigheterna slås också ett antal skadetärningar. Dessa fungerar som ett Lätt attackslag, dvs det träffar automatiskt och varje framgång ger +1 skada. 12:or ger kritisk träff på Explosions-tabellen. 
-
-| Miljö          | Skadetärningar |
-| -------------- | -------------- |
-| Person i skydd | 2              |
-| Öppen mark     | 4              |
-| Öppna väggar   | 6              |
-| Slutna rum     | 8              |
-| Splitter       | +4             |
+Explosion i ett trångt utrymme *dubblar* skadevärdet. Solitt skydd mellan dig och explosionen *halverar* skadevärdet.
 
 ## Gift
 
-Giftets styrka avgör grundskadan för den minsta dödliga dosen. Minsta dödliga dos har grundskada 2, varje extra dos ökar skadan med +1.
+Gift har ett skadevärde beroende på gifttyp. Varje nivå skadevärde ger 1 KP skada och en skadetärning. Varje dubblering av dosen ger +1 i skadevärde. Kritiska träffar sker på [[Kritiska träffar#Gift]].
 
-Ett antal skadetärningar slås beroende på gifttyp. Kritiska träffar sker på [[Kritiska träffar#Gift]].
-
-| Gift                | Skadetärningar | Anslag     | Noter               |
-| ------------------- | -------------- | ---------- | ------------------- |
-| Arsenik             | 4              | 1 dag      | Förtäring           |
-| Cyanid              | 6              | 1 minut    | Inandning/förtäring |
-| Nervgas (sarin, VX) | 8              | Omedelbart | Inandning/kontakt   |
-
-Kemdräkter och gasmask kan skydda helt (immun) eller delvis (halvera grundskadan, avrunda uppåt).
+| Gift                | Skadevärde | Anslag   | Noter                                                |
+| ------------------- | ---------- | -------- | ---------------------------------------------------- |
+| Arsenik             | 4          | Dagar    | Förtäring                                            |
+| Ricin               | 6          | Dagar    | Injektion/inandning                                  |
+| Pollonium           | 6          | Veckor   | Kritiska slag slås på [[Kritiska träffar#Strålning]] |
+| Cyanid              | 8          | Minuter  | Inandning/förtäring                                  |
+| Nervgas (sarin, VX) | 8          | Sekunder | Inandning/kontakt                                    |
 
 ## Sömnmedel
 
 Sömnmedel syftar till att söva offret, men har alltid en dödsrisk vid höga doser.
 
-### Dos och effekt
-
 Slå 1T12 när sömnmedlet får effekt:
 
 | Sömnmedel    | Somnar | Döende | Anslag      |
 | ------------ | ------ | ------ | ----------- |
-| Kloroform    | 6+     | 11     | 1 minut     |
-| Barbiturater | 5+     | 12     | 10 minuter  |
-| Tiopental    | 4+     | 12     | 30 sekunder |
-| Morfin       | 8+     | 11     | 10 minuter  |
+| Kloroform    | 6+     | 11+    | 1 minut     |
+| Barbiturater | 5+     | 12+    | 10 minuter  |
+| Tiopental    | 4+     | 12+    | 30 sekunder |
+| Morfin       | 8+     | 11+    | 10 minuter  |
 
 **Dos:** Varje extra dos sänker båda trösklarna med 1. Vid dubbel dos somnar man alltså lättare, men risken att dö ökar också.
 
-- Om tärningen når **Döende-tröskeln** får offret andningsstillestånd och är **Döende**.
+- Om tärningen når **Döende-tröskeln** får offret andningsstillestånd och är **Döende** (om de inte befinner sig i en respirator).
 - Om tärningen når **Somnar-tröskeln** somnar offret.
 - Annars blir offret **Påverkad** (alla handlingar ett steg svårare) men tar ingen skada.
 
@@ -106,36 +86,33 @@ Slå 1T12 när sömnmedlet får effekt:
 
 ### Medicinsk kunskap
 
-Att beräkna rätt dos är ett slag för **Analys + Sinnen** (görs lättare av rätt Expertis, till exempel Läkare eller Apotekare). Om det lyckas höjs Döende-tröskeln med 1 per framgång, utan att påverka Somnar-tröskeln.
+Att beräkna rätt dos är ett slag för **Analys + Sinnen** (görs lättare av rätt Expertis, till exempel Läkare eller Apotekare). Om det lyckas höjs Döende-tröskeln med 1 per framgång, utan att påverka Somnar-tröskeln. Notera att för Apotekare och Läkare så är detta ett Lätt slag och de har alltså 1 automatisk framgång.
 
 ### Varaktighet
 
-Ett sövt offer vaknar efter 1T12 × 10 minuter och är **Påverkad** (alla handlingar ett steg svårare) i en timme.
+Ett sövt offer vaknar efter 2T12 minuter och är **Påverkad** (alla handlingar ett steg svårare) i en timme.
 
 ## Strålning
 
-En person som utsätts för strålning tar skada där grundskadan beror på strålningens intensitet och skadetärningarna på exponeringens längd. I allmänhet räknas skadan efter att exponeringen är slut, eftersom strålsjukans symptom manifesteras fördröjt. Kritiska träffar slås på [[Kritiska träffar#Strålning]].
+En person som utsätts för strålning tar skada beroende på strålningsdos och exponeringstid. Varje timme som tillbringas i ett bestrålat område får karaktären **Strålningsdos** beroende på strålningsintensiteten I allmänhet räknas skadan efter att exponeringen är slut, eftersom strålsjukans symptom manifesteras fördröjt. Kritiska träffar slås på [[Kritiska träffar#Strålning]].
 
 Intensiteten avgör grundskadan.
 
-| Intensitet | Skada | Exempel                                 |
-| ---------- | ----- | --------------------------------------- |
-| Svag       | 0     | Bakgrundsnivå, avlägsna källor          |
-| Måttlig    | 2     | Förorenat område, trasig röntgenapparat |
-| Kraftig    | 4     | Reaktorläcka, bränslestav i närheten    |
-| Extrem     | 6     | Inuti härden, atombombens epicentrum    |
+| Intensitet         | Skada | Exempel                                 |
+| ------------------ | ----- | --------------------------------------- |
+| Svag               | 0     | Bakgrundsnivå, avlägsna källor          |
+| Måttlig            | 2     | Förorenat område, trasig röntgenapparat |
+| Kraftig            | 4     | Reaktorläcka, bränslestav i närheten    |
+| Extrem             | 8     | Reaktorhärd, krater från kärnvapen      |
+| Kärnvapenexplosion | 12    | Omedelbart, därefter 6 per timme        |
+Skyddsutrustning skyddar, gasmask sänker strålningsdosen ett steg per timme och full skyddsdräkt sänker upp till fyra steg per timme. 
 
-Exponeringstiden avgör skadetärningar.
+Varje dygn, eller när karaktären har fått minst 5 strålningsdoser (vilket som kommer först) så utsätts karaktären för en strålskada med skadevärde motsvarande mängden stråldoser tagna hittills. Därefter återställs karaktärens strålningsdoser ner till dess permanenta strålningsdosnivå och geigermätaren fortsätter ticka.
 
-| Exponeringstid | Skadetärningar |
-| -------------- | -------------- |
-| Sekunder       | 2              |
-| Minuter        | 4              |
-| Timmar         | 6              |
-| Dagar          | 8              |
+### Permanenta strålningsdoser
 
-Vanlig rustning och kläder ger inget skydd mot strålning. Specifika strålskydd – blyförkläde, tjock betongvägg eller strålskyddsdräkt – halverar grundskadan (avrunda uppåt); fullständigt inneslutet skydd (bunker, blyrum) ger immunitet.
+Alla resultat på 10+ i tabellen för [[Kritiska träffar#Strålning]] ger ökade *permanenta strålningsdoser*. Det innebär att så fort karaktären tar en strålningsdos så börjar nivån inte på noll utan på nivån för permanenta strålningsdoser.
 
-### Strålsjuka
+### Cancer
 
-Strålsjuka manifesteras sällan omedelbart. SL kan välja att låta KP-skadan slå igenom timmar eller dagar efter exponeringen, och kritiska träffars effekter (illamående, håravfall, benmärgsskada, organsvikt) kan utvecklas över loppet av minuter, timmar eller veckor beroende på effektens svårighet.
+Varje år så ska karaktären slå lika många T12 som sina permanenta strålningsdoser. Om minst en av tärningarna visar en tolva så har karaktären fått någon form av cancer. Tolvorna räknas kumulativt över åren och leder till accelererande cancer-diagnos. En tolva innebär en långsamväxande, men malign cancer, dödlig inom 3-5 år om den inte behandlas. Med två tolvor så är den dödlig inom 12-24 månader och därefter accelererar det. SL avgör vilken sorts cancer och om karaktären upplever några symtom.
