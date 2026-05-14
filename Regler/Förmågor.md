@@ -242,7 +242,8 @@ Trimma en teknisk pryl. Slå Analys + Smidighet — för varje framgång ökar e
 ### Desperat skott
 
 *Krav:* Strid 3
-När du skulle missa en avståndsattack kan du spendera 1 Stress för att slå om alla tärningar som missade. Detta fungerar bara en gång per slag.
+
+När du skulle missa en avståndsattack kan du spendera 1 Fokus för att slå om alla tärningar som missade. Detta fungerar bara en gång per slag.
 
 ### Bärsärkarraseri
 
