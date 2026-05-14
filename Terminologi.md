@@ -66,7 +66,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Kritisk träff** | – | 12:a på attackslaget; utlöser effekt på kritisk-tabellen (och ger 1 Fokus som vanligt) |
 | **Skydd** | – | Rustning eller täckning som minskar KP-skada |
 | **Skadetyp** | – | Vapnets skadetyp (Kross, Stick, Hugg, Skjutvapen, etc.); avgör kritisk-tabell |
-| **Penetrerande** | – | Vapenegenskap; dubbla Skada adderas till kritiska träff-slag |
+| **Penetrerande** | – | Vapenegenskap; vapnets Skada adderas till kritiska träff-slag |
 
 ### Skadesteg
 

@@ -119,7 +119,7 @@ Brännskador från eld, het ånga, frätande ämnen. *Behandlas med Medicin (lin
 
 ## Skjutvapen
 
-Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Penetrerande** (t.ex. gevär och grovkalibriga kulsprutor) lägger dubbla sin Skada till kritiska träff-slag, vilket ger allvarligare resultat. *Behandlas med Kirurgi (blödning, kulor måste opereras ut; **Svårt** för organskador).*
+Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Penetrerande** (t.ex. gevär och grovkalibriga kulsprutor) lägger sin Skada till kritiska träff-slag, vilket ger allvarligare resultat. *Behandlas med Kirurgi (blödning, kulor måste opereras ut; **Svårt** för organskador).*
 
 | T12 | Effekt                                                                                                                                                               |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
