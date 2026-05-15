@@ -92,7 +92,7 @@ Om minst en tärning på attackslaget visar **12** och attacken gör minst 1 KP 
 **Modifierare till slaget:**
 
 - **+1 per ytterligare 12:a** på attackslaget
-- **Penetrerande vapens skada:** + vapnets **Skada** (en gång, inte dubbelt) om vapnet har egenskapen Penetrerande.
+- **Penetrerande vapen:** **+2** om vapnet har egenskapen Penetrerande.
 - **Målets kritiska tålighet:** −X (endast för stora eller väldigt tåliga varelser)
 
 Om *flera* tärningar visar 12: slå **en gång** på tabellen och lägg till +1 per ytterligare 12:a.

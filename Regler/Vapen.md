@@ -29,7 +29,7 @@ Ett närstridsvapen som hanteras med Smidighet + Strid istället för Fysik + St
 
 ### Penetrerande
 
-Vapnet penetrerar djupt. Vid kritiska träff-slag läggs vapnets **Skada** till som modifierare (en gång, inte dubbelt). Se [[Kritiska träffar]].
+Vapnet penetrerar djupt. Vid kritiska träff-slag läggs **+2** till slaget. Se [[Kritiska träffar]].
 
 ### Långt (närstrid)
 

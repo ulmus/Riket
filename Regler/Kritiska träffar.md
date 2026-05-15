@@ -5,7 +5,7 @@ När en tärning på attackslaget visar **12** inträffar en **kritisk träff** 
 **Modifikationer till slaget:**
 
 - **Ytterligare tolvor:** +1 per ytterligare tärning som visar 12 på attackslaget
-- **Penetrerande vapens skada:** om vapnet har egenskapen *Penetrerande* så läggs dess **Skada** till slaget.
+- **Penetrerande:** **+2** om vapnet har egenskapen *Penetrerande*.
 - **Målets kritiska tålighet:** −X för stora eller väldigt tåliga varelser
 
 Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 för varje ytterligare 12:a, plus övriga modifikationer.
@@ -15,7 +15,7 @@ Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 f
 - **Omedelbar död (rad 15+):** Den drabbade dör direkt. Fokus, Stress eller kraftaktivering kan inte rädda dig från en rad 15+-effekt.
 - **Flera Döende-tillstånd:** Om du blir Döende av både KP-chock och en kritisk träff (eller av flera kritiska träffar med olika takter) gäller varje Döende-tillstånd parallellt — du slår Överlevnadsslag enligt varje takt och varje tillstånd måste stabiliseras separat.
 - **Stabilisering raderar inte permanenta effekter.** När du överlever en kritisk träff med en angiven **Permanent**-effekt så är effekten bestående även efter stabilisering. Rehabilitering (se [[Läkning & vård#Permanenta skador]]) kan delvis minska avdraget.
-- **Penetrerande:** Vapenegenskapen lägger vapnets **Skada** till krit-slaget — en gång, inte dubbelt.
+- **Penetrerande:** Vapenegenskapen ger **+2** till krit-slaget oavsett vapnets Skada.
 
 ## Behandling av kritiska träffar
 
@@ -130,7 +130,7 @@ Brännskador från eld, het ånga, frätande ämnen.
 
 ## Skjutvapen
 
-Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Penetrerande** lägger sin **Skada** till kritiska träff-slag, vilket ger allvarligare resultat.
+Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Penetrerande** lägger **+2** till kritiska träff-slag, vilket ger allvarligare resultat.
 
 | T12 | Effekt                                                                                                                                                                                  |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
