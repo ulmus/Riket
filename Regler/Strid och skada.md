@@ -39,7 +39,7 @@ Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott 
 - Avstånd bortom vapnets räckvidd
 - Skytten är i rörelse eller instabil position
 
-En enskild försvårande faktor gör skottet normalt **Svårt**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svårt** – SL avgör. Skott långt bortom vapnets räckvidd kan vara **Mycket Svårt** eller omöjligt.
+En enskild försvårande faktor gör skottet normalt **Svår**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svår** — SL avgör. Skott långt bortom vapnets räckvidd kan vara **Mycket Svår** eller omöjligt.
 
 ### Skjuta tillbaka mot nedhållande eld
 
@@ -92,7 +92,7 @@ Om minst en tärning på attackslaget visar **12** och attacken gör minst 1 KP 
 **Modifierare till slaget:**
 
 - **+1 per ytterligare 12:a** på attackslaget
-- **Penetrerande vapens skada:** + vapnets värde för **Skada** om vapnet har egenskapen Penetrerande.
+- **Penetrerande vapen:** **+2** om vapnet har egenskapen Penetrerande.
 - **Målets kritiska tålighet:** −X (endast för stora eller väldigt tåliga varelser)
 
 Om *flera* tärningar visar 12: slå **en gång** på tabellen och lägg till +1 per ytterligare 12:a.
@@ -101,23 +101,23 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 
 
 ## Exempel
 
-> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 1** och skadetyp **Skjutvapen**.
+> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 2** och skadetyp **Skjutvapen**.
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
-> Vakten bär **tjock rock (Skydd 1)**. KP-skada = 2 extra framgångar + 1 Skada − 1 Skydd = **2 KP**.
-> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 2 KP – fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
+> Vakten bär **tjock rock (Skydd 1)**. KP-skada = 2 extra framgångar + 2 Skada − 1 Skydd = **3 KP**.
+> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 3 KP — fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
 > 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
 
 ## Effekter av skada
 
 ## Stress
 
-Varje gång du tar minst 1 KP skada så tar du också 1 Stress.
+Varje gång du tar minst 1 KP skada så tar du också 1 Stress. Om en kritisk träff på samma anfall anger ytterligare Stress (t.ex. "Ta **1 Stress**") läggs denna till — du kan alltså få både Stress från KP-skadan och från kritträffens egen effekt på samma slag.
 
 ## Sårad
 
 När du har tagit mer än **Tålighet** i KP-skada blir du **Sårad**:
 
-- Alla handlingar blir **ett steg svårare** (Lätt → Normalt → Svårt, Svårt → Mycket Svårt).
+- Alla handlingar blir **ett steg svårare** (Lätt → Normal → Svår, Svår → Mycket Svår).
 - Du tar **1 Stress**.
 
 ## Medvetslös
@@ -139,7 +139,7 @@ Du blir **Döende** om:
 Du dör omedelbart om:
 
 - Du tar mer än **4 × Tålighet** KP-skada.
-- En **kritisk träff** beskriver att du dör omedelbart.
+- En **kritisk träff** beskriver att du dör omedelbart (rad **15+** på en krittabell). Fokus, Stress eller kraftaktivering kan inte rädda dig från en sådan effekt.
 
 ### Överlevnadsslag
 
@@ -155,6 +155,14 @@ Varje Överlevnadsslag:
 - **Misslyckat:** Du dör.
 - **Lyckat med en framgång:** Du överlever tills nästa slag.
 - **Lyckat med flera framgångar:** Extra framgångar kan användas för att stabilisera dig. När du fått totalt tre stabiliseringsframgångar så är du stabil och behöver inte slå fler Överlevnadsslag.
+
+### Flera Döende-tillstånd
+
+Om du blir Döende av flera orsaker samtidigt — exempelvis KP-chock plus en kritisk träff, eller två separata kritiska träffar med olika takter — gäller varje Döende-tillstånd **parallellt**. Du slår Överlevnadsslag enligt varje takt och måste stabiliseras separat för varje tillstånd (tre stabiliseringsframgångar per tillstånd). När alla tillstånd är stabiliserade är du inte längre Döende.
+
+### Permanenta effekter består
+
+När en kritisk träff anger en **Permanent**-effekt så är effekten bestående även om du stabiliseras och överlever. Stabilisering räddar livet men reparerar inte den skada som redan skett. Rehabilitering eller hjälpmedel kan delvis minska avdraget — se [[Läkning & vård#Permanenta skador]].
 
 ### Stabilisering
 
@@ -195,7 +203,7 @@ Se kapitlet [[Läkning & vård]].
 
 ### Kritiska träffar
 
-Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, Stick, Hugg, Eld, Skjutvapen, Explosion, Gift, Blödning, Strålning, Övriga).
+Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, Stick, Hugg, Eld, Skjutvapen, Explosion, Gift, Strålning, Övriga).
 
 ## Särskilda situationer
 

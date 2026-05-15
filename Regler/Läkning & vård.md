@@ -4,13 +4,13 @@
 
 Det finns tre vårdtyper, var och en med sin egen attributkombination:
 
-| Vårdtyp       | Slag               | Används för                                    |
-| ------------- | ------------------ | ---------------------------------------------- |
-| **Medicin**   | Analys + Sinnen    | Blodförlust, stabilisering, gift, yrsel        |
-| **Kirurgi**   | Analys + Smidighet | Brutna ben, djupa sår, kulor, organskador      |
-| **Psykologi** | Analys + Samspel   | Stress, hallucinationer, chock                 |
+| Vårdtyp       | Slag               | Används för                                                  |
+| ------------- | ------------------ | ------------------------------------------------------------ |
+| **Medicin**   | Analys + Sinnen    | Stabilisering, gift, yrsel, feber, brännskador               |
+| **Kirurgi**   | Analys + Smidighet | Blödning, brutna ben, djupa sår, kulor, organskador          |
+| **Psykologi** | Analys + Samspel   | Stress, hallucinationer, chock                               |
 
-Kirurgi i fält (utan operationssal) är normalt **Svårt**.
+Kirurgi i fält (utan operationssal) är normalt **Svår**.
 
 ## Behandling
 

@@ -29,7 +29,7 @@ Ett närstridsvapen som hanteras med Smidighet + Strid istället för Fysik + St
 
 ### Penetrerande
 
-Vapnet penetrerar djupt. Vid kritiska träff-slag läggs **vapnets skadevärde** till som modifierare. Se [[Kritiska träffar]].
+Vapnet penetrerar djupt. Vid kritiska träff-slag läggs **+2** till slaget. Se [[Kritiska träffar]].
 
 ### Långt (närstrid)
 
@@ -47,11 +47,11 @@ Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har r�
 | Tung pistol       |     25 m |     3 |    2 | Skjutvapen | Penetrerande             |
 | K-pist            |     40 m |     2 |    3 | Skjutvapen | Automateld               |
 | Automatkarbin     |     80 m |     3 |    4 | Skjutvapen | Automateld, Penetrerande |
-| Gevär             |    100 m |     3 |    2 | Skjutvapen | Penetrerande             |
+| Gevär             |    100 m |     4 |    2 | Skjutvapen | Penetrerande             |
 | Hagelgevär        |     20 m |     4 |    2 | Skjutvapen | Hagelsvärm               |
 | Kulspruta 5.56 mm |    100 m |     3 |    6 | Skjutvapen | Automateld, Penetrerande |
-| Kulspruta 7,62 mm |    200 m |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
-| Handgranat        |     Kast |     4 |    1 | Explosion  | Explosion, Splitter      |
+| Kulspruta 7,62 mm |    200 m |     5 |    6 | Skjutvapen | Automateld, Penetrerande |
+| Handgranat        |     Kast |     6 |    1 | Explosion  | Explosion, Splitter      |
 
 ## Närstridsvapen
 
