@@ -203,7 +203,7 @@ Se kapitlet [[Läkning & vård]].
 
 ### Kritiska träffar
 
-Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, Stick, Hugg, Eld, Skjutvapen, Explosion, Gift, Blödning, Strålning, Övriga).
+Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, Stick, Hugg, Eld, Skjutvapen, Explosion, Gift, Strålning, Övriga).
 
 ## Särskilda situationer
 

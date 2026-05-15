@@ -15,7 +15,7 @@ Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 f
 - **Omedelbar död (rad 15+):** Den drabbade dör direkt. Fokus, Stress eller kraftaktivering kan inte rädda dig från en rad 15+-effekt.
 - **Flera Döende-tillstånd:** Om du blir Döende av både KP-chock och en kritisk träff (eller av flera kritiska träffar med olika takter) gäller varje Döende-tillstånd parallellt — du slår Överlevnadsslag enligt varje takt och varje tillstånd måste stabiliseras separat.
 - **Stabilisering raderar inte permanenta effekter.** När du överlever en kritisk träff med en angiven **Permanent**-effekt så är effekten bestående även efter stabilisering. Rehabilitering (se [[Läkning & vård#Permanenta skador]]) kan delvis minska avdraget.
-- **Penetrerande:** Vapenegenskapen ger **+2** till krit-slaget oavsett vapnets Skada.
+- **Penetrerande:** Vapenegenskapen ger **+2** till krit-slaget.
 
 ## Behandling av kritiska träffar
 
@@ -91,7 +91,7 @@ Svärd, yxor, machetes — skärande vapen med kraft bakom.
 | T12 | Effekt                                                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Ytligt snitt.** Ta **1 Stress**.                                                                                                                                                                                |
-| 2   | **Köttskada.** Blodigt men ytligt. **Lätt blödning** tills behandlad (Medicin).                                                                                                                                   |
+| 2   | **Köttsår.** Blodigt men ytligt. **Lätt blödning** tills behandlad (Medicin).                                                                                                                                     |
 | 3   | **Senan skuren.** Slå 1T12 för kroppsdel: 1–3 vänster arm, 4–6 höger arm, 7–9 vänster ben, 10–12 höger ben. Smidighet-slag med drabbad kroppsdel är minst **Svåra** tills behandlad (Kirurgi).                    |
 | 4   | **Djupt hugg i arm.** Slå 1T12: 1–6 vänster, 7–12 höger arm. Du tappar vad du håller i. Armen obrukbar tills behandlad (Kirurgi). **Lätt blödning**.                                                              |
 | 5   | **Djupt hugg i ben.** Slå 1T12: 1–6 vänster, 7–12 höger ben. Förflyttning halverad tills behandlad (Kirurgi). **Kraftig blödning**.                                                                               |
@@ -186,35 +186,13 @@ Toxiner, droger, kemiska ämnen.
 | 6   | **Hallucinationer.** Du ser och hör saker som inte finns. Alla slag är minst **Mycket Svåra** under närmsta dygnet eller tills behandlad (Medicin, **Svår**). Ta **2 Stress**.  |
 | 7   | **Kramper.** Du faller och rycker okontrollerat i 1T12 rundor. Kan inte agera.                                                                                                  |
 | 8   | **Svår förgiftning.** Alla slag är minst **Mycket Svåra**. Behandlas med Medicin (**Svår**).                                                                                    |
-| 9   | **Andnöd.** Endast en bihandling per runda. Alla slag är minst **Mycket Svåra** tills behandlad (Medicin, **Svår**) eller giftet förbrukats.                                    |
+| 9   | **Andnöd.** Endast en bihandling per runda. Alla slag är minst **Mycket Svåra** tills behandlad (Medicin, **Svår**) eller giftet går ur kroppen.                                |
 | 10  | **Andningssvikt.** Andningsmuskulaturen försvagas. Endast en bihandling per runda. **Döende:** Överlevnadsslag per timme (kräver motgift för att stabiliseras).                  |
 | 11  | **Lever-/njursvikt.** Organen sviktar. Alla slag är minst **Mycket Svåra**. **Döende:** Överlevnadsslag per timme. Kräver sjukhusvård.                                          |
-| 12  | **Hjärtarytmi.** **Döende:** Överlevnadsslag per minut. Ta **2 Stress**.                                                                                                        |
+| 12  | **Hjärtarytmi.** **Döende:** Överlevnadsslag per minut. Behandlas med Medicin (**Mycket Svår**), kräver motgift för att stabiliseras. Ta **2 Stress**.                          |
 | 13  | **Neurologisk skada.** Slår ut nervsystemet. **Döende:** Överlevnadsslag per runda. Behandlas med Medicin (**Mycket Svår**) i fält. Om du överlever: **Permanent:** −1 på Smidighet. |
-| 14  | **Systemisk kollaps.** **Döende:** Överlevnadsslag per runda (kräver motgift för att stabiliseras). Behandlas på sjukhus. Om du överlever: **Permanent:** −1 på Fysik.          |
+| 14  | **Systemisk kollaps.** **Döende:** Överlevnadsslag per runda (kräver motgift för att stabiliseras). Behandlas med Medicin (**Mycket Svår**) på sjukhus. Om du överlever: **Permanent:** −1 på Fysik. |
 | 15+ | **Dödlig gift.** Du dör omedelbart.                                                                                                                                             |
-
-## Blödning
-
-Tilltagande blodförlust. Slå på denna tabell när en blödningstärning visar **12** (se [[Strid och skada#Blödning]]).
-
-| T12 | Effekt                                                                                                                                   |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Yrsel.** Ta **1 Stress**.                                                                                                                                                                                          |
-| 2   | **Svaghet.** Fysik-slag är minst **Svåra** tills blodet ersätts.                                                                                                                                                     |
-| 3   | **Kallsvettig.** Förflyttning −2 meter. Ta **1 Stress**.                                                                                                                                                             |
-| 4   | **Skakningar.** Du tappar vad du håller i.                                                                                                                                                                           |
-| 5   | **Blodförlust.** Du blir kallare. Alla slag är minst **Svåra**.                                                                                                                                                      |
-| 6   | **Kollapsande blodtryck.** Du faller omkull. Kan bara krypa (bihandling för 1 meter).                                                                                                                                |
-| 7   | **Synförlust.** Svartnande syn. Sinnen-slag (syn) är minst **Mycket Svåra**.                                                                                                                                         |
-| 8   | **Förlorar medvetandet.** Du svimmar. Vaknar om du stabiliseras eller efter 1T12 minuter.                                                                                                                            |
-| 9   | **Chock.** **Medvetslös**. Kräver stabilisering för att vakna.                                                                                                                                                       |
-| 10  | **Hypovolemisk chock.** **Medvetslös**. Alla slag är minst **Mycket Svåra** om du vaknar. Kräver stabilisering och vård.                                                                                             |
-| 11  | **Svår hypovolemisk chock.** **Döende:** Överlevnadsslag per timme. Behandlas med Kirurgi (**Svår**).                                                                                                                |
-| 12  | **Organsvikt.** **Döende:** Överlevnadsslag per minut. Behandlas med Kirurgi (**Mycket Svår**).                                                                                                                      |
-| 13  | **Hjärtstillestånd.** **Döende:** Överlevnadsslag per runda (kräver hjärt-lungräddning för att stabiliseras). Om du överlever: **Permanent:** −1 på Fysik.                                                           |
-| 14  | **Total cirkulationskollaps.** **Döende:** Överlevnadsslag per runda. Behandlas på sjukhus. Om du överlever: **Permanent:** −2 på Fysik och −2 på Vilja (hjärnskada).                                                |
-| 15+ | **Förblödd till döds.** Du dör omedelbart.                                                                                               |
 
 ## Strålning
 
@@ -224,7 +202,7 @@ Strålsjuka, radioaktiv exponering. Effekter på rad 10+ ökar **Strålningsdose
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Illamående.** Ta **1 Stress**.                                                                                                                                                                                  |
 | 2   | **Svaghet.** Fysik-slag är minst **Svåra** under 1T12 dagar.                                                                                                                                                      |
-| 3   | **Kräkningar.** Du förlorar 1 Stress och kan inte äta under det kommande dygnet.                                                                                                                                  |
+| 3   | **Kräkningar.** Du förlorar 1 Stress. Allt du försöker äta eller dricka kommer upp igen under det kommande dygnet.                                                                                                |
 | 4   | **Hudutslag.** Röda, brännskadeliknande utslag. Smidighet-slag är minst **Svåra** under 1T12 dagar.                                                                                                               |
 | 5   | **Håravfall.** Håret faller av i tussar. Ta **2 Stress**.                                                                                                                                                         |
 | 6   | **Feber.** Immunförsvaret reagerar. Alla slag är minst **Svåra** under 1T12 dagar.                                                                                                                                |
@@ -232,10 +210,10 @@ Strålsjuka, radioaktiv exponering. Effekter på rad 10+ ökar **Strålningsdose
 | 8   | **Benmärgsskada.** Alla slag är minst **Mycket Svåra**. Kräver sjukhusvård.                                                                                                                                       |
 | 9   | **Lungskada.** Endast en bihandling per runda. Alla slag är minst **Mycket Svåra**. Kräver sjukhusvård.                                                                                                           |
 | 10  | **Njursvikt.** Alla slag är minst **Mycket Svåra**. Kräver sjukhusvård. Stråldosen ökar med ett efter återställning.                                                                                              |
-| 11  | **Benmärgsskada — systemkollaps.** Alla slag är minst **Mycket Svåra**. **Döende:** Överlevnadsslag per dag. Stråldosen ökar med ett efter återställning.                                                         |
+| 11  | **Benmärgsskada — systemkollaps.** Alla slag är minst **Mycket Svåra**. **Döende:** Överlevnadsslag per dag. Behandlas med Medicin (**Mycket Svår**), kräver sjukhusvård. Stråldosen ökar med ett efter återställning. |
 | 12  | **Organsvikt.** Lever och njurar slutar fungera. **Döende:** Överlevnadsslag per timme. Behandlas med Medicin (**Mycket Svår**) på sjukhus. Stråldosen ökar med två efter återställning.                          |
 | 13  | **Multipel organsvikt.** **Döende:** Överlevnadsslag per minut. Behandlas med Medicin (**Mycket Svår**) på sjukhus. Om du överlever: **Permanent:** −2 på Fysik. Stråldosen ökar med tre efter återställning.     |
-| 14  | **Total cellnedbrytning.** **Döende:** Överlevnadsslag per runda. Behandlas på sjukhus. Om du överlever: **Permanent:** −3 på Fysik och −2 på Vilja. Stråldosen ökar med fyra efter återställning.                |
+| 14  | **Total cellnedbrytning.** **Döende:** Överlevnadsslag per runda. Behandlas med Medicin (**Mycket Svår**) på sjukhus. Om du överlever: **Permanent:** −3 på Fysik och −2 på Vilja. Stråldosen ökar med fyra efter återställning. |
 | 15+ | **Akut stråldöd.** Kroppen kollapsar. Du dör inom 1T12 timmar, inga Överlevnadsslag eller vård kan rädda dig.                                                                                                     |
 
 ## Övriga
@@ -246,7 +224,7 @@ Fall, kvävning, elektricitet, hypotermi och andra skadetyper utan egen tabell.
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Skärrad.** Ta **1 Stress**.                                                                                                                                                                              |
 | 2   | **Stukad led.** Slå 1T12 för kroppsdel: 1–3 vänster arm, 4–6 höger arm, 7–9 vänster ben, 10–12 höger ben. Slag med drabbad kroppsdel är minst **Svåra** under 1T12 dagar.                                  |
-| 3   | **Smärta.** Alla slag är minst **Svåra** under 1T12 rundor. Ta **1 Stress**.                                                                                                                               |
+| 3   | **Smärta.** Du är **Påverkad** (alla handlingar ett steg svårare) nästa runda. Ta **1 Stress**.                                                                                                            |
 | 4   | **Tappat andan.** Förlorar din nästa handling.                                                                                                                                                             |
 | 5   | **Desorienterad.** Sinnen- och Analys-slag är minst **Mycket Svåra** under 1T12 minuter.                                                                                                                   |
 | 6   | **Slagen till marken.** Du faller omkull. Ta **1 Stress**.                                                                                                                                                 |
@@ -257,5 +235,5 @@ Fall, kvävning, elektricitet, hypotermi och andra skadetyper utan egen tabell.
 | 11  | **Svår intern skada.** Alla slag är minst **Mycket Svåra**. **Döende:** Överlevnadsslag per timme. Behandlas med Kirurgi (**Svår**).                                                                       |
 | 12  | **Svår systemisk skada.** **Döende:** Överlevnadsslag per minut. Behandlas med Kirurgi (**Mycket Svår**).                                                                                                  |
 | 13  | **Kritisk organsvikt.** **Döende:** Överlevnadsslag per runda. Behandlas med Kirurgi (**Mycket Svår**) i fält. Om du överlever: **Permanent:** −1 på Fysik.                                                |
-| 14  | **Total systemkollaps.** **Döende:** Överlevnadsslag per runda. Behandlas på sjukhus. Om du överlever: **Permanent:** −2 på Fysik och −2 på Vilja.                                                         |
+| 14  | **Total systemkollaps.** **Döende:** Överlevnadsslag per runda. Behandlas med Kirurgi (**Mycket Svår**) på sjukhus. Om du överlever: **Permanent:** −2 på Fysik och −2 på Vilja.                            |
 | 15+ | **Katastrofal skada.** Du dör omedelbart.                                                                                                                                                      |
