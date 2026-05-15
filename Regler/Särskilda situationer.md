@@ -109,10 +109,17 @@ Skyddsutrustning skyddar, gasmask sänker strålningsdosen ett steg per timme oc
 
 Varje karaktär har två värden:
 
-- **Stråldos** — den aktiva ackumulerade dosen från pågående exponering.
+- **Stråldos** — den aktiva ackumulerade dosen från pågående exponering. Startar på Permanent stråldos och byggs upp när karaktären exponeras för strålning.
 - **Permanent stråldos** — den baslinje som Stråldos återställs till efter ett strålskadeslag. Startar på 0.
 
-Varje dygn, eller när Stråldos når **5** (vilket som kommer först), utsätts karaktären för en **strålskada** med skadevärde lika med nuvarande Stråldos. Slå skada och eventuell kritträff på [[Kritiska träffar#Strålning]]. Därefter återställs Stråldos till nivån för Permanent stråldos och fortsätter byggas upp igen från det värdet.
+Karaktären utsätts för en **strålskada** när:
+
+- **Stråldos** har stigit *över* Permanent stråldos (dvs. ny exponering har skett sedan senaste återställning), **och**
+- antingen Stråldos når **5** eller ett dygn har passerat sedan senaste återställning — vilket som kommer först.
+
+Strålskadan har skadevärde lika med nuvarande Stråldos. Slå skada och eventuell kritträff på [[Kritiska träffar#Strålning]]. Därefter återställs Stråldos till nivån för Permanent stråldos.
+
+Om karaktären inte utsätts för någon ny strålning byggs Stråldos inte upp och ingen strålskada inträffar — Permanent stråldos i sig orsakar inte återkommande skador, men påverkar cancer-risken (se nedan).
 
 ### Permanent stråldos
 
