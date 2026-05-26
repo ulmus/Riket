@@ -84,3 +84,11 @@ Loggboken är hos honom. Det är vad Mengele säger. Det innebär att uppdraget 
 
 ## Tidsram
 Mengele har 4–6 dagar kvar. OVIR-formuläret kommer fram inom 48 timmar. Major Raudsepp följer spår från Leningrad. Klockan tickar på flera klockor samtidigt — och i Wien sitter en man och räknar dagarna utan att ännu veta att han bör börja räkna timmarna.
+
+# Apotekaren
+
+Jakten på apotekaren börjar i Bonn. T-kontoret har fått information att den som vet mest om Capesius är Generalstaatsanwalt Fritz Bauer i Frankfurt som har en akt på honom. Man måste åka till Frankfurt och övertala Bauer att ge dem information om vad man vet om var Capesius befinner sig.
+
+Väl i Frankfurt kommer en scen där RP väntar på att släppas in till Bauer när de hör skrik där inifrån. När de kommer in står Bauers sekreterare med en blodig bronsbyst i handen med vilken hon uppenbart har slagit in skallen på Bauer. Hon går till våldsam attack mot rollpersonerna, men faller sedan ihop i en hög.
+
+Bakom detta dåd ligger egentligen ligger Furie, en ENS som skapats av ODESSA-nätverket och som kan mana fram fruktansvärda raseri-utbrott hos andra. Det är Skorzeny som skyddar Capesius och i förlängningen nätverket.
