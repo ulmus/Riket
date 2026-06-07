@@ -22,7 +22,7 @@ Capesius mindes mycket väl. Han såg loggboken framför sig, tydligt med Dr. Me
 
 Skorzeny skrattade till. ”Vagt säger du.” Plötsligt lutade han sig framåt och den tobaksdoftande andedräkten sköt upp i Capesius näsborrar.
 
-”Vi behöver loggboken Dr. Wenger, vi behöver den nu. Jag vet att ni har den.”
+”Vi behöver loggboken Capesius, vi behöver den nu. Jag vet att ni har den.”
 
 Capesius nickade sammanbitet. Ibland behöver man veta när man ska lägga sig. ”Jag har den.”
 
