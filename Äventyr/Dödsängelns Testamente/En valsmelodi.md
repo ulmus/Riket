@@ -30,6 +30,8 @@ Capesius nickade sammanbitet. Ibland behöver man veta när man ska lägga sig. 
 
 ”19:00 ikväll, var inte sen, de stänger faktiskt dörrarna. På återseende, Dr. Wenger” sa han, med bara en antydan till att föra ihop klackarna.
 
-Visslande lämnade den före detta SS-officeraren Dr. Capesius kvar vid bordet i tankar. Hur visste Skorzeny att han hade boken? Han hade aldrig sagt det till någon. Den var hans livlina, hans komma-ut-ur-fängelset-kort. Han tittade på biljetterna på bordet. Han ville inte lämna allt igen.
+Visslande lämnade den före detta SS-officeraren Dr. Capesius kvar vid bordet i tankar. Hur visste Skorzeny att han hade boken? Han hade aldrig sagt det till någon. Den var hans livlina, hans komma-ut-ur-fängelset-kort. Han tittade på biljetterna på bordet. Han ville inte lämna allt igen. Han rev åt sig operabiljetterna, lämnade en tio-skillings-sedel inklämd under askfatet och gav sig ut i kvällsvimlet.
 
-Strax efter Dr. Capesius lämnat caféet reste sig den äldre mannen från bordet bredvid. Hans ansträngning att se obrydd och nonchalant ut lyckades nästan, men han undslapp sig en kort nick mot det förälskade paret. Som i sin tur undslapp sig en kort nick tillbaka. Sen försvann den äldre mannen samma väg som apotekaren från Auschwitz. Och samtidigt, längre in i Café Hawelka stod en av servitörerna vid den svarta bakelit-telefonen i serveringsgången. Han såg sig nervöst omkring, “Ett bord för två her Hallwykk
+Minuten efter reste sig den äldre mannen från bordet bredvid. Hans ansträngning att se obrydd och nonchalant ut lyckades nästan, men han undslapp sig en kort nick mot det förälskade paret. Den unge mannen gav ett irriterat ögonkast tillbaka och bröt sedan ögonkontakten, kvinnan syntes obrydd. Sen försvann den äldre mannen samma väg som apotekaren från Auschwitz.
+
+Samtidigt, längre in i Café Hawelka stod en av servitörerna vid den svarta bakelit-telefonen i serveringsgången. Han såg sig nervöst omkring, “Ett bord för två herr Hallwyll, det passar utmärkt så här på vårkanten”. Han lade på utan att anteckna reservationen.
