@@ -64,6 +64,11 @@ Slå för Samspel + Vilja. Personer som rör vid din kropp dras in i visionen oc
 - **1 Framgång:** Ytterligare en mottagare.
 - **1 Framgång:** Mottagarna hör också, inte bara ser.
 
+### Framsynt (1 Fokus, 1 bihandling)
+När något händer som du hade kunnat påverka om du var medveten om det några sekunder innan så kan du slå ett slag för Sinnen + Vilja för att undvika det. Om du exempelvis blir skjuten eller knuffad eller någon ser dig. Dina framfångar på det slaget kan användas för att påverka förloppet genom att få motståndaren att misslyckas eller dig själv att få extra framgångar på ett slag du misslyckades med. Du måste kunna förklara hur du använder din insikt för att ändra utfallet och du kan bara ändra saker som påverkar dig direkt.
+
+- **+1 Fokus:** Du kan påverka även en annan person inom 10 meter
+
 ### Tråden (Alltid aktiv)
 
 Du känner när någon du har en känslomässig koppling till befinner sig i akut livsfara, oavsett avstånd. Du vet bara att det händer och åt vilket håll – för mer information krävs **Närvaroseende**.
