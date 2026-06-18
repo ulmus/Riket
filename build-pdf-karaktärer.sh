@@ -1,48 +1,49 @@
 #!/bin/bash
-# Build one PDF per character using pandoc + weasyprint
-set -e
+# Bygg en PDF per rollperson (pandoc + weasyprint).
+#
+# Rollpersoner har egen layout (karaktär.css, ingen titelsida, ingen
+# innehållsförteckning) och byggs därför separat från de linjära böckerna i
+# spine.txt. Se build-pdf.sh för regelbok, värld och äventyr.
+set -euo pipefail
 
 BASEDIR="$(cd "$(dirname "$0")" && pwd)"
-CHARS="$BASEDIR/Karaktärer"
-TMPHTML="$BASEDIR/.tmp-char.html"
+# shellcheck source=build-lib.sh
+source "$BASEDIR/build-lib.sh"
 
+irt_require_build_tools
+
+CHARS="$BASEDIR/Karaktärer"
+PDFDIR="$BASEDIR/pdf"
+mkdir -p "$PDFDIR"
+
+shopt -s nullglob
 for f in "$CHARS"/*.md; do
   NAME="$(basename "$f" .md)"
-  OUTPUT="$BASEDIR/pdf/I Rikets Tjänst - $NAME.pdf"
-
-  echo "Building $NAME..."
-
-  # Preprocess: convert Obsidian image syntax to standard markdown
+  OUTPUT="$PDFDIR/I Rikets Tjänst - $NAME.pdf"
   TMPMD="$BASEDIR/.tmp-char.md"
-  cp "$f" "$TMPMD"
-  sed -i '' -E 's/\[!\[\[([^]]+)\]\]\]\(<([^)]+)>\)/![](\2)/g' "$TMPMD"
-  sed -i '' -E 's/!\[\[([^]|]+)(\|[^]]+)?\]\]/![](\1)/g' "$TMPMD"
+  TMPHTML="$BASEDIR/.tmp-char.html"
 
-  # Make image paths absolute
-  sed -i '' "s|](Bilder/|]($CHARS/Bilder/|g" "$TMPMD"
+  echo "Bygger $NAME..."
+  cp "$f" "$TMPMD"
+  irt_obsidian_to_md "$TMPMD"
+  irt_resolve_images "$TMPMD" "$CHARS/Bilder" "$CHARS" "$BASEDIR/Assets"
 
   pandoc \
     --from=markdown \
     --to=html5 \
     --standalone \
-    --resource-path="$CHARS" \
     --css="$BASEDIR/karaktär.css" \
     --wrap=none \
     "$TMPMD" \
     -o "$TMPHTML"
 
-  # Strip Obsidian wikilinks
-  sed -i '' -E 's/\[\[([^]|#]+)(#[^]|]*)?\|([^]]+)\]\]/\3/g; s/\[\[([^]|#]+)(#[^]]*)?]]/\1/g' "$TMPHTML"
-
-  # Remove pandoc's auto-generated header (no title page for characters)
-  sed -i '' '/<header/,/<\/header>/d' "$TMPHTML"
-
-  # Wrap checkbox characters in span for larger font
-  sed -i '' 's/❏/<span class="cb">❏<\/span>/g' "$TMPHTML"
+  irt_strip_wikilinks "$TMPHTML"
+  irt_strip_header "$TMPHTML"
+  irt_wrap_checkboxes "$TMPHTML"
 
   weasyprint "$TMPHTML" "$OUTPUT"
-  echo "  Done: $OUTPUT"
+  rm -f "$TMPHTML" "$TMPMD"
+  echo "  Klar: $OUTPUT"
 done
 
-rm -f "$TMPHTML" "$TMPMD"
-echo "All characters built."
+echo "Alla rollpersoner byggda."

@@ -30,9 +30,9 @@ exclude:
   - CLAUDE.md
   - Kampanj.md
   - build-pdf.sh
-  - build-pdf-världen.sh
   - build-pdf-karaktärer.sh
-  - build-pdf-extraktionen.sh
+  - build-lib.sh
+  - spine.txt
   - karaktär.css
   - regler.css
   - publish.css
