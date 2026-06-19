@@ -66,18 +66,18 @@ Varje karaktär börjar spelet med en Expertis.
 
 Människor och mål av olika storlek har olika mycket KP och kan ha inbyggd rustning. Storleksklassen påverkar också hur lätt det är att träffa målet.
 
-| Storlek                               | Bonus-KP | Inbyggt Skydd | Träffmodifikator |
-| ------------------------------------- | -------: | ------------: | ---------------: |
-| Liten (hund, barn)                    |       −2 |             0 |               −1 |
-| Normal (vuxen människa)               |        0 |             0 |                0 |
-| Stor (häst, motorcykel)               |       +4 |             0 |               +1 |
-| Mycket stor (bil, lätt fordon)        |       +8 |            +2 |               +2 |
-| Enorm (lastbil, stridsvagn)           |      +16 |            +4 |               +3 |
-| Kolossal (fartyg, byggnad)            |      +32 |            +6 |               +4 |
+| Storlek                        | Bonus-KP | Inbyggt Skydd | Träffa |
+| ------------------------------ | -------: | ------------: | -----: |
+| Liten (hund, barn)             |       −2 |             0 |     −1 |
+| Normal (vuxen människa)        |        0 |             0 |      0 |
+| Stor (häst, motorcykel)        |       +4 |             0 |     +1 |
+| Mycket stor (bil, lätt fordon) |       +8 |            +2 |     +2 |
+| Enorm (lastbil, stridsvagn)    |      +16 |            +4 |     +3 |
+| Kolossal (fartyg, byggnad)     |      +32 |            +6 |     +4 |
 
 - **Bonus-KP:** Läggs till målets KP.
 - **Inbyggt Skydd:** Fungerar som rustningsskydd, minskar KP-skada.
-- **Träffmodifikator:** Modifierar attackslag mot målet.
+- **Träffa:** Modifierar attackslag mot målet.
 
 ## Vanliga slag
 
