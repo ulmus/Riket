@@ -1,6 +1,6 @@
 # I Rikets Tjänst — manuskriptspine
 #
-# Den här filen är den enda källan till sanning för vilka kapitel som ingår i
+# Den här filen styr ensam vilka kapitel som ingår i
 # varje bok och i vilken ordning de läses. build-pdf.sh läser den här filen och
 # bygger en PDF per bok. Vill du ändra ordning, lägga till eller ta bort ett
 # kapitel — redigera den här filen, inte byggskripten.
