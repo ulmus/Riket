@@ -69,7 +69,7 @@ Tjänstemannen bakom luckan, registratorn på ministeriet, byråchefen med stäm
 - **Tålighet:** 3, **Stabilitet:** 3
 - **Expertis:** Byråkrat
 
-**Utrustning:** Stämplar och blanketter, telefon med direktlinje till någon mer obehaglig.
+**Utrustning:** Stämplar och blanketter, nyckeln till arkivet.
 
 ### Vakt
 
@@ -103,7 +103,7 @@ KGB-, Stasi- eller CIA-agent under täckmantel — kulturattaché, journalist el
 
 ### Paramilitär
 
-Spetsnaz-soldat, livvakt eller torped. Striden är hans hantverk och han tvekar inte. Sätts in ensam som ett allvarligt hot eller i par som en strids­scens ryggrad.
+Spetsnaz-soldat, livvakt eller torped. Striden är hans hantverk och han tvekar inte. Sätts in ensam som ett allvarligt hot eller i par som en stridsscens ryggrad.
 
 **Motivation:** Utföra order, skydda sitt skyddsobjekt, neutralisera hot effektivt.
 
@@ -129,7 +129,7 @@ Stasi-officeren i förhörsrummet, säkerhetstjänstens specialist på att bryta
 - **Expertis:** Förhörsledare, Säkerhetsofficer
 - **Förmågor:** Järnvilja
 
-**Utrustning:** Makarov-pistol (Skada 2, skadetyp Skjutvapen), dossierer och förhörsprotokoll, direktlinje till Volkspolizei eller KGB.
+**Utrustning:** Makarov-pistol (Skada 2, skadetyp Skjutvapen), dossierer och förhörsprotokoll.
 
 ### Informatör
 
@@ -143,7 +143,7 @@ Tjallaren, den nervöse meddelaren, smågångstern som säljer rykten. Opålitli
 - **Tålighet:** 2, **Stabilitet:** 2
 - **Förmågor:** Vem, jag?
 
-**Utrustning:** Slitna kläder, en historia för varje köpare, kontanter gömda på flera ställen.
+**Utrustning:** Slitna kläder, en bunt hopvikta sedlar instoppad i fodret.
 
 ### Smugglare
 
@@ -157,7 +157,7 @@ Svartabörshandlaren, fixaren i hamnen, mannen som kan skaffa vad som helst mot 
 - **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Förfalskare
 
-**Utrustning:** Gömd pistol (Skada 2, skadetyp Skjutvapen), ett lager av eftertraktade varor, kontakter i hamnen och hos tullen, falska handlingar.
+**Utrustning:** Gömd pistol (Skada 2, skadetyp Skjutvapen), en väska med eftertraktade varor, falska handlingar.
 
 ### Lokalkontakt
 
@@ -185,7 +185,7 @@ Attachén på ambassadmottagningen, ministeriets utsände, salongernas spelare. 
 - **Expertis:** Diplomat
 - **Förmågor:** Förförisk
 
-**Utrustning:** Diplomatpass (immunitet), inbjudningar till de rätta tillställningarna, kontaktnät, ett leende som döljer en agenda.
+**Utrustning:** Diplomatpass (immunitet), inbjudningar till de rätta tillställningarna, ett etui med visitkort.
 
 ### Läkare
 
@@ -200,7 +200,7 @@ Fältläkaren, den civile doktorn, badortens kurläkare. Vårdar rollpersonernas
 - **Expertis:** Läkare
 - **Förmågor:** Fältkirurg, Lugnande närvaro
 
-**Utrustning:** Läkarväska, morfin och förband, journaler — och minnet av varje patient.
+**Utrustning:** Läkarväska, morfin och förband, journaler.
 
 ### Chaufför
 
@@ -229,7 +229,7 @@ Sångerskan på nattklubben, stjärnan som alla vill bli sedda med. Hon rör sig
 - **Tålighet:** 3, **Stabilitet:** 3
 - **Förmågor:** Förförisk, Vem, jag?
 
-**Utrustning:** Scengarderob, kontakter i nöjeslivet, ett rum bakom scenen där förtroenden byts.
+**Utrustning:** Scengarderob, cigarettetui, en adressbok full av namn och telefonnummer.
 
 ## Elit och ENS
 
@@ -276,7 +276,7 @@ En förstärkt fysisk enhet — programmets stridsvagn av kött. Massiv, nästan
 
 - Fysik 6 (övernaturlig), Strid 4, Sinnen 2, Vilja 1, Analys 1, List 1, Samspel 1, Smidighet 1
 - **Tålighet:** 9 (Fysik 6 + Vilja 1 + 2 från Nästan okrossbar kropp), **Stabilitet:** 2
-- **Förflyttning:** 8 meter
+- **Förflyttning:** 7 meter
 
 **Krafter:**
 
@@ -332,7 +332,7 @@ Ett misslyckat subjekt — från [[Program Frigg (Sverige)|Program Frigg]] eller
 - **Expertis:** Spion, Underrättelseanalytiker, Maskör
 - **Förmågor:** Skugga, Förförisk, Snabbtänkt
 
-**Utrustning:** Flera kompletta identiteter, ett nätverk av kontakter och tjänster, alltid en reservplan och en väg ut.
+**Utrustning:** Flera uppsättningar falska identitetshandlingar, en gömd reservväska med pass och kontanter, ett diskret vapen (Skada 2, skadetyp Skjutvapen).
 
 ## Institutionella figurer
 
@@ -350,7 +350,7 @@ Uppdragsgivaren i det inrökta personalrummet. Ger uppdragen, fördelar resurser
 - **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Underrättelseanalytiker, Officer
 
-**Utrustning:** Dossierer och uppdragsorder, tjänstepistol i byrålådan (Skada 2, skadetyp Skjutvapen), tystnadsplikt och det han väljer att inte säga.
+**Utrustning:** Dossierer och uppdragsorder, tjänstepistol i byrålådan (Skada 2, skadetyp Skjutvapen).
 
 ### Frigg-kontakt
 
@@ -365,7 +365,7 @@ Den tekniske eller vetenskaplige rådgivaren från [[Program Frigg (Sverige)|Pro
 - **Expertis:** Vetenskapsman, Läkare
 - **Förmågor:** Lugnande närvaro
 
-**Utrustning:** Signaturutrustning till rollpersonerna, mätinstrument och journaler, en direktlinje till programmets ledning.
+**Utrustning:** Signaturutrustning till rollpersonerna, mätinstrument och journaler.
 
 ## Egenheter
 
