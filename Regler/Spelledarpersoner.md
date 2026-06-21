@@ -369,7 +369,7 @@ Den tekniske eller vetenskaplige rådgivaren från [[Program Frigg (Sverige)|Pro
 
 ## Egenheter
 
-Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag — så som rådet under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] säger att *alla har en story*. Behöver du snabbt ge en karaktär liv kan du slå (eller välja) på tabellerna nedan. Slå gärna en gång på varje tabell; en bakgrund, ett utseende, ett personlighetsdrag och en mannerism räcker långt för att du ska kunna spela vem som helst. Tabellerna fungerar lika bra för rollpersoner som för SLP.
+Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag — så som rådet under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] säger att *alla har en story*. Behöver du snabbt ge en karaktär liv kan du slå eller välja från en eller flera av tabellerna nedan. En bakgrund, ett utseende, ett personlighetsdrag eller ett beteende räcker långt för att du ska kunna spela vem som helst. Tabellerna fungerar lika bra för rollpersoner som för SLP.
 
 ### Bakgrund
 
