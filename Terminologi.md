@@ -14,6 +14,7 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**.
 | **Runda**         | Ca fem sekunders speltid i strid                                                                                                                                          |
 | **Slag**          | Ett tärningskast för att avgöra utfall                                                                                                                                    |
 | **Svårighet**     | Antal framgångar som krävs: Normal (1), Svår (2), Mycket Svår (3). Sätts av SL som helhetsbedömning                                                                       |
+| **Effekt**        | Framgångar utöver de som krävs för att klara svårigheten (eller för att slå en motståndare); spenderas på extra verkningar som mer skada, längre varaktighet eller fler mål |
 | **Komplikation**  | Oväntad negativ händelse vid etta på slag efter att ha spenderat Fokus                                                                                                    |
 
 ## Egenskaper
@@ -90,7 +91,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 ### Sammanbrottseffekter
 
-| Effekt | Beskrivning |
+| Utfall | Beskrivning |
 | ------ | ----------- |
 | **Skakad** | Tappar en handling eller missar nästa runda |
 | **Panik** | Flyr mot närmaste skydd |
@@ -147,6 +148,7 @@ För översättning och internationell kommunikation:
 | --------------------- | -------------------------- |
 | Chock                 | Shock                      |
 | Framgång              | Success                    |
+| Effekt                | Effect (excess successes)  |
 | Fokus                 | Focus                      |
 | Egenskap              | Attribute                  |
 | Expertis              | Expertise                  |

@@ -17,7 +17,7 @@ Olika vapen har egenskaper som påverkar hur de kan användas eller vilken effek
 
 Om ett vapen används för att skjuta automateld så innebär det följande:
 - De som försöker skjuta emot ska slå ett Chockslag med Chockfaktor 2 (se [[Trauma, chock och stress#Chock]])
-- Du kan spendera extra framgångar för att träffa fler mål inom målområdet. Varje mål tar vapnets vanliga skadevärde. Du kan som vanligt också spendera extra framgångar för att höja skadan mot ett enskilt mål.
+- Du kan spendera **Effekt** för att träffa fler mål inom målområdet. Varje mål tar vapnets vanliga skadevärde. Du kan som vanligt också spendera **Effekt** för att höja skadan mot ett enskilt mål.
 
 ### Hagelsvärm
 

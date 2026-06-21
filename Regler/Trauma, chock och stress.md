@@ -95,7 +95,7 @@ När något skrämmande eller chockartat inträffar: slå ett **Chockslag, Vilja
 
 Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns** (Stabilitet, 2 × Stabilitet, 3 × Stabilitet, etc…): Slå **T12** och lägg till **+1** för **varje passerad gräns utöver den första**.
 
-|      Slag | Effekt                                                                                                                                                                                                                                      |
+|      Slag | Utfall                                                                                                                                                                                                                                      |
 | --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   **1–2** | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                                                                                |
 |   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |

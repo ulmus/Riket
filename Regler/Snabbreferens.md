@@ -32,7 +32,7 @@
 - **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad
 - **Död** (> 4 × Tålighet KP): Död
 - **Vapnets Skada** läggs till KP-skadan och till kritisk träff-slaget (dubbelt med Penetrerande)
-- **Kritiska sår**: Enligt effekt på tabellen
+- **Kritiska sår**: Enligt utfall på tabellen
 
 ## Stress och Sammanbrott
 
@@ -41,7 +41,7 @@
 - **Stabilitet** = 3 för vanliga karaktärer
 - Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+1 per gräns utöver första)
 
-|      Slag | Effekt                                                                                                                                                                                                                                      |
+|      Slag | Utfall                                                                                                                                                                                                                                      |
 | --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   **1–2** | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                                                                                |
 |   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |

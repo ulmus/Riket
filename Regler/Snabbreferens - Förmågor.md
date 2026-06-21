@@ -12,7 +12,7 @@
 
 ### Fokus-kostnad
 
-| Kostnad | Effekt                                        |
+| Kostnad | Beskrivning                                   |
 | ------- | --------------------------------------------- |
 | **0**   | Passiv eller mycket begränsad                 |
 | **1**   | Standard, används ofta                        |
