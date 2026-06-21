@@ -373,7 +373,7 @@ Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag
 
 ### Bakgrund
 
-| T12 | Utfall                                                                       |
+| T12 | Egenhet                                                                       |
 | --- | ---------------------------------------------------------------------------- |
 | 1   | Uppvuxen i en hamnstad, talar tre språk men inget riktigt väl.               |
 | 2   | Krigsbarn, evakuerad som liten och aldrig riktigt hemma någonstans.          |
@@ -390,7 +390,7 @@ Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag
 
 ### Utseende
 
-| T12 | Utfall                                                              |
+| T12 | Egenhet                                                              |
 | --- | ------------------------------------------------------------------- |
 | 1   | Ett blekt ärr som löper genom ena ögonbrynet.                       |
 | 2   | För välpressad kostym, alltid en aning för stram.                   |
@@ -407,7 +407,7 @@ Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag
 
 ### Personlighet
 
-| T12 | Utfall                                                       |
+| T12 | Egenhet                                                       |
 | --- | ------------------------------------------------------------ |
 | 1   | Misstror alla, litar bara på siffror och dokument.           |
 | 2   | Sentimental, rörs lätt till tårar av musik och minnen.       |
@@ -424,7 +424,7 @@ Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag
 
 ### Beteende
 
-| T12 | Utfall                                                            |
+| T12 | Egenhet                                                            |
 | --- | ----------------------------------------------------------------- |
 | 1   | Knackar ur pipan mot askfatet vid varje paus i samtalet.          |
 | 2   | Rättar oavbrutet på slipsen eller manschetterna.                  |
@@ -433,8 +433,8 @@ Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag
 | 5   | Nynnar eller visslar lågt på en gammal melodi.                    |
 | 6   | Petar bort osynligt damm från ärmen mitt i en mening.             |
 | 7   | Talar om sig själv i tredje person.                               |
-| 8   | Ler oavbrutet, även när beskeden är de värsta.                    |
+| 8   | Ler i alla lägen, allra bredast vid dåliga nyheter.               |
 | 9   | Strör in fackuttryck eller latin som ingen runt bordet förstår.   |
 | 10  | Räknar tyst på fingrarna medan hen tänker.                        |
-| 11  | Tar fram och stoppar undan ett fickur eller ett foto, om och om.  |
+| 11  | Tar fram och stoppar undan ett fickur eller ett foto, om och om igen. |
 | 12  | Avbryter sig själv mitt i meningar och börjar om från början.     |
