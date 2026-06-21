@@ -96,8 +96,7 @@ Fokus är en personlig resurs som återställs inför varje scen. Fokus används
 - Lägga till extra tärningar efter slag (en gång per slag; en tärning per Fokus; fritt antal Fokus; misslyckande ger komplikation).
 - Aktivera förmågor och krafter.
 - Försvara dig aktivt (väja eller parera) utanför din tur (se [[Strid och skada#Försvar]]).
-- Slippa avdraget för att göra två saker samtidigt, eller ignorera att en handling kräver att du står stilla (se [[Strid och skada#Turer och handlingar]]).
-- Utlösa förmågor och krafter utanför din tur, eller utöver din vanliga handling, där förmågan anger det.
+- Driva förmågor och krafter som uttryckligen kostar Fokus för att verka utanför din tur eller utöver din vanliga handling (till exempel en motattack eller ett extra skott).
 
 ### Komplikationer
 
@@ -130,7 +129,7 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
-- Din tur: **en handling**, plus en kort förflyttning. Att göra två saker samtidigt är ett steg svårare (eller kostar 1 Fokus). Vissa handlingar kräver att du står stilla.
+- Din tur: **en handling**, plus en kort förflyttning. Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla.
 - Försvar är passivt — SL väger in rörelse och skydd i anfallets svårighet. Vill du aktivt väja eller parera spenderar du 1 Fokus, slår Smidighet + Strid och drar av dina framgångar från anfallets framgångar.
 - Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.
 

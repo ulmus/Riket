@@ -11,7 +11,7 @@ På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge 
 Tre saker formar vad du hinner med:
 
 - **Förflyttning ingår.** Du kan förflytta dig upp till din **Förflyttning** som en del av din tur, så länge din handling inte kräver att du står stilla.
-- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, attackera två mål, eller köra och skjuta — gör handlingen **ett steg svårare**. Du kan istället spendera **1 Fokus** för att slippa avdraget.
+- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, attackera två mål, eller köra och skjuta — gör handlingen **ett steg svårare**. Det går inte att köpa sig fri från avdraget med Fokus; bara vissa förmågor låter dig slippa det i specifika fall.
 - **Stillastående-handlingar** kräver att du inte förflyttar dig samma runda (se nedan).
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.

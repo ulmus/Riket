@@ -18,7 +18,7 @@
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
-- **Din tur:** en handling + en kort förflyttning. Två saker samtidigt = ett steg svårare (eller 1 Fokus)
+- **Din tur:** en handling + en kort förflyttning. Två saker samtidigt = ett steg svårare (om inte en förmåga säger annat)
 - **Stillastående-handlingar** (sikta, kirurgi, koncentrera kraft): kräver att du inte rör dig, annars ett steg svårare
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
 - **Försvar:** passivt (SL väger in i svårigheten). Aktiv väjning/parering: 1 Fokus, Smidighet + Strid, dra av dina framgångar från anfallets
