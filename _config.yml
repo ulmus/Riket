@@ -32,7 +32,7 @@ exclude:
   - build-pdf.sh
   - build-pdf-karaktärer.sh
   - build-lib.sh
-  - spine.txt
+  - Manuskript.md
   - karaktär.css
   - regler.css
   - publish.css
