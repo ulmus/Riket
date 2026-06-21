@@ -11,7 +11,7 @@ På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge 
 Tre saker avgör vad du hinner med under handlingen:
 
 - **Förflyttning ingår.** Du kan förflytta dig upp till din **Förflyttning** som en del av din tur, så länge din handling inte kräver att du står stilla. Du kan välja att förflytta dig **dubbla Förflyttningen**, men då blir din handling **ett steg svårare**.
-- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, eller köra och skjuta — gör handlingen **ett steg svårare**. Du kan inte göra två attacker på detta sätt.
+- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, eller köra och skjuta — gör handlingen **ett steg svårare**. Du kan inte göra två attacker på detta sätt. En förmåga eller kraft som *modifierar din handling* räknas som en del av handlingen, inte som en andra sak — den gör den alltså inte svårare.
 - **Stillastående-handlingar** kräver att du inte förflyttar dig samma runda (se nedan).
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
@@ -36,6 +36,8 @@ Vissa handlingar kräver lugn och precision och förutsätter att du **inte för
 - Att upprätthålla koncentrationen på en kraft
 
 Förflyttar du dig ändå blir handlingen **ett steg svårare**, eller omöjlig om SL bedömer att den kräver fullständigt lugn. Vissa förmågor kan väga upp avdraget — en tränad prickskytt kan röra sig och ändå skjuta utan att det blir svårare.
+
+Att **upprätthålla en kraft** är ett pågående tillstånd, inte en ny handling varje runda. Du kan utföra en annan handling medan du koncentrerar dig, men det räknas som **två saker samtidigt** (ett steg svårare) och du måste stå stilla. Koncentrationen håller tills du själv släpper den eller störs på ett sätt SL bedömer bryter fokus — krafter med begränsningen *Koncentration* bryts dessutom om du tar skada.
 
 ## Försvar
 
