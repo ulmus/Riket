@@ -36,7 +36,7 @@ cssclasses:
 
 Du böjer ljuset runt din kropp och blir svår att fokusera på.
 
-- **Effekt:** Alla som försöker se dig måste lyckas med Sinnen + Sinnen för att lokalisera dig och även då är deras avståndsattacker mot dig **två steg svårare**.
+- **Verkan:** Alla som försöker se dig måste lyckas med Sinnen + Sinnen för att lokalisera dig och även då är deras avståndsattacker mot dig **två steg svårare**.
 - **+1 Fokus:** Effekten gäller även en allierad inom 2 m.
 
 ### Synvilla (1 Fokus, 1 huvudhandling)
