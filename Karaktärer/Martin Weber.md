@@ -52,7 +52,7 @@ I en jakt eller kapplöpning räknas din första framgång varje runda som två.
 
 *Krav:* Smidighet 2, Strid 2
 
-Du kan skjuta med enhandsvapen och köra ett fordon samtidigt utan extra svårighet.
+Du kan köra ett fordon och skjuta med enhandsvapen samma runda utan avdraget för att göra två saker samtidigt.
 
 ### Tyst intrång (Alltid aktiv)
 

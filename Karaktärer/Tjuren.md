@@ -32,11 +32,11 @@ cssclasses:
 
 ## Krafter
 
-### Övermänsklig Styrka (1 Fokus, 1 bihandling)
+### Övermänsklig Styrka (1 Fokus, modifierar din handling)
 
 Du kan göra enorma styrkeansträngningar. Under en runda får du **+2** i Fysik.
 
-### Kinetisk Förankring (1 Fokus, 1 reaktion)
+### Kinetisk Förankring (1 Fokus, reaktiv)
 
 När karaktären blir måltavla för en attack eller effekt som skulle flytta dem, kan de aktivera denna förmåga för att bli helt orubbliga under en runda.
 
@@ -44,11 +44,11 @@ När karaktären blir måltavla för en attack eller effekt som skulle flytta de
 - **+2 Fokus:** Reflektera både knuff och skada.
 - **1 Framgång:** Förankringen håller i en extra runda.
 
-### Läderhud (1 Fokus, 1 reaktion)
+### Läderhud (1 Fokus, reaktiv)
 
 När karaktären träffas av en attack som gör skada kan de aktivera denna förmåga och öka sitt Skydd med **1** under resten av rundan. Förmågan kan aktiveras efter träffen, men innan skadan räknas.
 
-### Tjurrusning (1 Fokus, 1 bihandling)
+### Tjurrusning (1 Fokus, 1 handling)
 
 Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och slår för Fysik + Smidighet. Om du lyckas så kan du ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
 

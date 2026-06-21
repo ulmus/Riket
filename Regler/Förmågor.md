@@ -4,6 +4,8 @@ Förmågor representerar tränade tekniker, yrkesvana och förfinade kunskaper u
 
 Många förmågor ger en **tärningsbonus** på relevanta slag och ofta också en extra verkan som aktiveras antingen genom att spendera Fokus i förväg eller genom att spendera **Effekt** i efterhand. Som princip kostar verkningar som måste bestämmas före slaget **Fokus**, medan verkningar som aktiveras efter en lyckad träff kostar **Effekt** (framgångar utöver de som krävs).
 
+I strid har du **en handling** per runda (se [[Strid och skada#Turer och handlingar]]). En förmåga som modifierar din handling sker som en del av den. Vill du använda en förmåga **utanför din tur** — till exempel för att skydda en allierad eller göra en motattack — eller **utöver** din vanliga handling, kostar det **1 Fokus** där förmågan anger det.
+
 ## Närstrid
 
 ### Fäktning
@@ -28,13 +30,13 @@ Du kan använda *Smidighet + Strid* för obeväpnade närstridsattacker och får
 
 *Krav:* Fäktning, Slagsmål eller Jujutsu
 
-Som en bihandling kan du finta en motståndare, slå för *Smidighet + Strid*. Om du lyckas så dras dina framgångar på finten av från motståndarens eventuella framgångar i dennes försvar mot en attack från dig samma runda.
+När du attackerar kan du inleda med en fint som en del av handlingen. Slå för *Smidighet + Strid* innan attacken. Om du lyckas tvingas målet ta din följande attack passivt — det kan inte väja eller parera mot den (se [[Strid och skada#Försvar]]).
 
 ### Ripost
 
 *Krav:* Fäktning eller Jujutsu
 
-Om du blir attackerad, parerar och får minst en framgång på ditt försvar så kan du spendera 1 Fokus och göra en motattack (finess-vapen med Fäktning, obeväpnad med Jujutsu).
+När du aktivt parerar en närstridsattack och får minst en framgång på ditt försvar kan du spendera 1 Fokus för att omedelbart göra en motattack (finess-vapen med Fäktning, obeväpnad med Jujutsu).
 
 ### Fällning
 
@@ -46,7 +48,7 @@ Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att fä
 
 *Krav:* Jujutsu
 
-Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att koppla ett grepp om motståndaren istället för att göra skada. En fastlåst person kan inte förflytta sig eller använda tvåhandsvapen och måste lyckas med ett slag för *Fysik + Strid* mot ditt *Fysik + Strid* (huvudhandling) för att bryta sig loss. Du måste behålla minst en hand fri för greppet.
+Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att koppla ett grepp om motståndaren istället för att göra skada. En fastlåst person kan inte förflytta sig eller använda tvåhandsvapen och måste lyckas med ett slag för *Fysik + Strid* mot ditt *Fysik + Strid* (en handling) för att bryta sig loss. Du måste behålla minst en hand fri för greppet.
 
 ### Uppercut
 
@@ -72,7 +74,7 @@ Du är tränad i att kontrollera automateld med precision. Du kan använda *Fysi
 
 *Krav:* Automatsalva
 
-Du skjuter täckande eld som hindrar fienden från att förflytta sig. För en huvudhandling och 1 Fokus kan du lägga en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in i eller igenom zonen måste slå ett Chockslag med Chockfaktor 3 (2 om de är stridstränade) och får automatiskt en attack med en framgång riktad mot sig. De måste slå **Försvar** (normalt *Smidighet + Strid* och kostar en reaktion) med minst en framgång eller ta vapnets normala skada.
+Du skjuter täckande eld som hindrar fienden från att förflytta sig. Som din handling och 1 Fokus kan du lägga en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in i eller igenom zonen måste slå ett Chockslag med Chockfaktor 3 (2 om de är stridstränade) och får automatiskt en attack med en framgång riktad mot sig. De tar vapnets normala skada om de inte aktivt försvarar sig (1 Fokus, *Smidighet + Strid*) med minst en framgång.
 
 ### Undertryckande eld
 
@@ -102,13 +104,13 @@ När du träffar med ett gevär kan du spendera 1 framgång på träffen för at
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol som gratis handling. Spendera 1 Fokus före slaget för att skjuta och röra dig i samma rörelse — du kan förflytta dig upp till din halva Förflyttning som en del av attacken utan att det räknas som handling eller försvårar slaget.
+Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol utan att det kostar din handling. Förflyttning gör inte dina pistolattacker svårare — du kan röra dig och skjuta samma runda utan avdraget för att göra två saker samtidigt.
 
 ### Snabbskott
 
 *Krav:* Pistolskytt
 
-Spendera en bihandling och 1 Fokus för att göra en pistolattack (även om du gjort en attack redan i rundan). Attacken är ett steg svårare än normalt.
+Spendera 1 Fokus för att göra en extra pistolattack samma runda, utöver din handling. Attacken är ett steg svårare än normalt.
 
 ### Stark kastarm
 
@@ -122,7 +124,7 @@ Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdista
 
 *Krav:* Fysik 2, Strid 2
 
-Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera en reaktion för att ge dem +1 tärning på deras försvar.
+Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera 1 Fokus för att aktivt försvara dem: slå *Smidighet + Strid* som ett **Lätt** slag och dra av **Effekten** från anfallets framgångar, precis som om du försvarade dig själv.
 
 ### Offervilja
 
@@ -168,7 +170,7 @@ Du räknas som *stridstränad* för regler som hänvisar till det — du behöve
 
 *Krav:* Analys 2, Strid 3
 
-Som en huvudhandling kan du analysera stridsläget och ge order. Slå *Analys + Strid*. Varje framgång ger dig en **Taktikpoäng**. Du kan spendera Taktikpoäng för att ge allierade +1 tärning på deras attacker eller försvar om de följer dina order. Taktikpoängen är kvar striden ut, men ersätts (läggs inte till) om du använder Taktisk koordinering igen under samma strid. Taktikpoäng måste spenderas innan slaget och bara till någon du kan kommunicera med.
+Som din handling kan du analysera stridsläget och ge order. Slå *Analys + Strid*. Varje framgång ger dig en **Taktikpoäng**. Du kan spendera Taktikpoäng för att ge allierade +1 tärning på deras attacker eller försvar om de följer dina order. Taktikpoängen är kvar striden ut, men ersätts (läggs inte till) om du använder Taktisk koordinering igen under samma strid. Taktikpoäng måste spenderas innan slaget och bara till någon du kan kommunicera med.
 
 ### Lagarbete
 
@@ -206,7 +208,7 @@ Du får +1 på *List + Smidighet* för att smyga eller ta dig in obemärkt i ett
 
 *Krav:* Smidighet 2, Strid 2
 
-Du kan skjuta med enhandsvapen och köra ett fordon samtidigt utan extra svårighet (normalt minst **Svår**). Spendera 1 Fokus före slaget för att din skytt-handling inte ska räknas som en handling i fordonsturen — du kan köra som vanligt samma runda.
+Du kan köra ett fordon och skjuta med enhandsvapen samma runda utan avdraget för att göra två saker samtidigt — körningen och skottet stör inte varandra.
 
 ### Fingerfärdighet
 
@@ -224,7 +226,7 @@ Du har +1 på *List + Samspel* i romantiska eller förföriska sammanhang. Spend
 
 *Krav:* List 2, Samspel 2
 
-När du konfronteras direkt med kunskap, motiv eller minne du vill dölja kan du som en reaktion slå *List + Samspel* för att framstå som helt ovetande och förbluffad över själva frågan. Vid framgång övertygar du för stunden — du slipper svara på frågan och frågeställaren tar inte upp ämnet igen samma scen utan ny konkret anledning. Spendera 1 framgång för att också rikta misstanken mot någon annan på platsen.
+När du konfronteras direkt med kunskap, motiv eller minne du vill dölja kan du omedelbart slå *List + Samspel* för att framstå som helt ovetande och förbluffad över själva frågan. Vid framgång övertygar du för stunden — du slipper svara på frågan och frågeställaren tar inte upp ämnet igen samma scen utan ny konkret anledning. Spendera 1 framgång för att också rikta misstanken mot någon annan på platsen.
 
 ### Trimma
 
@@ -244,7 +246,7 @@ När du skulle missa en avståndsattack kan du spendera 1 Fokus för att slå om
 
 *Krav:* Fysik 3, Strid 3
 
-Du kan aktivera ett raseri som en fri handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt får du +2 på alla närstridsattacker och +2 Skada i närstrid, men du kan inte använda Fokus och du måste attackera närmaste fiende. Du kan försöka avsluta raseriet i början av din tur med en bihandling och ett lyckat slag för *Strid + Vilja*.
+Du kan aktivera ett raseri utan att det kostar din handling när du tar skada. Du tar 1 Stress per runda raseriet är aktivt. Medan raseriet är aktivt får du +2 på alla närstridsattacker och +2 Skada i närstrid, men du kan inte använda Fokus och du måste attackera närmaste fiende. Du kan försöka avsluta raseriet i början av din tur med ett lyckat slag för *Strid + Vilja*.
 
 ### Sista ansträngning
 

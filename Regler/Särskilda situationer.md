@@ -34,7 +34,7 @@ Skada från eld beror på eldens storlek och tas varje omgång.
 
 Varje Skadevärde innebär att personen tar 1 KP skada och rullar en skadetärning. Kritiska träffar slås på tabellen för [[Kritiska träffar#Eld]]. Skydd skyddar normalt.
 
-Om du tar minst 3 KP av eldskada i en runda **eller** drabbas av en kritisk träff som anger att du blir Brinnande (t.ex. *Brinnande kläder*, rad 4 på [[Kritiska träffar#Eld]]), så är du **Brinnande**. Du fortsätter ta skada med skadevärde 3 varje runda till du släckt elden. Man kan försöka släcka elden genom att rulla runt. Det tar en huvudhandling med ett slag för *Fysik + Smidighet*. Varje framgång sänker skadevärdet ett steg.
+Om du tar minst 3 KP av eldskada i en runda **eller** drabbas av en kritisk träff som anger att du blir Brinnande (t.ex. *Brinnande kläder*, rad 4 på [[Kritiska träffar#Eld]]), så är du **Brinnande**. Du fortsätter ta skada med skadevärde 3 varje runda till du släckt elden. Man kan försöka släcka elden genom att rulla runt. Det tar en handling med ett slag för *Fysik + Smidighet*. Varje framgång sänker skadevärdet ett steg.
 
 ## Explosioner
 

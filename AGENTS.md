@@ -72,7 +72,7 @@ Use bold for:
 - **Important effects**: Conditions and states that affect gameplay (e.g., **Sårad**, **Döende**, **Medvetslös**).
 - **Requirement labels**: Labels like "Krav:", "Verkan:", "Kostnad:".
 - **Table headers** and **column names** in inline context.
-- **Action types**: **Huvudhandling**, **Bihandling**, **Reaktion**.
+- **Action types**: **Handling**, **Stillastående-handling**.
 - **Numeric values** that are mechanically significant (e.g., "**1 Stress**").
 - **Difficulty levels**: **Normal**, **Svår**, **Mycket Svår** when specifying difficulty as a named level in rules or adventure text. Inflect to **Normalt/Svårt/Mycket Svårt** (neutrum singular) or **Svåra/Mycket Svåra** (plural) when used as predicate adjective.
 

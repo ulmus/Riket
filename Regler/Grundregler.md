@@ -63,7 +63,7 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära egenskaper
 
-- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per bihandling.
+- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per runda. Förflyttning ingår i din tur så länge din handling inte kräver att du står stilla.
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
@@ -94,13 +94,15 @@ Hur du använder dina egenskaper beskrivs i [[Aktiviteter]].
 Fokus är en personlig resurs som återställs inför varje scen. Fokus används för att:
 
 - Lägga till extra tärningar efter slag (en gång per slag; en tärning per Fokus; fritt antal Fokus; misslyckande ger komplikation).
-- Aktivera förmågor.
+- Aktivera förmågor och krafter.
+- Försvara dig aktivt (väja eller parera) utanför din tur (se [[Strid och skada#Försvar]]).
+- Driva förmågor och krafter som uttryckligen kostar Fokus för att verka utanför din tur eller utöver din vanliga handling (till exempel en motattack eller ett extra skott).
 
 ### Komplikationer
 
 Om du använt Fokus för att lägga till tärningar till ett slag och någon av de tärningar som du lade till visar en etta så drabbas du av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. SL avgör vad det är för komplikation. Exempel:
 
-- Eldavbrott på ditt vapen — du måste lägga en huvudhandling och lyckas med Analys + Smidighet för att återställa vapnet.
+- Eldavbrott på ditt vapen — du måste lägga en handling och lyckas med Analys + Smidighet för att återställa vapnet.
 - Om ingen lämplig komplikation passar, ta en Stress.
 
 ### Stress istället för Fokus
@@ -127,8 +129,8 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
-- Din tur: 1 huvudhandling, 1 bihandling, 1 reaktion (för försvar).
-- Försvar deklareras innan attackens resultat; försvarare använder en reaktion, slår Smidighet + Strid och drar av framgångar från attackens framgångar.
+- Din tur: **en handling**, plus en kort förflyttning (dubbel förflyttning gör handlingen ett steg svårare). Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla.
+- Försvar är passivt — SL väger in rörelse och skydd i anfallets svårighet. Vill du aktivt väja eller parera spenderar du 1 Fokus, slår Smidighet + Strid (Lätt) och drar av Effekten från anfallets framgångar.
 - Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.
 
 Se kapitlet för [[Strid och skada]].
