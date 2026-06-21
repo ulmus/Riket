@@ -2,7 +2,7 @@
 
 Förmågor representerar tränade tekniker, yrkesvana och förfinade kunskaper utöver det som en rollpersons rena Egenskaper räcker till. Varje förmåga består av en rubrik, en rad med *Krav* och en beskrivning av effekten. Krav kan vara värden på Egenskaper, en specifik [[Expertiser|Expertis]] eller en annan förmåga.
 
-Många förmågor ger en **tärningsbonus** på relevanta slag och ofta också en extra verkan som aktiveras antingen genom att spendera Fokus i förväg eller genom att spendera **Effekt** i efterhand. Som princip kostar verkningar som måste bestämmas före slaget **Fokus**, medan verkningar som aktiveras efter en lyckad träff kostar **Effekt** (framgångar utöver de som krävs).
+Många förmågor ger en **tärningsbonus** på relevanta slag och ofta också en extra verkan som aktiveras antingen genom att spendera Fokus i förväg eller genom att spendera **Effekt** i efterhand. Som princip kostar verkningar som måste bestämmas före slaget **Fokus**, medan verkningar som aktiveras efter en lyckad träff kostar **Effekt** (framgångar utöver de som krävs av svårigheten).
 
 I strid har du **en handling** per runda (se [[Strid och skada#Turer och handlingar]]). En förmåga som modifierar din handling sker som en del av den. Vill du använda en förmåga **utanför din tur** — till exempel för att skydda en allierad eller göra en motattack — eller **utöver** din vanliga handling, kostar det **1 Fokus** där förmågan anger det.
 
@@ -12,31 +12,31 @@ I strid har du **en handling** per runda (se [[Strid och skada#Turer och handlin
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på slag för *Smidighet + Strid* när du slåss med ett finess-vapen (närstridsvapen med egenskapen Finess). Spendera 1 framgång på en träff för att avväpna motståndaren istället för att göra skada — vapnet hamnar utom räckhåll.
+Du får +1 på slag för *Smidighet + Strid* när du slåss med ett finess-vapen (närstridsvapen med egenskapen Finess). Spendera 1 Effekt på en träff för att avväpna motståndaren istället för att göra skada — vapnet hamnar utom räckhåll.
 
 ### Slagsmål
 
 *Krav:* Fysik 2, Strid 2
 
-Du får +1 på slag för *Fysik + Strid* när du slåss obeväpnad. Spendera 1 framgång på en träff för att också knuffa motståndaren upp till två meter — mot en vägg, ned från en höjd eller in i en farlig position.
+Du får +1 på slag för *Fysik + Strid* när du slåss obeväpnad. Spendera 1 Effekt på en träff för att också knuffa motståndaren upp till två meter — mot en vägg, ned från en höjd eller in i en farlig position.
 
 ### Jujutsu
 
 *Krav:* Smidighet 2, Strid 2
 
-Du kan använda *Smidighet + Strid* för obeväpnade närstridsattacker och får +1 på det slaget. Spendera 1 framgång på en träff för att också manövrera motståndaren upp till en meter (positionera framför fara, vrida ut ur skydd, vända ryggen mot en allierad).
+Du kan använda *Smidighet + Strid* för obeväpnade närstridsattacker och får +1 på det slaget. Spendera 1 Effekt på en träff för att också manövrera motståndaren upp till en meter (positionera framför fara, vrida ut ur skydd, vända ryggen mot en allierad).
 
 ### Fint
 
 *Krav:* Fäktning, Slagsmål eller Jujutsu
 
-När du attackerar kan du inleda med en fint som en del av handlingen. Slå för *Smidighet + Strid* innan attacken. Om du lyckas tvingas målet ta din följande attack passivt — det kan inte väja eller parera mot den (se [[Strid och skada#Försvar]]).
+När du attackerar kan du inleda med en fint som en del av handlingen. Spendera en fokus för att tvinga målet ta din följande attack passivt — det kan inte väja eller parera mot den (se [[Strid och skada#Försvar]]).
 
 ### Ripost
 
 *Krav:* Fäktning eller Jujutsu
 
-När du aktivt parerar en närstridsattack och får minst en framgång på ditt försvar kan du spendera 1 Fokus för att omedelbart göra en motattack (finess-vapen med Fäktning, obeväpnad med Jujutsu).
+När du aktivt parerar en närstridsattack och får minst en Effekt på ditt försvar kan du spendera ytterligare 1 Fokus för att omedelbart göra en motattack (finess-vapen med Fäktning, obeväpnad med Jujutsu).
 
 ### Fällning
 
@@ -54,7 +54,7 @@ Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att kop
 
 *Krav:* Slagsmål
 
-Dina obeväpnade attacker får +1 Skada. Spendera 1 framgång på en träff för att också göra motståndaren omtumlad — alla deras handlingar nästa runda är ett steg svårare.
+Dina obeväpnade attacker får +1 Skada. Spendera 1 Effekt på en träff för att också göra motståndaren omtumlad — alla deras handlingar nästa runda är ett steg svårare.
 
 ### Överraskningsattack
 
@@ -68,7 +68,7 @@ När du attackerar ett mål som inte är medvetet om dig, eller som du är bakom
 
 *Krav:* Fysik 2, Strid 2, vapen med egenskapen *automateld*
 
-Du är tränad i att kontrollera automateld med precision. Du kan använda *Fysik + Strid* istället för *Smidighet + Strid* vid automateld. Varje framgång du använder för att träffa ett extra mål med automateld ger också ett högre Skada på det målet.
+Du är tränad i att kontrollera automateld med precision. Du kan använda *Fysik + Strid* istället för *Smidighet + Strid* vid automateld. Varje Effekt du använder för att träffa ett extra mål med automateld ger också ett högre Skada på det målet.
 
 ### Täckande eld
 
@@ -86,7 +86,7 @@ Din täckande eld gör det också svårt att attackera. Om du har lagt en zon me
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på *Smidighet + Strid* med gevär. Långt avstånd gör inte dina attacker med gevär svårare. Spendera 1 framgång på en träff för att också ignorera målets Skydd från terräng och täckning (men inte buren rustning) — du har hittat en lucka.
+Du får +1 på *Smidighet + Strid* med gevär. Långt avstånd gör inte dina attacker med gevär svårare. Spendera 1 Effekt på en träff för att också ignorera målets Skydd från terräng och täckning (men inte buren rustning) — du har hittat en lucka.
 
 ### Andningskontroll
 
@@ -98,7 +98,7 @@ Sikta ger dig +2 istället för +1 med gevär. Spendera 1 Fokus före slaget fö
 
 *Krav:* Andningskontroll
 
-När du träffar med ett gevär kan du spendera 1 framgång på träffen för att den framgången ska ge +2 KP-skada istället för +1 — ett enda, väl placerat skott räcker långt. Bara en framgång per skott kan användas på detta sätt.
+När du träffar med ett gevär kan du spendera 1 Effekt på träffen för att den Effekten ska ge +2 KP-skada istället för +1 — ett enda, väl placerat skott räcker långt. Bara en Effekt per skott kan användas på detta sätt.
 
 ### Pistolskytt
 
@@ -116,7 +116,7 @@ Spendera 1 Fokus för att göra en extra pistolattack samma runda, utöver din h
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdistans. Spendera 1 framgång på en träff för att också få vapnet att landa precis där du behöver det — vid en allierads fötter, studsa in genom ett fönster, eller hamna bakom skydd där du senare kan plocka upp det.
+Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdistans. Spendera 1 Effekt på en träff för att också få vapnet att landa precis där du behöver det — vid en allierads fötter, studsa in genom ett fönster, eller hamna bakom skydd där du senare kan plocka upp det.
 
 ## Försvar
 
@@ -144,19 +144,19 @@ När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbar
 
 *Krav:* Expertis: Läkare eller Expertis: Fältmedicinare
 
-Du kan utföra vård även under stridsförhållanden utan att svårigheten ökar av närvaron av strid, skottlossning eller annan tidspress runt dig. Spendera 1 framgång på ett vårdslag för att också flytta patienten upp till två meter i skydd som en del av samma handling.
+Du kan utföra vård även under stridsförhållanden utan att svårigheten ökar av närvaron av strid, skottlossning eller annan tidspress runt dig. Spendera 1 Effekt på ett vårdslag för att också flytta patienten upp till två meter i skydd som en del av samma handling.
 
 ### Stridsstabilisering
 
 *Krav:* Fältmedicinare i strid
 
-När du stabiliserar en Döende allierad läker denne också ett KP per framgång på slaget.
+När du stabiliserar en Döende allierad läker denne också ett KP per Effekt på slaget.
 
 ### Terapeut
 
 *Krav:* Samspel 2
 
-Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt samtal med en person under en lugn scen — slå *Analys + Samspel* och minska personens Stress med antalet framgångar.
+Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt samtal med en person under en lugn scen — slå *Analys + Samspel* och minska personens Stress med slagets Effekt.
 
 ## Taktik och stöd
 
@@ -170,7 +170,7 @@ Du räknas som *stridstränad* för regler som hänvisar till det — du behöve
 
 *Krav:* Analys 2, Strid 3
 
-Som din handling kan du analysera stridsläget och ge order. Slå *Analys + Strid*. Varje framgång ger dig en **Taktikpoäng**. Du kan spendera Taktikpoäng för att ge allierade +1 tärning på deras attacker eller försvar om de följer dina order. Taktikpoängen är kvar striden ut, men ersätts (läggs inte till) om du använder Taktisk koordinering igen under samma strid. Taktikpoäng måste spenderas innan slaget och bara till någon du kan kommunicera med.
+Som din handling kan du analysera stridsläget och ge order. Slå *Analys + Strid*. Varje Effekt ger dig en **Taktikpoäng**. Du kan spendera Taktikpoäng för att ge allierade +1 tärning på deras attacker eller försvar om de följer dina order. Taktikpoängen är kvar striden ut, men ersätts (läggs inte till) om du använder Taktisk koordinering igen under samma strid. Taktikpoäng måste spenderas innan slaget och bara till någon du kan kommunicera med.
 
 ### Lagarbete
 
@@ -196,13 +196,13 @@ Du får +1 på *List + Sinnen* vid skuggning, spaningsuppdrag och rekognosering.
 
 *Krav:* List 2, Samspel 2
 
-Du får +1 på *List + Samspel* när du bluffar, spelar en täckmantel eller improviserar en täckhistoria under press. Spendera 1 framgång för att också göra historien så övertygande att mottagaren upprepar den för sina kollegor utan misstänksamhet.
+Du får +1 på *List + Samspel* när du bluffar, spelar en täckmantel eller improviserar en täckhistoria under press. Spendera 1 Effekt för att också göra historien så övertygande att mottagaren upprepar den för sina kollegor utan misstänksamhet.
 
 ### Tyst intrång
 
 *Krav:* List 2, Smidighet 2
 
-Du får +1 på *List + Smidighet* för att smyga eller ta dig in obemärkt i ett bevakat område. Spendera 1 framgång för att inte lämna några spår — vakterna upptäcker inte intrånget vid senare kontroller heller.
+Du får +1 på *List + Smidighet* för att smyga eller ta dig in obemärkt i ett bevakat område. Spendera 1 Effekt för att inte lämna några spår — vakterna upptäcker inte intrånget vid senare kontroller heller.
 
 ### Skjut och kör
 
@@ -214,25 +214,25 @@ Du kan köra ett fordon och skjuta med enhandsvapen samma runda utan avdraget f�
 
 *Krav:* List 2, Smidighet 2
 
-Du får +1 på *List + Smidighet* för trollerikonster, korttrick, ficktjuveri och annan fingerfärdighet. Spendera 1 framgång för att också plantera ett föremål hos målet utan att de märker det (en avlyssnare, ett komprometterande dokument, en spårsändare).
+Du får +1 på *List + Smidighet* för trollerikonster, korttrick, ficktjuveri och annan fingerfärdighet. Spendera 1 Effekt för att också plantera ett föremål hos målet utan att de märker det (en avlyssnare, ett komprometterande dokument, en spårsändare).
 
 ### Förförisk
 
 *Krav:* Samspel 3
 
-Du har +1 på *List + Samspel* i romantiska eller förföriska sammanhang. Spendera 1 framgång för att också få målet att avslöja en personlig detalj eller hemlighet de annars inte hade delat.
+Du har +1 på *List + Samspel* i romantiska eller förföriska sammanhang. Spendera 1 Effekt för att också få målet att avslöja en personlig detalj eller hemlighet de annars inte hade delat.
 
 ### Vem, jag?
 
 *Krav:* List 2, Samspel 2
 
-När du konfronteras direkt med kunskap, motiv eller minne du vill dölja kan du omedelbart slå *List + Samspel* för att framstå som helt ovetande och förbluffad över själva frågan. Vid framgång övertygar du för stunden — du slipper svara på frågan och frågeställaren tar inte upp ämnet igen samma scen utan ny konkret anledning. Spendera 1 framgång för att också rikta misstanken mot någon annan på platsen.
+När du konfronteras direkt med kunskap, motiv eller minne du vill dölja kan du omedelbart slå *List + Samspel* för att framstå som helt ovetande och förbluffad över själva frågan. Vid framgång övertygar du för stunden — du slipper svara på frågan och frågeställaren tar inte upp ämnet igen samma scen utan ny konkret anledning. Spendera 1 Effekt för att också rikta misstanken mot någon annan på platsen.
 
 ### Trimma
 
 *Krav:* Analys 2, Smidighet 2
 
-Du kan trimma en teknisk pryl. Spendera 1 Fokus och slå *Analys + Smidighet* — för varje framgång ökar en effekt med 50 % eller motsvarande (SL avgör). Effekten varar minst en scen. Spendera ytterligare 1 Fokus före slaget för att också påverka en till effekt på samma pryl.
+Du kan trimma en teknisk pryl. Spendera 1 Fokus och slå *Analys + Smidighet* — för varje Effekt ökar en effekt med 50 % eller motsvarande (SL avgör). Effekten varar minst en scen. Spendera ytterligare 1 Fokus före slaget för att också påverka en till effekt på samma pryl.
 
 ## Desperata manövrar
 
@@ -328,7 +328,7 @@ Spendera 1 Fokus före ett dekrypteringsslag för +3 tärningar. Bara 1 Fokus pe
 
 *Krav:* Expertis: Kryptograf
 
-Du ser mönster där andra ser brus. Varje framgång på slag för dekryptering, kodanalys eller annan ren mönstertolkning räknas som två mot scenens framgångskrav. Dessutom kan du, en gång per session, peka ut ett dolt samband, en återkommande kontakt eller ett mönster i ett spaningsmaterial utan att slå.
+Du ser mönster där andra ser brus. Varje Effekt på slag för dekryptering, kodanalys eller annan ren mönstertolkning räknas som två mot scenens framgångskrav. Dessutom kan du, en gång per session, peka ut ett dolt samband, en återkommande kontakt eller ett mönster i ett spaningsmaterial utan att slå.
 
 ### Förfalskare
 
@@ -412,7 +412,7 @@ Spendera 1 Fokus för att göra din förklädnad resistent — den överlever n�
 
 *Krav:* Expertis: Maskör
 
-När du hjälper en allierad med sociala slag ger dina framgångar +2 bonustärningar istället för +1.
+När du hjälper en allierad med sociala slag ger din Effekt +2 bonustärningar istället för +1.
 
 ### Förhörsledare
 
@@ -440,7 +440,7 @@ Spendera 1 Fokus för att ge en allierad +3 tärningar på nästa attack eller f
 
 *Krav:* Expertis: Officer, Taktisk koordinering
 
-Varje framgång på ditt slag för Taktisk koordinering ger två Taktikpoäng istället för en — dina order är extra slagkraftiga och allas insatser samordnas mer effektivt än vanligt.
+Varje Effekt på ditt slag för Taktisk koordinering ger två Taktikpoäng istället för en — dina order är extra slagkraftiga och allas insatser samordnas mer effektivt än vanligt.
 
 ### Chaufför
 
@@ -504,7 +504,7 @@ När du befinner dig i en miljö med säkerhetsrutiner (en bevakad anläggning, 
 
 *Krav:* Analys 2
 
-Utöver dina grundspråk kan du välja ytterligare ett språk per nivå i Analys. Spendera 1 framgång på ett samtals- eller avlyssningsslag för att också identifiera talarens dialekt, brytning eller falska accent — du kan avgöra ursprung eller avslöja att talaren döljer sitt.
+Utöver dina grundspråk kan du välja ytterligare ett språk per nivå i Analys. Spendera 1 Effekt på ett samtals- eller avlyssningsslag för att också identifiera talarens dialekt, brytning eller falska accent — du kan avgöra ursprung eller avslöja att talaren döljer sitt.
 
 ### Djurvän
 

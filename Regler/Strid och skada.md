@@ -31,21 +31,19 @@ Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exem
 
 Vissa handlingar kräver lugn och precision och förutsätter att du **inte förflyttar dig** samma runda:
 
-- **Sikta** (+1 på en avståndsattack, +2 i stabil position eller liggande)
-- Prickskytte på långt håll
+- Avståndsattacker
 - Kirurgi, stabilisering och annan noggrann vård
 - Att upprätthålla koncentrationen på en kraft
 
-Förflyttar du dig ändå blir handlingen **ett steg svårare**, eller omöjlig om SL bedömer att den kräver fullständigt lugn. Expertis kan väga upp avdraget — en tränad prickskytt kan röra sig och ändå skjuta utan att det blir svårare.
+Förflyttar du dig ändå blir handlingen **ett steg svårare**, eller omöjlig om SL bedömer att den kräver fullständigt lugn. Vissa förmågor kan väga upp avdraget — en tränad prickskytt kan röra sig och ändå skjuta utan att det blir svårare.
 
 ## Försvar
 
 Försvar är som grund **passivt**: när du blir attackerad väger SL in din rörelse, ditt skydd och omständigheterna i anfallets **Svårighet**. Du behöver inte göra något, och du förlorar inte din handling för att försvara dig.
 
-Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja eller parera, även utanför din egen tur:
+Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja eller parera, även utanför din egen tur. Du kan bara göra det mot attacker som du är medveten om. Du slår för Smidighet + Strid och drar av dina framgångar från attackens framgångar.
 
-- **Väja undan** (Smidighet + Strid): slå som ett **Lätt** slag och dra av **Effekten** från anfallets framgångar. Du hamnar på marken efteråt, och att resa dig är din handling nästa runda.
-- **Parera en närstridsattack** (Smidighet + Strid + eventuell paradbonus): slå som ett **Lätt** slag och dra av **Effekten** från anfallets framgångar.
+Du kan väja både för avstånds- och närstridsattacker Om du väjer så hamnar du på marken efter attacken. Du kan bara parera närstridsattacker och du måste ha något i händerna som du kan parera med.
 
 Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]]).
 
@@ -57,25 +55,18 @@ I strid kan du spendera Fokus för att:
 - Försvara dig aktivt — väja eller parera (se [[#Försvar]]).
 - Aktivera förmågor och krafter, inklusive sådana som uttryckligen låter dig agera utanför din tur eller göra något extra.
 
-Du kan **inte** använda Fokus för att fritt göra en extra handling, en extra attack eller för att slippa avdraget när du gör två saker samtidigt. Det kräver en **förmåga** som uttryckligen tillåter det (till exempel Snabbskott, Pistolskytt eller Skjut och kör).
-
 ## Avståndsattacker
 
-Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid med modifikationer.
-
-- Sikta (stillastående) +1
-- Stabil position +1 (+2 om liggande)
-
-Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott svårare:
+Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid. Avståndsattacker är normalt stillastående handlingar Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott svårare:
 
 - Målet är i skydd eller snabb rörelse
 - Mörker eller dålig sikt
 - Avstånd bortom vapnets räckvidd
-- Skytten är i rörelse eller instabil position
+- Skytten är i rörelse (eftersom avståndsattacker är stillastående)
 
 En enskild försvårande faktor gör skottet normalt **Svår**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svår** — SL avgör. Skott långt bortom vapnets räckvidd kan vara **Mycket Svår** eller omöjligt.
 
-Att attackera ett omedvetet mål som rör sig långsamt och förutsägbart, inom vapnets räckvidd är **Lätt**. Det innebär i praktiken att det lyckas automatiskt och slaget slås för att se hur hög Effekten blev.
+Att med god tid attackera ett omedvetet mål som rör sig långsamt och förutsägbart, inom vapnets räckvidd är **Lätt**. Det innebär i praktiken att det lyckas automatiskt och slaget slås bara för att se hur hög Effekten blir.
 
 ### Skjuta tillbaka mot nedhållande eld
 
