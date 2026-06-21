@@ -12,7 +12,7 @@ För en snabbstart, se [[Snabbreferens]].
 
 Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma egenskap två gånger):
 
-- Slå ett antal T12 motsvarande **Egenskap + Egenskap +/- situationsmodifiering**.
+- Slå ett antal T12 motsvarande **Egenskap + Egenskap + eventuell bonus.
 - Varje slag på **10+** är en framgång.
 - Varje slag på **12** ger dessutom 1 **Fokus**.
 - Minst en framgång krävs för att lyckas (**Normal**).

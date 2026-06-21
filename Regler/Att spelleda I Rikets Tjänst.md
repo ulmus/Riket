@@ -36,7 +36,7 @@ Svårighet i I Rikets Tjänst är i huvudsak en spelledarbedömning, inte ett me
 - **Använd även Lätt svårighet när det passar.** Lätt svårighet innebär att inga tärningar behöver nå framgång, det är alltså automatiskt lyckat. Var inte rädd för att sätta svårigheten Lätt ibland, när det inte är frågan *om* utan *hur bra* någon lyckas. Exempelvis när någon försöker göra något som täcks av dennes expertis.
 - **Sätt svårighet efter slaget om det behövs.** Ibland är det lättast att be någon bara rulla tärningarna och sätta svårigheten om det spelar roll. Blev det noll framgångar, eller tre framgångar så är svårigheten inte lika relevant.
 - **Bonusar ibland, men aldrig avdrag.** Utöver svårighet så finns det specifika förutsättningar som ger bonus på slaget, om man får hjälp eller har särskilda verktyg till exempel. Däremot ges inga negativa modifikationer, det är för att spelaren alltid ska kunna ta Egenskap + Egenskap antal tärningar och vara säker på att det är minsta antalet tärningar som rullas. Det är lätt att lägga till, men svårt att ta bort tärningar i efterhand.
-- **Ibland finns *delvis* lyckat.** Om svårigheten till exempel är Svårt, men spelaren rullar *en* framgång, då kan du som spelledare bedöma att det är *delvis* lyckat. Om just den här aktiviteten *kan* lyckas delvis och vad som då händer avgör spelledaren. Den som ska hoppa över från ett hustak till ett annat kanske faller men får tag i en hängränna och får slå ett nytt slag för att rädda upp situationen.
+- **Ibland finns *delvis* lyckat.** Om svårigheten till exempel är Svårt, men spelaren rullar *en* framgång, då kan du som spelledare bedöma att det är *delvis* lyckat. Om just den här aktiviteten *kan* lyckas delvis och vad som då händer avgör spelledaren. Den som ska hoppa över från ett hustak till ett annat kanske faller men får tag i en hängränna och får slå ett nytt slag för att rädda upp situationen. Det här är inte så mycket en regel som en öppning för "fail forward".
 - **Svårare än Mycket Svårt är inte relevant.** Ett Mycket Svårt slag har redan relativt låg sannolikhet att lyckas, till och med för en maxad ENS. Om aktiviteten är svårare än så kan den lika gärna betraktas som omöjlig i spelet.
 - **Effekten på slaget är de *överskjutande* framgångarna.** Vissa aktiviteter har nytta av att få fler framgångar än vad som krävs för att lyckas. Det kallas Effekt och räknas alltid som antalet framgångar som slogs, *utöver* de som behövdes för att klara svårigheten.
 
@@ -66,13 +66,13 @@ Sättet som fokus ackumulerar på (12:or på tärningsslag) ger det en oföruts�
 
 Fokus andra användningsområde, att lägga till tärningar till ett slag, fyller också två syften. Det första är att ha ett bas-använingsområde för Fokus, när du inte har tillfälle att använda dina förmågor. Fokus ska alltid kännas värdefullt. Det andra är att kunna säga som spelare att "det här är viktigt" och visa det på spelbordet. Det kan också minska risken att ett dåligt slag får berättelsen att spåra ur för mycket.
 
-### Stress och Fokus
+### Stress istället för Fokus
 
 En nackdel med att Fokus ackumulerar slumpmässigt över tid är att det ibland finns en risk att rollpersonen inte har någon Fokus när det vore som mest rimligt i berättelsen att aktivera en förmåga. För att komma åt det finns ventilen i spelsystemet att närhelst en karaktär skulle använt Fokus men inte har några Fokus kvar, kan den istället ta upp till sin Stabilitet antal Stress och få lika många Fokus som måste spenderas direkt.
 
 Syftet är att det ska finnas ett sätt att pressa sig och ta större risk när det gäller. Stressen du tar för dig närmre Sammanbrottet (som ju kommer varje gång din Stress passerar en multipel av din Stabilitet). Eftersom även andra faktorer kan ge Stress – så som skräckfyllda upplevelser, strid, skador, etc – så vet du som spelare inte riktigt när konsekvenserna kommer av att du valde att ta Stress. Osäkerheten i det är en del av designen.
 
-### Momentum
+### Momentum vid ny scen
 
 Ett problem med ackumulerande Fokus är att det ger ett incitament att inte spendera förrän man kommer till berättelsens klimax. Det är naturligt och en del av systemet, men tråkigt om det går för långt. För att jämna ut effekten av det så finns Momentum.
 
@@ -82,7 +82,7 @@ Det spelar inte så stor roll exakt vad Momentum är i ett givet tillfälle, oft
 
 I grunden gäller att **när tid förflyter i spelet utan att det spelas ut vid spelbordet så är det en ny scen och nytt Momentum**.
 
-#### Slå Chockslag ofta
+### Slå Chockslag ofta
 
 Det är avsiktligt tänkt att karaktärernas Stress byggs upp under en session för att nå svårkontrollerbara nivåer i slutet. En nyckel till det är Chockslag. Var frikostig med att be spelarna slå Chockslag när något oväntat eller förskräckande händer. Det kan vara fysiska hot (alltid ett Chockslag i början av en strid om du inte är stridstränad). Men det kan också vara en tryckt stämning, en plötslig upptäckt eller ett vedervärdigt intryck. Här är några exempel på tillfällen när det kan vara lämpligt att slå Chockslag:
 
@@ -92,6 +92,15 @@ Det är avsiktligt tänkt att karaktärernas Stress byggs upp under en session f
 - Passkontrollanten som precis släppte förbi dig ropar barskt på polska och vinkar till sig dig igen (Chock 1)
 - Babusjkan som häller upp kålsoppa tittar på din stulna, illasittande uniform och säger med ett höjt ögonbryn "är du ny här?" (Chock 1)
 - Båten kränger plötsligt till i stormen och får slagsida (Chock 2)
+### Koppla in trauman
+
+Ha gärna en fusklapp med de olika karaktärernas Trauma och kom ihåg att om en rollpersons Trauma är inkopplat i en chockande upplevelse så höjs Chockvärdet med ett steg. Det innebär också att en person kan behöva slå Chockslag med Chock 1 för upplevelser som andra inte behöver slå Chockslag för alls (klaustrofobikern som går in i en hiss, till exempel).
+
+### Improvisera med SLP, minska administrationen
+
+Du behöver inte hålla koll på Stress och Fokus för SLP, det är bättre om du improviserar. Om en Zvezda-agent har använt sina krafter två gånger redan under scenen, så kan du räkna med att hennes fokus är slut och hon behöver ta Stress. Om hon redan har tagit Stress eller slagit Chockslag så kan det vara dags att slå på Sammanbrottstabellen.
+
+När det kommer till namnlösa SLP som gränsvakter, etc så är inte men att använda Fokus eller Stress över huvud taget. De har generellt inte förmågor som ska aktiveras och eventuella Sammanbrotts-effekter kan göras som rena SL-beslut, utan slag.
 
 ## Äventyret
 
@@ -101,4 +110,9 @@ Hiss-pitchen för I Rikets Tjänst är "Golden Age Comics om John Le Carré hade
 - **Använd verkliga händelser och personer.** Det här förslaget är med under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] också, men där mer under *hur* du berättar historierna. Men det gäller lika mycket *vilka* historier du väljer att berätta. Åk till Kongo för att undersöka nedskjutningen av Dag Hammarskjöld, låt rollpersonerna vara med och nysta upp härvan som leder till Wennerströms gripande eller låt hela äventyret utspela sig i skuggan av ett dagsaktuellt skeende som Berlinmurens uppbyggnad eller Kubakrisen.
 - **Definiera vilka som är inblandade, vad de vet och vad de vill.** I Rikets Tjänst handlar ofta om hur olika faktioner och personer agerar och vilka agendor de har. Definiera i förväg vilka som är inblandade. Känner CIA också till Wennerström och varför har de inte i så fall sagt något? Är rollpersonernas kontakt inom Bundesnachrichtendienst verkligen så entusiastisk över deras inbladning som hon låter påskina och i så fall varför? Se till att det finns tillräckligt många aktörer som vill tillräckligt mycket för att driva berättelsen framåt, om ett spår känns dött kan du lätt introducera ett annat.
 - **Tänk i termer av scener, platser och personer, inte intriger.** Det är viktigt att spelarna får en upplevelse av att de påverkar händelseförloppet, lägg därför inte ut en färdig intrig om vad som *måste* hända och i vilken ordning. Det är å andra sidan också viktigt att du har en plan eller idé om vad som *kan* hända, så att du kan leda berättandet. Ha gärna en grov skiss klar för dig om vilka platser och personer som är involverade och försök spela dessa så det blir intressanta scener. Du kan förbereda ett antal potentiella scener, en konfrontation med kaptenen på bilfärjans däck eller biljakt undan VoPo på Östberlins gator. Beskriv scenerna med några ord och tänk igenom hur du skulle kunna beskriva dem (dieseldoften från färjans motorer, de märkligt folktomma gatorna nära muren i Östberlin). Men bli inte kär i dina scener, ha gärna tre gånger så många förberedda som du använder och lägg till och improvisera beroende på hur spelarna agerar.
-- **Se till att klockan tickar.** I ett undersökande äventyr, som många spionäventyr ofta är, så ligger bollen ofta hos spelarna. Det kan vara problematiskt och leda till att spelet stannar upp. Ta gärna tillfället i akt att spela ut småscener i de här lägena. En lunch i Tiergarten med en tjeckoslovakisk kulturattaché eller en oskyldig promenad längs Strandvägen i Stockholm med franska ambassadörens fru. Men ibland behöver du kunna vrida upp tempot. Skriv gärna in någon typ av klickande klocka i scenariot. Om de inte agerar inom viss tid så blir det svårare, snaran dras åt, de falska passen rapporteras till myndigheterna, GRU-agenterna anländer från Moskva. 
+- **Se till att klockan tickar.** I ett undersökande äventyr, som många spionäventyr ofta är, så ligger bollen ofta hos spelarna. Det kan vara problematiskt och leda till att spelet stannar upp. Ta gärna tillfället i akt att spela ut småscener i de här lägena. En lunch i Tiergarten med en tjeckoslovakisk kulturattaché eller en oskyldig promenad längs Strandvägen i Stockholm med franska ambassadörens fru. Men ibland behöver du kunna vrida upp tempot. Skriv gärna in någon typ av klickande klocka i scenariot. Om de inte agerar inom viss tid så blir det svårare, snaran dras åt, de falska passen rapporteras till myndigheterna, GRU-agenterna anländer från Moskva.
+- **Väv in trauman.** Ta gärna en titt på karaktärernas trauman när du skriver ditt äventyr och se om det finns ett sätt att få ett eller två av dem i spel under äventyret. Det ger ett större djup till scenariot och ger spelarna enkla möjligheter att spela sin karaktär.
+
+## Karaktären
+
+Karaktärsskapande i I Rikets Tjänst är ett gemensamt arbete mellan spelare och spelledare. Syftet är att skapa en karaktär som är rolig att spela och som bidrar till till berättelsen och till även de andra spelarna. Eftersom det 
