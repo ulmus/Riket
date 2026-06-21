@@ -3,7 +3,7 @@
 #
 # Rollpersoner har egen layout (karaktär.css, ingen titelsida, ingen
 # innehållsförteckning) och byggs därför separat från de linjära böckerna i
-# spine.txt. Se build-pdf.sh för regelbok, värld och äventyr.
+# Manuskript.md. Se build-pdf.sh för regelbok, värld och äventyr.
 set -euo pipefail
 
 BASEDIR="$(cd "$(dirname "$0")" && pwd)"

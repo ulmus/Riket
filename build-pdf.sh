@@ -1,10 +1,14 @@
 #!/bin/bash
-# Bygg PDF:er för I Rikets Tjänst utifrån spine.txt (pandoc + weasyprint).
+# Bygg PDF:er för I Rikets Tjänst utifrån Manuskript.md (pandoc + weasyprint).
+#
+# Manuskript.md anger vilka kapitel som ingår i varje bok och i vilken ordning.
+# Se den filen för formatet (Markdown med en rubrik per bok och en wikilänk per
+# kapitel) — redigera manuskriptet, inte det här skriptet, för att ändra innehåll.
 #
 # Användning:
-#   ./build-pdf.sh            Bygg alla böcker i spine.txt
+#   ./build-pdf.sh            Bygg alla böcker i Manuskript.md
 #   ./build-pdf.sh <id>       Bygg bara boken med angivet id (t.ex. regler)
-#   ./build-pdf.sh --check    Validera spinen utan att bygga (kräver inte
+#   ./build-pdf.sh --check    Validera manuskriptet utan att bygga (kräver inte
 #                             pandoc/weasyprint): kontrollerar att alla kapitel-
 #                             filer finns och att alla bildreferenser kan hittas.
 #   ./build-pdf.sh --check <id>   Validera bara en bok.
@@ -16,7 +20,7 @@ BASEDIR="$(cd "$(dirname "$0")" && pwd)"
 # shellcheck source=build-lib.sh
 source "$BASEDIR/build-lib.sh"
 
-SPINE="$BASEDIR/spine.txt"
+MANIFEST="$BASEDIR/Manuskript.md"
 PDFDIR="$BASEDIR/pdf"
 
 MODE="build"
@@ -30,7 +34,7 @@ for arg in "$@"; do
   esac
 done
 
-[ -f "$SPINE" ] || irt_die "Hittar inte spine.txt ($SPINE)."
+[ -f "$MANIFEST" ] || irt_die "Hittar inte Manuskript.md ($MANIFEST)."
 [ "$MODE" = "build" ] && irt_require_build_tools
 
 trim() {
@@ -38,6 +42,51 @@ trim() {
   s="${s#"${s%%[![:space:]]*}"}"
   s="${s%"${s##*[![:space:]]}"}"
   printf '%s' "$s"
+}
+
+# Lös upp ett wikilänk-mål (texten mellan [[ och ]]) till en repo-relativ
+# .md-sökväg och skriv den till stdout. Ett bart filnamn räcker när det är unikt;
+# ange så mycket av sökvägen som behövs ([[Mapp/Fil]]) när flera filer delar namn.
+# Saknas filen skrivs målet ut oförändrat så att anroparen kan rapportera SAKNAS.
+# Returnerar icke-noll vid tvetydighet.
+resolve_chapter() {
+  local target base matches m rel hits count
+  target="$1"
+  target="${target%%|*}"      # ta bort | alias
+  target="${target%%#*}"      # ta bort #sektion
+  target="$(trim "$target")"
+  [ -z "$target" ] && return 1
+  case "$target" in *.md) ;; *) target="$target.md" ;; esac
+
+  # Direkt repo-relativ sökväg?
+  if [ -f "$BASEDIR/$target" ]; then
+    printf '%s' "$target"
+    return 0
+  fi
+
+  # Annars: sök på filnamnet och filtrera på angivet sökvägssuffix.
+  base="$(basename "$target")"
+  matches="$(find "$BASEDIR" \( -path "$BASEDIR/.git" -o -path "$PDFDIR" \) -prune \
+               -o -type f -name "$base" -print 2>/dev/null)"
+  hits=""
+  while IFS= read -r m; do
+    [ -z "$m" ] && continue
+    rel="${m#"$BASEDIR/"}"
+    case "/$rel" in */"$target") hits="$hits$rel"$'\n' ;; esac
+  done <<< "$matches"
+
+  count="$(printf '%s' "$hits" | grep -c . || true)"
+  if [ "$count" -eq 1 ]; then
+    printf '%s' "$hits" | head -n1
+    return 0
+  elif [ "$count" -eq 0 ]; then
+    printf '%s' "$target"     # låt anroparen rapportera SAKNAS
+    return 0
+  else
+    echo "  TVETYDIG: \"${target%.md}\" matchar flera filer — ange mer av sökvägen." >&2
+    printf '%s' "$target"
+    return 1
+  fi
 }
 
 BUILT=0
@@ -106,39 +155,88 @@ process_book() {
   BUILT=$((BUILT + 1))
 }
 
-# Tolka spine.txt rad för rad.
+# Tolka Manuskript.md rad för rad.
+#   ## Rubrik              startar en bok; rubriken blir undertiteln
+#   ## ~~Rubrik~~          genomstruken rubrik = inaktiverad bok (hoppas över)
+#   <!-- bok: id | css: x [| notoc] -->   bokens metadata, direkt under rubriken
+#   - [[Fil]]              kapitel i läsordning (wikilänk)
 cur_id=""; cur_sub=""; cur_css=""; cur_toc="yes"
 files=()
+in_comment=0
+
+reset_book() { cur_id=""; cur_sub=""; cur_css=""; cur_toc="yes"; files=(); }
 
 flush() {
-  [ -z "$cur_id" ] && return 0
+  # Bara rubriker med både metadata och minst ett kapitel byggs. En rubrik utan
+  # kapitel (prosaavsnitt) eller en genomstruken rubrik (cur_sub tom) hoppas över.
+  if [ -z "$cur_sub" ] || [ "${#files[@]}" -eq 0 ]; then
+    reset_book
+    return 0
+  fi
+  if [ -z "$cur_id" ] || [ -z "$cur_css" ]; then
+    echo "Boken \"$cur_sub\" saknar metadata-kommentar (<!-- bok: id | css: fil -->)." >&2
+    ERRORS=$((ERRORS + 1))
+    reset_book
+    return 0
+  fi
   process_book "$cur_id" "$cur_sub" "$cur_css" "$cur_toc" "${files[@]}"
-  files=()
+  reset_book
 }
 
 while IFS= read -r line || [ -n "$line" ]; do
-  case "$line" in \#*) continue ;; esac
+  # Hoppa över fleradiga HTML-kommentarer.
+  if [ "$in_comment" -eq 1 ]; then
+    case "$line" in *'-->'*) in_comment=0 ;; esac
+    continue
+  fi
   line="$(trim "$line")"
   [ -z "$line" ] && continue
-  if [ "${line:0:1}" = "=" ]; then
-    flush
-    IFS='|' read -r h_id h_sub h_css h_flags <<< "${line#=}"
-    cur_id="$(trim "$h_id")"
-    cur_sub="$(trim "$h_sub")"
-    cur_css="$(trim "$h_css")"
-    cur_toc="yes"
-    [[ "$(trim "${h_flags:-}")" == *notoc* ]] && cur_toc="no"
-    [ -n "$cur_id" ] || irt_die "Bokrubrik saknar id: $line"
-    [ -n "$cur_sub" ] || irt_die "Bok '$cur_id' saknar undertitel."
-    [ -n "$cur_css" ] || irt_die "Bok '$cur_id' saknar css."
-  else
-    files+=("$line")
-  fi
-done < "$SPINE"
+  case "$line" in
+    '<!--'*'-->')                       # enradig kommentar
+      inner="${line#<!--}"; inner="${inner%-->}"; inner="$(trim "$inner")"
+      case "$inner" in
+        bok:*)
+          meta="$(trim "${inner#bok:}")"
+          IFS='|' read -ra parts <<< "$meta"
+          cur_id="$(trim "${parts[0]:-}")"
+          for p in "${parts[@]:1}"; do
+            p="$(trim "$p")"
+            case "$p" in
+              css:*) cur_css="$(trim "${p#css:}")" ;;
+              notoc) cur_toc="no" ;;
+            esac
+          done
+          ;;
+      esac
+      ;;
+    '<!--'*) in_comment=1 ;;            # öppnande kommentar utan stängning
+    '## '*)                             # ny bok (## ~~...~~ = inaktiverad)
+      flush
+      sub="$(trim "${line#\#\#}")"
+      case "$sub" in
+        '~~'*) ;;                       # genomstruken → lämna cur_sub tom (hoppas)
+        *) cur_sub="$sub" ;;
+      esac
+      ;;
+    '- '*|'* '*|'+ '*)                  # listpunkt → kapitel (om inne i en bok)
+      [ -n "$cur_sub" ] || continue
+      case "$line" in
+        *'[['*']]'*)
+          rest="${line#*\[\[}"; target="${rest%%\]\]*}"
+          # Tvetydiga/saknade mål rapporteras av process_book (SAKNAS); här
+          # sväljer vi bara returkoden så att "set -e" inte avbryter bygget.
+          rel="$(resolve_chapter "$target")" || true
+          files+=("$rel")
+          ;;
+      esac
+      ;;
+    *) : ;;                             # prosa, andra rubriker m.m. — ignorera
+  esac
+done < "$MANIFEST"
 flush
 
 if [ -n "$WANT" ] && [ "$MATCHED" -eq 0 ]; then
-  irt_die "Ingen bok med id '$WANT' i spine.txt."
+  irt_die "Ingen bok med id '$WANT' i Manuskript.md."
 fi
 
 if [ "$ERRORS" -ne 0 ]; then
@@ -146,7 +244,7 @@ if [ "$ERRORS" -ne 0 ]; then
 fi
 
 if [ "$MODE" = "check" ]; then
-  echo "Spine validerad."
+  echo "Manuskript validerat."
 else
   echo "Klart: $BUILT bok/böcker byggda."
 fi
