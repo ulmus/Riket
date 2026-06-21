@@ -129,8 +129,8 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
-- Din tur: **en handling**, plus en kort förflyttning. Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla.
-- Försvar är passivt — SL väger in rörelse och skydd i anfallets svårighet. Vill du aktivt väja eller parera spenderar du 1 Fokus, slår Smidighet + Strid och drar av dina framgångar från anfallets framgångar.
+- Din tur: **en handling**, plus en kort förflyttning (dubbel förflyttning gör handlingen ett steg svårare). Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla.
+- Försvar är passivt — SL väger in rörelse och skydd i anfallets svårighet. Vill du aktivt väja eller parera spenderar du 1 Fokus, slår Smidighet + Strid (Lätt) och drar av Effekten från anfallets framgångar.
 - Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.
 
 Se kapitlet för [[Strid och skada]].

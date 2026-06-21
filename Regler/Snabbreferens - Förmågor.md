@@ -37,7 +37,7 @@
 | -------------------------- | -------------------------------- | ----------------------------------------------------- |
 | **Handling**               | 1 per runda                      | Attacker, krafter, ladda om, vård, komplexa manövrar  |
 | **Förflyttning**           | Ingår i turen                    | Röra dig upp till din Förflyttning                    |
-| **Två saker samtidigt**    | Ett steg svårare (om inte en förmåga säger annat) | Röra dig + sikta, attackera två mål, köra + skjuta |
+| **Två saker samtidigt**    | Ett steg svårare (om inte en förmåga säger annat) | Röra dig + sikta, köra + skjuta, dubbel förflyttning |
 | **Stillastående-handling** | Får inte förflytta dig samma runda | Sikta, prickskytte, kirurgi, upprätthålla kraft     |
 | **Aktivt försvar**         | 1 Fokus (även utanför din tur)   | Väja undan, parera                                    |
 | **Reaktiv/extra kraft**    | 1 Fokus (där förmågan anger)     | Skydda allierad, motattack, kraft utanför din tur     |
@@ -103,7 +103,7 @@
 ## Vanliga frågor
 
 **F: Kan jag göra flera saker på min tur?**  
-S: Du har en handling plus en kort förflyttning per runda. Vill du göra två saker som kräver din uppmärksamhet (t.ex. röra dig och sikta, eller attackera två mål) blir det ett steg svårare. Det går inte att betala bort avdraget med Fokus — bara särskilda förmågor (som Pistolskytt eller Skjut och kör) kan låta dig slippa det. Att göra mer än en attack på samma runda kräver också en förmåga (till exempel Snabbskott).
+S: Du har en handling plus en kort förflyttning per runda. Vill du göra två saker som kräver din uppmärksamhet (t.ex. röra dig och sikta, eller köra och skjuta) blir det ett steg svårare. Det går inte att betala bort avdraget med Fokus — bara särskilda förmågor (som Pistolskytt eller Skjut och kör) kan låta dig slippa det. Att göra mer än en attack på samma runda kräver också en förmåga (till exempel Snabbskott).
 
 **F: Kombineras Expertis med förmågor?**  
 S: Ja, om det inte står något annat. Expertis: Officer (+1) + Skarpskytt (+1) = +2 totalt.

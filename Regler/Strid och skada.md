@@ -8,10 +8,10 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge förband eller något annat som kräver din uppmärksamhet under rundan. Det finns inga separata bihandlingar eller reaktioner; allt du gör i strid utgår från din enda handling per runda.
 
-Tre saker formar vad du hinner med:
+Tre saker avgör vad du hinner med:
 
-- **Förflyttning ingår.** Du kan förflytta dig upp till din **Förflyttning** som en del av din tur, så länge din handling inte kräver att du står stilla.
-- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, attackera två mål, eller köra och skjuta — gör handlingen **ett steg svårare**. Det går inte att köpa sig fri från avdraget med Fokus; bara vissa förmågor låter dig slippa det i specifika fall.
+- **Förflyttning ingår.** Du kan förflytta dig upp till din **Förflyttning** som en del av din tur, så länge din handling inte kräver att du står stilla. Du kan välja att förflytta dig **dubbla Förflyttningen**, men då blir din handling **ett steg svårare**.
+- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, eller köra och skjuta — gör handlingen **ett steg svårare**. Det går inte att köpa sig fri från avdraget med Fokus; bara vissa förmågor låter dig slippa det i specifika fall.
 - **Stillastående-handlingar** kräver att du inte förflyttar dig samma runda (se nedan).
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
@@ -44,10 +44,20 @@ Försvar är som grund **passivt**: när du blir attackerad väger SL in din rö
 
 Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja eller parera, även utanför din egen tur:
 
-- **Väja undan** (Smidighet + Strid): dra av dina framgångar från anfallets framgångar. Du hamnar på marken efteråt, och att resa dig är din handling nästa runda.
-- **Parera en närstridsattack** (Smidighet + Strid + eventuell paradbonus): dra av dina framgångar från anfallets framgångar.
+- **Väja undan** (Smidighet + Strid): slå som ett **Lätt** slag och dra av **Effekten** från anfallets framgångar. Du hamnar på marken efteråt, och att resa dig är din handling nästa runda.
+- **Parera en närstridsattack** (Smidighet + Strid + eventuell paradbonus): slå som ett **Lätt** slag och dra av **Effekten** från anfallets framgångar.
 
 Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]]).
+
+## Fokus i strid
+
+I strid kan du spendera Fokus för att:
+
+- Lägga till tärningar på ett slag (som vanligt).
+- Försvara dig aktivt — väja eller parera (se [[#Försvar]]).
+- Aktivera förmågor och krafter, inklusive sådana som uttryckligen låter dig agera utanför din tur eller göra något extra.
+
+Du kan **inte** använda Fokus för att fritt göra en extra handling, en extra attack eller för att slippa avdraget när du gör två saker samtidigt. Det kräver en **förmåga** som uttryckligen tillåter det (till exempel Snabbskott, Pistolskytt eller Skjut och kör).
 
 ## Avståndsattacker
 

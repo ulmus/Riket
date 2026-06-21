@@ -124,7 +124,7 @@ Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdista
 
 *Krav:* Fysik 2, Strid 2
 
-Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera 1 Fokus för att aktivt försvara dem: slå *Smidighet + Strid* och dra av dina framgångar från anfallets framgångar, precis som om du försvarade dig själv.
+Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera 1 Fokus för att aktivt försvara dem: slå *Smidighet + Strid* som ett **Lätt** slag och dra av **Effekten** från anfallets framgångar, precis som om du försvarade dig själv.
 
 ### Offervilja
 

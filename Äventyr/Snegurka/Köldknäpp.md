@@ -696,7 +696,7 @@ Slå Vilja + Sinnen för att manipulera metallföremål inom 15 meter. Kan rycka
 - **1 Framgång:** Föremål flyger med dödlig kraft (grundskada 3, **Skadebonus +2**, Skadetyp Kross).
 
 **Magnetisk sköld** (1 Fokus, reaktiv)
-Avled metallprojektiler. Skydd +2 mot skjutvapen med metallkulor.
+Spendera 1 Fokus för att avleda metallprojektiler: Skydd +2 mot skjutvapen med metallkulor.
 
 - **1 Framgång:** Skydd +3 istället.
 
