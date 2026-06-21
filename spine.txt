@@ -32,8 +32,8 @@ Regler/Vapen.md
 Regler/Kritiska träffar.md
 Regler/Läkning & vård.md
 Regler/Särskilda situationer.md
+Regler/Att spelleda I Rikets Tjänst.md
 Regler/Snabbreferens.md
-Regler/Snabbreferens - Förmågor.md
 Terminologi.md
 
 = varlden | Världen | regler.css
