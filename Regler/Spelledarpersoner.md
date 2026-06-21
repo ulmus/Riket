@@ -133,7 +133,7 @@ Stasi-officeren i förhörsrummet, säkerhetstjänstens specialist på att bryta
 
 ### Informatör
 
-Tjallaren, den nervöse meddelaren, smågångstern som säljer rykten. Opålitlig och rädd, säljer gärna det köparen vill höra. En källa som lika gärna kan vara en fälla. Värd att spela för det han *inte* vågar säga.
+Tjallaren, den nervöse meddelaren, smågångstern som säljer rykten. Opålitlig och rädd, säljer gärna det köparen vill höra. En källa som lika gärna kan vara en fälla — och som ofta avslöjar mest genom det han *inte* vågar säga.
 
 **Motivation:** Tjäna pengar, hålla sig levande, blidka den som skrämmer honom mest just nu.
 
