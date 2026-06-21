@@ -160,6 +160,8 @@ Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt sam
 
 ## Taktik och stöd
 
+Flera av förmågorna nedan hjälper allierade. De följer samma princip som resten av spelet: **intjänad hjälp** kostar din handling och hämtar sin styrka ur slagets **Effekt** (ingen Fokus), medan **betald hjälp** kostar **1 Fokus** eftersom den sker utöver din handling eller utanför din tur. Bonustärningarna från [[Aktiviteter#Hjälpa till|Hjälpa till]] och Taktisk koordinering är alltså intjänade; en order via Stridsorder eller Inspirera betalas med Fokus.
+
 ### Stridsträning
 
 *Krav:* Strid 3
@@ -170,7 +172,7 @@ Du räknas som *stridstränad* för regler som hänvisar till det — du behöve
 
 *Krav:* Analys 2, Strid 3
 
-Som din handling kan du analysera stridsläget och ge order. Slå *Analys + Strid*. Varje Effekt ger dig en **Taktikpoäng**. Du kan spendera Taktikpoäng för att ge allierade +1 tärning på deras attacker eller försvar om de följer dina order. Taktikpoängen är kvar striden ut, men ersätts (läggs inte till) om du använder Taktisk koordinering igen under samma strid. Taktikpoäng måste spenderas innan slaget och bara till någon du kan kommunicera med.
+Som din handling kan du analysera stridsläget och ge order. Slå *Analys + Strid* (Normal). Varje **Effekt** ger dig en **Taktikpoäng**, dock högst lika många som antalet allierade du kan kommunicera med. Du kan spendera Taktikpoäng för att ge allierade +1 tärning på deras attacker eller försvar om de följer dina order. Taktikpoängen är kvar striden ut, men ersätts (läggs inte till) om du använder Taktisk koordinering igen under samma strid. Taktikpoäng måste spenderas innan slaget och bara till någon du kan kommunicera med.
 
 ### Lagarbete
 
@@ -182,7 +184,7 @@ Du har +1 på alla slag för att hjälpa andra. När du som biaktör lyckas med 
 
 *Krav:* Samspel 3
 
-Du kan spendera 1 Fokus för att ge en allierad inom hörhåll 1 Fokus som måste spenderas inom en runda.
+Spendera 1 Fokus, utöver din handling, för att ge en allierad inom hörhåll +2 tärningar på deras nästa slag (denna eller nästa runda).
 
 ## Fältarbete
 
@@ -434,7 +436,7 @@ Spendera 1 Fokus före ett förhör för att etablera en avväpnande, vänlig st
 
 *Krav:* Expertis: Officer
 
-Spendera 1 Fokus för att ge en allierad +3 tärningar på nästa attack eller försvar.
+Spendera 1 Fokus, utöver din handling, för att ge en allierad +3 tärningar på nästa attack eller försvar.
 
 #### Fältbefäl
 

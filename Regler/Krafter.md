@@ -48,11 +48,12 @@ Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
 
 #### Handlingskostnad
 
-| Handlingstyp          | Användning                                                    |
-| --------------------- | ------------------------------------------------------------- |
-| **Ingen**             | Passiva krafter (alltid aktiva)                               |
-| **En handling**       | De flesta aktiva krafter — kraften är din handling för rundan |
-| **Reaktiv (1 Fokus)** | Defensiva krafter som svar på en attack, utanför din tur      |
+| Handlingstyp                | Användning                                                    |
+| --------------------------- | ------------------------------------------------------------- |
+| **Ingen**                   | Passiva krafter (alltid aktiva)                               |
+| **En handling**             | De flesta aktiva krafter — kraften är din handling för rundan |
+| **Modifierar din handling** | En snabb förstärkning som följer med din vanliga handling     |
+| **Reaktiv (1 Fokus)**       | Defensiva krafter som svar på en attack, utanför din tur      |
 
 En kraft kan också utformas så att den **modifierar** din vanliga handling (en snabb förstärkning) i stället för att vara en egen handling. Att en kraft är **reaktiv** — att den kan användas **utanför din tur** eller **utöver** din vanliga handling — ingår i kraftens egen kostnad. Du betalar kraftens angivna Fokuskostnad och inget därutöver. Att kunna användas reaktivt är i sig en förstärkning och bör vägas in när du sätter kraftens grundkostnad.
 
