@@ -80,7 +80,7 @@ Begränsningar gör kraften billigare eller mer rimlig. Exempel:
 
 ### Steg 5: Lägg till förstärkningar
 
-Krafter kan förstärkas genom att spendera fler Fokus eller genom att få fler Framgångar på slaget för kraften (om kraften har ett slag). Grundprincipen är att extra Fokus används för att lägga till effekter till kraften eller förstärka de effekter som finns på ett sätt som kräver planering, det vill säga spelaren behöver veta i förväg om det är relevant. Extra framgångar förstärker istället befintliga effekter, så som mer skada, högre bonus etc.
+Krafter kan förstärkas genom att spendera fler Fokus eller genom att få fler Framgångar på slaget för kraften (om kraften har ett slag). Grundprincipen är att extra Fokus används för att lägga till effekter till kraften eller förstärka de effekter som finns på ett sätt som kräver planering, det vill säga spelaren behöver veta i förväg om det är relevant. **Effekt** (framgångar utöver de som krävs) förstärker istället befintliga effekter, så som mer skada, högre bonus etc.
 
 **Fokuskostnad vid slag:** Om kraften kräver ett slag för att lyckas gäller följande: du betalar alltid grundkostnaden i Fokus oavsett om slaget lyckas eller inte. Extra Fokus som spenderas för förstärkningar ("+1 Fokus"-alternativ) betalas däremot bara om slaget lyckas. Om slaget misslyckas förlorar du bara grundkostnaden.
 

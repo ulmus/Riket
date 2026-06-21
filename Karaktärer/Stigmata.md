@@ -37,7 +37,7 @@ cssclasses:
 
 Med din beröring kan du få en person att uppvisa sjukdomssymtom för en specifik sjukdom. Slå för Fysik + Vilja mot motståndarens Fysik + Vilja.
 
-- **Effekt:** En person som du rör vid utvecklar symtom motsvarande en specifik sjukdom och alla deras handlingar blir **ett steg svårare** under en scen.
+- **Verkan:** En person som du rör vid utvecklar symtom motsvarande en specifik sjukdom och alla deras handlingar blir **ett steg svårare** under en scen.
 - **1 Framgång:** Ytterligare ett steg svårare per extra Framgång.
 - **+1 Fokus:** Personen kan vara inom tre meter.
 - **+1 Fokus:** Personen får ett epileptiskt anfall och svimmar.
@@ -46,7 +46,7 @@ Med din beröring kan du få en person att uppvisa sjukdomssymtom för en specif
 
 Du kan påverka cellernas aktivitet i målet för att sluta sår och läka skador. Slå för Fysik + Vilja.
 
-- **Effekt:** Ett mål som du rör vid läker 2 KP. Förmågan kan inte utföras på dig själv.
+- **Verkan:** Ett mål som du rör vid läker 2 KP. Förmågan kan inte utföras på dig själv.
 - **1 Framgång:** Läk ytterligare 1 KP.
 - **+1 Fokus:** Förmågan kan även behandla kritiska skador (räknas som lyckat vårdslag), men du tar själv 1 KP skada per behandlad skada.
 - **+2 Fokus:** Förmågan kan stabilisera en Döende person, men du tar själv 2 KP skada och 1 Stress.
@@ -55,7 +55,7 @@ Du kan påverka cellernas aktivitet i målet för att sluta sår och läka skado
 
 Du kan tillfälligt dämpa effekterna av stress och skada. Slå för Vilja + Vilja.
 
-- **Effekt:** En person du rör vid (eller du själv) ignorerar alla effekter av Stress och skador (inklusive kritiska skador och Stress-trauman) under en runda. Du kan upprätthålla dämpningen genom att koncentrera dig med en bihandling varje runda, alla dina övriga handlingar blir då ett steg svårare. När dämpningen upphör återkommer effekterna, och målet tar dessutom **+1 Stress**.
+- **Verkan:** En person du rör vid (eller du själv) ignorerar alla effekter av Stress och skador (inklusive kritiska skador och Stress-trauman) under en runda. Du kan upprätthålla dämpningen genom att koncentrera dig med en bihandling varje runda, alla dina övriga handlingar blir då ett steg svårare. När dämpningen upphör återkommer effekterna, och målet tar dessutom **+1 Stress**.
 - **1 Framgång:** Effekten täcker ytterligare en person.
 - **+1 Fokus:** Effekten har räckvidd 10 meter.
 
