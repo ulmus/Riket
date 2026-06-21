@@ -9,7 +9,7 @@ Arketyperna är mallar, inte namngivna individer. Ge dem ett namn, ett utmärkan
 - **Tre nivåer.** SLP delas in i *statister* (namnlösa, snabba att spela), *tränade* SLP (reellt motstånd inom sitt område) och *elit och ENS* (motståndare i ett äventyrs klimax). Välj den nivå som passar scenens vikt.
 - **Spåra inte Fokus och Stress för statister.** För namnlösa SLP som gränsvakter och meniga soldater fattar du Sammanbrotts- och stresseffekter som rena SL-beslut, utan slag. För tränade SLP och ENS kan du improvisera Fokus enligt rådet i spelledarkapitlet: har en ENS redan använt sina krafter ett par gånger under scenen är dess Fokus slut och den får ta Stress.
 - **Skala efter behov.** Vill du ha en vassare eller slappare variant av en arketyp — höj eller sänk en eller två Egenskaper när du bygger SLP:n. Det är en fri justering av SLP:ns siffror vid bordet och ska inte förväxlas med modifikationer på spelarnas slag (som bara får bonusar, aldrig avdrag).
-- **Tålighet räknas som Fysik + Vilja**, Stabilitet är 3 om inget annat anges och aldrig högre. Att vara ENS ger ingen automatisk höjning av Tålighet — bara en specifik kraft eller förmåga kan göra en SLP tåligare än Fysik + Vilja. Vapnens Skada och egenskaper finns i [[Vapen]], krafterna byggs enligt [[Krafter]].
+- **Tålighet räknas som Fysik + Vilja** (krafter och förmågor kan höja den), Stabilitet är 3 om inget annat anges. Vapnens Skada och egenskaper finns i [[Vapen]], krafterna byggs enligt [[Krafter]].
 
 ## Statister
 
@@ -125,7 +125,7 @@ Stasi-officeren i förhörsrummet, säkerhetstjänstens specialist på att bryta
 **Egenskaper:**
 
 - Vilja 4, Analys 3, Samspel 3, List 3, Sinnen 2, Strid 2, Fysik 2, Smidighet 1
-- **Tålighet:** 6, **Stabilitet:** 3
+- **Tålighet:** 6, **Stabilitet:** 4
 - **Expertis:** Förhörsledare, Säkerhetsofficer
 - **Förmågor:** Järnvilja
 
@@ -275,7 +275,7 @@ En förstärkt fysisk enhet — programmets stridsvagn av kött. Massiv, nästan
 **Egenskaper:**
 
 - Fysik 6 (övernaturlig), Strid 4, Sinnen 2, Vilja 1, Analys 1, List 1, Samspel 1, Smidighet 1
-- **Tålighet:** 7 (Fysik 6 + Vilja 1), **Stabilitet:** 2
+- **Tålighet:** 9 (Fysik 6 + Vilja 1 + 2 från Nästan okrossbar kropp), **Stabilitet:** 2
 - **Förflyttning:** 8 meter
 
 **Krafter:**
@@ -287,7 +287,7 @@ En förstärkt fysisk enhet — programmets stridsvagn av kött. Massiv, nästan
 
 **Nästan okrossbar kropp:**
 
-- Förstärkt hud och muskler. **Skydd 2.**
+- Förstärkt hud och muskler. **Skydd 2** och **+2 Tålighet** (inräknat ovan).
 - −2 på slag på [[Kritiska träffar]]-tabellen mot kolossen.
 - Påverkas inte av att bli **Sårad**.
 
@@ -328,7 +328,7 @@ Ett misslyckat subjekt — från [[Program Frigg (Sverige)|Program Frigg]] eller
 **Egenskaper:**
 
 - Analys 4, List 4, Samspel 4, Vilja 4, Sinnen 3, Smidighet 2, Fysik 2, Strid 2
-- **Tålighet:** 6, **Stabilitet:** 3
+- **Tålighet:** 6, **Stabilitet:** 4
 - **Expertis:** Spion, Underrättelseanalytiker, Maskör
 - **Förmågor:** Skugga, Förförisk, Snabbtänkt
 
