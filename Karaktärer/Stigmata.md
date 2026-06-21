@@ -67,7 +67,7 @@ Du kan tillfälligt dämpa effekterna av stress och skada. Slå för Vilja + Vil
 
 ### Fältkirurg (Expertis: Läkare)
 
-Spendera 1 Fokus för **+3** tärningar på ett vårdslag.
+Spendera 1 Fokus före ett vårdslag för **+3** tärningar. Bara 1 Fokus per slag på detta sätt.
 
 ## Nackdelar
 

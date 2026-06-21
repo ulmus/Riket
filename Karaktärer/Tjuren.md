@@ -63,30 +63,32 @@ Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och s
 
 ## Förmågor
 
-### Automatsalva (Alltid aktiv / 1 Fokus för lång salva)
+### Automatsalva (Alltid aktiv)
 
 *Krav:* Fysik 2, Strid 2, vapen med egenskapen *automateld*
 
 Du är tränad i att kontrollera automateld med precision.
 
 - Du kan använda **Fysik + Strid** istället för Smidighet + Strid vid automateld.
-- **Kort salva:** Spendera 1 Fokus för att göra en attack till mot ett extra mål.
-- **Lång salva:** Spendera 2 Fokus för att göra en attack mot alla mål i en kon.
+- Varje **Effekt** du använder för att träffa ett extra mål med automateld ger också ett högre Skada på det målet.
 
 ### Slagsmål (Alltid aktiv)
 
-- Du får +1 på slag för Fysik + Strid när du slåss obeväpnad.
-- Dina obeväpnade attacker har **Skada 1** istället för 0.
+*Krav:* Fysik 2, Strid 2
+
+Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Spendera 1 **Effekt** på en träff för att också knuffa motståndaren upp till två meter — mot en vägg, ned från en höjd eller in i en farlig position.
 
 ### Uppercut (Alltid aktiv)
 
 *Krav:* Slagsmål
 
-Dina obeväpnade attacker får **+1 skada**.
+Dina obeväpnade attacker får **+1 Skada**. Spendera 1 **Effekt** på en träff för att också göra motståndaren omtumlad — alla deras handlingar nästa runda är ett steg svårare.
 
 ### Djurvän (Alltid aktiv)
 
-Du har +1 på Samspel med djur.
+*Krav:* Samspel 2
+
+Du har +1 på slag som involverar Samspel med djur. Spendera 1 Fokus för att låta ett djur du etablerat kontakt med utföra en enkel tjänst åt dig under en scen — avleda en vakt, bära ett kort meddelande, leta upp en bekant plats.
 
 ## Nackdelar
 

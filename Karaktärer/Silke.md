@@ -32,20 +32,24 @@ cssclasses:
 
 ## Krafter
 
-### Feromoner (1 Fokus, en handling)
+### Feromoner (Alltid aktiv)
 
-Karaktären slår Samspel + Vilja för att via feromoner subtilt ingjuta en grundläggande känsla (t.ex. lugn, rädsla, tillit) under ett par minuter hos en liten grupp inom 10 meter som andas samma luft. Detta kan ge **+2** tärningar på efterföljande sociala slag och generellt ändra sinnesstämningen.
+Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla som är inom 10 meter och andas samma luft.
 
-- **+1 Fokus:** Radien för effekten ökar 10 meter.
-- **1 Framgång:** Känslan är starkare och håller i sig hela scenen.
+### Manipulation (1 Fokus, en handling)
+
+Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp inom 10 meter. Ger +1 tärning på efterföljande sociala slag.
+
+- **+1 Fokus:** Radien ökar 10 meter.
+- **1 Framgång:** Känslan håller i sig hela scenen.
 
 ### Förslag (2 Fokus, en handling)
 
-Karaktären fokuserar sin vilja på ett mål inom 10 meter som andas samma luft och ger en enkel, verbal order som inte innebär att personen utsätter sig själv eller allierade för omedelbar livsfara. Detta är ett motståndsslag (Samspel + Vilja mot målets Samspel + Vilja). Om karaktären vinner måste målet omedelbart lyda ordern.
+Slå Samspel + Vilja mot målets Samspel + Vilja för att ge en enkel, verbal order. Om du vinner måste målet lyda. Ordern kan inte innebära omedelbar livsfara.
 
 - **+1 Fokus:** Ordern kan vara komplex eller pågå under en längre tid.
-- **+1 Fokus:** Ordern får medföra omedelbar livsfara för sig själv eller allierade.
-- **1 Framgång:** Målet kommer inte ihåg att de blev beordrade efteråt.
+- **+1 Fokus:** Ordern får medföra livsfara.
+- **1 Framgång:** Målet kommer inte ihåg ordern efteråt.
 
 ### Aktiverat trauma – Manipulation
 
@@ -55,11 +59,15 @@ Karaktären fokuserar sin vilja på ett mål inom 10 meter som andas samma luft 
 
 ### Förförisk (Alltid aktiv)
 
-Du har +1 på Samspel i romantiska sammanhang.
+*Krav:* Samspel 3
 
-### Vem, jag? (1 Fokus)
+Du har +1 på List + Samspel i romantiska eller förföriska sammanhang. Spendera 1 **Effekt** för att också få målet att avslöja en personlig detalj eller hemlighet de annars inte hade delat.
 
-Genom att spendera 1 Fokus och lyckas med List + Samspel så kan du framstå som helt ovetande om något som du inte vill visa att du känner till.
+### Vem, jag? (Reaktiv)
+
+*Krav:* List 2, Samspel 2
+
+När du konfronteras direkt med kunskap, motiv eller minne du vill dölja kan du omedelbart slå List + Samspel för att framstå som helt ovetande och förbluffad över själva frågan. Vid framgång övertygar du för stunden — du slipper svara på frågan och frågeställaren tar inte upp ämnet igen samma scen utan ny konkret anledning. Spendera 1 **Effekt** för att också rikta misstanken mot någon annan på platsen.
 
 ## Nackdelar
 

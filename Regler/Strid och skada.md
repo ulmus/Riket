@@ -41,7 +41,7 @@ Förflyttar du dig ändå blir handlingen **ett steg svårare**, eller omöjlig 
 
 Försvar är som grund **passivt**: när du blir attackerad väger SL in din rörelse, ditt skydd och omständigheterna i anfallets **Svårighet**. Du behöver inte göra något, och du förlorar inte din handling för att försvara dig.
 
-Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja eller parera, även utanför din egen tur. Du kan bara göra det mot attacker som du är medveten om. Du slår för Smidighet + Strid och drar av dina framgångar från attackens framgångar.
+Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja eller parera, även utanför din egen tur. Du kan bara göra det mot attacker som du är medveten om. Du slår för **Smidighet + Strid** (Lätt) och drar av **Effekten** från anfallets framgångar.
 
 Du kan väja både för avstånds- och närstridsattacker Om du väjer så hamnar du på marken efter attacken. Du kan bara parera närstridsattacker och du måste ha något i händerna som du kan parera med.
 

@@ -81,13 +81,13 @@ Du känner när någon du har en känslomässig koppling till befinner sig i aku
 
 ### Genomlysning (Expertis: Underrättelseanalytiker)
 
-Spendera 1 Fokus efter ett lyckat analysslag för att ställa SL en extra fråga om situationen, dess aktörer eller dolda samband.
+När du har lyckats med ett analysslag på underrättelsematerial, dokument eller spaningsrapporter kan du, en gång per scen, peka ut en dold koppling mellan något du upptäckt och en annan känd faktor — en gemensam kontakt, ett återkommande mönster, en motsägelsefull detalj som avslöjar en agenda. SL berättar vad du sett.
 
 ### Polyglott (Alltid aktiv)
 
 *Krav:* Analys 2
 
-Utöver dina grundspråk kan du välja ytterligare ett språk per nivå i Analys.
+Utöver dina grundspråk kan du välja ytterligare ett språk per nivå i Analys. Spendera 1 **Effekt** på ett samtals- eller avlyssningsslag för att också identifiera talarens dialekt, brytning eller falska accent — du kan avgöra ursprung eller avslöja att talaren döljer sitt.
 
 ## Nackdelar
 
