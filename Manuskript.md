@@ -40,6 +40,7 @@ annan layout) och ingår därför inte här.
 - [[Läkning & vård]]
 - [[Särskilda situationer]]
 - [[Att spelleda I Rikets Tjänst]]
+- [[Spelledarpersoner]]
 - [[Snabbreferens]]
 - [[Terminologi]]
 
