@@ -46,12 +46,12 @@ Karaktären kan lyssna på radiofrekvenser så länge hen koncentrerar sig. Om s
 
 ### Pulsstörare (1 Fokus, en handling)
 
-Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vilja. Om slaget lyckas så blir levande varelser inom 10 meter desorienterade och förlorar sin nästa runda om de inte lyckas med ett slag för Vilja + Vilja. Elektronik blir också utstörd, SL avgör i vilken grad.
+Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vilja. Om slaget lyckas måste levande varelser inom 10 meter slå Vilja eller förlora sin nästa runda. Elektronik blir också utstörd, SL avgör i vilken grad.
 
-- **+1 Fokus:** Välj vilka mål inom konen som drabbas.
+- **+1 Fokus:** Forma attacken som en kon.
+- **+1 Fokus:** Välj vilka mål som drabbas.
 - **1 Framgång:** Motståndsslaget ett steg svårare.
-- **1 Framgång:** Alla mål är utslagna upp till en hel scen. Den utslagna personen kan varje runda slå ett slag för Vilja + Vilja för att häva det. Om det lyckas så kan de ta en handling den rundan.
-- **1 Framgång:** Öka räckvidden på attacken med 10 meter.
+- **1 Framgång:** +1 rundas desorientering.
 
 ### Aktiverat trauma – Pulsstörare
 
@@ -71,9 +71,9 @@ Gör en extra pistolattack. Attacken är **ett steg svårare**.
 
 ### Trimma (1 Fokus, variabel tid)
 
-Trimma en teknisk pryl. Slå ett slag för Analys + Smidighet, för varje Framgång ökar en effekt med 50 %, ger +1 eller motsvarande (SL avgör beroende på sammanhang). Effekten varar minst en scen.
+Trimma en teknisk pryl. Spendera 1 Fokus och slå Analys + Smidighet — för varje **Effekt** ökar en effekt med 50 % eller motsvarande (SL avgör). Effekten varar minst en scen.
 
-- **+1 Fokus:** Ytterligare en effekt på samma pryl påverkas.
+- **+1 Fokus:** Spendera före slaget för att också påverka en till effekt på samma pryl.
 
 ## Nackdelar
 

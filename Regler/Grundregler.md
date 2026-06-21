@@ -32,7 +32,7 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 
 Svårighetsgraden sätts av SL som en helhetsbedömning av situationen — inte som en summa av enskilda modifierare. När flera försvårande omständigheter samverkar (till exempel mörker *och* blåst *och* rörligt mål) behöver det inte automatiskt bli svårare — SL väger helheten och avgör om det fortfarande är **Svår** eller om det tippar över till **Mycket Svår**.
 
-Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Lätt → Normal → Svår, Svår → Mycket Svår).
+Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Lätt → Normal → Svår, Svår → Mycket Svår). **Mycket Svår** är taket — flera staplade avdrag kan aldrig driva svårigheten högre än så (3 framgångar), och en handling blir aldrig omöjlig enbart av att avdrag staplas. På motsvarande sätt är **Lätt** golvet: inget gör en handling lättare än att den lyckas automatiskt.
 
 ### Effekt
 

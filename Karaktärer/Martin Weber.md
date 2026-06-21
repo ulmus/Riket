@@ -40,13 +40,13 @@ Martin är inte en supermänniska och inte en agent. Han är en vanlig man med o
 
 *Krav:* Expertis: Chaufför
 
-Vid misslyckad manöver kan du spendera 1 Fokus för att slå om.
+Spendera 1 Fokus för att utföra en snabb, riskfylld manöver utan slag — en vass sladd, en halvsväng på platsen, en hård gir i full fart eller att ducka under en bro. Manövern lyckas automatiskt så länge den är fysiskt möjlig för fordonet.
 
-### Racerinstinkt (Alltid aktiv)
+### Racerinstinkt (1 Fokus)
 
 *Krav:* Expertis: Chaufför
 
-I en jakt eller kapplöpning räknas din första framgång varje runda som två.
+I en jakt eller kapplöpning kan du spendera 1 Fokus för att förutse motståndarens manöver — du tar din runda efter dem som vanligt, men din handling räknas som om du gått före. Du kan reagera på deras drag och ändå utföra ditt eget först.
 
 ### Skjut och kör (Alltid aktiv)
 
@@ -56,9 +56,9 @@ Du kan köra ett fordon och skjuta med enhandsvapen samma runda utan avdraget f�
 
 ### Tyst intrång (Alltid aktiv)
 
-*Krav:* Smidighet 2, List 2
+*Krav:* List 2, Smidighet 2
 
-Du får +1 på Smidighet + Smidighet för att smyga eller ta dig in obemärkt i ett bevakat område.
+Du får +1 på List + Smidighet för att smyga eller ta dig in obemärkt i ett bevakat område. Spendera 1 **Effekt** för att inte lämna några spår — vakterna upptäcker inte intrånget vid senare kontroller heller.
 
 ## Nackdelar
 
@@ -100,4 +100,4 @@ Martin är känd bland gränsvakter och Volkspolizei i Berlin. I situationer dä
 
 Två sidor försöker nå ett visst antal framgångar snabbast. Huvudaktören slår varje runda, biaktörer kan hjälpa. Om båda sidor når målet samtidigt vinner den med flest överskjutande framgångar.
 
-*Racerinstinkt: din första framgång varje runda räknas som två.*
+*Racerinstinkt: spendera 1 Fokus för att ta din runda efter motståndaren men låta din handling räknas som om du gått före.*

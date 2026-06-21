@@ -32,7 +32,6 @@ title: I Rikets Tjänst
 <li><a href="{{ 'Regler/Läkning & vård' | relative_url }}">Läkning &amp; vård</a></li>
 <li><a href="{{ 'Regler/Särskilda situationer' | relative_url }}">Särskilda situationer</a></li>
 <li><a href="{{ 'Regler/Snabbreferens' | relative_url }}">Snabbreferens</a></li>
-<li><a href="{{ 'Regler/Snabbreferens - Förmågor' | relative_url }}">Snabbreferens – Förmågor</a></li>
 </ul>
 </div>
 
