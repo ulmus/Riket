@@ -60,6 +60,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Förmågor**: Capitalize the förmåga name when referring to it specifically (e.g., "förmågan Fäktning").
 - **Krafter**: Capitalize when referring to specific named powers.
 - **Fokus** and **Momentum**: Always capitalize as game terms.
+- **Effekt**: Capitalize when it denotes the game term (framgångar utöver de som krävs för att klara svårigheten). Lowercase "effekt"/"effekter" for the everyday sense (a power's or condition's verkan).
 - **Stress** and **Trauma**: Capitalize when referring to the game mechanic, lowercase when used in general sense.
 - **Sammanbrottstabellen**: Capitalize as it refers to a specific table.
 - **Dice notation**: Use "T12" (not "t12" or "d12") for the twelve-sided die.
@@ -69,7 +70,7 @@ Use bold for:
 - **Term definitions**: When first introducing or defining a game term (e.g., "**Fokus** är en personlig resurs...").
 - **Mechanical keywords**: Key terms in rules that have specific meaning (e.g., **Framgång**, **Svårighet**, **Skada**, **Skydd**).
 - **Important effects**: Conditions and states that affect gameplay (e.g., **Sårad**, **Döende**, **Medvetslös**).
-- **Requirement labels**: Labels like "Krav:", "Effekt:", "Kostnad:".
+- **Requirement labels**: Labels like "Krav:", "Verkan:", "Kostnad:".
 - **Table headers** and **column names** in inline context.
 - **Action types**: **Handling**, **Stillastående-handling**.
 - **Numeric values** that are mechanically significant (e.g., "**1 Stress**").
@@ -87,6 +88,7 @@ Use italics for:
 ### Terminology Consistency
 Always use the following terms as defined in [[Terminologi]]:
 - **Framgång** (not "lycka" or "success") for a successful die result of 10+.
+- **Effekt** for the surplus successes beyond what the difficulty (or an opponent) required, spent on extra verkningar (more skada, longer duration, more targets). A table column that lists a die-roll or step *outcome* is headed **Utfall**, never "Effekt". The inline label that introduces what an ability does is **Verkan:** (not "Effekt:"). Together this reserves a capitalized **Effekt** entirely for the term.
 - **Fokus** (not "fokuspoäng") for the personal resource.
 - **Momentum** (not "Story-Fokus") for the narrative pacing that sets starting Fokus each scene.
 - **Slag** (not "kast" or "tärningskast") for a dice roll.

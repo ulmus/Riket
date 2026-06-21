@@ -2,7 +2,7 @@
 
 Förmågor representerar tränade tekniker, yrkesvana och förfinade kunskaper utöver det som en rollpersons rena Egenskaper räcker till. Varje förmåga består av en rubrik, en rad med *Krav* och en beskrivning av effekten. Krav kan vara värden på Egenskaper, en specifik [[Expertiser|Expertis]] eller en annan förmåga.
 
-Många förmågor ger en **tärningsbonus** på relevanta slag och ofta också en extra effekt som aktiveras antingen genom att spendera Fokus i förväg eller genom att spendera framgångar i efterhand. Som princip kostar effekter som måste bestämmas före slaget **Fokus**, medan effekter som aktiveras efter en lyckad träff kostar **framgångar**.
+Många förmågor ger en **tärningsbonus** på relevanta slag och ofta också en extra verkan som aktiveras antingen genom att spendera Fokus i förväg eller genom att spendera **Effekt** i efterhand. Som princip kostar verkningar som måste bestämmas före slaget **Fokus**, medan verkningar som aktiveras efter en lyckad träff kostar **Effekt** (framgångar utöver de som krävs).
 
 I strid har du **en handling** per runda (se [[Strid och skada#Turer och handlingar]]). En förmåga som modifierar din handling sker som en del av den. Vill du använda en förmåga **utanför din tur** — till exempel för att skydda en allierad eller göra en motattack — eller **utöver** din vanliga handling, kostar det **1 Fokus** där förmågan anger det.
 
@@ -482,7 +482,7 @@ När du har lyckats med ett analysslag på underrättelsematerial, dokument elle
 
 *Krav:* Expertis: Underrättelseanalytiker
 
-Innan en specifik kommande scen — ett intrång, ett förhör, en strid, en undersökning — kan du genom analys av tillgänglig information få veta en konkret kritisk detalj som ditt team annars hade upptäckt först på plats: en vakt mer än väntat, en hemlig utgång, ett byte av personal, en tidskänslig faktor. Slå *Analys + Sinnen* — vid framgång berättar SL en sådan detalj, plus en till per extra framgång.
+Innan en specifik kommande scen — ett intrång, ett förhör, en strid, en undersökning — kan du genom analys av tillgänglig information få veta en konkret kritisk detalj som ditt team annars hade upptäckt först på plats: en vakt mer än väntat, en hemlig utgång, ett byte av personal, en tidskänslig faktor. Slå *Analys + Sinnen* — vid framgång berättar SL en sådan detalj, plus en till per **Effekt**.
 
 ### Säkerhetsofficer
 

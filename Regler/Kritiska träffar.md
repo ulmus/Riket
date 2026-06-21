@@ -44,7 +44,7 @@ Effekter på rad **13** kan stabiliseras i fält med Kirurgi (**Mycket Svår**).
 
 Trubbiga slag, fall, explosiva tryckvågor.
 
-| T12 | Effekt                                                                                                                                                                                                                                       |
+| T12 | Utfall                                                                                                                                                                                                                                       |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Blåmärke.** Smärtsamt men ofarligt. Ta **1 Stress**.                                                                                                                                                                                       |
 | 2   | **Andan slagen ur dig.** Du tappar andan. Nästa runda kan du antingen handla eller förflytta dig, inte båda.                                                                                                                                  |
@@ -66,7 +66,7 @@ Trubbiga slag, fall, explosiva tryckvågor.
 
 Knivar, spjut, pilar — vapen som penetrerar djupt.
 
-| T12 | Effekt                                                                                                                                                                                                           |
+| T12 | Utfall                                                                                                                                                                                                           |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Ytlig rispa.** Smärtsamt. Ta **1 Stress**.                                                                                                                                                                     |
 | 2   | **Skärsår.** Smärtsamt. Smidighet-slag är minst **Svåra** tills behandlad (Medicin).                                                                                                                             |
@@ -88,7 +88,7 @@ Knivar, spjut, pilar — vapen som penetrerar djupt.
 
 Svärd, yxor, machetes — skärande vapen med kraft bakom.
 
-| T12 | Effekt                                                                                                                                                                                     |
+| T12 | Utfall                                                                                                                                                                                     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Ytligt snitt.** Ta **1 Stress**.                                                                                                                                                                                |
 | 2   | **Köttsår.** Blodigt men ytligt. **Lätt blödning** tills behandlad (Medicin).                                                                                                                                     |
@@ -110,7 +110,7 @@ Svärd, yxor, machetes — skärande vapen med kraft bakom.
 
 Brännskador från eld, het ånga, frätande ämnen.
 
-| T12 | Effekt                                                                                                                                                                                                                        |
+| T12 | Utfall                                                                                                                                                                                                                        |
 | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Svedd.** Obehagligt. Ta **1 Stress**.                                                                                                                                                                                       |
 | 2   | **Ytlig brännskada.** Smärtsamt. Finmotorik är minst **Svår** om händerna är drabbade.                                                                                                                                        |
@@ -132,7 +132,7 @@ Brännskador från eld, het ånga, frätande ämnen.
 
 Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Penetrerande** lägger **+2** till kritiska träff-slag, vilket ger allvarligare resultat.
 
-| T12 | Effekt                                                                                                                                                                                  |
+| T12 | Utfall                                                                                                                                                                                  |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Rikoschett.** Splitskada. Ta **1 Stress**.                                                                                                                                            |
 | 2   | **Genomskott i mjukvävnad.** **Lätt blödning** tills behandlad (Medicin).                                                                                                               |
@@ -154,7 +154,7 @@ Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Pene
 
 Granater, bomber, minor — tryckvåg och splitter.
 
-| T12 | Effekt                                                                                                                                                                                 |
+| T12 | Utfall                                                                                                                                                                                 |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Överrumplad.** Du faller omkull. Ta **1 Stress**.                                                                                                                                                  |
 | 2   | **Tillfällig dövhet.** Sinnen-slag (hörsel) är minst **Mycket Svåra** under 1T12 minuter.                                                                                                            |
@@ -176,7 +176,7 @@ Granater, bomber, minor — tryckvåg och splitter.
 
 Toxiner, droger, kemiska ämnen.
 
-| T12 | Effekt                                                                                                                                                                          |
+| T12 | Utfall                                                                                                                                                                          |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Illamående.** Ta **1 Stress**.                                                                                                                                                |
 | 2   | **Yrsel.** Alla slag är minst **Svåra** under 1T12 minuter.                                                                                                                     |
@@ -198,7 +198,7 @@ Toxiner, droger, kemiska ämnen.
 
 Strålsjuka, radioaktiv exponering. Effekter på rad 10+ ökar **Strålningsdosen** (se [[Särskilda situationer#Strålning]]).
 
-| T12 | Effekt                                                                                                                                                                               |
+| T12 | Utfall                                                                                                                                                                               |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Illamående.** Ta **1 Stress**.                                                                                                                                                                                  |
 | 2   | **Svaghet.** Fysik-slag är minst **Svåra** under 1T12 dagar.                                                                                                                                                      |
@@ -220,7 +220,7 @@ Strålsjuka, radioaktiv exponering. Effekter på rad 10+ ökar **Strålningsdose
 
 Fall, kvävning, elektricitet, hypotermi och andra skadetyper utan egen tabell.
 
-| T12 | Effekt                                                                                                                                                                                         |
+| T12 | Utfall                                                                                                                                                                                         |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | **Skärrad.** Ta **1 Stress**.                                                                                                                                                                              |
 | 2   | **Stukad led.** Slå 1T12 för kroppsdel: 1–3 vänster arm, 4–6 höger arm, 7–9 vänster ben, 10–12 höger ben. Slag med drabbad kroppsdel är minst **Svåra** under 1T12 dagar.                                  |

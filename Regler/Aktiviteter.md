@@ -45,7 +45,7 @@ Våra hjältar ska ta sig **över en mur** till en ambassadgård i Belgrad.
 
 Ibland så är en scen en kamp mellan två aktörer. I det fallet finns det två huvudaktörer. De båda huvudaktörerna kan använda samma *Egenskap + Egenskap* eller olika. Den motstående huvudaktören kan också ha sina egna biaktörer som ger hjälp.
 
-Om den ena parten får fler framgångar än den andra så räknas det som ett lyckat slag för den personen med överskjutande antal framgångar. Om båda sidor får lika många framgångar så är det oavgjort och SL avgör vad som händer.
+Om den ena parten får fler framgångar än den andra så räknas det som ett lyckat slag för den personen, med **Effekt** lika med skillnaden i framgångar. Om båda sidor får lika många framgångar så är det oavgjort och SL avgör vad som händer.
 
 #### Exempel: Bluffa utanför Minsk
 
@@ -80,7 +80,7 @@ Våra hjältar ska förhöra en avhoppad KGB-officer på ett kafé i Warszawa. M
 
 ### Kapplöpning
 
-En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett visst antal framgångar snabbast. Om båda når det specificerade antalet samtidigt så vinner den som fick flest överskjutande framgångar. Om även det är lika så fortsätter kapplöpningen tills någon har flest framgångar efter en runda.
+En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett visst antal framgångar snabbast. Om båda når det specificerade antalet samtidigt så vinner den som nådde målet med mest **Effekt** (flest framgångar utöver det krävda antalet). Om även det är lika så fortsätter kapplöpningen tills någon har flest framgångar efter en runda.
 
 #### Exempel: Kurirjakt i Leningrad
 

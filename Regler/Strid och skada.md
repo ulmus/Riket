@@ -83,7 +83,7 @@ Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgö
 
 ### Skadesteg
 
-| Skada          | Tröskel              | Effekt                                     |
+| Skada          | Tröskel              | Utfall                                     |
 | -------------- | -------------------- | ------------------------------------------ |
 | **Oskadd**     | 0 KP                 | Inga effekter                              |
 | **Sårad**      | > Tålighet KP        | Alla handlingar ett steg svårare           |
@@ -97,9 +97,9 @@ Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgö
 
 KP-skadan räknas direkt från attackslaget – inget separat skadeslag behövs.
 
-**KP-skada = Vapnets Skada + träffslagets skade-effekt − målets Skydd** (minst 0)
+**KP-skada = Vapnets Skada + träffens Effekt − målets Skydd** (minst 0)
 
-Träffslagets **skade-effekt** är överskjutande framgångar på träffslaget som karaktären valt att använda för att öka skadan. En eller flera framgångar (beroende på svårighet) går alltså åt till att träffa. Eventuella överskjutande framgångar kan användas till exempel för att öka skadan.
+Träffens **Effekt** är de framgångar som blev över sedan kravet på att träffa uppfyllts (se [[Grundregler#Effekt]]). En eller flera framgångar (beroende på svårighet) går alltså åt till att träffa; återstående Effekt kan användas till exempel för att öka skadan.
 
 ## 2. Skada (vapenbonus)
 
@@ -127,7 +127,7 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 
 
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 2** och skadetyp **Skjutvapen**.
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
-> Vakten bär **tjock rock (Skydd 1)**. KP-skada = 2 extra framgångar + 2 Skada − 1 Skydd = **3 KP**.
+> Vakten bär **tjock rock (Skydd 1)**. KP-skada = Effekt 2 + 2 Skada − 1 Skydd = **3 KP**.
 > Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 3 KP — fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
 > 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
 

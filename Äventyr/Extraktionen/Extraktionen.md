@@ -965,14 +965,14 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 - Morana kan sänka temperaturen i ett 5-metersradius runt henne eller fokusera på en specifik person inom 10 meter.
 - **Kostnad:** 1 Fokus per runda.
-- **Effekt:** Alla inom området tar 1 KP skada per runda från kylan och fysiska handlingar blir ett steg svårare (stelhet).
+- **Verkan:** Alla inom området tar 1 KP skada per runda från kylan och fysiska handlingar blir ett steg svårare (stelhet).
 - Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP köldskada och målet blir **bedövat** (svårt att röra sig).
 
 **Nervbedövning:**
 
 - Genom att röra någon kan Morana bedöva deras nerver lokalt.
 - **Kostnad:** 2 Fokus.
-- **Effekt:** Målet förlorar känsel i den berörda kroppsdelen (arm, ben). Handlingar med den delen två steg svårare. Varar 1T12 rundor.
+- **Verkan:** Målet förlorar känsel i den berörda kroppsdelen (arm, ben). Handlingar med den delen två steg svårare. Varar 1T12 rundor.
 
 **Svaghet:** Värme och eld neutraliserar hennes krafter. Hon måste hålla sig sval för att fungera. Överansträngning kan göra henne sjuk.
 
@@ -1000,13 +1000,13 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 
 - Svarog kan hetta upp sin egen kropp och föremål han rör.
 - **Kostnad:** 1 Fokus per runda.
-- **Effekt:** Hans slag får **+1 skada** (brännskada, Skadetyp Eld). Han kan smälta lås, bränna rep, och orsaka brännskador vid beröring.
+- **Verkan:** Hans slag får **+1 skada** (brännskada, Skadetyp Eld). Han kan smälta lås, bränna rep, och orsaka brännskador vid beröring.
 
 **Intensiv hetta (en handling):**
 
 - Svarog fokuserar all sin kraft på ett föremål eller person.
 - **Kostnad:** 3 Fokus.
-- **Effekt:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). **Skadebonus +3** (Mycket stark, Skadetyp Eld). Metallföremål smälter, trä fattar eld.
+- **Verkan:** Han gör ett angrepp med *Fysik + Strid* (**Svårt** att motstå). **Skadebonus +3** (Mycket stark, Skadetyp Eld). Metallföremål smälter, trä fattar eld.
 
 **Svaghet:** Överhettas lätt. Efter att ha använt krafter i 5+ rundor börjar han ta 1 KP skada per runda tills han svalnar. Vatten och kyla neutraliserar hans krafter tillfälligt.
 ### Professor Hermann Müller

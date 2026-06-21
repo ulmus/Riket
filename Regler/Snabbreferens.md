@@ -33,16 +33,16 @@
 - **Döende** (> 3 × Tålighet KP): Dör om inte stabiliserad
 - **Död** (> 4 × Tålighet KP): Död
 - **Vapnets Skada** läggs till KP-skadan och till kritisk träff-slaget (dubbelt med Penetrerande)
-- **Kritiska sår**: Enligt effekt på tabellen
+- **Kritiska sår**: Enligt utfall på tabellen
 
 ## Stress och Sammanbrott
 
 - Markera **Stress** vid: skada (Sårad), chock, kraftanvändning (istället för Fokus)
-- **Chock:** Slå Vilja + lämplig egenskap. Chockfaktor (1–4) minus framgångar = Stress. Trauma-koppling ger +1 Chockfaktor.
+- **Chock:** Slå Vilja + lämplig egenskap. Chockfaktor (1–5) minus framgångar = Stress. Trauma-koppling ger +1 Chockfaktor.
 - **Stabilitet** = 3 för vanliga karaktärer
 - Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+1 per gräns utöver första)
 
-|      Slag | Effekt                                                                                                                                                                                                                                      |
+|      Slag | Utfall                                                                                                                                                                                                                                      |
 | --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   **1–2** | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                                                                                |
 |   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |

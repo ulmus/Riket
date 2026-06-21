@@ -18,7 +18,7 @@ Behandling kräver en **handling** (stillastående) för första försöket. Nä
 
 **Utrustning:** +1 tärning med första-hjälpen-kit, +2 med läkarväska.
 
-| Åtgärd                | Vårdtyp   | Effekt                                                                   |
+| Åtgärd                | Vårdtyp   | Utfall                                                                   |
 | --------------------- | --------- | ------------------------------------------------------------------------ |
 | Stoppa blödning       | Kirurgi   | Minska blödning ett steg per framgång                                    |
 | Stabilisera döende    | Medicin   | Patienten behöver inte slå överlevnadsslag                               |
