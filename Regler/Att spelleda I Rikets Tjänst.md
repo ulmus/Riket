@@ -66,6 +66,8 @@ Sättet som fokus ackumulerar på (12:or på tärningsslag) ger det en oföruts�
 
 Fokus andra användningsområde, att lägga till tärningar till ett slag, fyller också två syften. Det första är att ha ett bas-använingsområde för Fokus, när du inte har tillfälle att använda dina förmågor. Fokus ska alltid kännas värdefullt. Det andra är att kunna säga som spelare att "det här är viktigt" och visa det på spelbordet. Det kan också minska risken att ett dåligt slag får berättelsen att spåra ur för mycket.
 
+Sedan striden förenklats till **en handling per runda** fyller Fokus dessutom en roll som taktisk meta-valuta i strid. I stället för bihandlingar och reaktioner spenderar du Fokus för att göra mer än en sak på din tur, för att försvara dig aktivt (väja eller parera) eller för att utlösa en förmåga utanför din tur. Det gör resurshanteringen — inte handlingsslottar — till stridens taktiska kärna. Tänk på att det också ökar trycket på Fokus: håll baslinjen (en handling, en kort förflyttning och passivt försvar) gratis, så att den som får slut på Fokus frestas att pressa sig via Stress-ventilen i skarpa lägen snarare än att stå handfallen. Vid lågt Momentum kan det vara värt att vara något generösare med Chockslag och 12:or som ger Fokus.
+
 ### Stress och Fokus
 
 En nackdel med att Fokus ackumulerar slumpmässigt över tid är att det ibland finns en risk att rollpersonen inte har någon Fokus när det vore som mest rimligt i berättelsen att aktivera en förmåga. För att komma åt det finns ventilen i spelsystemet att närhelst en karaktär skulle använt Fokus men inte har några Fokus kvar, kan den istället ta upp till sin Stabilitet antal Stress och få lika många Fokus som måste spenderas direkt.

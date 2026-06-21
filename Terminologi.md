@@ -37,7 +37,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | ---------------- | ----------------- | ------------------------------------------ |
 | **Tålighet**     | Fysik + Vilja     | Tröskel för skadesteg                      |
 | **Stabilitet**   | Normalt 3         | Hur mycket stress du tål innan sammanbrott |
-| **Förflyttning** | Fysik + Smidighet | Meter per bihandling                       |
+| **Förflyttning** | Fysik + Smidighet | Meter per runda                            |
 
 ## Expertis och förmågor
 
@@ -51,9 +51,10 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 | Term | Beskrivning |
 | ---- | ----------- |
-| **Huvudhandling** | Den primära handlingen på din tur (attack, aktivera kraft, etc.) |
-| **Bihandling** | En mindre handling (förflytta sig, dra vapen, sikta) |
-| **Reaktion** | En handling utanför din tur som svar på ett utlösande event (försvar) |
+| **Handling** | Det du gör på din tur — en per runda (attack, kraft, ladda om, vård, etc.) |
+| **Stillastående-handling** | Handling som kräver att du inte förflyttar dig samma runda (sikta, kirurgi, upprätthålla en kraft); annars ett steg svårare eller omöjlig |
+| **Förflyttning** | Rörelse upp till din Förflyttning som ingår i din tur |
+| **Försvar** | Passivt som grund; aktiv väjning eller parering kostar 1 Fokus och kan göras utanför din tur |
 | **Initiativ** | Bestämmer turordning i strid; 1T12 + Strid |
 
 ## Skada och hälsa
@@ -92,7 +93,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 | Effekt | Beskrivning |
 | ------ | ----------- |
-| **Skakad** | Tappar en handling eller missar nästa runda |
+| **Skakad** | Missar sin nästa runda |
 | **Panik** | Flyr mot närmaste skydd |
 | **Raseri** | Attackerar närmaste person |
 | **Förstelning** | Paralyserad tills Vilja-slag lyckas |

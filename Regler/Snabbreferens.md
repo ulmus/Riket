@@ -18,9 +18,10 @@
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
-- **Din tur:** 1 huvudhandling + 1 bihandling + 1 reaktion eller 2 bihandlingar + 1 reaktion
+- **Din tur:** en handling + en kort förflyttning. Två saker samtidigt = ett steg svårare (eller 1 Fokus)
+- **Stillastående-handlingar** (sikta, kirurgi, koncentrera kraft): kräver att du inte rör dig, annars ett steg svårare
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
-- **Försvar (reaktion):** Smidighet + Strid, dra av framgångar från attackens
+- **Försvar:** passivt (SL väger in i svårigheten). Aktiv väjning/parering: 1 Fokus, Smidighet + Strid, dra av dina framgångar från anfallets
 - **Skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0)
 - **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus **och** triggar en kritisk träff. +1 per ytterligare 12:a
 
@@ -45,8 +46,8 @@
 | --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   **1–2** | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                                                                                |
 |   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |
-|     **5** | **Skakad** – Du rycker till av rädsla och **tappar en handling** eller **missar nästa runda**.                                                                                                                                              |
-|     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som huvudhandling.                                                              |
+|     **5** | **Skakad** – Du rycker till av rädsla och **missar din nästa runda**.                                                                                                                                                                       |
+|     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som din handling.                                                               |
 |     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chockslag (Vilja + Vilja, Chockfaktor 1)**.                               |
 |     **8** | **Panikångest** – Du drabbas av panik. Beroende på situationen kan det innebära att du fryser på stället eller springer. Du måste lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda).                              |
 |     **9** | **Raseri** – Du reagerar med vansinnigt raseri, riktat mot din utrustning, dina fiender, dina vänner eller dig själv. Du attackerar någon eller något tills du lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda). |

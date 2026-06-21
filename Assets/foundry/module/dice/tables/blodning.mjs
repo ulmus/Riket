@@ -5,7 +5,7 @@ export const BLODNING = [
   { min: 3, max: 3, label: "Kallsvettig", effect: "Ta 1 Stress. Förflyttning –2 meter." },
   { min: 4, max: 4, label: "Skakningar", effect: "Du tappar vad du håller i." },
   { min: 5, max: 5, label: "Blodförlust", effect: "Du blir kallare. Alla slag är minst Svåra." },
-  { min: 6, max: 6, label: "Kollapsande blodtryck", effect: "Du faller omkull. Kan bara krypa (bihandling för 1 meter)." },
+  { min: 6, max: 6, label: "Kollapsande blodtryck", effect: "Du faller omkull. Kan bara krypa (1 meter per runda)." },
   { min: 7, max: 7, label: "Synförlust", effect: "Svartnande syn. Sinnen-slag (syn) är minst Mycket Svåra." },
   { min: 8, max: 8, label: "Förlorar medvetandet", effect: "Du svimmar. Vaknar om du stabiliseras eller efter 1T12 minuter." },
   { min: 9, max: 9, label: "Chock", effect: "Medvetslös. Kräver stabilisering för att vakna." },

@@ -35,7 +35,7 @@ cssclasses:
 
 ## Krafter
 
-### Närvaroseende (1 Fokus, 1 huvudhandling)
+### Närvaroseende (1 Fokus, 1 handling)
 
 Slå för Sinnen + Vilja för att se, höra och känna vad som händer just nu på en plats du har en känslomässig koppling till.
 
@@ -48,13 +48,13 @@ Detaljnivå avgörs av fysiskt avstånd:
 
 **Krav:** En genuin känslomässig koppling till platsen eller någon där.
 
-**Varaktighet:** Aktiveringen utlöser alltid ett epileptiskt anfall (se [[#Epileptiska anfall|Nackdelar]]). Du faller till marken och stabiliseras därefter i ett trance där visionen varar så länge du koncentrerar dig (bihandling per runda). Du är blind och döv för det fysiska rummet medan visionen pågår.
+**Varaktighet:** Aktiveringen utlöser alltid ett epileptiskt anfall (se [[#Epileptiska anfall|Nackdelar]]). Du faller till marken och stabiliseras därefter i ett trance där visionen varar så länge du koncentrerar dig. Du är blind och döv för det fysiska rummet medan visionen pågår.
 
 - **+1 Fokus:** Visionen blir ett detaljsteg tydligare än avståndet medger.
 - **1 Framgång:** Flytta fokus till en angränsande plats inom samma vision.
 - **1 Framgång:** Visionen ger riktning och ungefärligt avstånd till platsen.
 
-### Delad vision (1 Fokus, 1 bihandling)
+### Delad vision (1 Fokus, 1 handling)
 
 *Krav:* En aktiv Närvaroseende-vision.
 
@@ -64,7 +64,7 @@ Slå för Samspel + Vilja. Personer som rör vid din kropp dras in i visionen oc
 - **1 Framgång:** Ytterligare en mottagare.
 - **1 Framgång:** Mottagarna hör också, inte bara ser.
 
-### Framsynt (1 Fokus, 1 bihandling)
+### Framsynt (1 Fokus, reaktiv)
 När något händer som du hade kunnat påverka om du var medveten om det några sekunder innan så kan du slå ett slag för Sinnen + Vilja för att undvika det. Om du exempelvis blir skjuten eller knuffad eller någon ser dig. Dina framfångar på det slaget kan användas för att påverka förloppet genom att få motståndaren att misslyckas eller dig själv att få extra framgångar på ett slag du misslyckades med. Du måste kunna förklara hur du använder din insikt för att ändra utfallet och du kan bara ändra saker som påverkar dig direkt.
 
 - **+1 Fokus:** Du kan påverka även en annan person inom 10 meter
@@ -93,7 +93,7 @@ Utöver dina grundspråk kan du välja ytterligare ett språk per nivå i Analys
 
 ### Epileptiska anfall
 
-Varje gång du aktiverar **Närvaroseende** drabbas du av ett epileptiskt anfall. Den runda du aktiverar kraften kan du inte utföra någon ytterligare handling eller reaktion, och attacker mot dig får **+2 tärningar**. Därefter ligger du orörlig medan visionen pågår. När visionen avslutas tar du **+1 Stress** och alla dina slag är **ett steg svårare** resten av scenen.
+Varje gång du aktiverar **Närvaroseende** drabbas du av ett epileptiskt anfall. Den runda du aktiverar kraften kan du inte göra något annat, och attacker mot dig får **+2 tärningar**. Därefter ligger du orörlig medan visionen pågår. När visionen avslutas tar du **+1 Stress** och alla dina slag är **ett steg svårare** resten av scenen.
 
 ### Ofrivilliga visioner
 

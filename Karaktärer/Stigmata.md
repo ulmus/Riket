@@ -33,7 +33,7 @@ cssclasses:
 
 ## Krafter
 
-### Patomimik (1 Fokus, 1 huvudhandling)
+### Patomimik (1 Fokus, 1 handling)
 
 Med din beröring kan du få en person att uppvisa sjukdomssymtom för en specifik sjukdom. Slå för Fysik + Vilja mot motståndarens Fysik + Vilja.
 
@@ -51,11 +51,11 @@ Du kan påverka cellernas aktivitet i målet för att sluta sår och läka skado
 - **+1 Fokus:** Förmågan kan även behandla kritiska skador (räknas som lyckat vårdslag), men du tar själv 1 KP skada per behandlad skada.
 - **+2 Fokus:** Förmågan kan stabilisera en Döende person, men du tar själv 2 KP skada och 1 Stress.
 
-### Homeostatisk dämpning (1 Fokus, 1 bihandling)
+### Homeostatisk dämpning (1 Fokus, 1 handling)
 
 Du kan tillfälligt dämpa effekterna av stress och skada. Slå för Vilja + Vilja.
 
-- **Effekt:** En person du rör vid (eller du själv) ignorerar alla effekter av Stress och skador (inklusive kritiska skador och Stress-trauman) under en runda. Du kan upprätthålla dämpningen genom att koncentrera dig med en bihandling varje runda, alla dina övriga handlingar blir då ett steg svårare. När dämpningen upphör återkommer effekterna, och målet tar dessutom **+1 Stress**.
+- **Effekt:** En person du rör vid (eller du själv) ignorerar alla effekter av Stress och skador (inklusive kritiska skador och Stress-trauman) under en runda. Du kan upprätthålla dämpningen genom att koncentrera dig varje runda; alla dina övriga handlingar blir då ett steg svårare. När dämpningen upphör återkommer effekterna, och målet tar dessutom **+1 Stress**.
 - **1 Framgång:** Effekten täcker ytterligare en person.
 - **+1 Fokus:** Effekten har räckvidd 10 meter.
 
@@ -95,7 +95,7 @@ Stigmata måste använda morfin varje session, annars får de **1 Stress** per s
 
 En person kan stabiliseras med **Analys + Smidighet (Medicin)**:
 
-- Kräver en huvudhandling för första försöket, en minut för andra, en timme för tredje.
+- Kräver en handling (stillastående) för första försöket, en minut för andra, en timme för tredje.
 - Vid framgång slutar personen vara Döende (men behöver fortfarande läkning).
 
 *Fältkirurg ger +3 tärningar på detta slag för 1 Fokus.*

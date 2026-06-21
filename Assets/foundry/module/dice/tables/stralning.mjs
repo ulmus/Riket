@@ -8,7 +8,7 @@ export const STRALNING = [
   { min: 6, max: 6, label: "Feber", effect: "Immunförsvaret reagerar. Alla slag är minst Svåra under 1T12 dagar." },
   { min: 7, max: 7, label: "Inre blödning", effect: "Lätt blödning. Kräver sjukhusvård (Kirurgi, Mycket Svårt) för att stoppa." },
   { min: 8, max: 8, label: "Benmärgsskada", effect: "Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
-  { min: 9, max: 9, label: "Lungskada", effect: "Endast en bihandling per runda. Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
+  { min: 9, max: 9, label: "Lungskada", effect: "Du kan inte både handla och förflytta dig samma runda. Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
   { min: 10, max: 10, label: "Njursvikt", effect: "Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
   { min: 11, max: 11, label: "Benmärgsskada – systemkollaps", effect: "Alla slag är minst Mycket Svåra. Döende: Överlevnadsslag per dag." },
   { min: 12, max: 12, label: "Organsvikt", effect: "Lever och njurar slutar fungera. Döende: Överlevnadsslag per minut. Om du överlever: Permanent –1 på Fysik." },

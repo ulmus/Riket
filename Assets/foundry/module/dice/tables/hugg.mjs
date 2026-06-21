@@ -5,7 +5,7 @@ export const HUGG = [
   { min: 3, max: 3, label: "Senan skuren", effect: "Slå 1T12 för kroppsdel (1-3: vänster arm, 4-6: höger arm, 7-9: vänster ben, 10-12: höger ben). Smidighet-slag är minst Svåra med drabbad kroppsdel tills behandlad." },
   { min: 4, max: 4, label: "Djupt hugg i arm", effect: "Slå 1T12: 1-6 vänster, 7-12 höger arm. Du tappar vad du håller i. Lätt blödning. Armen obrukbar tills behandlad." },
   { min: 5, max: 5, label: "Djupt hugg i ben", effect: "Slå 1T12: 1-6 vänster, 7-12 höger ben. Kraftig blödning. Förflyttning halverad tills behandlad." },
-  { min: 6, max: 6, label: "Ansikte skuret", effect: "Blod i ögonen. Sinnen-slag (syn) är minst Mycket Svåra tills du torkar bort blodet (bihandling). Lätt blödning." },
+  { min: 6, max: 6, label: "Ansikte skuret", effect: "Blod i ögonen. Sinnen-slag (syn) är minst Mycket Svåra tills du torkar bort blodet (en handling). Lätt blödning." },
   { min: 7, max: 7, label: "Skadat öga", effect: "Slå 1T12: 1-6 vänster, 7-12 höger öga. Sinnen-slag (syn) och avståndsattacker är minst Mycket Svåra. Kraftig blödning. Läketid: 1T12 veckor." },
   { min: 8, max: 8, label: "Djupt brösthugg", effect: "Kraftig blödning. Alla slag är minst Svåra. Läketid: 1T12 veckor." },
   { min: 9, max: 9, label: "Svårt skadat ben", effect: "Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller. Kan bara krypa. Kraftig blödning. Läketid: 1T12 månader." },

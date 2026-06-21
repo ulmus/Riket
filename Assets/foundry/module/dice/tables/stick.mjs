@@ -8,7 +8,7 @@ export const STICK = [
   { min: 6, max: 6, label: "Genomstucken hand/fot", effect: "Slå 1T12, 1-3 vänster fot, 4-6 höger fot, 7-9 vänster hand, 10-12 höger hand. Kroppsdelen är obrukbar tills behandlad (Medicin). Lätt blödning." },
   { min: 7, max: 7, label: "Stucken i armen", effect: "Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen obrukbar. Kraftig blödning. Behandlas med Kirurgi (Svårt). Läketid: 1T12 veckor." },
   { min: 8, max: 8, label: "Genomstucken axel", effect: "Slå 1T12: 1-6 vänster, 7-12 höger axel. Kraftig blödning. Alla slag är minst Svåra. Behandlas med Kirurgi (Svårt). Läketid: 1T12 veckor." },
-  { min: 9, max: 9, label: "Perforerad lunga", effect: "Du kippar efter luft. Endast en bihandling per runda tills behandlad (Kirurgi, Svårt). Kraftig blödning." },
+  { min: 9, max: 9, label: "Perforerad lunga", effect: "Du kippar efter luft. Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare, tills behandlad (Kirurgi, Svårt). Kraftig blödning." },
   { min: 10, max: 10, label: "Njurträff", effect: "Extremt smärtsamt. Ta 2 Stress. Kraftig blödning. Behandlas med Kirurgi (Svårt)." },
   { min: 11, max: 11, label: "Stucken i magen", effect: "Kraftig blödning. Fysik-slag är minst Svåra. Döende: Överlevnadsslag per timme om obehandlad. Behandlas med Kirurgi (Svårt)." },
   { min: 12, max: 12, label: "Artärblödning", effect: "Kraftig blödning. Döende: Överlevnadsslag per minut tills blödningen stoppas (Kirurgi)." },

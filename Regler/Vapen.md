@@ -7,7 +7,7 @@
 Vapnets grundräckvidd. Attacker inom dessa avstånd görs utan avdrag. Om man siktar fördubblas räckvidden på vapnet. Attacker på längre avstånd är Svåra eller till och med Mycket Svåra.
 
 ### Ammunition
-Vapen har ett värde för ammunition som motsvarar ett för antalet skott som skjuts i en normal strid. Varje strid som ett skjutvapen har använts så sjunker ammunitionsvärdet ett steg. Ammunition sjunker också ett steg av att skjuta kort salva och två steg av en lång salva. Att ladda om är en huvudhandling.
+Vapen har ett värde för ammunition som motsvarar ett för antalet skott som skjuts i en normal strid. Varje strid som ett skjutvapen har använts så sjunker ammunitionsvärdet ett steg. Ammunition sjunker också ett steg av att skjuta kort salva och två steg av en lång salva. Att ladda om är en handling.
 
 ## Egenskaper
 

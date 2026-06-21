@@ -6,30 +6,54 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Turer och handlingar
 
-På din tur kan du utföra en huvudhandling och en bihandling. Du kan också, istället för en huvudhandling utföra en bihandling till (för totalt två bihandlingar på din tur). Utöver det så kan en reaktionshandling utföras utanför din tur, men bara om något händer som utlöser reaktionen.
+På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge förband eller något annat som kräver din uppmärksamhet under rundan. Det finns inga separata bihandlingar eller reaktioner; allt du gör i strid utgår från din enda handling per runda.
 
-## Huvudhandlingar
+Tre saker formar vad du hinner med:
+
+- **Förflyttning ingår.** Du kan förflytta dig upp till din **Förflyttning** som en del av din tur, så länge din handling inte kräver att du står stilla.
+- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, attackera två mål, eller köra och skjuta — gör handlingen **ett steg svårare**. Du kan istället spendera **1 Fokus** för att slippa avdraget.
+- **Stillastående-handlingar** kräver att du inte förflyttar dig samma runda (se nedan).
+
+Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
+
+## Handlingar
+
+Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exempel:
 
 - Avståndsattack (Smidighet + Strid)
 - Närstridsattack (Fysik + Strid eller Smidighet + Strid)
+- Aktivera en kraft eller förmåga som kräver en handling
+- Ladda om ett vapen (se [[Vapen]])
+- Ge förband eller stabilisera en skadad (se [[#Stabilisering]])
+- Resa sig från marken eller ta sig över ett hinder
 
-## Bihandlingar
+## Stillastående-handlingar
 
-- Sikta: +1 på avståndsattack
-- Ställa sig upp
-- Dra ett vapen
-- Röra sig Fysik + Smidighet meter
+Vissa handlingar kräver lugn och precision och förutsätter att du **inte förflyttar dig** samma runda:
 
-## Reaktionshandlingar
+- **Sikta** (+1 på en avståndsattack, +2 i stabil position eller liggande)
+- Prickskytte på långt håll
+- Kirurgi, stabilisering och annan noggrann vård
+- Att upprätthålla koncentrationen på en kraft
 
-- Kasta sig undan en attack (Smidighet + Strid), du är på marken efteråt och det krävs en bihandling för att resa sig. Dra av lika många framgångar från attacken som du slår.
-- Parera en närstridsattack (Smidighet + Strid + Paradbonus)
+Förflyttar du dig ändå blir handlingen **ett steg svårare**, eller omöjlig om SL bedömer att den kräver fullständigt lugn. Expertis kan väga upp avdraget — en tränad prickskytt kan röra sig och ändå skjuta utan att det blir svårare.
+
+## Försvar
+
+Försvar är som grund **passivt**: när du blir attackerad väger SL in din rörelse, ditt skydd och omständigheterna i anfallets **Svårighet**. Du behöver inte göra något, och du förlorar inte din handling för att försvara dig.
+
+Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja eller parera, även utanför din egen tur:
+
+- **Väja undan** (Smidighet + Strid): dra av dina framgångar från anfallets framgångar. Du hamnar på marken efteråt, och att resa dig är din handling nästa runda.
+- **Parera en närstridsattack** (Smidighet + Strid + eventuell paradbonus): dra av dina framgångar från anfallets framgångar.
+
+Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]]).
 
 ## Avståndsattacker
 
 Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid med modifikationer.
 
-- Minst en bihandling lagd på att sikta +1
+- Sikta (stillastående) +1
 - Stabil position +1 (+2 om liggande)
 
 Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott svårare:
@@ -168,7 +192,7 @@ När en kritisk träff anger en **Permanent**-effekt så är effekten bestående
 
 En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
 
-- Kräver en huvudhandling för första försöket, en minut för andra försöket och en timme för tredje försöket.
+- Kräver en handling (stillastående) för första försöket, en minut för andra försöket och en timme för tredje försöket.
 - Varje framgång läggs till stabiliseringsframgångarna som krävs för att överleva (totalt tre).
 
 ## Blödning
