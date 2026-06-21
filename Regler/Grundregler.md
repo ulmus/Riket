@@ -23,12 +23,12 @@ Alla handlingar avgörs genom att kombinera två **Egenskaper** (eller samma ege
 
 ### Svårighetsgrader
 
-| Svårighetsgrad  | Framgångar | Beskrivning                                                                                                       |
-| --------------- | ---------: | ----------------------------------------------------------------------------------------------------------------- |
-| **Lätt**        |          0 | Lyckas automatiskt, men vid vissa tillfällen kan ett slag tillåtas för att få effekter, dock erhålls ingen Fokus. |
-| **Normal**      |          1 | Standardhandlingar under press                                                                                    |
-| **Svår**        |          2 | Ogynnsamma omständigheter eller krävande uppgift                                                                  |
-| **Mycket Svår** |          3 | Extrema förhållanden eller exceptionell uppgift                                                                   |
+| Svårighetsgrad  | Framgångar | Beskrivning                                                                             |
+| --------------- | ---------: | --------------------------------------------------------------------------------------- |
+| **Lätt**        |          0 | Lyckas automatiskt, men vid vissa tillfällen kan ett slag tillåtas för att få effekter. |
+| **Normal**      |          1 | Standardhandlingar under press                                                          |
+| **Svår**        |          2 | Ogynnsamma omständigheter eller krävande uppgift                                        |
+| **Mycket Svår** |          3 | Extrema förhållanden eller exceptionell uppgift                                         |
 
 Svårighetsgraden sätts av SL som en helhetsbedömning av situationen — inte som en summa av enskilda modifierare. När flera försvårande omständigheter samverkar (till exempel mörker *och* blåst *och* rörligt mål) behöver det inte automatiskt bli svårare — SL väger helheten och avgör om det fortfarande är **Svår** eller om det tippar över till **Mycket Svår**.
 

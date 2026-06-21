@@ -6,12 +6,12 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Turer och handlingar
 
-På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge förband eller något annat som kräver din uppmärksamhet under rundan. Det finns inga separata bihandlingar eller reaktioner; allt du gör i strid utgår från din enda handling per runda.
+På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge förband eller något annat som kräver din uppmärksamhet under rundan.
 
-Tre saker avgör vad du hinner med:
+Tre saker avgör vad du hinner med under handlingen:
 
 - **Förflyttning ingår.** Du kan förflytta dig upp till din **Förflyttning** som en del av din tur, så länge din handling inte kräver att du står stilla. Du kan välja att förflytta dig **dubbla Förflyttningen**, men då blir din handling **ett steg svårare**.
-- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, eller köra och skjuta — gör handlingen **ett steg svårare**. Det går inte att köpa sig fri från avdraget med Fokus; bara vissa förmågor låter dig slippa det i specifika fall.
+- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, eller köra och skjuta — gör handlingen **ett steg svårare**. Du kan inte göra två attacker på detta sätt.
 - **Stillastående-handlingar** kräver att du inte förflyttar dig samma runda (se nedan).
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
@@ -75,9 +75,11 @@ Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott 
 
 En enskild försvårande faktor gör skottet normalt **Svår**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svår** — SL avgör. Skott långt bortom vapnets räckvidd kan vara **Mycket Svår** eller omöjligt.
 
+Att attackera ett omedvetet mål som rör sig långsamt och förutsägbart, inom vapnets räckvidd är **Lätt**. Det innebär i praktiken att det lyckas automatiskt och slaget slås för att se hur hög Effekten blev.
+
 ### Skjuta tillbaka mot nedhållande eld
 
-En karaktär som blir beskjuten och försöker skjuta tillbaka eller inte försöker ta skydd måste slå ett Chockslag med Chockfaktor 1. Chockfaktorn blir ett lägre om man skjuter tillbaka från skydd, men ett högre om man beskjuts av automateld och två högre om det är lång salva eller många som skjuter.
+En karaktär som blir beskjuten och försöker skjuta tillbaka eller inte försöker ta skydd måste slå ett Chockslag med Chockfaktor 1. Chockfaktorn blir ett lägre om man skjuter tillbaka från skydd, men ett högre om man beskjuts av automateld och två högre om det är många som skjuter.
 
 ## Närstridsattacker
 
@@ -145,7 +147,7 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 
 
 ## Stress
 
-Varje gång du tar minst 1 KP skada så tar du också 1 Stress. Om en kritisk träff på samma anfall anger ytterligare Stress (t.ex. "Ta **1 Stress**") läggs denna till — du kan alltså få både Stress från KP-skadan och från kritträffens egen effekt på samma slag.
+Varje gång du tar minst 1 KP skada så tar du också 1 Stress. Om en kritisk träff på samma anfall anger ytterligare Stress (t.ex. "Ta **1 Stress**") läggs denna till — du kan alltså få både Stress från KP-skadan och från den kritiska träffens egen effekt på samma slag.
 
 ## Sårad
 

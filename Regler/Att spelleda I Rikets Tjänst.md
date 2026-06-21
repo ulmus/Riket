@@ -62,13 +62,13 @@ Den tydligaste mekaniken i I Rikets Tjänst som försöker driva spelet i en vis
 
 ### Fokus som meta-valuta
 
-Fokus har två huvudsakliga användningsområden i spelet. De kan användas för att öka chansen att lyckas med ett slag eller för att aktivera specifika förmågor. Motsvarande koncept finns i många rollspel (viljepoäng, hjältepoäng, kraftpoäng, tur, etc). Det huvudsakliga syftet är att ge variation i spel med en ebb-och-flod-känsla. I en bra berättelse aktiverar karaktären sin specialförmåga vid precis rätt tillfälle för att göra skillnad. För ofta så blir det slentrian och för sällan så blir det meningslöst.
+Fokus har tre huvudsakliga användningsområden i spelet. De kan användas för att öka chansen att lyckas med ett slag, för att aktivera specifika förmågor eller för att försöka agera snabbare eller försvara dig i strid. Motsvarande koncept finns i många rollspel (viljepoäng, hjältepoäng, kraftpoäng, tur, etc). Det huvudsakliga syftet är att ge variation i spel med en ebb-och-flod-känsla. I en bra berättelse aktiverar karaktären sin specialförmåga vid precis rätt tillfälle för att göra skillnad. För ofta så blir det slentrian och för sällan så blir det meningslöst.
 
 Sättet som fokus ackumulerar på (12:or på tärningsslag) ger det en oförutsägbarhet, som över tid ändå blir rättvis. Om du utför handlingar som är riskfyllda (alltså kräver att du slår tärningar) så har du större chans att kunna aktivera dina förmågor.
 
 Fokus andra användningsområde, att lägga till tärningar till ett slag, fyller också två syften. Det första är att ha ett användningsområde för Fokus, när du inte har tillfälle att använda dina förmågor. Fokus ska alltid kännas värdefullt. Det andra är att kunna säga som spelare att "det här är viktigt" och visa det på spelbordet. Det kan också minska risken att ett dåligt slag får berättelsen att spåra ur för mycket.
 
-Sedan striden förenklats till **en handling per runda** fyller Fokus dessutom en roll som taktisk meta-valuta i strid: du spenderar Fokus för att försvara dig aktivt (väja eller parera) och för att aktivera förmågor och krafter. Däremot går det *inte* att generellt köpa sig fri med Fokus — att göra två saker samtidigt är **ett steg svårare**, och att göra mer än en attack eller handling på sin runda kräver en förmåga som uttryckligen tillåter det (till exempel Snabbskott). Det gör resurshanteringen — inte handlingsslottar — till stridens taktiska kärna. Tänk på att det också ökar trycket på Fokus: håll baslinjen (en handling, en kort förflyttning och passivt försvar) gratis, så att den som får slut på Fokus frestas att pressa sig via Stress-ventilen i skarpa lägen snarare än att stå handfallen. Vid lågt Momentum kan det vara värt att vara något generösare med Chockslag och 12:or som ger Fokus.
+Slutligen används Fokus för att ge dynamik i strid. Det kan användas för att förflytta sig snabbare, eller för att försvara dig aktivt (väja eller parera). Syftet här är att hålla striderna enkla i grunden, men ge en möjlighet att bryta sig ur den klassiska han-slår-jag-slår-loopen.
 
 ### Stress istället för Fokus
 
