@@ -16,30 +16,34 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Archivo
+      body: Source Serif 4
       code: IBM Plex Mono
     colors:
+      # Palette derived from the character sheet (charsheet/sheet.html).
+      # Light mode = the typed dossier on cream paper: warm ink, khaki rules,
+      # navy headings, classified-red accent.
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#f5f1e6" # paper background
+        lightgray: "#e3dcc9" # rules / faint borders
+        gray: "#8a8268" # muted khaki (secondary text, distant graph nodes)
+        darkgray: "#23201a" # ink (body text)
+        dark: "#0c3a54" # navy (headings, bold)
+        secondary: "#0c3a54" # navy (links)
+        tertiary: "#9b2d1f" # classified red (hover, active graph node)
+        highlight: rgba(232, 194, 90, 0.20) # gold wash (internal-link bg)
+        textHighlight: "#e8c25a88" # gold marker (==highlight==)
+      # Dark mode = the cover / classified folder: deep navy, cream text, gold.
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#0c3a54" # navy background
+        lightgray: "#235874" # rules / faint borders
+        gray: "#9fb3c4" # steel blue (secondary text)
+        darkgray: "#e7e0ce" # warm cream (body text)
+        dark: "#f2ecdb" # bright cream (headings)
+        secondary: "#e8c25a" # gold (links)
+        tertiary: "#f3d585" # bright gold (hover, active graph node)
+        highlight: rgba(232, 194, 90, 0.15)
+        textHighlight: "#e8c25a88"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
