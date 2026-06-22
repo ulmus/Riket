@@ -66,7 +66,9 @@ resolve_chapter() {
 
   # Annars: sök på filnamnet och filtrera på angivet sökvägssuffix.
   base="$(basename "$target")"
-  matches="$(find "$BASEDIR" \( -path "$BASEDIR/.git" -o -path "$PDFDIR" \) -prune \
+  matches="$(find "$BASEDIR" \( -path "$BASEDIR/.git" -o -path "$PDFDIR" \
+                 -o -path "$BASEDIR/node_modules" -o -path "$BASEDIR/.quartz" \
+                 -o -path "$BASEDIR/public" -o -path "$BASEDIR/quartz" \) -prune \
                -o -type f -name "$base" -print 2>/dev/null)"
   hits=""
   while IFS= read -r m; do
@@ -120,7 +122,7 @@ process_book() {
     ERRORS=$((ERRORS + 1))
     return 0
   fi
-  searchdirs+=("$BASEDIR/Assets" "$BASEDIR/Karaktärer/Bilder" "$BASEDIR/Världen/Bilder")
+  searchdirs+=("$BASEDIR/content/Assets" "$BASEDIR/content/Karaktärer/Bilder" "$BASEDIR/content/Världen/Bilder")
 
   # Förbehandla en sammanslagen temporär markdownfil.
   local tmpmd="$BASEDIR/.tmp-$id.md"

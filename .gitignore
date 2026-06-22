@@ -1,10 +1,17 @@
+# OS / editor
 .DS_Store
 /.obsidian
 .claude/settings.local.json
-_site/
-.jekyll-cache/
-.jekyll-metadata
-.sass-cache/
-vendor/
 .octarine/embeddings*
+
+# PDF build temp files (build-pdf*.sh)
 .tmp-*
+
+# Quartz build artifacts
+node_modules
+public
+.quartz/
+.quartz-cache
+prof
+tsconfig.tsbuildinfo
+quartz/cli/tui/dist/
