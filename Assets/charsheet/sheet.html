@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&amp;family=Courier+Prime:ital,wght@0,400;0,700;1,400&amp;family=Saira+Condensed:wght@600;700;800&amp;family=Special+Elite&amp;display=swap" rel="stylesheet">
+<style>
+  body { margin: 0; }
+  * { box-sizing: border-box; }
+  input, textarea {
+    font-family: 'Courier Prime', 'Courier New', monospace;
+    font-size: 13px; color: var(--ink, #23201A);
+    background: transparent; border: 0; outline: 0; width: 100%;
+    padding: 2px 3px 3px; -webkit-appearance: none;
+  }
+  textarea { resize: none; line-height: 1.55; display: block; }
+  input:focus, textarea:focus { background: var(--focus, rgba(155,45,31,0.09)); }
+  input::placeholder, textarea::placeholder { color: var(--ink-soft, #9a937f); opacity: .7; font-style: italic; }
+  button { font-family: inherit; }
+  @page { size: A4; margin: 0; }
+  @media print {
+    html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    .backdrop { background: #fff !important; padding: 0 !important; gap: 0 !important; }
+    .screen-only { display: none !important; }
+    .sheet { box-shadow: none !important; margin: 0 !important; }
+    .sheet + .sheet { break-before: page; }
+    input:focus, textarea:focus { background: transparent !important; }
+    input::placeholder, textarea::placeholder { color: transparent !important; opacity: 0 !important; }
+    .dmg-blk { background: transparent !important; background-image: none !important; cursor: default !important; }
+  }
+</style>
+</helmet>
+
+<div class="backdrop" ref="{{ rootRef }}" style="min-height:100vh;background:#2b2a26;padding:36px 20px;display:flex;flex-direction:column;align-items:center;gap:26px;font-family:'Archivo',sans-serif;">
+
+  <div class="screen-only" style="width:794px;max-width:100%;display:flex;align-items:center;justify-content:space-between;gap:16px;">
+    <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:430px;">
+      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Skriv ut för ett rent, ifyllbart ark på två A4-sidor. Byt stämpelfärg och papper i Tweaks-panelen.
+    </div>
+    <div style="display:flex;gap:8px;flex:none;">
+      <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:#9B2D1F;border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
+      <button onClick="{{ onReset }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Rensa</button>
+    </div>
+  </div>
+
+  <!-- ============================ SIDA 1 ============================ -->
+  <section class="sheet" data-screen-label="Sida 1 — stats &amp; strid" style="width:794px;min-height:1123px;background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
+
+    <!-- MASTHEAD -->
+    <header style="display:flex;align-items:stretch;gap:12px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:12px 16px;position:relative;">
+      <img src="assets/irt-logo.png" alt="Program Frigg" width="82" height="82" style="flex:none;object-fit:contain;">
+      <div style="flex:1;display:flex;flex-direction:column;justify-content:center;gap:6px;min-width:0;">
+        <div style="font:600 9px/1.2 'Archivo';letter-spacing:.22em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">T-KONTORET · PROGRAM FRIGG</div>
+        <h1 style="margin:0;font:800 37px/0.92 'Saira Condensed',sans-serif;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</h1>
+        <div style="font:400 11px/1.2 'Courier Prime',monospace;letter-spacing:.04em;color:var(--ink-soft,#8A8268);">Personalakt</div>
+      </div>
+      <div style="flex:none;width:146px;border-left:1px solid var(--rule,#C7BEA6);padding-left:10px;display:flex;flex-direction:column;justify-content:center;gap:3px;">
+        <div style="display:flex;justify-content:space-between;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>BLANKETT</span><span style="color:var(--ink,#23201A);font-weight:700;">RT‑1</span></div>
+        <div style="display:flex;justify-content:space-between;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>KLASS</span><span style="color:var(--ink,#23201A);">Rikets säkerhet</span></div>
+        <label style="display:flex;align-items:baseline;gap:6px;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>REG.NR</span><input data-field="regnr" onInput="{{ onField }}" defaultValue="{{ f.regnr }}" style="border-bottom:1px solid var(--rule,#C7BEA6);font-size:11px;padding:0 2px 2px;"></label>
+        <label style="display:flex;align-items:baseline;gap:6px;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>DATUM</span><input data-field="datum" onInput="{{ onField }}" defaultValue="{{ f.datum }}" style="border-bottom:1px solid var(--rule,#C7BEA6);font-size:11px;padding:0 2px 2px;"></label>
+      </div>
+      <div style="flex:none;width:62px;align-self:center;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;height:82px;border:1px dashed var(--rule,#C7BEA6);background:rgba(0,0,0,.02);border-radius:4px;">
+        <span style="font:600 7px/1.3 'Archivo';letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft,#8A8268);text-align:center;">Foto</span>
+      </div>
+    </header>
+
+    <!-- 1 IDENTITET -->
+    <div style="border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
+      <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">1</span>
+        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Tjänsteuppgifter</span>
+        
+      </div>
+      <div style="display:flex;gap:14px;padding:11px 12px;">
+        <div style="flex:1;display:grid;grid-template-columns:1fr 1fr;gap:11px 16px;align-content:start;">
+          <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Namn</span><input data-field="namn" onInput="{{ onField }}" defaultValue="{{ f.namn }}" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;font-size:15px;"></label>
+          <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Kodnamn</span><input data-field="kodnamn" onInput="{{ onField }}" defaultValue="{{ f.kodnamn }}" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;"></label>
+          <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Spelare</span><input data-field="spelare" onInput="{{ onField }}" defaultValue="{{ f.spelare }}" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;"></label>
+          <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Expertis</span><input data-field="expertis" onInput="{{ onField }}" defaultValue="{{ f.expertis }}" placeholder="Läkare, Pilot, Kryptograf…" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;"></label>
+          <label style="display:flex;flex-direction:column;gap:2px;grid-column:1 / -1;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskrivning</span><textarea data-field="utseende" onInput="{{ onField }}" defaultValue="{{ f.utseende }}" rows="4" style="border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:12px;line-height:1.5;padding:5px 6px;"></textarea></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2 TRAUMA -->
+    <div style="border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
+      <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">2</span>
+        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Psykprofil — trauma</span>
+        <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">grund för urval till Frigg</span>
+      </div>
+      <div style="padding:9px 12px;display:flex;flex-direction:column;gap:8px;">
+        <div style="display:flex;gap:8px;">
+          <sc-for list="{{ traumaList }}" as="t" hint-placeholder-count="5">
+            <button onClick="{{ t.onClick }}" style="{{ t.btnStyle }}"><span style="{{ t.boxStyle }}"></span><span style="font:700 11px 'Archivo';color:var(--ink,#23201A);">{{ t.label }}</span></button>
+          </sc-for>
+        </div>
+        <label style="display:flex;flex-direction:column;gap:2px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskriv den specifika händelsen</span><textarea data-field="trauma_desc" onInput="{{ onField }}" defaultValue="{{ f.trauma_desc }}" rows="4" style="border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);padding:5px 6px;font-size:12px;"></textarea></label>
+      </div>
+    </div>
+
+    <!-- 3 EGENSKAPER -->
+    <div style="border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;margin-top:6px;">
+      <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">3</span>
+        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Egenskaper</span>
+        <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">21 poäng · 1–4 vardera · en superegenskap = 5</span>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px 26px;padding:11px 14px;">
+        <sc-for list="{{ attrs }}" as="a" hint-placeholder-count="8">
+          <div style="display:flex;align-items:center;gap:10px;">
+            <div style="flex:1;min-width:0;">
+              <div style="font:700 13px/1 'Archivo';letter-spacing:.01em;color:var(--ink,#23201A);">{{ a.label }}</div>
+              <div style="font:400 7.5px/1.25 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:3px;">{{ a.desc }}</div>
+            </div>
+            <div style="display:flex;gap:5px;flex:none;">
+              <sc-for list="{{ a.pips }}" as="p" hint-placeholder-count="5">
+                <button onClick="{{ p.onClick }}" style="{{ p.style }}">{{ p.n }}</button>
+              </sc-for>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+
+    <!-- 4 + 5 two-up -->
+    <div style="display:flex;gap:11px;">
+      <!-- 4 SEKUNDÄRA -->
+      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
+        <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">4</span>
+          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Sekundära värden</span>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px;padding:11px;flex:1;">
+          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
+            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Tålighet</div>
+            <div style="font:700 26px/1 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;">{{ taligheTxt }}</div>
+            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Fysik + Vilja</div>
+          </div>
+          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
+            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Förflyttning</div>
+            <div style="font:700 26px/1 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;">{{ forflytTxt }}</div>
+            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Fysik + Smidighet · m/r</div>
+          </div>
+          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
+            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Stabilitet</div>
+            <div style="font:700 26px/1 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;"><input data-field="stabilitet" onInput="{{ onField }}" defaultValue="{{ stabilitetVal }}" style="font:inherit;width:100%;padding:0;"></div>
+            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Stress du tål · börjar på 3</div>
+          </div>
+          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
+            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Initiativ</div>
+            <div style="font:700 19px/1.25 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;">1T12 + Strid</div>
+            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">slås i stridens början</div>
+          </div>
+        </div>
+      </div>
+      <!-- 5 TILLSTÅND & SKADA -->
+      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
+        <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">5</span>
+          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">SKADA &amp; KRITISKA SÅR</span>
+        </div>
+        <div style="padding:11px;display:flex;flex-direction:column;gap:10px;flex:1;">
+          <div>
+            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);margin-bottom:6px;">Kroppspoäng (KP) <span style="font-weight:400;text-transform:none;letter-spacing:0;font-family:'Courier Prime',monospace;">— varje spår = Tålighet rutor</span></div>
+            <div style="display:flex;flex-direction:column;gap:6px;">
+              <sc-for list="{{ damageTracks }}" as="d" hint-placeholder-count="4">
+                <div style="display:flex;align-items:center;gap:8px;">
+                  <span style="flex:none;width:74px;font:600 8px/1.1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--ink,#23201A);">{{ d.label }}</span>
+                  <div style="display:flex;gap:4px;">
+                    <sc-for list="{{ d.pips }}" as="p" hint-placeholder-count="13">
+                      <button onClick="{{ p.onClick }}" class="{{ p.cls }}" style="{{ p.style }}"></button>
+                    </sc-for>
+                  </div>
+                </div>
+              </sc-for>
+            </div>
+            <div style="display:flex;align-items:flex-start;gap:8px;margin-top:8px;">
+              <span style="flex:none;width:74px;padding-top:4px;font:600 8px/1.1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Kritiska sår</span>
+              <textarea data-field="kritiska_sar" onInput="{{ onField }}" defaultValue="{{ f.kritiska_sar }}" rows="2" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:11px;line-height:1.5;padding:4px 6px;"></textarea>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 6 FOKUS & STRESS -->
+    <div style="display:flex;gap:11px;">
+      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
+        <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">6</span>
+          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Fokus</span>
+        </div>
+        <div style="padding:11px;display:flex;flex-direction:column;gap:8px;">
+          <div style="display:flex;gap:6px;align-items:center;">
+            <sc-for list="{{ fokusPips }}" as="p" hint-placeholder-count="14">
+              <button onClick="{{ p.onClick }}" style="{{ p.style }}">{{ p.n }}</button>
+            </sc-for>
+          </div>
+          <div style="display:flex;align-items:center;gap:8px;">
+<span style="font:400 7.5px/1.3 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">Fokus återställs till Momentum varje scen.</span>
+          </div>
+        </div>
+      </div>
+      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
+        <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">7</span>
+          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Stress</span>
+          
+          
+        </div>
+        <div style="padding:11px;display:flex;flex-direction:column;gap:8px;">
+          <div style="display:flex;gap:6px;align-items:center;flex-wrap:wrap;">
+            <sc-for list="{{ stressPips }}" as="p" hint-placeholder-count="13">
+              <button onClick="{{ p.onClick }}" style="{{ p.style }}">{{ p.n }}</button>
+            </sc-for>
+          </div>
+          <span style="font:400 7.5px/1.3 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">Överstiger Stress en multipel av din Stabilitet slår du på Sammanbrottstabellen.</span>
+        </div>
+      </div>
+    </div>
+
+    <div style="margin-top:auto;display:flex;justify-content:space-between;align-items:center;padding-top:8px;border-top:1px solid var(--rule,#C7BEA6);font:400 8px/1 'Courier Prime',monospace;letter-spacing:.08em;color:var(--ink-soft,#8A8268);">
+      <span>BLANKETT RT‑1 (1961)</span><span>PROGRAM FRIGG — T-KONTORET</span><span>SIDA 1 AV 2</span>
+    </div>
+  </section>
+
+  <!-- ============================ SIDA 2 ============================ -->
+  <section class="sheet" data-screen-label="Sida 2 — förmågor &amp; kraft" style="width:794px;min-height:1123px;background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
+
+    <header style="display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
+      <img src="assets/irt-logo.png" alt="" width="32" height="32" style="flex:none;object-fit:contain;">
+      <div style="font:800 22px/1 'Saira Condensed',sans-serif;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</div>
+      <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span><div style="font:400 10px/1.3 'Courier Prime',monospace;letter-spacing:.04em;color:var(--ink-soft,#8A8268);text-align:right;">Blankett RT‑1 · forts.<br>Förmågor · kraft · bakgrund</div>
+      
+      
+    </header>
+
+    <!-- 7 SUPERKRAFT & SUPERFÖRMÅGOR -->
+    <div style="border:1px solid var(--accent,#9B2D1F);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
+      <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--accent,#9B2D1F);">
+        <span style="font:700 9px/1 'Archivo';background:var(--panel,#F5F1E6);color:var(--accent,#9B2D1F);padding:3px 5px;border-radius:2px;">8</span>
+        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;color:#fff;">EXTRANORMAL KRAFT</span>
+        <span style="flex:1;border-top:1px solid rgba(255,255,255,.4);"></span>
+        <span style="font:400 9px/1 'Courier Prime',monospace;color:rgba(255,255,255,.85);">konstrueras med spelledaren</span>
+      </div>
+      <div style="padding:11px 12px;display:flex;flex-direction:column;gap:9px;">
+<div style="display:flex;gap:10px;">
+          <div style="flex:1;display:flex;flex-direction:column;gap:2px;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Övergripande beskrivning</span><textarea data-field="kraft_desc" onInput="{{ onField }}" defaultValue="{{ f.kraft_desc }}" rows="3" style="border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);padding:6px;font-size:12px;"></textarea></div>
+          <div style="flex:1;display:flex;flex-direction:column;gap:2px;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Aktiverat trauma — manifestation</span><textarea data-field="kraft_trauma" onInput="{{ onField }}" defaultValue="{{ f.kraft_trauma }}" rows="3" placeholder="Hur yttrar sig kraften när traumat aktiveras?" style="border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);padding:6px;font-size:12px;"></textarea></div>
+        </div>
+        <div style="display:flex;align-items:center;gap:8px;margin-top:2px;">
+          <span style="font:700 8px/1 'Archivo';letter-spacing:.14em;text-transform:uppercase;color:var(--ink,#23201A);">EXTRANORMALA FÖRMÅGOR</span>
+          <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+          <span style="font:400 8px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">välj tre — namn och beskrivning</span>
+        </div>
+        <sc-for list="{{ superList }}" as="r" hint-placeholder-count="4">
+          <div style="border:1px solid var(--rule,#C7BEA6);border-radius:5px;background:var(--paper,#EDE7D8);overflow:hidden;">
+            <input data-field="{{ r.fName }}" onInput="{{ onField }}" defaultValue="{{ r.vName }}" placeholder="Förmågans namn" style="font:700 14px 'Courier Prime',monospace;border-bottom:1px solid var(--rule,#C7BEA6);padding:4px 8px;">
+            <textarea data-field="{{ r.fEff }}" onInput="{{ onField }}" defaultValue="{{ r.vEff }}" rows="3" placeholder="Beskrivning — verkan, kostnad, varaktighet…" style="font-size:11px;line-height:1.5;padding:4px 8px;"></textarea>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+
+    <!-- 8 FÖRMÅGOR -->
+    <div style="border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
+      <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">9</span>
+        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Förmågor</span>
+        <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">börja med två<br></span>
+      </div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 18px;padding:11px 12px;">
+        <sc-for list="{{ formagaRows }}" as="r" hint-placeholder-count="6">
+          <input data-field="{{ r.f }}" onInput="{{ onField }}" defaultValue="{{ r.v }}" placeholder="Förmåga…" style="border-bottom:1px solid var(--rule,#C7BEA6);font-size:13px;">
+        </sc-for>
+      </div>
+    </div>
+
+    <!-- 10 + 11 two-up -->
+    <div style="display:flex;gap:11px;">
+      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
+        <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">10</span>
+          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Språk</span>
+          <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+          <span style="font:400 8px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">ett poäng per nivå i Analys · 1:a = modersmål</span>
+        </div>
+        <div style="padding:7px 12px 9px;display:flex;flex-direction:column;flex:1;">
+          <sc-for list="{{ langRows }}" as="r" hint-placeholder-count="5">
+            <div style="flex:1;display:flex;align-items:end;border-bottom:1px solid var(--rule,#C7BEA6);">
+              <input data-field="{{ r.f }}" onInput="{{ onField }}" defaultValue="{{ r.v }}" style="font-size:13px;padding-bottom:2px;">
+            </div>
+          </sc-for>
+        </div>
+      </div>
+      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
+        <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">11</span>
+          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Erfarenhet (EP)</span>
+          <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+          <span style="font:400 8px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">+1 EP per session</span>
+        </div>
+        <div style="padding:8px 12px;display:flex;flex-direction:column;gap:6px;flex:1;">
+          <div style="display:flex;gap:5px;align-items:center;flex-wrap:wrap;">
+            <sc-for list="{{ epPips }}" as="p" hint-placeholder-count="15">
+              <button onClick="{{ p.onClick }}" style="{{ p.style }}">{{ p.n }}</button>
+            </sc-for>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:3px;font:400 9px/1.2 'Courier Prime',monospace;color:var(--ink,#23201A);">
+            <div style="display:flex;justify-content:space-between;gap:8px;white-space:nowrap;"><span>Öka en egenskap (+1)</span><span style="color:var(--accent,#9B2D1F);font-weight:700;">5 EP</span></div>
+            <div style="display:flex;justify-content:space-between;gap:8px;white-space:nowrap;"><span>Lära en ny förmåga</span><span style="color:var(--accent,#9B2D1F);font-weight:700;">2 EP</span></div>
+            <div style="display:flex;justify-content:space-between;gap:8px;white-space:nowrap;"><span>Få en ny expertis</span><span style="color:var(--accent,#9B2D1F);font-weight:700;">7 EP</span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 12 RESURSER -->
+    <div style="border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;flex:1;display:flex;flex-direction:column;">
+      <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">12</span>
+        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Resurser</span>
+        <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">vapen · utrustning · kontakter</span>
+      </div>
+      <div style="padding:7px 12px 9px;display:flex;flex-direction:column;flex:1;">
+        <div style="display:grid;grid-template-columns:1fr 3fr;gap:0 12px;font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);padding-bottom:2px;">
+          <span>Resurs</span><span>Anteckning</span>
+        </div>
+        <div style="flex:1;display:flex;flex-direction:column;">
+          <sc-for list="{{ resRows }}" as="r" hint-placeholder-count="12">
+            <div style="flex:1;display:grid;grid-template-columns:1fr 3fr;gap:0 12px;align-items:end;border-bottom:1px solid var(--rule,#C7BEA6);">
+              <input data-field="{{ r.f0 }}" onInput="{{ onField }}" defaultValue="{{ r.v0 }}" style="font-size:12px;padding-bottom:2px;">
+              <input data-field="{{ r.f2 }}" onInput="{{ onField }}" defaultValue="{{ r.v2 }}" style="font-size:12px;padding-bottom:2px;">
+            </div>
+          </sc-for>
+        </div>
+      </div>
+    </div>
+
+    <div style="display:flex;justify-content:space-between;align-items:center;padding-top:8px;border-top:1px solid var(--rule,#C7BEA6);font:400 8px/1 'Courier Prime',monospace;letter-spacing:.08em;color:var(--ink-soft,#8A8268);">
+      <span>BLANKETT RT‑1 (1961)</span><span>PROGRAM FRIGG — T-KONTORET</span><span>SIDA 2 AV 2</span>
+    </div>
+  </section>
+</div></x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:858,&quot;height&quot;:1180},&quot;accent&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Stämpelröd&quot;,&quot;Tjänsteblå&quot;,&quot;Bläcksvart&quot;],&quot;default&quot;:&quot;Tjänsteblå&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;paper&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Manila (varm)&quot;,&quot;Arkivgrå (kall)&quot;],&quot;default&quot;:&quot;Manila (varm)&quot;,&quot;tsType&quot;:&quot;string&quot;}}">
+class Component extends DCLogic {
+  constructor(props){
+    super(props);
+    let saved = {};
+    try { saved = JSON.parse(localStorage.getItem('irt-rt1-v1') || '{}') || {}; } catch(e) {}
+    this.fields = saved.fields || {};
+    this.state = {
+      attr: Object.assign({analys:0,fysik:0,list:0,samspel:0,sinnen:0,smidighet:0,strid:0,vilja:0}, saved.attr||{}),
+      fokus: saved.fokus||0, stress: saved.stress||0, ep: saved.ep||0,
+      kp_tjanst: saved.kp_tjanst||0, kp_sarad: saved.kp_sarad||0, kp_utslagen: saved.kp_utslagen||0, kp_doende: saved.kp_doende||0,
+      trauma: saved.trauma||'',
+      tillstand: Object.assign({sarad:false,paverkad:false,utslagen:false}, saved.tillstand||{}),
+    };
+    this._rootRef = (el) => { this.rootEl = el; if (el) this.applyTheme(); };
+  }
+
+  persist(){
+    try {
+      localStorage.setItem('irt-rt1-v1', JSON.stringify({
+        attr:this.state.attr, fokus:this.state.fokus, stress:this.state.stress,
+        ep:this.state.ep, kp_tjanst:this.state.kp_tjanst, kp_sarad:this.state.kp_sarad, kp_utslagen:this.state.kp_utslagen, kp_doende:this.state.kp_doende, trauma:this.state.trauma,
+        tillstand:this.state.tillstand, fields:this.fields
+      }));
+    } catch(e) {}
+  }
+
+  computeTheme(){
+    const P = this.props || {};
+    const a = String(P.accent||'').toLowerCase();
+    const accent = (a.indexOf('svart') > -1) ? '#2A261F'
+                 : (a.indexOf('röd') > -1 || a.indexOf('rod') > -1 || a.indexOf('stämpel') > -1 || a.indexOf('stampel') > -1) ? '#9B2D1F'
+                 : '#0C3A54';
+    const focus = (accent === '#0C3A54') ? 'rgba(12,58,84,0.12)' : (accent === '#2A261F') ? 'rgba(42,38,31,0.10)' : 'rgba(155,45,31,0.09)';
+    const warm = String(P.paper||'').toLowerCase().indexOf('manila') > -1;
+    return warm
+      ? {'--paper':'#EDE7D8','--panel':'#F5F1E6','--panel-head':'#DCD1B8','--ink':'#23201A','--ink-soft':'#8A8268','--rule':'#C7BEA6','--accent':accent,'--focus':focus}
+      : {'--paper':'#E4E5E0','--panel':'#F2F2EC','--panel-head':'#D2D3CE','--ink':'#1E211E','--ink-soft':'#7E837A','--rule':'#BFC2B8','--accent':accent,'--focus':focus};
+  }
+  applyTheme(){
+    if (!this.rootEl) return;
+    const t = this.computeTheme();
+    Object.keys(t).forEach(k => this.rootEl.style.setProperty(k, t[k]));
+  }
+  componentDidMount(){ this.applyTheme(); }
+  componentDidUpdate(){ this.applyTheme(); }
+
+  setAttr(key, n){ this.setState(s => { const v = s.attr[key]===n ? n-1 : n; return {attr: Object.assign({}, s.attr, {[key]:v})}; }, () => this.persist()); }
+  setTrack(group, n){ this.setState(s => ({[group]: s[group]===n ? n-1 : n}), () => this.persist()); }
+  toggleCond(key){ this.setState(s => ({tillstand: Object.assign({}, s.tillstand, {[key]: !s.tillstand[key]})}), () => this.persist()); }
+  setTrauma(key){ this.setState(s => ({trauma: s.trauma===key ? '' : key}), () => this.persist()); }
+
+  pipStyle(on, sup){
+    let s = "width:21px;height:21px;border-radius:50%;display:inline-flex;align-items:center;justify-content:center;font:600 10px/1 'Archivo',sans-serif;cursor:pointer;padding:0;transition:background .12s,border-color .12s,color .12s;";
+    s += "border:1.5px solid " + (sup ? "var(--accent,#9B2D1F)" : "var(--rule,#C7BEA6)") + ";";
+    s += on ? "background:var(--accent,#9B2D1F);color:#fff;border-color:var(--accent,#9B2D1F);"
+            : "background:transparent;color:var(--ink-soft,#8A8268);";
+    return s;
+  }
+  trackStyle(on, opts, n){
+    const sq = opts && opts.square;
+    const sm = opts && opts.small;
+    const dim = sm ? "16px" : (sq ? "17px" : "19px");
+    let s = "width:" + dim + ";height:" + dim + ";display:inline-flex;align-items:center;justify-content:center;font:600 " + (sm?"8px":"9px") + "/1 'Archivo',sans-serif;cursor:pointer;padding:0;transition:background .12s;border-radius:" + (sq?"2px":"50%") + ";";
+    const marked = opts && opts.mark && n % opts.mark === 0;
+    s += "border:1.5px solid " + ((marked && !on) ? "var(--accent,#9B2D1F)" : "var(--rule,#C7BEA6)") + ";";
+    s += on ? "background:var(--accent,#9B2D1F);color:#fff;" : "background:transparent;color:var(--ink-soft,#8A8268);";
+    return s;
+  }
+  dmgStyle(on, blocked){
+    let s = "width:15px;height:15px;border-radius:2px;padding:0;display:inline-flex;align-items:center;justify-content:center;cursor:" + (blocked?"not-allowed":"pointer") + ";";
+    if (on) { s += "background:var(--accent,#9B2D1F);border:1.5px solid var(--accent,#9B2D1F);"; }
+    else if (blocked) { s += "background:var(--panel-head,#E7E0CE);border:1.5px solid var(--rule,#C7BEA6);background-image:repeating-linear-gradient(45deg,transparent,transparent 2px,rgba(0,0,0,.14) 2px,rgba(0,0,0,.14) 3.2px);"; }
+    else { s += "background:transparent;border:1.5px solid var(--rule,#C7BEA6);"; }
+    return s;
+  }
+  cbStyle(on){
+    return "flex:none;width:15px;height:15px;border-radius:2px;cursor:pointer;border:1.5px solid " + (on?"var(--accent,#9B2D1F)":"var(--rule,#C7BEA6)") + ";background:" + (on?"var(--accent,#9B2D1F)":"transparent") + ";";
+  }
+  selectBtn(on){
+    return "display:flex;align-items:center;gap:7px;cursor:pointer;background:" + (on?"rgba(155,45,31,.06)":"transparent") + ";border:1px solid " + (on?"var(--accent,#9B2D1F)":"transparent") + ";border-radius:3px;padding:3px 7px 3px 5px;text-align:left;";
+  }
+
+  renderVals(){
+    const attrDefs = [
+      {key:'analys',label:'Analys',desc:'Logik, teknik, kunskap, medicin, krypto'},
+      {key:'fysik',label:'Fysik',desc:'Råstyrka, tålighet, närstrid'},
+      {key:'list',label:'List',desc:'Lögner, förklädnad, undre världen'},
+      {key:'samspel',label:'Samspel',desc:'Social påverkan, ledarskap, charm'},
+      {key:'sinnen',label:'Sinnen',desc:'Upptäcka faror, spana, magkänsla'},
+      {key:'smidighet',label:'Smidighet',desc:'Smyga, klättra, finmotorik, förare'},
+      {key:'strid',label:'Strid',desc:'Vapenteknik, våld, taktik'},
+      {key:'vilja',label:'Vilja',desc:'Mod, stresstålighet, övertygelse'},
+    ];
+    const attrs = attrDefs.map(d => {
+      const v = this.state.attr[d.key] || 0;
+      const pips = [1,2,3,4,5].map(n => ({ n, onClick: () => this.setAttr(d.key, n), style: this.pipStyle(n<=v, n===5) }));
+      return { label:d.label, desc:d.desc, pips };
+    });
+
+    const F = this.state.attr;
+    const tal = (F.fysik||0) + (F.vilja||0);
+    const forf = (F.fysik||0) + (F.smidighet||0);
+
+    const traumaDefs = [
+      {key:'forlust',label:'Förlust',desc:'Något du älskade togs ifrån dig.'},
+      {key:'vanmakt',label:'Vanmakt',desc:'Du var hjälplös när det gällde.'},
+      {key:'skuld',label:'Skuld',desc:'Du orsakade något fruktansvärt.'},
+      {key:'svek',label:'Svek',desc:'Någon du litade på förrådde dig.'},
+      {key:'skam',label:'Skam',desc:'Du avslöjades eller förödmjukades.'},
+    ];
+    const traumaList = traumaDefs.map(d => {
+      const sel = this.state.trauma === d.key;
+      return { label:d.label, desc:d.desc, onClick:()=>this.setTrauma(d.key), btnStyle:this.selectBtn(sel)+'flex:1;justify-content:center;', boxStyle:this.cbStyle(sel) };
+    });
+
+    const condDefs = [{key:'sarad',label:'Sårad'},{key:'paverkad',label:'Påverkad'},{key:'utslagen',label:'Utslagen'}];
+    const cond = condDefs.map(d => {
+      const on = !!this.state.tillstand[d.key];
+      return { label:d.label, onClick:()=>this.toggleCond(d.key), btnStyle:this.selectBtn(on), boxStyle:this.cbStyle(on) };
+    });
+
+    const dmgDefs = [
+      {key:'kp_tjanst', label:'Tjänstduglig'},
+      {key:'kp_sarad', label:'Sårad'},
+      {key:'kp_utslagen', label:'Utslagen'},
+      {key:'kp_doende', label:'Döende'},
+    ];
+    const dmgMax = 13;
+    const damageTracks = dmgDefs.map(d => {
+      const v = this.state[d.key] || 0;
+      const pips = [];
+      for (let i=1; i<=dmgMax; i++){
+        const blocked = tal > 0 && i > tal;
+        pips.push({
+          n:i,
+          cls: blocked ? 'dmg-blk' : '',
+          onClick: blocked ? (()=>{}) : (()=>this.setTrack(d.key, i)),
+          style: this.dmgStyle(i<=v && !blocked, blocked)
+        });
+      }
+      return { label:d.label, pips };
+    });
+
+    const mkTrack = (group, count, opts) => {
+      const v = this.state[group] || 0;
+      const arr = [];
+      for (let i=1; i<=count; i++){ arr.push({ n:i, onClick:()=>this.setTrack(group,i), style:this.trackStyle(i<=v, opts||{}, i) }); }
+      return arr;
+    };
+
+    const mkRows = (prefix, count, cols) => {
+      const arr = [];
+      for (let i=0; i<count; i++){
+        const o = { n: i+1 };
+        for (let c=0; c<cols; c++){ const fk = prefix + i + '_' + c; o['f'+c] = fk; o['v'+c] = this.fields[fk] || ''; }
+        arr.push(o);
+      }
+      return arr;
+    };
+
+    const superList = [1,2,3,4].map(n => ({ n,
+      fName:'sf'+n+'_namn', vName:this.fields['sf'+n+'_namn']||'',
+      fReq:'sf'+n+'_krav', vReq:this.fields['sf'+n+'_krav']||'',
+      fEff:'sf'+n+'_eff',  vEff:this.fields['sf'+n+'_eff']||'' }));
+    const formagaRows = [];
+    for (let i=0; i<6; i++){ formagaRows.push({ f:'formaga'+i, v:this.fields['formaga'+i]||'' }); }
+    const langRows = [0,1,2].map(i => ({ f:'lang'+i, v:this.fields['lang'+i]||'' }));
+
+    return {
+      rootRef: this._rootRef, attrs, traumaList, cond, damageTracks,
+      taligheTxt: tal ? String(tal) : '',
+      forflytTxt: forf ? String(forf) : '',
+      stabilitetVal: this.fields.stabilitet || '',
+      fokusPips: mkTrack('fokus', 14, {}),
+      stressPips: mkTrack('stress', 13, {}),
+      epPips: mkTrack('ep', 15, {square:true}),
+      superList, formagaRows, langRows,
+      resRows: mkRows('res', 7, 3),
+      f: this.fields,
+      onField: (e) => { const k = e.target.dataset.field; if(!k) return; this.fields[k] = e.target.value; this.persist(); },
+      onPrint: () => window.print(),
+      onReset: () => { if (!window.confirm('Rensa hela blanketten? Detta går inte att ångra.')) return; try { localStorage.removeItem('irt-rt1-v1'); } catch(e) {} window.location.reload(); },
+    };
+  }
+}
+</script>
+</body>
+</html>
