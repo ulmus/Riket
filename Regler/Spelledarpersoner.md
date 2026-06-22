@@ -7,13 +7,13 @@ Arketyperna är mallar, inte namngivna individer. Ge dem ett namn, ett utmärkan
 ## Att använda arketyperna
 
 - **Tre nivåer.** SLP delas in i *statister* (namnlösa, snabba att spela), *tränade* SLP (reellt motstånd inom sitt område) och *elit och ENS* (motståndare i ett äventyrs klimax). Välj den nivå som passar scenens vikt.
-- **Spåra inte Fokus och Stress för statister.** För namnlösa SLP som gränsvakter och meniga soldater fattar du Sammanbrotts- och stresseffekter som rena SL-beslut, utan slag. För tränade SLP och ENS kan du improvisera Fokus enligt rådet i spelledarkapitlet: har en ENS redan använt sina krafter ett par gånger under scenen är dess Fokus slut och den får ta Stress.
-- **Skala efter behov.** Vill du ha en vassare eller slappare variant av en arketyp — höj eller sänk en eller två Egenskaper när du bygger SLP:n. Det är en fri justering av SLP:ns siffror vid bordet och ska inte förväxlas med modifikationer på spelarnas slag (som bara får bonusar, aldrig avdrag).
+- **Räkna inte Fokus och Stress för statister.** För namnlösa SLP som gränsvakter och meniga soldater fattar du Sammanbrotts- och stresseffekter som rena SL-beslut, utan slag. För tränade SLP och ENS kan du improvisera Fokus enligt rådet i spelledarkapitlet: har en ENS redan använt sina krafter ett par gånger under scenen är dess Fokus slut och den får ta Stress.
+- **Skala efter behov.** Vill du ha en mer eller mindre vass variant av en arketyp — höj eller sänk en eller två Egenskaper när du bygger SLP:n eller lägg till en förmåga.
 - **Tålighet räknas som Fysik + Vilja** (krafter och förmågor kan höja den), Stabilitet är 3 om inget annat anges. Vapnens Skada och egenskaper finns i [[Vapen]], krafterna byggs enligt [[Krafter]].
 
 ## Statister
 
-Namnlösa SLP. Beskriv dem med ett ord eller två, spela dem snabbt och spåra varken Fokus eller Stress. De flesta slår aldrig en enda tärning — de är där för att skapa friktion, färg och komplikationer.
+Namnlösa SLP. Beskriv dem med ett ord eller två, spela dem snabbt och räkna varken Fokus eller Stress. De flesta slår aldrig en enda tärning — de är där för att skapa friktion, färg och komplikationer.
 
 ### Gränsvakt
 
@@ -369,72 +369,72 @@ Den tekniske eller vetenskaplige rådgivaren från [[Program Frigg (Sverige)|Pro
 
 ## Egenheter
 
-Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag — så som rådet under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] säger att *alla har en story*. Behöver du snabbt ge en karaktär liv kan du slå eller välja från en eller flera av tabellerna nedan. En bakgrund, ett utseende, ett personlighetsdrag eller ett beteende räcker långt för att du ska kunna spela vem som helst. Tabellerna fungerar lika bra för rollpersoner som för SLP.
+Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag — så som rådet under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] säger att *alla har en story*. Behöver du snabbt ge en karaktär liv kan du slå eller välja från en eller flera av tabellerna nedan. En bakgrund, ett utseende, ett personlighetsdrag eller ett beteende räcker långt för att du ska kunna spela vem som helst. Tabellerna fungerar vid behov lika bra för rollpersoner som för SLP.
 
 ### Bakgrund
 
-| T12 | Egenhet                                                                       |
-| --- | ---------------------------------------------------------------------------- |
-| 1   | Uppvuxen i en hamnstad, talar tre språk men inget riktigt väl.               |
-| 2   | Krigsbarn, evakuerad som liten och aldrig riktigt hemma någonstans.          |
-| 3   | Före detta motståndsman, bär på täcknamn som aldrig nämns högt.              |
-| 4   | Adlig familj på dekis, klamrar sig fast vid forna meriter.                    |
-| 5   | Lämnade landsbygden för storstaden och såg sig aldrig om.                     |
-| 6   | Desertör under kriget, lever fortfarande på falska papper.                   |
-| 7   | Lovande akademiker vars karriär krossades av politiken.                       |
-| 8   | Äldst i en stor syskonskara i ett trångt hyreshus.                           |
-| 9   | Repatrierad krigsfånge med år i läger bakom sig.                             |
-| 10  | Gränslandsbo vars lojalitet bytt flagga flera gånger.                        |
-| 11  | Barn till en diplomat, uppvuxen på ambassader i halva Europa.                |
-| 12  | Föräldralös, fostrad av en institution eller en sluten orden.                |
+| T12 | Egenhet                                                             |
+| --- | ------------------------------------------------------------------- |
+| 1   | Uppvuxen i en hamnstad, talar tre språk men inget riktigt väl.      |
+| 2   | Krigsbarn, evakuerad som liten och aldrig riktigt hemma någonstans. |
+| 3   | Före detta motståndsman, bär på täcknamn som aldrig nämns högt.     |
+| 4   | Adlig familj på dekis, klamrar sig fast vid forna meriter.          |
+| 5   | Lämnade landsbygden för storstaden och såg sig aldrig om.           |
+| 6   | Desertör under kriget, lever fortfarande på falska papper.          |
+| 7   | Lovande akademiker vars karriär krossades av politiken.             |
+| 8   | Äldst i en stor syskonskara i ett trångt hyreshus.                  |
+| 9   | Repatrierad krigsfånge med år i läger bakom sig.                    |
+| 10  | Gränslandsbo vars lojalitet bytt flagga flera gånger.               |
+| 11  | Barn till en diplomat, uppvuxen på ambassader i halva Europa.       |
+| 12  | Föräldralös, fostrad av en institution eller en sluten orden.       |
 
 ### Utseende
 
-| T12 | Egenhet                                                              |
-| --- | ------------------------------------------------------------------- |
-| 1   | Ett blekt ärr som löper genom ena ögonbrynet.                       |
-| 2   | För välpressad kostym, alltid en aning för stram.                   |
-| 3   | Nikotingula fingrar och en rossling vid varje andetag.              |
-| 4   | Ovanligt ljusa, nästan färglösa ögon.                               |
-| 5   | Haltar lätt, ett minne från kriget.                                 |
-| 6   | Bär alltid handskar, även inomhus.                                  |
-| 7   | En guldtand som blixtrar till vid varje leende.                     |
-| 8   | Vresigt, väderbitet ansikte, ser äldre ut än hen är.                |
-| 9   | En doft av billigt rakvatten som dröjer sig kvar i rummet.          |
-| 10  | En sliten armbandsklocka som hen ständigt sneglar på.               |
-| 11  | Pedantiskt välansad mustasch eller frisyr.                          |
-| 12  | En hand eller ett ögonlock som darrar nästan omärkligt.             |
+| T12 | Egenhet                                                    |
+| --- | ---------------------------------------------------------- |
+| 1   | Ett blekt ärr som löper genom ena ögonbrynet.              |
+| 2   | För välpressad kostym, alltid en aning för stram.          |
+| 3   | Nikotingula fingrar och en rossling vid varje andetag.     |
+| 4   | Ovanligt ljusa, nästan färglösa ögon.                      |
+| 5   | Haltar lätt, ett minne från kriget.                        |
+| 6   | Bär alltid handskar, även inomhus.                         |
+| 7   | En guldtand som blixtrar till vid varje leende.            |
+| 8   | Vresigt, väderbitet ansikte, ser äldre ut än hen är.       |
+| 9   | En doft av billigt rakvatten som dröjer sig kvar i rummet. |
+| 10  | En sliten armbandsklocka som hen ständigt sneglar på.      |
+| 11  | Pedantiskt välansad mustasch eller frisyr.                 |
+| 12  | En hand eller ett ögonlock som darrar nästan omärkligt.    |
 
 ### Personlighet
 
-| T12 | Egenhet                                                       |
-| --- | ------------------------------------------------------------ |
-| 1   | Misstror alla, litar bara på siffror och dokument.           |
-| 2   | Sentimental, rörs lätt till tårar av musik och minnen.       |
-| 3   | Cyniskt skämtsam, gör allt obekvämt till en vits.            |
-| 4   | Ideologiskt renlärig och sover gott om natten.               |
-| 5   | Feg, men skicklig på att dölja det.                          |
-| 6   | Lojal in i döden — mot fel person.                           |
-| 7   | Olidligt nyfiken, ställer alltid en fråga för mycket.        |
-| 8   | Bitter över ett liv som inte blev som det skulle.            |
-| 9   | Naiv idealist som envist tror på det goda i människan.       |
-| 10  | Behärskad yta över ett pyrande, väl dolt raseri.             |
-| 11  | Ständigt på jakt efter andras svagheter och hemligheter.     |
-| 12  | Oväntat generös och varm, även mot sina fiender.             |
+| T12 | Egenhet                                                  |
+| --- | -------------------------------------------------------- |
+| 1   | Misstror alla, litar bara på siffror och dokument.       |
+| 2   | Sentimental, rörs lätt till tårar av musik och minnen.   |
+| 3   | Cyniskt skämtsam, gör allt obekvämt till en vits.        |
+| 4   | Ideologiskt renlärig och sover gott om natten.           |
+| 5   | Feg, men skicklig på att dölja det.                      |
+| 6   | Lojal in i döden — mot fel person.                       |
+| 7   | Olidligt nyfiken, ställer alltid en fråga för mycket.    |
+| 8   | Bitter över ett liv som inte blev som det skulle.        |
+| 9   | Naiv idealist som envist tror på det goda i människan.   |
+| 10  | Behärskad yta över ett pyrande, väl dolt raseri.         |
+| 11  | Ständigt på jakt efter andras svagheter och hemligheter. |
+| 12  | Oväntat generös och varm, även mot sina fiender.         |
 
 ### Beteende
 
-| T12 | Egenhet                                                            |
-| --- | ----------------------------------------------------------------- |
-| 1   | Knackar ur pipan mot askfatet vid varje paus i samtalet.          |
-| 2   | Rättar oavbrutet på slipsen eller manschetterna.                  |
-| 3   | Upprepar den andres sista ord tyst innan hen svarar.              |
-| 4   | Möter aldrig blicken på den hen talar med.                        |
-| 5   | Nynnar eller visslar lågt på en gammal melodi.                    |
-| 6   | Petar bort osynligt damm från ärmen mitt i en mening.             |
-| 7   | Talar om sig själv i tredje person.                               |
-| 8   | Ler i alla lägen, allra bredast vid dåliga nyheter.               |
-| 9   | Strör in fackuttryck eller latin som ingen runt bordet förstår.   |
-| 10  | Räknar tyst på fingrarna medan hen tänker.                        |
+| T12 | Egenhet                                                               |
+| --- | --------------------------------------------------------------------- |
+| 1   | Knackar ur pipan mot askfatet vid varje paus i samtalet.              |
+| 2   | Rättar oavbrutet på slipsen eller manschetterna.                      |
+| 3   | Upprepar den andres sista ord tyst innan hen svarar.                  |
+| 4   | Möter aldrig blicken på den hen talar med.                            |
+| 5   | Nynnar eller visslar lågt på en gammal melodi.                        |
+| 6   | Petar bort osynligt damm från ärmen mitt i en mening.                 |
+| 7   | Talar om sig själv i tredje person.                                   |
+| 8   | Ler i alla lägen, allra bredast vid dåliga nyheter.                   |
+| 9   | Strör in fackuttryck eller latin som ingen runt bordet förstår.       |
+| 10  | Räknar tyst på fingrarna medan hen tänker.                            |
 | 11  | Tar fram och stoppar undan ett fickur eller ett foto, om och om igen. |
-| 12  | Avbryter sig själv mitt i meningar och börjar om från början.     |
+| 12  | Avbryter sig själv mitt i meningar och börjar om från början.         |
