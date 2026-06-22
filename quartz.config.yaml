@@ -136,8 +136,9 @@ plugins:
     layout:
       position: left
       priority: 50
+  # Disabled: the interactive graph in the right sidebar is not wanted.
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
