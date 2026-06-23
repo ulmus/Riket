@@ -1,3 +1,6 @@
+---
+draft: true
+---
 | Slag | Temperatur | Vind & väder      | Siktförhållanden                | Kommentar                                           |
 | ---- | ---------- | ----------------- | ------------------------------- | --------------------------------------------------- |
 | 1    | –30 °C     | Svag vind         | Klar himmel, stjärnor, norrsken | Dödligt kallt. Köldskador på minuter utan skydd.    |

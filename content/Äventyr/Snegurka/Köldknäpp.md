@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 Plats: Stockholm, juli 1962
 
 ## Bakgrund

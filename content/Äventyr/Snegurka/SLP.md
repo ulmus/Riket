@@ -1,4 +1,6 @@
-
+---
+draft: true
+---
 | Namn                                  | Fraktion                  | Roll/grad                   | Agenda/beskrivning                                                                       |
 | ------------------------------------- | ------------------------- | --------------------------- | ---------------------------------------------------------------------------------------- |
 | **Kaptein Ola Holm**                  | Norge                     | Armén, platschef ODIN-LYRA  | Vill skydda stationen och hålla samarbetet hemligt, tveksam till risker.                 |
