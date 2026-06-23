@@ -42,8 +42,8 @@ system image in the project's build settings.
 
 After this, every push to `main` triggers a Cloudflare build and deploy, and
 pull requests get automatic **preview deployments** at
-`<deployment>.riket.pages.dev`. There is no GitHub Actions deploy workflow;
-`.github/workflows/pr-build.yml` still builds each PR as an extra check.
+`<deployment>.riket.pages.dev`. Cloudflare handles all builds; the repo has no
+GitHub Actions workflows.
 
 > Verify the project itself at `https://riket.pages.dev/` — it serves the site
 > at its own root. The `/riket` prefix is added by the Worker below.
