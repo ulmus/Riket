@@ -88,13 +88,13 @@ Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgö
 
 ### Skadesteg
 
-| Skada | Tröskel | Utfall |
-| --- | --- | --- |
-| **Tjänstduglig** | 0 KP | Inga effekter |
-| **Sårad** | \> Tålighet KP | Alla handlingar ett steg svårare |
-| **Medvetslös** | \> 2 × Tålighet KP | Du faller ihop och kan inte agera |
-| **Döende** | \> 3 × Tålighet KP | Du blir **Akut döende** (chock) — se *Döende* nedan |
-| **Död** | \> 4 × Tålighet KP | Du dör omedelbart |
+| Skada            | Tröskel            | Utfall                                              |
+| ---------------- | ------------------ | --------------------------------------------------- |
+| **Tjänstduglig** | 0 KP               | Inga effekter                                       |
+| **Sårad**        | \> Tålighet KP     | Alla handlingar ett steg svårare                    |
+| **Medvetslös**   | \> 2 × Tålighet KP | Du faller ihop och kan inte agera                   |
+| **Döende**       | \> 3 × Tålighet KP | Du blir **Akut döende** (chock) — se *Döende* nedan |
+| **Död**          | \> 4 × Tålighet KP | Du dör omedelbart                                   |
 
 *Exempel: En karaktär med Fysik 2 och Vilja 3 har Tålighet 5. Hon blir Sårad vid 6+ KP skada, Medvetslös vid 11+ KP, Döende vid 16+ KP, och dör omedelbart vid 21+ KP.*
 
