@@ -70,8 +70,8 @@
     </div>
   </div>
 
-  <!-- ============================ SIDA 1 — personalia & psyke ============================ -->
-  <section class="sheet" data-screen-label="Sida 1 — personalia &amp; egenskaper" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
+  <!-- ============================ SIDA 1 — personalia, egenskaper & strid ============================ -->
+  <section class="sheet" data-screen-label="Sida 1 — personalia, egenskaper &amp; strid" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
 
     <!-- MASTHEAD -->
     <header style="flex:none;display:flex;align-items:stretch;gap:12px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:12px 16px;position:relative;">
@@ -110,28 +110,10 @@
       </div>
     </div>
 
-    <!-- 2 PSYKPROFIL — TRAUMA -->
-    <div style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
-      <div style="flex:none;display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
-        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">2</span>
-        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Psykprofil — trauma</span>
-        <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
-        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">grund för urval till Frigg</span>
-      </div>
-      <div style="padding:9px 12px;display:flex;flex-direction:column;gap:8px;flex:1;min-height:0;">
-        <div style="flex:none;display:flex;gap:8px;">
-          <sc-for list="{{ traumaList }}" as="t" hint-placeholder-count="5">
-            <button onClick="{{ t.onClick }}" style="{{ t.btnStyle }}"><span style="{{ t.boxStyle }}"></span><span style="font:700 11px 'Archivo';color:var(--ink,#23201A);">{{ t.label }}</span></button>
-          </sc-for>
-        </div>
-        <label style="display:flex;flex-direction:column;gap:2px;flex:1;min-height:0;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskriv den specifika händelsen</span><textarea data-field="trauma_desc" onInput="{{ onField }}" defaultValue="{{ f.trauma_desc }}" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:5px 6px;font-size:12px;"></textarea></label>
-      </div>
-    </div>
-
-    <!-- 3 EGENSKAPER -->
+    <!-- 2 EGENSKAPER -->
     <div style="flex:none;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
       <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
-        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">3</span>
+        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">2</span>
         <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Egenskaper</span>
         <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
         <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">21 poäng · 1–4 vardera · en superegenskap = 5</span>
@@ -153,26 +135,12 @@
       </div>
     </div>
 
-    <div style="flex:none;margin-top:auto;display:flex;justify-content:space-between;align-items:center;padding-top:8px;border-top:1px solid var(--rule,#C7BEA6);font:400 8px/1 'Courier Prime',monospace;letter-spacing:.08em;color:var(--ink-soft,#8A8268);">
-      <span>BLANKETT RT‑1 (1961)</span><span>PROGRAM FRIGG — T-KONTORET</span><span>SIDA 1 AV 3</span>
-    </div>
-  </section>
-
-  <!-- ============================ SIDA 2 — stridsduglighet & resurser ============================ -->
-  <section class="sheet" data-screen-label="Sida 2 — strid, färdigheter &amp; resurser" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
-
-    <header style="flex:none;display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
-      <img src="assets/irt-logo.png" alt="" width="32" height="32" style="flex:none;object-fit:contain;">
-      <div style="font:800 22px/1 'Saira Condensed',sans-serif;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</div>
-      <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span><div style="font:400 10px/1.3 'Courier Prime',monospace;letter-spacing:.04em;color:var(--ink-soft,#8A8268);text-align:right;">Blankett RT‑1 · forts.<br>Stridsvärden · färdigheter · resurser</div>
-    </header>
-
-    <!-- 4 + 5 two-up -->
+    <!-- 3 + 4 two-up -->
     <div style="flex:none;display:flex;gap:11px;">
-      <!-- 4 SEKUNDÄRA -->
+      <!-- 3 SEKUNDÄRA -->
       <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
-          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">4</span>
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">3</span>
           <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Sekundära värden</span>
         </div>
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px;padding:11px;flex:1;">
@@ -198,10 +166,10 @@
           </div>
         </div>
       </div>
-      <!-- 5 SKADA & KRITISKA SÅR -->
+      <!-- 4 SKADA & KRITISKA SÅR -->
       <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
-          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">5</span>
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">4</span>
           <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">SKADA &amp; KRITISKA SÅR</span>
         </div>
         <div style="padding:11px;display:flex;flex-direction:column;gap:10px;flex:1;">
@@ -228,11 +196,11 @@
       </div>
     </div>
 
-    <!-- 6 + 7 two-up -->
+    <!-- 5 + 6 two-up -->
     <div style="flex:none;display:flex;gap:11px;">
       <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
-          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">6</span>
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">5</span>
           <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Fokus</span>
         </div>
         <div style="padding:11px;display:flex;flex-direction:column;gap:8px;">
@@ -248,7 +216,7 @@
       </div>
       <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
-          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">7</span>
+          <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">6</span>
           <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Stress</span>
         </div>
         <div style="padding:11px;display:flex;flex-direction:column;gap:8px;">
@@ -259,6 +227,39 @@
           </div>
           <span style="font:400 7.5px/1.3 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">Överstiger Stress en multipel av din Stabilitet slår du på Sammanbrottstabellen.</span>
         </div>
+      </div>
+    </div>
+
+    <div style="flex:none;margin-top:auto;display:flex;justify-content:space-between;align-items:center;padding-top:8px;border-top:1px solid var(--rule,#C7BEA6);font:400 8px/1 'Courier Prime',monospace;letter-spacing:.08em;color:var(--ink-soft,#8A8268);">
+      <span>BLANKETT RT‑1 (1961)</span><span>PROGRAM FRIGG — T-KONTORET</span><span>SIDA 1 AV 3</span>
+    </div>
+  </section>
+
+  <!-- ============================ SIDA 2 — psykprofil, färdigheter & resurser ============================ -->
+  <section class="sheet" data-screen-label="Sida 2 — psykprofil, färdigheter &amp; resurser" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
+
+    <header style="flex:none;display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
+      <img src="assets/irt-logo.png" alt="" width="32" height="32" style="flex:none;object-fit:contain;">
+      <div style="font:800 22px/1 'Saira Condensed',sans-serif;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</div>
+      <sc-if value="{{ hasId }}"><span style="flex:none;font:700 14px/1 'Saira Condensed',sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent,#0C3A54);">{{ idnamn }}</span></sc-if>
+      <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span><div style="font:400 10px/1.3 'Courier Prime',monospace;letter-spacing:.04em;color:var(--ink-soft,#8A8268);text-align:right;">Blankett RT‑1 · forts.<br>Psykprofil · färdigheter · resurser</div>
+    </header>
+
+    <!-- 7 PSYKPROFIL — TRAUMA -->
+    <div style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
+      <div style="flex:none;display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
+        <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">7</span>
+        <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Psykprofil — trauma</span>
+        <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
+        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">grund för urval till Frigg</span>
+      </div>
+      <div style="padding:9px 12px;display:flex;flex-direction:column;gap:8px;flex:1;min-height:0;">
+        <div style="flex:none;display:flex;gap:8px;">
+          <sc-for list="{{ traumaList }}" as="t" hint-placeholder-count="5">
+            <button onClick="{{ t.onClick }}" style="{{ t.btnStyle }}"><span style="{{ t.boxStyle }}"></span><span style="font:700 11px 'Archivo';color:var(--ink,#23201A);">{{ t.label }}</span></button>
+          </sc-for>
+        </div>
+        <label style="display:flex;flex-direction:column;gap:2px;flex:1;min-height:0;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskriv den specifika händelsen</span><textarea data-field="trauma_desc" onInput="{{ onField }}" defaultValue="{{ f.trauma_desc }}" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:5px 6px;font-size:12px;"></textarea></label>
       </div>
     </div>
 
@@ -324,18 +325,8 @@
         <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
         <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">vapen · utrustning · kontakter</span>
       </div>
-      <div style="padding:7px 12px 9px;display:flex;flex-direction:column;flex:1;min-height:0;">
-        <div style="flex:none;display:grid;grid-template-columns:1fr 3fr;gap:0 12px;font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);padding-bottom:2px;">
-          <span>Resurs</span><span>Anteckning</span>
-        </div>
-        <div style="flex:1;display:flex;flex-direction:column;min-height:0;">
-          <sc-for list="{{ resRows }}" as="r" hint-placeholder-count="12">
-            <div style="flex:1;display:grid;grid-template-columns:1fr 3fr;gap:0 12px;align-items:end;border-bottom:1px solid var(--rule,#C7BEA6);">
-              <input data-field="{{ r.f0 }}" onInput="{{ onField }}" defaultValue="{{ r.v0 }}" style="font-size:12px;padding-bottom:2px;">
-              <input data-field="{{ r.f2 }}" onInput="{{ onField }}" defaultValue="{{ r.v2 }}" style="font-size:12px;padding-bottom:2px;">
-            </div>
-          </sc-for>
-        </div>
+      <div style="padding:9px 12px;display:flex;flex:1;min-height:0;">
+        <textarea data-field="resurser" onInput="{{ onField }}" defaultValue="{{ f.resurser }}" placeholder="Vapen, utrustning, kontakter…" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:12px;line-height:1.55;padding:6px 8px;"></textarea>
       </div>
     </div>
 
@@ -350,6 +341,7 @@
     <header style="flex:none;display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
       <img src="assets/irt-logo.png" alt="" width="32" height="32" style="flex:none;object-fit:contain;">
       <div style="font:800 22px/1 'Saira Condensed',sans-serif;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</div>
+      <sc-if value="{{ hasId }}"><span style="flex:none;font:700 14px/1 'Saira Condensed',sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent,#0C3A54);">{{ idnamn }}</span></sc-if>
       <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span><div style="font:400 10px/1.3 'Courier Prime',monospace;letter-spacing:.04em;color:var(--ink-soft,#8A8268);text-align:right;">Blankett RT‑1 · forts.<br>Extranormal kraft</div>
     </header>
 
@@ -608,18 +600,8 @@ class Component extends DCLogic {
       return arr;
     };
 
-    const mkRows = (prefix, count, cols) => {
-      const arr = [];
-      for (let i=0; i<count; i++){
-        const o = { n: i+1 };
-        for (let c=0; c<cols; c++){ const fk = prefix + i + '_' + c; o['f'+c] = fk; o['v'+c] = this.fields[fk] || ''; }
-        arr.push(o);
-      }
-      return arr;
-    };
-
     // Repeatable sections keep their blank-form row count but grow to fit a
-    // loaded character that has more languages, powers, abilities or resources.
+    // loaded character that has more languages, powers or abilities.
     let superN = 4;
     for (let i=1; i<=40; i++){ if (this.fields['sf'+i+'_namn'] || this.fields['sf'+i+'_eff']) superN = Math.max(superN, i); }
     const superList = [];
@@ -635,8 +617,6 @@ class Component extends DCLogic {
     for (let i=0; i<40; i++){ if (this.fields['lang'+i]) langN = Math.max(langN, i+1); }
     const langRows = [];
     for (let i=0; i<langN; i++){ langRows.push({ f:'lang'+i, v:this.fields['lang'+i]||'' }); }
-    let resN = 7;
-    for (let i=0; i<40; i++){ if (this.fields['res'+i+'_0'] || this.fields['res'+i+'_2']) resN = Math.max(resN, i+1); }
 
     return {
       rootRef: this._rootRef, attrs, traumaList, cond, damageTracks,
@@ -647,9 +627,10 @@ class Component extends DCLogic {
       stressPips: mkTrack('stress', 13, {}),
       epPips: mkTrack('ep', 15, {square:true}),
       superList, formagaRows, langRows,
-      resRows: mkRows('res', resN, 3),
       hasFoto: !!(this.fields.foto || '').trim(),
       fotoUrl: (this.fields.foto || '').trim(),
+      idnamn: (this.fields.kodnamn || this.fields.namn || '').trim(),
+      hasId: !!(this.fields.kodnamn || this.fields.namn || '').trim(),
       ready: this.state._phase !== 'loading' && this.state._phase !== 'error',
       loading: this.state._phase === 'loading',
       loadError: this.state._phase === 'error',

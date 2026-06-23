@@ -24,17 +24,6 @@
     "formaga3": "Djurvän",
     "lang0": "Svenska (modersmål)",
     "lang1": "Tyska (stapplande)",
-    "res0_0": "Kulsprutepistol m/45",
-    "res0_2": "\"Carl Gustaf\". Räckvidd 15 m, Skada 2, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏",
-    "res1_0": "Knogjärn",
-    "res1_2": "+1 skada i obeväpnad närstrid.",
-    "res2_0": "Kofot",
-    "res2_2": "+2 på Fysik + Smidighet för att bryta sig in.",
-    "res3_0": "Rock med insydda plåtar",
-    "res3_2": "Skydd 2; alla Smidighet-slag ett steg svårare.",
-    "res4_0": "Fältförband",
-    "res4_2": "+2 på Akutvård (Analys + Smidighet).",
-    "res5_0": "Kung Gustafs sardiner",
-    "res5_2": "20 burkar."
+    "resurser": "Kulsprutepistol m/45 \"Carl Gustaf\" — Räckvidd 15 m, Skada 2, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏\nKnogjärn — +1 skada i obeväpnad närstrid.\nKofot — +2 på Fysik + Smidighet för att bryta sig in.\nRock med insydda plåtar — Skydd 2; alla Smidighet-slag ett steg svårare.\nFältförband — +2 på Akutvård (Analys + Smidighet).\nKung Gustafs sardiner — 20 burkar."
   }
 }

@@ -36,5 +36,5 @@ formuläret först.
 Fälten följer formulärets modell: `attr` (egenskaper 0–5), `trauma`
 (`forlust`, `vanmakt`, `skuld`, `svek`, `skam` eller tomt) och `fields`
 (alla textfält, t.ex. `kodnamn`, `expertis`, `lang0…`, `sf1_namn`/`sf1_eff`,
-`formaga0…`, `res0_0`/`res0_2`, `foto`). Tålighet och Förflyttning räknas ut
-automatiskt från egenskaperna.
+`formaga0…`, `resurser` (en fri textruta), `foto`). Tålighet och Förflyttning
+räknas ut automatiskt från egenskaperna.

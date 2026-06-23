@@ -25,15 +25,6 @@
     "lang2": "Tyska (flytande)",
     "lang3": "Svenska (flytande)",
     "lang4": "Ryska (stapplande)",
-    "res0_0": "Anteckningsbok",
-    "res0_2": "Logg över visioner. +1 på Analys + Sinnen för att minnas detaljer från tidigare visioner.",
-    "res1_0": "Fotografisamling",
-    "res1_2": "Foton, brev och föremål från kontakter i Europa – ankare för känslomässiga kopplingar.",
-    "res2_0": "Sjal av grov ull",
-    "res2_2": "Mot kylan.",
-    "res3_0": "Sömntabletter",
-    "res3_2": "För nätter när visionerna inte släpper.",
-    "res4_0": "Davidsstjärna i silver",
-    "res4_2": "Buren under blusen."
+    "resurser": "Anteckningsbok — logg över visioner. +1 på Analys + Sinnen för att minnas detaljer från tidigare visioner.\nFotografisamling — foton, brev och föremål från kontakter i Europa; ankare för känslomässiga kopplingar.\nSjal av grov ull — mot kylan.\nSömntabletter — för nätter när visionerna inte släpper.\nDavidsstjärna i silver — buren under blusen."
   }
 }

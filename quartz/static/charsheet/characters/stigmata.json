@@ -20,15 +20,6 @@
     "lang0": "Svenska (modersmål)",
     "lang1": "Engelska (flytande)",
     "lang2": "Tyska (stapplande)",
-    "res0_0": "Läkarväska",
-    "res0_2": "+2 på slag för Medicin (Analys + Sinnen).",
-    "res1_0": "Suturkit",
-    "res1_2": "+2 på slag för Kirurgi (Analys + Smidighet).",
-    "res2_0": "Morfin",
-    "res2_2": "10 ampuller och injektionsset.",
-    "res3_0": "Boken Inferno",
-    "res3_2": "Av Strindberg, i originalutgåva.",
-    "res4_0": "Pistol m/40",
-    "res4_2": "Räckvidd 25 m, Skada 1, skadetyp Skjutvapen. Ammunition ❏❏"
+    "resurser": "Läkarväska — +2 på slag för Medicin (Analys + Sinnen).\nSuturkit — +2 på slag för Kirurgi (Analys + Smidighet).\nMorfin — 10 ampuller och injektionsset.\nBoken Inferno — av Strindberg, i originalutgåva.\nPistol m/40 — Räckvidd 25 m, Skada 1, skadetyp Skjutvapen. Ammunition ❏❏"
   }
 }
