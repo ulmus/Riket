@@ -637,7 +637,7 @@ class Component extends DCLogic {
       loadError: this.state._phase === 'error',
       loadErrorMsg: this.state._err || '',
       f: this.fields,
-      onField: (e) => { const k = e.target.dataset.field; if(!k) return; this.fields[k] = e.target.value; this.persist(); },
+      onField: (e) => { const k = e.target.dataset.field; if(!k) return; this.fields[k] = e.target.value; this.persist(); if (k === 'kodnamn' || k === 'namn') this.setState({}); },
       onFoto: () => {
         const cur = (this.fields.foto || '').trim();
         const v = window.prompt('Klistra in en länk (URL) till ett foto. Lämna tomt för att ta bort.', cur);
