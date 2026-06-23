@@ -18,9 +18,7 @@ cssclasses:
 
 **Expertis:** Underrättelseanalytiker
 
-!
-
-[[Bilder/Verdandi.png|697]]
+![[Bilder/Verdandi.png|697]]
 
 ## Språk
 

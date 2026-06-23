@@ -18,9 +18,7 @@ cssclasses:
 
 **Expertis:** Låssmed
 
-!
-
-[[Bilder/Prisma.png|697]]
+![[Bilder/Prisma.png|697]]
 
 ## Språk
 
