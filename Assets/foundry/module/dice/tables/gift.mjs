@@ -10,9 +10,9 @@ export const GIFT = [
   { min: 8, max: 8, label: "Svår förgiftning", effect: "Alla slag är minst Mycket Svåra. Behandlas med Medicin (Svårt)." },
   { min: 9, max: 9, label: "Andnöd", effect: "Du kan inte både handla och förflytta dig samma runda. Alla slag är minst Mycket Svåra." },
   { min: 10, max: 10, label: "Lever-/njursvikt", effect: "Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
-  { min: 11, max: 11, label: "Svår andnöd", effect: "Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. Döende: Överlevnadsslag per minut om ingen motgift." },
-  { min: 12, max: 12, label: "Hjärtarytmi", effect: "Ta 2 Stress. Döende: Överlevnadsslag per minut." },
-  { min: 13, max: 13, label: "Neurologisk skada", effect: "Slår ut nervsystemet. Döende: Överlevnadsslag per runda. Om du överlever: Permanent –1 på Smidighet." },
-  { min: 14, max: 14, label: "Systemisk kollaps", effect: "Döende: Överlevnadsslag per runda (kräver motgift för att stabiliseras). Om du överlever: Permanent –1 på Fysik." },
+  { min: 11, max: 11, label: "Svår andnöd", effect: "Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. Akut döende om ingen motgift." },
+  { min: 12, max: 12, label: "Hjärtarytmi", effect: "Ta 2 Stress. Akut döende." },
+  { min: 13, max: 13, label: "Neurologisk skada", effect: "Slår ut nervsystemet. Akut döende. Om du överlever: Permanent –1 på Smidighet." },
+  { min: 14, max: 14, label: "Systemisk kollaps", effect: "Akut döende (kräver motgift för att stabiliseras). Om du överlever: Permanent –1 på Fysik." },
   { min: 15, max: 99, label: "Dödlig gift", effect: "Du dör omedelbart." },
 ];

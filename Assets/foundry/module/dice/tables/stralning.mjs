@@ -10,9 +10,9 @@ export const STRALNING = [
   { min: 8, max: 8, label: "Benmärgsskada", effect: "Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
   { min: 9, max: 9, label: "Lungskada", effect: "Du kan inte både handla och förflytta dig samma runda. Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
   { min: 10, max: 10, label: "Njursvikt", effect: "Alla slag är minst Mycket Svåra. Kräver sjukhusvård." },
-  { min: 11, max: 11, label: "Benmärgsskada – systemkollaps", effect: "Alla slag är minst Mycket Svåra. Döende: Överlevnadsslag per dag." },
-  { min: 12, max: 12, label: "Organsvikt", effect: "Lever och njurar slutar fungera. Döende: Överlevnadsslag per minut. Om du överlever: Permanent –1 på Fysik." },
-  { min: 13, max: 13, label: "Multipel organsvikt", effect: "Döende: Överlevnadsslag per minut. Om du överlever: Permanent –2 på Fysik." },
-  { min: 14, max: 14, label: "Total cellnedbrytning", effect: "Döende: Överlevnadsslag per runda. Om du överlever: Permanent –3 på Fysik och –2 på Vilja." },
+  { min: 11, max: 11, label: "Benmärgsskada – systemkollaps", effect: "Alla slag är minst Mycket Svåra. Döende." },
+  { min: 12, max: 12, label: "Organsvikt", effect: "Lever och njurar slutar fungera. Akut döende. Om du överlever: Permanent –1 på Fysik." },
+  { min: 13, max: 13, label: "Multipel organsvikt", effect: "Akut döende. Om du överlever: Permanent –2 på Fysik." },
+  { min: 14, max: 14, label: "Total cellnedbrytning", effect: "Akut döende. Om du överlever: Permanent –3 på Fysik och –2 på Vilja." },
   { min: 15, max: 99, label: "Akut stråldöd", effect: "Kroppen kollapsar. Du dör inom 1T12 timmar, inga Överlevnadsslag eller vård kan rädda dig." },
 ];

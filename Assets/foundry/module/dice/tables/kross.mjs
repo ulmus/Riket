@@ -10,9 +10,9 @@ export const KROSS = [
   { min: 8, max: 8, label: "Hjärnskakning", effect: "Du är yr. Om du misslyckas med Analys- eller Sinnen-slag tappar du din nästa handling." },
   { min: 9, max: 9, label: "Brutet ben", effect: "Slå 1T12: 1-6 vänster, 7-12 höger ben. Du faller omkull. Du kan inte gå eller springa, endast krypa (1 meter per runda). Behandlas med Kirurgi. Läketid: 1T12 veckor." },
   { min: 10, max: 10, label: "Bruten arm", effect: "Slå 1T12: 1-6 vänster, 7-12 höger arm. Armen är obrukbar. Försök att använda den misslyckas automatiskt. Behandlas med Kirurgi. Läketid: 1T12 veckor." },
-  { min: 11, max: 11, label: "Skalltrauma", effect: "Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. Döende: Överlevnadsslag per minut. Permanent: –1 på Analys-slag under tidspress." },
-  { min: 12, max: 12, label: "Krossad skalle", effect: "Döende: Överlevnadsslag per minut. Om du överlever: Permanent –2 på Analys och Sinnen." },
-  { min: 13, max: 13, label: "Krossat ansikte", effect: "Döende: Överlevnadsslag per runda. Om du överlever: Permanent –2 på Sinnen och Samspel (vanställd)." },
-  { min: 14, max: 14, label: "Krossad bröstorg", effect: "Inre organ svårt skadade. Döende: Överlevnadsslag per runda. Om du överlever: Permanent –3 på Fysik." },
+  { min: 11, max: 11, label: "Skalltrauma", effect: "Du blir medvetslös. Slå Fysik + Vilja varje runda för att vakna. Akut döende. Permanent: –1 på Analys-slag under tidspress." },
+  { min: 12, max: 12, label: "Krossad skalle", effect: "Akut döende. Om du överlever: Permanent –2 på Analys och Sinnen." },
+  { min: 13, max: 13, label: "Krossat ansikte", effect: "Akut döende. Om du överlever: Permanent –2 på Sinnen och Samspel (vanställd)." },
+  { min: 14, max: 14, label: "Krossad bröstorg", effect: "Inre organ svårt skadade. Akut döende. Om du överlever: Permanent –3 på Fysik." },
   { min: 15, max: 99, label: "Krossad till döds", effect: "Du dör omedelbart." },
 ];
