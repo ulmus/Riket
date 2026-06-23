@@ -196,6 +196,8 @@ En annan person stabiliserar dig genom att behandla det som gör dig döende:
 
 När du har blivit **stabil** är du inte längre döende och slutar slå Överlevnadsslag. Du är potentiellt fortfarande Medvetslös eller Sårad och KP-skada och eventuella **Permanent**-effekter består.
 
+*Exempel: Tjuren tar emot granatsplitter och passerar 3 × Tålighet i KP-skada. Det räknas som KP-chock, så han blir direkt **Akut döende** och slår Överlevnadsslag (Fysik + Vilja) en gång per minut. Första minuten lyckas han med en framgång utan Effekt — han håller sig kvar, men förbättras inte. Innan nästa slag hinner en lagkamrat fram. Eftersom skadan är ren KP-chock stabiliserar lagkamraten med **Medicin** (Analys + Sinnen) och får en framgång, vilket tar Tjuren ett steg nedåt till **Döende** — nu räcker ett Överlevnadsslag per timme, vilket köper tid. Ett andra försök tar en timme, och först under sjukhusformer går det att slå om gång på gång tills Tjuren blir **Stabil**. Hade behandlingsslaget gett en framgång plus en Effekt hade det tagit honom två steg, ända till Stabil, på en gång — och Tjuren själv kan klättra ett steg nedåt om ett eget Överlevnadsslag ger två fulla nivåer av Effekt.*
+
 ### Permanenta effekter består
 
 När en kritisk träff anger en **Permanent**-effekt så är effekten bestående även om du stabiliseras och överlever. Stabilisering räddar livet men reparerar inte den skada som redan skett. Rehabilitering eller hjälpmedel kan delvis minska avdraget — se [[Läkning & vård#Permanenta skador]] .
