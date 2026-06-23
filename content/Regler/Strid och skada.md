@@ -174,10 +174,10 @@ Du dör omedelbart om:
 
 När du är Döende måste du slå **Överlevnadsslag** (Fysik + Vilja) med ett intervall som beror på orsaken:
 
-| Orsak | Intervall |
-| --- | --- |
-| KP-förlust (chock) | Per minut |
-| Kritisk träff | Enligt tabellen (runda/minut/timme) |
+| Orsak              | Intervall                     |
+| ------------------ | ----------------------------- |
+| KP-förlust (chock) | Per minut                     |
+| Kritisk träff      | Enligt tabellen (minut/timme) |
 
 Varje Överlevnadsslag:
 
@@ -195,9 +195,9 @@ När en kritisk träff anger en **Permanent**-effekt så är effekten bestående
 
 ### Stabilisering
 
-En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
+En annan person kan stabilisera dig med **Analys + Smidighet (Kiriurgi)**:
 
-- Kräver en handling (stillastående) för första försöket, en minut för andra försöket och en timme för tredje försöket.
+- Kräver en minut för första försöket och en timme för andra försöket. Fler försök kan bara göras under sjukhusformer och tar då ytterligare en timme per försök.
 - Varje framgång läggs till stabiliseringsframgångarna som krävs för att överleva (totalt tre).
 
 ## Blödning
@@ -237,3 +237,13 @@ Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, St
 ## Särskilda situationer
 
 Se särskilt avsnitt för [[Särskilda situationer]] .
+
+## Att spela en strid
+
+Det bästa sättet att hantera en strid i I Rikets Tjänst är att aldrig ge sig in i den. Strider är kaotiska och oförutsägbara och alla underrättelsetjänster undviker dem eller vill att oddsen är orimligt mycket till deras fördel. Eftersom varje attack kan ge ett kritiskt sår och varje kritiskt sår kan vara dödligt, så gäller det generellt att göra det svårt eller omöjligt för motståndaren att träffa dig i första läget.
+
+Så som svårigheterna fungerar i I Rikets Tjänst så har en tränad soldat god chans att träffa ett långsamt, oskyddat mål inom vapnets räckvidd. Därför gäller det att inte vara långsam, oskyddad eller inom vapnets räckvidd. Så fort det finns försvårande omständigheter som skydd, att skytten eller målet rör sig eller att det är långt avstånd så stiger svårigheten till Svår eller Mycket Svår och det blir genast mindre farligt.
+
+Om å andra sidan målet är helt ovetande om attacken, till exempel från en krypskytt eller ett överfall, så kan svårigheten istället bli Lätt och det blir alltså en automatisk träff där tärningarna bara rullas för att se om det blir extra Effekt.
+
+Se alltså till att röra dig, hålla dig i skydd och gärna överraska fienden. Och ge dig inte in i närstrid, för då försvinner de här chanserna och det är bara din förmåga att värja dig som räddar dig från attackerna.

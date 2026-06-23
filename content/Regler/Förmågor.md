@@ -32,6 +32,12 @@ Du kan använda *Smidighet + Strid* för obeväpnade närstridsattacker och får
 
 När du attackerar kan du inleda med en fint som en del av handlingen. Spendera en fokus för att tvinga målet ta din följande attack passivt — det kan inte väja eller parera mot den (se [[Strid och skada#Försvar]]).
 
+### Blockad
+
+*Krav:* Fäktning, Slagsmål eller Jujutsu
+
+Du kan värja dig (slå ett aktivt försvar mot en närstridsattack) en gång per runda utan att spendera Fokus. Om du har Slagsmål eller Jujutsu så kan du värja dig med bara händerna, utan att ha något lämpligt tillhygge.
+
 ### Ripost
 
 *Krav:* Fäktning eller Jujutsu
@@ -124,19 +130,19 @@ Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdista
 
 *Krav:* Fysik 2, Strid 2
 
-Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera 1 Fokus för att aktivt försvara dem: slå *Smidighet + Strid* (Lätt) och dra av **Effekten** från anfallets framgångar, precis som om du försvarade dig själv.
+Du är expert på att skydda andra. När en allierad inom 2 meter attackeras kan du spendera 1 Fokus för att aktivt försvara dem: slå *Smidighet + Strid* (Lätt) och dra av **Effekten** från anfallets framgångar, precis som om du försvarade dig själv. Överskjutande attack träffar fortfarande målet, inte dig.
 
 ### Offervilja
 
 *Krav:* Livvakt, Vilja 3
 
-När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus för att ta skadan själv istället (kan kombineras med Livvakt). Det är den allierades skada efter deras eventuella försvar och Skydd som överförs — du kan inte själv försvara dig eller använda ditt eget Skydd mot den.
+När en allierad inom 2 meter skulle ta skada kan du spendera 1 Fokus för att ta skadan själv istället (kan kombineras med Livvakt).
 
 ### Järnvilja
 
 *Krav:* Fysik 3, Vilja 3
 
-När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbart spendera 1 Fokus per tillståndseffekt för att ignorera den till slutet av scenen. Du tar fortfarande skadan och kan fortfarande bli Döende.
+När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbart spendera 1 Fokus per tillståndseffekt för att ignorera den till slutet av scenen. Du tar fortfarande skadan och kan fortfarande bli Döende. Om du blir Döende eller scenen tar slut så får du full effekt av tillstånden igen.
 
 ## Fältvård
 

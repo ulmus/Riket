@@ -10,23 +10,21 @@ Det finns tre vårdtyper, var och en med sin egen attributkombination:
 | **Kirurgi**   | Analys + Smidighet | Blödning, brutna ben, djupa sår, kulor, organskador          |
 | **Psykologi** | Analys + Samspel   | Stress, hallucinationer, chock                               |
 
-Kirurgi i fält (utan operationssal) är normalt **Svår**.
+Kirurgi i fält (utan operationssal) har minst svårighet **Svår**.
 
 ## Behandling
 
-Behandling kräver en **handling** (stillastående) för första försöket. Nästa försök kräver en full minut och ytterligare försök kan bara göras om förutsättningarna förbättras (bättre utrustning, mer tid, stabilare patient).
+Behandling kräver en full minut, ytterligare försök tar en timme och ytterligare försök efter det kan bara göras om förutsättningarna förbättras (bättre utrustning, mer tid, stabilare patient).
 
 **Utrustning:** +1 tärning med första-hjälpen-kit, +2 med läkarväska.
 
-| Åtgärd                | Vårdtyp   | Utfall                                                                   |
-| --------------------- | --------- | ------------------------------------------------------------------------ |
-| Stoppa blödning       | Kirurgi   | Minska blödning ett steg per framgång                                    |
-| Stabilisera döende    | Medicin   | Patienten behöver inte slå överlevnadsslag                               |
-| Stabilisera sårad     | Medicin   | Patienten är inte längre **Sårad** (svårighetsökningen upphör)           |
-| Ge motgift            | Medicin   | Stoppar gifteffekter (kräver rätt motgift)                               |
-| Lugna patient         | Psykologi | Ta bort 1 Stress per framgång                                            |
-
-**Stabilisera sårad:** En lyckad Medicin-behandling på en **Sårad** karaktär gör att svårighetsökningen från **Sårad** tillfälligt upphör. Om karaktären tar ytterligare skada återkommer effekten och ett nytt behandlingsslag krävs.
+| Åtgärd             | Vårdtyp   | Utfall                                                                                                            |
+| ------------------ | --------- | ----------------------------------------------------------------------------------------------------------------- |
+| Stoppa blödning    | Kirurgi   | Minska blödning ett steg per framgång, från svår till lätt till inget                                             |
+| Stabilisera döende | Medicin   | Varje framgång ökar tidsenheten för dödsslag från minut till runda till timmar till inget.                        |
+| Stabilisera sårad  | Medicin   | Patienten är inte längre **Sårad** (svårighetsökningen upphör). Ytterligare skada innan läkt så går det upp igen. |
+| Ge motgift         | Medicin   | Stoppar gifteffekter (kräver rätt motgift)                                                                        |
+| Lugna patient      | Psykologi | Ta bort 1 Stress per framgång                                                                                     |
 
 **Medicin läker inte KP.** Behandling kan stabilisera tillstånd och lindra effekter, men KP-skada läks bara genom vila och tid (se Läkning nedan).
 
@@ -54,6 +52,6 @@ Kritiska sår läker parallellt. Sjukhusvård kan halvera läketiden genom ett l
 
 ### Permanenta skador
 
-Vissa kritiska träffar ger **permanenta** effekter som inte läker bort. Hjälpmedel (proteser, glasögon) kan minska avdrag. Rehabilitering kan minska permanenta avdrag med –1 efter 1T12 månaders träning.
+Vissa kritiska träffar ger **permanenta** effekter som inte läker. Hjälpmedel (proteser, glasögon) kan minska avdrag. Rehabilitering kan minska permanenta avdrag med ett steg efter 1T12 månaders träning.
 
 Se [[Kritiska träffar]] för specifika effekter.
