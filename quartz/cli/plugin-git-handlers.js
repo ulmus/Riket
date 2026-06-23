@@ -21,6 +21,7 @@ import {
   getNameOverrides,
 } from "./plugin-data.js"
 import { symlinkOrCopySync } from "./helpers.js"
+import { patchPluginLocales } from "./patch-plugin-locales.mjs"
 
 const INTERNAL_EXPORTS = new Set(["manifest", "default"])
 
@@ -348,7 +349,26 @@ async function regeneratePluginIndex() {
   fs.writeFileSync(indexPath, indexContent)
 }
 
-export async function handlePluginInstallUnified({
+// Thin wrapper around the install logic that re-applies our local locale
+// patches (e.g. sv-SE) after every real install. See
+// quartz/cli/patch-plugin-locales.mjs. Runs in `finally` so it covers all
+// install paths (fresh clone, cache hit no-op, --latest, --clean); skipped on
+// dry runs. Never lets a patch error fail the install.
+export async function handlePluginInstallUnified(options = {}) {
+  try {
+    return await handlePluginInstallUnifiedImpl(options)
+  } finally {
+    if (!options.dryRun) {
+      try {
+        patchPluginLocales({ verbose: false })
+      } catch (err) {
+        console.log(styleText("yellow", `⚠ sv-SE locale patch skipped: ${err?.message ?? err}`))
+      }
+    }
+  }
+}
+
+async function handlePluginInstallUnifiedImpl({
   names,
   fromConfig = false,
   latest = false,
