@@ -1,0 +1,1 @@
+Det här dokumentet har flyttat och finns nu på [riket.exostra.se](https://riket.exostra.se).
