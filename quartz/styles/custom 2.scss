@@ -1,0 +1,87 @@
+@use "./variables.scss" as *;
+
+// =============================================================
+// "Program Frigg" dossier theme
+//
+// Derived from the character sheet (quartz/static/charsheet/sheet.html):
+// deep navy, gold, cream paper and a classified-red accent, with
+// stamped-form typographic cues. The colours themselves live in
+// quartz.config.yaml and are consumed here through Quartz's themed CSS
+// variables (--dark, --secondary, --tertiary, ...), so every rule below
+// adapts automatically to light mode (cream dossier) and dark mode
+// (navy classified folder).
+// =============================================================
+
+// --- Site wordmark (top-left): stamped --------------------------------
+.page-title {
+  letter-spacing: 0.06em;
+  font-weight: 700;
+}
+
+// --- Page title: emblem-style with an accent rule ---------------------
+.article-title {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border-bottom: 3px solid var(--tertiary);
+  padding-bottom: 0.2em;
+}
+
+// The page title is already rendered above the article, so hide the
+// duplicate leading "# Title" H1 that the Markdown files repeat.
+.center article h1:first-of-type {
+  display: none;
+}
+
+// --- Content body -----------------------------------------------------
+.center article {
+  // Section headings get a faint rule, like fields on a form.
+  h2 {
+    margin-top: 2em;
+    padding-bottom: 0.15em;
+    border-bottom: 1px solid var(--lightgray);
+    letter-spacing: 0.01em;
+  }
+
+  // Links underlined in the accent colour (red on paper, gold on navy).
+  a {
+    text-decoration-color: var(--tertiary);
+    text-underline-offset: 2px;
+  }
+
+  // Blockquote = a clipped-in note slip.
+  blockquote {
+    border-left: 3px solid var(--tertiary);
+    background: var(--lightgray);
+  }
+
+  // Tables read like a typed form grid.
+  thead {
+    background: var(--dark);
+  }
+
+  th {
+    color: var(--light);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    font-size: 0.85em;
+  }
+
+  tbody tr:nth-child(even) {
+    background: var(--lightgray);
+  }
+
+  // Photos and maps get a thin matted frame.
+  img {
+    border: 1px solid var(--lightgray);
+    background: var(--light);
+    padding: 4px;
+  }
+}
+
+// --- Page metadata (dates / reading time) as a typewritten stamp ------
+.content-meta {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.8em;
+}
