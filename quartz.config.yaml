@@ -12,6 +12,11 @@ configuration:
     - private
     - templates
     - .obsidian
+    # Excluded from the published site: this ~45 MiB SLP compendium exceeds
+    # Cloudflare Pages' 25 MiB per-file limit. Smaller PDFs (e.g. the Pass
+    # props) are published normally. The file is generated via
+    # build-pdf-karaktärer.sh and remains in the repo.
+    - "**/Karaktärer I Rikets Tjänst.pdf"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
