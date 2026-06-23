@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: null
   locale: sv-SE
-  baseUrl: exostra.se/riket
+  baseUrl: riket.exostra.se
   ignorePatterns:
     - private
     - templates
@@ -124,10 +124,9 @@ plugins:
     enabled: true
   - source: github:quartz-community/og-image
     enabled: true
-  # Disabled: the site is hosted on Cloudflare Pages and fronted at
-  # exostra.se/riket by a Cloudflare Worker on the exostra.se zone. The domain is
-  # configured in Cloudflare, not via a CNAME file, so none should be emitted.
-  # See DEPLOYMENT.md.
+  # Disabled: the site is hosted on Cloudflare Pages at the riket.exostra.se
+  # subdomain. The custom domain is configured in the Cloudflare dashboard, not
+  # via a CNAME file, so none should be emitted. See DEPLOYMENT.md.
   - source: github:quartz-community/cname
     enabled: false
   - source: github:quartz-community/canvas-page
