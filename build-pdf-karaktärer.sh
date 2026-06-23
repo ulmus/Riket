@@ -12,7 +12,7 @@ source "$BASEDIR/build-lib.sh"
 
 irt_require_build_tools
 
-CHARS="$BASEDIR/Karaktärer"
+CHARS="$BASEDIR/content/Karaktärer"
 PDFDIR="$BASEDIR/pdf"
 mkdir -p "$PDFDIR"
 
@@ -26,7 +26,7 @@ for f in "$CHARS"/*.md; do
   echo "Bygger $NAME..."
   cp "$f" "$TMPMD"
   irt_obsidian_to_md "$TMPMD"
-  irt_resolve_images "$TMPMD" "$CHARS/Bilder" "$CHARS" "$BASEDIR/Assets"
+  irt_resolve_images "$TMPMD" "$CHARS/Bilder" "$CHARS" "$BASEDIR/content/Assets"
 
   pandoc \
     --from=markdown \

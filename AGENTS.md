@@ -10,10 +10,13 @@ This workspace contains the rules, campaign notes, and adventures for **"I Riket
 - **Format:** Markdown files intended for use with **Obsidian**.
 - **Linking:** Use Obsidian-style wikilinks `[[Page Name]]` or `[[Page Name#Section]]` for cross-referencing.
 - **Directory Structure:**
-  - `Regler/`: Core rulebooks (Mechanics, Combat, Abilities).
-  - `Äventyr/`: Adventure modules and scenarios.
-  - `Assets/`: Includes general assets like images, maps, and reference materials.
-  - `Kampanj.md`: Campaign overview and NPC lists.
+  - `content/`: Everything published to the website lives here (see *Publishing* below). The Obsidian vault is the repository root, so wikilinks still resolve by basename across the whole vault.
+    - `content/Regler/`: Core rulebooks (Mechanics, Combat, Abilities).
+    - `content/Äventyr/`: Adventure modules and scenarios.
+    - `content/Världen/`, `content/Karaktärer/`: Setting and player characters.
+    - `content/Assets/`: Images, maps, and reference materials referenced by the published pages.
+  - `Assets/foundry/`: Foundry VTT system (not published).
+  - `Kampanj.md`, `Manuskript.md`: Campaign/GM notes and the PDF build manifest (kept at the root, not published).
 
 ## Terminology
 When generating content, always use the established terminology defined in [[Terminologi]]. This ensures consistency across all rules, adventures, and campaign materials. Key terms include:
@@ -112,4 +115,8 @@ Always use the following terms as defined in [[Terminologi]]:
 
 ## Developer/Writer Workflow
 - **Editing:** The user uses Obsidian. Ensure links match existing filenames exactly.
-- **Styling:** `publish.css` controls the visual presentation (Obsidian Typewriter theme). Avoid inline HTML styles; rely on semantic Markdown.
+- **Publishing:** The website is built with **[Quartz 5](https://quartz.jzhao.xyz/)** (a fork-and-own static site generator vendored under `quartz/`). Published content lives in `content/`; configuration is in `quartz.config.yaml`.
+  - Local preview: `npm install` once, then `npx quartz plugin install` and `npx quartz build --serve`.
+  - Deployment: pushing to `main` triggers `.github/workflows/deploy.yml`, which builds and publishes to GitHub Pages. (Set Pages → Source to "GitHub Actions" once in repo settings.)
+  - Custom HTML pages (e.g. the print character sheet) are served from `quartz/static/` and linked like `/static/charsheet/sheet.html`.
+- **Styling:** Rely on semantic Markdown. Custom site CSS goes in `quartz/styles/custom.scss`; theme colours/fonts are in `quartz.config.yaml`. (`publish.css`, `regler.css`, `karaktär.css` are now only used by the PDF build, not the website.)
