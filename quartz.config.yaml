@@ -25,19 +25,20 @@ configuration:
       body: Source Serif 4
       code: IBM Plex Mono
     colors:
-      # Palette derived from the character sheet (charsheet/sheet.html).
-      # Light mode = the typed dossier on cream paper: warm ink, khaki rules,
-      # navy headings, classified-red accent.
+      # Palette derived from the character sheet (charsheet/sheet.html) and the
+      # RT-1 personnel-file form. Light mode = the typed dossier on cool cream
+      # paper: near-black ink, neutral-grey form rules, true-navy headings and
+      # bold, with an antique-gold accent (the emblem's crown).
       lightMode:
-        light: "#f5f1e6" # paper background
-        lightgray: "#e3dcc9" # rules / faint borders
-        gray: "#8a8268" # muted khaki (secondary text, distant graph nodes)
-        darkgray: "#23201a" # ink (body text)
-        dark: "#0c3a54" # navy (headings, bold)
-        secondary: "#0c3a54" # navy (links)
-        tertiary: "#9b2d1f" # classified red (hover, active graph node)
-        highlight: rgba(232, 194, 90, 0.20) # gold wash (internal-link bg)
-        textHighlight: "#e8c25a88" # gold marker (==highlight==)
+        light: "#f0efe9" # paper background (cool cream)
+        lightgray: "#d8d4c7" # rules / faint borders (form lines)
+        gray: "#7a786e" # muted grey (secondary text, distant graph nodes)
+        darkgray: "#1c1d22" # ink (body text, near-black)
+        dark: "#173a5c" # navy (headings, bold)
+        secondary: "#173a5c" # navy (links)
+        tertiary: "#a9781f" # antique gold (hover, active graph node)
+        highlight: rgba(207, 169, 78, 0.20) # gold wash (internal-link bg)
+        textHighlight: "#cfa94e88" # gold marker (==highlight==)
       # Dark mode = the cover / classified folder: deep navy, cream text, gold.
       darkMode:
         light: "#0c3a54" # navy background
