@@ -32,4 +32,4 @@ Ett taktiskt superhjälte-rollspel satt under kalla kriget. Hemliga agenter med 
 
 ## Verktyg
 
-- [Rollformulär (utskrift)](/static/charsheet/sheet.html)
+- <a href="/static/charsheet/sheet.html" target="_blank" rel="noopener">Rollformulär (utskrift)</a>
