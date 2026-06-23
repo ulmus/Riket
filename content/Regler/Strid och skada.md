@@ -88,13 +88,13 @@ Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgö
 
 ### Skadesteg
 
-| Skada | Tröskel | Utfall |
-| --- | --- | --- |
-| **Tjänstduglig** | 0 KP | Inga effekter |
-| **Sårad** | \> Tålighet KP | Alla handlingar ett steg svårare |
-| **Medvetslös** | \> 2 × Tålighet KP | Du faller ihop och kan inte agera |
-| **Döende** | \> 3 × Tålighet KP | Se *Döende* nedan, eller via kritisk träff |
-| **Död** | \> 4 × Tålighet KP | Du dör omedelbart |
+| Skada            | Tröskel            | Utfall                                              |
+| ---------------- | ------------------ | --------------------------------------------------- |
+| **Tjänstduglig** | 0 KP               | Inga effekter                                       |
+| **Sårad**        | \> Tålighet KP     | Alla handlingar ett steg svårare                    |
+| **Medvetslös**   | \> 2 × Tålighet KP | Du faller ihop och kan inte agera                   |
+| **Döende**       | \> 3 × Tålighet KP | Du blir **Akut döende** (chock) — se *Döende* nedan |
+| **Död**          | \> 4 × Tålighet KP | Du dör omedelbart                                   |
 
 *Exempel: En karaktär med Fysik 2 och Vilja 3 har Tålighet 5. Hon blir Sårad vid 6+ KP skada, Medvetslös vid 11+ KP, Döende vid 16+ KP, och dör omedelbart vid 21+ KP.*
 
@@ -158,10 +158,47 @@ När du har tagit mer än **2 × Tålighet** i KP-skada blir du **Medvetslös**:
 
 ## Döende
 
-Du blir **Döende** om:
+Du blir **döende** om:
 
 - Du tar mer än **3 × Tålighet** KP-skada (chock), eller
-- En **kritisk träff** gör dig Döende.
+- En **kritisk träff** gör dig döende.
+
+Döende har **två grader** som avgör hur snabbt det går. De bildar en stege:
+
+**Stabil → Döende → Akut döende → Död**
+
+| Grad            | Överlevnadsslag |
+| --------------- | --------------- |
+| **Döende**      | Per timme       |
+| **Akut döende** | Per minut       |
+
+KP-chock gör dig **Akut döende** — ett så våldsamt trauma är akut. Kritiska träffar anger själva vilken grad de ger.
+
+- **Förvärras (uppåt på stegen):** Blir du döende en gång till medan du redan är det — av en ny kritisk träff, ny KP-chock eller ett **misslyckat Överlevnadsslag** — kliver du upp ett steg. Är du redan **Akut döende** och förvärras så **dör du**. Du har alltid bara *en* grad; det finns inga parallella döende-tillstånd att hålla reda på.
+- **Förbättras (nedåt på stegen):** Lyckad **behandling** kliver ner dig ett steg — **Akut döende → Döende → Stabil** (se *Stabilisering* nedan).
+
+### Överlevnadsslag
+
+Så länge du är döende slår du **Överlevnadsslag** (*Fysik + Vilja*, Normal svårighet) i början av varje intervall — per minut om du är **Akut döende**, per timme om du är **Döende**.
+
+- **Misslyckat:** Du förvärras ett steg (**Döende → Akut döende**, eller **Akut döende → Död**).
+- **Lyckat:** Du håller dig kvar till nästa slag. Om du får Effekt så förbättras du ett steg per två fulla nivåer av Effekt.
+
+*Notis: SL kan dra ut takten för utdragna förlopp — strålsjuka, långsamt verkande gifter — till per dygn i stället för per timme.*
+
+### Stabilisering
+
+En annan person stabiliserar dig genom att behandla det som gör dig döende:
+
+- **Slag:** Den vårdtyp och svårighet som den kritiska träffens rad anger (t.ex. **Kirurgi (Mycket Svår)**). För döende av ren KP-chock, utan angiven rad, används **Medicin** (*Analys + Sinnen*, Normal).
+- **Varje framgång tar ner dig ett steg** på stegen (**Akut döende → Döende → Stabil**). **Effekt** (överskjutande framgångar) kan kliva ner ytterligare steg — en riktigt skicklig insats kan ta dig från Akut döende till stabil på ett enda slag.
+- **Tid och återförsök:** Första försöket tar **en minut**, ett andra försök på samma patient tar **en timme**. Fler försök än så kräver **förbättrade förutsättningar** — bättre utrustning, mer tid eller en stabilare patient. I praktiken kan man därför bara under **sjukhusformer** fortsätta slå om tills det lyckas; i fält får du ett par försök, sedan måste något förändras.
+
+När du har blivit **stabil** är du inte längre döende och slutar slå Överlevnadsslag. Du är potentiellt fortfarande Medvetslös eller Sårad och KP-skada och eventuella **Permanent**-effekter består.
+
+### Permanenta effekter består
+
+När en kritisk träff anger en **Permanent**-effekt så är effekten bestående även om du stabiliseras och överlever. Stabilisering räddar livet men reparerar inte den skada som redan skett. Rehabilitering eller hjälpmedel kan delvis minska avdraget — se [[Läkning & vård#Permanenta skador]] .
 
 ## Omedelbar död
 
@@ -169,36 +206,7 @@ Du dör omedelbart om:
 
 - Du tar mer än **4 × Tålighet** KP-skada.
 - En **kritisk träff** beskriver att du dör omedelbart (rad **15+** på en krittabell). Fokus, Stress eller kraftaktivering kan inte rädda dig från en sådan effekt.
-
-### Överlevnadsslag
-
-När du är Döende måste du slå **Överlevnadsslag** (Fysik + Vilja) med ett intervall som beror på orsaken:
-
-| Orsak              | Intervall                     |
-| ------------------ | ----------------------------- |
-| KP-förlust (chock) | Per minut                     |
-| Kritisk träff      | Enligt tabellen (minut/timme) |
-
-Varje Överlevnadsslag:
-
-- **Misslyckat:** Du dör.
-- **Lyckat med en framgång:** Du överlever tills nästa slag.
-- **Lyckat med flera framgångar:** Extra framgångar kan användas för att stabilisera dig. När du fått totalt tre stabiliseringsframgångar så är du stabil och behöver inte slå fler Överlevnadsslag.
-
-### Flera Döende-tillstånd
-
-Om du blir Döende av flera orsaker samtidigt — exempelvis KP-chock plus en kritisk träff, eller två separata kritiska träffar med olika takter — gäller varje Döende-tillstånd **parallellt**. Du slår Överlevnadsslag enligt varje takt och måste stabiliseras separat för varje tillstånd (tre stabiliseringsframgångar per tillstånd). När alla tillstånd är stabiliserade är du inte längre Döende.
-
-### Permanenta effekter består
-
-När en kritisk träff anger en **Permanent**-effekt så är effekten bestående även om du stabiliseras och överlever. Stabilisering räddar livet men reparerar inte den skada som redan skett. Rehabilitering eller hjälpmedel kan delvis minska avdraget — se [[Läkning & vård#Permanenta skador]] .
-
-### Stabilisering
-
-En annan person kan stabilisera dig med **Analys + Smidighet (Kiriurgi)**:
-
-- Kräver en minut för första försöket och en timme för andra försöket. Fler försök kan bara göras under sjukhusformer och tar då ytterligare en timme per försök.
-- Varje framgång läggs till stabiliseringsframgångarna som krävs för att överleva (totalt tre).
+- Du är **Akut döende** och blir **Döende** igen.
 
 ## Blödning
 
@@ -215,7 +223,7 @@ Vissa kritiska träffar orsakar **blödning**. Det finns två blödningstillstå
 
 ### Stoppa blödning
 
-Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en stridsrunda, andra tar en minut. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
+Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en stridsrunda, andra tar en minut, fler slag kräver förbättrade förutsättningar. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
 
 Se [[Läkning & vård]] för mer information.
 

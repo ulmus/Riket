@@ -10,9 +10,9 @@ export const ELD = [
   { min: 8, max: 8, label: "Svåra brännskador", effect: "Slå 1T12 för kroppsdel. Alla fysiska slag är minst Mycket Svåra. Läketid: 1T12 veckor." },
   { min: 9, max: 9, label: "Inandad het gas", effect: "Lungorna skadas. Du kan inte både handla och förflytta dig samma runda. Fysik-slag är minst Mycket Svåra. Behandlas med Medicin (Svårt). Läketid: 1T12 dagar." },
   { min: 10, max: 10, label: "Allvarliga brännskador", effect: "Alla slag är minst Mycket Svåra. Läketid: 1T12 månader." },
-  { min: 11, max: 11, label: "Inandad het gas – lungskada", effect: "Lungorna svårt skadade. Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. Döende: Överlevnadsslag per minut. Behandlas med Kirurgi (Mycket Svårt). Läketid: 1T12 månader." },
-  { min: 12, max: 12, label: "Tredje gradens brännskada", effect: "Döende: Överlevnadsslag per minut. Behandlas med Kirurgi (Mycket Svårt). Om du överlever: Permanent svåra ärr, –1 på Smidighet. Läketid: 1T12 månader." },
-  { min: 13, max: 13, label: "Förkolnad", effect: "Döende: Överlevnadsslag per runda. Behandlas med Kirurgi (Mycket Svårt). Om du överlever: Permanent –2 på Smidighet och Samspel. Läketid: 1T12 månader." },
-  { min: 14, max: 14, label: "Förkolnade lungor", effect: "Andningsvävnad förstörd. Döende: Överlevnadsslag per runda. Behandlas med Kirurgi (Mycket Svårt). Om du överlever: Permanent –3 på Fysik (andningssvårigheter). Läketid: 1T12 månader." },
+  { min: 11, max: 11, label: "Inandad het gas – lungskada", effect: "Lungorna svårt skadade. Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. Akut döende. Behandlas med Kirurgi (Mycket Svårt). Läketid: 1T12 månader." },
+  { min: 12, max: 12, label: "Tredje gradens brännskada", effect: "Akut döende. Behandlas med Kirurgi (Mycket Svårt). Om du överlever: Permanent svåra ärr, –1 på Smidighet. Läketid: 1T12 månader." },
+  { min: 13, max: 13, label: "Förkolnad", effect: "Akut döende. Behandlas med Kirurgi (Mycket Svårt). Om du överlever: Permanent –2 på Smidighet och Samspel. Läketid: 1T12 månader." },
+  { min: 14, max: 14, label: "Förkolnade lungor", effect: "Andningsvävnad förstörd. Akut döende. Behandlas med Kirurgi (Mycket Svårt). Om du överlever: Permanent –3 på Fysik (andningssvårigheter). Läketid: 1T12 månader." },
   { min: 15, max: 99, label: "Förbränd levande", effect: "Du dör omedelbart." },
 ];

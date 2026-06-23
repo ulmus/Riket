@@ -77,8 +77,11 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Tjänstduglig** | Inga effekter |
 | **Sårad** | Alla handlingar ett steg svårare (vid skada > Tålighet KP) |
 | **Medvetslös** | Kan inte agera (vid skada > 2 × Tålighet KP) |
-| **Döende** | Kräver akutvård eller dör (vid skada > 3 × Tålighet KP eller via kritisk träff) |
+| **Döende** | Slår **Överlevnadsslag** eller förvärras; långsam grad (slag per timme). Vid skada > 3 × Tålighet KP eller via kritisk träff. Förvärras till **Akut döende**. |
+| **Akut döende** | Snabb grad av döende (Överlevnadsslag per minut). KP-chock startar här. |
 | **Död** | Dör omedelbart (vid skada > 4 × Tålighet KP) |
+
+**Döende-grader:** Döende rör sig längs stegen *Stabil → Döende (slag per timme) → Akut döende (slag per minut) → Död*. En ny döende eller ett **misslyckat Överlevnadsslag** kliver upp ett steg; lyckad **behandling** kliver ner ett steg. Ett lyckat Överlevnadsslag håller dig kvar och förbättrar dig dessutom ett steg per två fulla nivåer av **Effekt**. Se [[Strid och skada#Döende]].
 
 ## Stress och psykisk hälsa
 

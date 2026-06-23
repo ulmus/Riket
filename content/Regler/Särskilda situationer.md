@@ -78,11 +78,11 @@ Slå 1T12 när sömnmedlet får effekt:
 
 **Dos:** Varje extra dos sänker båda trösklarna med 1. Vid dubbel dos somnar man alltså lättare, men risken att dö ökar också.
 
-- Om tärningen når **Döende-tröskeln** får offret andningsstillestånd och är **Döende** (om de inte befinner sig i en respirator).
+- Om tärningen når **Döende-tröskeln** får offret andningsstillestånd och är **Akut döende** (om de inte befinner sig i en respirator).
 - Om tärningen når **Somnar-tröskeln** somnar offret.
 - Annars blir offret **Påverkad** (alla handlingar ett steg svårare) men tar ingen skada.
 
-*Exempel: Kloroform i dubbel dos ger Somnar 5+ och Döende 10+. På 9–10 somnar offret, på 11–12 är det Döende.*
+*Exempel: Kloroform i dubbel dos ger Somnar 5+ och Döende 10+. På 9–10 somnar offret, på 11–12 är offret Akut döende.*
 
 ### Medicinsk kunskap
 

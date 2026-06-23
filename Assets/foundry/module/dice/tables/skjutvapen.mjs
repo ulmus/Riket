@@ -10,9 +10,9 @@ export const SKJUTVAPEN = [
   { min: 8, max: 8, label: "Genomskjuten axel", effect: "Slå 1T12: 1-6 vänster, 7-12 höger axel. Armen obrukbar. Kraftig blödning. Läketid: 1T12 veckor." },
   { min: 9, max: 9, label: "Lungskott", effect: "Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. Kraftig blödning. Läketid: 1T12 veckor." },
   { min: 10, max: 10, label: "Njurskott", effect: "Ta 2 Stress. Kraftig blödning. Behandlas med Kirurgi (Svårt)." },
-  { min: 11, max: 11, label: "Lungskott – kollapsad lunga", effect: "Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. Kraftig blödning. Döende: Överlevnadsslag per timme." },
-  { min: 12, max: 12, label: "Artärträff", effect: "Kraftig blödning. Döende: Överlevnadsslag per minut." },
-  { min: 13, max: 13, label: "Hjärtskott", effect: "Döende: Överlevnadsslag per runda. Om du överlever: Permanent –2 på Fysik." },
-  { min: 14, max: 14, label: "Ryggradsskott", effect: "Döende: Överlevnadsslag per runda. Om du överlever: Permanent: Förlamning." },
+  { min: 11, max: 11, label: "Lungskott – kollapsad lunga", effect: "Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. Kraftig blödning. Döende." },
+  { min: 12, max: 12, label: "Artärträff", effect: "Kraftig blödning. Akut döende." },
+  { min: 13, max: 13, label: "Hjärtskott", effect: "Akut döende. Om du överlever: Permanent –2 på Fysik." },
+  { min: 14, max: 14, label: "Ryggradsskott", effect: "Akut döende. Om du överlever: Permanent: Förlamning." },
   { min: 15, max: 99, label: "Huvudskott", effect: "Du dör omedelbart." },
 ];
