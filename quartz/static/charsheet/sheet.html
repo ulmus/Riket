@@ -24,11 +24,11 @@
   input:focus, textarea:focus { background: var(--focus, rgba(155,45,31,0.09)); }
   input::placeholder, textarea::placeholder { color: var(--ink-soft, #9a937f); opacity: .7; font-style: italic; }
   button { font-family: inherit; }
-  /* Each .sheet is a fixed A4-width page. The height is kept ~10 mm under a full
+  /* Each .sheet is a fixed A4-width page. The height is kept ~20 mm under a full
      A4 (297 mm) so the content always lands inside the printer's printable area
      — otherwise Safari spills onto an extra page and Chrome clips the bottom.
      The big text boxes are flex-sized, so they absorb the reduction. */
-  .sheet { width: 794px; height: 1085px; overflow: hidden; }
+  .sheet { width: 794px; height: 1047px; overflow: hidden; }
   @page { size: A4; margin: 0; }
   @media print {
     html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
@@ -36,7 +36,7 @@
     .screen-only { display: none !important; }
     /* Use physical units in print so the box matches the page exactly (px↔mm
        rounding is what pushed the footer over the edge before). */
-    .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 210mm !important; height: 287mm !important; break-inside: avoid; }
+    .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 210mm !important; height: 277mm !important; break-inside: avoid; }
     .sheet + .sheet { break-before: page; }
     input:focus, textarea:focus { background: transparent !important; }
     input::placeholder, textarea::placeholder { color: transparent !important; opacity: 0 !important; }
