@@ -42,10 +42,12 @@
 
   <div class="screen-only" style="width:794px;max-width:100%;display:flex;align-items:center;justify-content:space-between;gap:16px;">
     <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:430px;">
-      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Skriv ut för ett rent, ifyllbart ark på två A4-sidor.
+      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på två A4-sidor.
     </div>
     <div style="display:flex;gap:8px;flex:none;">
-      <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:#9B2D1F;border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
+      <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
+      <button onClick="{{ onExport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Exportera</button>
+      <button onClick="{{ onImport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Importera</button>
       <button onClick="{{ onReset }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Rensa</button>
     </div>
   </div>
@@ -361,25 +363,34 @@ class Component extends DCLogic {
     super(props);
     let saved = {};
     try { saved = JSON.parse(localStorage.getItem('irt-rt1-v1') || '{}') || {}; } catch(e) {}
-    this.fields = saved.fields || {};
-    this.state = {
+    this.fields = (saved.fields && typeof saved.fields === 'object' && !Array.isArray(saved.fields)) ? saved.fields : {};
+    this.state = this.hydrate(saved);
+    this._rootRef = (el) => { this.rootEl = el; if (el) this.applyTheme(); };
+  }
+
+  // Normalise a saved/imported snapshot into the component state shape.
+  hydrate(saved){
+    saved = (saved && typeof saved === 'object') ? saved : {};
+    return {
       attr: Object.assign({analys:0,fysik:0,list:0,samspel:0,sinnen:0,smidighet:0,strid:0,vilja:0}, saved.attr||{}),
       fokus: saved.fokus||0, stress: saved.stress||0, ep: saved.ep||0,
       kp_tjanst: saved.kp_tjanst||0, kp_sarad: saved.kp_sarad||0, kp_utslagen: saved.kp_utslagen||0, kp_doende: saved.kp_doende||0,
       trauma: saved.trauma||'',
       tillstand: Object.assign({sarad:false,paverkad:false,utslagen:false}, saved.tillstand||{}),
     };
-    this._rootRef = (el) => { this.rootEl = el; if (el) this.applyTheme(); };
+  }
+
+  // The full character snapshot — used for autosave, export and import.
+  serialize(){
+    return {
+      attr:this.state.attr, fokus:this.state.fokus, stress:this.state.stress,
+      ep:this.state.ep, kp_tjanst:this.state.kp_tjanst, kp_sarad:this.state.kp_sarad, kp_utslagen:this.state.kp_utslagen, kp_doende:this.state.kp_doende, trauma:this.state.trauma,
+      tillstand:this.state.tillstand, fields:this.fields
+    };
   }
 
   persist(){
-    try {
-      localStorage.setItem('irt-rt1-v1', JSON.stringify({
-        attr:this.state.attr, fokus:this.state.fokus, stress:this.state.stress,
-        ep:this.state.ep, kp_tjanst:this.state.kp_tjanst, kp_sarad:this.state.kp_sarad, kp_utslagen:this.state.kp_utslagen, kp_doende:this.state.kp_doende, trauma:this.state.trauma,
-        tillstand:this.state.tillstand, fields:this.fields
-      }));
-    } catch(e) {}
+    try { localStorage.setItem('irt-rt1-v1', JSON.stringify(this.serialize())); } catch(e) {}
   }
 
   computeTheme(){
@@ -537,6 +548,39 @@ class Component extends DCLogic {
       f: this.fields,
       onField: (e) => { const k = e.target.dataset.field; if(!k) return; this.fields[k] = e.target.value; this.persist(); },
       onPrint: () => window.print(),
+      onExport: () => {
+        let json;
+        try { json = JSON.stringify(this.serialize(), null, 2); } catch(e) { return; }
+        const blob = new Blob([json], {type:'application/json'});
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        const base = String(this.fields.kodnamn || this.fields.namn || '').trim();
+        const safe = base ? base.replace(/[\\/:*?"<>|]+/g, '').replace(/\s+/g, '_') : 'rollperson';
+        a.href = url; a.download = 'irt-rt1-' + safe + '.json';
+        document.body.appendChild(a); a.click(); document.body.removeChild(a);
+        setTimeout(() => URL.revokeObjectURL(url), 0);
+      },
+      onImport: () => {
+        const input = document.createElement('input');
+        input.type = 'file'; input.accept = 'application/json,.json';
+        input.onchange = () => {
+          const file = input.files && input.files[0];
+          if (!file) return;
+          const reader = new FileReader();
+          reader.onload = () => {
+            let data;
+            try { data = JSON.parse(reader.result); } catch(e) { window.alert('Kunde inte läsa filen — ogiltig JSON.'); return; }
+            if (!data || typeof data !== 'object' || Array.isArray(data)) { window.alert('Filen innehåller ingen giltig rollperson.'); return; }
+            if (!window.confirm('Ersätt nuvarande blankett med den importerade rollpersonen?')) return;
+            const save = this.hydrate(data);
+            save.fields = (data.fields && typeof data.fields === 'object' && !Array.isArray(data.fields)) ? data.fields : {};
+            try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); } catch(e) {}
+            window.location.reload();
+          };
+          reader.readAsText(file);
+        };
+        input.click();
+      },
       onReset: () => { if (!window.confirm('Rensa hela blanketten? Detta går inte att ångra.')) return; try { localStorage.removeItem('irt-rt1-v1'); } catch(e) {} window.location.reload(); },
     };
   }
