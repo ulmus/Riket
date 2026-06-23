@@ -27,9 +27,9 @@
   @page { size: A4; margin: 0; }
   @media print {
     html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
-    .backdrop { background: #fff !important; padding: 0 !important; gap: 0 !important; }
+    .backdrop { background: transparent !important; padding: 0 !important; gap: 0 !important; --paper: transparent !important; }
     .screen-only { display: none !important; }
-    .sheet { box-shadow: none !important; margin: 0 !important; }
+    .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; }
     .sheet + .sheet { break-before: page; }
     input:focus, textarea:focus { background: transparent !important; }
     input::placeholder, textarea::placeholder { color: transparent !important; opacity: 0 !important; }
