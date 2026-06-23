@@ -1,0 +1,27 @@
+{
+  "attr": { "analys": 2, "fysik": 3, "list": 3, "samspel": 2, "sinnen": 3, "smidighet": 4, "strid": 2, "vilja": 3 },
+  "trauma": "",
+  "fields": {
+    "namn": "Martin Weber",
+    "expertis": "Chaufför",
+    "stabilitet": "3",
+    "foto": "characters/martin-weber.jpg",
+    "utseende": "Berlinare i fyrtioårsåldern, född i en stad som blev delad fästning. Körde lastbil under blockaden, taxi på femtiotalet och nu diplomatbil åt svenska ambassaden. Hatar muren – brodern Rolf sitter fast i Östberlin. Ingen supermänniska och ingen agent: en vanlig man med ovanligt bra händer på ratten och staden i blodet.",
+    "kraft_desc": "Ingen extranormal kraft. En vanlig människa som kompenserar med lokalkännedom, körskicklighet och en överlevnadsinstinkt som aldrig sviker.",
+    "formaga0": "Kontrollerad sladd",
+    "formaga1": "Racerinstinkt",
+    "formaga2": "Skjut och kör",
+    "formaga3": "Tyst intrång",
+    "lang0": "Tyska (modersmål)",
+    "lang1": "Svenska (stapplande)",
+    "lang2": "Polska (stapplande)",
+    "res0_0": "Walther PPK",
+    "res0_2": "Räckvidd 15 m, Skada 1, skadetyp Skjutvapen. Ammunition ❏",
+    "res1_0": "Mercedes-Benz 190",
+    "res1_2": "Diskret men robust diplomatbil.",
+    "res2_0": "Karta över Berlin",
+    "res2_2": "Detaljerad, med markeringar för bra rutter. +2 på Analys + Sinnen för att navigera i Berlin.",
+    "res3_0": "Verktygsset",
+    "res3_2": "Grundläggande bilverktyg. +1 på Analys + Smidighet för fordonsreparationer."
+  }
+}

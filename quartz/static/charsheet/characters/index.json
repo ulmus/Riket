@@ -1,0 +1,9 @@
+[
+  { "slug": "prisma", "namn": "Prisma", "expertis": "Låssmed", "foto": "characters/prisma.jpg" },
+  { "slug": "verdandi", "namn": "Verdandi", "expertis": "Underrättelseanalytiker", "foto": "characters/verdandi.jpg" },
+  { "slug": "radar", "namn": "Radar", "expertis": "Radiotekniker", "foto": "characters/radar.jpg" },
+  { "slug": "silke", "namn": "Silke", "expertis": "Maskör", "foto": "characters/silke.jpg" },
+  { "slug": "stigmata", "namn": "Stigmata", "expertis": "Läkare", "foto": "characters/stigmata.jpg" },
+  { "slug": "tjuren", "namn": "Tjuren", "expertis": "Officer", "foto": "characters/tjuren.jpg" },
+  { "slug": "martin-weber", "namn": "Martin Weber", "expertis": "Chaufför", "foto": "characters/martin-weber.jpg" }
+]
