@@ -132,6 +132,19 @@
   }
 }
 
+// --- Reader mode: hide the book icon on mobile -----------------------
+// The reader-mode toggle (the open-book icon in the top toolbar) only fades
+// the sidebars to opacity 0, restoring them on :hover. Touch devices have no
+// hover, and on mobile the toolbar itself lives in the (left) sidebar, so
+// tapping the icon either does nothing visible or hides the nav with no way
+// to bring it back. There is no useful reader mode on small screens, so hide
+// the control there.
+@media all and (max-width: 800px) {
+  .readermode {
+    display: none;
+  }
+}
+
 // --- Page metadata (dates / reading time) as a typewritten stamp ------
 .content-meta {
   font-family: "IBM Plex Mono", ui-monospace, monospace;
