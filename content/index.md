@@ -24,12 +24,6 @@ Ett taktiskt superhjälte-rollspel satt under kalla kriget. Hemliga agenter med 
 - [[Bakgrund]]
 - [[Program Frigg (Sverige)]]
 
-## Rollpersoner
-
-- [[Prisma]]
-- [[Radar]]
-- [[Verdandi]]
-
 ## Verktyg
 
 - <a href="/static/charsheet/sheet.html" target="_blank" rel="noopener">Rollformulär</a>
