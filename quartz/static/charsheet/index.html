@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rollpersoner · I Rikets Tjänst</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800&family=Courier+Prime:wght@400;700&family=Saira+Condensed:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root { --paper:#EDE7D8; --panel:#F5F1E6; --ink:#23201A; --ink-soft:#8A8268; --rule:#C7BEA6; --accent:#0C3A54; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#2b2a26; color:#f3ecdb; font-family:'Archivo',sans-serif; min-height:100vh; padding:40px 20px 60px; }
+  .wrap { max-width:900px; margin:0 auto; }
+  header.masthead { display:flex; align-items:center; gap:14px; border:2px solid #000; background:var(--panel); color:var(--ink); border-radius:8px; padding:14px 18px; }
+  header.masthead img { width:54px; height:54px; object-fit:contain; flex:none; }
+  header.masthead .t { font:600 9px/1.3 'Archivo'; letter-spacing:.22em; text-transform:uppercase; color:var(--ink-soft); }
+  header.masthead h1 { margin:2px 0 0; font:800 30px/0.95 'Saira Condensed',sans-serif; letter-spacing:.02em; text-transform:uppercase; }
+  .bar { display:flex; align-items:baseline; justify-content:space-between; gap:16px; margin:26px 2px 14px; flex-wrap:wrap; }
+  .bar h2 { margin:0; font:700 14px/1 'Saira Condensed',sans-serif; letter-spacing:.16em; text-transform:uppercase; color:#cabf9f; }
+  .btn { font:600 12px/1 'Archivo'; letter-spacing:.06em; text-transform:uppercase; color:#f3ecdb; background:var(--accent); border:0; text-decoration:none; padding:11px 18px; border-radius:3px; display:inline-block; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(160px,1fr)); gap:16px; }
+  a.card { text-decoration:none; color:var(--ink); background:var(--panel); border:1px solid var(--rule); border-radius:8px; overflow:hidden; display:flex; flex-direction:column; transition:transform .12s, box-shadow .12s; }
+  a.card:hover { transform:translateY(-3px); box-shadow:0 12px 26px rgba(0,0,0,.4); }
+  a.card .photo { aspect-ratio:3/4; background:#d9d2bf no-repeat center top; background-size:cover; border-bottom:1px solid var(--rule); }
+  a.card .meta { padding:9px 11px 11px; }
+  a.card .kn { font:800 17px/1 'Saira Condensed',sans-serif; letter-spacing:.03em; text-transform:uppercase; }
+  a.card .ex { margin-top:3px; font:400 10px/1.3 'Courier Prime',monospace; color:var(--ink-soft); }
+  .note { margin:22px 2px 0; font:400 11px/1.6 'Courier Prime',monospace; color:#9b937f; max-width:640px; }
+  .msg { padding:40px 4px; font:400 13px/1.6 'Courier Prime',monospace; color:#cabf9f; }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <img src="assets/irt-logo.png" alt="Program Frigg">
+      <div>
+        <div class="t">T-Kontoret · Program Frigg</div>
+        <h1>I Rikets Tjänst</h1>
+      </div>
+    </header>
+
+    <div class="bar">
+      <h2>Färdiga rollpersoner</h2>
+      <a class="btn" href="sheet.html">Tomt rollformulär →</a>
+    </div>
+
+    <div id="grid" class="grid"></div>
+    <div id="msg" class="msg" style="display:none"></div>
+
+    <p class="note">Klicka på en rollperson för att öppna hen i rollformuläret. Det ersätter blanketten som är sparad i din webbläsare (du får en fråga först om du redan fyllt i något).</p>
+  </div>
+
+  <script>
+    var grid = document.getElementById('grid');
+    var msg = document.getElementById('msg');
+    function esc(s){ return String(s == null ? '' : s).replace(/[&<>"]/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]; }); }
+    fetch('characters/index.json', { cache: 'no-cache' })
+      .then(function(r){ if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+      .then(function(list){
+        if(!Array.isArray(list) || !list.length) throw new Error('tom lista');
+        grid.innerHTML = list.map(function(c){
+          var name = esc(c.namn || c.kodnamn || c.slug);
+          var photo = c.foto ? ' style="background-image:url(\'' + esc(c.foto) + '\')"' : '';
+          return '<a class="card" href="sheet.html?char=' + encodeURIComponent(c.slug) + '">' +
+                 '<div class="photo"' + photo + '></div>' +
+                 '<div class="meta"><div class="kn">' + name + '</div>' +
+                 (c.expertis ? '<div class="ex">' + esc(c.expertis) + '</div>' : '') +
+                 '</div></a>';
+        }).join('');
+      })
+      .catch(function(){
+        grid.style.display = 'none';
+        msg.style.display = 'block';
+        msg.textContent = 'Kunde inte ladda listan över rollpersoner. Öppna det tomma rollformuläret ovan.';
+      });
+  </script>
+</body>
+</html>

@@ -61,6 +61,7 @@ Färdiga uppdrag och kampanjer. *Innehåller spoilers och är främst material f
 ## Verktyg
 
 - <a href="/static/charsheet/sheet.html" target="_blank" rel="noopener">Rollformulär</a> – Ifyllbart rollformulär att skriva ut eller fylla i digitalt.
+- <a href="/static/charsheet/" target="_blank" rel="noopener">Färdiga rollpersoner</a> – De sju förgenererade agenterna, redo att öppnas i rollformuläret.
 
 ## Licens
 

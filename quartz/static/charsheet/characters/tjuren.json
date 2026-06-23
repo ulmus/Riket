@@ -1,0 +1,29 @@
+{
+  "attr": { "analys": 1, "fysik": 5, "list": 1, "samspel": 3, "sinnen": 1, "smidighet": 2, "strid": 4, "vilja": 3 },
+  "trauma": "forlust",
+  "fields": {
+    "kodnamn": "Tjuren",
+    "expertis": "Officer",
+    "stabilitet": "3",
+    "foto": "characters/tjuren.jpg",
+    "utseende": "Officer med övermänsklig styrka, väckt den natt hela plutonen föll i ett bakhåll och bara en överlevde.",
+    "trauma_desc": "Kärna: Någon du älskade togs ifrån dig. Under din militärtjänstgöring förlorade du din pluton i ett bakhåll – du var den enda som överlevde, omgiven av döda kamrater. Din övermänskliga styrka vaknade den natten, men den kom för sent för att rädda dem.\n\nBeteende vid aktiverat trauma: Desperat beskyddare – Du måste skydda någon eller något i din närhet, oavsett om de behöver det eller vill ha det. Du kan inte lämna dem eller låta dem utsättas för fara.",
+    "kraft_desc": "Övermänsklig fysisk styrka och tålighet – orubblig, hårdhudad och ostoppbar i en rusning.",
+    "kraft_trauma": "Tjurrusning – Ingen dör igen. Tjurrusning aktiveras okontrollerat mot det närmaste hotet mot den person Tjuren fixerar på. Rusningen kan inte stoppas och Tjuren kan inte lämna den skyddades sida, även om uppdraget kräver det.",
+    "sf1_namn": "Övermänsklig styrka (1 Fokus, modifierar handling)",
+    "sf1_eff": "Du gör enorma styrkeansträngningar: under en runda får du +2 i Fysik.",
+    "sf2_namn": "Kinetisk förankring (1 Fokus, reaktiv)",
+    "sf2_eff": "När du blir måltavla för en attack eller effekt som skulle flytta dig kan du bli helt orubblig under en runda.\n+1 Fokus: Reflektera knuff-effekten tillbaka på angriparen.\n+2 Fokus: Reflektera både knuff och skada.\n1 Framgång: Förankringen håller en extra runda.",
+    "sf3_namn": "Läderhud (1 Fokus, reaktiv)",
+    "sf3_eff": "När du träffas av en skadande attack kan du öka ditt Skydd med 1 under resten av rundan. Kan aktiveras efter träffen, men innan skadan räknas.",
+    "sf4_namn": "Tjurrusning (1 Fokus, 1 handling)",
+    "sf4_eff": "En ostoppbar rusning dubbla din Förflyttning rakt fram; slå Fysik + Smidighet. Vid framgång ignorerar du ett hinder (vägg, barrikad, person). Fiender i vägen måste lyckas med Fysik + Strid för att inte slås till marken.\n+1 Fokus: Räknas som närstridsattack mot alla i vägen.\n1 Framgång: Ignorera ytterligare ett hinder.\n1 Framgång: Fienders slag för att hålla sig på fötter ett steg svårare.\n1 Framgång: Öka distansen med en Förflyttning.",
+    "formaga0": "Automatsalva",
+    "formaga1": "Slagsmål",
+    "formaga2": "Uppercut",
+    "formaga3": "Djurvän",
+    "lang0": "Svenska (modersmål)",
+    "lang1": "Tyska (stapplande)",
+    "resurser": "Kulsprutepistol m/45 \"Carl Gustaf\" — Räckvidd 15 m, Skada 2, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏\nKnogjärn — +1 skada i obeväpnad närstrid.\nKofot — +2 på Fysik + Smidighet för att bryta sig in.\nRock med insydda plåtar — Skydd 2; alla Smidighet-slag ett steg svårare.\nFältförband — +2 på Akutvård (Analys + Smidighet).\nKung Gustafs sardiner — 20 burkar."
+  }
+}
