@@ -21,14 +21,18 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  // Smaller than the Quartz default so "I Rikets Tjänst" fits on one line in
+  // the 320px-wide left sidebar instead of wrapping.
+  font-size: 1.35rem;
+  line-height: 1.2;
   letter-spacing: 0.06em;
   font-weight: 700;
 
   &::before {
     content: "";
     flex: 0 0 auto;
-    width: 2.1rem;
-    height: 2.1rem;
+    width: 1.8rem;
+    height: 1.8rem;
     background: url("/static/icon.png") center / contain no-repeat;
   }
 }
