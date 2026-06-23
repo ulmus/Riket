@@ -1,0 +1,13 @@
+# Cloudflare Worker that mounts the "riket" Pages project at exostra.se/riket.
+# Deploy from this directory with: npx wrangler deploy
+# Must be deployed on the zone that manages exostra.se DNS in Cloudflare.
+
+name = "exostra-riket-router"
+main = "worker.js"
+compatibility_date = "2025-09-01"
+
+# Bind the Worker to the /riket path (and the bare /riket) on the exostra.se zone.
+routes = [
+  { pattern = "exostra.se/riket", zone_name = "exostra.se" },
+  { pattern = "exostra.se/riket/*", zone_name = "exostra.se" },
+]
