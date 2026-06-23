@@ -183,7 +183,7 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
-[![[Berlin.png]]](<Berlin.png>)
+[![[Berlin.png|wide]]](<Berlin.png>)
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
@@ -222,7 +222,7 @@ Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk h
 
 #### Byggnaden och lokaler
 
-[![[Schweiziska ambassaden.png]]](<Schweiziska ambassaden.png>)
+[![[Schweiziska ambassaden.png|wide]]](<Schweiziska ambassaden.png>)
 **Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Östtyska och schweiziska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
 
 **Entré och hall:** En stor marmorhall med mönstrat golv och kristallkronor. En trappa leder upp till diplomatmottagningen på andra våningen. En stråkkvartett spelar Vivaldi.
@@ -382,8 +382,8 @@ Beroende på situationen kan Golem ha tagit Richter till:
 
 ### Richters hem – Friedrichshain
 
-[![[Richters hus gatuplan.png]]](<Richters hus gatuplan.png>)
-[![[Richters hus andra våningen.png]]](<Richters hus andra våningen.png>)
+[![[Richters hus gatuplan.png|wide]]](<Richters hus gatuplan.png>)
+[![[Richters hus andra våningen.png|wide]]](<Richters hus andra våningen.png>)
 Paret Richters hus ligger på **Warschauer Strasse 47**, ett litet gatuhus med en trädgård i anslutning till en park.
 
 #### Personer på platsen
@@ -461,13 +461,13 @@ Om Golem är skadad eller förvirrad kan hans djupaste minnen väckas – minnen
 
 Huset är i dåligt skick. Fönster är krossade, dörrar hänger på gångjärnen, väggar är täckta av graffiti och mögel. Trädgården är övervuxen, och en björk – som en gång var ung och grön – står nu gammal och vriden vid ingången.
 
-[![[Ödehus - bottenvåning.png]]](<Ödehus - bottenvåning.png>)
+[![[Ödehus - bottenvåning.png|wide]]](<Ödehus - bottenvåning.png>)
 **Bottenvåning:** Ett stort rum som en gång var vardagsrum, nu tomt och öde. Detsamma med sovrummet, där det fortfarande finns kvar en säng. En trasig spis i vad som var köket. Två ingångar, till gatan och ut mot den övervuxna trädgården. Trappor leder upp och ner.
 
-[![[Ödehus - källare.png]]](<Ödehus - källare.png>)
+[![[Ödehus - källare.png|wide]]](<Ödehus - källare.png>)
 **Källaren:** Mörk och fuktig, en doft av mögel och vita avlagringar på väggarna. Här gömde sig Elias och Jakob i en jordkällare. Det finns fortfarande barnteckningar på väggen – enkla skisser av fåglar och stjärnor. Källaren har också en oljepanna som är tom samt ett större förråd och arbetsrum.
 
-[![[Ödehus - vind.png]]](<Ödehus - vind.png>)
+[![[Ödehus - vind.png|wide]]](<Ödehus - vind.png>)
 **Vinden:** Öppen mot himlen på vissa ställen. Duvor har bott här. Det finns gamla möbler täckta av damm. Vid ett skrivbord har Elias och Jakobs morbror Anshel suttit och det finns fortfarande rester av korrespondens med hans syster, brödernas mor Frieda Lewinsky.
 
 #### Golem i huset
