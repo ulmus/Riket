@@ -1,5 +1,10 @@
 # Färdiga rollpersoner för rollformuläret
 
+Bläddra bland dem på **`/static/charsheet/`** (galleriet `../index.html`), som
+läser `index.json` och länkar till varje rollperson. Galleriet är en statisk
+sida – länkar med `?char=` fungerar bara därifrån, inte från Quartz-renderade
+markdown-sidor (Quartz tar bort `?` ur länkar).
+
 Varje `.json`-fil här är en rollperson i samma format som `sheet.html` exporterar
 (knappen **Exportera**). Lägg till `?char=<slug>` i adressen till formuläret för
 att öppna en av dem:

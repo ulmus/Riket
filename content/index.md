@@ -61,7 +61,7 @@ Färdiga uppdrag och kampanjer. *Innehåller spoilers och är främst material f
 ## Verktyg
 
 - <a href="/static/charsheet/sheet.html" target="_blank" rel="noopener">Rollformulär</a> – Ifyllbart rollformulär att skriva ut eller fylla i digitalt.
-- Färdiga rollpersoner som ifyllt rollformulär: <a href="/static/charsheet/sheet.html?char=prisma" target="_blank" rel="noopener">Prisma</a> · <a href="/static/charsheet/sheet.html?char=verdandi" target="_blank" rel="noopener">Verdandi</a> · <a href="/static/charsheet/sheet.html?char=radar" target="_blank" rel="noopener">Radar</a> · <a href="/static/charsheet/sheet.html?char=silke" target="_blank" rel="noopener">Silke</a> · <a href="/static/charsheet/sheet.html?char=stigmata" target="_blank" rel="noopener">Stigmata</a> · <a href="/static/charsheet/sheet.html?char=tjuren" target="_blank" rel="noopener">Tjuren</a> · <a href="/static/charsheet/sheet.html?char=martin-weber" target="_blank" rel="noopener">Martin Weber</a>
+- <a href="/static/charsheet/" target="_blank" rel="noopener">Färdiga rollpersoner</a> – De sju förgenererade agenterna, redo att öppnas i rollformuläret.
 
 ## Licens
 
