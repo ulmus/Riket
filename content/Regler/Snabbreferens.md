@@ -31,7 +31,7 @@
 - **Sårad** (> Tålighet KP): Alla slag ett steg svårare, +1 Stress
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Två grader — **Döende** (Överlevnadsslag *Fysik + Vilja* per timme) och **Akut döende** (per minut). KP-chock startar som Akut döende
-- **Döende-stege:** stabil → **Döende** → **Akut döende** → Död. Ny döende eller misslyckat slag = ett steg värre; lyckad behandling = ett steg bättre. Egna slag köper bara tid — bara behandling stabiliserar (fritt omslag endast på sjukhus)
+- **Döende-stege:** Stabil → **Döende** → **Akut döende** → Död. Ny döende eller misslyckat slag = ett steg värre; behandling = ett steg per framgång, eget slag = ett steg per 2 Effekt. Fritt omslag endast på sjukhus
 - **Död** (> 4 × Tålighet KP): Död
 - **Vapnets Skada** läggs till KP-skadan och till kritisk träff-slaget (dubbelt med Penetrerande)
 - **Kritiska sår**: Enligt utfall på tabellen
