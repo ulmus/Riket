@@ -165,7 +165,7 @@ Du blir **döende** om:
 
 Döende har **två grader** som avgör hur snabbt det går. De bildar en stege:
 
-**stabil → Döende → Akut döende → Död**
+**Stabil → Döende → Akut döende → Död**
 
 | Grad            | Överlevnadsslag |
 | --------------- | --------------- |
@@ -175,16 +175,14 @@ Döende har **två grader** som avgör hur snabbt det går. De bildar en stege:
 KP-chock gör dig **Akut döende** — ett så våldsamt trauma är akut. Kritiska träffar anger själva vilken grad de ger.
 
 - **Förvärras (uppåt på stegen):** Blir du döende en gång till medan du redan är det — av en ny kritisk träff, ny KP-chock eller ett **misslyckat Överlevnadsslag** — kliver du upp ett steg. Är du redan **Akut döende** och förvärras så **dör du**. Du har alltid bara *en* grad; det finns inga parallella döende-tillstånd att hålla reda på.
-- **Förbättras (nedåt på stegen):** Lyckad **behandling** kliver ner dig ett steg — **Akut döende → Döende → stabil** (se *Stabilisering* nedan).
+- **Förbättras (nedåt på stegen):** Lyckad **behandling** kliver ner dig ett steg — **Akut döende → Döende → Stabil** (se *Stabilisering* nedan).
 
 ### Överlevnadsslag
 
-Så länge du är döende slår du **Överlevnadsslag** (*Fysik + Vilja*, Normal) i början av varje intervall — per minut om du är **Akut döende**, per timme om du är **Döende**.
+Så länge du är döende slår du **Överlevnadsslag** (*Fysik + Vilja*, Normal svårighet) i början av varje intervall — per minut om du är **Akut döende**, per timme om du är **Döende**.
 
 - **Misslyckat:** Du förvärras ett steg (**Döende → Akut döende**, eller **Akut döende → Död**).
-- **Lyckat:** Du håller dig kvar till nästa slag.
-
-Ett Överlevnadsslag kan alltså aldrig göra dig *bättre* — det köper bara tid. För att sluta vara döende måste någon **behandla** dig. Lämnas du obehandlad länge nog förvärras du till slut och dör; du kan inte slå dig själv till säkerhet.
+- **Lyckat:** Du håller dig kvar till nästa slag. Om du får Effekt så förbättras du ett steg per två fulla nivåer av Effekt.
 
 *Notis: SL kan dra ut takten för utdragna förlopp — strålsjuka, långsamt verkande gifter — till per dygn i stället för per timme.*
 
@@ -193,10 +191,10 @@ Ett Överlevnadsslag kan alltså aldrig göra dig *bättre* — det köper bara 
 En annan person stabiliserar dig genom att behandla det som gör dig döende:
 
 - **Slag:** Den vårdtyp och svårighet som den kritiska träffens rad anger (t.ex. **Kirurgi (Mycket Svår)**). För döende av ren KP-chock, utan angiven rad, används **Medicin** (*Analys + Sinnen*, Normal).
-- **Varje framgång kliver ner dig ett steg** på stegen (**Akut döende → Döende → stabil**). **Effekt** (överskjutande framgångar) kan kliva ner ytterligare steg — en riktigt skicklig insats kan ta dig från Akut döende till stabil på ett enda slag.
+- **Varje framgång tar ner dig ett steg** på stegen (**Akut döende → Döende → Stabil**). **Effekt** (överskjutande framgångar) kan kliva ner ytterligare steg — en riktigt skicklig insats kan ta dig från Akut döende till stabil på ett enda slag.
 - **Tid och återförsök:** Första försöket tar **en minut**, ett andra försök på samma patient tar **en timme**. Fler försök än så kräver **förbättrade förutsättningar** — bättre utrustning, mer tid eller en stabilare patient. I praktiken kan man därför bara under **sjukhusformer** fortsätta slå om tills det lyckas; i fält får du ett par försök, sedan måste något förändras.
 
-När du klivit ner till **stabil** är du inte längre döende och slutar slå Överlevnadsslag. Du är fortfarande Medvetslös och skadad — KP-skada och eventuella **Permanent**-effekter består.
+När du har blivit **stabil** är du inte längre döende och slutar slå Överlevnadsslag. Du är potentiellt fortfarande Medvetslös eller Sårad och KP-skada och eventuella **Permanent**-effekter består.
 
 ### Permanenta effekter består
 
@@ -208,6 +206,7 @@ Du dör omedelbart om:
 
 - Du tar mer än **4 × Tålighet** KP-skada.
 - En **kritisk träff** beskriver att du dör omedelbart (rad **15+** på en krittabell). Fokus, Stress eller kraftaktivering kan inte rädda dig från en sådan effekt.
+- Du är **Akut döende** och blir **Döende** igen.
 
 ## Blödning
 
@@ -224,7 +223,7 @@ Vissa kritiska träffar orsakar **blödning**. Det finns två blödningstillstå
 
 ### Stoppa blödning
 
-Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en stridsrunda, andra tar en minut. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
+Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en stridsrunda, andra tar en minut, fler slag kräver förbättrade förutsättningar. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
 
 Se [[Läkning & vård]] för mer information.
 
