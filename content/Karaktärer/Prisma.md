@@ -2,22 +2,25 @@
 cssclasses:
   - irt-image-page
 ---
+
 # Prisma
 
-| Egenskap  |       | Sekundärt    |             |
-| :-------- | ----: | :----------- | :---------- |
-| Analys    | **3** | Oskadd       | ❏❏❏❏        |
-| Fysik     | **1** | Sårad        | ❏❏❏❏        |
-| List      | **4** | Medvetslös   | ❏❏❏❏        |
-| Samspel   | **2** | Döende       | ❏❏❏❏        |
-| Sinnen    | **3** | Förflyttning | 6 m         |
-| Smidighet | **5** | Tålighet     | 4           |
-| Strid     | **2** | Stabilitet   | 3           |
-| Vilja     | **3** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Egenskap |  | Sekundärt |  |
+| --- | --- | --- | --- |
+| Analys | **3** | Tjänstduglig | ❏❏❏❏ |
+| Fysik | **1** | Sårad | ❏❏❏❏ |
+| List | **4** | Medvetslös | ❏❏❏❏ |
+| Samspel | **2** | Döende | ❏❏❏❏ |
+| Sinnen | **3** | Förflyttning | 6 m |
+| Smidighet | **5** | Tålighet | 4 |
+| Strid | **2** | Stabilitet | 3 |
+| Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
 
 **Expertis:** Låssmed
 
-![[Bilder/Prisma.png|697]]
+!
+
+[[Bilder/Prisma.png|697]]
 
 ## Språk
 

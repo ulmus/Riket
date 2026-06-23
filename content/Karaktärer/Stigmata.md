@@ -2,22 +2,25 @@
 cssclasses:
   - irt-image-page
 ---
+
 # Stigmata
 
-| Egenskap  |       | Sekundärt    |             |
-| :-------- | ----: | :----------- | :---------- |
-| Analys    | **4** | Oskadd       | ❏❏❏❏❏ ❏❏❏   |
-| Fysik     | **5** | Sårad        | ❏❏❏❏❏ ❏❏❏   |
-| List      | **1** | Medvetslös   | ❏❏❏❏❏ ❏❏❏   |
-| Samspel   | **1** | Döende       | ❏❏❏❏❏ ❏❏❏   |
-| Sinnen    | **3** | Förflyttning | 7 m         |
-| Smidighet | **2** | Tålighet     | 8           |
-| Strid     | **2** | Stabilitet   | 3           |
-| Vilja     | **3** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Egenskap |  | Sekundärt |  |
+| --- | --- | --- | --- |
+| Analys | **4** | Tjänstduglig | ❏❏❏❏❏ ❏❏❏ |
+| Fysik | **5** | Sårad | ❏❏❏❏❏ ❏❏❏ |
+| List | **1** | Medvetslös | ❏❏❏❏❏ ❏❏❏ |
+| Samspel | **1** | Döende | ❏❏❏❏❏ ❏❏❏ |
+| Sinnen | **3** | Förflyttning | 7 m |
+| Smidighet | **2** | Tålighet | 8 |
+| Strid | **2** | Stabilitet | 3 |
+| Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
 
 **Expertis:** Läkare
 
-![[Bilder/Stigmata.png|697]]
+!
+
+[[Bilder/Stigmata.png|697]]
 
 ## Språk
 
@@ -104,9 +107,9 @@ En person kan stabiliseras med **Analys + Smidighet (Medicin)**:
 
 Slå 1T12 när sömnmedlet får effekt:
 
-| Sömnmedel | Somnar | Döende | Anslag     |
-| --------- | -----: | -----: | ---------- |
-| Morfin    |     8+ |     12 | 10 minuter |
+| Sömnmedel | Somnar | Döende | Anslag |
+| --- | --- | --- | --- |
+| Morfin | 8+ | 12 | 10 minuter |
 
 - Varje extra dos sänker båda trösklarna med 1.
 - Expertis Läkare: lyckat slag för Analys + Sinnen höjer Döende-tröskeln med 1 per framgång (max +2).

@@ -2,23 +2,25 @@
 cssclasses:
   - irt-image-page
 ---
+
 # Martin Weber
 
-| Egenskap  |       | Sekundärt    |             |
-| :-------- | ----: | :----------- | :---------- |
-| Analys    | **2** | Oskadd       | ❏❏❏ ❏❏❏     |
-| Fysik     | **3** | Sårad        | ❏❏❏ ❏❏❏     |
-| List      | **3** | Medvetslös   | ❏❏❏ ❏❏❏     |
-| Samspel   | **2** | Döende       | ❏❏❏ ❏❏❏     |
-| Sinnen    | **3** | Förflyttning | 6 m         |
-| Smidighet | **4** | Tålighet     | 6           |
-| Strid     | **2** | Stabilitet   | 3           |
-| Vilja     | **3** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Egenskap |  | Sekundärt |  |
+| --- | --- | --- | --- |
+| Analys | **2** | Tjänstduglig | ❏❏❏ ❏❏❏ |
+| Fysik | **3** | Sårad | ❏❏❏ ❏❏❏ |
+| List | **3** | Medvetslös | ❏❏❏ ❏❏❏ |
+| Samspel | **2** | Döende | ❏❏❏ ❏❏❏ |
+| Sinnen | **3** | Förflyttning | 6 m |
+| Smidighet | **4** | Tålighet | 6 |
+| Strid | **2** | Stabilitet | 3 |
+| Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
 
 **Expertis:** Chaufför
 
-![[Bilder/Martin Weber.png|200]]
+!
 
+[[Bilder/Martin Weber.png|200]]
 
 ## Språk
 
@@ -87,14 +89,14 @@ Martin är känd bland gränsvakter och Volkspolizei i Berlin. I situationer dä
 
 ### Fordonsjakt
 
-| Aktivitet            | Slag                |
-| -------------------- | ------------------- |
-| Biljakt – körning    | Smidighet + Smidighet |
-| Undanmanöver         | Smidighet + Smidighet |
-| Terrängkörning       | Fysik + Smidighet   |
-| Navigera i okänd stad | Analys + Sinnen    |
-| Reparera i vägkanten | Analys + Smidighet  |
-| Skjuta från fordon   | Smidighet + Strid   |
+| Aktivitet | Slag |
+| --- | --- |
+| Biljakt – körning | Smidighet + Smidighet |
+| Undanmanöver | Smidighet + Smidighet |
+| Terrängkörning | Fysik + Smidighet |
+| Navigera i okänd stad | Analys + Sinnen |
+| Reparera i vägkanten | Analys + Smidighet |
+| Skjuta från fordon | Smidighet + Strid |
 
 ### Kapplöpning
 

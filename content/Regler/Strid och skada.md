@@ -23,8 +23,8 @@ Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exem
 - Avståndsattack (Smidighet + Strid)
 - Närstridsattack (Fysik + Strid eller Smidighet + Strid)
 - Aktivera en kraft eller förmåga som kräver en handling
-- Ladda om ett vapen (se [[Vapen]])
-- Ge förband eller stabilisera en skadad (se [[#Stabilisering]])
+- Ladda om ett vapen (se [[Vapen]] )
+- Ge förband eller stabilisera en skadad (se [[#Stabilisering]] )
 - Resa sig från marken eller ta sig över ett hinder
 
 ## Stillastående-handlingar
@@ -47,14 +47,14 @@ Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja elle
 
 Du kan väja både för avstånds- och närstridsattacker Om du väjer så hamnar du på marken efter attacken. Du kan bara parera närstridsattacker och du måste ha något i händerna som du kan parera med.
 
-Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]]).
+Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]] ).
 
 ## Fokus i strid
 
 I strid kan du spendera Fokus för att:
 
 - Lägga till tärningar på ett slag (som vanligt).
-- Försvara dig aktivt — väja eller parera (se [[#Försvar]]).
+- Försvara dig aktivt — väja eller parera (se [[#Försvar]] ).
 - Aktivera förmågor och krafter, inklusive sådana som uttryckligen låter dig agera utanför din tur eller göra något extra.
 
 ## Avståndsattacker
@@ -84,17 +84,17 @@ Om en attack träffar ett mål avgörs skadan direkt från attackslaget, vapnets
 
 ## Tålighet
 
-Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgör trösklarna för skadesteg och hur mycket skada du tål innan du blir allvarligt påverkad. Enskilda träffar kan också ge kritiska effekter även om din totala skada inte nått en tröskel (se [[Kritiska träffar]]).
+Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgör trösklarna för skadesteg och hur mycket skada du tål innan du blir allvarligt påverkad. Enskilda träffar kan också ge kritiska effekter även om din totala skada inte nått en tröskel (se [[Kritiska träffar]] ).
 
 ### Skadesteg
 
-| Skada          | Tröskel              | Utfall                                     |
-| -------------- | -------------------- | ------------------------------------------ |
-| **Oskadd**     | 0 KP                 | Inga effekter                              |
-| **Sårad**      | > Tålighet KP        | Alla handlingar ett steg svårare           |
-| **Medvetslös** | > 2 × Tålighet KP    | Du faller ihop och kan inte agera          |
-| **Döende**     | > 3 × Tålighet KP    | Se *Döende* nedan, eller via kritisk träff |
-| **Död**        | > 4 × Tålighet KP    | Du dör omedelbart                          |
+| Skada | Tröskel | Utfall |
+| --- | --- | --- |
+| **Tjänstduglig** | 0 KP | Inga effekter |
+| **Sårad** | \> Tålighet KP | Alla handlingar ett steg svårare |
+| **Medvetslös** | \> 2 × Tålighet KP | Du faller ihop och kan inte agera |
+| **Döende** | \> 3 × Tålighet KP | Se *Döende* nedan, eller via kritisk träff |
+| **Död** | \> 4 × Tålighet KP | Du dör omedelbart |
 
 *Exempel: En karaktär med Fysik 2 och Vilja 3 har Tålighet 5. Hon blir Sårad vid 6+ KP skada, Medvetslös vid 11+ KP, Döende vid 16+ KP, och dör omedelbart vid 21+ KP.*
 
@@ -104,7 +104,7 @@ KP-skadan räknas direkt från attackslaget – inget separat skadeslag behövs.
 
 **KP-skada = Vapnets Skada + träffens Effekt − målets Skydd** (minst 0)
 
-Träffens **Effekt** är de framgångar som blev över sedan kravet på att träffa uppfyllts (se [[Grundregler#Effekt]]). En eller flera framgångar (beroende på svårighet) går alltså åt till att träffa; återstående Effekt kan användas till exempel för att öka skadan.
+Träffens **Effekt** är de framgångar som blev över sedan kravet på att träffa uppfyllts (se [[Grundregler#Effekt]] ). En eller flera framgångar (beroende på svårighet) går alltså åt till att träffa; återstående Effekt kan användas till exempel för att öka skadan.
 
 ## 2. Skada (vapenbonus)
 
@@ -116,7 +116,7 @@ Målets **Skydd** (från rustning, täckning, etc.) dras av från KP-skadan (min
 
 ## 4. Kritiska träffar
 
-Om minst en tärning på attackslaget visar **12** och attacken gör minst 1 KP skada på målet efter Skydd så har du fått en **kritisk träff**. Slå 1T12 och lägg till modifierare för att bestämma effekten på lämplig tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]]).
+Om minst en tärning på attackslaget visar **12** och attacken gör minst 1 KP skada på målet efter Skydd så har du fått en **kritisk träff**. Slå 1T12 och lägg till modifierare för att bestämma effekten på lämplig tabell baserat på vapnets **Skadetyp** (se [[Kritiska träffar]] ).
 
 **Modifierare till slaget:**
 
@@ -133,7 +133,7 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 
 > **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 2** och skadetyp **Skjutvapen**.
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
 > Vakten bär **tjock rock (Skydd 1)**. KP-skada = Effekt 2 + 2 Skada − 1 Skydd = **3 KP**.
-> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 3 KP — fortfarande Oskadd, men tar **1 Stress** (av att ha tagit skada).
+> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 3 KP — fortfarande Tjänstduglig, men tar **1 Stress** (av att ha tagit skada).
 > 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
 
 ## Effekter av skada
@@ -174,10 +174,10 @@ Du dör omedelbart om:
 
 När du är Döende måste du slå **Överlevnadsslag** (Fysik + Vilja) med ett intervall som beror på orsaken:
 
-| Orsak              | Intervall                           |
-| ------------------ | ----------------------------------- |
-| KP-förlust (chock) | Per minut                           |
-| Kritisk träff      | Enligt tabellen (runda/minut/timme) |
+| Orsak | Intervall |
+| --- | --- |
+| KP-förlust (chock) | Per minut |
+| Kritisk träff | Enligt tabellen (runda/minut/timme) |
 
 Varje Överlevnadsslag:
 
@@ -191,7 +191,7 @@ Om du blir Döende av flera orsaker samtidigt — exempelvis KP-chock plus en kr
 
 ### Permanenta effekter består
 
-När en kritisk träff anger en **Permanent**-effekt så är effekten bestående även om du stabiliseras och överlever. Stabilisering räddar livet men reparerar inte den skada som redan skett. Rehabilitering eller hjälpmedel kan delvis minska avdraget — se [[Läkning & vård#Permanenta skador]].
+När en kritisk träff anger en **Permanent**-effekt så är effekten bestående även om du stabiliseras och överlever. Stabilisering räddar livet men reparerar inte den skada som redan skett. Rehabilitering eller hjälpmedel kan delvis minska avdraget — se [[Läkning & vård#Permanenta skador]] .
 
 ### Stabilisering
 
@@ -204,10 +204,10 @@ En annan person kan stabilisera dig med **Analys + Smidighet (Medicin)**:
 
 Vissa kritiska träffar orsakar **blödning**. Det finns två blödningstillstånd — bara det högsta gäller:
 
-| Typ                  | Frekvens                | Skada         |
-| -------------------- | ----------------------- | ------------- |
-| **Lätt blödning**    | I början av varje minut | 1 KP          |
-| **Kraftig blödning** | I början av varje runda | 1 KP          |
+| Typ | Frekvens | Skada |
+| --- | --- | --- |
+| **Lätt blödning** | I början av varje minut | 1 KP |
+| **Kraftig blödning** | I början av varje runda | 1 KP |
 
 - Blödning staplas inte — bara det högsta tillståndet gäller.
 - Om du redan har Lätt blödning och får Lätt blödning igen händer inget.
@@ -228,7 +228,7 @@ Se [[Läkning & vård]] för mer information.
 
 ### Läkning
 
-Se kapitlet [[Läkning & vård]].
+Se kapitlet [[Läkning & vård]] .
 
 ### Kritiska träffar
 
@@ -236,4 +236,4 @@ Se kapitlet [[Kritiska träffar]] för tabeller baserade på skadetyp (Kross, St
 
 ## Särskilda situationer
 
-Se särskilt avsnitt för [[Särskilda situationer]].
+Se särskilt avsnitt för [[Särskilda situationer]] .

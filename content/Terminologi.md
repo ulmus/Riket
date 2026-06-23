@@ -4,25 +4,25 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**.
 
 ## Grundläggande speltermer
 
-| Term              | Beskrivning                                                                                                                                                               |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tärning (T12)** | Tolvsidig tärning, den enda tärningstypen som används i spelet                                                                                                            |
-| **Framgång**      | Ett tärningsresultat på 10+                                                                                                                                               |
-| **Fokus**         | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar. Alla lägen där fokus kan användas kan istället Stress användas. |
-| **Momentum**      | Berättelsetempo som avgör startvärdet på Fokus varje scen (1–5)                                                                                                           |
-| **Scen**          | En sammanhängande episod i berättelsen (strid, undersökning, förhandling)                                                                                                 |
-| **Runda**         | Ca fem sekunders speltid i strid                                                                                                                                          |
-| **Slag**          | Ett tärningskast för att avgöra utfall                                                                                                                                    |
-| **Svårighet**     | Antal framgångar som krävs: Normal (1), Svår (2), Mycket Svår (3). Sätts av SL som helhetsbedömning                                                                       |
-| **Effekt**        | Framgångar utöver de som krävs för att klara svårigheten (eller för att slå en motståndare); spenderas på extra verkningar som mer skada, längre varaktighet eller fler mål |
-| **Komplikation**  | Oväntad negativ händelse vid etta på slag efter att ha spenderat Fokus                                                                                                    |
+| Term | Beskrivning |
+| --- | --- |
+| **Tärning (T12)** | Tolvsidig tärning, den enda tärningstypen som används i spelet |
+| **Framgång** | Ett tärningsresultat på 10+ |
+| **Fokus** | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar. Alla lägen där fokus kan användas kan istället Stress användas. |
+| **Momentum** | Berättelsetempo som avgör startvärdet på Fokus varje scen (1–5) |
+| **Scen** | En sammanhängande episod i berättelsen (strid, undersökning, förhandling) |
+| **Runda** | Ca fem sekunders speltid i strid |
+| **Slag** | Ett tärningskast för att avgöra utfall |
+| **Svårighet** | Antal framgångar som krävs: Normal (1), Svår (2), Mycket Svår (3). Sätts av SL som helhetsbedömning |
+| **Effekt** | Framgångar utöver de som krävs för att klara svårigheten (eller för att slå en motståndare); spenderas på extra verkningar som mer skada, längre varaktighet eller fler mål |
+| **Komplikation** | Oväntad negativ händelse vid etta på slag efter att ha spenderat Fokus |
 
 ## Egenskaper
 
 De åtta grundegenskaperna som definierar en rollperson:
 
 | Egenskap | Beskrivning |
-| -------- | ----------- |
+| --- | --- |
 | **Analys** | Logik, teknik, kunskap/språk, medicin, krypto, sprängteknik |
 | **Fysik** | Råstyrka, tålighet, simning, närstridsskada |
 | **List** | Lögner, förklädnad, improvisation, undre världen |
@@ -34,16 +34,16 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 ## Sekundära egenskaper
 
-| Term             | Beräkning         | Beskrivning                                |
-| ---------------- | ----------------- | ------------------------------------------ |
-| **Tålighet**     | Fysik + Vilja     | Tröskel för skadesteg                      |
-| **Stabilitet**   | Normalt 3         | Hur mycket stress du tål innan sammanbrott |
-| **Förflyttning** | Fysik + Smidighet | Meter per runda                            |
+| Term | Beräkning | Beskrivning |
+| --- | --- | --- |
+| **Tålighet** | Fysik + Vilja | Tröskel för skadesteg |
+| **Stabilitet** | Normalt 3 | Hur mycket stress du tål innan sammanbrott |
+| **Förflyttning** | Fysik + Smidighet | Meter per runda |
 
 ## Expertis och förmågor
 
 | Term | Beskrivning |
-| ---- | ----------- |
+| --- | --- |
 | **Expertis** | Träning inom ett yrke eller specialområde; sänker svårigheten ett steg på relevanta aktiviteter och ger tillgång till förmågor |
 | **Förmåga** | Speciell teknik eller egenskap som ger unika fördelar i spelet |
 | **Kraft** | En övermänsklig förmåga hos ett ENS (Extra-Normalt Subjekt) |
@@ -51,7 +51,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Handlingar i strid
 
 | Term | Beskrivning |
-| ---- | ----------- |
+| --- | --- |
 | **Handling** | Det du gör på din tur — en per runda (attack, kraft, ladda om, vård, etc.) |
 | **Stillastående-handling** | Handling som kräver att du inte förflyttar dig samma runda (sikta, kirurgi, upprätthålla en kraft); annars ett steg svårare eller omöjlig |
 | **Förflyttning** | Rörelse upp till din Förflyttning som ingår i din tur |
@@ -61,7 +61,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Skada och hälsa
 
 | Term | Förkortning | Beskrivning |
-| ---- | ----------- | ----------- |
+| --- | --- | --- |
 | **Kroppspoäng** | KP | Enhet för skada |
 | **Tålighet** | – | Fysik + Vilja; tröskel för skadesteg |
 | **Skada** | – | Vapnets KP-bonus vid träff; adderas till KP-skadan och till kritiska träff-slag |
@@ -73,8 +73,8 @@ De åtta grundegenskaperna som definierar en rollperson:
 ### Skadesteg
 
 | Tillstånd | Beskrivning |
-| --------- | ----------- |
-| **Oskadd** | Inga effekter |
+| --- | --- |
+| **Tjänstduglig** | Inga effekter |
 | **Sårad** | Alla handlingar ett steg svårare (vid skada > Tålighet KP) |
 | **Medvetslös** | Kan inte agera (vid skada > 2 × Tålighet KP) |
 | **Döende** | Kräver akutvård eller dör (vid skada > 3 × Tålighet KP eller via kritisk träff) |
@@ -82,18 +82,18 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 ## Stress och psykisk hälsa
 
-| Term            | Beskrivning                                                                                                         |
-| --------------- | ------------------------------------------------------------------------------------------------------------------- |
-| **Trauma**      | Det utlösande psykiska trauma som gett karaktären dess krafter.                                                     |
-| **Stress**      | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag och kan spenderas istället för Fokus |
-| **Stabilitet**  | Tröskel för sammanbrott, 3 för vanliga karaktärer                                                                   |
-| **Sammanbrott** | Psykisk kris som utlöses när Stress överskrider Stabilitet                                                          |
-| **Chock**       | Slag för att motstå chockerande händelser (Vilja + relevant egenskap)                                               |
+| Term | Beskrivning |
+| --- | --- |
+| **Trauma** | Det utlösande psykiska trauma som gett karaktären dess krafter. |
+| **Stress** | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag och kan spenderas istället för Fokus |
+| **Stabilitet** | Tröskel för sammanbrott, 3 för vanliga karaktärer |
+| **Sammanbrott** | Psykisk kris som utlöses när Stress överskrider Stabilitet |
+| **Chock** | Slag för att motstå chockerande händelser (Vilja + relevant egenskap) |
 
 ### Sammanbrottseffekter
 
 | Utfall | Beskrivning |
-| ------ | ----------- |
+| --- | --- |
 | **Skakad** | Missar sin nästa runda |
 | **Panik** | Flyr mot närmaste skydd |
 | **Raseri** | Attackerar närmaste person |
@@ -104,7 +104,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Aktiviteter
 
 | Term | Beskrivning |
-| ---- | ----------- |
+| --- | --- |
 | **Kort aktivitet** | Avgörs med ett slag; ett snabbt handlingsmoment |
 | **Lång aktivitet** | Serie av slag; samlar framgångar mot ett mål |
 | **Huvudaktör** | Den som utför huvudslaget i en aktivitet |
@@ -116,14 +116,14 @@ De åtta grundegenskaperna som definierar en rollperson:
 ## Världen och organisationer
 
 | Term | Beskrivning |
-| ---- | ----------- |
+| --- | --- |
 | **Extra-Normalt Subjekt** (ENS) | Människa med inducerade, övermänskliga förmågor |
 | **Skuggkomplex** | Jungianskt begrepp; den mörka sidan av psyket som manifesterar krafter |
 
 ### Svenska organisationer
 
 | Term | Beskrivning |
-| ---- | ----------- |
+| --- | --- |
 | **Program Frigg** | Sveriges hemliga program för att skapa ENS |
 | **Frigg-avdelningen** | Den operativa enheten med ENS-agenter, formellt underställd T-kontoret |
 | **T-kontoret** | Sveriges hemliga underrättelsetjänst |
@@ -132,7 +132,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 ### Internationella program
 
 | Term | Nation | Beskrivning |
-| ---- | ------ | ----------- |
+| --- | --- | --- |
 | **Projekt Nigredo** | Nazi-Tyskland | Det ursprungliga experimentprogrammet under Mengele |
 | **Sotsializma Pervye Zvezdy** | Sovjetunionen | "Socialismens Första Stjärnor"; sovjetiskt ENS-program |
 | **Enhet 37** | Sovjetunionen | Den operativa ENS-enheten |
@@ -145,18 +145,18 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 För översättning och internationell kommunikation:
 
-| Svenska               | Engelska                   |
-| --------------------- | -------------------------- |
-| Chock                 | Shock                      |
-| Framgång              | Success                    |
-| Effekt                | Effect (excess successes)  |
-| Fokus                 | Focus                      |
-| Egenskap              | Attribute                  |
-| Expertis              | Expertise                  |
+| Svenska | Engelska |
+| --- | --- |
+| Chock | Shock |
+| Framgång | Success |
+| Effekt | Effect (excess successes) |
+| Fokus | Focus |
+| Egenskap | Attribute |
+| Expertis | Expertise |
 | Extra-Normalt Subjekt | Extra-Normal Subject (ENS) |
-| Förmåga               | Ability/Feat               |
-| Kraft                 | Power                      |
-| Kroppspoäng           | Hit Points (HP)            |
-| Stress                | Stress                     |
-| Stabilitet            | Stability                  |
-| Sammanbrott           | Breakdown                  |
+| Förmåga | Ability/Feat |
+| Kraft | Power |
+| Kroppspoäng | Hit Points (HP) |
+| Stress | Stress |
+| Stabilitet | Stability |
+| Sammanbrott | Breakdown |

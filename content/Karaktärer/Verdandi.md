@@ -2,22 +2,25 @@
 cssclasses:
   - irt-image-page
 ---
+
 # Verdandi
 
-| Egenskap  |       | Sekundärt    |             |
-| :-------- | ----: | :----------- | :---------- |
-| Analys    | **3** | Oskadd       | ❏❏❏❏❏       |
-| Fysik     | **1** | Sårad        | ❏❏❏❏❏       |
-| List      | **2** | Medvetslös   | ❏❏❏❏❏       |
-| Samspel   | **2** | Döende       | ❏❏❏❏❏       |
-| Sinnen    | **5** | Förflyttning | 3 m         |
-| Smidighet | **2** | Tålighet     | 5           |
-| Strid     | **2** | Stabilitet   | 3           |
-| Vilja     | **4** | Stress       | ❏❏❏ ❏❏❏ ❏❏❏ |
+| Egenskap |  | Sekundärt |  |
+| --- | --- | --- | --- |
+| Analys | **3** | Tjänstduglig | ❏❏❏❏❏ |
+| Fysik | **1** | Sårad | ❏❏❏❏❏ |
+| List | **2** | Medvetslös | ❏❏❏❏❏ |
+| Samspel | **2** | Döende | ❏❏❏❏❏ |
+| Sinnen | **5** | Förflyttning | 3 m |
+| Smidighet | **2** | Tålighet | 5 |
+| Strid | **2** | Stabilitet | 3 |
+| Vilja | **4** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
 
 **Expertis:** Underrättelseanalytiker
 
-![[Bilder/Verdandi.png|697]]
+!
+
+[[Bilder/Verdandi.png|697]]
 
 ## Språk
 
@@ -48,7 +51,7 @@ Detaljnivå avgörs av fysiskt avstånd:
 
 **Krav:** En genuin känslomässig koppling till platsen eller någon där.
 
-**Varaktighet:** Aktiveringen utlöser alltid ett epileptiskt anfall (se [[#Epileptiska anfall|Nackdelar]]). Du faller till marken och stabiliseras därefter i ett trance där visionen varar så länge du koncentrerar dig. Du är blind och döv för det fysiska rummet medan visionen pågår.
+**Varaktighet:** Aktiveringen utlöser alltid ett epileptiskt anfall (se [[#Epileptiska anfall]] ). Du faller till marken och stabiliseras därefter i ett trance där visionen varar så länge du koncentrerar dig. Du är blind och döv för det fysiska rummet medan visionen pågår.
 
 - **+1 Fokus:** Visionen blir ett detaljsteg tydligare än avståndet medger.
 - **1 Framgång:** Flytta fokus till en angränsande plats inom samma vision.
@@ -65,6 +68,7 @@ Slå för Samspel + Vilja. Personer som rör vid din kropp dras in i visionen oc
 - **1 Framgång:** Mottagarna hör också, inte bara ser.
 
 ### Framsynt (1 Fokus, reaktiv)
+
 När något händer som du hade kunnat påverka om du var medveten om det några sekunder innan så kan du slå ett slag för Sinnen + Vilja för att undvika det. Om du exempelvis blir skjuten eller knuffad eller någon ser dig. Dina framfångar på det slaget kan användas för att påverka förloppet genom att få motståndaren att misslyckas eller dig själv att få extra framgångar på ett slag du misslyckades med. Du måste kunna förklara hur du använder din insikt för att ändra utfallet och du kan bara ändra saker som påverkar dig direkt.
 
 - **+1 Fokus:** Du kan påverka även en annan person inom 10 meter
