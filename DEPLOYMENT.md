@@ -2,22 +2,18 @@
 
 The website for _I Rikets Tjänst_ is built with [Quartz 5](https://quartz.jzhao.xyz/)
 and hosted on **Cloudflare Pages**. It is served publicly at
-**<https://exostra.se/riket>**.
+**<https://riket.exostra.se>**.
 
-Because `exostra.se` already hosts other content, Riket lives on the `/riket`
-path. Cloudflare Pages custom domains map to the _root_ of a project, so the
-`/riket` prefix is provided by a small **Cloudflare Worker** on the `exostra.se`
-zone that forwards `/riket/*` to the Pages project. Quartz emits relative asset
-and link paths, so the build is fully relocatable under the prefix — the only
-absolute-URL setting is `baseUrl: exostra.se/riket` in `quartz.config.yaml`
-(used for canonical links, OG tags, RSS, and the sitemap).
+`riket.exostra.se` is a subdomain, so the Cloudflare Pages custom domain maps
+directly to the project root — no path prefix and no routing Worker. The only
+host-specific setting is `baseUrl: riket.exostra.se` in `quartz.config.yaml`.
 
-```
-visitor ─▶ https://exostra.se/riket/...        (exostra.se zone)
-                 │
-                 ▼  Worker: strip "/riket", forward
-           https://riket.pages.dev/...          (Cloudflare Pages project)
-```
+> **Why `baseUrl` must have no path.** Quartz injects `baseUrl`'s path
+> component as `data-basepath` on `<body>`, and the client-rendered navigation
+> (explorer, search, graph) prepends it to every link. A subdomain root has an
+> empty path, so `baseUrl: riket.exostra.se` yields an empty base and links like
+> `/regler/grundregler` resolve correctly. A value with a path (e.g.
+> `exostra.se/riket`) would make those links `/riket/...` and 404 at the root.
 
 ## 1. Cloudflare Pages project (Git integration)
 
@@ -45,30 +41,13 @@ pull requests get automatic **preview deployments** at
 `<deployment>.riket.pages.dev`. Cloudflare handles all builds; the repo has no
 GitHub Actions workflows.
 
-> Verify the project itself at `https://riket.pages.dev/` — it serves the site
-> at its own root. The `/riket` prefix is added by the Worker below.
+## 2. Custom domain
 
-## 2. Worker route for `exostra.se/riket`
-
-The Worker that mounts the project under `/riket` lives in
-[`cloudflare/riket-router/`](cloudflare/riket-router/). It strips the `/riket`
-prefix before forwarding to `riket.pages.dev` and rewrites redirect `Location`
-headers so the public hostname and prefix are preserved (e.g. when Cloudflare
-normalises a directory URL to add a trailing slash).
-
-Deploy it on the **`exostra.se` zone** (it must be the zone where `exostra.se`
-DNS is managed in Cloudflare):
-
-```sh
-cd cloudflare/riket-router
-npx wrangler deploy
-```
-
-`wrangler.toml` binds the Worker to the routes `exostra.se/riket` and
-`exostra.se/riket/*`. You can also configure these under
-**Workers & Pages → your Worker → Settings → Domains & Routes** in the
-dashboard. If `riket.pages.dev` is not your project's URL, update `PAGES_HOST`
-in `cloudflare/riket-router/worker.js`.
+In the Pages project: **Custom domains → Set up a custom domain →
+`riket.exostra.se`**. Because `exostra.se` is managed in Cloudflare, the
+required `CNAME` DNS record (`riket` → `riket.pages.dev`) is created
+automatically and TLS is provisioned for you. Once active, the site is live at
+<https://riket.exostra.se>.
 
 ## 3. Decommission the old GitHub Pages site (optional)
 
@@ -84,5 +63,5 @@ npx quartz plugin install
 npx quartz build --serve
 ```
 
-Local preview serves at the root (`http://localhost:8080/`), which is fine —
-the `/riket` prefix only matters in production via the Worker.
+Local preview serves at the root (`http://localhost:8080/`); `--serve` forces an
+empty base path, so navigation works the same as in production.
