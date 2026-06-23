@@ -70,11 +70,46 @@
     background: var(--lightgray);
   }
 
-  // Photos and maps get a thin matted frame.
+  // Photos & portraits: a thin matted frame, like a clipped-in dossier
+  // photo. Images default to a smaller, right-floated thumbnail so the
+  // body text wraps alongside them. Maps, floor plans and other images
+  // that need the full column opt out with the Obsidian `|wide` alias
+  // (e.g. `![[Karta.png|wide]]`), which the markdown transformer turns
+  // into `alt="wide"`.
   img {
     border: 1px solid var(--lightgray);
     background: var(--light);
     padding: 4px;
+
+    float: right;
+    max-width: 260px;
+    height: auto;
+    margin: 0.4rem 0 0.9rem 1.4rem;
+  }
+
+  // Full-width images: no float, centered in the column.
+  img[alt="wide"] {
+    float: none;
+    display: block;
+    max-width: 100%;
+    margin: 1.2rem auto;
+  }
+
+  // Start each section on a clean band below any floated image, so a
+  // short section can't let the next heading ride up beside a portrait.
+  :is(h1, h2, h3, h4, h5, h6) {
+    clear: both;
+  }
+
+  // On narrow screens a right float would crush the text column, so
+  // stack images full-width and centre them instead.
+  @media (max-width: 800px) {
+    img {
+      float: none;
+      display: block;
+      max-width: 100%;
+      margin: 1rem auto;
+    }
   }
 }
 
