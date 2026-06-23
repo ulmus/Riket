@@ -12,10 +12,25 @@
 // (navy classified folder).
 // =============================================================
 
-// --- Site wordmark (top-left): stamped --------------------------------
+// --- Site masthead (top-left): emblem + stamped wordmark --------------
+// The crown-and-d12 emblem (quartz/static/icon.png, also the favicon) sits to
+// the left of the "I Rikets Tjänst" wordmark, echoing the RT-1 form header.
+// The navy die is lighter than the dark-mode navy background and its outline
+// is darker than the cream paper, so it reads in both themes without a backing.
 .page-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   letter-spacing: 0.06em;
   font-weight: 700;
+
+  &::before {
+    content: "";
+    flex: 0 0 auto;
+    width: 2.1rem;
+    height: 2.1rem;
+    background: url("/static/icon.png") center / contain no-repeat;
+  }
 }
 
 // --- Page title: emblem-style with an accent rule ---------------------
