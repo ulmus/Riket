@@ -21,10 +21,12 @@ Behandling kräver en full minut, ytterligare försök tar en timme och ytterlig
 | Åtgärd             | Vårdtyp   | Utfall                                                                                                            |
 | ------------------ | --------- | ----------------------------------------------------------------------------------------------------------------- |
 | Stoppa blödning    | Kirurgi   | Minska blödning ett steg per framgång, från svår till lätt till inget                                             |
-| Stabilisera döende | Medicin   | Varje framgång ökar tidsenheten för dödsslag från minut till runda till timmar till inget.                        |
+| Stabilisera döende | Enligt skadan¹   | Varje framgång kliver döende ett steg nedåt: **Akut döende → Döende → stabil**. Effekt kan kliva ytterligare steg.                        |
 | Stabilisera sårad  | Medicin   | Patienten är inte längre **Sårad** (svårighetsökningen upphör). Ytterligare skada innan läkt så går det upp igen. |
 | Ge motgift         | Medicin   | Stoppar gifteffekter (kräver rätt motgift)                                                                        |
 | Lugna patient      | Psykologi | Ta bort 1 Stress per framgång                                                                                     |
+
+¹ *Stabilisera döende:* använd den vårdtyp och svårighet som den kritiska träffens rad anger; för döende av ren KP-chock används **Medicin** (Normal). Varje framgång kliver döende ett steg nedåt (**Akut döende → Döende → stabil**). I fält får du ett par försök (en minut, sedan en timme); fortsatta omslag kräver bättre förutsättningar — i praktiken sjukhus. Se [[Strid och skada#Döende]].
 
 **Medicin läker inte KP.** Behandling kan stabilisera tillstånd och lindra effekter, men KP-skada läks bara genom vila och tid (se Läkning nedan).
 
