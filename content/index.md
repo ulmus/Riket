@@ -50,6 +50,7 @@ Det kalla krigets dolda kapprustning – stormakternas hemliga program för Extr
 - [[Operation Grendel (Storbritannien)]] – Storbritanniens sena men ambitiösa satsning.
 - [[Projet Chimère (Frankrike)]] – Frankrikes försök att återta sin stormaktsställning.
 - [[Projekt Nigredo (Nazi-Tyskland)]] – Det ursprungliga experimentet i Auschwitz; arvet som spökar i alla program.
+- [[Tjänster och gods]] – Vad saker kostar 1961 och hur de skaffas i Stockholm och utomlands.
 
 ## Äventyr
 
