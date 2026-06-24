@@ -42,6 +42,7 @@ Råd och verktyg för dig som leder spelet.
 
 Det kalla krigets dolda kapprustning – stormakternas hemliga program för Extra-Normala Subjekt (ENS).
 
+- [[Världen 1961]] – Tidsandan, stämningen och sinnesintrycken 1961 att förmedla vid bordet.
 - [[Bakgrund]] – Hur allt började: Projekt Nigredo och vägen till dagens ENS-program.
 - [[Program Frigg (Sverige)]] – Sveriges hemliga program inom underrättelsetjänsten T-kontoret.
 - [[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovjetunionen)|Sotsializma Pervye Zvezdy (Sovjetunionen)]] – Sovjetunionens program och dess Enhet 37.
