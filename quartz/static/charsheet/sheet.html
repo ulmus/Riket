@@ -42,6 +42,39 @@
     input::placeholder, textarea::placeholder { color: transparent !important; opacity: 0 !important; }
     .dmg-blk { background: transparent !important; background-image: none !important; cursor: default !important; }
   }
+  /* ---- Narrow-screen / mobile layout ----
+     Each .sheet is a fixed A4-width page (794px) tuned for screen preview and
+     print. On viewports narrower than a sheet it would overflow into sideways
+     scrolling with everything shrunk to half size, so below 820px we let the
+     sheet flow to the available width, grow to its content height (instead of
+     the fixed A4 height that would clip the reflowed content), and stack the
+     side-by-side blocks into a single readable column. All rules are scoped to
+     `screen`, so the print layout above is left exactly as-is. */
+  @media screen and (max-width: 820px) {
+    .backdrop { padding: 16px 10px !important; gap: 16px !important; }
+    .sheet {
+      width: 100% !important; max-width: 794px;
+      height: auto !important; overflow: visible !important;
+      padding: 22px 16px 20px !important;
+    }
+    /* Side-by-side blocks stack vertically; also unfixes the power row's height. */
+    .row2 { flex-direction: column !important; height: auto !important; }
+    /* Mastheads, toolbar and pip rows wrap rather than spill past the edge. */
+    .mast1, .mast2, .toolbar, .toolbar-btns, .wraprow { flex-wrap: wrap !important; }
+    .toolbar { justify-content: flex-start !important; }
+    /* The button cluster is flex:none, so give it a bounded width or its
+       buttons have no edge to wrap against. */
+    .toolbar-btns { width: 100% !important; }
+    /* Give the flex-sized text boxes a usable height once the page is no
+       longer a fixed-height A4 column. */
+    .sheet textarea { min-height: 90px !important; }
+  }
+  @media screen and (max-width: 560px) {
+    /* Two-column field/attribute grids collapse to one column on phones. */
+    .grid-2 { grid-template-columns: 1fr !important; }
+    /* Keep the page-1 wordmark inside the narrowest screens. */
+    .mast1 h1 { font-size: 27px !important; }
+  }
 </style>
 </helmet>
 
@@ -59,11 +92,11 @@
   </sc-if>
 
   <sc-if value="{{ ready }}">
-  <div class="screen-only" style="width:794px;max-width:100%;display:flex;align-items:center;justify-content:space-between;gap:16px;">
+  <div class="screen-only toolbar" style="width:794px;max-width:100%;display:flex;align-items:center;justify-content:space-between;gap:16px;">
     <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:430px;">
       Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
     </div>
-    <div style="display:flex;gap:8px;flex:none;">
+    <div class="toolbar-btns" style="display:flex;gap:8px;flex:none;">
       <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
       <button onClick="{{ onExport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Exportera</button>
       <button onClick="{{ onImport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Importera</button>
@@ -75,7 +108,7 @@
   <section class="sheet" data-screen-label="Sida 1 — personalia, egenskaper &amp; strid" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
 
     <!-- MASTHEAD -->
-    <header style="flex:none;display:flex;align-items:stretch;gap:12px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:12px 16px;position:relative;">
+    <header class="mast1" style="flex:none;display:flex;align-items:stretch;gap:12px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:12px 16px;position:relative;">
       <img src="assets/irt-logo.png" alt="Program Frigg" width="82" height="82" style="flex:none;object-fit:contain;">
       <div style="flex:1;display:flex;flex-direction:column;justify-content:center;gap:6px;min-width:0;">
         <div style="font:600 9px/1.2 'Archivo';letter-spacing:.22em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">T-KONTORET · PROGRAM FRIGG</div>
@@ -101,7 +134,7 @@
         <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Tjänsteuppgifter</span>
       </div>
       <div style="padding:11px 12px;display:flex;flex-direction:column;gap:11px;flex:1;min-height:0;">
-        <div style="flex:none;display:grid;grid-template-columns:1fr 1fr;gap:11px 16px;">
+        <div class="grid-2" style="flex:none;display:grid;grid-template-columns:1fr 1fr;gap:11px 16px;">
           <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Namn</span><input data-field="namn" onInput="{{ onField }}" defaultValue="{{ f.namn }}" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;font-size:15px;"></label>
           <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Kodnamn</span><input data-field="kodnamn" onInput="{{ onField }}" defaultValue="{{ f.kodnamn }}" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;"></label>
           <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Spelare</span><input data-field="spelare" onInput="{{ onField }}" defaultValue="{{ f.spelare }}" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;"></label>
@@ -119,7 +152,7 @@
         <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
         <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">21 poäng · 1–4 vardera · en superegenskap = 5</span>
       </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px 26px;padding:11px 14px;">
+      <div class="grid-2" style="display:grid;grid-template-columns:1fr 1fr;gap:9px 26px;padding:11px 14px;">
         <sc-for list="{{ attrs }}" as="a" hint-placeholder-count="8">
           <div style="display:flex;align-items:center;gap:10px;">
             <div style="flex:1;min-width:0;">
@@ -137,7 +170,7 @@
     </div>
 
     <!-- 3 + 4 two-up -->
-    <div style="flex:none;display:flex;gap:11px;">
+    <div class="row2" style="flex:none;display:flex;gap:11px;">
       <!-- 3 SEKUNDÄRA -->
       <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
@@ -180,7 +213,7 @@
               <sc-for list="{{ damageTracks }}" as="d" hint-placeholder-count="4">
                 <div style="display:flex;align-items:center;gap:8px;">
                   <span style="flex:none;width:74px;font:600 8px/1.1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--ink,#23201A);">{{ d.label }}</span>
-                  <div style="display:flex;gap:4px;">
+                  <div class="wraprow" style="display:flex;gap:4px;">
                     <sc-for list="{{ d.pips }}" as="p" hint-placeholder-count="13">
                       <button onClick="{{ p.onClick }}" class="{{ p.cls }}" style="{{ p.style }}"></button>
                     </sc-for>
@@ -198,14 +231,14 @@
     </div>
 
     <!-- 5 + 6 two-up -->
-    <div style="flex:none;display:flex;gap:11px;">
+    <div class="row2" style="flex:none;display:flex;gap:11px;">
       <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
           <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">5</span>
           <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Fokus</span>
         </div>
         <div style="padding:11px;display:flex;flex-direction:column;gap:8px;">
-          <div style="display:flex;gap:6px;align-items:center;">
+          <div class="wraprow" style="display:flex;gap:6px;align-items:center;">
             <sc-for list="{{ fokusPips }}" as="p" hint-placeholder-count="14">
               <button onClick="{{ p.onClick }}" style="{{ p.style }}">{{ p.n }}</button>
             </sc-for>
@@ -239,7 +272,7 @@
   <!-- ============================ SIDA 2 — psykprofil, färdigheter & resurser ============================ -->
   <section class="sheet" data-screen-label="Sida 2 — psykprofil, färdigheter &amp; resurser" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
 
-    <header style="flex:none;display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
+    <header class="mast2" style="flex:none;display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
       <img src="assets/irt-logo.png" alt="" width="32" height="32" style="flex:none;object-fit:contain;">
       <div style="font:800 22px/1 'Saira Condensed',sans-serif;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</div>
       <sc-if value="{{ hasId }}"><span style="flex:none;font:700 14px/1 'Saira Condensed',sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent,#0C3A54);">{{ idnamn }}</span></sc-if>
@@ -255,7 +288,7 @@
         <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">grund för urval till Frigg</span>
       </div>
       <div style="padding:9px 12px;display:flex;flex-direction:column;gap:8px;flex:1;min-height:0;">
-        <div style="flex:none;display:flex;gap:8px;">
+        <div class="wraprow" style="flex:none;display:flex;gap:8px;">
           <sc-for list="{{ traumaList }}" as="t" hint-placeholder-count="5">
             <button onClick="{{ t.onClick }}" style="{{ t.btnStyle }}"><span style="{{ t.boxStyle }}"></span><span style="font:700 11px 'Archivo';color:var(--ink,#23201A);">{{ t.label }}</span></button>
           </sc-for>
@@ -272,7 +305,7 @@
         <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
         <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">börja med två</span>
       </div>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px 18px;padding:11px 12px;">
+      <div class="grid-2" style="display:grid;grid-template-columns:1fr 1fr;gap:8px 18px;padding:11px 12px;">
         <sc-for list="{{ formagaRows }}" as="r" hint-placeholder-count="6">
           <input data-field="{{ r.f }}" onInput="{{ onField }}" defaultValue="{{ r.v }}" placeholder="Förmåga…" style="border-bottom:1px solid var(--rule,#C7BEA6);font-size:13px;">
         </sc-for>
@@ -280,7 +313,7 @@
     </div>
 
     <!-- 9 + 10 two-up -->
-    <div style="flex:none;display:flex;gap:11px;">
+    <div class="row2" style="flex:none;display:flex;gap:11px;">
       <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
           <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">9</span>
@@ -339,7 +372,7 @@
   <!-- ============================ SIDA 3 — extranormal kraft ============================ -->
   <section class="sheet" data-screen-label="Sida 3 — extranormal kraft" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
 
-    <header style="flex:none;display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
+    <header class="mast2" style="flex:none;display:flex;align-items:center;gap:14px;border:2px solid var(--ink,#23201A);background:var(--panel,#F5F1E6);border-radius:8px;padding:9px 16px;position:relative;">
       <img src="assets/irt-logo.png" alt="" width="32" height="32" style="flex:none;object-fit:contain;">
       <div style="font:800 22px/1 'Saira Condensed',sans-serif;letter-spacing:.05em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</div>
       <sc-if value="{{ hasId }}"><span style="flex:none;font:700 14px/1 'Saira Condensed',sans-serif;letter-spacing:.12em;text-transform:uppercase;color:var(--accent,#0C3A54);">{{ idnamn }}</span></sc-if>
@@ -355,7 +388,7 @@
         <span style="font:400 9px/1 'Courier Prime',monospace;color:rgba(255,255,255,.85);">konstrueras med spelledaren</span>
       </div>
       <div style="padding:11px 12px;display:flex;flex-direction:column;gap:9px;flex:1;min-height:0;">
-        <div style="flex:none;display:flex;gap:10px;height:120px;">
+        <div class="row2" style="flex:none;display:flex;gap:10px;height:120px;">
           <div style="flex:1;display:flex;flex-direction:column;gap:2px;min-height:0;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Övergripande beskrivning</span><textarea data-field="kraft_desc" onInput="{{ onField }}" defaultValue="{{ f.kraft_desc }}" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:6px;font-size:12px;"></textarea></div>
           <div style="flex:1;display:flex;flex-direction:column;gap:2px;min-height:0;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Aktiverat trauma — manifestation</span><textarea data-field="kraft_trauma" onInput="{{ onField }}" defaultValue="{{ f.kraft_trauma }}" placeholder="Hur yttrar sig kraften när traumat aktiveras?" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:6px;font-size:12px;"></textarea></div>
         </div>
