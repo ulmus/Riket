@@ -276,6 +276,8 @@ Scenens Momentum är **3** (storyn rör sig snabbt), så varje rollperson börja
 
 **Tålighet** (där den får betydelse): Radar 5, Volkov 7, var gränsvakt 3.
 
+Radar går in i scenen med **Stabilitet 2** — sänkt efter tidigare påfrestningar — medan de andra har de vanliga 3. *(Stabilitet kan sjunka av permanent trauma; se [[Trauma, chock och stress#Stabilitet]].)*
+
 ### Innan första rundan: Chock
 
 Tjuren är stridstränad (Expertis: Officer) och behöver inte slå för eldstridens inledande chock. Radar och Silke gör det (*Strid + Vilja*, **Chockfaktor 1**):
@@ -330,7 +332,7 @@ Turordningen blir Radar → Volkov → Tjuren → Gränsvakt A → Gränsvakt B 
 
 Den kritiska träffen blir grov. Modifierare: +1 för den extra 12:an, +2 för att karbinen är **Penetrerande** → totalt +3. 1T12 ger 9, +3 = **12** på Skjutvapen-tabellen: ***Artärträff***. Radar får **Kraftig blödning** och blir **Akut döende**; överlever han väntar **Permanent: −1 Fysik**.
 
-Radar tar 1 Stress för KP-skadan och 1 för att bli Sårad — hans Stress når nu **3**, lika med hans **Stabilitet**. Han passerar därmed en **sammanbrottsgräns** och slår på Sammanbrottstabellen: 1T12 ger **4** — *"Du klarar av det — den här gången."* Ett par steg högre och hans trauma hade aktiverats mitt i elden.
+Radar tar 1 Stress för KP-skadan och 1 för att bli Sårad — hans Stress stiger från 1 till **3**, *mer* än hans **Stabilitet 2**. Han passerar därmed sin första **sammanbrottsgräns** (1 × Stabilitet) och slår på Sammanbrottstabellen: 1T12 ger **4** — *"Du klarar av det — den här gången."* *(Sammanbrott utlöses först när Stressen passerar en multipel av Stabiliteten — hade Radar haft Stabilitet 3 hade 3 Stress ännu inte räckt.)* Ett par steg högre på slaget och hans trauma hade aktiverats mitt i elden.
 
 **Tjuren** ser sin kamrat falla i en blodpöl. *(Att se en allierad gå ner i strid kräver Chock — "någon dör i strid", **Chockfaktor 2**, sänkt till 1 av att Tjuren är stridstränad men höjt igen till 2 eftersom synen tangerar hans **trauma**: han överlevde en gång en pluton som dog omkring honom.)* Tjuren slår *Strid + Vilja* 11, 10, 10, 9, 7, 5, 2 → tre framgångar → **0 Stress**. Han håller — men traumat rör på sig. Han överger Volkov, rusar till Radar och bär honom (närmast utan ansträngning, med sin styrka) i skydd bakom stålpelaren intill Silke.
 
