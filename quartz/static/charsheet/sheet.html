@@ -94,7 +94,7 @@
   <sc-if value="{{ ready }}">
   <div class="screen-only toolbar" style="width:794px;max-width:100%;display:flex;align-items:center;justify-content:space-between;gap:16px;">
     <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:430px;">
-      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
+      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Logga in i <strong>Valvet</strong> (uppe till höger) för att spara flera rollpersoner på servern. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
     </div>
     <div class="toolbar-btns" style="display:flex;gap:8px;flex:none;">
       <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
@@ -717,5 +717,7 @@ class Component extends DCLogic {
   }
 }
 </script>
+<!-- Rollpersonsvalvet: optional server-side save/load (magic-link login). -->
+<script src="./vault.js"></script>
 </body>
 </html>

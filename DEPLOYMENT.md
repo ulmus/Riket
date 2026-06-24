@@ -55,6 +55,20 @@ The site previously deployed to GitHub Pages at `ulmus.github.io/Riket`. After
 Cloudflare is live you can set **Settings → Pages → Source** to _None_ in the
 GitHub repo to stop serving the stale copy.
 
+## Character vault (server-side saving)
+
+The character sheet has an optional server-side **vault** (passwordless login,
+save/edit/delete/restore). It adds a small [Pages Functions](https://developers.cloudflare.com/pages/functions/)
+API under `functions/` (deployed automatically with the site) backed by a
+[D1](https://developers.cloudflare.com/d1/) database — so this is no longer a
+pure-static site. Setup (D1 binding, `SESSION_SECRET`, Resend, Turnstile) is
+documented separately in **[CHARACTER-VAULT.md](CHARACTER-VAULT.md)**.
+
+> The `functions/` directory lives at the repo root and is picked up by Pages on
+> top of the Quartz build; the build command and `public/` output are unchanged.
+> Do **not** add a `wrangler.toml` — Pages would then ignore the dashboard
+> bindings and variables.
+
 ## Local preview
 
 ```sh
@@ -64,4 +78,6 @@ npx quartz build --serve
 ```
 
 Local preview serves at the root (`http://localhost:8080/`); `--serve` forces an
-empty base path, so navigation works the same as in production.
+empty base path, so navigation works the same as in production. Note that
+`--serve` does **not** run the vault Functions; see
+[CHARACTER-VAULT.md](CHARACTER-VAULT.md) for running them locally with Wrangler.
