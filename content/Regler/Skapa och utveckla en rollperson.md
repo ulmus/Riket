@@ -11,14 +11,14 @@ Vem är du? Eller, i alla fall, vem var du innan du blev antagen till Program Fr
 3. **Vad hände?** Ingen i Program Frigg visste att de skulle till Program Frigg. Vad hände som gjorde att du svarade på en anonym annons om försökspersoner i Svenska Dagbladet, eller räckte upp handen när din chef sa att någon hade hört av sig från Försvarsmakten om frivilliga. Koppla gärna till ditt trauma som du bestämmer senare.
 4. **Hur gick det?** Program Frigg har försökt locka fram krafter på många olika sätt genom åren. Elchocker, isbad och insulin-injektioner, sensoriska saltvattenbad eller provokativ psykoterapi. Vad gjordes med dig och hur gick det?
 5. **Hur länge har du varit i programmet?** Är du färsk från Dr Hedströms laboratorier eller har du varit med ett tag? Har du varit på flera uppdrag tidigare? Hur känner du inför T-kontoret och Program Frigg?
-6. **Vad gör du annars?** Alla agenter behöver en civil täckmantel. Ett jobb, en bostad, kanske har du familj. Vem är du när du inte är på uppdrag I Rikets Tjänst? 
-7. **Hur känner du de andra?** Den frågan är nog lättast att spara tills alla är färdiga med sina rollpersoner.
+6. **Vad gör du annars?** Alla Program Friggs agenter behöver en civil täckmantel. Ett jobb, en bostad, vänner, kanske en partner eller familj. Vem är du när du inte är på uppdrag i rikets tjänst? Hur förklarar du för din omgivning när du ibland försvinner i veckor och sedan kommer tillbaka med påsar under ögonen och armen i mitella.
+7. **Hur känner du de andra?** Den frågan är nog lättast att spara tills alla är färdiga med sina rollpersoner. Känner ni varandra alls?
 
 ## Regler
 
 När du har konceptet på plats så följer du nedanstående steg för att skapa din rollperson tillsammans med spelledaren.
 
-1. **Välj expertis:** Välj en expertis för din rollperson som ger den en grundläggande historia och motivation. Expertisen kan också ge vissa förmågor eller resurser.
+1. **Välj expertis:** Välj en expertis för din rollperson som ger den en grundläggande historia och motivation. Expertisen kan också ge vissa förmågor eller resurser. Se [[Expertiser]].
 2. **Välj trauma:** Försökspersonerna i I Rikets Tjänst har valts ut på grund av sina inre konflikter och trauman. Välj en traumakategori och beskriv den specifika händelsen som format din rollperson (se [[Trauma, chock och stress#Trauma]]).
     - **Förlust:** Någon eller något du älskade togs ifrån dig.
     - **Vanmakt:** Du var hjälplös när det gällde som mest.
@@ -38,8 +38,8 @@ När du har konceptet på plats så följer du nedanstående steg för att skapa
     - **Tålighet** = Fysik + Vilja. Detta avgör trösklarna för skadesteg.
     - **Förflyttning** = Fysik + Smidighet meter per runda.
     - **Stabilitet** = 3. Detta är hur mycket Stress du tål.
-5. **Välj förmågor:** Välj tre superförmågor och två vanliga förmågor.
-6. **Konstruera superkraft:** Tillsammans med spelledaren skapar du en unik kraft för din rollperson baserat på dess trauma och personlighet. Beskriv också hur krafterna manifesterar sig när traumat aktiveras (se [[Krafter#Aktiverat trauma]]).
+5. **Välj förmågor:** Välj två vanliga förmågor (se [[Förmågor]].
+6. **Konstruera upp till tre Extra-Normala Krafter:** Tillsammans med spelledaren skapar du upp till tre krafter med ett gemensamt tema för din rollperson baserat på dess trauma och personlighet. Beskriv också hur krafterna manifesterar sig när traumat aktiveras (se [[Krafter]]).
 7. **Bestäm resurser:** Beroende på din rollpersons expertis och bakgrund kan du ha tillgång till olika resurser som vapen, utrustning eller kontakter.
 
 ## Erfarenhetspoäng och utveckling
