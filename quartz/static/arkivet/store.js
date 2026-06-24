@@ -1011,7 +1011,8 @@
           pregenBlock +
           '<p class="irt-empty" style="margin:38px 2px 0;padding:16px 2px 0;border-top:1px solid #46443d;line-height:1.7;"><strong style="color:#cabf9f;">Integritet:</strong> ' +
           PRIVACY_HTML +
-          "</p>";
+          "</p>" +
+          '<p class="irt-empty" style="margin:12px 2px 0;font-size:11px;letter-spacing:.03em;">En tjänst av Exostra och Jens Alm.</p>';
       });
     });
   }
