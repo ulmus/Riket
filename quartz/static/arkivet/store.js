@@ -2,13 +2,13 @@
  *
  * Replaces the old single-slot + vault model with a small character LIBRARY
  * that has two backends:
- *   - local  : characters kept in this browser's localStorage (works offline,
- *              no login)
- *   - cloud  : characters kept in the vault (Cloudflare D1), available once
- *              logged in and reachable from any device
+ *   - local  : "Skrivbordet" — characters kept in this browser's localStorage
+ *              (works offline, no login)
+ *   - cloud  : "Arkivskåpet" — characters kept in the vault (Cloudflare D1),
+ *              available once logged in and reachable from any device
  *
  * The gallery page (index.html) browses the whole library (local + cloud +
- * trash + importable pre-gens). The sheet (sheet.html) edits ONE character and
+ * trash + importable pre-gens). The sheet (personalakt.html) edits ONE character and
  * autosaves back to wherever it came from: local saves are instant; cloud saves
  * are pushed automatically a short moment after you stop typing (last-save-wins,
  * with a rename-to-save prompt if the server copy moved on). Opening a character
@@ -23,6 +23,11 @@
   var BUFFER = "irt-rt1-v1"; // the sheet's live edit buffer (the component owns writes)
   var LOCAL = "irt-chars"; // { [id]: {id,name,data,updatedAt} } — local library
   var OPEN = "irt-open"; // { source:'local'|'cloud', id, version?, name } — what the sheet edits
+
+  // Privacy / data-use notice. Shown at the login (consent) point and as a
+  // footer on the archive page, so it stays discoverable after you're logged in.
+  var PRIVACY_HTML =
+    "Dina rollpersoner är dina: de på Skrivbordet lämnar aldrig din webbläsare, och de du lägger i Arkivskåpet läser varken vi eller någon annan — bara du, och de du själv väljer att dela med, kommer åt dem (om vi inte tvingas lämna ut dem av brottsbekämpande myndighet). Din e-postadress används bara för systemutskick och e-post som rör rollspelet I Rikets Tjänst eller den här sidan; den säljs aldrig vidare och används aldrig till något annat.";
 
   // ---- tiny helpers --------------------------------------------------------
 
@@ -396,11 +401,14 @@
         "</div>"
       : '<div class="bd">' +
         (loginState.notice ? '<div class="irt-msg ' + loginState.notice.kind + '">' + esc(loginState.notice.text) + "</div>" : "") +
-        "<p>Logga in för att spara dina rollpersoner i molnet och nå dem från vilken enhet som helst — inget lösenord behövs.</p>" +
+        "<p>Logga in för att lägga dina rollpersoner i Arkivskåpet (på servern) och nå dem från vilken enhet som helst — inget lösenord behövs.</p>" +
         '<label for="irt-email">E-post</label>' +
         '<input id="irt-email" type="email" autocomplete="email" placeholder="namn@exempel.se" />' +
         '<div id="irt-turnstile"></div>' +
         '<div style="margin-top:14px;"><button class="irt-btn" data-act="send" type="button">Skicka inloggningslänk</button></div>' +
+        '<p style="margin:16px 0 0;padding-top:13px;border-top:1px solid #d8cfb8;font-size:11px;line-height:1.6;color:#6f6858;"><strong>Integritet:</strong> ' +
+        PRIVACY_HTML +
+        "</p>" +
         "</div>";
     modal.innerHTML =
       '<div class="hd"><h2>Logga in</h2><button class="x" data-act="close" type="button" aria-label="Stäng">&times;</button></div>' +
@@ -504,7 +512,7 @@
       }
       writeBuffer(c.data);
       setOpen({ source: "local", id: id, name: c.name });
-      location.href = "sheet.html";
+      location.href = "personalakt";
     } else {
       getCloud(id).then(function (r) {
         if (!r.ok) {
@@ -513,7 +521,7 @@
         }
         writeBuffer(r.data.data);
         setOpen({ source: "cloud", id: r.data.id, version: r.data.version, name: r.data.name });
-        location.href = "sheet.html";
+        location.href = "personalakt";
       });
     }
   }
@@ -524,7 +532,7 @@
         if (r.ok) {
           writeBuffer({});
           setOpen({ source: "cloud", id: r.data.id, version: r.data.version, name: r.data.name });
-          location.href = "sheet.html";
+          location.href = "personalakt";
         } else if (r.status === 401) {
           openLogin();
         } else {
@@ -535,7 +543,7 @@
       var id = createLocal({});
       writeBuffer({});
       setOpen({ source: "local", id: id, name: "Namnlös rollperson" });
-      location.href = "sheet.html";
+      location.href = "personalakt";
     }
   }
 
@@ -550,14 +558,14 @@
         if (target === "cloud") {
           return createCloud(data, nameOf(data)).then(function (r) {
             if (r.ok) {
-              toast("«" + (name || nameOf(data)) + "» importerad till molnet.");
+              toast("«" + (name || nameOf(data)) + "» importerad till Arkivskåpet.");
               if (galleryEl) renderGallery();
             } else if (r.status === 401) openLogin();
             else toast((r.data && r.data.error) || "Kunde inte importera.");
           });
         }
         createLocal(data);
-        toast("«" + (name || nameOf(data)) + "» importerad lokalt.");
+        toast("«" + (name || nameOf(data)) + "» importerad till Skrivbordet.");
         if (galleryEl) renderGallery();
       })
       .catch(function () {
@@ -579,7 +587,7 @@
         if (o && o.source === "local" && o.id === localId) {
           setOpen({ source: "cloud", id: r.data.id, version: r.data.version, name: r.data.name });
         }
-        toast("Flyttad till molnet.");
+        toast("Flyttad till Arkivskåpet.");
         if (galleryEl) renderGallery();
       } else if (r.status === 401) {
         openLogin();
@@ -592,7 +600,7 @@
   function deleteCharacter(source, id, name) {
     var label = name ? "«" + name + "»" : "rollpersonen";
     if (source === "local") {
-      if (!confirm("Ta bort " + label + " från den här webbläsaren? Det går inte att ångra.")) return;
+      if (!confirm("Ta bort " + label + " från Skrivbordet (den här webbläsaren)? Det går inte att ångra.")) return;
       deleteLocal(id);
       if (galleryEl) renderGallery();
     } else {
@@ -647,7 +655,7 @@
       var c = getLocal(id);
       if (!c) return;
       createLocal(withCopySuffix(c.data));
-      toast("Kopia skapad lokalt.");
+      toast("Kopia skapad på Skrivbordet.");
       if (galleryEl) renderGallery();
     } else {
       getCloud(id).then(function (r) {
@@ -658,7 +666,7 @@
         var data = withCopySuffix(r.data.data);
         createCloud(data, nameOf(data)).then(function (res) {
           if (res.ok) {
-            toast("Kopia skapad i molnet.");
+            toast("Kopia skapad i Arkivskåpet.");
             if (galleryEl) renderGallery();
           } else if (res.status === 401) {
             openLogin();
@@ -780,7 +788,7 @@
   // A character in my own vault (local or cloud). Cloud cards get an assign
   // select listing my vault members.
   function ownCardHtml(c) {
-    var badge = '<span class="irt-badge ' + c.source + '">' + (c.source === "cloud" ? "Moln" : "Lokalt") + "</span>";
+    var badge = '<span class="irt-badge ' + c.source + '">' + (c.source === "cloud" ? "Arkivskåpet" : "Skrivbordet") + "</span>";
     var assign = "";
     if (c.source === "cloud") {
       var opts =
@@ -820,7 +828,7 @@
       esc(c.name) +
       '" type="button">Ta bort</button>' +
       (c.source === "local"
-        ? '<button class="irt-btn sm" data-act="move" data-id="' + esc(c.id) + '" type="button">Till molnet ☁</button>'
+        ? '<button class="irt-btn sm" data-act="move" data-id="' + esc(c.id) + '" type="button">Till Arkivskåpet 🗄</button>'
         : "");
     return (
       '<div class="irt-card" data-act="open" data-source="' +
@@ -900,7 +908,7 @@
       '" data-name="' +
       esc(p.namn || p.slug) +
       '" type="button">Importera ' +
-      (me && me.authenticated ? "☁" : "↓") +
+      (me && me.authenticated ? "🗄" : "↓") +
       "</button></div></div>"
     );
   }
@@ -969,8 +977,8 @@
         var authbar = loggedIn
           ? "<span>Inloggad som <strong>" +
             esc(me.email) +
-            '</strong> — molnrollpersoner synkas mellan dina enheter.</span><button class="irt-btn ghost sm" data-act="logout" type="button">Logga ut</button>'
-          : '<span>Dina rollpersoner sparas i den här webbläsaren. Logga in för att spara dem i molnet och dela dem.</span><button class="irt-btn sm" data-act="login" type="button">Logga in</button>';
+            '</strong> — rollpersoner i Arkivskåpet synkas mellan alla dina enheter.</span><button class="irt-btn ghost sm" data-act="logout" type="button">Logga ut</button>'
+          : '<span>Dina rollpersoner ligger på Skrivbordet — bara i den här webbläsaren. Logga in för att lägga dem i Arkivskåpet (på servern, nåbart från alla enheter) och dela dem.</span><button class="irt-btn sm" data-act="login" type="button">Logga in</button>';
 
         var newCard =
           '<button class="irt-card irt-newcard" data-act="new" type="button"><span class="plus">+</span><span class="lbl">Ny rollperson</span></button>';
@@ -1000,7 +1008,10 @@
           membersBlock +
           sharedBlock +
           trashBlock +
-          pregenBlock;
+          pregenBlock +
+          '<p class="irt-empty" style="margin:38px 2px 0;padding:16px 2px 0;border-top:1px solid #46443d;line-height:1.7;"><strong style="color:#cabf9f;">Integritet:</strong> ' +
+          PRIVACY_HTML +
+          "</p>";
       });
     });
   }
@@ -1037,7 +1048,7 @@
   }
 
   function removeMemberAction(id, email) {
-    if (!confirm("Ta bort " + (email ? "«" + email + "»" : "medlemmen") + " från ditt valv? Deras tilldelade rollpersoner blir otilldelade.")) return;
+    if (!confirm("Ta bort " + (email ? "«" + email + "»" : "medlemmen") + " från ditt Arkivskåp? Deras tilldelade rollpersoner blir otilldelade.")) return;
     removeMember(id).then(function (r) {
       if (r.ok) {
         toast("Medlem borttagen.");
@@ -1071,7 +1082,7 @@
           '<div id="irt-pregen-body"' +
           (pregenOpen ? "" : ' style="display:none;"') +
           '><p class="irt-empty">Importera en färdig rollperson till ' +
-          (loggedIn ? "molnet" : "din webbläsare") +
+          (loggedIn ? "Arkivskåpet" : "Skrivbordet") +
           " för att använda och anpassa den.</p>" +
           '<div class="irt-grid">' +
           pregens.map(pregenCardHtml).join("") +
@@ -1180,34 +1191,34 @@
     if (!ptr || ptr.source === "none") {
       html =
         '<div class="loc"><span class="dot none"></span>Inte sparad</div>' +
-        '<div class="state">Den här blanketten ligger bara i webbläsarens minne. Spara den i ditt bibliotek:</div>' +
-        '<div class="acts"><button class="irt-btn sm" data-act="save-local" type="button">Spara lokalt</button>' +
-        (loggedIn ? '<button class="irt-btn sm" data-act="save-cloud" type="button">Spara i molnet ☁</button>' : "") +
+        '<div class="state">Den här blanketten ligger bara i webbläsarens minne. Spara den i arkivet:</div>' +
+        '<div class="acts"><button class="irt-btn sm" data-act="save-local" type="button">Spara på Skrivbordet</button>' +
+        (loggedIn ? '<button class="irt-btn sm" data-act="save-cloud" type="button">Spara i Arkivskåpet 🗄</button>' : "") +
         "</div>";
     } else if (ptr.source === "local") {
       html =
-        '<div class="loc"><span class="dot local"></span>Lokalt · ' +
+        '<div class="loc"><span class="dot local"></span>Skrivbordet · ' +
         esc(ptr.name || "") +
         "</div>" +
-        '<div class="state">Sparas i den här webbläsaren.</div>' +
+        '<div class="state">Ligger på Skrivbordet — bara i den här webbläsaren.</div>' +
         (loggedIn
-          ? '<div class="acts"><button class="irt-btn sm" data-act="move" type="button">Flytta till molnet ☁</button></div>'
+          ? '<div class="acts"><button class="irt-btn sm" data-act="move" type="button">Flytta till Arkivskåpet 🗄</button></div>'
           : "");
     } else {
       var s =
         saveState === "saving"
-          ? '<span class="state">Sparar i molnet…</span>'
+          ? '<span class="state">Sparar i Arkivskåpet…</span>'
           : saveState === "conflict"
-            ? '<span class="state err">Ändrad i molnet sedan du öppnade den.</span>'
+            ? '<span class="state err">Ändrad i Arkivskåpet sedan du öppnade den.</span>'
             : saveState === "error"
               ? '<span class="state err">Kunde inte spara — försöker igen.</span>'
               : saveState === "auth"
                 ? '<span class="state err">Du har loggats ut.</span>'
                 : saveState === "gone"
                   ? '<span class="state err">Rollpersonen är inte längre tillgänglig.</span>'
-                  : '<span class="state">Sparad i molnet.</span>';
+                  : '<span class="state">Sparad i Arkivskåpet.</span>';
       html =
-        '<div class="loc"><span class="dot cloud"></span>Moln · ' +
+        '<div class="loc"><span class="dot cloud"></span>Arkivskåpet · ' +
         esc(ptr.name || "") +
         "</div><div>" +
         s +
@@ -1314,7 +1325,7 @@
     var buf = readBuffer();
     var suggestion = nameOf(buf) + " (kopia)";
     var name = window.prompt(
-      "Rollpersonen ändrades i molnet sedan du öppnade den. Spara din version som en NY rollperson med namnet:",
+      "Rollpersonen ändrades i Arkivskåpet sedan du öppnade den. Spara din version som en NY rollperson med namnet:",
       suggestion,
     );
     if (!name) return;
@@ -1345,7 +1356,7 @@
       var id = createLocal(buf);
       setOpen({ source: "local", id: id, name: nameOf(buf) });
       renderChip();
-      toast("Sparad lokalt.");
+      toast("Sparad på Skrivbordet.");
     } else {
       if (!(me && me.authenticated)) {
         openLogin();
@@ -1356,7 +1367,7 @@
           setOpen({ source: "cloud", id: r.data.id, version: r.data.version, name: r.data.name });
           saveState = "saved";
           renderChip();
-          toast("Sparad i molnet.");
+          toast("Sparad i Arkivskåpet.");
         } else if (r.status === 401) {
           openLogin();
         } else {
@@ -1380,7 +1391,7 @@
         setOpen({ source: "cloud", id: r.data.id, version: r.data.version, name: r.data.name });
         saveState = "saved";
         renderChip();
-        toast("Flyttad till molnet.");
+        toast("Flyttad till Arkivskåpet.");
       } else if (r.status === 401) {
         openLogin();
       } else {

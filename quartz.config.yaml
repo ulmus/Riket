@@ -25,7 +25,7 @@ configuration:
       body: Source Serif 4
       code: IBM Plex Mono
     colors:
-      # Palette derived from the character sheet (charsheet/sheet.html) and the
+      # Palette derived from the character sheet (arkivet/personalakt.html) and the
       # RT-1 personnel-file form. Light mode = the typed dossier on cool cream
       # paper: near-black ink, neutral-grey form rules, true-navy headings and
       # bold, with an antique-gold accent (the emblem's crown).

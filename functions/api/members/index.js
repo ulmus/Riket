@@ -59,7 +59,7 @@ export const onRequestPost = async ({ request, env }) => {
     .bind(tokenHash, email, now, now + TOKEN_TTL)
     .run();
   const origin = new URL(request.url).origin;
-  const link = `${origin}/api/auth/callback?token=${token}&next=${encodeURIComponent("/static/charsheet/index.html")}`;
+  const link = `${origin}/api/auth/callback?token=${token}&next=${encodeURIComponent("/static/arkivet/index.html")}`;
 
   try {
     await sendInvite(env, email, link, session.email);

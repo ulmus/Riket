@@ -62,8 +62,8 @@ Färdiga uppdrag och kampanjer. *Innehåller spoilers och är främst material f
 
 ## Verktyg
 
-- <a href="/static/charsheet/sheet.html" target="_blank" rel="noopener">Rollformulär</a> – Ifyllbart rollformulär att skriva ut eller fylla i digitalt.
-- <a href="/static/charsheet/" target="_blank" rel="noopener">Färdiga rollpersoner</a> – De sju förgenererade agenterna, redo att öppnas i rollformuläret.
+- <a href="/static/arkivet/personalakt" target="_blank" rel="noopener">Rollformulär</a> – Ifyllbart rollformulär att skriva ut eller fylla i digitalt.
+- <a href="/static/arkivet/" target="_blank" rel="noopener">Personalakts-arkivet</a> – Ditt arkiv över rollpersoner: spara dem på **Skrivbordet** (i den här webbläsaren) eller i **Arkivskåpet** (på servern, nåbart från alla dina enheter), och importera de färdiga agenterna.
 
 ## Licens
 

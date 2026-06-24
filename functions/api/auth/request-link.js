@@ -59,10 +59,10 @@ export const onRequestPost = async ({ request, env }) => {
 
   const origin = new URL(request.url).origin;
   // Carry the page the user logged in from, so the callback can return there
-  // (validated to a same-origin charsheet path; ignored otherwise).
+  // (validated to a same-origin arkivet path; ignored otherwise).
   const rawNext = typeof body.next === "string" ? body.next : "";
   const next =
-    rawNext.indexOf("//") === -1 && /^\/static\/charsheet\/[A-Za-z0-9._/-]*$/.test(rawNext) ? rawNext : "";
+    rawNext.indexOf("//") === -1 && /^\/static\/arkivet\/[A-Za-z0-9._/-]*$/.test(rawNext) ? rawNext : "";
   const link =
     `${origin}/api/auth/callback?token=${token}` + (next ? `&next=${encodeURIComponent(next)}` : "");
   try {

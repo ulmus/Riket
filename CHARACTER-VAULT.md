@@ -1,13 +1,18 @@
-# Rollpersoner — character library + cloud vault
+# Personalakts-arkivet — character library + cloud vault
 
-A character **library** with two storage backends, browsed from a gallery
-(`quartz/static/charsheet/index.html`) and edited one at a time in the sheet
-(`sheet.html`):
+A character **library** ("Personalakts-arkivet") with two storage backends,
+browsed from a gallery (`quartz/static/arkivet/index.html`, served at
+`/static/arkivet/`) and edited one at a time in the sheet — a *personalakt* —
+(`personalakt.html`, served at `/static/arkivet/personalakt`):
 
-- **local** — characters kept in this browser's `localStorage`. No login,
-  works offline.
-- **cloud** — characters kept in the vault (Cloudflare D1), available once you
-  log in (passwordless **magic link**) and reachable from any device.
+- **local** — "**Skrivbordet**": characters kept in this browser's
+  `localStorage`. No login, works offline.
+- **cloud** — "**Arkivskåpet**": characters kept in the vault (Cloudflare D1),
+  available once you log in (passwordless **magic link**) and reachable from any
+  device.
+
+(`local`/`cloud` stay the internal backend identifiers; **Skrivbordet** and
+**Arkivskåpet** are only the Swedish display names shown to players.)
 
 Logged out you see and edit your local characters and can import the pre-gens.
 Logged in you also see your cloud characters, and can move a local character to
@@ -64,8 +69,9 @@ site.
 | `functions/api/auth/*.js` | `request-link`, `callback` (honours `next`), `logout`, `me` |
 | `functions/api/characters/*.js` | List (with foto/expertis), create, get/save/delete, restore |
 | `functions/api/trash/index.js` | Trash listing + lazy purge |
-| `quartz/static/charsheet/store.js` | Storage layer (local+cloud), gallery, login, sheet autosave routing, photo upload |
-| `quartz/static/charsheet/index.html` | The library gallery page |
+| `quartz/static/arkivet/store.js` | Storage layer (local+cloud), gallery, login, sheet autosave routing, photo upload |
+| `quartz/static/arkivet/index.html` | The library gallery page |
+| `quartz/static/arkivet/personalakt.html` | The character sheet editor (served at `/static/arkivet/personalakt`) |
 
 ## Cloudflare setup
 
@@ -203,7 +209,7 @@ All routes are same-origin and use the session cookie. JSON in, JSON out.
 | Method & path | Body | Result |
 | --- | --- | --- |
 | `POST /api/auth/request-link` | `{email, turnstileToken?, next?}` | `{ok}` (always, if input valid) |
-| `GET /api/auth/callback?token=&next=` | — | 302 redirect to `next` (same-origin charsheet path), sets cookie |
+| `GET /api/auth/callback?token=&next=` | — | 302 redirect to `next` (same-origin arkivet path), sets cookie |
 | `POST /api/auth/logout` | — | clears cookie |
 | `GET /api/auth/me` | — | `{authenticated, email?}` |
 | `GET /api/config` | — | `{turnstileSiteKey}` |
