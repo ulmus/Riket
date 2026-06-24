@@ -14,7 +14,21 @@
 # Quartz build artifacts
 node_modules
 public
-.quartz/
+
+# Quartz plugins: ignore the working cache, but VENDOR the enabled plugins'
+# built output (.quartz/plugins/<name>/dist + package.json) and the generated
+# index.ts into the repo. Cloudflare then builds with just `npx quartz build`
+# and never re-clones/recompiles plugins on each deploy. Regenerate with
+# `npm run vendor:plugins`. See DEPLOYMENT.md → "Vendored plugins".
+.quartz/*
+!.quartz/plugins/
+.quartz/plugins/*
+!.quartz/plugins/index.ts
+!.quartz/plugins/*/
+.quartz/plugins/*/*
+!.quartz/plugins/*/dist/
+!.quartz/plugins/*/dist/**
+!.quartz/plugins/*/package.json
 .quartz-cache
 prof
 tsconfig.tsbuildinfo
