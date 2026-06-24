@@ -7,6 +7,10 @@
 # PDF build temp files (build-pdf*.sh)
 .tmp-*
 
+# Cloudflare Pages Functions local dev (character vault)
+.dev.vars
+.wrangler/
+
 # Quartz build artifacts
 node_modules
 public

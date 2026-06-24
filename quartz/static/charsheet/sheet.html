@@ -29,11 +29,23 @@
      — otherwise Safari spills onto an extra page and Chrome clips the bottom.
      The big text boxes are flex-sized, so they absorb the reduction. */
   .sheet { width: 794px; height: 1047px; overflow: hidden; }
+  /* Controls + sheets layout: stacked by default (controls above the sheets);
+     on wide screens the controls become a sticky left sidebar so the full
+     viewport height is used for the sheet. */
+  .layout { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 26px; }
+  .controls-col { width: 794px; max-width: 100%; display: flex; flex-direction: column; gap: 16px; }
+  .sheets-col { display: flex; flex-direction: column; align-items: center; gap: 26px; min-width: 0; }
+  @media screen and (min-width: 1160px) {
+    .layout { flex-direction: row; align-items: flex-start; justify-content: center; gap: 28px; }
+    .controls-col { width: 290px; flex: none; position: sticky; top: 24px; max-height: calc(100vh - 48px); overflow: auto; }
+  }
   @page { size: A4; margin: 0; }
   @media print {
     html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     .backdrop { background: transparent !important; padding: 0 !important; gap: 0 !important; --paper: transparent !important; }
     .screen-only { display: none !important; }
+    /* The controls/vault sidebar is screen-only; flatten the layout wrappers. */
+    .layout, .sheets-col { display: block !important; }
     /* Use physical units in print so the box matches the page exactly (px↔mm
        rounding is what pushed the footer over the edge before). */
     .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 210mm !important; height: 277mm !important; break-inside: avoid; }
@@ -68,12 +80,16 @@
     /* Give the flex-sized text boxes a usable height once the page is no
        longer a fixed-height A4 column. */
     .sheet textarea { min-height: 90px !important; }
+    /* Masthead: hide the metadata column (Blankett/Klass/Reg.nr/Datum) and let
+       the wordmark wrap, so the title can't overlap the logo or photo. */
+    .mast-meta { display: none !important; }
+    .mast1 h1 { white-space: normal !important; font-size: 30px !important; }
   }
   @media screen and (max-width: 560px) {
     /* Two-column field/attribute grids collapse to one column on phones. */
     .grid-2 { grid-template-columns: 1fr !important; }
-    /* Keep the page-1 wordmark inside the narrowest screens. */
-    .mast1 h1 { font-size: 27px !important; }
+    /* Shrink the page-1 wordmark further on the narrowest screens. */
+    .mast1 h1 { font-size: 24px !important; }
   }
 </style>
 </helmet>
@@ -92,18 +108,24 @@
   </sc-if>
 
   <sc-if value="{{ ready }}">
-  <div class="screen-only toolbar" style="width:794px;max-width:100%;display:flex;align-items:center;justify-content:space-between;gap:16px;">
-    <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:430px;">
-      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
+  <div class="layout">
+  <aside class="controls-col screen-only">
+  <div class="toolbar" style="width:100%;display:flex;flex-direction:column;align-items:stretch;gap:12px;">
+    <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;">
+      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Logga in i <strong>Valvet</strong> för att spara flera rollpersoner på servern. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
     </div>
-    <div class="toolbar-btns" style="display:flex;gap:8px;flex:none;">
-      <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
+    <div class="toolbar-btns" style="display:flex;gap:8px;flex-wrap:wrap;">
+      <button onClick="{{ onValv }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Bibliotek</button>
+      <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
       <button onClick="{{ onExport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Exportera</button>
       <button onClick="{{ onImport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Importera</button>
       <button onClick="{{ onReset }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Rensa</button>
     </div>
   </div>
+  <div id="irt-sheet-status"></div>
+  </aside>
 
+  <div class="sheets-col">
   <!-- ============================ SIDA 1 — personalia, egenskaper & strid ============================ -->
   <section class="sheet" data-screen-label="Sida 1 — personalia, egenskaper &amp; strid" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
 
@@ -115,15 +137,15 @@
         <h1 style="margin:0;font:800 37px/0.92 'Saira Condensed',sans-serif;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</h1>
         <div style="font:400 11px/1.2 'Courier Prime',monospace;letter-spacing:.04em;color:var(--ink-soft,#8A8268);">Personalakt</div>
       </div>
-      <div style="flex:none;width:146px;border-left:1px solid var(--rule,#C7BEA6);padding-left:10px;display:flex;flex-direction:column;justify-content:center;gap:3px;">
+      <div class="mast-meta" style="flex:none;width:146px;border-left:1px solid var(--rule,#C7BEA6);padding-left:10px;display:flex;flex-direction:column;justify-content:center;gap:3px;">
         <div style="display:flex;justify-content:space-between;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>BLANKETT</span><span style="color:var(--ink,#23201A);font-weight:700;">RT‑1</span></div>
         <div style="display:flex;justify-content:space-between;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>KLASS</span><span style="color:var(--ink,#23201A);">Rikets säkerhet</span></div>
         <label style="display:flex;align-items:baseline;gap:6px;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>REG.NR</span><input data-field="regnr" onInput="{{ onField }}" defaultValue="{{ f.regnr }}" style="border-bottom:1px solid var(--rule,#C7BEA6);font-size:11px;padding:0 2px 2px;"></label>
         <label style="display:flex;align-items:baseline;gap:6px;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>DATUM</span><input data-field="datum" onInput="{{ onField }}" defaultValue="{{ f.datum }}" style="border-bottom:1px solid var(--rule,#C7BEA6);font-size:11px;padding:0 2px 2px;"></label>
       </div>
-      <div onClick="{{ onFoto }}" title="Klicka för att klistra in en länk till ett foto" style="flex:none;width:62px;align-self:center;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;height:82px;border:1px dashed var(--rule,#C7BEA6);background:rgba(0,0,0,.02);border-radius:4px;overflow:hidden;position:relative;cursor:pointer;">
+      <div onClick="{{ onFoto }}" title="Klicka för att ladda upp ett foto" style="flex:none;width:62px;align-self:center;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;height:82px;border:1px dashed var(--rule,#C7BEA6);background:rgba(0,0,0,.02);border-radius:4px;overflow:hidden;position:relative;cursor:pointer;">
         <span style="font:600 7px/1.3 'Archivo';letter-spacing:.12em;text-transform:uppercase;color:var(--ink-soft,#8A8268);text-align:center;">Foto</span>
-        <sc-if value="{{ hasFoto }}"><img src="{{ fotoUrl }}" alt="Foto" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top;"></sc-if>
+        <sc-if value="{{ hasFoto }}"><img src="{{ fotoUrl }}" alt="Foto" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center top;"><button class="screen-only" onClick="{{ onFotoRemove }}" title="Ta bort foto" style="position:absolute;top:2px;right:2px;z-index:2;width:16px;height:16px;border:0;border-radius:50%;background:rgba(0,0,0,.55);color:#fff;font:700 10px/1 'Archivo';cursor:pointer;padding:0;">&times;</button></sc-if>
       </div>
     </header>
 
@@ -412,6 +434,8 @@
       <span>BLANKETT RT‑1 (1961)</span><span>PROGRAM FRIGG — T-KONTORET</span><span>SIDA 3 AV 3</span>
     </div>
   </section>
+  </div>
+  </div>
   </sc-if>
 </div></x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:858,&quot;height&quot;:1180},&quot;accent&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Stämpelröd&quot;,&quot;Tjänsteblå&quot;,&quot;Bläcksvart&quot;],&quot;default&quot;:&quot;Tjänsteblå&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;paper&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Manila (varm)&quot;,&quot;Arkivgrå (kall)&quot;],&quot;default&quot;:&quot;Manila (varm)&quot;,&quot;tsType&quot;:&quot;string&quot;}}">
@@ -461,6 +485,8 @@ class Component extends DCLogic {
 
   persist(){
     try { localStorage.setItem('irt-rt1-v1', JSON.stringify(this.serialize())); } catch(e) {}
+    // Route the just-saved buffer to its home (local library entry or the cloud).
+    try { if (window.IRTStore && window.IRTStore._afterPersist) window.IRTStore._afterPersist(); } catch(e) {}
   }
 
   hasSavedContent(saved){
@@ -504,7 +530,7 @@ class Component extends DCLogic {
         }
         const save = this.hydrate(data);
         save.fields = (data.fields && typeof data.fields === 'object' && !Array.isArray(data.fields)) ? data.fields : {};
-        try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); } catch(e) {}
+        try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); localStorage.removeItem('irt-open'); } catch(e) {}
         location.replace(location.pathname); // reload without the query so the inputs adopt the new values
       })
       .catch(err => this.loadFailed(err && err.message ? err.message : 'Okänt fel.'));
@@ -672,12 +698,28 @@ class Component extends DCLogic {
       f: this.fields,
       onField: (e) => { const k = e.target.dataset.field; if(!k) return; this.fields[k] = e.target.value; this.persist(); if (k === 'kodnamn' || k === 'namn') this.setState({}); },
       onFoto: () => {
-        const cur = (this.fields.foto || '').trim();
-        const v = window.prompt('Klistra in en länk (URL) till ett foto. Lämna tomt för att ta bort.', cur);
+        if (window.IRTStore && window.IRTStore.pickPhoto) {
+          window.IRTStore.pickPhoto().then((dataUri) => {
+            if (!dataUri) return; // cancelled or failed
+            this.fields.foto = dataUri;
+            this.setState({}, () => this.persist());
+          });
+          return;
+        }
+        // Fallback if the store isn't loaded: accept a URL.
+        const v = window.prompt('Klistra in en länk (URL) till ett foto.', (this.fields.foto || '').trim());
         if (v === null) return;
         this.fields.foto = v.trim();
         this.setState({}, () => this.persist());
       },
+      onFotoRemove: (e) => {
+        if (e && e.stopPropagation) e.stopPropagation();
+        if (!(this.fields.foto || '')) return;
+        if (!window.confirm('Ta bort fotot?')) return;
+        this.fields.foto = '';
+        this.setState({}, () => this.persist());
+      },
+      onValv: () => { window.location.href = 'index.html'; },
       onPrint: () => window.print(),
       onExport: () => {
         let json;
@@ -705,17 +747,19 @@ class Component extends DCLogic {
             if (!window.confirm('Ersätt nuvarande blankett med den importerade rollpersonen?')) return;
             const save = this.hydrate(data);
             save.fields = (data.fields && typeof data.fields === 'object' && !Array.isArray(data.fields)) ? data.fields : {};
-            try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); } catch(e) {}
+            try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); localStorage.removeItem('irt-open'); } catch(e) {}
             window.location.reload();
           };
           reader.readAsText(file);
         };
         input.click();
       },
-      onReset: () => { if (!window.confirm('Rensa hela blanketten? Detta går inte att ångra.')) return; try { localStorage.removeItem('irt-rt1-v1'); } catch(e) {} window.location.reload(); },
+      onReset: () => { if (!window.confirm('Rensa hela blanketten? Detta går inte att ångra.')) return; try { localStorage.removeItem('irt-rt1-v1'); localStorage.removeItem('irt-open'); } catch(e) {} window.location.reload(); },
     };
   }
 }
 </script>
+<!-- Character library: local + cloud storage, autosave routing, magic-link login. -->
+<script src="./store.js"></script>
 </body>
 </html>

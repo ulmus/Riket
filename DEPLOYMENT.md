@@ -99,6 +99,20 @@ clones + builds them, strips `node_modules`/`.git`, and leaves only what the
 build needs. To bump a plugin to its latest commit, run
 `npx quartz plugin install --latest <name>` first, then re-vendor.
 
+## Character vault and sharing (server-side)
+
+The character library has an optional server-side **vault** (passwordless login,
+cloud storage, sharing). It adds a small [Pages Functions](https://developers.cloudflare.com/pages/functions/)
+API under `functions/` (deployed automatically with the site) backed by a
+[D1](https://developers.cloudflare.com/d1/) database — so this is no longer a
+pure-static site. Setup (D1 binding, `SESSION_SECRET`, Resend, Turnstile, and the
+schema migrations) is documented separately in **[CHARACTER-VAULT.md](CHARACTER-VAULT.md)**.
+
+> The `functions/` directory lives at the repo root and is picked up by Pages on
+> top of the Quartz build; the build command and `public/` output are unchanged.
+> Do **not** add a `wrangler.toml` — Pages would then ignore the dashboard
+> bindings and variables.
+
 ## Local preview
 
 A fresh clone already contains the built plugins, so no install step is needed:
@@ -111,4 +125,6 @@ npx quartz build --serve
 Local preview serves at the root (`http://localhost:8080/`); `--serve` forces an
 empty base path, so navigation works the same as in production. (If you change
 which plugins are enabled, run `npm run vendor:plugins` to refresh
-`.quartz/plugins` before previewing.)
+`.quartz/plugins` before previewing.) Note that `--serve` does **not** run the
+vault Functions; see [CHARACTER-VAULT.md](CHARACTER-VAULT.md) for running them
+locally with Wrangler.
