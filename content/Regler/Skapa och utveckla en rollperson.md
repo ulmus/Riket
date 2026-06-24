@@ -1,6 +1,7 @@
 # Skapa och utveckla en rollperson
 
 För att skapa en rollperson i I Rikets Tjänst följer du dessa steg börjar du med vilket koncept du vill göra och sen arbetar du med systemet och spelledaren för att skapa en karaktär med det konceptet.
+
 ## Koncept
 
 Vem är du? Eller, i alla fall, vem var du innan du blev antagen till Program Frigg? Här är en serie frågor som kan vägleda dig. Ingen av dem är obligatorisk, de är till för att hjälpa dig hitta din karaktär.
@@ -14,6 +15,7 @@ Vem är du? Eller, i alla fall, vem var du innan du blev antagen till Program Fr
 7. **Hur känner du de andra?** Den frågan är nog lättast att spara tills alla är färdiga med sina rollpersoner.
 
 ## Regler
+
 När du har konceptet på plats så följer du nedanstående steg för att skapa din rollperson tillsammans med spelledaren.
 
 1. **Välj expertis:** Välj en expertis för din rollperson som ger den en grundläggande historia och motivation. Expertisen kan också ge vissa förmågor eller resurser.
