@@ -271,6 +271,8 @@
       ".irt-authbar{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:6px 2px 4px;font:400 11px/1.5 'Courier Prime',monospace;color:#9b937f;}" +
       ".irt-bar{display:flex;align-items:baseline;justify-content:space-between;gap:16px;margin:26px 2px 14px;flex-wrap:wrap;}" +
       ".irt-bar h2{margin:0;font:700 14px/1 'Saira Condensed',sans-serif;letter-spacing:.16em;text-transform:uppercase;color:#cabf9f;}" +
+      ".irt-collapsible{cursor:pointer;user-select:none;}" +
+      ".irt-chev{font-size:12px;color:#8a8268;}" +
       ".irt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px;}" +
       ".irt-card{position:relative;text-align:left;color:#23201a;background:#f2f2ec;border:1px solid #c7bea6;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;cursor:pointer;padding:0;font:inherit;transition:transform .12s,box-shadow .12s;}" +
       ".irt-card:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(0,0,0,.4);}" +
@@ -596,6 +598,45 @@
     });
   }
 
+  // Deep-clone a character's data and tag the display name as a copy.
+  function withCopySuffix(data) {
+    var clone = JSON.parse(JSON.stringify(data || {}));
+    var f = clone.fields || (clone.fields = {});
+    if (f.kodnamn) f.kodnamn = f.kodnamn + " (kopia)";
+    else if (f.namn) f.namn = f.namn + " (kopia)";
+    else f.kodnamn = "Kopia";
+    return clone;
+  }
+
+  // Duplicate a character into the same storage it lives in.
+  function copyCharacter(source, id) {
+    if (source === "local") {
+      var c = getLocal(id);
+      if (!c) return;
+      createLocal(withCopySuffix(c.data));
+      toast("Kopia skapad lokalt.");
+      if (galleryEl) renderGallery();
+    } else {
+      getCloud(id).then(function (r) {
+        if (!r.ok) {
+          toast((r.data && r.data.error) || "Kunde inte kopiera.");
+          return;
+        }
+        var data = withCopySuffix(r.data.data);
+        createCloud(data, nameOf(data)).then(function (res) {
+          if (res.ok) {
+            toast("Kopia skapad i molnet.");
+            if (galleryEl) renderGallery();
+          } else if (res.status === 401) {
+            openLogin();
+          } else {
+            toast((res.data && res.data.error) || "Kunde inte kopiera.");
+          }
+        });
+      });
+    }
+  }
+
   // ---- photo upload (crop + downsize to a portrait JPEG data URI) ----------
   // Photos are stored inline in the character JSON as a data: URI, so a
   // character stays a single self-contained file regardless of where it lives.
@@ -652,6 +693,7 @@
 
   var galleryEl = null;
   var pregenCache = null;
+  var trashOpen = false; // Papperskorg starts collapsed
 
   function loadPregens() {
     if (pregenCache) return Promise.resolve(pregenCache);
@@ -672,6 +714,11 @@
     var photo = c.foto ? " style=\"background-image:url('" + esc(c.foto) + "')\"" : "";
     var badge = '<span class="irt-badge ' + c.source + '">' + (c.source === "cloud" ? "Moln" : "Lokalt") + "</span>";
     var acts =
+      '<button class="irt-btn ghost sm" data-act="copy" data-source="' +
+      c.source +
+      '" data-id="' +
+      esc(c.id) +
+      '" type="button">Kopiera</button>' +
       '<button class="irt-btn ghost sm" data-act="delete" data-source="' +
       c.source +
       '" data-id="' +
@@ -769,7 +816,16 @@
         '<div class="irt-grid">' + newCard + mine.map(cardHtml).join("") + "</div>";
 
       var trashBlock = trash.length
-        ? '<div class="irt-bar"><h2>Papperskorg</h2></div><div class="irt-grid">' + trash.map(trashCardHtml).join("") + "</div>"
+        ? '<div class="irt-bar irt-collapsible" data-act="toggle-trash"><h2>Papperskorg (' +
+          trash.length +
+          ') <span class="irt-chev">' +
+          (trashOpen ? "▾" : "▸") +
+          "</span></h2></div>" +
+          '<div class="irt-grid" id="irt-trash-grid"' +
+          (trashOpen ? "" : ' style="display:none;"') +
+          ">" +
+          trash.map(trashCardHtml).join("") +
+          "</div>"
         : "";
 
       var pregenBlock = pregens.length
@@ -803,9 +859,16 @@
       else if (act === "delete")
         deleteCharacter(t.getAttribute("data-source"), t.getAttribute("data-id"), t.getAttribute("data-name"));
       else if (act === "move") moveToCloud(t.getAttribute("data-id"));
+      else if (act === "copy") copyCharacter(t.getAttribute("data-source"), t.getAttribute("data-id"));
       else if (act === "import") importPregen(t.getAttribute("data-slug"), t.getAttribute("data-name"));
       else if (act === "restore") restoreCharacter(t.getAttribute("data-id"));
-      else if (act === "login") openLogin();
+      else if (act === "toggle-trash") {
+        trashOpen = !trashOpen;
+        var grid = document.getElementById("irt-trash-grid");
+        if (grid) grid.style.display = trashOpen ? "" : "none";
+        var chev = t.querySelector(".irt-chev");
+        if (chev) chev.textContent = trashOpen ? "▾" : "▸";
+      } else if (act === "login") openLogin();
       else if (act === "logout")
         logout().then(function () {
           renderGallery();

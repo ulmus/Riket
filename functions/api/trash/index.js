@@ -20,9 +20,18 @@ export const onRequestGet = async ({ request, env }) => {
     .run();
 
   const { results } = await env.DB.prepare(
-    "SELECT id, name, version, deleted_at FROM characters WHERE user_id = ?1 AND deleted_at IS NOT NULL ORDER BY deleted_at DESC",
+    "SELECT id, name, data, version, deleted_at FROM characters WHERE user_id = ?1 AND deleted_at IS NOT NULL ORDER BY deleted_at DESC",
   )
     .bind(session.uid)
     .all();
-  return json({ characters: results || [], purgeAfterDays: PURGE_AFTER_DAYS });
+  const characters = (results || []).map((r) => {
+    let foto = "";
+    try {
+      foto = String(((JSON.parse(r.data) || {}).fields || {}).foto || "");
+    } catch {
+      /* ignore malformed rows */
+    }
+    return { id: r.id, name: r.name, version: r.version, deleted_at: r.deleted_at, foto };
+  });
+  return json({ characters, purgeAfterDays: PURGE_AFTER_DAYS });
 };
