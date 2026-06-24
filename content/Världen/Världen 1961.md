@@ -124,7 +124,7 @@ Det är ett kontantsamhälle. Lönen kommer i ett kuvert, räkningarna betalas p
 
 ### Jazz, schlager och de första popskivorna
 
-På Nalen och i radions önskeprogram lever jazzen och den svenska schlagern sida vid sida, och Melodifestivalen är en höjdpunkt på året. Men något nytt tränger in utifrån: Elvis, rock'n'roll och den nya dansen twist. De första popskivorna snurrar på skivspelaren.
+På Nalen och i radions önskeprogram lever jazzen och den svenska schlagern sida vid sida, och Melodifestivalen är en höjdpunkt på året. Men något nytt tränger in utifrån: Elvis, rock'n'roll och den nya dansen twist. De första popskivorna snurrar på skivspelaren. Bland ungdomen står valet ofta mellan idolerna — man var antingen Tommy Steele-anhängare eller höll på Elvis, och få höll på båda.
 
 ### Film, böcker och det som debatteras
 
