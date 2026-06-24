@@ -531,13 +531,16 @@
         var target = me && me.authenticated ? "cloud" : "local";
         if (target === "cloud") {
           return createCloud(data, nameOf(data)).then(function (r) {
-            if (r.ok) toast("«" + (name || nameOf(data)) + "» importerad till molnet.");
-            else if (r.status === 401) openLogin();
+            if (r.ok) {
+              toast("«" + (name || nameOf(data)) + "» importerad till molnet.");
+              if (galleryEl) renderGallery();
+            } else if (r.status === 401) openLogin();
             else toast((r.data && r.data.error) || "Kunde inte importera.");
           });
         }
         createLocal(data);
         toast("«" + (name || nameOf(data)) + "» importerad lokalt.");
+        if (galleryEl) renderGallery();
       })
       .catch(function () {
         toast("Kunde inte importera rollpersonen.");
