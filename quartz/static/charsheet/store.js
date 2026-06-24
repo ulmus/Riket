@@ -221,6 +221,12 @@
   function restoreCloud(id) {
     return api("/characters/" + encodeURIComponent(id) + "/restore", { method: "POST" });
   }
+  function purgeCloudTrash(id) {
+    return api("/trash/" + encodeURIComponent(id), { method: "DELETE" });
+  }
+  function emptyCloudTrash() {
+    return api("/trash", { method: "DELETE" });
+  }
 
   // ---- shared state --------------------------------------------------------
 
@@ -598,6 +604,24 @@
     });
   }
 
+  function purgeTrashItem(id, name) {
+    if (!confirm("Ta bort " + (name ? "«" + name + "»" : "rollpersonen") + " permanent? Det går inte att ångra.")) return;
+    purgeCloudTrash(id).then(function (r) {
+      if (r.ok) {
+        if (galleryEl) renderGallery();
+      } else toast((r.data && r.data.error) || "Kunde inte ta bort.");
+    });
+  }
+
+  function emptyTrash() {
+    if (!confirm("Töm papperskorgen permanent? Alla rollpersoner där raderas och kan inte återställas.")) return;
+    emptyCloudTrash().then(function (r) {
+      if (r.ok) {
+        if (galleryEl) renderGallery();
+      } else toast((r.data && r.data.error) || "Kunde inte tömma papperskorgen.");
+    });
+  }
+
   // Deep-clone a character's data and tag the display name as a copy.
   function withCopySuffix(data) {
     var clone = JSON.parse(JSON.stringify(data || {}));
@@ -764,7 +788,12 @@
       "</div></div>" +
       '<div class="irt-cardacts"><button class="irt-btn sm" data-act="restore" data-id="' +
       esc(c.id) +
-      '" type="button">Återställ</button></div></div>'
+      '" type="button">Återställ</button>' +
+      '<button class="irt-btn danger sm" data-act="purge" data-id="' +
+      esc(c.id) +
+      '" data-name="' +
+      esc(c.name) +
+      '" type="button">Ta bort permanent</button></div></div>'
     );
   }
 
@@ -820,7 +849,7 @@
           trash.length +
           ') <span class="irt-chev">' +
           (trashOpen ? "▾" : "▸") +
-          "</span></h2></div>" +
+          '</span></h2><button class="irt-btn danger sm" data-act="empty-trash" type="button">Töm papperskorgen</button></div>' +
           '<div class="irt-grid" id="irt-trash-grid"' +
           (trashOpen ? "" : ' style="display:none;"') +
           ">" +
@@ -862,6 +891,8 @@
       else if (act === "copy") copyCharacter(t.getAttribute("data-source"), t.getAttribute("data-id"));
       else if (act === "import") importPregen(t.getAttribute("data-slug"), t.getAttribute("data-name"));
       else if (act === "restore") restoreCharacter(t.getAttribute("data-id"));
+      else if (act === "purge") purgeTrashItem(t.getAttribute("data-id"), t.getAttribute("data-name"));
+      else if (act === "empty-trash") emptyTrash();
       else if (act === "toggle-trash") {
         trashOpen = !trashOpen;
         var grid = document.getElementById("irt-trash-grid");

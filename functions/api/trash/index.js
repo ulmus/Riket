@@ -35,3 +35,15 @@ export const onRequestGet = async ({ request, env }) => {
   });
   return json({ characters, purgeAfterDays: PURGE_AFTER_DAYS });
 };
+
+// DELETE /api/trash — permanently empty this user's trash.
+export const onRequestDelete = async ({ request, env }) => {
+  const session = await getSession(request, env);
+  if (!session) return error(401, "Inte inloggad.");
+  const res = await env.DB.prepare(
+    "DELETE FROM characters WHERE user_id = ?1 AND deleted_at IS NOT NULL",
+  )
+    .bind(session.uid)
+    .run();
+  return json({ ok: true, deleted: (res.meta && res.meta.changes) || 0 });
+};
