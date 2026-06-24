@@ -718,6 +718,7 @@
   var galleryEl = null;
   var pregenCache = null;
   var trashOpen = false; // Papperskorg starts collapsed
+  var pregenOpen = false; // Färdiga rollpersoner starts collapsed
 
   function loadPregens() {
     if (pregenCache) return Promise.resolve(pregenCache);
@@ -858,13 +859,19 @@
         : "";
 
       var pregenBlock = pregens.length
-        ? '<div class="irt-bar"><h2>Färdiga rollpersoner</h2></div>' +
-          '<p class="irt-empty">Importera en färdig rollperson till ' +
+        ? '<div class="irt-bar irt-collapsible" data-act="toggle-pregens"><h2>Färdiga rollpersoner (' +
+          pregens.length +
+          ') <span class="irt-chev">' +
+          (pregenOpen ? "▾" : "▸") +
+          "</span></h2></div>" +
+          '<div id="irt-pregen-body"' +
+          (pregenOpen ? "" : ' style="display:none;"') +
+          '><p class="irt-empty">Importera en färdig rollperson till ' +
           (loggedIn ? "molnet" : "din webbläsare") +
           " för att använda och anpassa den.</p>" +
           '<div class="irt-grid">' +
           pregens.map(pregenCardHtml).join("") +
-          "</div>"
+          "</div></div>"
         : "";
 
       galleryEl.innerHTML =
@@ -899,6 +906,12 @@
         if (grid) grid.style.display = trashOpen ? "" : "none";
         var chev = t.querySelector(".irt-chev");
         if (chev) chev.textContent = trashOpen ? "▾" : "▸";
+      } else if (act === "toggle-pregens") {
+        pregenOpen = !pregenOpen;
+        var pb = document.getElementById("irt-pregen-body");
+        if (pb) pb.style.display = pregenOpen ? "" : "none";
+        var pchev = t.querySelector(".irt-chev");
+        if (pchev) pchev.textContent = pregenOpen ? "▾" : "▸";
       } else if (act === "login") openLogin();
       else if (act === "logout")
         logout().then(function () {
