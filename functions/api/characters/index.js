@@ -10,11 +10,26 @@ export const onRequestGet = async ({ request, env }) => {
   if (!session) return error(401, "Inte inloggad.");
 
   const { results } = await env.DB.prepare(
-    "SELECT id, name, version, updated_at FROM characters WHERE user_id = ?1 AND deleted_at IS NULL ORDER BY updated_at DESC",
+    "SELECT id, name, data, version, updated_at FROM characters WHERE user_id = ?1 AND deleted_at IS NULL ORDER BY updated_at DESC",
   )
     .bind(session.uid)
     .all();
-  return json({ characters: results || [] });
+
+  // Return compact cards: pull foto/expertis out of each blob server-side so the
+  // gallery can render photos without downloading every full character.
+  const characters = (results || []).map((r) => {
+    let foto = "";
+    let expertis = "";
+    try {
+      const f = (JSON.parse(r.data) || {}).fields || {};
+      foto = String(f.foto || "");
+      expertis = String(f.expertis || "");
+    } catch {
+      /* ignore malformed rows */
+    }
+    return { id: r.id, name: r.name, version: r.version, updated_at: r.updated_at, foto, expertis };
+  });
+  return json({ characters });
 };
 
 export const onRequestPost = async ({ request, env }) => {

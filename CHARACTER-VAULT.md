@@ -1,36 +1,49 @@
-# Rollpersonsvalvet (Character Vault)
+# Rollpersoner — character library + cloud vault
 
-Optional server-side storage for the character sheet
-(`quartz/static/charsheet/sheet.html`). Players log in with a passwordless
-**magic link** and can save, edit, delete and restore characters from any
-device. The sheet works exactly as before without logging in — the vault is
-purely additive.
+A character **library** with two storage backends, browsed from a gallery
+(`quartz/static/charsheet/index.html`) and edited one at a time in the sheet
+(`sheet.html`):
 
-It runs entirely on Cloudflare, alongside the existing Pages site: a small
+- **local** — characters kept in this browser's `localStorage`. No login,
+  works offline.
+- **cloud** — characters kept in the vault (Cloudflare D1), available once you
+  log in (passwordless **magic link**) and reachable from any device.
+
+Logged out you see and edit your local characters and can import the pre-gens.
+Logged in you also see your cloud characters, and can move a local character to
+the cloud. Each character carries its origin, so opening one never overwrites
+another, and edits propagate back to wherever it came from.
+
+The cloud side runs entirely on Cloudflare alongside the Pages site: a small
 [Pages Functions](https://developers.cloudflare.com/pages/functions/) API under
-`/api/*` backed by a [D1](https://developers.cloudflare.com/d1/) database. There
-is no separate Worker or deploy pipeline — pushing to `main` deploys the
-Functions with the rest of the site.
+`/api/*` backed by a [D1](https://developers.cloudflare.com/d1/) database. No
+separate Worker or pipeline — pushing to `main` deploys the Functions with the
+site.
 
 ## How it works
 
-- **Auth:** passwordless. The user enters an email; the API stores a single-use,
-  15-minute token (only its SHA-256 hash) and emails a link via
-  [Resend](https://resend.com). Clicking it sets a signed, HttpOnly session
-  cookie. There are no passwords anywhere.
-- **Storage:** each character is the sheet's `serialize()` JSON blob plus
-  metadata (owner, name, version, timestamps). The frontend loads a character by
-  writing it to the sheet's localStorage slot and reloading — the same mechanism
-  as Import.
-- **Save (last-write-wins + rename-on-conflict):** every character carries a
-  `version`. A save sends the version it loaded; the API does a conditional
-  `UPDATE … WHERE version = ?`. If the server copy moved on since you loaded it,
-  the save returns **409** and the UI makes you save a **renamed copy** instead
-  of clobbering. Otherwise the last save wins.
-- **Trash bin:** delete is a soft delete (`deleted_at`); the Trash tab lists
-  deleted characters and can restore them. Items are purged ~30 days after
-  deletion (done lazily when the Trash is opened, since Pages Functions have no
-  cron).
+- **Auth:** passwordless. Enter an email; the API stores a single-use, 15-minute
+  token (only its SHA-256 hash) and emails a link via [Resend](https://resend.com).
+  Clicking it sets a signed, HttpOnly session cookie and returns you to the page
+  you logged in from. No passwords anywhere.
+- **A character is one self-contained JSON blob** (the sheet's `serialize()`
+  output) — including its photo, which is uploaded, auto-cropped to a portrait
+  and stored inline as a `data:` URI. That keeps a character portable across
+  local and cloud with no external files.
+- **Editing & autosave:** opening a character writes it to the sheet's working
+  buffer (`localStorage['irt-rt1-v1']`) and records its origin in `irt-open`.
+  On every edit the sheet autosaves the buffer, and `store.js` routes it: local
+  characters save instantly to the local library (`irt-chars`); cloud characters
+  push to the vault automatically ~1.5 s after you stop typing.
+- **Cloud save (last-write-wins + rename-on-conflict):** every cloud character
+  carries a `version`. A save sends the loaded version; the API does a
+  conditional `UPDATE … WHERE version = ?`. If the server copy moved on, the save
+  returns **409** and the sheet offers to save a **renamed copy** instead of
+  clobbering. Otherwise the last save wins.
+- **Trash bin:** deleting a cloud character is a soft delete (`deleted_at`); the
+  gallery shows a Trash section to restore from. Items are purged ~30 days after
+  deletion (lazily when the trash is listed, since Pages Functions have no cron).
+  Deleting a local character removes it immediately.
 
 ## Files
 
@@ -39,10 +52,11 @@ Functions with the rest of the site.
 | `db/schema.sql` | D1 tables (`users`, `magic_tokens`, `characters`) |
 | `functions/api/_lib/*.js` | Shared helpers (JSON, session cookie, hashing, email, Turnstile) |
 | `functions/api/config.js` | Public client config (Turnstile site key) |
-| `functions/api/auth/*.js` | `request-link`, `callback`, `logout`, `me` |
-| `functions/api/characters/*.js` | List/create, get/save/delete, restore |
+| `functions/api/auth/*.js` | `request-link`, `callback` (honours `next`), `logout`, `me` |
+| `functions/api/characters/*.js` | List (with foto/expertis), create, get/save/delete, restore |
 | `functions/api/trash/index.js` | Trash listing + lazy purge |
-| `quartz/static/charsheet/vault.js` | The vault UI injected into the sheet |
+| `quartz/static/charsheet/store.js` | Storage layer (local+cloud), gallery, login, sheet autosave routing, photo upload |
+| `quartz/static/charsheet/index.html` | The library gallery page |
 
 ## Cloudflare setup
 
@@ -168,12 +182,12 @@ All routes are same-origin and use the session cookie. JSON in, JSON out.
 
 | Method & path | Body | Result |
 | --- | --- | --- |
-| `POST /api/auth/request-link` | `{email, turnstileToken?}` | `{ok}` (always, if input valid) |
-| `GET /api/auth/callback?token=` | — | 302 redirect to the sheet, sets cookie |
+| `POST /api/auth/request-link` | `{email, turnstileToken?, next?}` | `{ok}` (always, if input valid) |
+| `GET /api/auth/callback?token=&next=` | — | 302 redirect to `next` (same-origin charsheet path), sets cookie |
 | `POST /api/auth/logout` | — | clears cookie |
 | `GET /api/auth/me` | — | `{authenticated, email?}` |
 | `GET /api/config` | — | `{turnstileSiteKey}` |
-| `GET /api/characters` | — | `{characters: [{id,name,version,updated_at}]}` |
+| `GET /api/characters` | — | `{characters: [{id,name,version,updated_at,foto,expertis}]}` |
 | `POST /api/characters` | `{name?, data}` | `{id,name,version}` (201) |
 | `GET /api/characters/:id` | — | `{id,name,version,updated_at,data}` |
 | `PUT /api/characters/:id` | `{name?, data, version}` | `{id,name,version}` or **409** `{serverVersion,serverName}` |

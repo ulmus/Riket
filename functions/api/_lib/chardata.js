@@ -1,6 +1,6 @@
 // Helpers for validating and naming the character snapshot the sheet sends.
 
-export const MAX_DATA_BYTES = 256 * 1024; // generous ceiling for one character
+export const MAX_DATA_BYTES = 1024 * 1024; // ceiling for one character (incl. an inline photo data: URI)
 
 /** The snapshot must be a plain object (the sheet's serialize() output). */
 export function validData(data) {
