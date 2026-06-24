@@ -8,15 +8,15 @@ Den här sidan är ett stämningsunderlag för dig som spelleder: hur året 1961
 
 ### Framtidstro och kalla kårar
 
-1961 är ett år med två ansikten. Det ena ser framåt: lönerna stiger för varje år, fler får telefon, bil och kylskåp, och morgondagen tycks med säkerhet bli bättre än gårdagen. Det andra ser sig oroligt omkring, där två stormakter med kärnvapen mäter krafter och en felräkning kan släcka allt. Människor lever mitt emellan — köper möbler på avbetalning och planerar semestern, samtidigt som de vet var närmaste skyddsrum ligger. Låt båda känslorna rymmas i samma scen.
+1961 är ett år med två ansikten. Det ena ser framåt: lönerna stiger för varje år, fler får telefon, bil och kylskåp, och morgondagen tycks med säkerhet bli bättre än gårdagen. Det andra ser sig oroligt omkring, där två stormakter med kärnvapen mäter krafter och en felräkning kan släcka allt. Människor lever mitt emellan — köper möbler på avbetalning och planerar semestern, samtidigt som de vet var närmaste skyddsrum ligger.
 
 ### Skuggan av bomben
 
-Kärnvapnet vilar över årtiondet som ett ljud man slutat lägga märke till men ändå känner. Hösten 1961 spränger Sovjetunionen den största bomb som någonsin detonerats, och tidningarna räknar i megaton. Civilförsvaret delar ut broschyrer, källare skyltas som skyddsrum, skolbarn får lära sig vad sirenen betyder. Ingen talar om det varje dag, men det finns där under ytan, och en enda nyhetsrubrik räcker för att kylan ska krypa tillbaka.
+Kärnvapnet vilar över årtiondet som ett ljud man slutat lägga märke till men ändå känner. Hösten 1961 spränger Sovjetunionen den största bomb som någonsin detonerats, och tidningarna räknar i megaton. Civilförsvaret delar ut broschyrer, källare skyltas som skyddsrum, skolbarn får lära sig vad sirenen betyder.
 
 ### Det stora bygget och den nya tekniken
 
-Sverige bygger. Gammalt rivs och nytt reser sig i betong och glas, och tilltron till ingenjörskonsten är nästan gränslös. Atomkraften ska ge billig energi — forskningsreaktorn under Kungliga Tekniska Högskolan är en stolthet — och i det fördolda undersöker landet om det också borde skaffa egna kärnvapen. Plast, nylon och nya material flyttar in i hemmen. Det moderna är inte bara en bekvämlighet, utan en framtidstro som går att ta på.
+Sverige bygger. Gammalt rivs och nytt reser sig i betong och glas, och tilltron till ingenjörskonsten är nästan gränslös. Atomkraften ska ge billig energi — forskningsreaktorn under Kungliga Tekniska Högskolan är en stolthet — och i det fördolda undersöker landet om det också borde skaffa egna kärnvapen. Plast, nylon och nya material flyttar in i hemmen.
 
 ## Den delade världen
 
@@ -30,7 +30,7 @@ Ingenstans är delningen så naken som i Berlin. I augusti 1961 reser sig muren 
 
 ### Kapprustning, rymd och prestige
 
-Kapprustningen handlar lika mycket om anseende som om vapen. I april 1961 blir Jurij Gagarin första människa i rymden, och väst vaknar förödmjukat. Varje raket, varje provsprängning, varje rekord är ett drag i ett spel om vems system som är överlägset. Prestige är i sig ett vapen — och bakom kulisserna pågår en kapprustning ingen talar högt om: den om övermänniskor.
+Kapprustningen handlar lika mycket om anseende som om vapen. I april 1961 blir Jurij Gagarin första människa i rymden, och väst vaknar förödmjukat. Varje raket, varje provsprängning, varje rekord är ett drag i ett spel om vems system som är överlägset. Prestige är i sig ett vapen — och bakom kulisserna pågår en kapprustning ingen talar högt om: den om de Extra-Normala Subjekten.
 
 ### De alliansfria och den tredje världen
 
@@ -38,7 +38,7 @@ Det kalla kriget utkämpas sällan där fronterna står. Det förs i avkoloniser
 
 ### Världens brännpunkter
 
-Några platser återkommer. Västberlin: ett grällt skyltfönster mitt i öst, dit man flyger in över muren. Östberlin och Moskva: bredare gator, färre skyltar, en tystnad som inte är lugn utan vaksamhet. Leningrad: hamnstaden med sin rödbetssoppa och sina minnen av belägringen. London, Paris och Washington, var och en med sin egen blandning av makt, vana och otålighet. Mer om ländernas hemliga program finns under [[Bakgrund]] och de enskilda landssidorna.
+Några platser återkommer. Västberlin: ett grällt skyltfönster mitt i öst, dit man flyger in över muren. Östberlin och Moskva: bredare gator, färre skyltar, en tystnad som inte är lugn utan vaksamhet. Leningrad: hamnstaden med sin rödbetssoppa och sina minnen av belägringen. Wien och Helsingfors: neutral mark där öst och väst möts mer öppet, Wien med sin underrättelsedoft sedan ockupationsåren och Helsingfors som lyssnarpost vid Sovjetunionens dörr. London, Paris och Washington, var och en med sin egen blandning av makt, vana och otålighet. Mer om ländernas hemliga program finns under [[Bakgrund]] och de enskilda landssidorna.
 
 ## Sverige
 
@@ -56,7 +56,7 @@ Det gamla Sverige rivs för att ge plats åt det nya. I städerna faller kvarter
 
 ### Det gamla Sverige som ännu dröjer sig kvar
 
-Men det moderna är ojämnt fördelat. På landet finns ännu utedass och vedspis, gummistövlar i leran och en kyrka man går till mest på högtiderna. Fattigdomen ligger nära i minnet; många minns trettiotalet och beredskapsåren. De äldre bär ett strängare Sverige med sig, där överheten lyddes och man inte gjorde väsen av sig. Mötet mellan det gamla och det nya kan vara en hel berättelse i sig.
+Men det moderna är ojämnt fördelat. På landet finns ännu utedass och vedspis, gummistövlar i leran och en kyrka man går till mest på högtiderna. Fattigdomen ligger nära i minnet; många minns trettiotalet och beredskapsåren. De äldre bär ett strängare Sverige med sig, där överheten lyddes och man inte gjorde väsen av sig.
 
 ### Lagom, lojalitet och det man inte talar om
 
@@ -66,7 +66,7 @@ Mycket sägs inte rakt ut. Man håller god min, undviker att sticka upp och lita
 
 ### Staden mitt i rivningen
 
-Stockholm är en byggarbetsplats. Klarakvarteren jämnas med marken, höghusen vid Hötorget skjuter i höjden, och mitt i alltihop ska en ny stadskärna med torg och trafikleder växa fram. Det dånar av sprängskott och grävskopor, dammet lägger sig på rutorna, och det gamla och det nya står sida vid sida i ett par år till. Staden river bort sin egen historia med gott samvete.
+Stockholm är en byggarbetsplats. Klarakvarteren jämnas med marken, höghusen vid Hötorget skjuter i höjden, och mitt i alltihop ska en ny stadskärna med torg och trafikleder växa fram. Det dånar av sprängskott och grävskopor, dammet lägger sig på rutorna, och det gamla och det nya står sida vid sida i ett par år till.
 
 ### Spårvagn, tunnelbana och de första bilköerna
 
@@ -124,7 +124,7 @@ Det är ett kontantsamhälle. Lönen kommer i ett kuvert, räkningarna betalas p
 
 ### Jazz, schlager och de första popskivorna
 
-På Nalen och i radions önskeprogram lever jazzen och den svenska schlagern sida vid sida, och Melodifestivalen är en höjdpunkt på året. Men något nytt tränger in utifrån: Elvis, rock'n'roll och den nya dansen twist får de unga att röra sig på ett sätt som oroar de äldre. De första popskivorna snurrar på skivspelaren.
+På Nalen och i radions önskeprogram lever jazzen och den svenska schlagern sida vid sida, och Melodifestivalen är en höjdpunkt på året. Men något nytt tränger in utifrån: Elvis, rock'n'roll och den nya dansen twist. De första popskivorna snurrar på skivspelaren.
 
 ### Film, böcker och det som debatteras
 
@@ -132,7 +132,7 @@ På biograferna går allt från amerikansk underhållning till Ingmar Bergmans t
 
 ### Ungdomen som börjar märkas
 
-Ungdomen blir för första gången en egen grupp, med egna pengar, egen musik och egna kläder. Raggarna kör amerikanska bilar i stan, de unga samlas kring jukeboxen, och en spricka mellan generationerna börjar visa sig. De vuxna ser det med oro; de unga ser en värld som äntligen är deras.
+Ungdomen blir för första gången en egen grupp, med egna pengar, egen musik och egna kläder. De stora barnkullarna från efterkrigsåren — de första som kallas "tonåringar" — växer upp med en självkänsla och en respektlöshet mot de äldres värld som oroar föräldrarna. Raggarna kör sina amerikanska bilar i stan, de unga samlas kring jukeboxen, och beatniks föraktar prydligheten. Rock'n'rollen är deras, inte föräldrarnas, och de tar avstånd från det gamla för att forma något eget.
 
 ### Tro, ideologi och tilltron till vetenskapen
 
@@ -160,8 +160,8 @@ Några namn kan strös in för att ankra tiden. Tage Erlander styr Sverige, Gust
 
 ### Året som kalender
 
-Året har sina hållpunkter. I april flyger Gagarin. I augusti reser sig Berlinmuren. I september störtar Hammarskjölds plan vid Ndola. I oktober skakar Tsarbomben världen. Och runt hörnet väntar det spelarna kanske anar men inte vet: Kubakrisen nästa höst, avslöjandet av Wennerström året därpå. Att låta dessa skuggor falla in i spelet ger det tyngd.
+Året har sina hållpunkter. I april flyger Gagarin. I augusti reser sig Berlinmuren. I september störtar Hammarskjölds plan vid Ndola. I oktober skakar Tsarbomben världen. Och runt hörnet väntar det spelarna kanske anar men inte vet: Kubakrisen nästa höst, avslöjandet av Wennerström året därpå.
 
 ### Tekniken och morgondagen
 
-Framtiden känns nära och ljus. Rymden ska erövras, atomen tämjas, datamaskinerna räkna åt oss. Jetplanet krymper världen, televisionen för den in i vardagsrummet, och nya mediciner — snart också p-pillret — lovar att förändra livet i grunden. År 1961 tror man uppriktigt att tekniken ska lösa det mesta. Den som vill fånga tiden bör ta den tilltron på allvar, inte raljera med den.
+Framtiden känns nära och ljus. Rymden ska erövras, atomen tämjas, datamaskinerna räkna åt oss. Jetplanet krymper världen, televisionen för den in i vardagsrummet, och nya mediciner — snart också p-pillret — lovar att förändra livet i grunden. År 1961 tror man uppriktigt att tekniken ska lösa det mesta.
