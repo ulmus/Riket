@@ -1,5 +1,5 @@
 ---
-draft: trues
+draft: true
 cssclasses:
   - irt-image-page
 ---
