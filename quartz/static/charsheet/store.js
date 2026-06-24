@@ -279,6 +279,15 @@
       ".irt-bar h2{margin:0;font:700 14px/1 'Saira Condensed',sans-serif;letter-spacing:.16em;text-transform:uppercase;color:#cabf9f;}" +
       ".irt-collapsible{cursor:pointer;user-select:none;}" +
       ".irt-chev{font-size:12px;color:#8a8268;}" +
+      ".irt-assign{display:flex;align-items:center;gap:6px;padding:0 11px 11px;font:600 9px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#8a8268;}" +
+      ".irt-assign select{flex:1;min-width:0;font:400 11px/1.3 'Courier Prime',monospace;color:#23201a;background:#fff;border:1px solid #c7bea6;border-radius:3px;padding:4px 5px;}" +
+      ".irt-members{list-style:none;margin:0 0 12px;padding:0;display:flex;flex-direction:column;gap:6px;}" +
+      ".irt-member{display:flex;align-items:center;gap:10px;background:#f5f1e6;border:1px solid #d8cfb8;border-radius:5px;padding:7px 10px;}" +
+      ".irt-member .me-email{flex:1;min-width:0;font:400 12px/1.3 'Courier Prime',monospace;color:#23201a;overflow:hidden;text-overflow:ellipsis;}" +
+      ".irt-member .me-pending{flex:none;font:600 9px/1 'Archivo';letter-spacing:.05em;text-transform:uppercase;color:#9b6a1f;background:#f3ead2;border:1px solid #ddc89a;border-radius:3px;padding:3px 6px;}" +
+      ".irt-inviterow{display:flex;gap:8px;flex-wrap:wrap;}" +
+      ".irt-inviterow input{flex:1;min-width:160px;font:400 13px/1.4 'Courier Prime',monospace;color:#23201a;background:#fff;border:1px solid #c7bea6;border-radius:3px;padding:8px 10px;outline:0;}" +
+      ".irt-inviterow input:focus{border-color:#0c3a54;}" +
       ".irt-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:16px;}" +
       ".irt-card{position:relative;text-align:left;color:#23201a;background:#f2f2ec;border:1px solid #c7bea6;border-radius:8px;overflow:hidden;display:flex;flex-direction:column;cursor:pointer;padding:0;font:inherit;transition:transform .12s,box-shadow .12s;}" +
       ".irt-card:hover{transform:translateY(-3px);box-shadow:0 12px 26px rgba(0,0,0,.4);}" +
@@ -719,6 +728,39 @@
   var pregenCache = null;
   var trashOpen = false; // Papperskorg starts collapsed
   var pregenOpen = false; // Färdiga rollpersoner starts collapsed
+  var membersOpen = false; // Medlemmar starts collapsed
+  var members = []; // members of my vault (for the assign selects)
+
+  function listMembers() {
+    return api("/members").then(function (r) {
+      return r.ok ? r.data.members || [] : [];
+    });
+  }
+  function inviteMember(email) {
+    return api("/members", { method: "POST", body: { email: email } });
+  }
+  function removeMember(id) {
+    return api("/members/" + encodeURIComponent(id), { method: "DELETE" });
+  }
+  function listVaults() {
+    return api("/vaults").then(function (r) {
+      return r.ok ? r.data.vaults || [] : [];
+    });
+  }
+  function listVaultChars(ownerId) {
+    return api("/characters?owner=" + encodeURIComponent(ownerId)).then(function (r) {
+      return r.ok ? r.data.characters || [] : [];
+    });
+  }
+  function assignReq(id, memberId) {
+    return api("/characters/" + encodeURIComponent(id) + "/assign", {
+      method: "PUT",
+      body: { memberId: memberId || null },
+    });
+  }
+  function photoStyle(foto) {
+    return foto ? " style=\"background-image:url('" + esc(foto) + "')\"" : "";
+  }
 
   function loadPregens() {
     if (pregenCache) return Promise.resolve(pregenCache);
@@ -735,9 +777,35 @@
       });
   }
 
-  function cardHtml(c) {
-    var photo = c.foto ? " style=\"background-image:url('" + esc(c.foto) + "')\"" : "";
+  // A character in my own vault (local or cloud). Cloud cards get an assign
+  // select listing my vault members.
+  function ownCardHtml(c) {
     var badge = '<span class="irt-badge ' + c.source + '">' + (c.source === "cloud" ? "Moln" : "Lokalt") + "</span>";
+    var assign = "";
+    if (c.source === "cloud") {
+      var opts =
+        '<option value="">Otilldelad</option>' +
+        members
+          .map(function (m) {
+            return (
+              '<option value="' +
+              esc(m.id) +
+              '"' +
+              (c.assignedTo === m.id ? " selected" : "") +
+              ">" +
+              esc(m.email) +
+              (m.confirmed ? "" : " (väntar)") +
+              "</option>"
+            );
+          })
+          .join("");
+      assign =
+        '<label class="irt-assign"><span>Tilldelad</span><select data-act="assign" data-id="' +
+        esc(c.id) +
+        '">' +
+        opts +
+        "</select></label>";
+    }
     var acts =
       '<button class="irt-btn ghost sm" data-act="copy" data-source="' +
       c.source +
@@ -762,7 +830,7 @@
       '">' +
       badge +
       '<div class="photo"' +
-      photo +
+      photoStyle(c.foto) +
       "></div>" +
       '<div class="meta"><div class="kn">' +
       esc(c.name) +
@@ -771,7 +839,24 @@
       "</div></div>" +
       '<div class="irt-cardacts">' +
       acts +
-      "</div></div>"
+      "</div>" +
+      assign +
+      "</div>"
+    );
+  }
+
+  // A character assigned to me in someone else's vault — open only.
+  function sharedCardHtml(c) {
+    return (
+      '<div class="irt-card" data-act="open" data-source="cloud" data-id="' +
+      esc(c.id) +
+      '"><span class="irt-badge cloud">Tilldelad</span><div class="photo"' +
+      photoStyle(c.foto) +
+      '></div><div class="meta"><div class="kn">' +
+      esc(c.name) +
+      '</div><div class="ex">' +
+      esc(c.expertis || "") +
+      "</div></div></div>"
     );
   }
 
@@ -820,32 +905,149 @@
     );
   }
 
+  function membersSectionHtml() {
+    var rows = members.length
+      ? '<ul class="irt-members">' +
+        members
+          .map(function (m) {
+            return (
+              '<li class="irt-member"><span class="me-email">' +
+              esc(m.email) +
+              "</span>" +
+              (m.confirmed ? "" : '<span class="me-pending">väntar på inloggning</span>') +
+              '<button class="irt-btn ghost sm" data-act="remove-member" data-id="' +
+              esc(m.id) +
+              '" data-name="' +
+              esc(m.email) +
+              '" type="button">Ta bort</button></li>'
+            );
+          })
+          .join("") +
+        "</ul>"
+      : '<div class="irt-empty">Inga medlemmar än. Bjud in någon för att dela rollpersoner med dem.</div>';
+    var form =
+      '<div class="irt-inviterow"><input id="irt-invite-email" type="email" placeholder="namn@exempel.se" autocomplete="off" /><button class="irt-btn sm" data-act="invite" type="button">Bjud in</button></div>';
+    return (
+      '<div class="irt-bar irt-collapsible" data-act="toggle-members"><h2>Medlemmar (' +
+      members.length +
+      ') <span class="irt-chev">' +
+      (membersOpen ? "▾" : "▸") +
+      '</span></h2></div><div id="irt-members-body"' +
+      (membersOpen ? "" : ' style="display:none;"') +
+      ">" +
+      rows +
+      form +
+      "</div>"
+    );
+  }
+
   function renderGallery() {
     var loggedIn = me && me.authenticated;
     var local = listLocal();
     var pCloud = loggedIn ? listCloud() : Promise.resolve([]);
     var pTrash = loggedIn ? listTrash() : Promise.resolve([]);
-    Promise.all([pCloud, pTrash, loadPregens()]).then(function (res) {
+    var pMembers = loggedIn ? listMembers() : Promise.resolve([]);
+    var pVaults = loggedIn ? listVaults() : Promise.resolve([]);
+    Promise.all([pCloud, pTrash, pMembers, pVaults, loadPregens()]).then(function (res) {
       var cloud = res[0],
         trash = res[1],
-        pregens = res[2];
+        pregens = res[4];
+      members = res[2];
+      var vaults = res[3];
       var mine = cloud.concat(local).sort(function (a, b) {
         return (b.updated_at || 0) - (a.updated_at || 0);
       });
 
-      var authbar = loggedIn
-        ? "<span>Inloggad som <strong>" +
-          esc(me.email) +
-          '</strong> — molnrollpersoner synkas mellan dina enheter.</span><button class="irt-btn ghost sm" data-act="logout" type="button">Logga ut</button>'
-        : '<span>Dina rollpersoner sparas i den här webbläsaren. Logga in för att spara dem i molnet också.</span><button class="irt-btn sm" data-act="login" type="button">Logga in</button>';
+      // Fetch the characters assigned to me in each vault I'm a member of.
+      Promise.all(
+        vaults.map(function (v) {
+          return listVaultChars(v.ownerId).then(function (chars) {
+            return { vault: v, chars: chars };
+          });
+        }),
+      ).then(function (shared) {
+        var authbar = loggedIn
+          ? "<span>Inloggad som <strong>" +
+            esc(me.email) +
+            '</strong> — molnrollpersoner synkas mellan dina enheter.</span><button class="irt-btn ghost sm" data-act="logout" type="button">Logga ut</button>'
+          : '<span>Dina rollpersoner sparas i den här webbläsaren. Logga in för att spara dem i molnet och dela dem.</span><button class="irt-btn sm" data-act="login" type="button">Logga in</button>';
 
-      var newCard =
-        '<button class="irt-card irt-newcard" data-act="new" type="button"><span class="plus">+</span><span class="lbl">Ny rollperson</span></button>';
+        var newCard =
+          '<button class="irt-card irt-newcard" data-act="new" type="button"><span class="plus">+</span><span class="lbl">Ny rollperson</span></button>';
 
-      var mineGrid =
-        '<div class="irt-grid">' + newCard + mine.map(cardHtml).join("") + "</div>";
+        var mineGrid = '<div class="irt-grid">' + newCard + mine.map(ownCardHtml).join("") + "</div>";
 
-      var trashBlock = trash.length
+        var membersBlock = loggedIn ? membersSectionHtml() : "";
+
+        var sharedBlock = shared
+          .map(function (s) {
+            var grid = s.chars.length
+              ? '<div class="irt-grid">' + s.chars.map(sharedCardHtml).join("") + "</div>"
+              : '<div class="irt-empty">Inga rollpersoner tilldelade dig här än.</div>';
+            return '<div class="irt-bar"><h2>Hos ' + esc(s.vault.ownerEmail) + "</h2></div>" + grid;
+          })
+          .join("");
+
+        var trashBlock = renderTrashBlock(trash);
+        var pregenBlock = renderPregenBlock(pregens, loggedIn);
+
+        galleryEl.innerHTML =
+          '<div class="irt-authbar">' +
+          authbar +
+          "</div>" +
+          '<div class="irt-bar"><h2>Mina rollpersoner</h2></div>' +
+          mineGrid +
+          membersBlock +
+          sharedBlock +
+          trashBlock +
+          pregenBlock;
+      });
+    });
+  }
+
+  function assignCharacter(id, memberId) {
+    assignReq(id, memberId).then(function (r) {
+      if (r.ok) {
+        toast(memberId ? "Tilldelad." : "Otilldelad.");
+        renderGallery();
+      } else if (r.status === 401) openLogin();
+      else toast((r.data && r.data.error) || "Kunde inte tilldela.");
+    });
+  }
+
+  function inviteMemberAction() {
+    var input = document.getElementById("irt-invite-email");
+    var email = input ? input.value.trim() : "";
+    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) {
+      toast("Ange en giltig e-postadress.");
+      return;
+    }
+    inviteMember(email).then(function (r) {
+      if (r.ok) {
+        toast("Inbjudan skickad till " + email + ".");
+        renderGallery();
+      } else if (r.status === 401) {
+        openLogin();
+      } else {
+        // 502 = member added but email failed; refresh so they still show up.
+        toast((r.data && r.data.error) || "Kunde inte bjuda in.");
+        renderGallery();
+      }
+    });
+  }
+
+  function removeMemberAction(id, email) {
+    if (!confirm("Ta bort " + (email ? "«" + email + "»" : "medlemmen") + " från ditt valv? Deras tilldelade rollpersoner blir otilldelade.")) return;
+    removeMember(id).then(function (r) {
+      if (r.ok) {
+        toast("Medlem borttagen.");
+        renderGallery();
+      } else toast((r.data && r.data.error) || "Kunde inte ta bort medlem.");
+    });
+  }
+
+  function renderTrashBlock(trash) {
+    return trash.length
         ? '<div class="irt-bar irt-collapsible" data-act="toggle-trash"><h2>Papperskorg (' +
           trash.length +
           ') <span class="irt-chev">' +
@@ -857,8 +1059,10 @@
           trash.map(trashCardHtml).join("") +
           "</div>"
         : "";
+  }
 
-      var pregenBlock = pregens.length
+  function renderPregenBlock(pregens, loggedIn) {
+    return pregens.length
         ? '<div class="irt-bar irt-collapsible" data-act="toggle-pregens"><h2>Färdiga rollpersoner (' +
           pregens.length +
           ') <span class="irt-chev">' +
@@ -873,23 +1077,19 @@
           pregens.map(pregenCardHtml).join("") +
           "</div></div>"
         : "";
-
-      galleryEl.innerHTML =
-        '<div class="irt-authbar">' +
-        authbar +
-        "</div>" +
-        '<div class="irt-bar"><h2>Mina rollpersoner</h2></div>' +
-        mineGrid +
-        trashBlock +
-        pregenBlock;
-    });
   }
 
   function wireGallery() {
+    // Assignment uses a <select>, handled on change (not click).
+    galleryEl.addEventListener("change", function (e) {
+      var t = e.target.closest && e.target.closest('[data-act="assign"]');
+      if (t && galleryEl.contains(t)) assignCharacter(t.getAttribute("data-id"), t.value);
+    });
     galleryEl.addEventListener("click", function (e) {
       var t = e.target.closest && e.target.closest("[data-act]");
       if (!t || !galleryEl.contains(t)) return;
       var act = t.getAttribute("data-act");
+      if (act === "assign") return; // handled on change
       if (act === "open") openCharacter(t.getAttribute("data-source"), t.getAttribute("data-id"));
       else if (act === "new") newCharacter(me && me.authenticated ? "cloud" : "local");
       else if (act === "delete")
@@ -900,6 +1100,8 @@
       else if (act === "restore") restoreCharacter(t.getAttribute("data-id"));
       else if (act === "purge") purgeTrashItem(t.getAttribute("data-id"), t.getAttribute("data-name"));
       else if (act === "empty-trash") emptyTrash();
+      else if (act === "invite") inviteMemberAction();
+      else if (act === "remove-member") removeMemberAction(t.getAttribute("data-id"), t.getAttribute("data-name"));
       else if (act === "toggle-trash") {
         trashOpen = !trashOpen;
         var grid = document.getElementById("irt-trash-grid");
@@ -912,6 +1114,12 @@
         if (pb) pb.style.display = pregenOpen ? "" : "none";
         var pchev = t.querySelector(".irt-chev");
         if (pchev) pchev.textContent = pregenOpen ? "▾" : "▸";
+      } else if (act === "toggle-members") {
+        membersOpen = !membersOpen;
+        var mb = document.getElementById("irt-members-body");
+        if (mb) mb.style.display = membersOpen ? "" : "none";
+        var mchev = t.querySelector(".irt-chev");
+        if (mchev) mchev.textContent = membersOpen ? "▾" : "▸";
       } else if (act === "login") openLogin();
       else if (act === "logout")
         logout().then(function () {
@@ -995,14 +1203,16 @@
               ? '<span class="state err">Kunde inte spara — försöker igen.</span>'
               : saveState === "auth"
                 ? '<span class="state err">Du har loggats ut.</span>'
-                : '<span class="state">Sparad i molnet.</span>';
+                : saveState === "gone"
+                  ? '<span class="state err">Rollpersonen är inte längre tillgänglig.</span>'
+                  : '<span class="state">Sparad i molnet.</span>';
       html =
         '<div class="loc"><span class="dot cloud"></span>Moln · ' +
         esc(ptr.name || "") +
         "</div><div>" +
         s +
         "</div>" +
-        (saveState === "conflict"
+        (saveState === "conflict" || saveState === "gone"
           ? '<div class="acts"><button class="irt-btn sm" data-act="resolve" type="button">Spara som ny kopia</button></div>'
           : saveState === "auth"
             ? '<div class="acts"><button class="irt-btn sm" data-act="login" type="button">Logga in igen</button></div>'
@@ -1073,6 +1283,10 @@
       } else if (r.status === 401) {
         saveState = "auth";
         me = { authenticated: false };
+        renderChip();
+      } else if (r.status === 404) {
+        // Gone or unassigned mid-edit — stop retrying (don't spam the server).
+        saveState = "gone";
         renderChip();
       } else {
         dirty = true; // retry on next edit / schedule

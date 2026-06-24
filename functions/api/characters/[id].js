@@ -1,6 +1,6 @@
-// GET    /api/characters/:id  — load one character (with its version)
-// PUT    /api/characters/:id  — save  { name?, data, version }  (optimistic)
-// DELETE /api/characters/:id  — move to trash (soft delete)
+// GET    /api/characters/:id  — load one character (owner or its assignee)
+// PUT    /api/characters/:id  — save  { name?, data, version }  (owner or assignee)
+// DELETE /api/characters/:id  — move to trash (soft delete; owner only)
 
 import { json, error, readJson, nowSec } from "../_lib/util.js";
 import { getSession } from "../_lib/auth.js";
@@ -11,7 +11,7 @@ export const onRequestGet = async ({ request, env, params }) => {
   if (!session) return error(401, "Inte inloggad.");
 
   const row = await env.DB.prepare(
-    "SELECT id, name, data, version, updated_at, deleted_at FROM characters WHERE id = ?1 AND user_id = ?2",
+    "SELECT id, name, data, version, updated_at, deleted_at FROM characters WHERE id = ?1 AND (user_id = ?2 OR assigned_to = ?2)",
   )
     .bind(params.id, session.uid)
     .first();
@@ -42,7 +42,7 @@ export const onRequestPut = async ({ request, env, params }) => {
 
   // Optimistic update: only succeeds if the row is still at baseVersion.
   const upd = await env.DB.prepare(
-    "UPDATE characters SET data = ?1, name = ?2, version = version + 1, updated_at = ?3 WHERE id = ?4 AND user_id = ?5 AND deleted_at IS NULL AND version = ?6",
+    "UPDATE characters SET data = ?1, name = ?2, version = version + 1, updated_at = ?3 WHERE id = ?4 AND (user_id = ?5 OR assigned_to = ?5) AND deleted_at IS NULL AND version = ?6",
   )
     .bind(dataStr, name, now, params.id, session.uid, baseVersion)
     .run();
@@ -54,7 +54,7 @@ export const onRequestPut = async ({ request, env, params }) => {
   // Nothing updated — figure out whether it's a conflict (newer version on the
   // server) or the row is simply gone/trashed.
   const row = await env.DB.prepare(
-    "SELECT version, name, deleted_at FROM characters WHERE id = ?1 AND user_id = ?2",
+    "SELECT version, name, deleted_at FROM characters WHERE id = ?1 AND (user_id = ?2 OR assigned_to = ?2)",
   )
     .bind(params.id, session.uid)
     .first();

@@ -41,9 +41,18 @@ site.
   returns **409** and the sheet offers to save a **renamed copy** instead of
   clobbering. Otherwise the last save wins.
 - **Trash bin:** deleting a cloud character is a soft delete (`deleted_at`); the
-  gallery shows a Trash section to restore from. Items are purged ~30 days after
-  deletion (lazily when the trash is listed, since Pages Functions have no cron).
-  Deleting a local character removes it immediately.
+  gallery shows a Trash section to restore from, delete single items permanently,
+  or empty it. Items are also purged ~30 days after deletion (lazily when the
+  trash is listed, since Pages Functions have no cron). Deleting a local
+  character removes it immediately.
+- **Sharing:** a vault owner can invite others by email (`vault_members`).
+  Inviting **creates a pending account** (`users.confirmed_at` NULL until their
+  first login) if needed and **emails an invitation/login link either way**. The
+  owner assigns characters to members (`characters.assigned_to`); a member sees
+  and edits **only** the characters assigned to them. The gallery shows a section
+  per vault you're in (your own + each you've been invited to). Access is
+  enforced server-side: read/edit require owner-or-assignee; delete, assign and
+  invite are owner-only.
 
 ## Files
 
@@ -81,6 +90,17 @@ Apply the schema once (you only need to do this a single time):
 npx wrangler login                 # once, in a browser
 npx wrangler d1 execute <DATABASE_NAME> --remote --file=./db/schema.sql
 ```
+
+**Migrations.** When new features add columns/tables, apply the numbered
+migration files in order (each is additive and safe to run once). For the
+sharing feature (members + character assignment):
+
+```sh
+npx wrangler d1 execute <DATABASE_NAME> --remote --file=./db/0002_sharing.sql
+```
+
+A brand-new database created from `db/schema.sql` already includes everything,
+so the migrations are only for databases created before a feature landed.
 
 `<DATABASE_NAME>` is the D1 database's name (not the `DB` binding name). You can
 instead paste `db/schema.sql` into the D1 **Console** in the dashboard.
@@ -187,10 +207,16 @@ All routes are same-origin and use the session cookie. JSON in, JSON out.
 | `POST /api/auth/logout` | — | clears cookie |
 | `GET /api/auth/me` | — | `{authenticated, email?}` |
 | `GET /api/config` | — | `{turnstileSiteKey}` |
-| `GET /api/characters` | — | `{characters: [{id,name,version,updated_at,foto,expertis}]}` |
-| `POST /api/characters` | `{name?, data}` | `{id,name,version}` (201) |
-| `GET /api/characters/:id` | — | `{id,name,version,updated_at,data}` |
-| `PUT /api/characters/:id` | `{name?, data, version}` | `{id,name,version}` or **409** `{serverVersion,serverName}` |
-| `DELETE /api/characters/:id` | — | `{ok}` (soft delete) |
+| `GET /api/characters` | — | my vault: `[{id,name,version,updated_at,foto,expertis,assignedTo,assigneeEmail}]` |
+| `GET /api/characters?owner=:id` | — | a vault I'm in: characters assigned to me there |
+| `POST /api/characters` | `{name?, data}` | `{id,name,version}` (201) — created in my vault |
+| `GET /api/characters/:id` | — | `{id,name,version,updated_at,data}` (owner or assignee) |
+| `PUT /api/characters/:id` | `{name?, data, version}` | `{id,name,version}` or **409** (owner or assignee) |
+| `PUT /api/characters/:id/assign` | `{memberId\|null}` | `{ok,assignedTo,assigneeEmail}` (owner only) |
+| `DELETE /api/characters/:id` | — | `{ok}` (soft delete; owner only) |
 | `POST /api/characters/:id/restore` | — | `{ok}` |
 | `GET /api/trash` | — | `{characters, purgeAfterDays}` |
+| `DELETE /api/trash/:id` · `DELETE /api/trash` | — | purge one / empty all |
+| `GET /api/members` · `POST /api/members` | `{email}` | list members / invite (creates pending user + emails link) |
+| `DELETE /api/members/:id` | — | remove member (and unassign their characters) |
+| `GET /api/vaults` | — | `{vaults: [{ownerId, ownerEmail}]}` — vaults I'm a member of |

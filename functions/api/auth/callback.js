@@ -50,14 +50,19 @@ export const onRequestGet = async ({ request, env }) => {
     .run();
   if (!claim.meta || claim.meta.changes !== 1) return fail("expired");
 
-  // Find or create the user.
+  // Find or create the user. Logging in confirms the email — set confirmed_at
+  // (it may have been NULL for a user created by an invite).
   let user = await env.DB.prepare("SELECT id, email FROM users WHERE email = ?1").bind(row.email).first();
   if (!user) {
     const id = crypto.randomUUID();
-    await env.DB.prepare("INSERT INTO users (id, email, created_at) VALUES (?1, ?2, ?3)")
+    await env.DB.prepare("INSERT INTO users (id, email, created_at, confirmed_at) VALUES (?1, ?2, ?3, ?3)")
       .bind(id, row.email, now)
       .run();
     user = { id, email: row.email };
+  } else {
+    await env.DB.prepare("UPDATE users SET confirmed_at = ?1 WHERE id = ?2 AND confirmed_at IS NULL")
+      .bind(now, user.id)
+      .run();
   }
 
   const cookieValue = await makeSessionCookie(env, user);

@@ -43,3 +43,42 @@ export async function sendMagicLink(env, email, link) {
     throw err;
   }
 }
+
+// Invitation to join someone's vault. `link` is a magic-link login URL.
+export async function sendInvite(env, email, link, inviterEmail) {
+  const from = env.MAIL_FROM || "I Rikets Tjänst <noreply@exostra.se>";
+  const subject = `${inviterEmail} har delat rollpersoner med dig`;
+
+  const text =
+    "Hej!\n\n" +
+    inviterEmail +
+    " har bjudit in dig till sitt rollpersonsvalv i I Rikets Tjänst och kan nu dela " +
+    "rollpersoner med dig. Klicka på länken för att logga in (inget lösenord behövs); " +
+    "länken gäller i 15 minuter.\n\n" +
+    link +
+    "\n\nDu kan också logga in när som helst med din e-post på " +
+    "https://riket.exostra.se/static/charsheet/\n\n— I Rikets Tjänst";
+
+  const html = `<!doctype html><html lang="sv"><body style="margin:0;background:#2b2a26;padding:32px 16px;font-family:Arial,Helvetica,sans-serif;color:#23201a;">
+  <div style="max-width:480px;margin:0 auto;background:#f5f1e6;border:1px solid #c7bea6;border-radius:8px;padding:28px 26px;">
+    <div style="font:700 12px/1 Arial;letter-spacing:.18em;text-transform:uppercase;color:#8a8268;">T-Kontoret · Program Frigg</div>
+    <h1 style="margin:6px 0 14px;font:700 22px/1.1 Arial;color:#23201a;">Du har bjudits in</h1>
+    <p style="margin:0 0 18px;font:400 14px/1.6 Arial;color:#3a362c;"><strong>${inviterEmail}</strong> har delat rollpersoner med dig. Logga in för att se och redigera dem — inget lösenord behövs.</p>
+    <p style="margin:0 0 22px;"><a href="${link}" style="display:inline-block;background:#0c3a54;color:#f3ecdb;text-decoration:none;font:700 13px/1 Arial;letter-spacing:.04em;text-transform:uppercase;padding:13px 22px;border-radius:4px;">Logga in</a></p>
+    <p style="margin:0 0 6px;font:400 12px/1.5 Arial;color:#8a8268;">Länken gäller i 15&nbsp;minuter. Du kan också logga in när som helst med din e-post:</p>
+    <p style="margin:0;font:400 12px/1.5 Arial;word-break:break-all;"><a href="https://riket.exostra.se/static/charsheet/" style="color:#0c3a54;">riket.exostra.se/static/charsheet/</a></p>
+  </div></body></html>`;
+
+  const res = await fetch("https://api.resend.com/emails", {
+    method: "POST",
+    headers: { Authorization: `Bearer ${env.RESEND_API_KEY}`, "Content-Type": "application/json" },
+    body: JSON.stringify({ from, to: [email], subject, html, text }),
+  });
+  if (!res.ok) {
+    const detail = await res.text().catch(() => "");
+    console.error(`Resend invite failed: HTTP ${res.status} — ${detail}`);
+    const err = new Error(`Resend HTTP ${res.status}`);
+    err.status = res.status;
+    throw err;
+  }
+}
