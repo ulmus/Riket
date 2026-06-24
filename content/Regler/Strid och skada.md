@@ -255,3 +255,5 @@ Så som svårigheterna fungerar i I Rikets Tjänst så har en tränad soldat god
 Om å andra sidan målet är helt ovetande om attacken, till exempel från en krypskytt eller ett överfall, så kan svårigheten istället bli Lätt och det blir alltså en automatisk träff där tärningarna bara rullas för att se om det blir extra Effekt.
 
 Se alltså till att röra dig, hålla dig i skydd och gärna överraska fienden. Och ge dig inte in i närstrid, för då försvinner de här chanserna och det är bara din förmåga att värja dig som räddar dig från attackerna.
+
+Slutligen, Stress och Sammanbrott är en integral del av strid. Alla som inte är stridstränade slår Chockslag i början av en strid. Dessutom tar alla stress när de blir skadade och slår Chockslag när de ser allierade dö, när de försöker skjuta tillbaka mot nedhållande eld, etc. 
