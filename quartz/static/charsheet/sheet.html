@@ -68,12 +68,16 @@
     /* Give the flex-sized text boxes a usable height once the page is no
        longer a fixed-height A4 column. */
     .sheet textarea { min-height: 90px !important; }
+    /* Masthead: hide the metadata column (Blankett/Klass/Reg.nr/Datum) and let
+       the wordmark wrap, so the title can't overlap the logo or photo. */
+    .mast-meta { display: none !important; }
+    .mast1 h1 { white-space: normal !important; font-size: 30px !important; }
   }
   @media screen and (max-width: 560px) {
     /* Two-column field/attribute grids collapse to one column on phones. */
     .grid-2 { grid-template-columns: 1fr !important; }
-    /* Keep the page-1 wordmark inside the narrowest screens. */
-    .mast1 h1 { font-size: 27px !important; }
+    /* Shrink the page-1 wordmark further on the narrowest screens. */
+    .mast1 h1 { font-size: 24px !important; }
   }
 </style>
 </helmet>
@@ -92,12 +96,13 @@
   </sc-if>
 
   <sc-if value="{{ ready }}">
-  <div class="screen-only toolbar" style="width:794px;max-width:100%;display:flex;align-items:center;justify-content:space-between;gap:16px;">
-    <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:430px;">
-      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Logga in i <strong>Valvet</strong> (uppe till höger) för att spara flera rollpersoner på servern. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
+  <div class="screen-only toolbar" style="width:794px;max-width:100%;display:flex;flex-direction:column;align-items:stretch;gap:12px;">
+    <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:560px;">
+      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Logga in i <strong>Valvet</strong> för att spara flera rollpersoner på servern. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
     </div>
-    <div class="toolbar-btns" style="display:flex;gap:8px;flex:none;">
-      <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
+    <div class="toolbar-btns" style="display:flex;gap:8px;flex-wrap:wrap;">
+      <button onClick="{{ onValv }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Valv</button>
+      <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
       <button onClick="{{ onExport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Exportera</button>
       <button onClick="{{ onImport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Importera</button>
       <button onClick="{{ onReset }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Rensa</button>
@@ -115,7 +120,7 @@
         <h1 style="margin:0;font:800 37px/0.92 'Saira Condensed',sans-serif;letter-spacing:.02em;text-transform:uppercase;white-space:nowrap;color:var(--ink,#23201A);">I Rikets Tjänst</h1>
         <div style="font:400 11px/1.2 'Courier Prime',monospace;letter-spacing:.04em;color:var(--ink-soft,#8A8268);">Personalakt</div>
       </div>
-      <div style="flex:none;width:146px;border-left:1px solid var(--rule,#C7BEA6);padding-left:10px;display:flex;flex-direction:column;justify-content:center;gap:3px;">
+      <div class="mast-meta" style="flex:none;width:146px;border-left:1px solid var(--rule,#C7BEA6);padding-left:10px;display:flex;flex-direction:column;justify-content:center;gap:3px;">
         <div style="display:flex;justify-content:space-between;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>BLANKETT</span><span style="color:var(--ink,#23201A);font-weight:700;">RT‑1</span></div>
         <div style="display:flex;justify-content:space-between;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>KLASS</span><span style="color:var(--ink,#23201A);">Rikets säkerhet</span></div>
         <label style="display:flex;align-items:baseline;gap:6px;font:400 9px/1.4 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);"><span>REG.NR</span><input data-field="regnr" onInput="{{ onField }}" defaultValue="{{ f.regnr }}" style="border-bottom:1px solid var(--rule,#C7BEA6);font-size:11px;padding:0 2px 2px;"></label>
@@ -678,6 +683,7 @@ class Component extends DCLogic {
         this.fields.foto = v.trim();
         this.setState({}, () => this.persist());
       },
+      onValv: () => { if (window.IRTVault && window.IRTVault.open) window.IRTVault.open(); },
       onPrint: () => window.print(),
       onExport: () => {
         let json;

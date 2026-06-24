@@ -131,13 +131,11 @@
 
   // ---- DOM scaffolding -----------------------------------------------------
 
-  var root, launcher, overlay, modal;
+  var root, overlay, modal;
 
   function injectStyles() {
     var css =
       "#irtv-root{font-family:'Archivo',sans-serif;}" +
-      "#irtv-launch{position:fixed;top:12px;right:14px;z-index:2147483000;font:600 11px/1 'Archivo',sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:#0c3a54;border:1px solid #0c3a54;padding:9px 13px;border-radius:3px;cursor:pointer;box-shadow:0 4px 14px rgba(0,0,0,.35);display:flex;align-items:center;gap:7px;}" +
-      "#irtv-launch .dot{width:7px;height:7px;border-radius:50%;background:#7fd18a;display:inline-block;}" +
       "#irtv-overlay{position:fixed;inset:0;z-index:2147483001;background:rgba(20,19,16,.66);display:flex;align-items:flex-start;justify-content:center;padding:34px 14px;overflow:auto;}" +
       "#irtv-modal{width:520px;max-width:100%;background:#f5f1e6;color:#23201a;border:1px solid #c7bea6;border-radius:8px;box-shadow:0 24px 60px rgba(0,0,0,.5);overflow:hidden;}" +
       "#irtv-modal .hd{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 18px;background:#dcd1b8;border-bottom:1px solid #c7bea6;}" +
@@ -169,6 +167,7 @@
       ".irtv-me{display:flex;align-items:center;justify-content:space-between;gap:10px;font:400 11px/1.4 'Courier Prime',monospace;color:#8a8268;margin:0 0 14px;}" +
       "#irtv-turnstile{margin:0 0 14px;min-height:0;}" +
       ".irtv-foot{font:400 10px/1.5 'Courier Prime',monospace;color:#9b937f;margin-top:14px;}" +
+      "@media (max-width:560px){#irtv-overlay{padding:14px 8px;}#irtv-modal{border-radius:6px;}#irtv-modal .bd{padding:14px;}.irtv-item{flex-wrap:wrap;}}" +
       "@media print{#irtv-root{display:none !important;}}";
     var style = document.createElement("style");
     style.id = "irtv-style";
@@ -179,11 +178,6 @@
   function build() {
     root = document.createElement("div");
     root.id = "irtv-root";
-
-    launcher = document.createElement("button");
-    launcher.id = "irtv-launch";
-    launcher.type = "button";
-    launcher.addEventListener("click", openModal);
 
     overlay = document.createElement("div");
     overlay.id = "irtv-overlay";
@@ -196,24 +190,18 @@
     modal.id = "irtv-modal";
     overlay.appendChild(modal);
 
-    root.appendChild(launcher);
     root.appendChild(overlay);
     document.body.appendChild(root);
 
     document.addEventListener("keydown", function (e) {
       if (e.key === "Escape" && state.open) closeModal();
     });
+
+    // The sheet's "Valv" toolbar button opens the vault via this global.
+    window.IRTVault = { open: openModal };
   }
 
   // ---- rendering -----------------------------------------------------------
-
-  function renderLauncher() {
-    var linked = getLink();
-    var loggedIn = state.me && state.me.authenticated;
-    launcher.innerHTML =
-      (loggedIn && linked ? '<span class="dot" title="Öppen rollperson är kopplad till valvet"></span>' : "") +
-      "<span>Valv</span>";
-  }
 
   function noticeHtml() {
     if (!state.notice) return "";
@@ -221,7 +209,6 @@
   }
 
   function render() {
-    renderLauncher();
     if (!state.open) return;
 
     var loggedIn = state.me && state.me.authenticated;
@@ -687,7 +674,6 @@
   function boot() {
     injectStyles();
     build();
-    renderLauncher();
 
     var wantOpen = handleLoginRedirect();
 
@@ -700,12 +686,13 @@
         state.me = (r.ok && r.data) || { authenticated: false };
       }),
     ]).then(function () {
-      renderLauncher();
-      if (wantOpen || (state.me && state.me.authenticated && getLink())) {
-        // Auto-open after a login redirect; otherwise stay out of the way.
-        if (wantOpen) openModal();
+      if (wantOpen) {
+        openModal(); // auto-open after a login redirect
+      } else if (state.open) {
+        // User clicked Valv before config/me resolved — refresh the stale view.
+        render();
+        if (state.me && state.me.authenticated) refreshMine();
       }
-      if (state.open) render();
     });
   }
 
