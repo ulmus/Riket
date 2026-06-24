@@ -29,11 +29,23 @@
      — otherwise Safari spills onto an extra page and Chrome clips the bottom.
      The big text boxes are flex-sized, so they absorb the reduction. */
   .sheet { width: 794px; height: 1047px; overflow: hidden; }
+  /* Controls + sheets layout: stacked by default (controls above the sheets);
+     on wide screens the controls become a sticky left sidebar so the full
+     viewport height is used for the sheet. */
+  .layout { width: 100%; display: flex; flex-direction: column; align-items: center; gap: 26px; }
+  .controls-col { width: 794px; max-width: 100%; display: flex; flex-direction: column; gap: 16px; }
+  .sheets-col { display: flex; flex-direction: column; align-items: center; gap: 26px; min-width: 0; }
+  @media screen and (min-width: 1160px) {
+    .layout { flex-direction: row; align-items: flex-start; justify-content: center; gap: 28px; }
+    .controls-col { width: 290px; flex: none; position: sticky; top: 24px; max-height: calc(100vh - 48px); overflow: auto; }
+  }
   @page { size: A4; margin: 0; }
   @media print {
     html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     .backdrop { background: transparent !important; padding: 0 !important; gap: 0 !important; --paper: transparent !important; }
     .screen-only { display: none !important; }
+    /* The controls/vault sidebar is screen-only; flatten the layout wrappers. */
+    .layout, .sheets-col { display: block !important; }
     /* Use physical units in print so the box matches the page exactly (px↔mm
        rounding is what pushed the footer over the edge before). */
     .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 210mm !important; height: 277mm !important; break-inside: avoid; }
@@ -96,8 +108,10 @@
   </sc-if>
 
   <sc-if value="{{ ready }}">
-  <div class="screen-only toolbar" style="width:794px;max-width:100%;display:flex;flex-direction:column;align-items:stretch;gap:12px;">
-    <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;max-width:560px;">
+  <div class="layout">
+  <aside class="controls-col screen-only">
+  <div class="toolbar" style="width:100%;display:flex;flex-direction:column;align-items:stretch;gap:12px;">
+    <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;">
       Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Logga in i <strong>Valvet</strong> för att spara flera rollpersoner på servern. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
     </div>
     <div class="toolbar-btns" style="display:flex;gap:8px;flex-wrap:wrap;">
@@ -108,7 +122,10 @@
       <button onClick="{{ onReset }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Rensa</button>
     </div>
   </div>
+  <div id="irtv-panel-slot"></div>
+  </aside>
 
+  <div class="sheets-col">
   <!-- ============================ SIDA 1 — personalia, egenskaper & strid ============================ -->
   <section class="sheet" data-screen-label="Sida 1 — personalia, egenskaper &amp; strid" style="background:var(--paper,#EDE7D8);padding:30px 32px 26px;box-shadow:0 18px 40px rgba(0,0,0,.45);display:flex;flex-direction:column;gap:9px;position:relative;color:var(--ink,#23201A);">
 
@@ -417,6 +434,8 @@
       <span>BLANKETT RT‑1 (1961)</span><span>PROGRAM FRIGG — T-KONTORET</span><span>SIDA 3 AV 3</span>
     </div>
   </section>
+  </div>
+  </div>
   </sc-if>
 </div></x-dc>
 <script type="text/x-dc" data-dc-script data-props="{&quot;$preview&quot;:{&quot;width&quot;:858,&quot;height&quot;:1180},&quot;accent&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Stämpelröd&quot;,&quot;Tjänsteblå&quot;,&quot;Bläcksvart&quot;],&quot;default&quot;:&quot;Tjänsteblå&quot;,&quot;tsType&quot;:&quot;string&quot;},&quot;paper&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Manila (varm)&quot;,&quot;Arkivgrå (kall)&quot;],&quot;default&quot;:&quot;Manila (varm)&quot;,&quot;tsType&quot;:&quot;string&quot;}}">
@@ -509,7 +528,7 @@ class Component extends DCLogic {
         }
         const save = this.hydrate(data);
         save.fields = (data.fields && typeof data.fields === 'object' && !Array.isArray(data.fields)) ? data.fields : {};
-        try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); } catch(e) {}
+        try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); localStorage.removeItem('irt-vault-current'); } catch(e) {}
         location.replace(location.pathname); // reload without the query so the inputs adopt the new values
       })
       .catch(err => this.loadFailed(err && err.message ? err.message : 'Okänt fel.'));
@@ -683,7 +702,7 @@ class Component extends DCLogic {
         this.fields.foto = v.trim();
         this.setState({}, () => this.persist());
       },
-      onValv: () => { if (window.IRTVault && window.IRTVault.open) window.IRTVault.open(); },
+      onValv: () => { if (window.IRTVault && window.IRTVault.toggle) window.IRTVault.toggle(); },
       onPrint: () => window.print(),
       onExport: () => {
         let json;
@@ -711,14 +730,14 @@ class Component extends DCLogic {
             if (!window.confirm('Ersätt nuvarande blankett med den importerade rollpersonen?')) return;
             const save = this.hydrate(data);
             save.fields = (data.fields && typeof data.fields === 'object' && !Array.isArray(data.fields)) ? data.fields : {};
-            try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); } catch(e) {}
+            try { localStorage.setItem('irt-rt1-v1', JSON.stringify(save)); localStorage.removeItem('irt-vault-current'); } catch(e) {}
             window.location.reload();
           };
           reader.readAsText(file);
         };
         input.click();
       },
-      onReset: () => { if (!window.confirm('Rensa hela blanketten? Detta går inte att ångra.')) return; try { localStorage.removeItem('irt-rt1-v1'); } catch(e) {} window.location.reload(); },
+      onReset: () => { if (!window.confirm('Rensa hela blanketten? Detta går inte att ångra.')) return; try { localStorage.removeItem('irt-rt1-v1'); localStorage.removeItem('irt-vault-current'); } catch(e) {} window.location.reload(); },
     };
   }
 }
