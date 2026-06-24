@@ -103,7 +103,7 @@
     <div style="max-width:560px;color:#f3ecdb;font:400 13px/1.7 'Courier Prime',monospace;letter-spacing:.03em;padding:70px 20px;text-align:center;display:flex;flex-direction:column;gap:14px;align-items:center;">
       <div style="font:700 16px/1 'Saira Condensed',sans-serif;letter-spacing:.1em;text-transform:uppercase;">Rollpersonen kunde inte laddas</div>
       <div style="color:#cabf9f;">{{ loadErrorMsg }}</div>
-      <a href="sheet.html" style="color:#f3ecdb;background:var(--accent,#0C3A54);text-decoration:none;font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;padding:10px 16px;border-radius:3px;">Öppna tomt formulär</a>
+      <a href="personalakt" style="color:#f3ecdb;background:var(--accent,#0C3A54);text-decoration:none;font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;padding:10px 16px;border-radius:3px;">Öppna tomt formulär</a>
     </div>
   </sc-if>
 
@@ -112,10 +112,10 @@
   <aside class="controls-col screen-only">
   <div class="toolbar" style="width:100%;display:flex;flex-direction:column;align-items:stretch;gap:12px;">
     <div style="color:#cabf9f;font:400 11px/1.5 'Courier Prime',monospace;letter-spacing:.04em;">
-      Fyll i direkt i fälten — allt sparas automatiskt i din webbläsare. Logga in i <strong>Valvet</strong> för att spara flera rollpersoner på servern. Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
+      Fyll i direkt i fälten — allt sparas automatiskt på <strong>Skrivbordet</strong> (i den här webbläsaren). Logga in för att lägga flera rollpersoner i <strong>Arkivskåpet</strong> (på servern, nåbart från alla enheter). Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka. Skriv ut för ett rent, ifyllbart ark på tre A4-sidor.
     </div>
     <div class="toolbar-btns" style="display:flex;gap:8px;flex-wrap:wrap;">
-      <button onClick="{{ onValv }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Bibliotek</button>
+      <button onClick="{{ onValv }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:var(--accent,#0C3A54);border:0;padding:10px 16px;border-radius:3px;cursor:pointer;">Arkivet</button>
       <button onClick="{{ onPrint }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Skriv ut</button>
       <button onClick="{{ onExport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Exportera</button>
       <button onClick="{{ onImport }}" style="font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#cabf9f;background:transparent;border:1px solid #5a574d;padding:10px 16px;border-radius:3px;cursor:pointer;">Importera</button>

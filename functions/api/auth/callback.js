@@ -1,19 +1,19 @@
-// GET /api/auth/callback?token=...&next=/static/charsheet/...
+// GET /api/auth/callback?token=...&next=/static/arkivet/...
 // Redeems a magic link: validates the (single-use, unexpired) token, finds or
 // creates the user, sets the session cookie, and redirects back to the page the
-// login was started from (`next`, validated to a same-origin charsheet path).
+// login was started from (`next`, validated to a same-origin arkivet path).
 // Always redirects (with a ?login=<status>) rather than returning JSON, since
 // this URL is opened directly from the email.
 
 import { sha256Hex, nowSec } from "../_lib/util.js";
 import { makeSessionCookie } from "../_lib/auth.js";
 
-const DEFAULT_PATH = "/static/charsheet/index.html";
+const DEFAULT_PATH = "/static/arkivet/index.html";
 
-// Only allow redirecting back to a same-origin path inside the charsheet dir.
+// Only allow redirecting back to a same-origin path inside the arkivet dir.
 function safeNext(raw) {
   if (typeof raw !== "string" || raw.indexOf("//") !== -1) return DEFAULT_PATH;
-  return /^\/static\/charsheet\/[A-Za-z0-9._/-]*$/.test(raw) ? raw : DEFAULT_PATH;
+  return /^\/static\/arkivet\/[A-Za-z0-9._/-]*$/.test(raw) ? raw : DEFAULT_PATH;
 }
 
 function redirect(location, cookieValue) {

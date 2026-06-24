@@ -1,16 +1,16 @@
 # Färdiga rollpersoner för rollformuläret
 
-De visas i biblioteket på **`/static/charsheet/`** (`../index.html`), som läser
+De visas i arkivet på **`/static/arkivet/`** (`../index.html`), som läser
 `index.json` och listar dem under **Färdiga rollpersoner**. Därifrån kan man
-**Importera** en till sitt bibliotek (lokalt om man inte är inloggad, annars till
-molnet) och sedan anpassa kopian — originalfilen ändras aldrig.
+**Importera** en till sitt arkiv (till Skrivbordet om man inte är inloggad, annars
+till Arkivskåpet) och sedan anpassa kopian — originalfilen ändras aldrig.
 
-Varje `.json`-fil här är en rollperson i samma format som `sheet.html` sparar.
+Varje `.json`-fil här är en rollperson i samma format som `personalakt.html` sparar.
 Man kan också öppna en direkt med `?char=<slug>` (då laddas den som en **osparad**
 blankett som man kan spara i sitt bibliotek):
 
 ```
-/static/charsheet/sheet.html?char=prisma
+/static/arkivet/personalakt?char=prisma
 ```
 
 `<slug>` är filnamnet utan `.json` (gemener, inga mellanslag). Man kan också peka
