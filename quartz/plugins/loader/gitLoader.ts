@@ -489,7 +489,18 @@ export async function installPlugin(
         }
         return { pluginDir, nativeDeps: collectNativeDeps(pluginDir) }
       } catch {
-        // If git operations fail, re-clone
+        // No .git metadata. This is a vendored plugin: its built dist/ is
+        // committed to the repo without the .git directory (see DEPLOYMENT.md →
+        // "Plugins are vendored"). If the build output is present, treat it as
+        // already installed instead of deleting and re-cloning it — this is what
+        // lets the deploy build run without re-fetching or recompiling plugins.
+        if (fs.existsSync(path.join(pluginDir, "dist"))) {
+          if (options.verbose) {
+            console.log(styleText("cyan", `→`), `Plugin ${spec.name} already vendored`)
+          }
+          return { pluginDir, nativeDeps: collectNativeDeps(pluginDir) }
+        }
+        // Otherwise the install is stale/corrupt — fall through to re-clone.
       }
     }
   }

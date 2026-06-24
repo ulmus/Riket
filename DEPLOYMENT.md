@@ -79,6 +79,11 @@ includes everything except the shared externals (preact, unified, sharp,
 Cloudflare installs from `package-lock.json` before building). The deploy build
 is therefore just `npx quartz build`.
 
+The plugin loader (`quartz/plugins/loader/gitLoader.ts`) treats a plugin
+directory that has a committed `dist/` but no `.git` as already installed, so
+the build neither re-clones nor recompiles it — this is what makes the vendored
+output count instead of being deleted and re-fetched on every build.
+
 ### Updating plugins
 
 Whenever you **add, remove, enable, disable, or update** a plugin, re-vendor and
