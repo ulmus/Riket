@@ -283,9 +283,10 @@
       ".irt-badge.cloud{background:#0c3a54;}" +
       ".irt-cardacts{display:flex;gap:6px;flex-wrap:wrap;padding:0 11px 11px;}" +
       ".irt-empty{font:400 12px/1.6 'Courier Prime',monospace;color:#8a8268;padding:4px 2px;}" +
-      ".irt-newcard{align-items:center;justify-content:center;min-height:150px;border-style:dashed;color:#0c3a54;background:transparent;}" +
-      ".irt-newcard .plus{font:700 30px/1 'Archivo';}" +
-      ".irt-newcard .lbl{font:600 11px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;margin-top:6px;}" +
+      ".irt-newcard{align-items:center;justify-content:center;min-height:150px;border:2px dashed #6f6a58;color:#e7e0cb;background:rgba(255,255,255,.03);}" +
+      ".irt-newcard:hover{background:#0c3a54;border-color:#0c3a54;color:#fff;}" +
+      ".irt-newcard .plus{font:700 30px/1 'Archivo';color:inherit;}" +
+      ".irt-newcard .lbl{font:600 11px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;margin-top:6px;color:inherit;}" +
       // sheet status chip
       ".irt-chip{width:100%;background:#f5f1e6;color:#23201a;border:1px solid #c7bea6;border-radius:8px;box-shadow:0 8px 22px rgba(0,0,0,.28);padding:11px 13px;font:400 12px/1.5 'Courier Prime',monospace;}" +
       ".irt-chip .loc{display:flex;align-items:center;gap:7px;font:700 11px/1 'Archivo';letter-spacing:.08em;text-transform:uppercase;margin-bottom:6px;}" +
@@ -762,7 +763,7 @@
         : '<span>Dina rollpersoner sparas i den här webbläsaren. Logga in för att spara dem i molnet också.</span><button class="irt-btn sm" data-act="login" type="button">Logga in</button>';
 
       var newCard =
-        '<button class="irt-card irt-newcard" data-act="new" type="button"><span class="plus">+</span><span class="lbl">Nytt tomt formulär</span></button>';
+        '<button class="irt-card irt-newcard" data-act="new" type="button"><span class="plus">+</span><span class="lbl">Ny rollperson</span></button>';
 
       var mineGrid =
         '<div class="irt-grid">' + newCard + mine.map(cardHtml).join("") + "</div>";
