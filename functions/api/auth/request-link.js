@@ -61,8 +61,10 @@ export const onRequestPost = async ({ request, env }) => {
   const link = `${origin}/api/auth/callback?token=${token}`;
   try {
     await sendMagicLink(env, email, link);
-  } catch {
-    return error(502, "Kunde inte skicka e-post just nu. Försök igen om en stund.");
+  } catch (e) {
+    console.error("request-link: kunde inte skicka e-post:", (e && e.message) || e);
+    const code = e && e.status ? " (fel " + e.status + ")" : "";
+    return error(502, "Kunde inte skicka e-post just nu" + code + ". Försök igen om en stund.");
   }
   return json({ ok: true });
 };

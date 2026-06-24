@@ -2,7 +2,7 @@
 // The sender (MAIL_FROM) must be on a domain you have verified in Resend.
 
 export async function sendMagicLink(env, email, link) {
-  const from = env.MAIL_FROM || "I Rikets Tjänst <noreply@riket.exostra.se>";
+  const from = env.MAIL_FROM || "I Rikets Tjänst <noreply@exostra.se>";
   const subject = "Din inloggningslänk till Rollpersonsvalvet";
 
   const text =
@@ -34,7 +34,12 @@ export async function sendMagicLink(env, email, link) {
   });
 
   if (!res.ok) {
-    const detail = await res.text().catch(() => "");
-    throw new Error(`Resend ${res.status}: ${detail}`);
+    const body = await res.text().catch(() => "");
+    // Surface the real reason in the deployment's function logs. The most
+    // common cause is a `from` address whose domain isn't verified in Resend.
+    console.error(`Resend send failed: HTTP ${res.status} — ${body}`);
+    const err = new Error(`Resend HTTP ${res.status}`);
+    err.status = res.status;
+    throw err;
   }
 }

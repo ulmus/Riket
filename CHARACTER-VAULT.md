@@ -80,7 +80,7 @@ encrypted.
 | --- | --- | --- | --- |
 | `RESEND_API_KEY` | yes | secret | _done_ — your Resend API key |
 | `SESSION_SECRET` | **yes** | secret | Signs the session cookie. See below |
-| `MAIL_FROM` | recommended | plaintext | Sender, e.g. `I Rikets Tjänst <noreply@exostra.se>`. Must be on a domain you verified in Resend. Defaults to `noreply@riket.exostra.se` |
+| `MAIL_FROM` | recommended | plaintext | Sender, e.g. `I Rikets Tjänst <noreply@exostra.se>`. Must be on a domain you verified in Resend. Defaults to `noreply@exostra.se` |
 | `TURNSTILE_SITE_KEY` | optional | plaintext | Enables the bot-check widget. See below |
 | `TURNSTILE_SECRET` | optional | secret | Enforces the bot check server-side |
 
@@ -97,6 +97,26 @@ node -e "console.log(require('crypto').randomBytes(32).toString('base64url'))"
 Copy the output into `SESSION_SECRET` (Production **and** Preview), then
 redeploy. Treat it like a password — if you rotate it, all existing sessions are
 invalidated (everyone is logged out), which is the way to force a global logout.
+
+#### Email sending (Resend) and the `from` domain
+
+The `MAIL_FROM` address must be on a domain you have **verified in Resend**
+(Resend → Domains). The default is `noreply@exostra.se`, so verifying `exostra.se`
+is enough; sending from an unverified domain (e.g. the `riket.exostra.se`
+subdomain if only the apex is verified) makes Resend reject the request, which
+surfaces in the UI as _"Kunde inte skicka e-post just nu (fel 403)…"_.
+
+- Verify a domain you control (e.g. `exostra.se`) by adding the DNS records
+  Resend shows you — quick, since DNS for `exostra.se` is already in Cloudflare —
+  then set `MAIL_FROM` to a sender on it, e.g. `I Rikets Tjänst <noreply@exostra.se>`.
+- For a quick test before verifying a domain, set `MAIL_FROM=onboarding@resend.dev`
+  (Resend's shared sender). It only delivers to your own Resend account email and
+  is rate-limited, but it confirms the wiring works.
+
+The exact provider response is logged by the function (`Resend send failed: HTTP
+… — …`); view it under **Workers & Pages → riket →** the deployment **→
+Functions → Begin log stream**, or with `npx wrangler pages deployment tail
+--project-name riket`.
 
 #### Set up Turnstile (bot protection)
 
