@@ -8,7 +8,7 @@ I denna värld jagas Auschwitz-personalen hårdare än i vår egen historia. Int
 **ODESSA-nätverket** är därför betydligt större och bättre finansierat än i verkligheten. Det smugglar ut SS-veteraner inte bara till Sydamerika utan också till diskreta hörn av Europa där de kan leva under falska identiteter — mot att de då och då bidrar med kunskap till de program som beskyddar dem.
 
 ## Täckmantel
-Sex personer reser som östtysk handelsdelegation från **VEB Bergmann-Borsig** i Berlin, på inbjudan av **V/O Tekhmashimport** i Moskva, för förhandlingar om ångturbiner till Tjeljabinsk-regionen. Logi: Hotell *Leninskaja*. Resan är 17–31 maj 1962.
+Sex personer reser som östtysk handelsdelegation från **VEB Bergmann-Borsig** i Berlin, på inbjudan av **V/O Tekhmashimport** i Moskva, för förhandlingar om ångturbiner till Tjeljabinsk-regionen. Logi: Hotell *Leningradskaja*. Resan är 17–31 maj 1962.
 
 ## Resväg och händelser
 
@@ -51,7 +51,7 @@ Loggboken är hos honom. Det är vad Mengele säger. Det innebär att uppdraget 
 - **Den civilklädde i Bologoje** — namnlös, exekuterade Sergej Bogdanov utan att andas tungt; om rollpersonerna ser honom igen i Moskva är det inget gott tecken
 - **Sköterskan från Tredje huvudstyrelsen** — vakar över "Müller" på Sklifosovsky
 
-### Hotell *Altai*
+### Hotell *Leningradskaja*
 - **Zinaida Pavlovna** — administrator, talar tyska, har en svart telefon utan urtavla
 - **Galina Sergejevna** — dezjurnaja på fjärde våningen, ler aldrig
 - **Valja** — servitris i källarmatsalen, syster på GUM, möjlig meddelandekanal för tre rubel

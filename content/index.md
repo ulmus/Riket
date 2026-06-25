@@ -11,6 +11,7 @@ Den här sidan samlar allt material för spelet. Börja gärna med [[Introduktio
 Det du behöver för att förstå vad spelet handlar om och hur det fungerar.
 
 - [[Introduktion]] – Världen, tonen och premissen för I Rikets Tjänst.
+- [[Bakgrund]] – Hur allt började: Projekt Nigredo och vägen till dagens ENS-program.
 - [[Snabbreferens]] – Kärnreglerna sammanfattade på en sida; perfekt att ha vid spelbordet.
 - [[Terminologi]] – Ordlista över spelets begrepp och termer.
 
@@ -37,13 +38,13 @@ Råd och verktyg för dig som leder spelet.
 
 - [[Att spelleda I Rikets Tjänst]] – Tonsättning, scener, improvisation och spelledarens hantverk.
 - [[Spelledarpersoner]] – Färdiga SLP-arketyper att plocka in vid bordet.
-
-## Världen
-
-Det kalla krigets dolda kapprustning – stormakternas hemliga program för Extra-Normala Subjekt (ENS).
-
 - [[Världen 1961]] – Tidsandan, stämningen och sinnesintrycken 1961 att förmedla vid bordet.
-- [[Bakgrund]] – Hur allt började: Projekt Nigredo och vägen till dagens ENS-program.
+- [[Tjänster och gods]] – Vad saker kostar 1961 och hur de skaffas i Stockholm och utomlands.
+
+## Program för Extra-Normala Subjekt
+
+Världen över utsätts mer eller mindre frivilliga försökspersoner för outhärdliga påfrestningar för att locka fram Extra-Normala Krafter och i förlängningen tippa maktbalansen i världen till den egna sidan.
+
 - [[Program Frigg (Sverige)]] – Sveriges hemliga program inom underrättelsetjänsten T-kontoret.
 - [[Sotsializma Pervye Zvezdy (Socialismens Första Stjärnor, Sovjetunionen)|Sotsializma Pervye Zvezdy (Sovjetunionen)]] – Sovjetunionens program och dess Enhet 37.
 - [[Project Phoenix (USA)]] – USA:s svar på den parapsykologiska kapprustningen.
@@ -51,7 +52,6 @@ Det kalla krigets dolda kapprustning – stormakternas hemliga program för Extr
 - [[Operation Grendel (Storbritannien)]] – Storbritanniens sena men ambitiösa satsning.
 - [[Projet Chimère (Frankrike)]] – Frankrikes försök att återta sin stormaktsställning.
 - [[Projekt Nigredo (Nazi-Tyskland)]] – Det ursprungliga experimentet i Auschwitz; arvet som spökar i alla program.
-- [[Tjänster och gods]] – Vad saker kostar 1961 och hur de skaffas i Stockholm och utomlands.
 
 ## Äventyr
 
