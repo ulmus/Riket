@@ -2,21 +2,11 @@
 // POST /api/members  {email} — invite someone to my vault (creates a pending
 //                              account if needed) and email them a login link
 
-import { json, error, readJson, randomToken, sha256Hex, nowSec } from "../_lib/util.js";
-import { getSession } from "../_lib/auth.js";
+import { json, error, readJson, nowSec } from "../_lib/util.js";
+import { normalizeEmail, issueMagicLink } from "../_lib/magic.js";
 import { sendInvite } from "../_lib/email.js";
 
-const TOKEN_TTL = 60 * 15; // 15 minutes
-
-function normalizeEmail(raw) {
-  const email = String(raw || "").trim().toLowerCase();
-  return /^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email) && email.length <= 254 ? email : null;
-}
-
-export const onRequestGet = async ({ request, env }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestGet = async ({ env, data: { session } }) => {
   const { results } = await env.DB.prepare(
     "SELECT u.id, u.email, u.confirmed_at FROM vault_members vm JOIN users u ON u.id = vm.member_id WHERE vm.owner_id = ?1 ORDER BY u.email",
   )
@@ -26,9 +16,7 @@ export const onRequestGet = async ({ request, env }) => {
   return json({ members });
 };
 
-export const onRequestPost = async ({ request, env }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
+export const onRequestPost = async ({ request, env, data: { session } }) => {
   if (!env.SESSION_SECRET || !env.RESEND_API_KEY) return error(500, "Servern är inte fullständigt konfigurerad.");
 
   const body = await readJson(request);
@@ -53,13 +41,8 @@ export const onRequestPost = async ({ request, env }) => {
     .run();
 
   // Issue a magic-link login token and email the invitation.
-  const token = randomToken(32);
-  const tokenHash = await sha256Hex(token);
-  await env.DB.prepare("INSERT INTO magic_tokens (token_hash, email, created_at, expires_at) VALUES (?1, ?2, ?3, ?4)")
-    .bind(tokenHash, email, now, now + TOKEN_TTL)
-    .run();
   const origin = new URL(request.url).origin;
-  const link = `${origin}/api/auth/callback?token=${token}&next=${encodeURIComponent("/static/arkivet/index.html")}`;
+  const link = await issueMagicLink(env, email, origin, "/static/arkivet/index.html");
 
   try {
     await sendInvite(env, email, link, session.email);

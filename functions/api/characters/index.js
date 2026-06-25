@@ -2,28 +2,16 @@
 // POST /api/characters       — create a new character  { name?, data }
 
 import { json, error, readJson, nowSec } from "../_lib/util.js";
-import { getSession } from "../_lib/auth.js";
-import { MAX_DATA_BYTES, validData, resolveName } from "../_lib/chardata.js";
+import { MAX_DATA_BYTES, validData, resolveName, cardFields } from "../_lib/chardata.js";
 
 // Compact card: pull foto/expertis out of the blob server-side so the gallery
 // can render photos without downloading every full character.
 function toCard(r) {
-  let foto = "";
-  let expertis = "";
-  try {
-    const f = (JSON.parse(r.data) || {}).fields || {};
-    foto = String(f.foto || "");
-    expertis = String(f.expertis || "");
-  } catch {
-    /* ignore malformed rows */
-  }
+  const { foto, expertis } = cardFields(r.data);
   return { id: r.id, name: r.name, version: r.version, updated_at: r.updated_at, foto, expertis };
 }
 
-export const onRequestGet = async ({ request, env }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestGet = async ({ request, env, data: { session } }) => {
   const owner = new URL(request.url).searchParams.get("owner");
 
   if (owner && owner !== session.uid) {
@@ -57,10 +45,7 @@ export const onRequestGet = async ({ request, env }) => {
   return json({ characters });
 };
 
-export const onRequestPost = async ({ request, env }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestPost = async ({ request, env, data: { session } }) => {
   const body = await readJson(request);
   if (!body || !validData(body.data)) return error(400, "Ogiltig rollperson.");
   const dataStr = JSON.stringify(body.data);

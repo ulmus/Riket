@@ -766,8 +766,21 @@
       body: { memberId: memberId || null },
     });
   }
+  // A character photo is always one of two quote-free shapes: an app-generated
+  // inline portrait (data:image/…;base64,…) or a bundled pre-gen file
+  // (characters/<slug>.<ext>). Emit it as a CSS background only when it matches
+  // one of those exactly — esc() can't neutralise a single quote inside a CSS
+  // url('…') string (the HTML parser decodes &#39; back to '), so an attacker-
+  // controlled foto could otherwise break out. Anything else renders no photo.
+  function safePhotoUrl(foto) {
+    foto = String(foto == null ? "" : foto);
+    if (/^data:image\/[a-zA-Z0-9.+-]+;base64,[A-Za-z0-9+/=]+$/.test(foto)) return foto;
+    if (/^characters\/[A-Za-z0-9._-]+\.(?:jpe?g|png|webp|gif|avif)$/i.test(foto)) return foto;
+    return "";
+  }
   function photoStyle(foto) {
-    return foto ? " style=\"background-image:url('" + esc(foto) + "')\"" : "";
+    var url = safePhotoUrl(foto);
+    return url ? " style=\"background-image:url('" + url + "')\"" : "";
   }
 
   function loadPregens() {
@@ -873,7 +886,7 @@
       '<div class="irt-card">' +
       '<span class="irt-badge cloud">Papperskorg</span>' +
       '<div class="photo"' +
-      (c.foto ? " style=\"background-image:url('" + esc(c.foto) + "')\"" : "") +
+      photoStyle(c.foto) +
       "></div>" +
       '<div class="meta"><div class="kn">' +
       esc(c.name) +
@@ -892,11 +905,10 @@
   }
 
   function pregenCardHtml(p) {
-    var photo = p.foto ? " style=\"background-image:url('" + esc(p.foto) + "')\"" : "";
     return (
       '<div class="irt-card">' +
       '<div class="photo"' +
-      photo +
+      photoStyle(p.foto) +
       "></div>" +
       '<div class="meta"><div class="kn">' +
       esc(p.namn || p.slug) +
