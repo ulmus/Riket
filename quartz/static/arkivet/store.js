@@ -1181,9 +1181,13 @@
       slot.appendChild(chipEl);
       renderChip();
     }
+    // The intro hint lives in the React-rendered toolbar, so (re-)apply it here
+    // too — the observer fires once the sheet mounts and again on any remount.
+    renderHint();
   }
 
   function renderChip() {
+    renderHint();
     if (!chipEl) return;
     var ptr = getOpen();
     var loggedIn = me && me.authenticated;
@@ -1231,6 +1235,51 @@
             : "");
     }
     chipEl.innerHTML = html;
+  }
+
+  // The toolbar's intro line on the sheet. It mirrors the chip: it reflects
+  // where the open character actually lives (Skrivbordet vs Arkivskåpet) and the
+  // login state, instead of always claiming local storage and prompting login.
+  function hintHtml() {
+    var ptr = getOpen();
+    var source = ptr ? ptr.source : "none";
+    var loggedIn = !!(me && me.authenticated);
+    var arkiv = "<strong>Arkivskåpet</strong> (på servern, nåbart från alla enheter)";
+    var skriv = "<strong>Skrivbordet</strong> (i den här webbläsaren)";
+    var lead;
+    if (source === "cloud") {
+      lead = "Fyll i direkt i fälten — allt sparas automatiskt i " + arkiv + ".";
+    } else if (source === "local") {
+      lead =
+        "Fyll i direkt i fälten — allt sparas automatiskt på " +
+        skriv +
+        ". " +
+        (loggedIn
+          ? "Flytta rollpersonen till <strong>Arkivskåpet</strong> för att nå den från alla enheter."
+          : "Logga in för att lägga flera rollpersoner i " + arkiv + ".");
+    } else {
+      lead =
+        "Fyll i direkt i fälten — det du skriver ligger kvar i den här webbläsaren. " +
+        (loggedIn
+          ? "Spara rollpersonen nedan på " + skriv + " eller i " + arkiv + "."
+          : "Spara rollpersonen på <strong>Skrivbordet</strong> nedan, eller logga in för att spara den i " +
+            arkiv +
+            ".");
+    }
+    return (
+      lead +
+      " Exportera till en .json-fil för säkerhetskopia eller delning, importera för att hämta tillbaka." +
+      " Skriv ut för ett rent, ifyllbart ark på tre A4-sidor."
+    );
+  }
+
+  function renderHint() {
+    var el = document.getElementById("irt-sheet-hint");
+    if (!el) return;
+    var html = hintHtml();
+    // Only write when it changed — otherwise the MutationObserver that calls
+    // ensureChipMounted would fire on our own edit and loop.
+    if (el.innerHTML !== html) el.innerHTML = html;
   }
 
   // Called by the sheet component after every autosave to the buffer.
