@@ -2,12 +2,8 @@
 // The vault owner assigns one of their characters to a member (or unassigns it).
 
 import { json, error, readJson } from "../../_lib/util.js";
-import { getSession } from "../../_lib/auth.js";
 
-export const onRequestPut = async ({ request, env, params }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestPut = async ({ request, env, params, data: { session } }) => {
   const body = await readJson(request);
   if (!body) return error(400, "Ogiltig begäran.");
   const memberId = body.memberId == null || body.memberId === "" ? null : String(body.memberId);

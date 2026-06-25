@@ -3,13 +3,9 @@
 // DELETE /api/characters/:id  — move to trash (soft delete; owner only)
 
 import { json, error, readJson, nowSec } from "../_lib/util.js";
-import { getSession } from "../_lib/auth.js";
 import { MAX_DATA_BYTES, validData, resolveName } from "../_lib/chardata.js";
 
-export const onRequestGet = async ({ request, env, params }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestGet = async ({ env, params, data: { session } }) => {
   const row = await env.DB.prepare(
     "SELECT id, name, data, version, updated_at, deleted_at FROM characters WHERE id = ?1 AND (user_id = ?2 OR assigned_to = ?2)",
   )
@@ -26,10 +22,7 @@ export const onRequestGet = async ({ request, env, params }) => {
   return json({ id: row.id, name: row.name, version: row.version, updated_at: row.updated_at, data });
 };
 
-export const onRequestPut = async ({ request, env, params }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestPut = async ({ request, env, params, data: { session } }) => {
   const body = await readJson(request);
   if (!body || !validData(body.data)) return error(400, "Ogiltig rollperson.");
   const baseVersion = Number(body.version);
@@ -65,10 +58,7 @@ export const onRequestPut = async ({ request, env, params }) => {
   );
 };
 
-export const onRequestDelete = async ({ request, env, params }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestDelete = async ({ env, params, data: { session } }) => {
   const upd = await env.DB.prepare(
     "UPDATE characters SET deleted_at = ?1 WHERE id = ?2 AND user_id = ?3 AND deleted_at IS NULL",
   )

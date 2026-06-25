@@ -1,13 +1,9 @@
 // DELETE /api/members/:id — remove a member from my vault and unassign any of
 // my characters that were assigned to them.
 
-import { json, error } from "../_lib/util.js";
-import { getSession } from "../_lib/auth.js";
+import { json } from "../_lib/util.js";
 
-export const onRequestDelete = async ({ request, env, params }) => {
-  const session = await getSession(request, env);
-  if (!session) return error(401, "Inte inloggad.");
-
+export const onRequestDelete = async ({ env, params, data: { session } }) => {
   await env.DB.prepare("DELETE FROM vault_members WHERE owner_id = ?1 AND member_id = ?2")
     .bind(session.uid, params.id)
     .run();

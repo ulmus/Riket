@@ -14,3 +14,17 @@ export function resolveName(name, data) {
   const fromSheet = String(f.kodnamn || f.namn || "").trim();
   return (fromSheet || "Namnlös rollperson").slice(0, 120);
 }
+
+/**
+ * Pull the gallery-card fields (foto, expertis) out of a stored `data` blob
+ * string, so a list response can show photos without shipping every full
+ * character. Tolerates malformed rows.
+ */
+export function cardFields(dataStr) {
+  try {
+    const f = (JSON.parse(dataStr) || {}).fields || {};
+    return { foto: String(f.foto || ""), expertis: String(f.expertis || "") };
+  } catch {
+    return { foto: "", expertis: "" };
+  }
+}
