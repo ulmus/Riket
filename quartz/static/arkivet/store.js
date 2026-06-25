@@ -755,6 +755,9 @@
       return r.ok ? r.data.vaults || [] : [];
     });
   }
+  function leaveVault(ownerId) {
+    return api("/vaults/" + encodeURIComponent(ownerId), { method: "DELETE" });
+  }
   function listVaultChars(ownerId) {
     return api("/characters?owner=" + encodeURIComponent(ownerId)).then(function (r) {
       return r.ok ? r.data.characters || [] : [];
@@ -1004,7 +1007,16 @@
             var grid = s.chars.length
               ? '<div class="irt-grid">' + s.chars.map(sharedCardHtml).join("") + "</div>"
               : '<div class="irt-empty">Inga rollpersoner tilldelade dig här än.</div>';
-            return '<div class="irt-bar"><h2>Hos ' + esc(s.vault.ownerEmail) + "</h2></div>" + grid;
+            return (
+              '<div class="irt-bar"><h2>Hos ' +
+              esc(s.vault.ownerEmail) +
+              '</h2><button class="irt-btn ghost sm" data-act="leave-vault" data-id="' +
+              esc(s.vault.ownerId) +
+              '" data-name="' +
+              esc(s.vault.ownerEmail) +
+              '" type="button">Lämna</button></div>' +
+              grid
+            );
           })
           .join("");
 
@@ -1070,6 +1082,17 @@
     });
   }
 
+  function leaveVaultAction(ownerId, ownerEmail) {
+    if (!confirm("Lämna Arkivskåpet hos " + (ownerEmail ? "«" + ownerEmail + "»" : "den här ägaren") + "? Du förlorar åtkomsten till rollpersonerna som delats med dig där.")) return;
+    leaveVault(ownerId).then(function (r) {
+      if (r.ok) {
+        toast("Du lämnade Arkivskåpet.");
+        renderGallery();
+      } else if (r.status === 401) openLogin();
+      else toast((r.data && r.data.error) || "Kunde inte lämna Arkivskåpet.");
+    });
+  }
+
   function renderTrashBlock(trash) {
     return trash.length
         ? '<div class="irt-bar irt-collapsible" data-act="toggle-trash"><h2>Papperskorg (' +
@@ -1126,6 +1149,7 @@
       else if (act === "empty-trash") emptyTrash();
       else if (act === "invite") inviteMemberAction();
       else if (act === "remove-member") removeMemberAction(t.getAttribute("data-id"), t.getAttribute("data-name"));
+      else if (act === "leave-vault") leaveVaultAction(t.getAttribute("data-id"), t.getAttribute("data-name"));
       else if (act === "toggle-trash") {
         trashOpen = !trashOpen;
         var grid = document.getElementById("irt-trash-grid");

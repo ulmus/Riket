@@ -55,9 +55,13 @@ site.
   first login) if needed and **emails an invitation/login link either way**. The
   owner assigns characters to members (`characters.assigned_to`); a member sees
   and edits **only** the characters assigned to them. The gallery shows a section
-  per vault you're in (your own + each you've been invited to). Access is
-  enforced server-side: read/edit require owner-or-assignee; delete, assign and
-  invite are owner-only.
+  per vault you're in (your own + each you've been invited to). Either side can
+  end a membership: the owner removes a member (`DELETE /api/members/:id`), or a
+  member leaves a vault they were invited to (`DELETE /api/vaults/:ownerId`, the
+  "Lämna" button on each shared-vault section in the gallery). Both paths
+  unassign the characters that were assigned to that member. Access is enforced
+  server-side: read/edit require owner-or-assignee; delete, assign and invite are
+  owner-only; leaving only affects your own membership.
 
 ## Files
 
@@ -226,3 +230,4 @@ All routes are same-origin and use the session cookie. JSON in, JSON out.
 | `GET /api/members` · `POST /api/members` | `{email}` | list members / invite (creates pending user + emails link) |
 | `DELETE /api/members/:id` | — | remove member (and unassign their characters) |
 | `GET /api/vaults` | — | `{vaults: [{ownerId, ownerEmail}]}` — vaults I'm a member of |
+| `DELETE /api/vaults/:ownerId` | — | `{ok}` — leave that vault (removes my membership, unassigns my characters there) |
