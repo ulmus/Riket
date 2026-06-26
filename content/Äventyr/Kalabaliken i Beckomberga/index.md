@@ -44,6 +44,18 @@ Den östra korridoren — avdelningen för oroliga patienter — är kaotisk. V�
 
 Maten på avdelningen börjar ta slut och Akhenatons hov börjar bli oroliga. Akhenaton själv är ovillig att lämna sitt rum, som han i sitt delirium ändå upplever som tryggare än omvärlden. Dit har han tagit tillflykt med Lindqvist/Nefertiti och ECT-apparaten. Hans undersåtar är bedrövade att deras gudakonung inte visar sig för honom och börjar nu resonera om att det behövs någon typ av offer för att blidka honom. Konstapel Johansson — numera Amunhothep Johansson — har en plan att bryta sig in i östra delen av paviljongen för att hämta mat och ta tillfånga ett offer bland patienterna där.
 
+## Platser
+
+### Beckomberga sjukhus i stort
+
+### Paviljong 10, första våningen, västra korridoren, avdelningen för lugna patienter
+
+### Paviljong 10, första våningen, östra korridoren, avdelningen för oroliga patienter
+
+### Paviljong 10, andra våningen
+
+## Persongalleri
+
 ### Wachtmeister / Akhentaton
 
 Arrogant och maktfullkomlig i sin tidigare roll, nu med grandiosa vanföreställningar. Vältränad, har länge tidigare mysticistiska intressen kring Antiken och Egypten och sökt renheten i den fulländade kroppen. Kvinnoförakt.
@@ -65,6 +77,7 @@ Johansson är ung, hetsig och lättimponerad. Föremålen för hans idoldyrkan s
 ### Maj-Britt Holmberg
 
 Ung, driven journalist med starkt rättspatos.
+
 
 
 ## Tänkbara utfall
