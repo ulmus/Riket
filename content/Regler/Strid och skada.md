@@ -232,7 +232,7 @@ Se [[Läkning & vård]] för mer information.
 1. **Träff?** Räkna framgångar (10+) på attackslaget.
 2. **Räkna skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0).
 3. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
-4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +vapnets Skada om Penetrerande vapen, +1 per ytterligare 12:a.
+4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
 
 ### Läkning
 

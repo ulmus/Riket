@@ -45,13 +45,14 @@ export function lookupCritical(damageType, roll) {
 
 /**
  * Calculate the critical hit roll modifier.
- * @param {number} weaponSkada - Weapon's Skada value
- * @param {number} extraTwelves - Number of 12s beyond the first on damage dice
+ * Weapon Skada does NOT modify the critical roll. Only Penetrerande (+2),
+ * extra 12s (+1 each) and the target's critical toughness (−X) apply.
+ * @param {number} extraTwelves - Number of 12s beyond the first on the attack roll
  * @param {boolean} penetrerande - Whether the weapon has the Penetrerande property
  * @param {number} critTalighet - Target's critical toughness modifier (usually 0)
  * @returns {number}
  */
-export function criticalModifier(weaponSkada, extraTwelves = 0, penetrerande = false, critTalighet = 0) {
-  const skadaBonus = penetrerande ? weaponSkada * 2 : weaponSkada;
-  return skadaBonus + extraTwelves - critTalighet;
+export function criticalModifier(extraTwelves = 0, penetrerande = false, critTalighet = 0) {
+  const penetrationBonus = penetrerande ? 2 : 0;
+  return penetrationBonus + extraTwelves - critTalighet;
 }

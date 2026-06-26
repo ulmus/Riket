@@ -34,32 +34,32 @@ export function runDamageCalcTests() {
       assertEqual(r.totalKP, 6);
     },
 
-    "criticalModifier: skada 1, 0 extra, not penetrerande => 1": () => {
-      assertEqual(criticalModifier(1, 0, false), 1);
+    "criticalModifier: 0 extra, not penetrerande => 0 (Skada never applies)": () => {
+      assertEqual(criticalModifier(0, false), 0);
     },
 
-    "criticalModifier: skada 2, 1 extra, not penetrerande => 3": () => {
-      assertEqual(criticalModifier(2, 1, false), 3);
+    "criticalModifier: 1 extra, not penetrerande => 1": () => {
+      assertEqual(criticalModifier(1, false), 1);
     },
 
-    "criticalModifier: skada 2, 0 extra, penetrerande => 4": () => {
-      assertEqual(criticalModifier(2, 0, true), 4);
+    "criticalModifier: 0 extra, penetrerande => +2 flat": () => {
+      assertEqual(criticalModifier(0, true), 2);
     },
 
-    "criticalModifier: skada 3, 2 extra, penetrerande => 8": () => {
-      assertEqual(criticalModifier(3, 2, true), 8);
+    "criticalModifier: 2 extra, penetrerande => 4": () => {
+      assertEqual(criticalModifier(2, true), 4);
     },
 
     "criticalModifier: with critTalighet => subtracts": () => {
-      assertEqual(criticalModifier(1, 0, false, 2), -1);
+      assertEqual(criticalModifier(0, false, 2), -2);
     },
 
-    "calcCritRoll: base 7, skada 1, 0 extra => 8": () => {
-      assertEqual(calcCritRoll(7, 1, 0, false), 8);
+    "calcCritRoll: base 7, 0 extra, not penetrerande => 7": () => {
+      assertEqual(calcCritRoll(7, 0, false), 7);
     },
 
-    "calcCritRoll: base 7, skada 2, 1 extra, penetrerande => 12": () => {
-      assertEqual(calcCritRoll(7, 2, 1, true), 12);
+    "calcCritRoll: base 7, 1 extra, penetrerande => 10": () => {
+      assertEqual(calcCritRoll(7, 1, true), 10);
     },
   });
 }
