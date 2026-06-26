@@ -59,7 +59,7 @@ Färdiga uppdrag och kampanjer. *Innehåller spoilers och är främst material f
 
 - [[Kalabaliken i Beckomberga]] – Ett introduktionsäventyr om en avskriven försöksperson vars krafter tagit över en sjukhusavdelning.
 - [[Extraktionen]] – Ett fristående uppdrag i det delade Berlin, 1961.
-- [[Kampanjöversikt|Dödsängelns Testamente]] – En kampanj om jakten på Mengeles försvunna loggbok.
+- [[Dödsängelns Testamente|Dödsängelns Testamente]] – En kampanj om jakten på Mengeles försvunna loggbok.
 
 ## Verktyg
 

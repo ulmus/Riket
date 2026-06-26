@@ -20,6 +20,10 @@ Ett begränsat antal individer uppvisade däremot avvikelser – i vissa fall f�
 
 Frigg-avdelningen används sparsamt. Personalen sätts in i situationer där konventionella metoder bedöms otillräckliga, främst inom underrättelse- och säkerhetsarbete. Internt betraktas programmet som riskfyllt och svårkontrollerat, men det anses samtidigt fylla en begränsad men nödvändig funktion för att upprätthålla Sveriges säkerhet och handlingsfrihet i ett allt mer spänt internationellt läge.
 
+## Framgångar, Observander, Avskrivna och Strukna
+
+Från Hedströms och Program Friggs perspektiv så delas försökspersonerna in i fyra kategorier. De som framgångsrikt utvecklat krafter och behållt förståndet nog för att kunna vara användbara kallas just Framgångar. De som utvecklat någon typ av krafter, men dessvärre inte är stabila nog för användning benämns Observander. De hålls i allmänhet kvar på någon av pogrammets anläggningar runt om i Sverige för ytterligare studier. De som inte utvecklar några krafter är Avskrivna, några av dem går tillbaka till sina civila liv. Andra har tappat förståndet av experimenten och hamnar på någon insttution, inte sällan Beckomberga sjukhus. De sista är de Strukna, de som inte överlevde experimenten och ligger i omärkta gravar på Skogskyrkogården i Stockholm.
+
 # Doktor Lars Hedström och T-kontoret
 
 ![[Lars Hedström.png|inline|200]]Doktor Lars Hedström är en central figur i I Rikets Tjänst. Han är initiativtagaren till Program Frigg och 15 år senare fortfarande närmast oantastlig ledare. De moraliska betänkligheter som yttrades i början av programmet har tystnat allteftersom resultaten har visat sig.
