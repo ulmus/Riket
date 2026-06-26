@@ -506,6 +506,62 @@ Spendera 1 Fokus före ett upptäcktsslag för +3 tärningar. Bara 1 Fokus per s
 
 När du befinner dig i en miljö med säkerhetsrutiner (en bevakad anläggning, en gränspassage, ett bostadsområde med vakter) kan du spendera 1 Fokus för att vid en kort observation, utan slag, notera rutinmässiga brister — schemaglapp mellan vaktbyten, dåligt installerade lås, oövervakade ingångar, slarviga rondsystem. SL beskriver vilka svaga punkter som finns.
 
+### Soldat
+
+#### Fältmässig
+
+*Krav:* Expertis: Soldat
+
+Marscher, packning, kyla, hetta och brist på sömn försämrar inte dina fysiska handlingar i fält — du är van vid umbäranden som bryter ner andra. Spendera 1 Fokus för att låta hela din grupp dela din härdighet under en scen, till exempel en lång marsch, en natt i kylan eller en utdragen bevakning.
+
+#### Stridsfältsblick
+
+*Krav:* Expertis: Soldat
+
+Spendera 1 Fokus för att utan slag läsa det omedelbara stridsläget — var det bästa skyddet finns, vilken väg som flankerar fienden, vem av motståndarna som är farligast eller står på tur att skjuta. SL beskriver vad ditt vana öga ser.
+
+### Polis
+
+#### Auktoritet
+
+*Krav:* Expertis: Polis
+
+När du gör anspråk på din befogenhet — kräver legitimation, beordrar någon att stanna, tar befäl över en plats — lyder vanliga civila och lägre tjänstemän av ren reflex. Mot den ovillige eller skyldige kan du spendera 1 Fokus och slå *Samspel + Vilja* för att tvinga fram ett ögonblicks tvekan eller lydnad.
+
+#### Brottsplatsblick
+
+*Krav:* Expertis: Polis
+
+När du undersöker en brotts- eller olycksplats kan du, en gång per scen, utan slag peka ut det som inte stämmer — det felplacerade föremålet, det som saknas, spåret efter vad som verkligen hänt. SL berättar vad din rutin får dig att se.
+
+### Spion
+
+#### Fältmannaskap
+
+*Krav:* Expertis: Spion
+
+Spendera 1 Fokus före ett slag för fältmannaskap — skuggning, motbevakning, döda brevlådor, källhantering eller att hålla en täckmantel — för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
+
+#### Konspirativ blick
+
+*Krav:* Expertis: Spion
+
+Spendera 1 Fokus för att utan slag känna av om en plats eller ett möte är bevakat — peka ut skuggor i folkvimlet, en kollega i facket, en dold brevlåda — och samtidigt notera en ren reträttväg. SL beskriver vad din misstänksamhet uppfattar.
+
+### Journalist
+
+#### Grävande reporter
+
+*Krav:* Expertis: Journalist
+
+Spendera 1 Fokus före ett slag för att intervjua, gräva i arkiv eller korsa källor mot varandra för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
+
+#### Pressens makt
+
+*Krav:* Expertis: Journalist
+
+Få vet hur man säger nej till pressen. Spendera 1 Fokus och slå *Samspel + List* för att få någon att släppa in dig, tala eller lämna ifrån sig något — den fåfänge för att synas, den skyldige för att slippa synas. Spendera 1 Effekt för att också ge ett löfte om anonymitet som väger tungt: källan vågar då säga mer än den annars skulle.
+
 ## Bakgrundsförmågor
 
 ### Polyglott
