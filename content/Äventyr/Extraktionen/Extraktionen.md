@@ -179,7 +179,7 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
-[![[Berlin.png|wide]]](<content/Äventyr/assets/Extraktionen/Kartor/Berlin.png>)nen/Kartor/Berlin.png|wide]]](<Berlin.png>)
+[![[public/äventyr/extraktionen/kartor/berlin.png|wide]]](<content/Äventyr/Extraktionen/Kartor/Berlin.png>)nen/Kartor/Berlin.png|wide]]](<Berlin.png>)
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
@@ -763,7 +763,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 
 ### Elias Lewinsky / "Golem"
 
-[![[Golem.png]]](<content/Äventyr/assets/Extraktionen/SLP/Golem.png>)traktionen/SLP/Golem.png]]](<Golem.png>)
+[![[public/äventyr/extraktionen/slp/golem.png]]](<content/Äventyr/Extraktionen/SLP/Golem.png>)traktionen/SLP/Golem.png]]](<Golem.png>)
 
 En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 cm lång och bred som en dörr. Hans hud är gråaktig och ärrad, hans ansikte nästan uttryckslöst utom en djup sorg i ögonen. Han bär enkla kläder – grå byxor och jacka – som ofta går sönder när han använder sin styrka.
 
@@ -801,7 +801,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 ### Yaakov Dayan (Jakob Lewinsky)
 
-[![[Yaakuv.png]]](<content/Äventyr/assets/Extraktionen/SLP/Yaakuv.png>)aktionen/SLP/Yaakuv.png]]](<Yaakuv.png>)
+[![[public/äventyr/extraktionen/slp/yaakuv.png]]](<content/Äventyr/Extraktionen/SLP/Yaakuv.png>)aktionen/SLP/Yaakuv.png]]](<Yaakuv.png>)
 
 Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, medelbyggd med mörkt hår och intensiva ögon som sällan stannar på ett ställe. Han bär servitörskläder som täckmantel men rör sig med en militär precision som avslöjar träningen bakom. Under fasaden döljer sig tolv års hat och ett löfte avgivet vid sin brors grav.
 
@@ -887,7 +887,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 
 ### Agent Richard "Dick" Donnelly
 
-[![[Dick.png]]](<content/Äventyr/assets/Extraktionen/SLP/Dick.png>)Extraktionen/SLP/Dick.png]]](<Dick.png>)
+[![[public/äventyr/extraktionen/slp/dick.png]]](<content/Äventyr/Extraktionen/SLP/Dick.png>)Extraktionen/SLP/Dick.png]]](<Dick.png>)
 
 Charmig men hänsynslös fältagent i trettifemårsåldern. Donnelly presenterar sig som kulturattaché men är uppenbart mer. Han är självsäker, pratar flera språk och har kontakter överallt.
 
@@ -923,7 +923,7 @@ Baranov är en bakgrundsfigur som koordinerar operationen men deltar inte direkt
 
 ### Kapten Lyudmila Sokolova
 
-[![[Lyudmila.png]]](<content/Äventyr/assets/Extraktionen/SLP/Lyudmila.png>)onen/SLP/Lyudmila.png]]](<Lyudmila.png>)
+[![[public/äventyr/extraktionen/slp/lyudmila.png]]](<content/Äventyr/Extraktionen/SLP/Lyudmila.png>)onen/SLP/Lyudmila.png]]](<Lyudmila.png>)
 
 KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort mörkt hår och neutrala kläder som hjälper henne att försvinna i folkmassan. Hon är tyst, iskall och absolut disciplinerad, med en förmåga att läsa rum och situationer på ett ögonblick. Hon har full insikt i ENS-agenter och leder gripandet av Richter med metodisk precision.
 
@@ -940,7 +940,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 
 ### Jelena Ivanova (Morana, Zvezda-agent)
 
-[![[Morana.png]]](<content/Äventyr/assets/Extraktionen/SLP/Morana.png>)aktionen/SLP/Morana.png]]](<Morana.png>)
+[![[public/äventyr/extraktionen/slp/morana.png]]](<content/Äventyr/Extraktionen/SLP/Morana.png>)aktionen/SLP/Morana.png]]](<Morana.png>)
 
 Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek som is med vitt hår och läppar med en blåaktig nyans som förbryllar dem som möter henne. Hon talar knappt och behandlar alla runt henne som objekt snarare än personer. Vid mottagningen verkar hon märkligt felplacerad — för stilla, för exakt i sina rörelser, och ovanligt kall att ta i hand.
 
@@ -974,7 +974,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 ### Vladimir Popov (Svarog, Zvezda-agent)
 
-[![[Svarog.png]]](<content/Äventyr/assets/Extraktionen/SLP/Svarog.png>)aktionen/SLP/Svarog.png]]](<Svarog.png>)
+[![[public/äventyr/extraktionen/slp/svarog.png]]](<content/Äventyr/Extraktionen/SLP/Svarog.png>)aktionen/SLP/Svarog.png]]](<Svarog.png>)
 
 Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bred och muskulös med ständigt svettad hud som utstrålar märkbar värme vid beröring. Han rör sig som ett rovdjur bland gästerna, alltid nära Sokolova, alltid med ryggen mot väggen. Hans ärrade händer och konstanta svettning avslöjar att hans kropp är ett vapen som aldrig riktigt vilar.
 
