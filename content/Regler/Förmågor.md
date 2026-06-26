@@ -556,7 +556,7 @@ Spendera 1 Fokus för att utan slag känna av om en plats eller ett möte är be
 
 Spendera 1 Fokus före ett slag för att intervjua, gräva i arkiv eller korsa källor mot varandra för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
-#### Pressens makt
+#### Tredje statsmakten
 
 *Krav:* Expertis: Journalist
 

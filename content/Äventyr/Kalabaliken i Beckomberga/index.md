@@ -50,11 +50,11 @@ Rummen nedan är numrerade enligt planritningen ovan (*se [[#Läget på Beckombe
 
 ### Beckomberga sjukhus i stort
 
-Beckomberga är ett av norra Europas största mentalsjukhus — en hel liten stad av gula tegelpaviljonger utspridda i en parklik anläggning i Bromma, väster om Stockholm. Sedan invigningen 1932 har tusentals patienter passerat genom dess avdelningar. En sommardag 1961 ligger området dåsigt i värmeböljan: gräsmattorna är gulnade, syrenerna överblommade, och de flesta läkare och vårdare är på semester. Bemanningen är tunn, rutinerna sega, och en hel paviljong kan stå avskärmad i dagar utan att någon utanför reagerar.
+Beckomberga är ett av norra Europas största mentalsjukhus: gula tegelpaviljonger i en parkanläggning i Bromma, väster om Stockholm, i drift sedan 1932. Sommaren 1961 är det värmebölja och de flesta läkare och vårdare har semester. Bemanningen är tunn, och en avskärmad paviljong kan stå utan tillsyn i dagar innan någon utanför reagerar.
 
-Det är just den isoleringen som gör situationen möjlig — och farlig. Sjukhusledningen vill till varje pris undvika skandal. Överläkare **Sigurd Brandt** (se [[#Överläkare Sigurd Brandt]]) har avbrutit sin semester och spärrat av Paviljong 10 med en tunn förklaring om *smittrisk och karantän*, tillräckligt för att hålla nyfiken personal borta men inte för att stå emot granskning. Den övergivna radiobilen från ordningspolisen står fortfarande parkerad på grusplanen utanför paviljongen — ett obekvämt frågetecken som ledningen helst inte vill förklara.
+Sjukhusledningen vill undvika skandal. Överläkare **Sigurd Brandt** (se [[#Överläkare Sigurd Brandt]]) har avbrutit sin semester och spärrat av Paviljong 10 med hänvisning till *smittrisk och karantän* — nog för att hålla personal borta, inte nog för att tåla närmare granskning. Ordningspolisens radiobil står kvar på grusplanen utanför; ledningen har ingen förklaring den vill ge.
 
-För rollpersonerna är området lätt att röra sig i: stora avstånd, gott om skymmande grönska och en personal van vid att inte ställa frågor. Det betyder också att en *våldsam* upplösning kan utspela sig utan vittnen — men att ett klavertramp lika gärna kan dra in den riktiga polisen, pressen eller en orolig anhörig. Brandt möter rollpersonerna i administrationsbyggnaden, redogör motvilligt för läget och kan förse dem med nycklar, vita rockar, journaler och en karta över paviljongen.
+Området är lätt att röra sig i: stora avstånd, mycket grönska och en personal van att inte ställa frågor. En våldsam upplösning kan därför ske utan vittnen — men ett misstag kan lika gärna dra in riktig polis, press eller en anhörig. Brandt tar emot rollpersonerna i administrationsbyggnaden, går motvilligt igenom läget och kan ge dem nycklar, vita rockar, journaler och en karta över paviljongen.
 
 > **Vem mer rör sig på området:** Maj-Britt Holmbergs folkabubbla står redan parkerad i utkanten av sjukhusparken, och någonstans bland paviljongerna rekognoserar de två GRU-agenterna. Ingen av dem har ännu förstått vad de gett sig in i.
 
@@ -62,13 +62,13 @@ För rollpersonerna är området lätt att röra sig i: stora avstånd, gott om 
 
 ### Paviljong 10, första våningen, västra korridoren, avdelningen för lugna patienter
 
-Detta är **Akhenatons hov**. Bakom barrikader av sängar, byråar och fastskruvade bord har ett tiotal patienter och vårdare, de två konstaplarna och Dr. Lindqvist förskansat sig sedan en vecka. Avdelningen för lugna patienter — enkelrum, fyrbäddssalar, ett dagrum och bad längs en mittkorridor — har förvandlats till ett delirium gjutet i verklighet.
+**Akhenatons hov.** Bakom barrikader av sängar, byråar och fastskruvade bord har ett tiotal patienter och vårdare, de två konstaplarna och Dr. Lindqvist hållit till i ett par dagar. Avdelningen för lugna patienter har enkelrum, fyrbäddssalar, ett dagrum och bad längs en mittkorridor.
 
-Det första som möter rollpersonerna är **scenografin**: lakan draperade som linnedräkter och huvudbonader, kohl och rödfärg som smink, väggar klottrade med stympade hieroglyfer och solskivor i blod, jod och kritor från laboratoriet. Möbler har staplats till altaren. En patient står paralyserad i givakt vid en "port". Stämningen är inte rasande utan högtidlig, drömlik, fel — desto mer skrämmande för det.
+Lakan är draperade som linnedräkter och huvudbonader, ansikten sminkade med kol och rödfärg. På väggarna finns hieroglyfer och solskivor målade med blod, jod och kritor från laboratoriet, och möbler är staplade till altaren. En patient står i givakt vid en dörr han bevakar som en port. Ingen höjer rösten; allt går långsamt och högtidligt.
 
 > **Chockslag vid inträde:** *Analys + Vilja*, Chockfaktor **2** — en hel avdelning fångad i samma vanföreställning, samtidigt lugn och vansinnig. Rollpersoner med Trauma **Vanmakt** eller **Svek** har Chockfaktor +1.
 
-Ju längre in mot Akhenatons rum rollpersonerna rör sig, desto starkare blir trycket från hans **tankefält** (se [[#Wachtmeister / Akhenaton]] och tabellen *Akhenatons tankefält — skala*). Slå för att stå emot — och låt rollpersonerna känna viskningarna långt innan de ser kungen.
+Trycket från Akhenatons **tankefält** (se [[#Wachtmeister / Akhenaton]] och tabellen *Akhenatons tankefält — skala*) ökar ju närmare hans rum man kommer; slå för att stå emot. Viskningarna känns innan kungen syns.
 
 **Nyckelrum:**
 
@@ -80,23 +80,23 @@ Att ta sig genom hovet utan strid kräver att rollpersonerna **spelar med** — 
 
 ### Paviljong 10, första våningen, östra korridoren, avdelningen för oroliga patienter
 
-Den östra flygeln är västra korridorens motsats: inte ordnat vansinne utan rent kaos. Avdelningen för oroliga patienter övergavs av sin personal när Akhenatons inflytande spred sig, och de sju intagna lämnades inlåsta eller strövande. Akhenatons psykotiska tankar har sipprat in även hit, men *inte tagit över* — de oroliga sinnena är för splittrade för att formas till hovets ordnade dyrkan. I stället förstärker fältet deras ångest.
+Personalen på avdelningen för oroliga patienter gav sig av när hovet bredde ut sig, och de sju intagna lämnades inlåsta eller strövande. Akhenatons tankefält når hit men har inte format dem som det format hovet — de oroliga sinnena är för splittrade för det. Fältet gör dem mest ännu oroligare.
 
-Korridoren ekar av rop, knackningar och gråt. Vissa patienter sitter hopkurade, andra slår mot låsta dörrar, någon vandrar fritt och oberäkneligt. Maten är slut, lamporna fladdrar, och stanken av en avdelning utan tillsyn i en vecka ligger tung. Det är hit **Amunhothep Johansson** tänker bryta sig in — för att plundra skafferiet och släpa med sig en patient som "offer" åt sin gud.
+I korridoren hörs rop, knackningar och gråt. Några patienter sitter hopkurade, andra slår mot låsta dörrar, en vandrar fritt. Maten är slut och det luktar av en vecka utan städning. Det är hit **Amunhothep Johansson** vill bryta sig in: hämta mat och släpa med en patient som "offer" åt sin gud.
 
-> **Chockslag:** *Sinnen + Vilja*, Chockfaktor **2** — övergivna människor i panik, instängda och bortglömda. Rollpersoner med Trauma **Vanmakt** eller **Skuld** har Chockfaktor +1: *detta är vad er arbetsgivare lämnar efter sig.*
+> **Chockslag:** *Sinnen + Vilja*, Chockfaktor **2** — instängda, bortglömda människor i panik. Rollpersoner med Trauma **Vanmakt** eller **Skuld** har Chockfaktor +1.
 
-För rollpersonerna är östra korridoren både en fara och en möjlighet. De flesta oroliga patienterna är skrämda och ofarliga (se [[#Oroliga patienter]]), men en handfull kan slå till i panik, och en enda kan vara direkt farlig. Samtidigt är detta en väg som hovet undviker, en plats att gömma sig, förhandla eller leda Johanssons räd i en fälla. Att lugna en patient görs med *Samspel + Vilja*; att tvinga sig förbi med *Fysik + Strid* — men våld mot dessa människor väger tungt.
+De flesta oroliga patienterna är skrämda och ofarliga (se [[#Oroliga patienter]]); några kan slå till i panik och en enstaka kan vara farlig. Hovet undviker korridoren, så den går att använda för att gömma sig, förhandla eller leda Johanssons räd i en fälla. Lugna en patient med *Samspel + Vilja*, tvinga sig förbi med *Fysik + Strid*.
 
 ### Paviljong 10, andra våningen
 
-Övervåningen rymde en tredje avdelning och är nu **utrymd**. När hovet tog bottenvåningen flyttades de friska uppåt och därefter ut — men de oroliga patienterna på andra våningen gjorde motstånd och *fick överges*. Den meningen i bakgrunden döljer något fult: man lämnade människor inlåsta bakom sig när vårdarna drog sig undan.
+Övervåningen rymde en tredje avdelning och är nu utrymd. När hovet tog bottenvåningen flyttades de friska först upp hit och sedan ut. De oroliga patienterna på våningen gjorde motstånd och lämnades kvar, inlåsta, när vårdarna drog sig undan.
 
-Våningen är mörk och tyst sånär som på droppet från en otät ledning och, då och då, en knackning eller ett rop bakom en låst dörr. Dammet ligger i strimmor av sommarljus genom persiennerna. Här uppe är tankefältet svagt — avstånd och betongbjälklag dämpar det — vilket gör andra våningen till den lugnaste platsen i hela paviljongen och en tänkbar reträtt eller bas för rollpersonerna.
+Det är mörkt och tyst, bortsett från ett dropp från en otät ledning och enstaka knackningar eller rop bakom låsta dörrar. Tankefältet är svagt här uppe — avstånd och betongbjälklag dämpar det — så våningen är paviljongens lugnaste plats och duger som reträtt eller bas.
 
-Vad de hittar där beror på hur hårt SL vill vrida kniven:
+Vad de hittar beror på hur långt SL vill driva det:
 
-- **De överlämnade:** En eller flera oroliga patienter, kvarglömda i sina rum, uthungrade och uttorkade men levande. Att hitta dem är en moralisk käftsmäll och en konkret komplikation — de måste tas om hand mitt under uppdraget.
+- **De kvarlämnade:** En eller flera oroliga patienter, kvarglömda i sina rum, uthungrade och uttorkade men vid liv. De måste tas om hand mitt under uppdraget.
 - **En flankväg:** Trappor i båda ändar förbinder våningarna. Härifrån kan rollpersonerna ta sig ner i hovets rygg eller in i östra korridoren utan att passera barrikaderna.
 - **Spår av flykten:** Övergivna tillhörigheter, en omkullvält medicinvagn, en dörr uppbruten inifrån. Den som läser scenen (*Analys + Sinnen*) förstår i vilken ordning paviljongen föll.
 
@@ -106,18 +106,18 @@ SLP:erna nedan följer systemets standard: **Tålighet** är Fysik + Vilja, **St
 
 ### Wachtmeister / Akhenaton
 
-**Kapten Nicholas George Wachtmeister**, trettiotvå år, en gång arrogant och maktfullkomlig sjöofficer — nu härskaren Akhenaton. Vältränad och fortfarande stilig på ett uttärat sätt, med en blick som aldrig riktigt landar i samma rum som den han talar med. Sedan ungdomen har han burit på mysticistiska intressen kring antiken och Egypten och en längtan efter renhet i den fulländade kroppen; psykosen har gjutit dessa fragment till en hel inre värld där han är konungarnas konung. Hans kvinnoförakt lever kvar även i deliriet, förklätt till gudars rangordning.
+**Kapten Nicholas George Wachtmeister**, trettiotvå år, tidigare sjöofficer och arrogant redan då — nu härskaren Akhenaton. En gång vältränad, nu mager och rastlös, med en blick som sällan möter den han talar med. Sedan ungdomen har han haft ett intresse för antiken och Egypten och en idé om renhet genom den fulländade kroppen. I psykosen har det vuxit till en sammanhållen vanföreställning där han är konungarnas konung. Hans kvinnoförakt finns kvar, nu som en rangordning bland gudar.
 
 Wachtmeister är en **telepat som trycker ut sina egna tankar i andra**. Förmågan väcktes av elchocksbehandlingarna och har sedan dess vuxit, men han har usel kontroll över den. Kombinationen av okontrollerad telepati och grandiosa vanföreställningar gör att alla som vistas nära honom sugs in i hans värld: de får påträngande, ibland överväldigande tankar om att vara hans undersåtar.
 
-**Viktigt om tonen:** Akhenaton är ingen skurk utan ett **offer** — en avskriven försöksperson som experimenten krossade. Han är farlig, men att skjuta en obeväpnad mentalpatient (omgiven av andra offer) är ett moraliskt vägval, inte en lösning. Det verkliga problemet är hur man *når* mannen bakom guden.
+**Ton:** Akhenaton är ett offer, inte en skurk — en avskriven försöksperson. Han är farlig men obeväpnad och omgiven av andra offer. Utmaningen ligger i att nå mannen bakom guden, inte i att övermanna honom.
 
 **Egenskaper:**
 
 - Vilja 5, Samspel 4, Sinnen 3, Strid 3, Fysik 3, Analys 2, Smidighet 2, List 2
 - **Tålighet:** 8, **Stabilitet:** 2
 - **Expertis:** Officer (f.d. sjöofficer)
-- **Trauma:** Vanmakt — *Aldrig mer*. Experimenten gjorde honom hjälplös; guden Akhenaton är den fullständiga kontrollens fantasi. Han kan inte ge vika, fly eller underkasta sig.
+- **Trauma:** Vanmakt — *Aldrig mer*. Experimenten gjorde honom hjälplös; faraonen Akhenaton är den fullständiga kontrollens fantasi. Han kan inte ge vika, fly eller underkasta sig.
 
 **Krafter:**
 
@@ -151,15 +151,15 @@ Ett direkt psykiskt angrepp — han tränger ut sina tankar tills målets egna v
 
 **Svaghet:** Makten är rotad i vanföreställningen. Lyckas rollpersonerna genuint **spräcka illusionen** — konfrontera honom som mannen Wachtmeister, påminna om skilsmässan, avskedet, hjälplösheten under experimenten (*Samspel + Analys* eller *Samspel + Vilja*, **Svår** till **Mycket Svår**) — vacklar han: tankefältet sjunker ett steg och han tappar nästa Fokus. Den som vägrar erkänna honom alls (som Feldt i sina klara stunder) är svårare att nå. ECT-apparaten både väckte och göder kraften; vad ytterligare — eller annorlunda — bruk av den gör är upp till SL, men den är en hävstång för den som vågar.
 
-**Aktiverat trauma (Vanmakt):** Hotas Akhenaton på allvar exploderar tankefältet okontrollerat över hela våningen (dubbel effekt, ingen precision, kan inte stängas av förrän hotet är borta). Verkligheten suddas ut i hans myt; de omvända gör uppror eller faller i kramp, och *alla* — undersåtar som rollpersoner — träffas urskillningslöst. Detta är äventyrets möjliga klimax.
+**Aktiverat trauma (Vanmakt):** Hotas Akhenaton på allvar slår tankefältet ut okontrollerat. Det når hela våningen utan räckviddsgräns och han kan inte längre välja vem det träffar — behandla det som nivån **Upprörd / hotad**, fast överallt och mot alla samtidigt: undersåtar som rollpersoner slår *Vilja + Vilja* varje runda eller tar **1 Stress**. De omvända gör uppror eller faller i kramp, och fältet kan inte stängas av förrän hotet mot honom är borta. Detta är äventyrets möjliga klimax.
 
 ### Dr. Lindqvist / Nefertiti
 
 **Dr. Margaretha Lindqvist** var en stressad och osäker, nyutexaminerad underläkare med alldeles för mycket ansvar under sommarledigheten — det var hon som administrerade elchockerna på överläkare Brandts ordination, och den första som drogs in i Akhenatons värld. Nu är hon drottning **Nefertiti**, överglänst endast av sitt gemål. Hon bär sin roll med kylig värdighet och behandlar hovet som sina undersåtar.
 
-Det skrämmande med Lindqvist är att hon har kvar sin **medicinska kompetens** även som Nefertiti. Hon har förstått sambandet ingen annan ser: att det är ECT-behandlingarna som väcker Akhenatons krafter till liv. Därför har hon intensifierat dem — hon "stärker" sin konung. Hon vakar över apparaten i tronrummet och är den som mest sannolikt genomskådar rollpersoner som försöker bluffa sig in.
+Som Nefertiti har hon kvar sin **medicinska kompetens**. Hon har förstått det ingen annan ser: att ECT-behandlingarna väcker Akhenatons krafter. Därför har hon intensifierat dem för att "stärka" sin konung. Hon vaktar apparaten i tronrummet och genomskådar lättast de rollpersoner som försöker bluffa sig in.
 
-**Roll i äventyret:** Lindqvist är nyckeln för den som vill förstå *eller* bryta Akhenatons makt — hon vet hur kraften väcks och kan, om hon nås, lika gärna fördjupa som häva den. Att rädda henne tillbaka är en av äventyrets möjliga segrar; hon har varit fången längst och fallit djupast.
+**Roll i äventyret:** Lindqvist vet hur kraften väcks och kan både fördjupa och häva den. Hon är därför nyckeln för den som vill förstå eller bryta Akhenatons makt, och att få tillbaka henne är en av äventyrets möjliga segrar.
 
 **Egenskaper:**
 
@@ -173,7 +173,7 @@ Det skrämmande med Lindqvist är att hon har kvar sin **medicinska kompetens** 
 
 Feldt är en korpulent, äldre och något avmätt konstapel som har sett för mycket för att bli särskilt imponerad av något. Han är den på avdelningen som är **minst influerad** av Wachtmeisters krafter och har stunder av närmast hel klarhet där han ser allas vansinne för vad det är — men sedan glider han tillbaka in i rollen som någon sorts ospecifik egyptisk livvakt. Han vet mycket lite om gamla Egypten, så hans egen bild av hur en sådan ser ut är mer hämtad från Tintin-album än ur historien.
 
-Feldts motvilliga, glesa klarhet gör honom till rollpersonernas bästa möjliga ingång i hovet: en man som *nästan* vet att något är fel. Närmar de sig honom rätt — lugnt, utan att utmana kungen direkt — kan han bli en bräcklig allierad, en informationskälla eller den som i ett avgörande ögonblick vägrar lyda. Pressas eller hotas han glider han tillbaka i livvaktsrollen.
+Feldts glesa klarhet gör honom till rollpersonernas bästa ingång i hovet. Närmar de sig honom lugnt, utan att utmana kungen, kan han bli en bräcklig allierad eller källa — eller vägra lyda i ett avgörande läge. Pressas eller hotas han glider han tillbaka i livvaktsrollen.
 
 **Egenskaper:**
 
@@ -219,7 +219,7 @@ Ett tiotal omvända — lugna patienter, ett par vårdare och de två konstaplar
 - Samspel 2, Vilja 1, Fysik 1, Analys 1, List 1, Sinnen 1, Smidighet 1, Strid 1
 - **Tålighet:** 2, **Stabilitet:** 2
 
-**Utrustning:** Improviserade tillhyggen — sängstolpar, bestick, en avbruten skurborste — och en orubblig övertygelse. (Granqvist och de två konstaplarna är tåligare; se deras egna block.)
+**Utrustning:** Improviserade tillhyggen — sängstolpar, bestick, en avbruten skurborste. (Granqvist och de två konstaplarna är tåligare; se deras egna block.)
 
 ### Oroliga patienter
 
@@ -245,7 +245,7 @@ Den semestrande överläkaren, hämtad in från sitt fritidshus i Norrtälje sk�
 - **Expertis:** Läkare
 - **Förmågor:** Lugnande närvaro
 
-**Utrustning:** Läkarväska, patientjournaler (inklusive Wachtmeisters), nycklar till paviljongen, en illa dold vilja att slippa undan.
+**Utrustning:** Läkarväska, patientjournaler (inklusive Wachtmeisters), nycklar till paviljongen.
 
 ### GRU-agenterna
 
@@ -253,7 +253,7 @@ Den sovjetiska underrättelsetjänsten har länge hållit ett öga på Beckomber
 
 #### Major Anatolij Sorokin
 
-Erfaren GRU-officer som leder rekognoseringen, på plats under täckmantel som tjänsteman vid en handelsdelegation. Talar god, lätt sjungande svenska. Tålmodig, observant och ovillig till väsen — hans uppdrag är att förstå, inte att skjuta. Det var via Sorokins nät som Granqvists rapporter en gång gick.
+Erfaren GRU-officer som leder rekognoseringen, på plats under täckmantel som tjänsteman vid en handelsdelegation. Talar god svenska med viss brytning. Tålmodig och observant; hans uppdrag är att förstå, inte att skjuta. Det var via Sorokins nät som Granqvists rapporter en gång gick.
 
 **Egenskaper:**
 
@@ -275,13 +275,13 @@ Operatören och musklerna, "Grisja" för Sorokin. Tystlåten, vältränad och va
 - **Expertis:** Soldat
 - **Förmågor:** Slagsmål, Automatsalva, Livvakt
 
-**Utrustning:** Gömd k-pist (Skada 2, skadetyp Skjutvapen), kniv (Skada 2, skadetyp Stick), radio, en kall blick.
+**Utrustning:** Gömd k-pist (Skada 2, skadetyp Skjutvapen), kniv (Skada 2, skadetyp Stick), radio.
 
 ### Maj-Britt Holmberg
 
 Ung, driven journalist vid Stockholms Dagblad med ett starkt rättspatos. Hon har fått ett tips av en anhörig till en av patienterna — en vårdare som inte kommit hem — och satt sig i sin folkabubbla för att ta reda på vad som egentligen pågår på Beckomberga. Hennes bil står redan parkerad i utkanten av sjukhusparken.
 
-Maj-Britt är ihärdig, modig och svår att avvisa. Hon är en komplikation (pressen får under inga omständigheter avslöja Program Frigg) men också en möjlig allierad — eller ett offer, om hennes jakt på sanningen för henne rakt in i tankefältet. Hanteras hon illa skriver hon; hanteras hon väl kan hon bli en oväntad resurs.
+Maj-Britt är ihärdig och svår att avvisa. Hon är en komplikation — pressen får inte avslöja Program Frigg — men också en möjlig allierad, eller ett offer om hon tar sig in i tankefältet. Hanteras hon illa skriver hon; hanteras hon väl kan hon bli en resurs.
 
 **Egenskaper:**
 
@@ -289,7 +289,7 @@ Maj-Britt är ihärdig, modig och svår att avvisa. Hon är en komplikation (pre
 - **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Journalist
 
-**Utrustning:** Anteckningsblock och penna, en Rolleiflex-kamera, presslegitimation, en blå Volkswagen "folkabubbla", envishet utöver det vanliga.
+**Utrustning:** Anteckningsblock och penna, en Rolleiflex-kamera, presslegitimation, en blå Volkswagen "folkabubbla".
 
 
 
