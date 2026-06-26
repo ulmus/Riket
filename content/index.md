@@ -57,9 +57,9 @@ Världen över utsätts mer eller mindre frivilliga försökspersoner för outh�
 
 Färdiga uppdrag och kampanjer. *Innehåller spoilers och är främst material för spelledaren.*
 
-- [[content/Äventyr/Kalabaliken i Beckomberga/Kalabaliken i Beckomberga|Kalabaliken i Beckomberga]] – Ett introduktionsäventyr om en avskriven försöksperson vars krafter tagit över en sjukhusavdelning.
-- [[content/Äventyr/Extraktionen/Extraktionen|Extraktionen]] – Ett fristående uppdrag i det delade Berlin, 1961.
-- [[content/Äventyr/Dödsängelns Testamente/Dödsängelns Testamente|Dödsängelns Testamente]] – En kampanj om jakten på Mengeles försvunna loggbok (under utveckling)
+- [Kalabaliken i Beckomberga](/äventyr/kalabaliken-i-beckomberga/) – Ett introduktionsäventyr om en avskriven försöksperson vars krafter tagit över en sjukhusavdelning.
+- [Extraktionen](/äventyr/extraktionen/) – Ett fristående uppdrag i det delade Berlin, 1961.
+- [Dödsängelns Testamente](/äventyr/dödsängelns-testamente/) – En kampanj om jakten på Mengeles försvunna loggbok (under utveckling)
 
 ## Verktyg
 
