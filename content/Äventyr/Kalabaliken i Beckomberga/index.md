@@ -34,6 +34,98 @@ Utöver det så har Stockholms Dagblads reporter Maj-Britt Holmberg fått ett ti
 
 ## Introduktion på T-kontoret
 
+T-kontoret ligger på **Sturegatan 58** på Östermalm, ett anonymt kontorshus där Program Frigg huserar bland ett tjugotal tjänstemän (*se [[Program Frigg (Sverige)#Doktor Lars Hedström och T-kontoret]]*). Det är högsommar 1961, värmebölja, och halva kontoret är på semester. Den som kallas in nu är den som råkar finnas till hands — reserven.
+
+Innan storpolitiken tar vid, be gärna varje spelare beskriva var rollpersonen var när budet kom: på sin civila arbetsplats, i en varm tvåa på Kungsholmen, på en badklippa (*se [[Att spelleda I Rikets Tjänst#Äventyret]]*). **Momentum** börjar på **1**.
+
+### Genomgången
+
+Hedström tar emot dem på sitt rum — en satt man i fyrtiofemårsåldern, glest hår, yllekavaj trots värmen. Han är irriterad över att sommaren störs, men nyfiken.
+
+*"Sätt er. Och stäng fönstret, jag står inte ut med getingarna."*
+
+Han tänder en cigarett och letar bland pappren på skrivbordet.
+
+*"Beckomberga sjukhus, ute i Bromma. Norra Europas största dårhus. Vi har haft patienter där i åratal — avskrivna. Försökspersoner som överlevde men aldrig visade något användbart. Man parkerar dem där och de stör ingen."*
+
+Han skjuter över en tunn akt.
+
+*"Den här heter Wachtmeister. Kapten, marinen, kom till oss sextio. Det blev ingenting av honom — han gick i psykos och hamnade på paviljong tio nu i våras. En av många. Skillnaden är att den senaste veckan har det hänt saker på den avdelningen som inte ska kunna hända. Vårdare som inte kommer hem. Folk som körs bort. Polisen blev inringd."*
+
+Han ser trött på dem.
+
+*"Överläkaren där, Brandt, är vår man. Han ringde i panik. Och ska jag tro honom — vilket jag inte är säker på att jag gör — så låter det här mindre som en galen kapten och mer som en observand. Någon som faktiskt fick krafter. Sent, och fel, men ändå."*
+
+*"Åk dit och ta reda på vad det är. Är det en av våra, städar vi upp efter oss själva. Det jag inte vill ha är polis, tidningar eller anhöriga som drar i trådar som leder hit. Förstått?"*
+
+**Vad Hedström vill (uppdraget):**
+
+- Ta sig till Beckomberga och avgöra vad som faktiskt pågår på paviljong 10.
+- Bekräfta om Wachtmeister är en **observand** — en avskriven som sent utvecklat krafter.
+- Lösa situationen *diskret*, utan spår tillbaka till Program Frigg.
+- Hålla polis, press och anhöriga utanför.
+
+**Vad Hedström berättar:**
+
+- Wachtmeister togs in som försöksperson 1960, avgiftades och experimenterades på, men utvecklade aldrig krafter och föll i psykos.
+- Han skrevs in på Beckomberga i april, paviljong 10, avdelningen för lugna patienter.
+- Den senaste veckan uteblir vårdare, personal körs bort och polisen har kopplats in.
+- Brandt — överläkaren och Friggs kontakt — har avbrutit semestern och spärrat av paviljongen.
+
+**Vad Hedström inte säger, eller inte vet:**
+
+- Att Wachtmeister är telepat och dragit en hel avdelning in i sin vanföreställning. (*Hedström vet det inte; Brandts rapport var förvirrad.*)
+- Att två poliser och underläkare Lindqvist redan är omvända.
+- Att elchocksbehandlingarna väckte och göder kraften.
+- Att GRU skickat agenter och att en reporter är på väg. (*Det vet ingen på T-kontoret än.*)
+- Hur lite Frigg bryr sig om de avskrivna. Det här är rollpersonernas första närkontakt med hur deras arbetsgivare hanterar sina misslyckanden — en ingång för Trauma **Svek**, **Vanmakt** eller **Skuld**.
+
+**Pressa Hedström.** Rollpersoner som anar att han håller inne kan slå motstånd (*Samspel + Sinnen* mot Hedströms *Samspel + Vilja*, 6 tärningar). Vid framgång: han är ovanligt ovillig att tala om Wachtmeister själv och verkar mer road än bekymrad över observand-möjligheten. Fler detaljer har han inte — Brandt får fylla i på plats.
+
+**Täckmantel och fria händer.** Hedström ger dem ett uppdragsbrev och hänvisar till Brandt, som möter dem på sjukhuset. En lämplig täckmantel utåt är inspektörer från Medicinalstyrelsen eller ett smittskyddsteam, vilket passar Brandts karantänhistoria. De har fria händer att lösa det "på lämpligt sätt" — men städningen är deras ansvar. Hedström vill ha resultat, inte detaljer.
+
+**Klockan tickar.** Hedström vill att de åker samma dag. Ju längre situationen pågår, desto större risk att den spiller över (*se [[#Tänkbara utfall]]*).
+
+## Ankomsten till Beckomberga
+
+Rollpersonerna kör västerut ur stan, ut till Bromma. Beckomberga breder ut sig som en egen liten stad: gula tegelpaviljonger utspridda i en vidsträckt park, grusgångar, gulnade gräsmattor i värmen. Det är glest med folk, och den personal som är i tjänst rör sig långsamt och frågar inget.
+
+### Brandt tar emot
+
+Brandt möter dem i administrationsbyggnaden, inte i paviljongen (*roll och stats i [[#Överläkare Sigurd Brandt]]*). Han är trött, generad och vill mest få allt att försvinna.
+
+*"Tack och lov. Jag visste inte vem annars jag skulle ringa — doktor Hedström sa att ni skulle komma."*
+
+Han sänker rösten fast ingen är i närheten.
+
+*"Jag har spärrat av paviljong tio. Smittrisk, har jag sagt, scharlakansfeber. Det håller personalen borta, men inte i längden. Och radiobilen där ute — två konstaplar åkte in och har inte kommit ut sedan dess. Jag vågar inte gå dit själv."*
+
+Brandt ger dem nycklar, vita rockar, patientjournaler (inklusive Wachtmeisters) och en karta över paviljongen (*se [[#Beckomberga sjukhus i stort]]*). Han tonar ner läget, undanhåller sitt eget ansvar för ECT-ordinationen och vill helst inte följa med in.
+
+**Vad Brandt kan berätta** (villigt om läget, motvilligt om sin egen roll; pressas med *Samspel + Analys* eller *Samspel + Vilja*):
+
+- Han ordinerade Wachtmeisters elchocksbehandling per telefon från sommarstället och lämnade själva genomförandet till underläkare Lindqvist.
+- Lindqvist slutade rapportera för en vecka sedan. Sedan började vårdare utebli.
+- De två konstaplarna gick in för att se efter och kom aldrig ut.
+- Han vet att flera patienter på paviljongen "varit med om saker" i försvarets regi, men saknar detaljer.
+
+**De andra på området.** Redan vid ankomsten finns tecken på att rollpersonerna inte är ensamma (*se [[#De andra på fältet]]*):
+
+- En blå folkabubbla står parkerad i utkanten av parken. I närheten, med en kamera, rör sig en ung kvinna — reportern **Maj-Britt Holmberg**.
+- Ett slag för *Sinnen + Sinnen* fångar två män som inte hör hemma: välklädda, för uppmärksamma, på väg mellan paviljongerna utan ärende. GRU:s rekognosering. De följer inte efter, de iakttar.
+
+### Vägen in
+
+Paviljong 10 ligger för sig själv, avspärrad. Hur rollpersonerna tar sig in är deras val och formar resten av äventyret:
+
+- **Öppet, i vita rockar** — som personal, inspektörer eller sändebud. Att passera hovet utan strid kräver att de **spelar med** (*Samspel + List* eller *Samspel + Vilja*; *se [[#Paviljong 10, första våningen, västra korridoren, avdelningen för lugna patienter]]*).
+- **Tyst** — in via östra korridoren, eller över andra våningen som ger en flankväg ner i hovets rygg utan att passera barrikaderna (*se [[#Paviljong 10, andra våningen]]*).
+- **Med våld** — storma barrikaderna. Möjligt, men hovet är offer, inte fiender (*se [[#Tänkbara utfall]]*).
+
+När de närmar sig paviljongen möts de av tystnaden, lukten och de första viskningarna från tankefältet, långt innan de ser någon. Chockslaget väntar vid inträdet i västra korridoren.
+
+**Klockan.** Inne i paviljongen tar maten slut och Amunhothep Johansson förbereder en räd in i östra korridoren för att hämta mat och ett "offer". Dröjer rollpersonerna sätts räden i verket (*se [[#Tänkbara utfall]]*).
+
 ## Läget på Beckomberga
 
 ![[Beckomberga.png|wide]]
@@ -99,6 +191,47 @@ Vad de hittar beror på hur långt SL vill driva det:
 - **De kvarlämnade:** En eller flera oroliga patienter, kvarglömda i sina rum, uthungrade och uttorkade men vid liv. De måste tas om hand mitt under uppdraget.
 - **En flankväg:** Trappor i båda ändar förbinder våningarna. Härifrån kan rollpersonerna ta sig ner i hovets rygg eller in i östra korridoren utan att passera barrikaderna.
 - **Spår av flykten:** Övergivna tillhörigheter, en omkullvält medicinvagn, en dörr uppbruten inifrån. Den som läser scenen (*Analys + Sinnen*) förstår i vilken ordning paviljongen föll.
+
+## De andra på fältet
+
+Förutom Akhenatons hov och rollpersonerna rör sig två utomstående parter på området: två GRU-agenter och en reporter. Ingen av dem förstår att det handlar om en telepat, och båda riskerar att själva sugas in i hovet. Använd dem för att variera tempot, sätta press och spegla rollpersonernas eget läge. Stats finns i [[#Persongalleri]].
+
+### Att spela GRU-agenterna
+
+**Vad de vill:** ta reda på vad som hänt deras informatör Emil Granqvist, som tystnat. De tror att de utreder en komprometterad eller avhoppande Frigg-patient och anar inget om telepatin. (Stats: [[#GRU-agenterna]].)
+
+**Faser:**
+
+- **Rekognosering.** Sorokin och Lebedev kartlägger området diskret — iakttar, fotograferar, håller täckmantel. De kan skugga rollpersonerna i tron att dessa är Friggs städpatrull (vilket de är).
+- **Sondering.** De försöker nå Granqvist eller ta sig in i paviljongen. De kan söka kontakt med rollpersonerna, som rivaler som känner av varandra eller med en trevare om vapenvila. Sorokin vill förstå; Lebedev vill agera.
+- **När det surnar.** Lebedev drar vapen först. Eller så kommer en av agenterna för nära Akhenaton och fastnar i tankefältet (slå *Vilja + Vilja* som alla andra) — en omvänd GRU-agent, knäböjande inför faraonen eller vänd mot sin egen partner, är en stark vändning.
+
+**Mot rollpersonerna:** rivaler om samma byte, tillfälliga bundsförvanter i en vapenvila för att ta sig ut levande, eller en varning om vad som väntar.
+
+**Ton:** Sorokin är tålmodig och observant, den rimliga man kan förhandla med, och skjuter helst inte. Lebedev är musklerna — otålig, lojal mot Sorokin, eskaleringsrisken.
+
+**Reglage:** Låt dem vara bakgrund (en parkerad bil, en skymt, fotspår) eller aktiva rivaler, beroende på hur mycket action bordet vill ha. De är också en andra klocka: är rollpersonerna långsamma kan GRU ta sig in först och utlösa kaoset. Överlever en agent med vetskap om att Frigg producerar något verkligt har Sovjet fått upp vittringen — ett kampanjfrö (*jämför [[Extraktionen]]*).
+
+### Att spela Maj-Britt Holmberg
+
+**Vad hon vill:** storyn. Hon har fått ett tips av en anhörig till en vårdare som inte kommit hem, och drivs av ett starkt rättspatos. (Stats: [[#Maj-Britt Holmberg]].)
+
+**Hur hon rör sig:**
+
+- Börjar parkerad i utkanten, knackar dörr bland personal och anhöriga och fotograferar med sin Rolleiflex.
+- Är ihärdig och svår att avvisa. Bemöts hon med en klumpig lögn gräver hon vidare.
+- Kan försöka ta sig in i den avspärrade paviljongen på egen hand — och hamnar då i tankefältet, en civil i fara.
+
+**Mot rollpersonerna:** en komplikation (pressen får inte avslöja Frigg), en möjlig allierad (hanteras hon med respekt) eller ett offer (tar hon sig in).
+
+**Ton:** idealistisk, skarp, modig på gränsen till vårdslös. Hon är sympatisk, inte en skurk — den fria pressen mot den hemliga staten, en spegel av rollpersonernas eget läge.
+
+**Reglage:**
+
+- **Avvisa** (*Samspel + List* eller *Samspel + Vilja*) — fungerar tillfälligt; hon återkommer.
+- **Styr om henne** — ge en sann men ofarlig story (ett avgränsat sjukdomsutbrott), eller vädja till följderna: namngivna patienter får sina liv förstörda.
+- **Värva henne** — möts hon med ärlighet kan hon bli en resurs: kamera, kontakter, en flyktbil, eller ett vittne som väljer tystnad.
+- **Hantera henne illa** — hon publicerar, och Hedströms mardröm blir verklighet (*se [[#Tänkbara utfall]]*).
 
 ## Persongalleri
 
@@ -294,3 +427,48 @@ Maj-Britt är ihärdig och svår att avvisa. Hon är en komplikation — pressen
 
 
 ## Tänkbara utfall
+
+Det finns inget rätt slut. Äventyret frågar vad rollpersonerna gör med ett offer som blivit farligt, och med alla offer runtomkring honom. Hedström vill ha det undanstädat och tyst; vad som är rätt kan vara något annat. Kärnan är att nå mannen bakom guden, inte att övermanna honom.
+
+### Vägar genom hovet
+
+Några sätt att lösa grundproblemet (mekanik i [[#Wachtmeister / Akhenaton]] och [[#Dr. Lindqvist / Nefertiti]]):
+
+- **Spela med.** Uppträd som sändebud, präster eller undersåtar och ta er in till tronrummet utan strid (*Samspel + List* eller *Samspel + Vilja*). Väl inne kan ni nå Wachtmeister eller säkra ECT-apparaten och Lindqvist.
+- **Spräck illusionen.** Konfrontera honom som mannen Wachtmeister — skilsmässan, avskedet, hjälplösheten under experimenten (*Samspel + Analys* eller *Samspel + Vilja*, **Svår** till **Mycket Svår**). Lyckas det vacklar guden: tankefältet sjunker ett steg och hovet vaknar förvirrat. Den humana segern.
+- **Vänd Lindqvist.** Hon vet hur kraften väcks och hävs. Att nå henne, eller ta apparaten hon vaktar, är en nyckel.
+- **ECT-apparaten.** Hävstången som väckte och göder kraften. Annat eller ytterligare bruk är SL:s avgörande — den kan dämpa honom, slå fel eller göda honom ännu mer.
+- **Feldt.** Den klarsynte konstapeln kan bli en bräcklig väg in (*se [[#Konstapel Ernst Feldt]]*).
+- **Våld.** Att storma hovet går, men de är patienter, vårdare och två poliser. Allvarligt hot mot Akhenaton kan utlösa hans **aktiverade trauma**, då tankefältet slår ut över hela våningen — äventyrets möjliga klimax.
+
+### Möjliga slut
+
+1. **Den tysta lösningen (vad Hedström vill).** Akhenaton oskadliggörs eller hämtar sig, hovet skingras, patienterna återförs, polisen "förklaras", pressen tystas och GRU lämnas i mörkret. Frigg städar upp och Wachtmeister blir en observand att studera. Frågan är vad det kostade rollpersonerna.
+2. **Mannen bakom guden.** Illusionen spräcks utan blodspillan. Wachtmeister bryter samman, inte längre kung, och hovet vaknar till insikt. En seger med eftersmak: Frigg har nu en bekräftad telepat, och rollpersonerna måste avgöra vad de rapporterar.
+3. **Blodbad.** Våld utlöser det aktiverade traumat. Fältet exploderar, omvända gör uppror eller faller i kramp, poliserna skjuter, patienter dör. Dör Akhenaton slocknar fältet och lämnar en våning av traumatiserade människor utan minne av vad som hänt. En pyrrhusseger, svår att hålla tyst.
+4. **Det läcker ut.** Maj-Britt publicerar, GRU kommer undan med vad de sett, eller en anhörig talar. Program Frigg exponeras, helt eller delvis. Hedström rasar och Palm kopplas in — kampanjkonsekvenser snarare än ett rent misslyckande.
+5. **GRU-komplikationen.** Sovjet får tag i Granqvist, en omvänd agent eller bevis för att Frigg skapar övermänniskor — ett bakslag på kampanjnivå (*jämför [[Extraktionen]]*). Eller så tar sig rollpersonerna och GRU båda knappt undan ett utslaget tankefält och skiljs som motvilliga bekanta.
+6. **Akhenatons öde.** Återhämtad (sällsynt), djupare institutionaliserad under Frigg, död — eller, mörkast, bedömd som användbar och återförvärvad som tillgång trots sin instabilitet. En spegel av rollpersonernas eget ursprung.
+
+### Komplikationer
+
+| Händelse | Konsekvens |
+| -------- | ---------- |
+| Rollpersonerna dröjer för länge | Johanssons räd in i östra korridoren sätts i verket: en orolig patient släpas bort som "offer", korridoren brakar loss och ett dödsfall måste förhindras. |
+| De hotar kungen öppet | Hovet sluter upp till hans försvar; risk för aktiverat trauma. |
+| En rollperson badar för länge i tankefältet | Långsam dragning mot omvändelse — aldrig ett enskilt slag, utan utspelat över hög Stress och upprepade misslyckanden. |
+| Maj-Britt hanteras illa | Hon publicerar; exponeringsklockan startar. |
+| Maj-Britt tar sig in i paviljongen | En civil i tankefältet — offer eller gisslan. |
+| GRU når Granqvist eller Akhenaton först | Kaos, en omvänd agent eller eldstrid. |
+| Lindqvist dödas eller förloras | Kunskapen om hur kraften hävs går förlorad; svårare att rädda Wachtmeister. |
+| ECT-apparaten förstörs eller missbrukas | SL avgör: dämpar, slår fel eller göder kraften. |
+| Akhenaton dödas | Fältet slocknar; en våning av förvirrade, traumatiserade människor; svårare mörkläggning. |
+
+### Efterspel
+
+- **Wachtmeister och Lindqvist:** vad gör Frigg med en bekräftad telepat och den läkare som förstår kraften?
+- **Konstaplarna:** vad minns Feldt och Johansson, och vad berättas för polisen?
+- **Patienterna och de anhöriga:** de döda vårdarnas familjer och de bortglömda på andra våningen.
+- **GRU:** har Sovjet fått vittring på Frigg pekar trådarna vidare ut i världen (*se [[Extraktionen]]*).
+- **Maj-Britt:** hennes val, och vad rollpersonerna är skyldiga henne.
+- **Rollpersonerna:** detta är introduktionsäventyret. De har sett vad Frigg gör med sina misslyckanden — sätt tonen för kampanjens moraliska gråzon och för vad de tycker om sin arbetsgivare (*se [[Att spelleda I Rikets Tjänst#Karaktären]]*).
