@@ -108,7 +108,7 @@ Träffens **Effekt** är de framgångar som blev över sedan kravet på att trä
 
 ## 2. Skada (vapenbonus)
 
-Varje vapen har ett värde för **Skada** som är en fast bonus till KP-skadan vid en lyckad träff. Typiska värden är **1** för obeväpnade attacker och **1–5** för beväpnade attacker – se [[Vapen]] för varje vapens Skada.
+Varje vapen har ett värde för **Skada** som är en fast bonus till KP-skadan vid en lyckad träff. Typiska värden är **1** för obeväpnade attacker och **2–6** för beväpnade attacker – se [[Vapen]] för varje vapens Skada.
 
 ## 3. Skydd
 
@@ -130,10 +130,10 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 
 
 ## Exempel
 
-> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 2** och skadetyp **Skjutvapen**.
+> **Anton** skjuter med sin pistol mot en sovjetisk gränsvakt. Pistolen har **Skada 3** och skadetyp **Skjutvapen**.
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
-> Vakten bär **tjock rock (Skydd 1)**. KP-skada = Effekt 2 + 2 Skada − 1 Skydd = **3 KP**.
-> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 3 KP — fortfarande Tjänstduglig, men tar **1 Stress** (av att ha tagit skada).
+> Vakten bär **tjock rock (Skydd 1)**. KP-skada = Effekt 2 + 3 Skada − 1 Skydd = **4 KP**.
+> Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 4 KP — fortfarande Tjänstduglig, men tar **1 Stress** (av att ha tagit skada).
 > 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
 
 ## Effekter av skada
@@ -232,7 +232,7 @@ Se [[Läkning & vård]] för mer information.
 1. **Träff?** Räkna framgångar (10+) på attackslaget.
 2. **Räkna skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0).
 3. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
-4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +vapnets Skada om Penetrerande vapen, +1 per ytterligare 12:a.
+4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
 
 ### Läkning
 

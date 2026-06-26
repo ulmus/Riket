@@ -91,7 +91,7 @@ När karaktären befinner sig i närheten av kraftiga radiosändare eller kraftf
 
 ## Utrustning
 
-- **Pistol m/40:** Räckvidd 25 m, Skada 1, skadetyp Skjutvapen. Ammunition ❏❏
+- **Pistol m/40:** Räckvidd 25 m, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
 - **Tekniker-kit:** Avbitartång, koppartråd, lödkolv och andra verktyg för att manipulera elektronik (+2 på Analys + Smidighet för att hantera teknik).
 - **Dyrkset:** För att tyst ta sig in i låsta utrymmen (+2 på Analys + Smidighet för att dyrka lås).
 - **Bärbar radiopejlare:** För att kunna triangulera och hitta källan till de signaler hen hör.

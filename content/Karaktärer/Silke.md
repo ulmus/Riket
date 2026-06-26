@@ -89,7 +89,7 @@ Djur och andra karaktärer med förstärkta sinnen får **+2** tärningar på sl
 
 ## Utrustning
 
-- **Pistol m/07 med ljuddämpare:** Räckvidd 15 m, Skada 1, skadetyp Skjutvapen, ljuddämpad. Ammunition ❏
+- **Pistol m/07 med ljuddämpare:** Räckvidd 15 m, Skada 3, skadetyp Skjutvapen, ljuddämpad. Ammunition ❏
 - **Sövande gift:** En nål med snabbverkande sömnmedel (*se [[Särskilda situationer#Sömnmedel]]* ).
 - **Förfalsknings-kit:** Pennor, penslar, papper, stämplar m.m. för att förfalska pass, inbjudningar, id-kort.
 - **Garderob:** En resväska med flera eleganta outfits för att snabbt kunna byta skepnad och passa in i olika sociala sammanhang.
