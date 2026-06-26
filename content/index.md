@@ -2,7 +2,7 @@
 title: I Rikets Tjänst
 ---
 
-Ett taktiskt superhjälte-rollspel satt under kalla kriget. Hemliga agenter med övermänskliga krafter, födda ur djupa trauman, tjänar det neutrala Sverige i en värld av spionage, sabotage och skuggkonflikter.
+Ett traumatiskt superhjälte-rollspel under kalla kriget. Hemliga agenter med övermänskliga krafter, födda ur djupa trauman, tjänar det neutrala Sverige i en värld av spionage, sabotage och skuggkonflikter.
 
 Den här sidan samlar allt material för spelet. Börja gärna med [[Introduktion]] för värld och ton, och [[Snabbreferens]] för en snabb väg in i reglerna.
 
