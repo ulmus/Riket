@@ -109,6 +109,12 @@ Brandt ger dem nycklar, vita rockar, patientjournaler (inklusive Wachtmeisters) 
 - De två konstaplarna gick in för att se efter och kom aldrig ut.
 - Han vet att flera patienter på paviljongen "varit med om saker" i försvarets regi, men saknar detaljer.
 
+**Journalerna.** Brandt lämnar över Wachtmeisters journal och avdelningens papper — patientliggare, behandlingsscheman och underläkare Lindqvists daganteckningar. Att läsa och tolka dem görs med *Analys + Sinnen*; fler framgångar ger mer:
+
+- *1 framgång:* Wachtmeister skrevs in 7 april 1961 med schizofren psykos och grandiosa vanföreställningar — han kallar sig Akhenaton och kräver underkastelse. Brandt ordinerade ECT enligt standardprogram (tre gånger i veckan i fyra veckor); Lindqvist administrerade. Liggaren visar vilka som finns på avdelningen: ett tiotal lugna patienter och ett par vårdare, däribland Emil Granqvist.
+- *2 framgångar:* Lindqvists anteckningar blir märkliga från tredje behandlingen — luckor i tiden, "inget minne efter session". Behandlingarna har därefter trappats upp långt utöver ordinationen. Ungefär samtidigt börjar andra patienter och vårdare dyka upp i noteringarna med förändrat beteende.
+- *3+ framgångar:* Mellan raderna skymtar Wachtmeisters förflutna — en remiss utanför de vanliga kanalerna, en avgiftning före intagningen, noteringar som inte hör hemma i en vanlig akt. För en Frigg-agent är han tydligt en av deras egna avskrivna. Mönstret framträder: patientens "episoder" följer elchockerna — det är behandlingen som väcker något, samma slutsats som Lindqvist redan dragit (*se [[#Dr. Lindqvist / Nefertiti]]* och **Svaghet** under [[#Wachtmeister / Akhenaton]]).
+
 **De andra på området.** Redan vid ankomsten finns tecken på att rollpersonerna inte är ensamma (*se [[#De andra på fältet]]*):
 
 - En blå folkabubbla står parkerad i utkanten av parken. I närheten, med en kamera, rör sig en ung kvinna — reportern **Maj-Britt Holmberg**.
@@ -122,7 +128,7 @@ Paviljong 10 ligger för sig själv, avspärrad. Hur rollpersonerna tar sig in �
 - **Tyst** — in via östra korridoren, eller över andra våningen som ger en flankväg ner i hovets rygg utan att passera barrikaderna (*se [[#Paviljong 10, andra våningen]]*).
 - **Med våld** — storma barrikaderna. Möjligt, men hovet är offer, inte fiender (*se [[#Tänkbara utfall]]*).
 
-När de närmar sig paviljongen möts de av tystnaden, lukten och de första viskningarna från tankefältet, långt innan de ser någon. Chockslaget väntar vid inträdet i västra korridoren.
+När de närmar sig paviljongen möts de av tystnaden, lukten och de första viskningarna från tankefältet, långt innan de ser någon. Chockslaget väntar vid inträdet i västra korridoren. **Momentum** stiger till **3** när de tar sig in i paviljongen, och till **4** om det går till öppen strid eller när konfrontationen med Akhenaton når sin spets.
 
 **Klockan.** Inne i paviljongen tar maten slut och Amunhothep Johansson förbereder en räd in i östra korridoren för att hämta mat och ett "offer". Dröjer rollpersonerna sätts räden i verket (*se [[#Tänkbara utfall]]*).
 
@@ -447,7 +453,7 @@ Några sätt att lösa grundproblemet (mekanik i [[#Wachtmeister / Akhenaton]] o
 2. **Mannen bakom guden.** Illusionen spräcks utan blodspillan. Wachtmeister bryter samman, inte längre kung, och hovet vaknar till insikt. En seger med eftersmak: Frigg har nu en bekräftad telepat, och rollpersonerna måste avgöra vad de rapporterar.
 3. **Blodbad.** Våld utlöser det aktiverade traumat. Fältet exploderar, omvända gör uppror eller faller i kramp, poliserna skjuter, patienter dör. Dör Akhenaton slocknar fältet och lämnar en våning av traumatiserade människor utan minne av vad som hänt. En pyrrhusseger, svår att hålla tyst.
 4. **Det läcker ut.** Maj-Britt publicerar, GRU kommer undan med vad de sett, eller en anhörig talar. Program Frigg exponeras, helt eller delvis. Hedström rasar och Palm kopplas in — kampanjkonsekvenser snarare än ett rent misslyckande.
-5. **GRU-komplikationen.** Sovjet får tag i Granqvist, en omvänd agent eller bevis för att Frigg skapar övermänniskor — ett bakslag på kampanjnivå (*jämför [[Extraktionen]]*). Eller så tar sig rollpersonerna och GRU båda knappt undan ett utslaget tankefält och skiljs som motvilliga bekanta.
+5. **GRU-komplikationen.** Sovjet får tag i Granqvist, en omvänd agent, bevis för att Frigg skapar övermänniskor — eller, värst av allt, Wachtmeister själv (att sedan behålla en okontrollerad telepat blir deras problem). Ett bakslag på kampanjnivå (*jämför [[Extraktionen]]*). Eller så tar sig rollpersonerna och GRU båda knappt undan ett utslaget tankefält och skiljs som motvilliga bekanta.
 6. **Akhenatons öde.** Återhämtad (sällsynt), djupare institutionaliserad under Frigg, död — eller, mörkast, bedömd som användbar och återförvärvad som tillgång trots sin instabilitet. En spegel av rollpersonernas eget ursprung.
 
 ### Komplikationer
