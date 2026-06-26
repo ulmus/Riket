@@ -24,7 +24,7 @@ Volkspolizei vid muren, passkontrollant på Tempelhof eller gränssoldat i en re
 - Fysik 2, Strid 2, Sinnen 2, Samspel 2, Smidighet 2, Analys 1, List 1, Vilja 1
 - **Tålighet:** 3, **Stabilitet:** 3
 
-**Utrustning:** K-pist eller tjänstepistol (Skada 2, skadetyp Skjutvapen), passregister och stämpeldyna, visselpipa.
+**Utrustning:** K-pist eller tjänstepistol (Skada 3, skadetyp Skjutvapen), passregister och stämpeldyna, visselpipa.
 
 ### Menig soldat
 
@@ -35,7 +35,7 @@ Värnpliktig gränssoldat, vaktstyrka eller Volksarmee-menig. Ung, oerfaren och 
 - Fysik 3, Strid 2, Sinnen 2, Smidighet 2, Samspel 2, Analys 1, List 1, Vilja 1
 - **Tålighet:** 4, **Stabilitet:** 2
 
-**Utrustning:** Automatkarbin (Skada 3, skadetyp Skjutvapen), fältuniform, handgranat (Skada 6, skadetyp Explosion), fältradio.
+**Utrustning:** Automatkarbin (Skada 4, skadetyp Skjutvapen), fältuniform, handgranat (Skada 6, skadetyp Explosion), fältradio.
 
 ### Ordningspolis
 
@@ -46,7 +46,7 @@ Svensk konstapel på Kungsgatan eller utländsk uniformerad polis. Inte fiende, 
 - Fysik 2, Strid 2, Samspel 2, Vilja 2, Sinnen 2, Analys 2, List 1, Smidighet 1
 - **Tålighet:** 4, **Stabilitet:** 3
 
-**Utrustning:** Batong (Skada 2, skadetyp Kross), tjänstepistol (Skada 2, skadetyp Skjutvapen), visselpipa, handbojor.
+**Utrustning:** Batong (Skada 2, skadetyp Kross), tjänstepistol (Skada 3, skadetyp Skjutvapen), visselpipa, handbojor.
 
 ### Civilist
 
@@ -80,7 +80,7 @@ Nattvakt på fabrik, dörrvakt vid ambassaden, beväpnad post vid ett laboratori
 - Fysik 2, Sinnen 2, Strid 2, Vilja 2, Analys 1, List 1, Samspel 1, Smidighet 1
 - **Tålighet:** 4, **Stabilitet:** 3
 
-**Utrustning:** Ficklampa, batong (Skada 2, skadetyp Kross) eller pistol (Skada 2, skadetyp Skjutvapen), nyckelknippa, larmtelefon.
+**Utrustning:** Ficklampa, batong (Skada 2, skadetyp Kross) eller pistol (Skada 3, skadetyp Skjutvapen), nyckelknippa, larmtelefon.
 
 ## Tränade SLP
 
@@ -99,7 +99,7 @@ KGB-, Stasi- eller CIA-agent under täckmantel — kulturattaché, journalist el
 - **Expertis:** Spion, Maskör
 - **Förmågor:** Skugga, Förförisk, Vem, jag?
 
-**Utrustning:** Pistol med ljuddämpare (Skada 2, skadetyp Skjutvapen), falska dokument i flera namn, minikamera, kontanter i flera valutor.
+**Utrustning:** Pistol med ljuddämpare (Skada 3, skadetyp Skjutvapen), falska dokument i flera namn, minikamera, kontanter i flera valutor.
 
 ### Paramilitär
 
@@ -114,7 +114,7 @@ Spetsnaz-soldat, livvakt eller torped. Striden är hans hantverk och han tvekar 
 - **Expertis:** Soldat
 - **Förmågor:** Slagsmål, Automatsalva, Livvakt
 
-**Utrustning:** Automatkarbin (Skada 3, skadetyp Skjutvapen) eller K-pist (Skada 2, skadetyp Skjutvapen), kniv (Skada 2, skadetyp Stick), kroppsskydd (Skydd 1), radio.
+**Utrustning:** Automatkarbin (Skada 4, skadetyp Skjutvapen) eller K-pist (Skada 3, skadetyp Skjutvapen), kniv (Skada 2, skadetyp Stick), kroppsskydd (Skydd 1), radio.
 
 ### Förhörsledare
 
@@ -129,7 +129,7 @@ Stasi-officeren i förhörsrummet, säkerhetstjänstens specialist på att bryta
 - **Expertis:** Förhörsledare, Säkerhetsofficer
 - **Förmågor:** Järnvilja
 
-**Utrustning:** Makarov-pistol (Skada 2, skadetyp Skjutvapen), dossierer och förhörsprotokoll.
+**Utrustning:** Makarov-pistol (Skada 3, skadetyp Skjutvapen), dossierer och förhörsprotokoll.
 
 ### Informatör
 
@@ -157,7 +157,7 @@ Svartabörshandlaren, fixaren i hamnen, mannen som kan skaffa vad som helst mot 
 - **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Förfalskare
 
-**Utrustning:** Gömd pistol (Skada 2, skadetyp Skjutvapen), en väska med eftertraktade varor, falska handlingar.
+**Utrustning:** Gömd pistol (Skada 3, skadetyp Skjutvapen), en väska med eftertraktade varor, falska handlingar.
 
 ### Lokalkontakt
 
@@ -170,7 +170,7 @@ Fiskaren vid kajen, hamnarbetaren som känner alla, krögaren som hör ryktena f
 - Sinnen 3, Fysik 3, Vilja 3, Smidighet 2, Analys 2, List 2, Samspel 2, Strid 1
 - **Tålighet:** 6, **Stabilitet:** 3
 
-**Utrustning:** Terränggångsfordon eller båt, jaktgevär (Skada 4, skadetyp Skjutvapen), fiske- eller jaktutrustning.
+**Utrustning:** Terränggångsfordon eller båt, jaktgevär (Skada 5, skadetyp Skjutvapen), fiske- eller jaktutrustning.
 
 ### Diplomat
 
@@ -215,7 +215,7 @@ Privatchauffören, taxiföraren, mannen vid ratten på flyktbilen. Känner varje
 - **Expertis:** Chaufför
 - **Förmågor:** Skjut och kör, Trimma
 
-**Utrustning:** En bil som presterar bättre än den ser ut, reservdunk och verktygslåda, gömd pistol (Skada 2, skadetyp Skjutvapen).
+**Utrustning:** En bil som presterar bättre än den ser ut, reservdunk och verktygslåda, gömd pistol (Skada 3, skadetyp Skjutvapen).
 
 ### Jazz-sångerska
 
@@ -332,7 +332,7 @@ Ett misslyckat subjekt — från [[Program Frigg (Sverige)|Program Frigg]] eller
 - **Expertis:** Spion, Underrättelseanalytiker, Maskör
 - **Förmågor:** Skugga, Förförisk, Snabbtänkt
 
-**Utrustning:** Flera uppsättningar falska identitetshandlingar, en gömd reservväska med pass och kontanter, ett diskret vapen (Skada 2, skadetyp Skjutvapen).
+**Utrustning:** Flera uppsättningar falska identitetshandlingar, en gömd reservväska med pass och kontanter, ett diskret vapen (Skada 3, skadetyp Skjutvapen).
 
 ## Institutionella figurer
 
@@ -350,7 +350,7 @@ Uppdragsgivaren i det inrökta personalrummet. Ger uppdragen, fördelar resurser
 - **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Underrättelseanalytiker, Officer
 
-**Utrustning:** Dossierer och uppdragsorder, tjänstepistol i byrålådan (Skada 2, skadetyp Skjutvapen).
+**Utrustning:** Dossierer och uppdragsorder, tjänstepistol i byrålådan (Skada 3, skadetyp Skjutvapen).
 
 ### Frigg-kontakt
 

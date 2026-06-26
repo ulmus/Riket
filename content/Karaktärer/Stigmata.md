@@ -89,7 +89,7 @@ Stigmata måste använda morfin varje session, annars får de **1 Stress** per s
 - **Suturkit:** +2 på slag för Kirurgi (Analys + Smidighet).
 - **Morfin:** 10 ampuller och injektionsset.
 - **Boken Inferno:** av Strindberg i originalutgåva.
-- **Pistol m/40:** Räckvidd 25 m, Skada 1, skadetyp Skjutvapen. Ammunition ❏❏
+- **Pistol m/40:** Räckvidd 25 m, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
 
 ## Regelutdrag
 

@@ -25,14 +25,14 @@ export function calculateDamage({ successes, weaponSkada = 0, skydd = 0 }) {
 
 /**
  * Calculate the critical hit roll total.
+ * Weapon Skada does not feed the critical roll — only Penetrerande and extra 12s do.
  * @param {number} baseRoll - The 1d12 roll for the critical table
- * @param {number} weaponSkada
  * @param {number} extraTwelves - Number of 12s beyond the first
  * @param {boolean} penetrerande
  * @returns {number}
  */
-export function calcCritRoll(baseRoll, weaponSkada, extraTwelves, penetrerande = false) {
-  return baseRoll + criticalModifier(weaponSkada, extraTwelves, penetrerande);
+export function calcCritRoll(baseRoll, extraTwelves, penetrerande = false) {
+  return baseRoll + criticalModifier(extraTwelves, penetrerande);
 }
 
 /* ---- Foundry-dependent functions ---- */
@@ -62,7 +62,7 @@ export async function damageRoll({ successes, twelveCount = 0, weaponSkada = 0, 
     await critRoll.evaluate();
     const baseRoll = critRoll.terms[0].results[0].result;
     const extraTwelves = twelveCount - 1;
-    critRollValue = calcCritRoll(baseRoll, weaponSkada, extraTwelves, penetrerande);
+    critRollValue = calcCritRoll(baseRoll, extraTwelves, penetrerande);
     critResult = lookupCritical(damageType, critRollValue);
   }
 
