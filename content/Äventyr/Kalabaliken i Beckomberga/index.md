@@ -181,7 +181,7 @@ Feldts glesa klarhet gör honom till rollpersonernas bästa ingång i hovet. Nä
 - **Tålighet:** 5, **Stabilitet:** 3
 - **Expertis:** Polis
 
-**Utrustning:** Tjänsteuniform, batong (Skada 2, skadetyp Kross), tjänstepistol m/40 (Skada 2, skadetyp Skjutvapen) — som han i sina klara stunder ogärna riktar mot någon.
+**Utrustning:** Tjänsteuniform, batong (Skada 2, skadetyp Kross), tjänstepistol m/40 (Skada 3, skadetyp Skjutvapen) — som han i sina klara stunder ogärna riktar mot någon.
 
 ### Konstapel Lars-Erik Johansson
 
@@ -195,7 +195,7 @@ Det är Johansson som driver på. Han har lagt en plan att bryta sig in i östra
 - **Tålighet:** 5, **Stabilitet:** 2
 - **Expertis:** Polis
 
-**Utrustning:** Tjänsteuniform med pålagda "kungliga" insignier, batong (Skada 2, skadetyp Kross), tjänstepistol m/40 (Skada 2, skadetyp Skjutvapen), handbojor.
+**Utrustning:** Tjänsteuniform med pålagda "kungliga" insignier, batong (Skada 2, skadetyp Kross), tjänstepistol m/40 (Skada 3, skadetyp Skjutvapen), handbojor.
 
 ### Emil Granqvist
 
@@ -262,7 +262,7 @@ Erfaren GRU-officer som leder rekognoseringen, på plats under täckmantel som t
 - **Expertis:** Spion, Underrättelseanalytiker
 - **Förmågor:** Skugga, Vem, jag?
 
-**Utrustning:** Pistol med ljuddämpare (Skada 2, skadetyp Skjutvapen) buren motvilligt, falska handlingar i flera namn, minikamera, en bil parkerad utom synhåll.
+**Utrustning:** Pistol med ljuddämpare (Skada 3, skadetyp Skjutvapen) buren motvilligt, falska handlingar i flera namn, minikamera, en bil parkerad utom synhåll.
 
 #### Sergeant Grigorij Lebedev
 
@@ -275,7 +275,7 @@ Operatören och musklerna, "Grisja" för Sorokin. Tystlåten, vältränad och va
 - **Expertis:** Soldat
 - **Förmågor:** Slagsmål, Automatsalva, Livvakt
 
-**Utrustning:** Gömd k-pist (Skada 2, skadetyp Skjutvapen), kniv (Skada 2, skadetyp Stick), radio.
+**Utrustning:** Gömd k-pist (Skada 3, skadetyp Skjutvapen), kniv (Skada 2, skadetyp Stick), radio.
 
 ### Maj-Britt Holmberg
 
