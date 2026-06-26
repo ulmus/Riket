@@ -76,6 +76,6 @@ annan layout) och ingår därför inte här.
 
 <!-- bok: dodsangeln | css: regler.css -->
 
-- [[Dödsängelns Testamente]]
+- [[Kampanjöversikt]]
 - [[Moskvas Förstäder/Översikt]]
 - [[Nessun Dorma]]
