@@ -115,3 +115,29 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 - **Lätt:** Bedöma säkerhetsnivå på en anläggning, identifiera uppenbara svagheter i bevakning, planera evakueringsvägar, genomföra rutinmässig personkontroll.
 - **Normal:** Upptäcka intrång, läckor och fällor (*Analys + Sinnen*).
 - **Svår:** Lokalisera sensorer och upptäcka intrångsförsök i realtid (*Analys + Sinnen*).
+
+## Soldat
+
+- **Lätt:** Sköta och avhjälpa eldavbrott på sina vapen, söka skydd och röra sig taktiskt, gräva in sig och upprätta ställning, läsa terräng och bedöma avstånd.
+- **Normal:** Understödseld och eldgivning med automatvapen (*Sinnen + Strid*), hålla ställningen under beskjutning (*Strid + Vilja*).
+- **Svår:** Strid i numerärt underläge, husrensning eller eldgivning under svåra förhållanden (*Sinnen + Strid*).
+
+*En Soldat räknas som stridstränad och tar därför lägre Chock i eldstrid (se [[Trauma, chock och stress#Chock]]).*
+
+## Polis
+
+- **Lätt:** Genomföra kontroll, visitation och gripande enligt rutin, säkra en brottsplats, ta upp anmälan och vittnesmål, känna igen stöldgods och vanligt kriminellt beteende.
+- **Normal:** Utfrågning av vittnen och misstänkta (*Samspel + Sinnen*), spaning och skuggning i tjänst (*Sinnen + Smidighet*).
+- **Svår:** Gripande av våldsam person utan dödligt våld (*Fysik + Strid*), läsa en rörig brottsplats under tidspress (*Analys + Sinnen*).
+
+## Spion
+
+- **Lätt:** Lägga och tömma döda brevlådor, upptäcka klumpig skuggning, bygga och hålla en enkel täckmantel, röra sig obemärkt i folkvimmel, känna igen en annan yrkesman på vanorna.
+- **Normal:** Rekrytera och hantera en källa (*List + Samspel*), skugga eller skaka av en skugga (*Sinnen + Smidighet*).
+- **Svår:** Ljuga sig igenom ett skarpt förhör (*Samspel + Vilja*), operera under hård övervakning (*List + Sinnen*).
+
+## Journalist
+
+- **Lätt:** Ställa frågor som får folk att prata, hitta och korsa källor, skriva snabbt och övertygande, känna igen en nyhet, navigera arkiv och register.
+- **Normal:** Intervjua och locka fram mer än någon tänkt säga (*Samspel + Sinnen*), gräva fram dolda samband (*Analys + List*).
+- **Svår:** Få en skygg eller skrämd källa att tala (*Samspel + Vilja*), pussla ihop en historia ur motsägelsefulla uppgifter under tidspress (*Analys + Sinnen*).
