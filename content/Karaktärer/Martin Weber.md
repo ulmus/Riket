@@ -19,7 +19,7 @@ cssclasses:
 
 **Expertis:** Chaufför
 
-![[Bilder/Martin Weber.png|200]]
+![[Martin Weber.png|200]]
 
 ## Språk
 

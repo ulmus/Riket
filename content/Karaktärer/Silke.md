@@ -19,7 +19,7 @@ cssclasses:
 
 **Expertis:** Maskör
 
-![[Bilder/Silke.png|697]]
+![[content/Karaktärer/Bilder/Silke.png|697]]
 
 ## Språk
 

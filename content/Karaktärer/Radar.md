@@ -19,7 +19,7 @@ cssclasses:
 
 **Expertis:** Radiotekniker
 
-![[Bilder/Radar.png|697]]
+![[content/Karaktärer/Bilder/Radar.png|697]]
 
 ## Språk
 
