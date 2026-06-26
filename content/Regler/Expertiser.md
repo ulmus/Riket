@@ -119,8 +119,8 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 ## Soldat
 
 - **Lätt:** Sköta och avhjälpa eldavbrott på sina vapen, söka skydd och röra sig taktiskt, gräva in sig och upprätta ställning, läsa terräng och bedöma avstånd.
-- **Normal:** Understödseld och eldgivning med automatvapen (*Strid + Sinnen*), hålla ställningen under beskjutning (*Strid + Vilja*).
-- **Svår:** Strid i numerärt underläge, husrensning eller eldgivning under svåra förhållanden (*Strid + Sinnen*).
+- **Normal:** Understödseld och eldgivning med automatvapen (*Sinnen + Strid*), hålla ställningen under beskjutning (*Strid + Vilja*).
+- **Svår:** Strid i numerärt underläge, husrensning eller eldgivning under svåra förhållanden (*Sinnen + Strid*).
 
 *En Soldat räknas som stridstränad och tar därför lägre Chock i eldstrid (se [[Trauma, chock och stress#Chock]]).*
 
@@ -133,7 +133,7 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 ## Spion
 
 - **Lätt:** Lägga och tömma döda brevlådor, upptäcka klumpig skuggning, bygga och hålla en enkel täckmantel, röra sig obemärkt i folkvimmel, känna igen en annan yrkesman på vanorna.
-- **Normal:** Rekrytera och hantera en källa (*Samspel + List*), skugga eller skaka av en skugga (*Sinnen + Smidighet*).
+- **Normal:** Rekrytera och hantera en källa (*List + Samspel*), skugga eller skaka av en skugga (*Sinnen + Smidighet*).
 - **Svår:** Ljuga sig igenom ett skarpt förhör (*Samspel + Vilja*), operera under hård övervakning (*List + Sinnen*).
 
 ## Journalist

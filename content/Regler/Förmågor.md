@@ -512,13 +512,13 @@ När du befinner dig i en miljö med säkerhetsrutiner (en bevakad anläggning, 
 
 *Krav:* Expertis: Soldat
 
-Marscher, packning, kyla, hetta och brist på sömn försämrar inte dina fysiska handlingar i fält — du är van vid umbäranden som bryter ner andra. Spendera 1 Fokus för att låta hela din grupp dela din härdighet under en scen, till exempel en lång marsch, en natt i kylan eller en utdragen bevakning.
+Du är härdad mot fältlivets påfrestningar. Naturliga umbäranden — köld, hetta, hunger, utmattning och sömnbrist — gör inte dina slag ett steg svårare, och du behöver inte slå de slag för *Fysik + Vilja* (eller ta den Stress) som SL annars kräver för att uthärda dem. Spendera 1 Fokus för att utsträcka detta till hela din grupp under en scen, till exempel en forcerad marsch, en natt i kylan eller en utdragen bevakning.
 
 #### Stridsfältsblick
 
 *Krav:* Expertis: Soldat
 
-Spendera 1 Fokus för att utan slag läsa det omedelbara stridsläget — var det bästa skyddet finns, vilken väg som flankerar fienden, vem av motståndarna som är farligast eller står på tur att skjuta. SL beskriver vad ditt vana öga ser.
+När en strid inleds kan du spendera 1 Fokus för att läsa stridsläget. Du får **+2 tärningar** på din första attack eller ditt första försvar i striden, och SL berättar var det bästa skyddet finns, vilken väg som flankerar fienden och vem av motståndarna som är farligast. Bonusen gäller bara om du kan agera utifrån det du ser.
 
 ### Polis
 
@@ -542,7 +542,7 @@ När du undersöker en brotts- eller olycksplats kan du, en gång per scen, utan
 
 Spendera 1 Fokus före ett slag för fältmannaskap — skuggning, motbevakning, döda brevlådor, källhantering eller att hålla en täckmantel — för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
 
-#### Konspirativ blick
+#### Konspiratorisk blick
 
 *Krav:* Expertis: Spion
 
@@ -560,7 +560,7 @@ Spendera 1 Fokus före ett slag för att intervjua, gräva i arkiv eller korsa k
 
 *Krav:* Expertis: Journalist
 
-Få vet hur man säger nej till pressen. Spendera 1 Fokus och slå *Samspel + List* för att få någon att släppa in dig, tala eller lämna ifrån sig något — den fåfänge för att synas, den skyldige för att slippa synas. Spendera 1 Effekt för att också ge ett löfte om anonymitet som väger tungt: källan vågar då säga mer än den annars skulle.
+Få vet hur man säger nej till pressen. Spendera 1 Fokus och slå *List + Samspel* för att få någon att släppa in dig, tala eller lämna ifrån sig något — den fåfänge för att synas, den skyldige för att slippa synas. Spendera 1 Effekt för att också ge ett löfte om anonymitet som väger tungt: källan vågar då säga mer än den annars skulle.
 
 ## Bakgrundsförmågor
 
