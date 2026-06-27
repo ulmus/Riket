@@ -14,7 +14,7 @@ I denna värld jagas Auschwitz-personalen hårdare än i vår egen historia. Int
 **ODESSA-nätverket** är därför betydligt större och bättre finansierat än i verkligheten. Det smugglar ut SS-veteraner inte bara till Sydamerika utan också till diskreta hörn av Europa där de kan leva under falska identiteter — mot att de då och då bidrar med kunskap till de program som beskyddar dem.
 
 ## Täckmantel
-Sex personer reser som östtysk handelsdelegation från **VEB Bergmann-Borsig** i Berlin, på inbjudan av **V/O Tekhmashimport** i Moskva, för förhandlingar om ångturbiner till Tjeljabinsk-regionen. Logi: Hotell *Altai* vid Frunzenskaja naberezjnaja. Resan är 17–31 maj 1962.
+Sex personer reser som östtysk handelsdelegation från **VEB Bergmann-Borsig** i Berlin, på inbjudan av **V/O Tekhmashimport** i Moskva, för förhandlingar om ångturbiner till Tjeljabinsk-regionen. Logi: Hotell *Leningradskaja* vid Leningrad-stationen. Resan är 17–31 maj 1962.
 
 ## Resväg och händelser
 
@@ -27,8 +27,8 @@ Kvällen 17 maj. KGB väntar med 10 gränstrupper, larmade av maskinchefen Arvo 
 ### Röda Pilen — stoppet vid Bologoje
 Tåget nr. 1, kupé 4 i SV-vagn 3. 02:14 stannar tåget oplanerat. En orelaterad razzia mot ett par på flykt — Sergej och Olga Bogdanov från en hemlig anläggning i Sosnovyj Bor. Sergej skjuts på perrongen av en civilklädd KGB-officer. Rollpersonernas pass konfiskeras "som formalitet" och återlämnas efter 42 minuters stilla väntan. Den som ingriper avslöjar sig.
 
-### Moskva — Hotell *Altai*
-Bas för delegationen vid Frunzenskaja naberezjnaja. Halvofficiellt övervakat. OVIR-formuläret tickar — täckmanteln håller cirka 48 timmar.
+### Moskva — Hotell *Leningradskaja*
+Bas för delegationen vid Leningrad-stationen. Halvofficiellt övervakat. OVIR-formuläret tickar — täckmanteln håller cirka 48 timmar.
 
 ### Sklifosovsky-institutet
 Den halvmåneformade akutkliniken vid Sucharevskaja-torget. Mengele ligger på toxikologisk avdelning, andra våningen, östra flygeln, registrerad som **Iosif Karlovitj Müller**. Två civilklädda i korridoren dygnet runt, plus en sköterska från KGB:s Tredje huvudstyrelse. Han har förgiftat sig själv med tallium i hopp om att utlösa egna krafter — har missförstått sin egen forskning, eftersom genuin hjälplöshet (inte bara trauma) krävs. Han kommer att dö inom 4–6 dagar.
@@ -57,7 +57,7 @@ Loggboken är hos honom. Det är vad Mengele säger. Det innebär att uppdraget 
 - **Den civilklädde i Bologoje** — namnlös, exekuterade Sergej Bogdanov utan att andas tungt; om rollpersonerna ser honom igen i Moskva är det inget gott tecken
 - **Sköterskan från Tredje huvudstyrelsen** — vakar över "Müller" på Sklifosovsky
 
-### Hotell *Altai*
+### Hotell *Leningradskaja*
 - **Zinaida Pavlovna** — administrator, talar tyska, har en svart telefon utan urtavla
 - **Galina Sergejevna** — dezjurnaja på fjärde våningen, ler aldrig
 - **Valja** — servitris i källarmatsalen, syster på GUM, möjlig meddelandekanal för tre rubel
