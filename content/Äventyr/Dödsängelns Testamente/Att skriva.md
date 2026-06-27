@@ -36,6 +36,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom.
 
 ## Akt 3 — Kairo *(att skriva)*
 - [ ] Besvara öppna frågorna i [[Kairo]].
+- [ ] **Mossads entré:** introducera Mossad här (vill ha Capesius inför rätta) — definiera agent/team.
 - [ ] Definiera scener, SLP, klimax och övergång till Södern.
 
 ## Akt 4 — Södern *(att skriva)*
