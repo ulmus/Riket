@@ -23,6 +23,7 @@ Capesius hustru, **Die Träumerin**, är judinna från lägren som gifte sig med
 ## Konkurrenter
 Rollpersonerna är inte ensamma om Capesius:
 - **KGB** jagar boken åt Zvezda.
+- **[[Projet Chimère (Frankrike)|Projet Chimère]]** — fransk underrättelse vill ha boken åt sitt eget program.
 - **ODESSA / Skorzeny / Furie** skyddar honom.
 
 ## Övergång
@@ -33,4 +34,5 @@ Spåret efter boken — eller mannen — leder vidare till [[Kairo]].
 - **Die Träumerin** — ENS, dröm/verklighet. *(Att skriva.)*
 - **Furie** — ENS, raseri. *(Att skriva.)*
 - **Otto Skorzeny** — ODESSA. *(Att skriva.)*
+- **Projet Chimère-agent** — fransk konkurrent i Wien. *(Att definiera.)*
 - **Fritz Bauer** — åklagare, mördas i ingångsscenen.

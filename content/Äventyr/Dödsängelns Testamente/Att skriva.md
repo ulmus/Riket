@@ -30,7 +30,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom.
 - [ ] Bygg operascenen på Wieneroperan (*Turandot*): upplägg och hur RP når Capesius.
 - [ ] Die Träumerin: kraftbeskrivning (dröm/verklighet), scenmekanik, moralisk tyngd.
 - [ ] Stat-block: Capesius, Die Träumerin, Furie, Skorzeny.
-- [ ] Konkurrenternas drag i Wien (KGB, ODESSA).
+- [ ] Konkurrenternas drag i Wien (KGB, ODESSA, Projet Chimère).
 - [ ] Övergång till Kairo.
 - [ ] Karta/plan över operan? *(asset)*
 
