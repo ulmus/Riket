@@ -30,7 +30,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom.
 - [ ] Bygg operascenen på Wieneroperan (*Turandot*): upplägg och hur RP når Capesius.
 - [ ] Die Träumerin: kraftbeskrivning (dröm/verklighet), scenmekanik, moralisk tyngd.
 - [ ] Stat-block: Capesius, Die Träumerin, Furie, Skorzeny.
-- [ ] Konkurrenternas drag i Wien (Mossad, Phoenix).
+- [ ] Konkurrenternas drag i Wien (KGB, ODESSA).
 - [ ] Övergång till Kairo.
 - [ ] Karta/plan över operan? *(asset)*
 
@@ -41,7 +41,8 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom.
 
 ## Akt 4 — Södern *(att skriva)*
 - [ ] Besvara öppna frågorna i [[Södern]].
-- [ ] Bestäm kopplingen till medborgarrättsrörelsen och Project Phoenix.
+- [ ] **Phoenix entré:** introducera Project Phoenix här (vill ha boken, på hemmaplan) — definiera agent/team.
+- [ ] Bestäm kopplingen till medborgarrättsrörelsen.
 - [ ] Definiera scener, SLP, klimax och övergång till Uppgörelsen.
 
 ## Akt 5 — Uppgörelsen *(att skriva)*

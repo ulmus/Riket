@@ -12,7 +12,7 @@ Här kommer **Mossad** in i jakten. De är ute efter mannen, inte boken — Cape
 ## Öppna frågor
 - Vad för rollpersonerna till Kairo — boken, Capesius själv, eller en kontakt?
 - Vilken roll spelar de tyska vetenskapsmännen i Nassers Egypten och ODESSA:s ratlines hit?
-- Hur spelar Mossad och Project Phoenix mot varandra — och mot rollpersonerna?
+- Hur spelar Mossad mot rollpersonerna och mot ODESSA här?
 - Vad är aktens scen(er) och klimax?
 - Hur leder Kairo vidare till [[Södern]]?
 

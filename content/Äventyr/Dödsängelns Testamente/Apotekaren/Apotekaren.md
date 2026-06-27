@@ -23,7 +23,6 @@ Capesius hustru, **Die Träumerin**, är judinna från lägren som gifte sig med
 ## Konkurrenter
 Rollpersonerna är inte ensamma om Capesius:
 - **KGB** jagar boken åt Zvezda.
-- **Project Phoenix** vill ha boken.
 - **ODESSA / Skorzeny / Furie** skyddar honom.
 
 ## Övergång
