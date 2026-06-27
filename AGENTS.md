@@ -40,12 +40,12 @@ When generating rules or resolving actions, adhere to these core mechanics:
 
 ## Content Generation Guidelines
 - **Tone:** Maintain a "Cold War thriller" vibe mixed with "Golden Age comics" but grounded in a gritty reality.
-- **Prose style:** Write to be read, not admired.
-  - **Show, don't tell.** Render scenes through concrete detail and action. Let the reader infer the mood from what happens, not from labels. Don't write "it was tense"; write the thing that makes it tense.
-  - **No flowery prose.** Drop ornamental adjectives, purple phrasing, and grand abstractions. Plain words carry the scene.
-  - **Few metaphors.** Use a metaphor only when it does work a literal description can't. One earned image beats three decorative ones.
-  - **Be direct, stay evocative.** Direct does not mean flat. Describe the room, the gesture, the sound — let those details leave an impression. Evocation comes from precise observation, not embellishment.
-  - **Short sentences.** Keep them direct and easy to parse. Break long sentences into shorter ones. Vary length only when it serves the rhythm.
+- **Prose style:**
+  - **Show, don't tell.** Write the detail that creates the mood, not a label for it. Not "it was tense" — write what makes it tense.
+  - **No flowery prose.** Cut ornamental adjectives and purple phrasing. Plain words.
+  - **Few metaphors.** Use one only when literal description can't do the job.
+  - **Direct but evocative.** Describe the room, the gesture, the sound. Precise detail, not embellishment.
+  - **Short sentences.** Keep them easy to parse. Break long ones up.
 - **Formatting:**
   - Use standard Markdown headers (`#`, `##`, `###`).
   - Use Obsidian wikilinks for all internal references.
