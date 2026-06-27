@@ -5,10 +5,10 @@ draft: true
 
 > [!warning] Stub — under utveckling. Se [[Att skriva]].
 
-Akt 2. Wien, 1962. Loggboken följde aldrig Mengele österut — den följde apotekaren **Victor Capesius**, nu *Mag. pharm. Viktor Krauss*, ägare till Adler-Apotheke vid Schottenring. Han lever respektabelt under ODESSA:s skydd. Att nå honom är att nå förbi Otto Skorzeny.
+Akt 2. Wien, 1962. Loggboken följde aldrig Mengele österut — den följde apotekaren **Victor Capesius**, nu *Mag. pharm. Viktor Krauss*, ägare till Adler-Apotheke vid Schottenring. Han lever respektabelt under ODESSA:s skydd.
 
 ## Ingång — Frankfurt
-Jakten på apotekaren börjar i Bonn. T-kontoret har information om att den som vet mest om Capesius är Generalstaatsanwalt **Fritz Bauer** i Frankfurt, som har en akt på honom. Rollpersonerna måste övertala Bauer att dela vad han vet.
+Jakten på apotekaren börjar i Frankfurt. Den som vet mest om Capesius är Generalstaatsanwalt **Fritz Bauer**, som har en akt på honom. Rollpersonerna måste övertala Bauer att dela vad han vet.
 
 Väl i Frankfurt väntar rollpersonerna på att släppas in till Bauer när de hör skrik därinifrån. Bauers sekreterare står med en blodig bronsbyst i handen — hon har slagit in skallen på Bauer. Hon går till våldsam attack mot rollpersonerna och faller sedan ihop i en hög.
 
@@ -22,7 +22,7 @@ Capesius hustru, **Die Träumerin**, är judinna från lägren som gifte sig med
 
 ## Konkurrenter
 Rollpersonerna är inte ensamma om Capesius:
-- **Mossad** vill ha mannen levande och inför rätta.
+- **KGB** jagar boken åt Zvezda.
 - **Project Phoenix** vill ha boken.
 - **ODESSA / Skorzeny / Furie** skyddar honom.
 

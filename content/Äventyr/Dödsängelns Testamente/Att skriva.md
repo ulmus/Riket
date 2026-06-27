@@ -10,7 +10,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom.
 - [x] Flytta [[Nessun Dorma]] till Apotekaren (Wien-aktens introscen).
 - [x] Gör kampanjroten [[Dödsängelns Testamente]] till ren överblick (dubblerade Moskva-detaljerna är borta).
 - [x] **Hotellnamn i Moskva:** standardiserat på **Leningradskaja** (vid Leningrad-stationen).
-- [ ] **Bauers förnamn:** stod *Franz* i bakgrunden, *Fritz* i Apotekaren. Standardiserat på **Fritz** (historisk åklagare) — bekräfta.
+- [x] **Bauers förnamn:** standardiserat på **Fritz** (historisk åklagare).
 - [ ] Sätt `draft: false` på filerna när respektive akt är spelklar (alla är `draft: true` nu).
 - [ ] Uppdatera [[Manuskript]] (dodsangeln-boken) när akterna är klara; avmarkera ~~genomstrykningen~~ för PDF-bygge.
 
