@@ -3,8 +3,6 @@ Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introd
 > **För dig som spelleder.** Äventyret är skrivet för **två till fyra** rollpersoner — Frigg-agenter, antingen färdiga rollpersoner eller förgenererade — som spelar "reserven" som kallas in över sommaren. Det fungerar väl som en grupps, och en spelledares, första äventyr.
 >
 > Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** — Fokus är rollpersonernas personliga resurs för att förbättra slag och aktivera förmågor, och Momentum styr hur mycket Fokus de får tillbaka mellan scener (*se [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
->
-> Behöver du bara en sak att hålla i huvudet: **det här är inte en strid att vinna, utan ett offer att nå.** Akhenaton och hans hov är patienter, inte fiender. Belöna spelare som försöker förstå framför att övermanna (*se [[#Tänkbara utfall]]*).
 
 ## Bakgrund
 
