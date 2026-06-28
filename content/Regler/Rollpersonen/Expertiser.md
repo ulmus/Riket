@@ -12,7 +12,7 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 
 - **Lätt:** Diagnostisera vanlig sjukdom, lägga enkla förband, avgöra dödsorsak vid uppenbart trauma, ge grundläggande medicinsk rådgivning.
 - **Normal:** Akutvård i fält (*Analys + Smidighet*), diagnosticering och behandling (*Analys + Sinnen*).
-- **Svår:** Kirurgi (*Analys + Smidighet*), lägga förband under eld (*Smidighet + Strid*).
+- **Svår:** Kirurgi (*Analys + Smidighet*), lägga förband under eld (*Analys + Smidighet*).
 
 ## Fältmedicinare
 
@@ -23,8 +23,8 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 ## Apotekare
 
 - **Lätt:** Identifiera vanliga läkemedel, dosera standardmedicin, känna igen tecken på förgiftning, tillverka enkla salvor eller bedövningsmedel med rätt ingredienser.
-- **Normal:** Identifiera, dosera eller framställa läkemedel och enkla antidoter (*Analys + Analys*).
-- **Svår:** Aktiv medicinsk vård med exakta doser och blandningar (*Analys + Analys*).
+- **Normal:** Identifiera, dosera eller framställa läkemedel och enkla antidoter (*Analys + Sinnen*).
+- **Svår:** Aktiv medicinsk vård med exakta doser och blandningar (*Analys + Sinnen*).
 
 ## Radiotekniker
 
@@ -41,8 +41,8 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 ## Kryptograf
 
 - **Lätt:** Använda kodbok korrekt, kryptera och dekryptera meddelanden med känd nyckel, identifiera vanliga krypteringsmetoder, upprätta enkel kodrutin för gruppen.
-- **Normal:** Dekryptering och kodanalys (*Analys + Analys*).
-- **Svår:** Bryta komplex kryptering (*Analys + Analys*), sätta upp säkra kodsystem i fält.
+- **Normal:** Dekryptering och kodanalys (*Analys + Sinnen*).
+- **Svår:** Bryta komplex kryptering (*Analys + Sinnen*), sätta upp säkra kodsystem i fält.
 
 ## Förfalskare
 
@@ -59,8 +59,8 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 ## Sappör
 
 - **Lätt:** Identifiera sprängämnestyper, avgöra om en laddning är stabil, förbereda standardladdning för sprängning, desarmera enkel stubin eller synlig tändare.
-- **Normal:** Ladda eller rigga sprängämne (*Analys + Analys*).
-- **Svår:** Ladda sprängämne för kontrollerad riktverkan (*Analys + Analys*).
+- **Normal:** Ladda eller rigga sprängämne (*Analys + Smidighet*).
+- **Svår:** Ladda sprängämne för kontrollerad riktverkan (*Analys + Smidighet*).
 
 ## Mekaniker
 
@@ -71,7 +71,7 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 ## Elektriker
 
 - **Lätt:** Dra enkel kabel och skarva ledningar, identifiera strömkällor och säkringar, avgöra om en krets är strömsatt, lokalisera uppenbara sensorer och fotoceller.
-- **Normal:** Arbeta med sensorer, larm och enkla kretsar (*Analys + Analys*).
+- **Normal:** Arbeta med sensorer, larm och enkla kretsar (*Analys + Smidighet*).
 - **Svår:** Koppla förbi larm och säkra kanal för intrång (*Analys + Smidighet*).
 
 ## Maskör
@@ -95,19 +95,19 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 ## Chaufför
 
 - **Lätt:** Köra säkert i normal trafik, backa och parkera, navigera med karta, bedöma fordonets skick och prestanda.
-- **Normal:** Biljakt och undanmanövrar (*Smidighet + Smidighet*).
-- **Svår:** Körning i tät trafik under biljakt (*Smidighet + Smidighet*).
+- **Normal:** Biljakt och undanmanövrar (*Sinnen + Smidighet*).
+- **Svår:** Körning i tät trafik under biljakt (*Sinnen + Smidighet*).
 
 ## Pilot
 
 - **Lätt:** Flyga under normala förhållanden, utföra kontroll av flygplan före start, navigera efter karta och kompass i klart väder, bedöma väderförhållanden för flygning.
-- **Normal:** Flygning, landning och flygmanövrar (*Smidighet + Smidighet*).
-- **Svår:** Flygning i strid eller extrema förhållanden, nödlandning, navigering i dåligt väder (*Smidighet + Smidighet*).
+- **Normal:** Flygning, landning och flygmanövrar (*Sinnen + Smidighet*).
+- **Svår:** Flygning i strid eller extrema förhållanden, nödlandning, navigering i dåligt väder (*Sinnen + Smidighet*).
 
 ## Underrättelseanalytiker
 
 - **Lätt:** Sammanställa rapporter från flera källor, värdera källors tillförlitlighet, identifiera informationsluckor, upprätta kartläggning av kända aktörer.
-- **Normal:** Bygga lägesbild och källvärdering (*Analys + Analys* eller *Analys + Sinnen*).
+- **Normal:** Bygga lägesbild och källvärdering (*Analys + Sinnen*).
 - **Svår:** Undersöka brottsplats metodiskt (*Analys + Sinnen*), bygga sammanhängande lägesbild under tidspress.
 
 ## Säkerhetsofficer
