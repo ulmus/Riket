@@ -118,7 +118,7 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 
 | Aktivitet                | Beskrivning/kommentar                       | Egenskap + Egenskap   |
 | ------------------------ | ------------------------------------------- | --------------------- |
-| Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | Smidighet + Smidighet |
+| Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | List + Smidighet      |
 | Dyrka lås                | Klassisk pickning eller förbikoppling     | List + Smidighet      |
 | Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Analys + Sinnen       |
 | Koppla förbi larm        | Koppla förbi krets, tillfällig förbikoppling      | Analys + Smidighet    |
@@ -135,10 +135,10 @@ Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – 
 | ---------------------------- | --------------------------------------------- | ------------------- |
 | Förhöra taktiskt             | Bygga förtroende, styra samtalet, mikropauser | List + Samspel      |
 | Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | List + Samspel      |
-| Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Samspel   |
+| Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Vilja     |
 | Få folk att prata            | Småprat, social ingång, “openers”             | List + Samspel      |
 | Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Samspel + Sinnen    |
-| Leda under press             | Korta order, moral, förtroende                | Samspel + Samspel   |
+| Leda under press             | Korta order, moral, förtroende                | Samspel + Vilja     |
 | Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Samspel      |
 
 ## Fordon & jakter
@@ -147,10 +147,10 @@ Hög puls: körning, navigering och improvisation i trafik eller terräng – of
 
 | Aktivitet              | Beskrivning/kommentar               | Egenskap + Egenskap   |
 | ---------------------- | ----------------------------------- | --------------------- |
-| Biljakt – körning      | Följa utan att krocka/avslöja sig   | Smidighet + Smidighet |
-| Undanmanöver           | Sladd, broms, växla linje           | Smidighet + Smidighet |
+| Biljakt – körning      | Följa utan att krocka/avslöja sig   | Sinnen + Smidighet    |
+| Undanmanöver           | Sladd, broms, växla linje           | Sinnen + Smidighet    |
 | Terrängkörning         | Lerigt, snöigt, dålig sikt          | Fysik + Smidighet     |
-| Motorcykel genom gränd | Smalt utrymme, balans               | Smidighet + Smidighet |
+| Motorcykel genom gränd | Smalt utrymme, balans               | Sinnen + Smidighet    |
 | Navigera i okänd stad  | Genvägar, trafikmönster             | Analys + Sinnen       |
 | Reparera i vägkanten   | Bensinslang, tändstift, provisorier | Analys + Smidighet    |
 | Skjuta från fordon     | Kort fönster, vibrationer           | Smidighet + Strid     |
@@ -165,7 +165,7 @@ När det smäller: eldstrid, närstrid, elddisciplin och rörelse under eld. Val
 | Slagsmål (fysik)       | Svingar, grepp, putt             | Fysik + Strid         |
 | Fäktning/snabbstick    | Snabbt fotarbete, parader        | Smidighet + Strid     |
 | Kastad granat          | Hålla båge/avstånd rätt          | Smidighet + Strid     |
-| Förflyttning under eld | Språngmarsch mellan skydd        | Smidighet + Smidighet |
+| Förflyttning under eld | Språngmarsch mellan skydd        | Smidighet + Vilja     |
 | Ta skydd & omgruppera  | Täcka varandra, korta kommando   | Samspel + Strid       |
 | Skarpskytte            | Långt håll, kontroll, andning    | Smidighet + Strid     |
 | Leda i strid           | Ge order, inspirera              | Samspel + Strid       |
@@ -176,9 +176,9 @@ Att skapa eller förstöra: sprängmedel, elektronik, finmekanik och improvisati
 
 | Aktivitet              | Beskrivning/kommentar               | Egenskap + Egenskap |
 | ---------------------- | ----------------------------------- | ------------------- |
-| Ladda sprängämne       | Val av laddning, riktning, säkring  | Analys + Analys     |
+| Ladda sprängämne       | Val av laddning, riktning, säkring  | Analys + Smidighet  |
 | Spränga diskret        | Tidsinställning, dämpa signatur     | Analys + List       |
-| Bryta enkel kryptering | Kodbok, frekvensanalys              | Analys + Analys     |
+| Bryta enkel kryptering | Kodbok, frekvensanalys              | Analys + Sinnen     |
 | Bygga/rigga radio      | Antenn, jordning, störningar        | Analys + Smidighet  |
 | Telefonavlyssning      | Krimpa, parallellkoppla, dölja spår | Analys + Smidighet  |
 | Fotolabb i fält        | Framkalla, förstora, beviskedja     | Analys + Smidighet  |
@@ -191,13 +191,13 @@ Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fäl
 | Aktivitet               | Beskrivning/kommentar                      | Egenskap + Egenskap |
 | ----------------------- | ------------------------------------------ | ------------------- |
 | Akutvård                | Stoppa blödning, stabilisera               | Analys + Smidighet  |
-| Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Analys     |
+| Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Sinnen     |
 | Kirurgi                 | Operativa ingrepp                          | Analys + Smidighet  |
 | Lägga förband under eld | Under press, med begränsade resurser       | Analys + Smidighet  |
 | Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Smidighet   |
 | Fältläger & vindskydd   | Eld, skydd, vatten                         | Fysik + Analys      |
 | Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen     |
-| Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + Analys     |
+| Försörjning i fält      | Bränsle, ammo, ransoner                    | Analys + List       |
 | Kroppskännedom          | Känna av förgiftning, veta var gränsen går | Fysik + Sinnen      |
 
 ## Stress, nerver & motståndsfysik
@@ -221,7 +221,7 @@ Att skicka/ta emot information under begränsningar: radio, morse, koder och dok
 | ------------------ | ------------------------------- | ------------------- |
 | Sända morse rent   | Tempo, rytm, minsta fel         | Analys + Sinnen     |
 | Läsa morse i brus  | Filtrera signal ur störningar   | Sinnen + Vilja      |
-| Kodboksarbete      | Upprätta/underhålla kodsystem   | Analys + Analys     |
+| Kodboksarbete      | Upprätta/underhålla kodsystem   | Analys + Sinnen     |
 | Säkra kanal        | Val av frekvens, antenn, effekt | Analys + Sinnen     |
 | Förfalska dokument | Stämplar, typsnitt, patina      | Analys + List       |
 | Säkra "dead drop"  | Diskret placering/återtag       | List + Smidighet    |

@@ -1,5 +1,7 @@
 # Särskilda situationer
 
+> **Använd så mycket eller så lite du vill.** Reglerna i det här kapitlet är till för att sätta stämning och ge tyngd åt världens faror — fall, eld, explosioner, gift och strålning. De *måste* inte användas i detalj. Mycket kan lösas med ett vanligt slag för *Egenskap + Egenskap* och lite Stress, några KP skada eller någon annan passande effekt om du vill förenkla eller improvisera. Plocka de delar som ger den känsla du är ute efter och lämna resten.
+
 I flera av dessa situationer anges att man ska slå **skadetärningar**. Dessa skadetärningar är vanliga T12 där 10-12 innebär att du tar en extra KP skada och 12 innebär att du tar en kritisk träff. Extra 12:or ger bonus på kritiska tabellen som vanligt
 
 ## Fallskada

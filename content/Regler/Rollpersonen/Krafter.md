@@ -112,7 +112,7 @@ Om kraften kan användas för att attackera, använd samma system som för vanli
 | **Mycket stark** | +3         | Gevär, explosion       |
 | **Extrem**       | +4         | Artilleri, katastrofal |
 
-Attacken slås med **Strid + Vilja** (eller annan lämplig kombination). **KP-skada = framgångar + skadebonus − Skydd** (minst 0). Kritiska träffar fungerar som vanligt (se [[Strid och skada]] och [[Kritiska träffar]]).
+Attacken slås med **Strid + Vilja** (eller annan lämplig kombination). **KP-skada = Effekt + skadebonus − Skydd** (minst 0). Kritiska träffar fungerar som vanligt (se [[Strid och skada]] och [[Kritiska träffar]]).
 
 **Skadetyp:** Ange lämplig skadetyp för kritiska träffar (Eld, Kross, Stick, etc.).
 

@@ -102,7 +102,7 @@ Varje karaktär har en **Tålighet** lika med **Fysik + Vilja**. Tålighet avgö
 
 KP-skadan räknas direkt från attackslaget – inget separat skadeslag behövs.
 
-**KP-skada = Vapnets Skada + träffens Effekt − målets Skydd** (minst 0)
+**KP-skada = träffens Effekt + vapnets Skada − målets Skydd** (minst 0)
 
 Träffens **Effekt** är de framgångar som blev över sedan kravet på att träffa uppfyllts (se [[Grundregler#Effekt]] ). En eller flera framgångar (beroende på svårighet) går alltså åt till att träffa; återstående Effekt kan användas till exempel för att öka skadan.
 
@@ -230,7 +230,7 @@ Se [[Läkning & vård]] för mer information.
 ## Sammanfattning
 
 1. **Träff?** Räkna framgångar (10+) på attackslaget.
-2. **Räkna skada:** KP-skada = framgångar + vapnets Skada − Skydd (minst 0).
+2. **Räkna skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0).
 3. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
 4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
 
