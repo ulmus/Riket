@@ -40,6 +40,13 @@ When generating rules or resolving actions, adhere to these core mechanics:
 
 ## Content Generation Guidelines
 - **Tone:** Maintain a "Cold War thriller" vibe mixed with "Golden Age comics" but grounded in a gritty reality.
+- **Prose style:**
+  - **Show, don't tell.** Write the detail that creates the mood, not a label for it. Not "it was tense" — write what makes it tense.
+  - **No flowery prose.** Cut ornamental adjectives and purple phrasing. Plain words.
+  - **Few metaphors.** Use one only when literal description can't do the job.
+  - **Direct but evocative.** Describe the room, the gesture, the sound. Precise detail, not embellishment.
+  - **Short sentences.** Keep them easy to parse. Break long ones up.
+- **Explain rules in easy terms.** Spell out mechanics plainly so a new reader can follow them. Use everyday words, define a term the first time it appears, and give a short example where it helps. Don't assume prior knowledge of the system.
 - **Formatting:**
   - Use standard Markdown headers (`#`, `##`, `###`).
   - Use Obsidian wikilinks for all internal references.
