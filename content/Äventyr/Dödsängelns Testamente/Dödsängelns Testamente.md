@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 # Dödsängelns Testamente
 
@@ -36,12 +36,13 @@ Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val �
 - **Program Frigg / T-kontoret** — uppdragsgivaren. Vill ha boken intakt.
 - **Zvezda** — håller Mengele i Moskva, vill behålla honom levande.
 - **Project Phoenix** — har egna spår mot boken.
-- **Mossad** — jagar Capesius för rättvisa, inte för data. Vill ha mannen i en bur.
-- **ODESSA / Otto Skorzeny** — skyddar Capesius aktivt. Kampanjens röda tråd och slutlige motståndare.
+- **Projét Chimére** — Fransmännen har Capesius under bevakning sedan tidigare, men känner inte till boken.
+- **Mossad** — jagar Capesius för rättvisa, inte för data. Vill ha honom infångad eller dödad.
+- **ODESSA / Otto Skorzeny** — skyddar Capesius aktivt för att skydda sig själv. Kampanjens röda tråd och slutlige motståndare.
 
 ## Genomgående personer
 - **Otto Skorzeny** — håller ihop ODESSA. Skuggan bakom varje akt.
 - **Dr. Victor Capesius** — apotekaren från Auschwitz, alias *Mag. pharm. Viktor Krauss* i Wien. Har boken.
 - **Die Träumerin** — Capesius hustru. Judinna från lägren, gift med sin fångvaktare. ENS vars kraft löser upp gränsen mellan dröm och verklighet.
 - **Furie** — ENS skapad av ODESSA, kan mana fram raseri-utbrott hos andra. Nätverkets vapen.
-- **[[Verdandi|Vera "Verdandi"]]** — Friggs asset, synsk. Reser med rollpersonerna.
+- **Verdandi** — Friggs asset, synsk. Reser med rollpersonerna.

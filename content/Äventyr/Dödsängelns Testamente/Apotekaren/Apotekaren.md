@@ -14,6 +14,8 @@ Väl i Frankfurt väntar rollpersonerna på att släppas in till Bauer när de h
 
 Bakom dådet ligger **Furie**, en ENS skapad av ODESSA-nätverket som kan mana fram fruktansvärda raseri-utbrott hos andra. Det är Skorzeny som skyddar Capesius — och i förlängningen hela nätverket.
 
+Akten innehåller 
+
 ## Wien — operan
 Akten kulminerar på **Wieneroperan**, under en uppsättning av *Turandot* (jfr introscenen [[Nessun Dorma]]). Capesius är där. Det är även hans hustru.
 
