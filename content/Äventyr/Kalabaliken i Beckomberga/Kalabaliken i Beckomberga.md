@@ -1,5 +1,9 @@
 Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introducerar Extra-Normala Subjekt, kalla krigets spioneri och den moraliska ambivalensen som kringgärdar hela Program Frigg i allmänhet och Doktor Lars Hedström i synnerhet.
 
+> **För dig som spelleder.** Äventyret är skrivet för **två till fyra** rollpersoner — Frigg-agenter, antingen färdiga rollpersoner eller förgenererade — som spelar "reserven" som kallas in över sommaren. Det fungerar väl som en grupps, och en spelledares, första äventyr.
+>
+> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** — Fokus är rollpersonernas personliga resurs för att förbättra slag och aktivera förmågor, och Momentum styr hur mycket Fokus de får tillbaka mellan scener (*se [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
+
 ## Bakgrund
 
 Rollpersonerna i I Rikets Tjänst är som bekant resultatet av plågsamma, farliga experiment under Doktor Lars Hedströms ledning. Dessa experiment har i praktiken pågått sedan slutet på 1940-talet och endast ett fåtal av de frivilliga försökspersoner som har genomgått experimenten har utvecklat de eftersökta krafterna. Det här äventyret handlar om de som det gick sämre för.
@@ -138,7 +142,7 @@ Maten på avdelningen börjar ta slut och Akhenatons hov börjar bli oroliga. Ak
 
 ## Platser
 
-Rummen nedan är numrerade enligt planritningen ovan (*se [[#Läget på Beckomberga]]*). Paviljong 10 är en spegelvänd byggnad: två flyglar med var sin korridor och var sitt dagrum, sammanbundna av en mittsektion med expedition, laboratorium, bad, besöksrum och en terrass som skjuter ut mot söder. Bottenvåningen rymmer de två övervakningsavdelningarna, andra våningen en tredje, nu utrymd, avdelning.
+Rummen nedan är numrerade enligt planritningen ovan (*se [[#Läget på Beckomberga]]*). Paviljong 10 är en spegelvänd byggnad: två flyglar med var sin korridor (**32**), sitt dagrum (**52** i väster, **11** i öster) och sitt bad (**43** respektive **14**), sammanbundna av en mittsektion med expedition och laboratorium (**27**), kök (**37**), besöksrum (**29**) och en terrass (**30**) som skjuter ut mot söder. Bottenvåningen rymmer de två övervakningsavdelningarna, andra våningen en tredje, nu utrymd, avdelning.
 
 ### Beckomberga sjukhus i stort
 
@@ -164,17 +168,17 @@ Trycket från Akhenatons **tankefält** (se [[#Wachtmeister / Akhenaton]] och ta
 
 **Nyckelrum:**
 
-- **Korridoren och dagrummet (52, västra flygeln):** Hovets samlingssal. Här hålls "audienser", här firades vigseln som gjorde Lindqvist till Nefertiti, och här samlas de omvända kring Amunhothep Johanssons plan att skaffa mat och ett offer. Maten — staplad på ett bord som ett offeraltare — börjar ta slut.
-- **Enkelrummen och fyrbäddssalen (50, 51, 54, 55):** Omvända patienter och vårdare vilar, vakar eller mässar. Ett av rummen används som "fängelsehåla" för den eller de som ifrågasatt kungen.
-- **Akhenatons tronrum (innersta enkelrummet, 51):** Hörnrummet längst in, lättast att försvara och svårast att nå. Hit har Wachtmeister dragit sig tillbaka med Lindqvist/Nefertiti och **ECT-apparaten**, som flyttats hit från behandlingsdelen i mittsektionen. Han lämnar ogärna rummet; i sitt delirium upplever han det som tryggare än yttervärlden. Trycket från tankefältet är som starkast här.
+- **Korridoren och dagrummet (32 och 52, västra flygeln):** Hovets samlingssal. Här hålls "audienser", här firades vigseln som gjorde Lindqvist till Nefertiti, och här samlas de omvända kring Amunhothep Johanssons plan att skaffa mat och ett offer. Maten — staplad på ett bord som ett offeraltare — börjar ta slut.
+- **Enkelrummen och fyrbäddssalen (50, 53, 54, 55):** Omvända patienter och vårdare vilar, vakar eller mässar. Ett av rummen används som "fängelsehåla" för den eller de som ifrågasatt kungen.
+- **Akhenatons tronrum (innersta enkelrummet, 51):** Hörnrummet längst in, lättast att försvara och svårast att nå. Hit har Wachtmeister dragit sig tillbaka med Lindqvist/Nefertiti och **ECT-apparaten**, som flyttats hit från laboratoriet i mittsektionen (**27**). Han lämnar ogärna rummet; i sitt delirium upplever han det som tryggare än yttervärlden. Trycket från tankefältet är som starkast här.
 
 Att ta sig genom hovet utan strid kräver att rollpersonerna **spelar med** — uppträder som sändebud, undersåtar eller präster (*Samspel + List* eller *Samspel + Vilja*). Att avslöjas som otrogna, eller att hota kungen, får hovet att sluta upp till hans försvar och kan utlösa Akhenatons trauma.
 
 ### Paviljong 10, första våningen, östra korridoren, avdelningen för oroliga patienter
 
-Personalen på avdelningen för oroliga patienter gav sig av när hovet bredde ut sig, och de sju intagna lämnades inlåsta eller strövande. Akhenatons tankefält når hit men har inte format dem som det format hovet — de oroliga sinnena är för splittrade för det. Fältet gör dem mest ännu oroligare.
+Personalen på avdelningen för oroliga patienter gav sig av när hovet bredde ut sig, och de sju intagna lämnades inlåsta eller strövande i enkelrummen (**22, 23, 25**), fyrbäddssalen (**24**) och kring dagrummet (**11**). Akhenatons tankefält når hit men har inte format dem som det format hovet — de oroliga sinnena är för splittrade för det. Fältet gör dem mest ännu oroligare.
 
-I korridoren hörs rop, knackningar och gråt. Några patienter sitter hopkurade, andra slår mot låsta dörrar, en vandrar fritt. Maten är slut och det luktar av en vecka utan städning. Det är hit **Amunhothep Johansson** vill bryta sig in: hämta mat och släpa med en patient som "offer" åt sin gud.
+I korridoren (**32**) hörs rop, knackningar och gråt. Några patienter sitter hopkurade, andra slår mot låsta dörrar, en vandrar fritt. Maten är slut och det luktar av en vecka utan städning. Det är hit **Amunhothep Johansson** vill bryta sig in: hämta mat och släpa med en patient som "offer" åt sin gud.
 
 > **Chockslag:** *Sinnen + Vilja*, Chockfaktor **2** — instängda, bortglömda människor i panik. Rollpersoner med Trauma **Vanmakt** eller **Skuld** har Chockfaktor +1.
 
@@ -256,6 +260,8 @@ Wachtmeister är en **telepat som trycker ut sina egna tankar i andra**. Förmå
 
 Akhenaton bär inget vapen och slår sällan själv — hans hov gör det åt honom. Hans makt är telepatisk.
 
+**Akhenatons Fokus.** Räkna inte Fokus för honom slag för slag — improvisera (*se [[Att spelleda I Rikets Tjänst#Stress istället för Fokus]]*). Som tumregel matar hovets dyrkan honom: omgiven av sina omvända har han råd att aktivera **en kraft per runda**. Vänds eller skingras hovet, eller dras han bort från sina undersåtar, sinar Fokus och han tvingas ta **Stress** för att fortsätta — vilket driver honom mot **aktiverat trauma** (se nedan). Hans makt är alltså starkast i hovets mitt och svagast när någon lyckats nå mannen bakom guden.
+
 **Gudakonungens närvaro / Tankefält** (Alltid aktiv)
 Wachtmeisters okontrollerade telepati läcker ständigt ut som ett tryck av påträngande tankar — underkastelse, vördnad, dyrkan. Räckvidd och styrka varierar med hans sinnesstämning enligt tabellen nedan. Den som utsätts slår **Vilja + Vilja** för att stå emot; misslyckande ger **Stress** och en påtvingad lojalitetstanke. Det var så hovet skapades.
 
@@ -282,7 +288,7 @@ Slå *Sinnen + Vilja* för att läsa ytliga tankar och känslor hos någon inom 
 **Krossande vilja** (2 Fokus, en handling)
 Ett direkt psykiskt angrepp — han tränger ut sina tankar tills målets egna viker undan. Slå *Samspel + Vilja* mot målets *Vilja + Vilja*. Vid framgång tar målet **1 Stress** + **1 Stress per Effekt**. Vinner han med 2+ framgångars marginal förlorar målet dessutom sin nästa handling, överväldigat. Skadar inte KP — men kan driva ett mål över en sammanbrottsgräns.
 
-**Svaghet:** Makten är rotad i vanföreställningen. Lyckas rollpersonerna genuint **spräcka illusionen** — konfrontera honom som mannen Wachtmeister, påminna om skilsmässan, avskedet, hjälplösheten under experimenten (*Samspel + Analys* eller *Samspel + Vilja*, **Svår** till **Mycket Svår**) — vacklar han: tankefältet sjunker ett steg och han tappar nästa Fokus. Den som vägrar erkänna honom alls (som Feldt i sina klara stunder) är svårare att nå. ECT-apparaten både väckte och göder kraften; vad ytterligare — eller annorlunda — bruk av den gör är upp till SL, men den är en hävstång för den som vågar.
+**Svaghet:** Makten är rotad i vanföreställningen. Lyckas rollpersonerna genuint **spräcka illusionen** — konfrontera honom som mannen Wachtmeister, påminna om skilsmässan, avskedet, hjälplösheten under experimenten (*Samspel + Analys* eller *Samspel + Vilja*, **Svår** till **Mycket Svår**) — vacklar han: tankefältet sjunker ett steg och han tappar nästa Fokus. Den som vägrar erkänna honom alls (som Feldt i sina klara stunder) är svårare att nå. ECT-apparaten både väckte och göder kraften och är en hävstång för den som vågar — ett förslag på vad behandling med den gör finns under [[#Vägar genom hovet]].
 
 **Aktiverat trauma (Vanmakt):** Hotas Akhenaton på allvar slår tankefältet ut okontrollerat. Det når hela våningen utan räckviddsgräns och han kan inte längre välja vem det träffar — behandla det som nivån **Upprörd / hotad**, fast överallt och mot alla samtidigt: undersåtar som rollpersoner slår *Vilja + Vilja* varje runda eller tar **1 Stress**. De omvända gör uppror eller faller i kramp, och fältet kan inte stängas av förrän hotet mot honom är borta. Detta är äventyrets möjliga klimax.
 
@@ -437,9 +443,16 @@ Några sätt att lösa grundproblemet (mekanik i [[#Wachtmeister / Akhenaton]] o
 - **Spela med.** Uppträd som sändebud, präster eller undersåtar och ta er in till tronrummet utan strid (*Samspel + List* eller *Samspel + Vilja*). Väl inne kan ni nå Wachtmeister eller säkra ECT-apparaten och Lindqvist.
 - **Spräck illusionen.** Konfrontera honom som mannen Wachtmeister — skilsmässan, avskedet, hjälplösheten under experimenten (*Samspel + Analys* eller *Samspel + Vilja*, **Svår** till **Mycket Svår**). Lyckas det vacklar guden: tankefältet sjunker ett steg och hovet vaknar förvirrat. Den humana segern.
 - **Vänd Lindqvist.** Hon vet hur kraften väcks och hävs. Att nå henne, eller ta apparaten hon vaktar, är en nyckel.
-- **ECT-apparaten.** Hävstången som väckte och göder kraften. Annat eller ytterligare bruk är SL:s avgörande — den kan dämpa honom, slå fel eller göda honom ännu mer.
+- **ECT-apparaten.** Hävstången som väckte och göder kraften (*förslag på utfall nedan*).
 - **Feldt.** Den klarsynte konstapeln kan bli en bräcklig väg in (*se [[#Konstapel Ernst Feldt]]*).
 - **Våld.** Att storma hovet går, men de är patienter, vårdare och två poliser. Allvarligt hot mot Akhenaton kan utlösa hans **aktiverade trauma**, då tankefältet slår ut över hela våningen — äventyrets möjliga klimax.
+
+> **Att använda ECT-apparaten (förslag).** Apparaten står i tronrummet och vaktas av Lindqvist/Nefertiti; att nå den kräver att hovet kringgåtts. Vill rollpersonerna behandla Wachtmeister med den, låt den som sköter apparaten slå *Analys + Sinnen*, **Svårt** (ett steg lättare med **Expertis: Läkare**, och Lindqvist kan hjälpa eller stjälpa). Det här är ett rimligt grundutfall som du gärna får frångå:
+>
+> - **Framgång:** chocken slår tillbaka kraften. Tankefältet sjunker **ett steg** (två vid stor Effekt) resten av scenen och Akhenaton förlorar sin nästa handling, överväldigad — ett fönster att nå mannen eller föra ut honom.
+> - **Misslyckande:** behandlingen göder kraften istället. Tankefältet stiger ett steg och Akhenatons **aktiverade trauma** riskerar att lösas ut (se nedan).
+>
+> Apparaten dämpar — den botar inte. En bestående lösning kräver ändå att illusionen spräcks eller att Wachtmeister förs bort.
 
 ### Möjliga slut
 
