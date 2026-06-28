@@ -2,7 +2,7 @@ Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introd
 
 > **För dig som spelleder.** Äventyret är skrivet för **två till fyra** rollpersoner — Frigg-agenter, antingen färdiga rollpersoner eller förgenererade — som spelar "reserven" som kallas in över sommaren. Det fungerar väl som en grupps, och en spelledares, första äventyr.
 >
-> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) och **Momentum** som styr hur mycket Fokus rollpersonerna får tillbaka mellan scener (*se [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
+> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** — Fokus är rollpersonernas personliga resurs för att förbättra slag och aktivera förmågor, och Momentum styr hur mycket Fokus de får tillbaka mellan scener (*se [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
 >
 > Behöver du bara en sak att hålla i huvudet: **det här är inte en strid att vinna, utan ett offer att nå.** Akhenaton och hans hov är patienter, inte fiender. Belöna spelare som försöker förstå framför att övermanna (*se [[#Tänkbara utfall]]*).
 
@@ -144,7 +144,7 @@ Maten på avdelningen börjar ta slut och Akhenatons hov börjar bli oroliga. Ak
 
 ## Platser
 
-Rummen nedan är numrerade enligt planritningen ovan (*se [[#Läget på Beckomberga]]*). Paviljong 10 är en spegelvänd byggnad: två flyglar med var sin korridor och var sitt dagrum, sammanbundna av en mittsektion med expedition, laboratorium, bad, besöksrum och en terrass som skjuter ut mot söder. Bottenvåningen rymmer de två övervakningsavdelningarna, andra våningen en tredje, nu utrymd, avdelning.
+Rummen nedan är numrerade enligt planritningen ovan (*se [[#Läget på Beckomberga]]*). Paviljong 10 är en spegelvänd byggnad: två flyglar med var sin korridor (**32**), sitt dagrum (**52** i väster, **11** i öster) och sitt bad (**43** respektive **14**), sammanbundna av en mittsektion med expedition och laboratorium (**27**), kök (**37**), besöksrum (**29**) och en terrass (**30**) som skjuter ut mot söder. Bottenvåningen rymmer de två övervakningsavdelningarna, andra våningen en tredje, nu utrymd, avdelning.
 
 ### Beckomberga sjukhus i stort
 
@@ -170,17 +170,17 @@ Trycket från Akhenatons **tankefält** (se [[#Wachtmeister / Akhenaton]] och ta
 
 **Nyckelrum:**
 
-- **Korridoren och dagrummet (52, västra flygeln):** Hovets samlingssal. Här hålls "audienser", här firades vigseln som gjorde Lindqvist till Nefertiti, och här samlas de omvända kring Amunhothep Johanssons plan att skaffa mat och ett offer. Maten — staplad på ett bord som ett offeraltare — börjar ta slut.
+- **Korridoren och dagrummet (32 och 52, västra flygeln):** Hovets samlingssal. Här hålls "audienser", här firades vigseln som gjorde Lindqvist till Nefertiti, och här samlas de omvända kring Amunhothep Johanssons plan att skaffa mat och ett offer. Maten — staplad på ett bord som ett offeraltare — börjar ta slut.
 - **Enkelrummen och fyrbäddssalen (50, 53, 54, 55):** Omvända patienter och vårdare vilar, vakar eller mässar. Ett av rummen används som "fängelsehåla" för den eller de som ifrågasatt kungen.
-- **Akhenatons tronrum (innersta enkelrummet, 51):** Hörnrummet längst in, lättast att försvara och svårast att nå. Hit har Wachtmeister dragit sig tillbaka med Lindqvist/Nefertiti och **ECT-apparaten**, som flyttats hit från behandlingsdelen i mittsektionen. Han lämnar ogärna rummet; i sitt delirium upplever han det som tryggare än yttervärlden. Trycket från tankefältet är som starkast här.
+- **Akhenatons tronrum (innersta enkelrummet, 51):** Hörnrummet längst in, lättast att försvara och svårast att nå. Hit har Wachtmeister dragit sig tillbaka med Lindqvist/Nefertiti och **ECT-apparaten**, som flyttats hit från laboratoriet i mittsektionen (**27**). Han lämnar ogärna rummet; i sitt delirium upplever han det som tryggare än yttervärlden. Trycket från tankefältet är som starkast här.
 
 Att ta sig genom hovet utan strid kräver att rollpersonerna **spelar med** — uppträder som sändebud, undersåtar eller präster (*Samspel + List* eller *Samspel + Vilja*). Att avslöjas som otrogna, eller att hota kungen, får hovet att sluta upp till hans försvar och kan utlösa Akhenatons trauma.
 
 ### Paviljong 10, första våningen, östra korridoren, avdelningen för oroliga patienter
 
-Personalen på avdelningen för oroliga patienter gav sig av när hovet bredde ut sig, och de sju intagna lämnades inlåsta eller strövande. Akhenatons tankefält når hit men har inte format dem som det format hovet — de oroliga sinnena är för splittrade för det. Fältet gör dem mest ännu oroligare.
+Personalen på avdelningen för oroliga patienter gav sig av när hovet bredde ut sig, och de sju intagna lämnades inlåsta eller strövande i enkelrummen (**22, 23, 25**), fyrbäddssalen (**24**) och kring dagrummet (**11**). Akhenatons tankefält når hit men har inte format dem som det format hovet — de oroliga sinnena är för splittrade för det. Fältet gör dem mest ännu oroligare.
 
-I korridoren hörs rop, knackningar och gråt. Några patienter sitter hopkurade, andra slår mot låsta dörrar, en vandrar fritt. Maten är slut och det luktar av en vecka utan städning. Det är hit **Amunhothep Johansson** vill bryta sig in: hämta mat och släpa med en patient som "offer" åt sin gud.
+I korridoren (**32**) hörs rop, knackningar och gråt. Några patienter sitter hopkurade, andra slår mot låsta dörrar, en vandrar fritt. Maten är slut och det luktar av en vecka utan städning. Det är hit **Amunhothep Johansson** vill bryta sig in: hämta mat och släpa med en patient som "offer" åt sin gud.
 
 > **Chockslag:** *Sinnen + Vilja*, Chockfaktor **2** — instängda, bortglömda människor i panik. Rollpersoner med Trauma **Vanmakt** eller **Skuld** har Chockfaktor +1.
 
