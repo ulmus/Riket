@@ -138,7 +138,7 @@ Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – 
 | Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Vilja     |
 | Få folk att prata            | Småprat, social ingång, “openers”             | List + Samspel      |
 | Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Samspel + Sinnen    |
-| Leda under press             | Korta order, moral, förtroende                | Samspel + Vilja     |
+| Hålla samman gruppen         | Korta order, moral, förtroende                | Samspel + Vilja     |
 | Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Samspel      |
 
 ## Fordon & jakter

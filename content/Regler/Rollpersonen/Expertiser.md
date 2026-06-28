@@ -12,7 +12,7 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 
 - **Lätt:** Diagnostisera vanlig sjukdom, lägga enkla förband, avgöra dödsorsak vid uppenbart trauma, ge grundläggande medicinsk rådgivning.
 - **Normal:** Akutvård i fält (*Analys + Smidighet*), diagnosticering och behandling (*Analys + Sinnen*).
-- **Svår:** Kirurgi (*Analys + Smidighet*), lägga förband under eld (*Smidighet + Strid*).
+- **Svår:** Kirurgi (*Analys + Smidighet*), lägga förband under eld (*Analys + Smidighet*).
 
 ## Fältmedicinare
 
