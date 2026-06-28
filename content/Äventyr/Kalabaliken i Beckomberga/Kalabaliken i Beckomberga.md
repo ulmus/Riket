@@ -1,8 +1,8 @@
 Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introducerar Extra-Normala Subjekt, kalla krigets spioneri och den moraliska ambivalensen som kringgärdar hela Program Frigg i allmänhet och Doktor Lars Hedström i synnerhet.
 
-> **För dig som spelleder.** Äventyret är skrivet för **två till fyra** rollpersoner — Frigg-agenter, antingen färdiga rollpersoner eller förgenererade — som spelar "reserven" som kallas in över sommaren. Det fungerar väl som en grupps, och en spelledares, första äventyr.
+> **För dig som spelleder.** Äventyret är skrivet för **två till fyra** spelare som spelar "reserven" som kallas in över sommaren. Rollpersonerna är Frigg-agenter, ni kan skapa de själva eller använda de förgenererade.
 >
-> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** — Fokus är rollpersonernas personliga resurs för att förbättra slag och aktivera förmågor, och Momentum styr hur mycket Fokus de får tillbaka mellan scener (*se [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
+> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**, se [[Grundregler#Grundmekanik Egenskap + Egenskap T12or]]), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** (*se [[Grundregler#Fokus]] och [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
 
 ## Bakgrund
 
