@@ -70,7 +70,9 @@
   // Blockquote = a clipped-in note slip.
   blockquote {
     border-left: 3px solid var(--tertiary);
-    background: var(--lightgray);
+    background: color-mix(in srgb, var(--lightgray) 30%, var(--light));
+    padding: 0.75rem 1.25rem;
+    border-radius: 0 4px 4px 0;
   }
 
   // Tables read like a typed form grid.
