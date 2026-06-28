@@ -23,12 +23,14 @@ I denna värld jagas Auschwitz-personalen hårdare än i vår egen historia. Int
 
 **ODESSA-nätverket** är därför betydligt större och bättre finansierat än i verkligheten. Det smugglar ut SS-veteraner inte bara till Sydamerika utan också till diskreta hörn av Europa där de kan leva under falska identiteter — mot att de då och då bidrar med kunskap till de program som beskyddar dem.
 
+Ambitionerna hoss Skorzeny och ODESSA är också större än i vår verklighet. I denna verklighet leder Skorzeny försök att återupprätta Tredje Riket med hjälp av ENS. De har ett hemligt laboratorium på Spetsbergen i Arktis där de försöker återskapa det Dr. Mengele skapade i Auschwitz.
+
 ## Akterna
 1. **[[Moskvas Förstäder]]** — Resan från Sverige till Moskva som östtysk handelsdelegation. Vid Mengeles dödsbädd får rollpersonerna veta att loggboken aldrig var hans. Spåret pekar mot Wien.
 2. **[[Apotekaren]]** — Wien. Capesius lever som respektabel apotekare under ODESSA:s skydd. Vägen till honom går genom Wieneroperan och hans hustru, **Die Träumerin**. Spåret leder vidare till Kairo.
 3. **[[Kairo]]** — *(att skriva)* Spåret efter boken — eller mannen — leder till Kairo.
-4. **[[Södern]]** — *(att skriva)* Förenta Staterna, Södern och medborgarrättsrörelsen.
-5. **[[Uppgörelsen]]** — *(att skriva)* Den slutliga uppgörelsen med Skorzeny. Plats ännu okänd.
+4. **[[Södern]]** — *(att skriva)* Förenta Staterna, Södern och medborgarrättsrörelsen. ODESSA har infiltrerat den amerikanska statsapparaten inklusive Proect Phoenix.
+5. **[[Uppgörelsen]]** — *(att skriva)* Den slutliga uppgörelsen med Skorzeny på Spetsbergen.
 
 Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val — boken intakt åt Frigg, förstörd, eller i fel händer.
 
