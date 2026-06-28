@@ -13,6 +13,7 @@ Här kommer **Project Phoenix** in. USA:s ENS-program vill ha loggboken och rör
 - Vad för rollpersonerna till amerikanska Södern? Boken, en flyende nazist, eller ett Phoenix-spår?
 - Hur kopplas medborgarrättsrörelsen till handlingen och temana (övervåld, experiment, vem som räknas som människa)?
 - Vad vill Phoenix exakt — boken, en avhoppare, eller rekrytering/experiment i Södern?
+- Phoenix 
 - Vad är aktens scen(er) och klimax?
 - Hur leder Södern fram till [[Uppgörelsen]]?
 

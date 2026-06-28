@@ -77,7 +77,7 @@ annan layout) och ingår därför inte här.
 <!-- bok: dodsangeln | css: regler.css -->
 
 - [[Dödsängelns Testamente]]
-- [[Moskvas Förstäder]]
+- [[Moskva]]
 - [[Apotekaren]]
 - [[Nessun Dorma]]
 - [[Kairo]]
