@@ -27,12 +27,12 @@ Ambitionerna hoss Skorzeny och ODESSA är också större än i vår verklighet. 
 
 ## Akterna
 1. **[[Moskva]]** — Resan från Sverige till Moskva som östtysk handelsdelegation. Vid Mengeles dödsbädd får rollpersonerna veta att loggboken aldrig var hans. Spåret pekar mot Wien.
-2. **[[Apotekaren]]** — Wien. Capesius lever som respektabel apotekare under ODESSA:s skydd. Vägen till honom går genom Wieneroperan och hans hustru, **Die Träumerin**. Spåret leder vidare till Kairo.
-3. **[[Kairo]]** — *(att skriva)* Spåret efter boken — eller mannen — leder till Kairo.
-4. **[[Södern]]** — *(att skriva)* Förenta Staterna, Södern och medborgarrättsrörelsen. ODESSA har infiltrerat den amerikanska statsapparaten inklusive Proect Phoenix.
-5. **[[Uppgörelsen]]** — *(att skriva)* Den slutliga uppgörelsen med Skorzeny på Spetsbergen.
+2. **[[Apotekaren]]** — Wien. Capesius lever som respektabel apotekare under ODESSA:s skydd. Vägen till honom går genom Frankfurt och åklagaren Bauer, Wieneroperan och hans hustru **Die Träumerin**. Rollpersonerna upptäcker att boken inte är i Europa och att ODESSA nu vill ha den själv. Spåret leder till Kairo.
+3. **[[Kairo]]** — Kärnan av boken gömdes hos en av Nassers tyskar. **Mossad** kommer in — de vill ha mannen, inte boken. Mitt i Operation Damocles flyttar ODESSA boken vidare. Spåret leder till amerikanska Södern.
+4. **[[Södern]]** — Förenta Staterna, Södern och medborgarrättsrörelsen. **Project Phoenix** har boken på en avskild anläggning, men en ODESSA-mullvad inom programmet styr den vidare mot Spetsbergen. Spåret leder till uppgörelsen.
+5. **[[Uppgörelsen]]** — Den slutliga uppgörelsen med Skorzeny på hans anläggning på Spetsbergen, under Kubakrisens skugga. Här betalas kampanjens trådar av.
 
-Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val — boken intakt åt Frigg, förstörd, eller i fel händer.
+Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val — boken intakt åt Frigg, förstörd, eller i fel händer, och ödet för Capesius, Die Träumerin och Furie.
 
 ## Genomgående fraktioner
 - **Program Frigg / T-kontoret** — uppdragsgivaren. Vill ha boken intakt.
@@ -43,8 +43,8 @@ Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val �
 - **ODESSA / Otto Skorzeny** — skyddar Capesius aktivt för att skydda sig själv. Kampanjens röda tråd och slutlige motståndare.
 
 ## Genomgående personer
-- **Otto Skorzeny** — håller ihop ODESSA. Skuggan bakom varje akt.
-- **Dr. Victor Capesius** — apotekaren från Auschwitz, alias *Mag. pharm. Viktor Krauss* i Wien. Har boken.
-- **Die Träumerin** — Capesius hustru. Judinna från lägren, gift med sin fångvaktare. ENS vars kraft löser upp gränsen mellan dröm och verklighet.
-- **Furie** — ENS skapad av ODESSA, kan mana fram raseri-utbrott hos andra. Nätverkets vapen.
-- **Verdandi** — Friggs asset, synsk. Reser med rollpersonerna.
+- **Otto Skorzeny** — håller ihop ODESSA. Skuggan bakom varje akt. Mål: resa Riket på nytt genom ENS i industriell skala — boken är receptet han saknar. Fullständigt stat-block i [[Uppgörelsen#Otto Skorzeny]].
+- **Dr. Victor Capesius** — apotekaren från Auschwitz, alias *Mag. pharm. Viktor Krauss* i Wien. Gömde bokens kärna i Kairo som livförsäkring; jagas av alla. Stat-block i [[Apotekaren#Dr. Victor Capesius]].
+- **Die Träumerin (Éva Roth)** — Capesius hustru. Judinna från Kolozsvár, deporterad 1944, överlevande Nigredo-subjekt; gift med sin fångvaktare genom trauma­band. ENS vars kraft löser upp gränsen mellan dröm och verklighet. Stat-block i [[Uppgörelsen#Die Träumerin (Éva Roth)]].
+- **Furie** — ENS skapad av ODESSA på Spetsbergen; krigsbarn, konditionerad, preparatberoende. Kan mana fram raseri-utbrott hos andra. Nätverkets vapen och kampanjens återkommande motståndare. Stat-block i [[Kairo#Furie]].
+- **Verdandi** — Friggs asset, synsk. Reser med rollpersonerna. Var själv på rampen — kan känna igen Capesius. Se [[Verdandi]].
