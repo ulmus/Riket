@@ -119,6 +119,45 @@ function patchContentIndexDefaults(content) {
   return next
 }
 
+/**
+ * table-of-contents: the bundled IntersectionObserver toggles the `in-view`
+ * highlight class on TOC entries as the matching headings scroll past, but it
+ * never scrolls the (independently scrollable) TOC list itself. On a long page
+ * the highlighted entry drifts out of the TOC's visible area. Append a small
+ * companion script to the component's inline bundle that watches the `in-view`
+ * class and keeps the active entry scrolled into view *within the TOC list*
+ * (adjusting only `scrollTop`, never the page). Decoupled from the upstream
+ * observer, so a future plugin version that reworks the observer keeps working.
+ */
+function patchTableOfContentsAutoScroll(content) {
+  if (content.includes("__tocAutoScroll")) return content // idempotent
+  // No single quotes / backslashes / newlines below, so it is safe to splice
+  // verbatim into the single-quoted `toc_inline_default` string literal.
+  const APPEND =
+    ";function __tocAutoScroll(){" +
+    'document.querySelectorAll("ul.toc-content").forEach(function(toc){' +
+    "function sync(){" +
+    'var links=toc.querySelectorAll("a.in-view");' +
+    "var active=links[links.length-1];" +
+    "if(!active)return;" +
+    "var cr=toc.getBoundingClientRect(),lr=active.getBoundingClientRect();" +
+    "if(lr.top<cr.top)toc.scrollTop-=cr.top-lr.top;" +
+    "else if(lr.bottom>cr.bottom)toc.scrollTop+=lr.bottom-cr.bottom" +
+    "}" +
+    "var mo=new MutationObserver(sync);" +
+    'mo.observe(toc,{subtree:true,attributes:true,attributeFilter:["class"]});' +
+    "sync();" +
+    "if(window.addCleanup)window.addCleanup(function(){mo.disconnect()})" +
+    "})" +
+    "}" +
+    'document.addEventListener("nav",__tocAutoScroll);' +
+    'document.addEventListener("render",__tocAutoScroll);'
+  return content.replace(
+    /(var toc_inline_default = ')((?:\\.|[^'])*)(';)/,
+    (_m, open, body, close) => open + body + APPEND + close,
+  )
+}
+
 /** Patch a single built file. Returns { changed, anchored }. */
 function patchFile(file, pluginName) {
   let content
@@ -158,6 +197,15 @@ function patchFile(file, pluginName) {
   // 3) search: the magnifying-glass SVG <title> is hardcoded (not i18n).
   if (pluginName === "search") {
     const swapped = next.replace(/("title",\s*\{\s*children:\s*)"Search"(\s*\})/g, `$1"Sök"$2`)
+    if (swapped !== next) {
+      next = swapped
+      changed = true
+    }
+  }
+
+  // 4) table-of-contents: keep the highlighted entry scrolled into view.
+  if (pluginName === "table-of-contents") {
+    const swapped = patchTableOfContentsAutoScroll(next)
     if (swapped !== next) {
       next = swapped
       changed = true
