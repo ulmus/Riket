@@ -352,17 +352,17 @@ Spendera 1 Fokus före ett förfalskningsslag för +3 tärningar. Bara 1 Fokus p
 
 Dina förfalskningar klarar alltid första kontrollen automatiskt.
 
-### Låssmed
+### Inbrottstjuv
 
 #### Andra försöket
 
-*Krav:* Expertis: Låssmed
+*Krav:* Expertis: Inbrottstjuv
 
 Du kan göra ett andra dyrkningsförsök på samma lås även om det första misslyckats. Spendera 1 Fokus före det andra slaget för att också göra det utan tidsförlust.
 
 #### Snabba fingrar
 
-*Krav:* Expertis: Låssmed
+*Krav:* Expertis: Inbrottstjuv
 
 När du dyrkar lås, öppnar kassaskåp eller forcerar mekaniska säkerhetslösningar tar uppgiften en tidsklass kortare än normalt (timmar → minuter, minuter → sekunder). Spendera 1 Fokus för att vid framgång inte heller lämna spår — säkerhetsanordningen ser orörd ut efteråt.
 
@@ -561,6 +561,76 @@ Spendera 1 Fokus före ett slag för att intervjua, gräva i arkiv eller korsa k
 *Krav:* Expertis: Journalist
 
 Få vet hur man säger nej till pressen. Spendera 1 Fokus och slå *List + Samspel* för att få någon att släppa in dig, tala eller lämna ifrån sig något — den fåfänge för att synas, den skyldige för att slippa synas. Spendera 1 Effekt för att också ge ett löfte om anonymitet som väger tungt: källan vågar då säga mer än den annars skulle.
+
+### Präst
+
+#### Själasörjare
+
+*Krav:* Expertis: Präst
+
+Genom ett samtal i enrum, en bikt eller en stilla stund kan du lindra en annans inre sår. Slå *Samspel + Vilja* och minska personens Stress med slagets Effekt. Till skillnad från ett vanligt terapeutiskt samtal behöver du ingen lugn scen — spendera 1 Fokus för att ge tröst mitt i fält, med ett par ord även under pågående uppdrag.
+
+#### Själens ankare
+
+*Krav:* Expertis: Präst
+
+Din övertygelse är ett värn för andra. När en allierad inom hör- och synhåll ska slå på Sammanbrottstabellen kan du spendera 1 Fokus för att be, tala eller bara finnas där — den allierade drar av 2 från sitt slag på Sammanbrottstabellen.
+
+### Professor
+
+#### Lärd auktoritet
+
+*Krav:* Expertis: Professor
+
+Spendera 1 Fokus före ett slag inom ditt ämnesområde för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
+
+#### Encyklopedisk kunskap
+
+*Krav:* Expertis: Professor
+
+En gång per scen kan du, utan slag, dra dig till minnes en relevant uppgift ur din lärdom — en historisk parallell, ett ämnes egenskaper, en språklig detalj, en kulturell sed — som kastar nytt ljus över situationen. SL berättar vad du minns.
+
+### Diplomat
+
+#### Förhandlare
+
+*Krav:* Expertis: Diplomat
+
+Spendera 1 Fokus före ett förhandlingsslag för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
+
+#### Diplomatisk immunitet
+
+*Krav:* Expertis: Diplomat
+
+Din ställning är ett skydd. När du åberopar din diplomatiska status — vid en kontroll, ett gripande eller en husrannsakan — tvekar tjänstemän att gå vidare utan klartecken uppifrån. Spendera 1 Fokus och slå *Samspel + Vilja* för att vinna den tid eller passage som tvekan ger, även mot någon som helst skulle agera.
+
+### Smugglare
+
+#### Gömställe
+
+*Krav:* Expertis: Smugglare
+
+Du har alltid ett dolt utrymme till hands — i fodret, under golvet, i ett dubbelbottnat fack. En gång per uppdrag kan du, utan att ha nämnt det tidigare, avslöja att du fått med dig ett mindre föremål förbi en kontroll du redan passerat. Spendera 1 Fokus för att vid en kroppsvisitation eller fordonsgenomsökning hålla ett gömt föremål dolt utan slag.
+
+#### Rätt folk
+
+*Krav:* Expertis: Smugglare
+
+Spendera 1 Fokus och slå *List + Samspel* för att känna en användbar kontakt på platsen — en langare, en mutbar tulltjänsteman, en hälare, en gränsbo som vet vägarna. SL avgör vad kontakten kan erbjuda och till vilket pris.
+
+### Fotograf
+
+#### Skarpt öga
+
+*Krav:* Expertis: Fotograf
+
+Spendera 1 Fokus före ett slag för att fotografera eller framkalla och tolka bilder för +3 tärningar. Bara 1 Fokus per slag på detta sätt.
+
+#### Avslöjande detalj
+
+*Krav:* Expertis: Fotograf
+
+När du framkallar och granskar dina egna bilder kan du, en gång per scen, peka ut en detalj som ingen lade märke till på platsen — en spegelbild, ett ansikte i bakgrunden, ett dokument på ett skrivbord, en skylt som avslöjar var bilden togs. SL berättar vad bilden fångade.
 
 ## Bakgrundsförmågor
 
