@@ -63,7 +63,7 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära egenskaper
 
-- **Förflyttning** avgör hur du tar dig fram. Alla kan som en del av sin tur förflytta sig till en ny plats i sin zon eller till en närliggande zon, så länge handlingen inte kräver att man står stilla. Vill du längre **rusar** du och slår *Fysik + Smidighet*. Se [[Strid och skada#Zoner]].
+- **Förflyttning** avgör hur du tar dig fram. Att förflytta dig en zon eller mer slås med *Fysik + Smidighet*; normalt är slaget Lätt och en zon ingår i din tur utan tärning. Varje Effekt tar dig en zon till (eller fram till en bestämd punkt), och lägger du hela handlingen på språnget får du en gratis framgång (du **rusar**). Svår terräng och sår höjer svårigheten. Se [[Strid och skada#Förflyttning]].
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
@@ -129,7 +129,7 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
-- Din tur: **en handling**, plus en förflyttning till en plats i din zon eller en närliggande zon. Att rusa längre är i sig din handling (*Fysik + Smidighet*). Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla. Har du flyttat minst en zon är du svårare att träffa.
+- Din tur: **en handling**, plus en förflyttning på en zon (normalt Lätt, ingen tärning). Längre, eller genom svår terräng, kräver ett slag för *Fysik + Smidighet* — varje Effekt en zon till; lägg hela handlingen på språnget för en gratis framgång. Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla. Har du flyttat minst en zon är du svårare att träffa.
 - Försvar är passivt — SL väger in rörelse och skydd i anfallets svårighet. Vill du aktivt väja eller parera spenderar du 1 Fokus, slår Smidighet + Strid (Lätt) och drar av Effekten från anfallets framgångar.
 - Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.
 

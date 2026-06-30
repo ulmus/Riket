@@ -18,9 +18,10 @@
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
-- **Din tur:** en handling + förflyttning till en plats i din zon eller en närliggande zon. Två saker samtidigt = ett steg svårare (om inte en förmåga säger annat)
-- **Zoner:** SL delar in scenen i berättardrivna zoner; avstånd och förflyttning mäts i zoner. **Svår terräng:** slå *Fysik + Smidighet* för att ta dig dit och ändå behålla handlingen
-- **Rusa:** rusningen är din handling — slå *Fysik + Smidighet* för en zon plus en extra per framgång
+- **Din tur:** en handling + en förflyttning på en zon. Två saker samtidigt = ett steg svårare (om inte en förmåga säger annat)
+- **Zoner:** SL delar in scenen i berättardrivna zoner; avstånd och förflyttning mäts i zoner
+- **Förflyttning:** slå *Fysik + Smidighet*. Normalt Lätt → en zon, ingen tärning. Varje Effekt = en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten
+- **Rusa:** lägg hela handlingen på förflyttningen → en gratis framgång på slaget
 - **Rörligt mål:** har du flyttat minst en zon är alla anfall mot dig ett steg svårare till din nästa tur
 - **Stillastående-handlingar** (sikta, kirurgi, koncentrera kraft): kräver att du inte rör dig, annars ett steg svårare
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)

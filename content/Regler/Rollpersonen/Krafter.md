@@ -254,7 +254,7 @@ När du träffas av en attack, öka ditt Skydd med 1 under resten av rundan. Kan
 
 ### Tjurrusning (1 Fokus, en handling)
 
-Rusa rakt fram genom en eller flera zoner. Slå Fysik + Smidighet – du tar dig en zon plus en extra zon per framgång, och varje framgång låter dig dessutom ignorera ett hinder på vägen. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
+Du rusar rakt fram och lägger hela din handling på språnget. Slå Fysik + Smidighet – du tar dig en zon plus en extra per framgång, och varje framgång låter dig dessutom dundra förbi ett hinder på vägen. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
 
 - **+1 Fokus:** Räknas som närstridsattack mot alla i vägen.
 - **1 Framgång:** Fienders slag för att hålla sig upp ett steg svårare.

@@ -38,7 +38,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | --- | --- | --- |
 | **Tålighet** | Fysik + Vilja | Tröskel för skadesteg |
 | **Stabilitet** | Normalt 3 | Hur mycket stress du tål innan sammanbrott |
-| **Förflyttning** | Fysik + Smidighet | En zon per tur; *Fysik + Smidighet* är poolen du slår när du rusar längre |
+| **Förflyttning** | Fysik + Smidighet | Slå för att flytta dig en zon eller mer; normalt Lätt (en zon ingår i turen, ingen tärning), varje Effekt en zon till |
 
 ## Expertis och förmågor
 
@@ -54,8 +54,8 @@ De åtta grundegenskaperna som definierar en rollperson:
 | --- | --- |
 | **Handling** | Det du gör på din tur — en per runda (attack, kraft, ladda om, vård, etc.) |
 | **Stillastående-handling** | Handling som kräver att du inte förflyttar dig samma runda (sikta, kirurgi, upprätthålla en kraft); annars ett steg svårare eller omöjlig |
-| **Förflyttning** | Rörelse till en plats i din zon eller en närliggande zon som ingår i din tur |
-| **Rusa** | Att förflytta sig längre som sin handling; slå *Fysik + Smidighet* för en zon plus en extra per framgång |
+| **Förflyttning** | Slag för *Fysik + Smidighet* för att flytta dig; en zon ingår i din tur (normalt Lätt, ingen tärning), varje Effekt tar dig en zon till |
+| **Rusa** | Att lägga hela sin handling på förflyttningen och få en gratis framgång på *Fysik + Smidighet* |
 | **Zon** | Berättardriven del av en scen, utan fast storlek; avstånd och förflyttning mäts i zoner |
 | **Räckviddsband** | Abstrakt avstånd för vapen och krafter: Kort, Mellan, Lång, Mycket lång |
 | **Försvar** | Passivt som grund; aktiv väjning eller parering kostar 1 Fokus och kan göras utanför din tur |
