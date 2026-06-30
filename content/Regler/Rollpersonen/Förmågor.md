@@ -80,13 +80,13 @@ Du är tränad i att kontrollera automateld med precision. Du kan använda *Fysi
 
 *Krav:* Automatsalva
 
-Du skjuter täckande eld som hindrar fienden från att förflytta sig. Som din handling och 1 Fokus kan du lägga en zon (~10 m bredd) som varar till din nästa tur. Fiender som rör sig in i eller igenom zonen måste slå ett Chockslag med Chockfaktor 3 (2 om de är stridstränade) och får automatiskt en attack med en framgång riktad mot sig. De tar vapnets normala skada om de inte aktivt försvarar sig (1 Fokus, *Smidighet + Strid*) med minst en framgång.
+Du skjuter täckande eld som hindrar fienden från att förflytta sig. Som din handling och 1 Fokus kan du lägga täckande eld över en zon som varar till din nästa tur. Fiender som rör sig in i eller igenom zonen måste slå ett Chockslag med Chockfaktor 3 (2 om de är stridstränade) och får automatiskt en attack med en framgång riktad mot sig. De tar vapnets normala skada om de inte aktivt försvarar sig (1 Fokus, *Smidighet + Strid*) med minst en framgång.
 
 ### Undertryckande eld
 
 *Krav:* Täckande eld
 
-Din täckande eld gör det också svårt att attackera. Om du har lagt en zon med Täckande eld så aktiveras den även av attacker gjorda från zonen, inte bara av förflyttningar. Effekten av Undertryckande eld kommer före effekten av den utlösande attacken. Om den som attackerar tar skada från Undertryckande eld så avbryts automatiskt personens attack. Detta är en utvidgning av Täckande eld och använder samma zon och kostnader.
+Din täckande eld gör det också svårt att attackera. Om du har lagt täckande eld över en zon så aktiveras den även av attacker gjorda från zonen, inte bara av förflyttningar. Effekten av Undertryckande eld kommer före effekten av den utlösande attacken. Om den som attackerar tar skada från Undertryckande eld så avbryts automatiskt personens attack. Detta är en utvidgning av Täckande eld och använder samma zon och kostnader.
 
 ### Skarpskytt
 
@@ -110,7 +110,7 @@ När du träffar med ett gevär kan du spendera 1 Effekt på träffen för att d
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol utan att det kostar din handling. Förflyttning gör inte dina pistolattacker svårare — du kan röra dig och skjuta samma runda utan avdraget för att göra två saker samtidigt.
+Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol utan att det kostar din handling. Dina pistolattacker räknas inte som stillastående-handlingar — du kan röra dig (omposition eller byta zon) och skjuta samma runda utan avdrag.
 
 ### Snabbskott
 

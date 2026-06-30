@@ -18,9 +18,13 @@
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
-- **Din tur:** en handling + en kort förflyttning. Två saker samtidigt = ett steg svårare (om inte en förmåga säger annat); dubbel förflyttning = handlingen ett steg svårare
+- **Din tur:** en handling + förflyttning till en plats i din zon eller en närliggande zon. Två saker samtidigt = ett steg svårare (om inte en förmåga säger annat)
+- **Zoner:** SL delar in scenen i berättardrivna zoner; avstånd och förflyttning mäts i zoner. **Svår terräng:** slå *Fysik + Smidighet* för att ta dig dit och ändå behålla handlingen
+- **Rusa:** rusningen är din handling — slå *Fysik + Smidighet* för en zon plus en extra per framgång
+- **Rörligt mål:** har du flyttat minst en zon är alla anfall mot dig ett steg svårare till din nästa tur
 - **Stillastående-handlingar** (sikta, kirurgi, koncentrera kraft): kräver att du inte rör dig, annars ett steg svårare
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
+- **Räckviddsband:** Kort (samma zon) → Mellan (närliggande) → Lång (par zoner) → Mycket lång (synhåll). Sikta/kikarsikte = +1 band
 - **Försvar:** passivt (SL väger in i svårigheten). Aktiv väjning/parering: 1 Fokus, Smidighet + Strid (Lätt), dra av Effekten från anfallets framgångar
 - **Skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0)
 - **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus **och** triggar en kritisk träff. +1 per ytterligare 12:a

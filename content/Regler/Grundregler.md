@@ -63,7 +63,7 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära egenskaper
 
-- **Förflyttning** avgör hur snabbt någon rör sig och är lika med Fysik + Smidighet i meter per runda. Förflyttning ingår i din tur så länge din handling inte kräver att du står stilla.
+- **Förflyttning** avgör hur du tar dig fram. Alla kan som en del av sin tur förflytta sig till en ny plats i sin zon eller till en närliggande zon, så länge handlingen inte kräver att man står stilla. Vill du längre **rusar** du och slår *Fysik + Smidighet*. Se [[Strid och skada#Zoner]].
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
 - **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
@@ -129,7 +129,7 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
-- Din tur: **en handling**, plus en kort förflyttning (dubbel förflyttning gör handlingen ett steg svårare). Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla.
+- Din tur: **en handling**, plus en förflyttning till en plats i din zon eller en närliggande zon. Att rusa längre är i sig din handling (*Fysik + Smidighet*). Att göra två saker samtidigt är ett steg svårare. Vissa handlingar kräver att du står stilla. Har du flyttat minst en zon är du svårare att träffa.
 - Försvar är passivt — SL väger in rörelse och skydd i anfallets svårighet. Vill du aktivt väja eller parera spenderar du 1 Fokus, slår Smidighet + Strid (Lätt) och drar av Effekten från anfallets framgångar.
 - Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.
 

@@ -61,12 +61,15 @@ En kraft kan också utformas så att den **modifierar** din vanliga handling (en
 
 ### Steg 3: Bestäm räckvidd
 
-| Räckvidd     | Beskrivning    | Modifikation               |
-| ------------ | -------------- | -------------------------- |
-| **Beröring** | Fysisk kontakt | Ingen                      |
-| **Nära**     | ~10 meter      | Ingen                      |
-| **Medium**   | ~30 meter      | +1 Fokus eller begränsning |
-| **Lång**     | Inom synhåll   | +1 Fokus eller begränsning |
+| Räckvidd        | Beskrivning        | Modifikation               |
+| --------------- | ------------------ | -------------------------- |
+| **Beröring**    | Fysisk kontakt     | Ingen                      |
+| **Kort**        | Samma zon          | Ingen                      |
+| **Mellan**      | Närliggande zon    | +1 Fokus eller begränsning |
+| **Lång**        | Ett par zoner bort | +1 Fokus eller begränsning |
+| **Mycket lång** | Inom synhåll       | +2 Fokus eller begränsning |
+
+Banden är desamma som vapnens räckviddsband (se [[Strid och skada#Räckviddsband]]).
 
 ### Steg 4: Lägg till begränsningar
 
@@ -251,11 +254,11 @@ När du träffas av en attack, öka ditt Skydd med 1 under resten av rundan. Kan
 
 ### Tjurrusning (1 Fokus, en handling)
 
-Rusa dubbla förflyttningen rakt fram. Slå Fysik + Smidighet – varje framgång låter dig ignorera ett hinder. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
+Rusa rakt fram genom en eller flera zoner. Slå Fysik + Smidighet – du tar dig en zon plus en extra zon per framgång, och varje framgång låter dig dessutom ignorera ett hinder på vägen. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
 
 - **+1 Fokus:** Räknas som närstridsattack mot alla i vägen.
 - **1 Framgång:** Fienders slag för att hålla sig upp ett steg svårare.
-- **1 Framgång:** +1 förflyttning på rusningen.
+- **1 Framgång:** +1 zon på rusningen.
 
 ---
 
@@ -271,21 +274,21 @@ Tar aldrig skada av kyla. Kan röra sig normalt på is.
 
 Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring.
 
-- **+1 Fokus:** Räckvidden ökar till 5 meter.
+- **+1 Fokus:** Räckvidden ökar till Kort.
 - **1 Framgång:** Effekten är starkare och varar längre.
 
 ### Iskristaller (1 Fokus, en handling)
 
-Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål inom 15 meter. **Skadebonus +2** (Stark). Skadetyp: Stick.
+Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål på Kort håll. **Skadebonus +2** (Stark). Skadetyp: Stick.
 
 - **+1 Fokus:** Träffar alla inom 3 meter från målet.
 - **+1 Fokus:** Vid 2+ KP skada måste målet slå Fysik + Vilja eller kan nästa runda inte både handla och förflytta sig.
 - **1 Framgång:** +1 skada.
-- **1 Framgång:** +10 meter räckvidd.
+- **1 Framgång:** +1 band räckvidd.
 
 ### Fryspelare (2 Fokus, en handling)
 
-Skapa extrem kyla i 5-meters radie inom 20 meter. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
+Skapa extrem kyla i 5-meters radie på Kort håll. Alla i området måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
 
 - **+1 Fokus:** Varar hela scenen.
 - **+1 Fokus:** Marken blir hal is – alla måste slå Fysik + Smidighet för att inte falla.
@@ -307,7 +310,7 @@ Slå Strid + Vilja för elektrisk stöt genom beröring. **Skadebonus +2** (Star
 
 *Begränsning:* Kräver beröring.
 
-- **+1 Fokus:** Skjut stöten som ljusbåge upp till 5 meter.
+- **+1 Fokus:** Skjut stöten som ljusbåge på Kort håll.
 - **+1 Fokus:** Målet tappar vad det håller och kan nästa runda inte både handla och förflytta sig.
 - **1 Framgång:** +1 skada.
 - **1 Framgång:** Elektronik på målet kortsluts.
