@@ -3,7 +3,7 @@ draft: true
 ---
 # Uppgörelsen
 
-> [!info] Akt 5, finalen av [[Dödsängelns Testamente]]. Se [[Att skriva]] för kvarvarande arbete.
+> [!info] Akt 4, finalen av [[Dödsängelns Testamente]]. Se [[Att skriva]] för kvarvarande arbete.
 
 ## Uppdrag
 Spåret slutar där det började — i isen och mörkret. **Otto Skorzeny** har samlat allt han jagat på en hemlig anläggning på **Spetsbergen**, längst upp i den norska Arktis. Här ska Mengeles metod, ändtligen komplett, bli något mer än ett gammalt sår: ett recept att producera Extra-Normala Subjekt i skala, och med dem ett verktyg att resa det Tredje riket på nytt. Furie var det första beviset. Boken är resten.
@@ -47,29 +47,29 @@ Klimax är mötet med Skorzeny själv — inte nödvändigtvis en eldstrid (han 
 ## De förgrenade sluten
 Sluten avgörs av rollpersonernas val genom hela kampanjen, inte av ett enda slag på slutet. Spåra dessa trådar och låt dem mötas här.
 
-### Boken
+### Bokens öde
 - **Intakt åt Frigg.** Sverige får Mengeles metod. En seger som genast blir en börda: Frigg blir det de jagat. Hedström får sitt livsverks mörka spegel i sina händer (jfr [[Extraktionen]]). Vad gör rollpersonerna om Frigg börjar producera ur den?
 - **Förstörd.** Receptet brinner i isen. Ingen får det — och därmed inte heller den kunskap som kanske kunde rädda dem som redan skadats. Den renaste och dyraste utgången.
 - **I fel händer.** Skorzeny behåller den (Riket reser sig), eller Phoenix/Zvezda får den (kapprustningen eskalerar). Tråden lämnas öppen för framtida spel.
 
-### Capesius
-- **Till Mossad och rättegång** — om rollpersonerna lät [[Kairo#Georg Reiter (Mossad-katsa)|Reiter]] få mannen, eller för honom dit nu.
-- **Död** — av Skorzeny (en lös tråd som städas), av Mossad, eller av rollpersonerna.
+### Capesius öde
+- **Till rättvisan** — rollpersonerna för honom till en domstol som vill ha honom (Frigg lämnar honom till väst- eller österrikiska myndigheter, eller till de som jagar krigsförbrytare). Skandalen ingen riktigt vill ha.
+- **Död** — av Skorzeny (en lös tråd som städas när han blivit överflödig), eller av rollpersonerna.
 - **Fri** — apotekaren slinker undan en sista gång, som han alltid gjort, och försvinner in i historien.
 
-### Die Träumerin (Éva Roth)
+### Die Träumerins öde
 - **Befriad** — rollpersonerna lösgör henne från Capesius och från sig själv; en bräcklig öppning mot ett eget liv.
 - **Förlorad i drömmen** — hennes kraft slukar henne helt; hon blir kvar i en verklighet bara hon kan se.
 - **Hon väljer Capesius** — trauma­bandet håller; hon följer sin fångvaktare in i vad som än väntar honom.
 - **Hon dör** — som offer för Skorzeny, för att skydda någon, eller för egen hand.
 
-### Furie
+### Furies öde
 - **Dödad** — i strid, eller med anläggningen.
 - **Befriad** — rollpersonerna når människan bakom vapnet (vänlighet förvirrar henne; preparatberoendet är en spricka) och hjälper henne loss från ODESSA. Vad blir hon då?
 - **Dör med Walküre** — om anläggningen går under och ingen hann nå henne.
-- **Vänder sig mot Skorzeny** — den dyrast köpta och starkaste vändningen, om rollpersonerna investerat i henne genom Kairo och Södern.
+- **Vänder sig mot Skorzeny** — den dyrast köpta och starkaste vändningen, om rollpersonerna investerat i henne sedan Wien och Södern.
 
-### Skorzeny
+### Skorzenys öde
 - **Dödad** — möjligt, men låt det kosta.
 - **Tillfångatagen** — och då, vad gör man med honom? Ingen domstol vill ha skandalen.
 - **Undkommer** — historiskt levde Skorzeny vidare; en flykt lämnar ODESSA stympat men inte dött, och kampanjen en svans att dra i.
@@ -86,8 +86,8 @@ Vet att boken är inom räckhåll och att rollpersonerna kommer. Vill ha recepte
 ### Program Frigg / rollpersonerna
 Vill ha boken intakt. Måste själva avgöra vad den utgången betyder. Hedström, om han kontaktas, vill ha boken — och rollpersonerna kan behöva avgöra om de litar på honom med den.
 
-### De övriga (Mossad, Phoenix, Zvezda)
-Kan dyka upp i finalen som lösa trådar från tidigare akter — en Mossad-agent som spårat Capesius hela vägen, en Phoenix-styrka som vill ha tillbaka det Brandt stal, en Zvezda-agent som aldrig gav upp. Använd dem för att komplicera, inte för att överlasta; välj de trådar rollpersonerna själva spunnit.
+### De övriga (Phoenix, Zvezda)
+Kan dyka upp i finalen som lösa trådar från tidigare akter — en Phoenix-styrka (Caldwells folk) som vill ha tillbaka det Brandt stal och kanske först nu förstår att de blivit infiltrerade, eller en Zvezda-agent som aldrig gav upp och följt spåret hela vägen från Wien. Använd dem för att komplicera, inte för att överlasta; välj de trådar rollpersonerna själva spunnit.
 
 ## Tidsram och tickande klocka
 Väderfönstret in och ut är klockan, och det stängs. Transkriberingen av boken pågår — när Skorzeny har receptet renskrivet spelar det mindre roll om rollpersonerna bränner originalet. Och över allt: Kubakrisens nedräkning, ett radioskval om DEFCON och flottblockad, en värld som kanske inte finns kvar imorgon. Låt klockan vara hörbar.
@@ -142,9 +142,9 @@ Hon valdes på rampen av apotekaren Capesius; hon överlevde experimenten som v�
 **Svaghet:** Kraften lyder henne inte under stress; den slår på okontrollerat och vänder sig lika gärna inåt. Hon kan fångas i sin egen dröm.
 
 ### Furie
-*ODESSA:s första pålitliga ENS. Se [[Kairo#Furie]] för fullständigt stat-block.*
+*ODESSA:s första pålitliga ENS. Se [[Apotekaren#Furie]] för fullständigt stat-block.*
 
-På Spetsbergen är Furie hemma — närmast sin styrka och, om rollpersonerna investerat i henne, närmast sin vändpunkt. Hennes preparatberoende, hennes imprinting på en handledare som finns här, och hennes oformulerade längtan är alla spakar. Hon kan bli finalens farligaste vakt eller dess mest oväntade allierade. Lämna utfallet åt vad rollpersonerna byggt sedan Kairo.
+På Spetsbergen är Furie hemma — närmast sin styrka och, om rollpersonerna investerat i henne, närmast sin vändpunkt. Hennes preparatberoende, hennes imprinting på en handledare som finns här, och hennes oformulerade längtan är alla spakar. Hon kan bli finalens farligaste vakt eller dess mest oväntade allierade. Lämna utfallet åt vad rollpersonerna byggt sedan Wien.
 
 ### Capesius (om han lever)
-Se [[Apotekaren#Dr. Victor Capesius]]. Om apotekaren nått finalen är han fortfarande sig själv: feg, slug, beredd att byta sida för en andnings försprång. Hans närvaro skärper Die Träumerins trådar och Mossads, och hans öde är en av de grenar rollpersonerna avgör.
+Se [[Apotekaren#Dr. Victor Capesius]]. Om apotekaren nått finalen är han fortfarande sig själv: feg, slug, beredd att byta sida för en andnings försprång. Här inser han till slut att hans flykt till "amerikanerna" var ODESSA:s fälla hela tiden — han spelade aldrig någon; han spelades. Hans närvaro skärper Die Träumerins trådar, och hans öde är en av de grenar rollpersonerna avgör.

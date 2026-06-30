@@ -9,7 +9,7 @@ draft: true
 T-kontorets Program Frigg har fått en vision från sin asset **Vera "Verdandi"**: SS-läkaren **Josef Mengele** lever och ligger för döden i Moskva. Frigg vill ha tag på hans privata loggbok från Auschwitz — **Dödsängelns Testamente** — som dokumenterar alla hans experiment och är ovärderlig för ENS-forskning. Vera måste föras till Moskva för att lokalisera honom; därefter måste rollpersonerna få ur honom var loggboken finns.
 
 ## Bakgrund — den åtdragna snaran
-I denna värld jagas Auschwitz-personalen hårdare än i vår egen historia. Inte primärt av moraliska skäl: stormakterna och deras ENS-program — Zvezda, Phoenix, Frigg — vet att Auschwitz var det första storskaliga laboratoriet för ENS-relevant forskning, och var och en som var inblandad är en levande arkivnyckel. Mossad jagar för rättvisa; alla andra jagar för data.
+I denna värld jagas Auschwitz-personalen hårdare än i vår egen historia. Inte primärt av moraliska skäl: stormakterna och deras ENS-program — Zvezda, Phoenix, Frigg — vet att Auschwitz var det första storskaliga laboratoriet för ENS-relevant forskning, och var och en som var inblandad är en levande arkivnyckel. Alla jagar för data.
 
 **ODESSA-nätverket** är därför betydligt större och bättre finansierat än i verkligheten. Det smugglar ut SS-veteraner inte bara till Sydamerika utan också till diskreta hörn av Europa där de kan leva under falska identiteter — mot att de då och då bidrar med kunskap till de program som beskyddar dem.
 
@@ -75,7 +75,7 @@ Loggboken är hos honom. Det är vad Mengele säger. Det innebär att uppdraget 
 - **Dr. Victor Capesius** alias **Mag. pharm. Viktor Krauss**, Adler-Apotheke, Schottenring, Wien. Apotekaren från Auschwitz. ODESSA-skyddad. Förmögen, respektabel, fullständigt oskyldig i grannarnas ögon. Har Dödsängelns Testamente i sin ägo. Det verkliga målet — i [[Apotekaren]].
 
 ### Konkurrens
-**Zvezda** håller Mengele och vill behålla honom levande så länge som möjligt. **Project Phoenix** har egna spår mot loggboken. **Mossad** jagar Capesius av andra skäl än någon annan, och om de korsar rollpersonernas väg blir det komplicerat — för Frigg vill ha boken intakt, Mossad vill ha mannen i en bur. **ODESSA** själva skyddar Capesius aktivt och har medel att försvara honom.
+**Zvezda** håller Mengele och vill behålla honom levande så länge som möjligt. **Project Phoenix** har egna spår mot loggboken och kommer att korsa rollpersonernas väg på allvar i Wien. **ODESSA** själva skyddar Capesius aktivt och har medel att försvara honom.
 
 ## Tidsram
 Mengele har 4–6 dagar kvar. OVIR-formuläret kommer fram inom 48 timmar. Major Raudsepp följer spår från Leningrad. Klockan tickar på flera klockor samtidigt — och i Wien sitter en man och räknar dagarna utan att ännu veta att han bör börja räkna timmarna.

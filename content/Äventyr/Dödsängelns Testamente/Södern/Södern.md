@@ -3,17 +3,17 @@ draft: true
 ---
 # Södern
 
-> [!info] Akt 4 av [[Dödsängelns Testamente]]. Arbetstitel. Se [[Att skriva]] för kvarvarande arbete.
+> [!info] Akt 3 av [[Dödsängelns Testamente]]. Arbetstitel. Se [[Att skriva]] för kvarvarande arbete.
 
 ## Uppdrag
-Boken har korsat Atlanten. ODESSA tvättade transporten genom sin mullvad inom **Project Phoenix** och förde kärnan av loggboken till en av programmets avskilda anläggningar i amerikanska Södern. Officiellt är boken nu på väg vidare mot Spetsbergen; i praktiken har den fastnat, för Phoenix egen vetenskapliga ledning vill läsa den först. Rollpersonerna ska hinna ikapp, säkra boken intakt åt Frigg — och göra det på en kontinent där en av deras motståndare är hemma, har federala myndigheter bakom sig, och inte tänker släppa det de fått.
+Boken har korsat Atlanten — och Capesius med den. Den "amerikanska kuppen" på Wieneroperan förde både Mengeles metod och dess upphovsmans närmaste medarbetare till en av Project Phoenix avskilda anläggningar i amerikanska Södern. Phoenix tror att de gjort underrättelsevärldens kupp. I själva verket var hela kvällen iscensatt av ODESSA:s man inom programmet, som nu ska plocka boken — och människorna — och föra dem vidare till Spetsbergen. Men en sak gick ODESSA emot: Phoenix egen vetenskaplige chef vägrar släppa boken innan han läst den. Den har fastnat. Rollpersonerna ska hinna ikapp, säkra boken intakt åt Frigg, och göra det på en kontinent där en av deras motståndare är hemma — och själv är infiltrerad utan att veta det.
 
-Här kommer **Project Phoenix** in i full skala. Till skillnad från Wien och Kairo möter rollpersonerna nu en statsmakt på hemmaplan: legitimation, vapen, häkten och tystnad. Och under Phoenix sitter ODESSA:s mullvad och styr boken vidare — så rollpersonerna jagar egentligen två motståndare i samma byggnad, som inte vet att de jagar varandra.
+Här kommer **Project Phoenix** in i full skala. Till skillnad från Wien möter rollpersonerna nu en statsmakt på hemmaplan: legitimation, vapen, häkten och tystnad. Och under Phoenix sitter ODESSA:s mullvad och styr boken vidare — så rollpersonerna jagar egentligen två motståndare i samma byggnad, som inte vet att de jagar varandra. Här betalas fröet från operan av.
 
 ## Bakgrund — Phoenix, Paperclip och en mullvad
-[[Project Phoenix (USA)]] bygger sedan starten på tysk forskning som kom väst via Operation Paperclip. En av dessa Paperclip-vetenskapsmän, **Dr. Walter Brandt**, är Caldwells "tyske konsult" — och i hemlighet ODESSA-man, lojal mot Skorzeny och *Die Spinne*. Det är Brandt som i åratal matat Phoenix med Nigredo-data i utbyte mot pengar, skydd och amerikanska resor för ODESSA:s tillgångar. Det är också Brandt som arrangerat bokens transport till USA och som ska skicka den vidare till Spetsbergen.
+[[Project Phoenix (USA)]] bygger sedan starten på tysk forskning som kom väst via Operation Paperclip. En av dessa Paperclip-vetenskapsmän, **Dr. Walter Brandt**, är Caldwells "tyske konsult" — och i hemlighet ODESSA-man, lojal mot Skorzeny och *Die Spinne*. Det är Brandt som i åratal matat Phoenix med Nigredo-data i utbyte mot pengar och skydd. Och det var Brandt som från Washington iscensatte kuppen i Wien: han matade sin egen fältofficer det signaltips som förde Phoenix till operan, väl medveten om att amerikanerna då skulle "vinna" boken och bära hem den — rakt in i hans räckhåll, under okränkbar diplomatisk täckmantel. Capesius, som trodde att han flydde till amerikanskt skydd, levererades i samma drag rakt i ODESSA:s händer. Nu ska Brandt få ut boken och människorna och skicka dem vidare till Spetsbergen.
 
-Problemet, ur ODESSA:s synvinkel: **Dr. James Caldwell**, Phoenix vetenskaplige chef, vägrar lämna ifrån sig boken innan han kopierat och prövat den. Caldwell — behaviorist med MK-ULTRA-förflutet — ser i Mengeles metod precis det genombrott han jagat. Boken ligger alltså på en Phoenix-anläggning medan Caldwell läser den och Brandt febrilt försöker få ut den igen utan att avslöja sig.
+Problemet, ur ODESSA:s synvinkel: **Dr. James Caldwell**, Phoenix vetenskaplige chef, vägrar lämna ifrån sig boken innan han kopierat och prövat den. Caldwell — behaviorist med MK-ULTRA-förflutet — ser i Mengeles metod precis det genombrott han jagat, och i Capesius mannen som kan tyda den. Caldwell är en *äkta* rival: han tror att fyndet är Phoenix, och han tänker behålla det. Boken ligger alltså på en Phoenix-anläggning medan Caldwell läser den och Brandt febrilt försöker få ut den igen utan att avslöja sig.
 
 ### Anläggningen och temat
 Phoenix decentraliserade verksamhet (se [[Project Phoenix (USA)]]) gör en avskild sydstatsanläggning trovärdig. Förslag: ett nedlagt veteran- eller lantbruksforskningssjukhus utanför en mindre stad i Georgia eller Alabama, hösten 1962. Officiellt en "rehabiliteringsklinik". I källaren bedriver Phoenix sina egna stressexperiment — och försökspersonerna är, lika tyst som i Tuskegee, fattiga svarta män som ingen myndighet kommer att sakna. Det är samma metod som Auschwitz, ompaketerad i amerikansk byråkrati, och det är aktens moraliska kärna: vem som räknas som människa, och hur lätt en stat förvandlar någon till material.
@@ -21,7 +21,7 @@ Phoenix decentraliserade verksamhet (se [[Project Phoenix (USA)]]) gör en avski
 ## Ingång
 Rollpersonerna kommer in i Södern hösten 1962, mitt i medborgarrättsrörelsens spändaste år — Albany-rörelsen pågår, Ole Miss-upploppet ligger dagarna runt hörnet, och Klanen rör sig öppet i nätterna. De är utlänningar med fel papper i en del av landet där en främling väcker uppmärksamhet och en svart främling väcker fara. Frigg har tunna kontakter här; rollpersonerna är längre från sin uppdragsgivare än någonsin.
 
-Spåret in beror på hur Kairo slutade — en fraktsedel, Lindner som köpslår, en Phoenix-frekvens Frigg snappat upp, eller Verdandis vision. Det leder dem till anläggningen och till två namn de inte kan skilja på än: Caldwell och Brandt.
+Spåret in beror på hur Wien slutade — de skuggade Phoenix exfiltrering från operan, Frigg spårade den diplomatiska flighten över Atlanten, eller Verdandi följde Capesius via sin kraft (till priset av hennes hälsa; se [[Verdandi]]). Det leder dem till anläggningen och till två namn de inte kan skilja på än: Caldwell och Brandt. Och till insikten att Capesius — och, om hon följde honom, Die Träumerin — finns därinne.
 
 ## Scener och platser
 Väv ihop spionjobbet med tidens verklighet (jfr råden i [[Att spelleda I Rikets Tjänst]] om att låta verkligheten skina igenom). Ha fler scener förberedda än ni hinner.
@@ -39,6 +39,7 @@ Hög stängsel, militärpolis i civil, ett "sjukhus" där de övre våningarna �
 
 - **Caldwells arbetsrum**, där boken just nu ligger och läses och kopieras.
 - **Källaren** med försökspersonerna — den scen som river upp temat och kan tvinga fram svåra val mitt under operationen.
+- **"Gästrummen"** där Capesius hålls — en bekväm bur. Han förhörs vänligt av Caldwell och bevakas tätt av Brandt, som vill ha honom (och boken) på en båt mot Arktis innan amerikanerna förstår vad de har. Om Die Träumerin följde med finns hon här, alltmer förlorad i sin egen drömvärld i den sterila inlåsningen.
 - **Brandts kontor**, med spår av ODESSA:s transportkedja och nästa destination: Spetsbergen.
 
 ### Phoenix-agenterna i fält
@@ -52,7 +53,7 @@ Phoenix skyddar anläggningen med egna ENS (se [[Project Phoenix (USA)]]). Anvä
 Akten ska kulminera inne på anläggningen, en natt då allt löper samman. Den dramatiska motorn är att **Caldwell och Brandt vill olika saker med samma bok**, och ingen av dem litar på den andre:
 
 - **Caldwell** vill behålla och använda boken för Phoenix. Han ser rollpersonerna som tjuvar eller konkurrenter.
-- **Brandt** måste få ut boken till Spetsbergen innan Caldwell hinner kopiera färdigt — annars förlorar Skorzeny sitt försprång. Brandt är beredd att sabotera, mörda och bränna för att täcka ODESSA:s reträtt, och han kan kalla in **Furie**, som följt boken över Atlanten.
+- **Brandt** måste få ut boken — och helst Capesius och Die Träumerin — till Spetsbergen innan Caldwell hinner kopiera färdigt, annars förlorar Skorzeny sitt försprång. Brandt är beredd att sabotera, mörda och bränna för att täcka ODESSA:s reträtt, och han kan kalla in **Furie**, som följt boken över Atlanten.
 
 Rollpersonerna kan spela ut motståndarna mot varandra (*List + Samspel* för att så misstro mellan Caldwell och Brandt), utnyttja kaoset när ODESSA:s sabotage utlöser Phoenix säkerhet, eller helt enkelt försöka rycka boken i tumultet. Möjliga utfall:
 
@@ -61,7 +62,7 @@ Rollpersonerna kan spela ut motståndarna mot varandra (*List + Samspel* för at
 - Boken hotas av eld (Brandts sabotage, eller Furies upplopp) och rollpersonerna måste välja: rädda boken, rädda källarens försökspersoner, eller rädda rörelsens folk som dragits in.
 - Sandman suddar en av rollpersonerna — en lucka i minnet, en planterad order — som blir en obehaglig tråd in i finalen.
 
-Oavsett utfall ska akten avslöja Spetsbergen som slutdestination och ge rollpersonerna Brandts kunskap om hur Skorzeny tänker använda boken: inte läsa den — **producera ur den**, i skala.
+Oavsett utfall ska akten avslöja Spetsbergen som slutdestination och ge rollpersonerna Brandts kunskap om hur Skorzeny tänker använda boken: inte läsa den — **producera ur den**, i skala. Om Brandt lyckas föra Capesius och Die Träumerin med sig norrut väntar de i finalen; lyckas rollpersonerna hålla dem kvar, blir deras öde istället ett val som görs här.
 
 ## Vad fraktionerna vet
 
@@ -131,6 +132,9 @@ Korrekt, blek, ständigt artig. En Paperclip-vetenskapsman som amerikanerna tror
 
 **Utrustning:** Phoenix-legitimation, en direktlinje till ODESSA, termitladdningar att förstöra arkivet med, Furie som påkallbar muskel.
 
+### Capesius och Die Träumerin på anläggningen
+Se [[Apotekaren#Dr. Victor Capesius]] och [[Uppgörelsen#Die Träumerin (Éva Roth)]] för stat-block. Capesius tror fortfarande att han räddat sig själv genom att hoppa av till amerikanerna — han spelar samarbetsvillig mot Caldwell och fiskar efter en ännu bättre beskyddare, ovetande om att Brandt redan bokat hans resa norrut. Han är farligt opålitlig och kan bli rollpersonernas tillfälliga, helt egennyttiga bundsförvant. Die Träumerin, om hon följde honom, sjunker djupare in i sin drömvärld ju längre inlåsningen varar; hennes kraft kan göra anläggningen till en mardröm för alla — inklusive henne själv.
+
 ### Major Robert Crane ("Sandman")
 *Phoenix-ENS. Anläggningens väktare och Caldwells hanterare av vittnen.*
 
@@ -161,4 +165,4 @@ Pastor Webb (femtioårsåldern, tyngd och tålig) leder församlingen som är r�
 - **Tolliver:** Vilja 4, Samspel 3, Sinnen 3, Smidighet 3, List 2, Analys 2, Fysik 1, Strid 1. **Expertis:** Organisatör.
 
 ### Furie i Södern
-Se [[Kairo#Furie]] för stat-block. Hon har följt boken över Atlanten och står nu under Brandts kommando. I Söderns laddade stämning är hennes kraft fruktansvärt effektiv: ett upplopp, en lynchstämning, en folkmassa som vänds till vapen. Hon är ett dygn närmare sitt preparats slut för varje gång rollpersonerna pressar henne — en spricka de kan utnyttja, och en människa de kan börja nå.
+Se [[Apotekaren#Furie]] för stat-block. Hon har följt boken över Atlanten och står nu under Brandts kommando. I Söderns laddade stämning är hennes kraft fruktansvärt effektiv: ett upplopp, en lynchstämning, en folkmassa som vänds till vapen. Hon är ett dygn närmare sitt preparats slut för varje gång rollpersonerna pressar henne — en spricka de kan utnyttja, och en människa de kan börja nå.
