@@ -18,9 +18,14 @@
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
-- **Din tur:** en handling + en kort förflyttning. Två saker samtidigt = ett steg svårare (om inte en förmåga säger annat); dubbel förflyttning = handlingen ett steg svårare
-- **Stillastående-handlingar** (sikta, kirurgi, koncentrera kraft): kräver att du inte rör dig, annars ett steg svårare
+- **Din tur:** normalt en handling. Två handlingar samma tur — t.ex. två attacker, eller en attack och en förflyttning — gör var och en ett steg svårare
+- **Zoner:** SL delar in scenen i berättardrivna zoner (≈ tio meter; ett rum inomhus, en hex utomhus); avstånd och förflyttning mäts i zoner
+- **Förflyttning:** en egen handling — slå *Fysik + Smidighet*. Normalt Lätt → en zon, ingen tärning. Varje Effekt = en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten
+- **Rörligt mål:** har du flyttat minst en zon är alla anfall mot dig ett steg svårare till din nästa tur
+- **Kombinera utan avdrag:** **Stormning** (rörelse + närstrid)
+- **Kan inte kombineras med förflyttning:** sikta och kirurgi kräver stillhet
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
+- **Räckviddsband:** Bredvid (närstrid) → Nära (samma zon) → Kort (zonen bredvid) → Medel (5 zoner) → Lång (10 zoner) → Mycket lång (så långt sikten räcker). Sikta = −1 svårighet (stilla); kikarsikte = +1 band
 - **Försvar:** passivt (SL väger in i svårigheten). Aktiv väjning/parering: 1 Fokus, Smidighet + Strid (Lätt), dra av Effekten från anfallets framgångar
 - **Skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0)
 - **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus **och** triggar en kritisk träff. +1 per ytterligare 12:a

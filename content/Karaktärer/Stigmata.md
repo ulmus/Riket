@@ -12,7 +12,7 @@ cssclasses:
 | Fysik | **5** | Sårad | ❏❏❏❏❏ ❏❏❏ |
 | List | **1** | Medvetslös | ❏❏❏❏❏ ❏❏❏ |
 | Samspel | **1** | Döende | ❏❏❏❏❏ ❏❏❏ |
-| Sinnen | **3** | Förflyttning | 7 m |
+| Sinnen | **3** | Förflyttning | 7 |
 | Smidighet | **2** | Tålighet | 8 |
 | Strid | **2** | Stabilitet | 3 |
 | Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
@@ -59,7 +59,7 @@ Du kan tillfälligt dämpa effekterna av stress och skada. Slå för Vilja + Vil
 
 - **Verkan:** En person du rör vid (eller du själv) ignorerar alla effekter av Stress och skador (inklusive kritiska skador och Stress-trauman) under en runda. Du kan upprätthålla dämpningen genom att koncentrera dig varje runda; alla dina övriga handlingar blir då ett steg svårare. När dämpningen upphör återkommer effekterna, och målet tar dessutom **+1 Stress**.
 - **1 Framgång:** Effekten täcker ytterligare en person.
-- **+1 Fokus:** Effekten har räckvidd 10 meter.
+- **+1 Fokus:** Effekten har räckvidd Nära.
 
 ### Aktiverat trauma – Patomimik
 
@@ -89,7 +89,7 @@ Stigmata måste använda morfin varje session, annars får de **1 Stress** per s
 - **Suturkit:** +2 på slag för Kirurgi (Analys + Smidighet).
 - **Morfin:** 10 ampuller och injektionsset.
 - **Boken Inferno:** av Strindberg i originalutgåva.
-- **Pistol m/40:** Räckvidd 25 m, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
+- **Pistol m/40:** Räckvidd Kort, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
 
 ## Regelutdrag
 
@@ -97,7 +97,7 @@ Stigmata måste använda morfin varje session, annars får de **1 Stress** per s
 
 En person kan stabiliseras med **Analys + Smidighet (Medicin)**:
 
-- Kräver en handling (stillastående) för första försöket, en minut för andra, en timme för tredje.
+- Kräver en handling (utan att förflytta dig) för första försöket, en minut för andra, en timme för tredje.
 - Vid framgång slutar personen vara Döende (men behöver fortfarande läkning).
 
 *Fältkirurg ger +3 tärningar på detta slag för 1 Fokus.*

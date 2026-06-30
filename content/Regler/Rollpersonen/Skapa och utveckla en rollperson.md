@@ -36,7 +36,7 @@ När du har konceptet på plats så följer du nedanstående steg för att skapa
     - Vilja
 4. **Räkna ut sekundära egenskaper:**
     - **Tålighet** = Fysik + Vilja. Detta avgör trösklarna för skadesteg.
-    - **Förflyttning** = Fysik + Smidighet meter per runda.
+    - **Förflyttning** = en egen handling; slag för *Fysik + Smidighet* för att flytta dig en zon eller mer; normalt Lätt (en zon lyckas då automatiskt, ingen tärning).
     - **Stabilitet** = 3. Detta är hur mycket Stress du tål.
 5. **Välj förmågor:** Välj två vanliga förmågor (se [[Förmågor]].
 6. **Konstruera upp till tre Extra-Normala Krafter:** Tillsammans med spelledaren skapar du upp till tre krafter med ett gemensamt tema för din rollperson baserat på dess trauma och personlighet. Beskriv också hur krafterna manifesterar sig när traumat aktiveras (se [[Krafter]]).

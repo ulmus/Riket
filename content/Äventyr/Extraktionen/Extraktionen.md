@@ -229,6 +229,8 @@ Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk h
 
 **Källare och garage:** Under byggnaden finns en källare med lagringsutrymmen och ett litet underjordiskt garage med plats för 3–4 bilar. Här parkerar diplomater som inte vill exponera sina bilar på gatan. Tillgång till garaget sker via en ramp bakom byggnaden. Martin kommer att vänta här med bilen.
 
+> **Zoner (om kaos bryter ut):** Dela mottagningen i — **marmorhallen och trappan**, **diplomatsalens nedre våning** (bar, stråkkvartett, folkträngsel), **övre våningen** (räcket ovanför — högt läge), **trädgården** (öppen mark, gallergrind) och **källaren med garaget** (Martin och bilen). Folkmassan på 40–50 gäster är **svår terräng** att tränga sig igenom (slå *Fysik + Smidighet*). Bryter Golem ut (se [[#Golem bryter sig ut]]) blir hall → trappa → garage den naturliga flyktvägen.
+
 #### Ambassadör Otto Keller
 
 *Se [[#Ambassadör Otto Keller (Schweiz)]].*
@@ -447,6 +449,8 @@ Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) m�
 
 > **Chockslag:** *Analys + Vilja*, Chockfaktor **3** – operationsrum, celler, torterade fångar. Karaktärer med Trauma: Vanmakt eller Skuld har Chockfaktor +1.
 
+> **Zoner:** Dela anläggningen i — **stängslet och gården** (taggtråd, öppen mark, Stasi-vakter), **entréplanet** (laboratorier och observationsrum), **övervåningarna** (cellrum och operationsrum) och **källaren** (försökspersonerna). Stängslet och de barrikaderade fönstren är **svår terräng**, och gården är **öppen mark** under vakternas eld.
+
 ### Haus an Den Birken – det övergivna huset
 
 Om Golem är skadad eller förvirrad kan hans djupaste minnen väckas – minnen från innan han blev Golem, när han var Elias Lewinsky.
@@ -465,6 +469,8 @@ Huset är i dåligt skick. Fönster är krossade, dörrar hänger på gångjärn
 
 [![[Ödehus - vind.png|wide]]](<Ödehus - vind.png>)
 **Vinden:** Öppen mot himlen på vissa ställen. Duvor har bott här. Det finns gamla möbler täckta av damm. Vid ett skrivbord har Elias och Jakobs morbror Anshel suttit och det finns fortfarande rester av korrespondens med hans syster, brödernas mor Frieda Lewinsky.
+
+> **Zoner:** Huset faller naturligt i — **trädgården** (övervuxen, den vridna björken, svår terräng), **bottenvåningen** (vardagsrum och kök, två ingångar — mot gata och trädgård), **källaren** (dit Golem drar sig undan med Richter, mörk och trång) och **vinden** (öppen mot himlen, högt läge). Trapporna binder ihop våningarna; att nå Golem i källaren innebär att ta sig genom huset zon för zon.
 
 #### Golem i huset
 

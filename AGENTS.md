@@ -36,7 +36,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Secondary Stats:**
   - *Tålighet* = Fysik + Vilja.
   - *Stabilitet* = 3 (fast värde för alla rollpersoner).
-  - *Förflyttning* = Fysik + Smidighet.
+  - *Förflyttning* — en egen handling: att flytta sig en zon eller mer slås med *Fysik + Smidighet* (normalt Lätt — en zon lyckas då automatiskt utan tärning; varje Effekt en zon till). Avstånd och förflyttning anges i **zoner** (en zon ≈ tio meter), och vapen-/krafträckvidd i **band** (Bredvid/Nära/Kort/Medel/Lång/Mycket lång), inte i meter.
 
 ## Content Generation Guidelines
 - **Tone:** Maintain a "Cold War thriller" vibe mixed with "Golden Age comics" but grounded in a gritty reality.
@@ -83,7 +83,7 @@ Use bold for:
 - **Important effects**: Conditions and states that affect gameplay (e.g., **Sårad**, **Döende**, **Medvetslös**).
 - **Requirement labels**: Labels like "Krav:", "Verkan:", "Kostnad:".
 - **Table headers** and **column names** in inline context.
-- **Action types**: **Handling**, **Stillastående-handling**.
+- **Action types**: **Handling**, **Kombinerad handling** (t.ex. **Stormning**).
 - **Numeric values** that are mechanically significant (e.g., "**1 Stress**").
 - **Difficulty levels**: **Normal**, **Svår**, **Mycket Svår** when specifying difficulty as a named level in rules or adventure text. Inflect to **Normalt/Svårt/Mycket Svårt** (neutrum singular) or **Svåra/Mycket Svåra** (plural) when used as predicate adjective.
 

@@ -12,7 +12,7 @@ cssclasses:
 | Fysik | **1** | Sårad | ❏❏❏❏❏ |
 | List | **2** | Medvetslös | ❏❏❏❏❏ |
 | Samspel | **2** | Döende | ❏❏❏❏❏ |
-| Sinnen | **5** | Förflyttning | 3 m |
+| Sinnen | **5** | Förflyttning | 3 |
 | Smidighet | **2** | Tålighet | 5 |
 | Strid | **2** | Stabilitet | 3 |
 | Vilja | **4** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
@@ -62,7 +62,7 @@ Detaljnivå avgörs av fysiskt avstånd:
 
 Slå för Samspel + Vilja. Personer som rör vid din kropp dras in i visionen och kan se och peka ut detaljer.
 
-- **+1 Fokus:** Räckvidden är 10 meter istället för beröring.
+- **+1 Fokus:** Räckvidden är Nära istället för beröring.
 - **1 Framgång:** Ytterligare en mottagare.
 - **1 Framgång:** Mottagarna hör också, inte bara ser.
 

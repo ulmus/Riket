@@ -12,7 +12,7 @@ cssclasses:
 | Fysik | **3** | Sårad | ❏❏❏ ❏❏❏ |
 | List | **3** | Medvetslös | ❏❏❏ ❏❏❏ |
 | Samspel | **2** | Döende | ❏❏❏ ❏❏❏ |
-| Sinnen | **3** | Förflyttning | 6 m |
+| Sinnen | **3** | Förflyttning | 6 |
 | Smidighet | **4** | Tålighet | 6 |
 | Strid | **2** | Stabilitet | 3 |
 | Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
@@ -79,7 +79,7 @@ Martin är känd bland gränsvakter och Volkspolizei i Berlin. I situationer dä
 
 ## Utrustning
 
-- **Walther PPK:** Räckvidd 15 m, Skada 3, skadetyp Skjutvapen. Ammunition ❏
+- **Walther PPK:** Räckvidd Kort, Skada 3, skadetyp Skjutvapen. Ammunition ❏
 - **Mercedes-Benz 190:** Diskret men robust diplomatbil.
 - **Karta över Berlin:** Detaljerad, med markeringar för bra rutter. +2 på Analys + Sinnen för att navigera i Berlin.
 - **Verktygsset:** Grundläggande bilverktyg. +1 på Analys + Smidighet för fordonsreparationer.
