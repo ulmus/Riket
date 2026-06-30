@@ -39,12 +39,13 @@ Detta är baksidan av att de flesta handlingar görs stående: rör du dig blir 
 
 ## Turer och handlingar
 
-På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge förband, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
+På din tur utför du normalt **en handling** — en attack, en kraft, att ladda om, ge förband, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
 
-Som grund utförs en handling **stående**: du gör en sak, på platsen. Att förflytta dig är i sig en handling (se [[#Förflyttning]]). Att kombinera rörelse med något annat är undantaget:
+Du kan försöka göra **två saker** samma tur — två handlingar (till exempel två attacker) eller en handling plus en förflyttning — men då blir **var och en ett steg svårare**.
 
-- **Kombinerade handlingar** väver ihop rörelse och något annat i samma tur utan avdrag. Vissa är namngivna — **Stormning** (förflyttning till en närliggande zon plus en närstridsattack) — och andra låses upp av förmågor, som **Pistolskytt** (röra dig och skjuta).
-- **Att väva in en förflyttning i en annan handling** — köra och skjuta, röra dig och ge förband — går också, men gör handlingen **ett steg svårare**. Du kan inte göra två attacker på detta sätt. En förmåga eller kraft som *modifierar din handling* räknas som en del av handlingen, inte som en andra sak — den gör den alltså inte svårare.
+- **Namngivna kombinationer** slipper avdraget för just sin kombination: **Stormning** (förflyttning till en närliggande zon plus en närstridsattack), och förmågor som **Pistolskytt** (röra dig och skjuta).
+- En förmåga eller kraft som *modifierar din handling* räknas som en del av handlingen, inte som en andra sak — den gör den alltså inte svårare.
+- **Vissa handlingar kräver stillhet** och kan inte kombineras med förflyttning alls (se [[#Handlingar som kräver stillhet]]).
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
 
@@ -61,9 +62,14 @@ Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exem
 - Ge förband eller stabilisera en skadad (se [[#Stabilisering]] )
 - Resa sig från marken eller ta sig över ett hinder
 
-## Stående som grundläge
+## Handlingar som kräver stillhet
 
-De flesta handlingar görs **stående** — sikta och skjuta, kirurgi och annan noggrann vård, eller att hålla koncentrationen på en kraft. Vill du röra dig samma runda gäller den generella regeln ovan: handlingen blir **ett steg svårare**, eller omöjlig om SL bedömer att den kräver fullständigt lugn (kirurgi mitt i ett språng går helt enkelt inte). Vissa förmågor väger upp avdraget — en tränad prickskytt kan röra sig och ändå skjuta.
+De flesta handlingar kan utföras i rörelse — det räknas som att göra två saker och blir ett steg svårare (se ovan). Några kräver dock fullständigt lugn och **kan inte kombineras med förflyttning alls**:
+
+- Kirurgi och annan noggrann vård.
+- Att upprätthålla koncentrationen på en kraft.
+
+Försöker du röra dig samma runda misslyckas en sådan handling — SL avgör vad som över huvud taget är möjligt. Vissa förmågor kan väga upp avdrag eller kringgå begränsningen.
 
 Att **upprätthålla en kraft** är ett pågående tillstånd, inte en ny handling varje runda. Du kan utföra en annan handling medan du koncentrerar dig, men det räknas som att väva ihop två saker (ett steg svårare) och du måste stå stilla. Koncentrationen håller tills du själv släpper den eller störs på ett sätt SL bedömer bryter fokus — krafter med begränsningen *Koncentration* bryts dessutom om du tar skada.
 
