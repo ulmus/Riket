@@ -1,8 +1,10 @@
 Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introducerar Extra-Normala Subjekt, kalla krigets spioneri och den moraliska ambivalensen som kringgärdar hela Program Frigg i allmänhet och Doktor Lars Hedström i synnerhet.
 
-> **För dig som spelleder.** Äventyret är skrivet för **två till fyra** spelare som spelar "reserven" som kallas in över sommaren. Rollpersonerna är Frigg-agenter, ni kan skapa de själva eller använda de förgenererade.
+> **För dig som spelleder.** Äventyret är skrivet för **två till fyra** spelare som spelar "reserven" som kallas in över sommaren. Rollpersonerna är Frigg-agenter; ni kan skapa dem själva eller använda de förgenererade.
 >
-> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**, se [[Grundregler#Grundmekanik Egenskap + Egenskap T12or]]), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** (*se [[Grundregler#Fokus]] och [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
+> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**, se [[Grundregler#Grundmekanik: Egenskap + Egenskap T12or]]), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** (*se [[Grundregler#Fokus]] och [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
+
+> **Äventyret i korthet.** På mentalsjukhuset Beckomberga har en avskriven försöksperson — kapten Wachtmeister — sent utvecklat okontrollerad telepati och dragit en hel vårdavdelning in i sin vanföreställning att han är farao Akhenaton. Program Frigg skickar rollpersonerna för att ta reda på vad som hänt och städa upp, diskret. Berättelsen rör sig genom fyra skeden: **genomgången på T-kontoret**, **ankomsten till Beckomberga** och mötet med överläkare Brandt, **vägen in i paviljong 10** och Akhenatons hov, och slutligen **konfrontationen med faraonen**. Samtidigt rör sig två utomstående parter på området — två GRU-agenter och en reporter — som pressar tempot. Kärnan är att nå mannen bakom guden, inte att övermanna honom.
 
 ## Bakgrund
 
@@ -10,25 +12,25 @@ Rollpersonerna i I Rikets Tjänst är som bekant resultatet av plågsamma, farli
 
 Kapten Nicholas George Wachtmeister är en av dessa. Trettiotvå år gammal, med en uppslitande skilsmässa bakom sig sökte han sig till Program Frigg 1960 efter en propå från sin närmsta chef i marinen Kommendörkapten Erik Stiernsparre. Wachtmeisters arrogans och maktfullkomlighet hade blivit en belastning och Stiernsparre såg en chans att bli av med honom.
 
-Doktor Hedström var extra intresserad av den unge kaptenen och såg till att han blev avgiftad för att sedan inleda experimenten. Tyvärr misslyckades de trots, eller kanske på grund av, doktor Hedströms engagemang. Kapten Wachtmeister hämtade sig aldrig utan gick istället in i en schizofren psykos med grandiosa vanföreställningar. Den 7 april 1961 lades han in på Beckomberga sjukhus, paviljong 10, avdelningen för lugna patienter. Men Wachtmeister lyssnade inte längre till det namnet, han var nu Akhenaton och begärde underkastelse av alla han mötte. 
+Doktor Hedström var extra intresserad av den unge kaptenen och såg till att han blev avgiftad för att sedan inleda experimenten. Tyvärr misslyckades de trots, eller kanske på grund av, doktor Hedströms engagemang. Kapten Wachtmeister hämtade sig aldrig utan gick istället in i en schizofren psykos med grandiosa vanföreställningar. Den 7 april 1961 lades han in på Beckomberga sjukhus, paviljong 10, avdelningen för lugna patienter. Men Wachtmeister lyssnade inte längre till det namnet, han var nu Akhenaton och krävde underkastelse av alla han mötte. 
 
 Under sommaren 1961 genomgår Wachtmeister en serie elchocksbehandlingar i syfte att stävja hans alltmer utåtagerande psykos. Avdelningsläkaren Dr. Margaretha Lindqvist är ung och oerfaren, behandlingen sker på ordination av den semestrande överläkaren Dr. Sigurd Brandt.
 
-Elchocksterapierna var initialt verkningslösa — som de ofta var — men redan vid tredje behandlingen i serien hände något. Dr. Lindqvist, som administrerade elchockerna, fann sig plötsligt sittandes på sitt arbetsrum, stirrandes in i väggen. Timmar hade passerat och hon hade inget minne av vad som hade hänt. Men långt ner i sitt undermedvetna rörde sig tankar som inte var hennes, tankar om underkastelse och lydnad inför konungarnas konung.
+Elchocksterapierna var initialt verkningslösa — som de ofta var — men redan vid tredje behandlingen i serien hände något. Dr. Lindqvist, som administrerade elchockerna, fann sig plötsligt sittande på sitt arbetsrum, stirrande in i väggen. Timmar hade passerat och hon hade inget minne av vad som hade hänt. Men långt ner i sitt undermedvetna rörde sig tankar som inte var hennes, tankar om underkastelse och lydnad inför konungarnas konung.
 
 Dr. Lindqvist var oroad, men överläkaren var på semester och hon ville inte störa honom med ovidkommande oro. Hans ordination för patienten var glasklar, ECT-behandling enligt standardprogram, tre sessioner i veckan i fyra veckor och sedan utvärdering. Så sessionerna fortsatte. Nästa tillfälle hände ingenting, men vid femte sessionen vaknade inte Dr. Lindqvist förrän hon var hemma i tjänstebostaden i utkanten av sjukhusområdet. Och i hennes kök satt Wachtmeister och lade patiens. När hon såg honom blev hon först förskräckt – en patient i hennes kök – men den känslan ersattes snart av påtvingade tankar av respekt, hängivelse... dyrkan.
 
 Detta var en vecka sedan och under den tid som gått har Wachtmeisters krafter utvecklats ytterligare. Wachtmeister är en telepat som kan få sina egna tankar att trycka ut andras. Han har fortfarande dålig kontroll över sina krafter, vilket tillsammans med hans grandiosa vanföreställningar gör att de som interagerar med honom får påträngande, ibland överväldigande tankar om att vara hans undersåtar. De sugs in i hans vanföreställning och blir en del av hans värld.
 
-Wachtmeister, som nu bara lystrar till Akhenaton har knutit Dr. Lindqivst närmre till sig. Hon är nu hans gemål Nefertiti efter en ceremoni i samlingsrummet på avdelningen. Hon har intensifierat hans ECT-behandlingar och en majoritet av patienter och vårdare på avdelningen är nu i Akhenaton våld. Detta har gett efterverkningar. När avdelningens vårdare inte kom hem till sina familjer och när vårdare från andra avdelningar kördes bort aggressivt av Akhenaton förtrogna så ringde man igår polisen.
+Wachtmeister, som nu bara lystrar till Akhenaton, har knutit Dr. Lindqvist närmare till sig. Hon är nu hans gemål Nefertiti efter en ceremoni i samlingsrummet på avdelningen. Hon har intensifierat hans ECT-behandlingar och en majoritet av patienter och vårdare på avdelningen är nu i Akhenatons våld. Detta har gett efterverkningar. När avdelningens vårdare inte kom hem till sina familjer och när vårdare från andra avdelningar kördes bort aggressivt av Akhenatons förtrogna så ringde man igår polisen.
 
-Konstaplarna Johansson och Feldt åkte ut i en radiobil till Beckomberga och är sedan dess en del av Akhenaton kungliga livvakt, edsvurna att beskydda sin härskare. Det är i det här läget som T-Kontoret kopplas in. Överläkare Brandt har motvilligt tvingats avbryta sin semester och åkt in till Stockholm från sitt fritidshus i Norrtälje skärgård. Dr. Brandt är Program Friggs kontakt på Beckomberga och medveten om att flera av patienterna i hans vård har varit med om experiment i försvarsmaktens försorg även om han inte har detaljer.
+Konstaplarna Johansson och Feldt åkte ut i en radiobil till Beckomberga och är sedan dess en del av Akhenatons kungliga livvakt, edsvurna att beskydda sin härskare. Det är i det här läget som T-Kontoret kopplas in. Överläkare Brandt har motvilligt tvingats avbryta sin semester och åkt in till Stockholm från sitt fritidshus i Norrtälje skärgård. Dr. Brandt är Program Friggs kontakt på Beckomberga och medveten om att flera av patienterna i hans vård har varit med om experiment i försvarsmaktens försorg även om han inte har detaljer.
 
 Så nu är Dr. Lars Hedström på Program Frigg irriterad. Beckomberga har länge varit en utmärkt plats för de som i Frigg-lingo kallas "avskrivna". Försökspersoner som överlevde experimenten med psykiska men, utan att man kunde påvisa några krafter. Att det nu eventuellt är så att en avskriven patient istället är vad man kallar en "observand" – en ej tjänstduglig person med misstänkta eller uttalade krafter - det är intressant. Men det är också frustrerande och lite oroande att det har dragit in både polis och sjukvård. Frågan måste utredas och det är semestertider. Dr. Hedström kallar in reserven – rollpersonerna.
 
-Vad vare sig Dr. Hedström eller för den delen den nykrönte faraon Akhenaton av Beckomberga vet om är att det finns fler intressenter. Den sovjetiska underrättelsetjänsten har länge haft ett öga på Beckomberga och misstänkt kopplingar till det anmärkningsvärt framgångsrika Program Frigg. Deras informatör på plats, en mentalvårdare och kommunist vid namn Emil Granqvist har hört av sig via sina vanliga kanaler om att något har hänt med en av Frigg-patienterna. Granqvist är nu lojal mot sin herre och konung Akhenaton och har inte skickat ytterligare meddelanden, trots propåer från hans handhavande på sovjetiska ambassaden. Man har därför bestämt sig för att skicka två GRU-agenter för att undersöka.
+Vad vare sig Dr. Hedström eller för den delen den nykrönte faraon Akhenaton av Beckomberga vet om är att det finns fler intressenter. Den sovjetiska underrättelsetjänsten har länge haft ett öga på Beckomberga och misstänkt kopplingar till det anmärkningsvärt framgångsrika Program Frigg. Deras informatör på plats, en mentalvårdare och kommunist vid namn Emil Granqvist har hört av sig via sina vanliga kanaler om att något har hänt med en av Frigg-patienterna. Granqvist är nu lojal mot sin herre och konung Akhenaton och har inte skickat ytterligare meddelanden, trots propåer från hans hanterare på sovjetiska ambassaden. Man har därför bestämt sig för att skicka två GRU-agenter för att undersöka.
 
-Utöver det så har Stockholms Dagblads reporter Maj-Britt Holmberg fått ett tips av en anhörig till en av patienterna och satt sig i sin folkabubbla för att rapportera vad som händer på Beckomberga.
+Utöver det så har Stockholms Dagblads reporter Maj-Britt Holmberg fått ett tips av en anhörig till en vårdare som inte kommit hem och satt sig i sin folkabubbla för att rapportera vad som händer på Beckomberga.
 
 ## Introduktion på T-kontoret
 
@@ -269,10 +271,10 @@ Wachtmeisters okontrollerade telepati läcker ständigt ut som ett tryck av påt
 
 | Akhenatons tillstånd | Räckvidd | Verkan |
 | -------------------- | -------- | ------ |
-| **Vilande** | Beröring–2 m | Bara obehag, ett kittlande av främmande viskningar. Ingen mekanik. |
-| **Närvarande** (normalläget i hovet) | ~10 m | Den som interagerar med honom en stund slår *Vilja + Vilja* (**Normal**). Misslyckas → **1 Stress** och en insmugen tanke om att lyda. |
-| **Fokuserad** (han riktar sin vilja mot dig) | ~10 m, en person | Motståndsslag *Vilja + Vilja* mot Akhenatons *Samspel + Vilja*. Förlorar du → **1 Stress** och alla handlingar *mot* honom är ett steg svårare resten av scenen. |
-| **Upprörd / hotad** | ~20 m, alla | Alla i rummet slår *Vilja + Vilja* varje runda eller tar **1 Stress**. De omvända faller i extas eller raseri till hans försvar. |
+| **Vilande** | Bredvid (beröring) | Bara obehag, ett kittlande av främmande viskningar. Ingen mekanik. |
+| **Närvarande** (normalläget i hovet) | Nära (samma rum) | Den som interagerar med honom en stund slår *Vilja + Vilja* (**Normal**). Misslyckas → **1 Stress** och en insmugen tanke om att lyda. |
+| **Fokuserad** (han riktar sin vilja mot dig) | Nära, en person | Motståndsslag *Vilja + Vilja* mot Akhenatons *Samspel + Vilja*. Förlorar du → **1 Stress** och alla handlingar *mot* honom är ett steg svårare resten av scenen. |
+| **Upprörd / hotad** | Kort, alla | Alla i rummet slår *Vilja + Vilja* varje runda eller tar **1 Stress**. De omvända faller i extas eller raseri till hans försvar. |
 | **Aktiverat trauma** | hela våningen | Se nedan. Okontrollerat. |
 
 *Omvändelse:* En SLP som badar i fältet länge nog dras till slut in — så gick det för vårdarna, patienterna och konstaplarna. **Rollpersoner omvänds aldrig av ett enda misslyckat slag.** Det är en långsam, utspelad nedstigning: upprepade misslyckanden och hög Stress låter SL beskriva hur Akhenatons röst blir allt rimligare. Att lämna hans närhet och få ner sin Stress drar tillbaka dem.
@@ -285,7 +287,7 @@ Akhenaton pressar en order rakt in i ett medvetande inom synhåll. Slå *Samspel
 - **1 Framgång:** Målet minns inte efteråt att tanken var någon annans.
 
 **Tankeläsning** (1 Fokus, en handling)
-Slå *Sinnen + Vilja* för att läsa ytliga tankar och känslor hos någon inom ~10 m. Akhenaton tolkar det han ser genom sin vanföreställning — sanningen färgas av myten.
+Slå *Sinnen + Vilja* för att läsa ytliga tankar och känslor hos någon på **Nära** håll (samma rum). Akhenaton tolkar det han ser genom sin vanföreställning — sanningen färgas av myten.
 
 **Krossande vilja** (2 Fokus, en handling)
 Ett direkt psykiskt angrepp — han tränger ut sina tankar tills målets egna viker undan. Slå *Samspel + Vilja* mot målets *Vilja + Vilja*. Vid framgång tar målet **1 Stress** + **1 Stress per Effekt**. Vinner han med 2+ framgångars marginal förlorar målet dessutom sin nästa handling, överväldigat. Skadar inte KP — men kan driva ett mål över en sammanbrottsgräns.
@@ -340,7 +342,7 @@ Det är Johansson som driver på. Han har lagt en plan att bryta sig in i östra
 
 ### Emil Granqvist
 
-Mentalvårdare på avdelningen, kommunist — och den sovjetiska underrättelsetjänstens informatör på Beckomberga. Det var Granqvist som via sina vanliga kanaler rapporterade att något hänt med en av Frigg-patienterna. Sedan dess har han tystnat: han är nu lojal mot sin herre och konung Akhenaton och svarar inte längre på sin handhavandes propåer från ambassaden.
+Mentalvårdare på avdelningen, kommunist — och den sovjetiska underrättelsetjänstens informatör på Beckomberga. Det var Granqvist som via sina vanliga kanaler rapporterade att något hänt med en av Frigg-patienterna. Sedan dess har han tystnat: han är nu lojal mot sin herre och konung Akhenaton och svarar inte längre på sin hanterares propåer från ambassaden.
 
 Granqvist känner paviljongen utan och innan — lås, rutiner, skafferi, journaler — och är därför en hörnpelare i hovet. För GRU-agenterna är han dessutom själva frågan: *vad hände med vår man?* Att hitta honom, vända honom tillbaka eller tysta honom är en del av deras uppdrag, och kan föra dem och rollpersonerna på kollisionskurs.
 
@@ -420,7 +422,7 @@ Operatören och musklerna, "Grisja" för Sorokin. Tystlåten, vältränad och va
 
 ### Maj-Britt Holmberg
 
-Ung, driven journalist vid Stockholms Dagblad med ett starkt rättspatos. Hon har fått ett tips av en anhörig till en av patienterna — en vårdare som inte kommit hem — och satt sig i sin folkabubbla för att ta reda på vad som egentligen pågår på Beckomberga. Hennes bil står redan parkerad i utkanten av sjukhusparken.
+Ung, driven journalist vid Stockholms Dagblad med ett starkt rättspatos. Hon har fått ett tips av en anhörig till en vårdare som inte kommit hem och satt sig i sin folkabubbla för att ta reda på vad som egentligen pågår på Beckomberga. Hennes bil står redan parkerad i utkanten av sjukhusparken.
 
 Maj-Britt är ihärdig och svår att avvisa. Hon är en komplikation — pressen får inte avslöja Program Frigg — men också en möjlig allierad, eller ett offer om hon tar sig in i tankefältet. Hanteras hon illa skriver hon; hanteras hon väl kan hon bli en resurs.
 
