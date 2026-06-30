@@ -1,10 +1,11 @@
 Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introducerar Extra-Normala Subjekt, kalla krigets spioneri och den moraliska ambivalensen som kringgärdar hela Program Frigg i allmänhet och Doktor Lars Hedström i synnerhet.
 
 > **För dig som spelleder.** Äventyret är skrivet för **två till fyra** spelare som spelar "reserven" som kallas in över sommaren. Rollpersonerna är Frigg-agenter; ni kan skapa dem själva eller använda de förgenererade.
->
 > Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**, se [[Grundregler#Grundmekanik: Egenskap + Egenskap T12or]]), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** (*se [[Grundregler#Fokus]] och [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
 
-> **Äventyret i korthet.** På mentalsjukhuset Beckomberga har en avskriven försöksperson — kapten Wachtmeister — sent utvecklat okontrollerad telepati och dragit en hel vårdavdelning in i sin vanföreställning att han är farao Akhenaton. Program Frigg skickar rollpersonerna för att ta reda på vad som hänt och städa upp, diskret. Berättelsen rör sig genom fyra skeden: **genomgången på T-kontoret**, **ankomsten till Beckomberga** och mötet med överläkare Brandt, **vägen in i paviljong 10** och Akhenatons hov, och slutligen **konfrontationen med faraonen**. Samtidigt rör sig två utomstående parter på området — två GRU-agenter och en reporter — som pressar tempot. Kärnan är att nå mannen bakom guden, inte att övermanna honom.
+## Äventyret i korthet
+
+På mentalsjukhuset Beckomberga har en avskriven försöksperson — kapten Wachtmeister — sent utvecklat okontrollerad telepati och dragit en hel vårdavdelning in i sin vanföreställning att han är farao Akhenaton. Program Frigg skickar rollpersonerna för att ta reda på vad som hänt och städa upp, diskret. Berättelsen rör sig genom fyra skeden: **genomgången på T-kontoret**, **ankomsten till Beckomberga** och mötet med överläkare Brandt, **vägen in i paviljong 10** och Akhenatons hov, och slutligen **konfrontationen med faraonen**. Samtidigt rör sig två utomstående parter på området — två GRU-agenter och en reporter — som pressar tempot. Kärnan är att nå mannen bakom guden, inte att övermanna honom.
 
 ## Bakgrund
 
@@ -50,7 +51,7 @@ Han tänder en cigarett och letar bland pappren på skrivbordet.
 
 Han skjuter över en tunn akt.
 
-*"Den här heter Wachtmeister. Kapten, marinen, kom till oss sextio. Det blev ingenting av honom — han gick i psykos och hamnade på paviljong tio nu i våras. En av många. Skillnaden är att den senaste veckan har det hänt saker på den avdelningen som inte ska kunna hända. Vårdare som inte kommer hem. Folk som körs bort. Polisen blev inringd."*
+*"Den här heter Wachtmeister. Kapten, marinen, kom till oss sextio. Det blev ingenting av honom — han gick i psykos och hamnade på paviljong tio nu i våras. Där är han inte ensam. Skillnaden är att den senaste veckan har det hänt saker på den avdelningen som inte ska kunna hända. Vårdare som inte kommer hem. Folk som körs bort. Polisen blev inringd."*
 
 Han ser trött på dem.
 
