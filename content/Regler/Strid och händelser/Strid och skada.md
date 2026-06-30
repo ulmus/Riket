@@ -112,11 +112,11 @@ Avstånd anges i **band** i stället för meter. Varje vapen och kraft har ett r
 | **Bredvid**     | Samma plats i zonen, i kontakt  | närstrid  |
 | **Nära**        | Samma zon                       | ~10 m     |
 | **Kort**        | Zonen bredvid                   | ~20 m     |
-| **Medel**       | Upp till tre zoner bort         | ~30 m     |
-| **Lång**        | Upp till fem zoner bort         | ~50 m     |
-| **Mycket lång** | Upp till tio zoner bort         | ~100 m    |
+| **Medel**       | Upp till fem zoner bort         | ~50 m     |
+| **Lång**        | Upp till tio zoner bort         | ~100 m    |
+| **Mycket lång** | Så långt sikten räcker          | synhåll   |
 
-Meter-spalten är en grov riktlinje — SL kan flytta ett mål ett band beroende på hur stora zonerna är i scenen. Varje räckviddsband bortom vapnets räckvidd gör skottet **ett steg svårare**, högst två steg (**Mycket Svårt**) eller omöjligt. Att **sikta** minskar svårigheten ett steg (kan bli **Lätt**), men kräver att både du och målet står stilla under rundan. Ett **kikarsikte** ökar i stället vapnets räckvidd ett band (se [[Vapen#Kikarsikte]]).
+Meter-spalten gäller den vanliga skalan med tiometerszoner (inomhus, i en stadsmiljö). **Utomhus är zonerna ofta större**, så banden — särskilt Lång och Mycket lång — sträcker sig betydligt längre; ett gevär på **Mycket lång** når så långt skytten kan urskilja målet, gott och väl bortom hundra meter. SL kan flytta ett mål ett band beroende på hur stora zonerna är i scenen. Varje räckviddsband bortom vapnets räckvidd gör skottet **ett steg svårare**, högst två steg (**Mycket Svårt**) eller omöjligt. Att **sikta** minskar svårigheten ett steg (kan bli **Lätt**), men kräver att både du och målet står stilla under rundan. Ett **kikarsikte** ökar i stället vapnets räckvidd ett band (se [[Vapen#Kikarsikte]]).
 
 ### Skjuta tillbaka mot nedhållande eld
 

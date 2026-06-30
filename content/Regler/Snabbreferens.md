@@ -25,7 +25,7 @@
 - **Kombinera utan avdrag:** **Stormning** (rörelse + närstrid)
 - **Kan inte kombineras med förflyttning:** sikta och kirurgi kräver stillhet
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
-- **Räckviddsband:** Bredvid (närstrid) → Nära (samma zon) → Kort (zonen bredvid) → Medel (3 zoner) → Lång (5 zoner) → Mycket lång (10 zoner). Sikta = −1 svårighet (stilla); kikarsikte = +1 band
+- **Räckviddsband:** Bredvid (närstrid) → Nära (samma zon) → Kort (zonen bredvid) → Medel (5 zoner) → Lång (10 zoner) → Mycket lång (så långt sikten räcker). Sikta = −1 svårighet (stilla); kikarsikte = +1 band
 - **Försvar:** passivt (SL väger in i svårigheten). Aktiv väjning/parering: 1 Fokus, Smidighet + Strid (Lätt), dra av Effekten från anfallets framgångar
 - **Skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0)
 - **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus **och** triggar en kritisk träff. +1 per ytterligare 12:a

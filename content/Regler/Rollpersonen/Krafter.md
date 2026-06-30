@@ -65,10 +65,10 @@ En kraft kan också utformas så att den **modifierar** din vanliga handling (en
 | --------------- | ------------------ | -------------------------- |
 | **Beröring**    | Fysisk kontakt     | Ingen                      |
 | **Nära**        | Samma zon          | Ingen                      |
-| **Kort**        | Zonen bredvid      | +1 Fokus eller begränsning |
-| **Medel**       | Upp till tre zoner | +1 Fokus eller begränsning |
-| **Lång**        | Upp till fem zoner | +2 Fokus eller begränsning |
-| **Mycket lång** | Upp till tio zoner | +2 Fokus eller begränsning |
+| **Kort**        | Zonen bredvid          | +1 Fokus eller begränsning |
+| **Medel**       | Upp till fem zoner     | +1 Fokus eller begränsning |
+| **Lång**        | Upp till tio zoner     | +2 Fokus eller begränsning |
+| **Mycket lång** | Så långt sikten räcker | +2 Fokus eller begränsning |
 
 Banden är desamma som vapnens räckviddsband (se [[Strid och skada#Räckviddsband]]).
 
