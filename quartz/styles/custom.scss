@@ -106,6 +106,12 @@
     max-width: 260px;
     height: auto;
     margin: 0.4rem 0 0.9rem 1.4rem;
+
+    // Click a content image to view the original full size (see
+    // quartz/components/scripts/imageZoom.inline.ts). The cursor hints it.
+    &.zoomable {
+      cursor: zoom-in;
+    }
   }
 
   // Full-width images: no float, centered in the column.
@@ -131,6 +137,41 @@
       max-width: 100%;
       margin: 1rem auto;
     }
+  }
+}
+
+// --- Image zoom overlay (lightbox) -----------------------------------
+// Clicking a content image opens it here at full size over a dimmed
+// backdrop. Lives outside `.center article`, so it escapes the floated
+// thumbnail framing above. Toggled by imageZoom.inline.ts.
+#image-zoom-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: color-mix(in srgb, var(--darkgray) 88%, transparent);
+  cursor: zoom-out;
+
+  &.active {
+    display: flex;
+  }
+
+  img {
+    max-width: 95vw;
+    max-height: 95vh;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    border: 1px solid var(--lightgray);
+    background: var(--light);
+    padding: 4px;
+    cursor: zoom-out;
+    // Override the floated content-image rules above.
+    float: none;
+    margin: 0;
   }
 }
 
