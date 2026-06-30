@@ -4,7 +4,7 @@
 
 ### Räckvidd
 
-Vapnets **räckviddsband** — Kort, Mellan, Lång eller Mycket lång (se [[Strid och skada#Räckviddsband]]). Mål inom bandet beskjuts utan avdrag för avstånd. Att sikta flyttar räckvidden ett band uppåt. Mål ett band längre bort är Svåra att träffa, två band Mycket Svåra eller omöjligt.
+Vapnets **räckviddsband** — Nära, Kort, Medel, Lång eller Mycket lång (se [[Strid och skada#Räckviddsband]]). Mål inom bandet beskjuts utan avdrag för avstånd; varje band bortom gör skottet ett steg svårare, högst två steg. Att **sikta** minskar svårigheten ett steg men kräver att du och målet står stilla; ett **kikarsikte** ökar i stället räckvidden ett band uppåt.
 
 ### Ammunition
 Vapen har ett värde för ammunition som motsvarar ett för antalet skott som skjuts i en normal strid. Varje strid som ett skjutvapen har använts så sjunker ammunitionsvärdet ett steg. Ammunition sjunker också ett steg av att skjuta kort salva och två steg av en lång salva. Att ladda om är en handling.
@@ -37,7 +37,7 @@ Vapnet kan användas på 2 meters avstånd istället för normal närstrid. Fien
 
 ### Kastbart
 
-Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har Kort räckvidd (ungefär Fysik × 5 m).
+Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har Kort räckvidd.
 
 ## Avståndsvapen
 
@@ -45,11 +45,11 @@ Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har Ko
 | ----------------- | ----------- | ----: | ---: | ---------- | ------------------------ |
 | Pistol            | Kort        |     3 |    2 | Skjutvapen | –                        |
 | Tung pistol       | Kort        |     4 |    2 | Skjutvapen | Penetrerande             |
-| K-pist            | Mellan      |     3 |    3 | Skjutvapen | Automateld               |
-| Automatkarbin     | Lång        |     4 |    4 | Skjutvapen | Automateld, Penetrerande |
-| Gevär             | Lång        |     5 |    2 | Skjutvapen | Penetrerande             |
+| K-pist            | Lång        |     3 |    3 | Skjutvapen | Automateld               |
+| Automatkarbin     | Mycket lång |     4 |    4 | Skjutvapen | Automateld, Penetrerande |
+| Gevär             | Mycket lång |     5 |    2 | Skjutvapen | Penetrerande             |
 | Hagelgevär        | Kort        |     5 |    2 | Skjutvapen | Hagelsvärm               |
-| Kulspruta 5.56 mm | Lång        |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
+| Kulspruta 5.56 mm | Mycket lång |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Kulspruta 7,62 mm | Mycket lång |     6 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Handgranat        | Kast        |     6 |    1 | Explosion  | Explosion, Splitter      |
 
@@ -72,4 +72,4 @@ Skydd minskar KP-skadan från attacker. Normalt kroppsskydd ger 1 poäng Skydd, 
 
 ### Kikarsikte
 
-Kikarsikte flyttar räckvidden ett extra band uppåt när man siktar.
+Kikarsikte ökar vapnets räckvidd ett band uppåt.

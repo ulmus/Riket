@@ -62,7 +62,7 @@ Detaljnivå avgörs av fysiskt avstånd:
 
 Slå för Samspel + Vilja. Personer som rör vid din kropp dras in i visionen och kan se och peka ut detaljer.
 
-- **+1 Fokus:** Räckvidden är Kort istället för beröring.
+- **+1 Fokus:** Räckvidden är Nära istället för beröring.
 - **1 Framgång:** Ytterligare en mottagare.
 - **1 Framgång:** Mottagarna hör också, inte bara ser.
 

@@ -59,7 +59,7 @@ Du kan tillfälligt dämpa effekterna av stress och skada. Slå för Vilja + Vil
 
 - **Verkan:** En person du rör vid (eller du själv) ignorerar alla effekter av Stress och skador (inklusive kritiska skador och Stress-trauman) under en runda. Du kan upprätthålla dämpningen genom att koncentrera dig varje runda; alla dina övriga handlingar blir då ett steg svårare. När dämpningen upphör återkommer effekterna, och målet tar dessutom **+1 Stress**.
 - **1 Framgång:** Effekten täcker ytterligare en person.
-- **+1 Fokus:** Effekten har räckvidd Kort.
+- **+1 Fokus:** Effekten har räckvidd Nära.
 
 ### Aktiverat trauma – Patomimik
 

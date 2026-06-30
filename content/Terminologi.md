@@ -53,12 +53,11 @@ De åtta grundegenskaperna som definierar en rollperson:
 | Term | Beskrivning |
 | --- | --- |
 | **Handling** | Det du gör på din tur — en per runda (attack, kraft, ladda om, vård, etc.) |
-| **Kombinerad handling** | En handling som väver in rörelse; namngivna (t.ex. **Stormning**) görs utan avdrag, annars blir handlingen ett steg svårare |
-| **Stormning** | Kombinerad handling: förflytta dig till en närliggande zon och gör en närstridsattack |
-| **Förflyttning** | Handling: slag för *Fysik + Smidighet* för att flytta dig mellan zoner; en zon är normalt Lätt (ingen tärning), varje Effekt tar dig en zon till |
-| **Rusa** | Att lägga hela sin handling på förflyttningen och få en gratis framgång på *Fysik + Smidighet* |
-| **Zon** | Berättardriven del av en scen, utan fast storlek; avstånd och förflyttning mäts i zoner |
-| **Räckviddsband** | Abstrakt avstånd för vapen och krafter: Kort, Mellan, Lång, Mycket lång |
+| **Kombinerad handling** | Två handlingar samma tur (t.ex. två attacker, eller en attack och en förflyttning) — var och en ett steg svårare; vissa handlingar som **Stormning** kombinerar utan avdrag |
+| **Stormning** | Förflytta dig fram till ett mål och gör en närstridsattack, som en handling |
+| **Förflyttning** | Handling: slag för *Fysik + Smidighet* för att flytta dig i eller mellan zoner; en zon är normalt Lätt (ingen tärning), varje Effekt tar dig en zon till |
+| **Zon** | Berättardriven del av en scen (ungefär tio meter; ett rum inomhus); avstånd och förflyttning mäts i zoner |
+| **Räckviddsband** | Abstrakt avstånd för vapen och krafter: Bredvid, Nära, Kort, Medel, Lång, Mycket lång |
 | **Försvar** | Passivt som grund; aktiv väjning eller parering kostar 1 Fokus och kan göras utanför din tur |
 | **Initiativ** | Bestämmer turordning i strid; 1T12 + Strid |
 

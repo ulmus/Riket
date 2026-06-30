@@ -110,7 +110,7 @@ När du träffar med ett gevär kan du spendera 1 Effekt på träffen för att d
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol utan att det kostar din handling. Du kan röra dig och skjuta samma runda utan avdrag — dina pistolattacker blir en kombinerad handling som inte tvingar dig att stå stilla.
+Du får +1 på *Smidighet + Strid* med pistoler. Du kan dra eller byta till pistol utan att det kostar din handling. Du kan röra dig och skjuta samma runda **utan avdrag** — du slipper det steg svårare som annars gäller när man kombinerar förflyttning med en attack.
 
 ### Snabbskott
 

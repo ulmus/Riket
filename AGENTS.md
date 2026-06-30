@@ -36,7 +36,7 @@ When generating rules or resolving actions, adhere to these core mechanics:
 - **Secondary Stats:**
   - *Tålighet* = Fysik + Vilja.
   - *Stabilitet* = 3 (fast värde för alla rollpersoner).
-  - *Förflyttning* — en egen handling: att flytta sig en zon eller mer slås med *Fysik + Smidighet* (normalt Lätt — en zon lyckas då automatiskt utan tärning; varje Effekt en zon till, hela handlingen ger en gratis framgång = **rusa**). Avstånd och förflyttning anges i **zoner**, och vapen-/krafträckvidd i **band** (Kort/Mellan/Lång/Mycket lång), inte i meter.
+  - *Förflyttning* — en egen handling: att flytta sig en zon eller mer slås med *Fysik + Smidighet* (normalt Lätt — en zon lyckas då automatiskt utan tärning; varje Effekt en zon till). Avstånd och förflyttning anges i **zoner** (en zon ≈ tio meter), och vapen-/krafträckvidd i **band** (Bredvid/Nära/Kort/Medel/Lång/Mycket lång), inte i meter.
 
 ## Content Generation Guidelines
 - **Tone:** Maintain a "Cold War thriller" vibe mixed with "Golden Age comics" but grounded in a gritty reality.

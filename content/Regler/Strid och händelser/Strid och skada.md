@@ -6,7 +6,7 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Zoner
 
-I strid och andra spända scener delar SL in platsen i ett fåtal **zoner** efter fiktionen — porten, lastkajen, det öppna golvet, kontoret, taket ovanför. En zon har ingen fast storlek; den är så stor som berättelsen kräver. Allt inom en zon räknas som nära till hands, och vad som är en **närliggande** zon avgör SL utifrån scenen. Förflyttning och avstånd mäts i zoner, inte i meter.
+I strid och andra spända scener delar SL in platsen i **zoner** efter fiktionen — porten, lastkajen, det öppna golvet, kontoret, taket ovanför. En zon är ungefär **tio meter** tvärs över, men SL anpassar efter platsen: **inomhus är ett rum oftast en zon**, och för stora utomhusscener kan man lägga ett **hexrutnät** där varje hex (tio meter) är en zon. Allt inom en zon räknas som nära till hands, och vad som är en **närliggande** zon avgör SL utifrån scenen. Förflyttning och avstånd mäts i zoner, inte i meter.
 
 Zonerna är inte bara avstånd. SL kan ge en zon **egenskaper** som färgar striden:
 
@@ -23,29 +23,28 @@ Egenskaperna är verktyg, inte en fast lista — de flesta uttrycks som ett steg
 
 På din tur utför du normalt **en handling** — en attack, en kraft, att ladda om, ge förband, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
 
-Du kan försöka göra **två saker** samma tur — två handlingar (till exempel två attacker) eller en handling plus en förflyttning — men då blir **var och en ett steg svårare**.
+Du kan försöka göra **två handlingar** samma tur — till exempel två attacker, eller en attack och en förflyttning — men då blir **var och en ett steg svårare**.
 
-- **Namngivna kombinationer** slipper avdraget för just sin kombination: **Stormning** (förflyttning till en närliggande zon plus en närstridsattack), och förmågor som **Pistolskytt** (röra dig och skjuta).
+- **Vissa handlingar kombinerar förflyttning med något annat** utan avdrag — till exempel **Stormning** (förflyttning fram till ett mål plus en närstridsattack). Även förmågor kan göra det, som **Pistolskytt** (röra dig och skjuta).
 - En förmåga eller kraft som *modifierar din handling* räknas som en del av handlingen, inte som en andra sak — den gör den alltså inte svårare.
-- **Vissa handlingar kräver stillhet** och kan inte kombineras med förflyttning alls (se [[#Handlingar som kräver stillhet]]).
+- **Vissa handlingar kan inte kombineras med förflyttning alls** — de kräver att du står stilla (se [[#Handlingar som inte kan kombineras med förflyttning]]).
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
 
 ## Förflyttning
 
-Att förflytta dig **mellan zoner** är en **handling** i sig och avgörs med ett slag för *Fysik + Smidighet*. Svårigheten sätts av terrängen, dina sår och omständigheterna. **Normalt är den Lätt** — då lyckas det automatiskt och du behöver inte slå, och en närliggande zon är inom räckhåll. (Att flytta dig några steg inom din egen zon är en småsak och kostar ingen handling.)
+Att förflytta dig **i eller mellan zoner** är en **handling** i sig och avgörs med ett slag för *Fysik + Smidighet*. Svårigheten sätts av terrängen, dina sår och omständigheterna. **Normalt är den Lätt** — då lyckas det automatiskt och du behöver inte slå, och en närliggande zon är inom räckhåll. (Att flytta dig några steg inom din egen zon är en småsak och kostar ingen handling.)
 
 Vill du längre, eller väga upp svår mark, slår du:
 
 - Varje **Effekt** tar dig **en zon till**.
 - En Effekt kan i stället användas för att nå en **bestämd punkt** — bakom just den pelaren, ända fram till dörren.
-- Eftersom förflyttningen är en handling i sig: gör du inget annat den rundan får du en **gratis framgång** på slaget. Det är så du **rusar**.
 
 **Svår terräng** och **sår** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar, eller tar dig fram men förlorar din handling — SL avgör.
 
 ### Rörligt mål
 
-Har du förflyttat dig minst en zon under rundan är du svår att få korn på. **Alla anfall mot dig är ett steg svårare** fram till din nästa tur. Det måste vara en verklig förflyttning, inte ett kliv åt sidan.
+Har du förflyttat dig minst en zon under rundan är du svår att få korn på. **Alla anfall mot dig är ett steg svårare** fram till din nästa tur.
 
 Detta är baksidan av att de flesta handlingar görs stående: rör du dig blir ditt eget skott sämre, men du blir ett svårare mål. Står du still skjuter du säkert — men är lättare att träffa.
 
@@ -56,22 +55,22 @@ Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exem
 - Avståndsattack (Smidighet + Strid)
 - Närstridsattack (Fysik + Strid eller Smidighet + Strid)
 - Förflyttning (Fysik + Smidighet, se [[#Förflyttning]])
-- Stormning — förflytta dig till en närliggande zon och gör en närstridsattack (en kombinerad handling)
+- Stormning — förflytta dig fram till ett mål och gör en närstridsattack (som en handling)
 - Aktivera en kraft eller förmåga som kräver en handling
 - Ladda om ett vapen (se [[Vapen]] )
 - Ge förband eller stabilisera en skadad (se [[#Stabilisering]] )
 - Resa sig från marken eller ta sig över ett hinder
 
-## Handlingar som kräver stillhet
+## Handlingar som inte kan kombineras med förflyttning
 
-De flesta handlingar kan utföras i rörelse — det räknas som att göra två saker och blir ett steg svårare (se ovan). Några kräver dock fullständigt lugn och **kan inte kombineras med förflyttning alls**:
+De flesta handlingar kan utföras i rörelse — det räknas som att kombinera två handlingar och blir ett steg svårare (se ovan). Några kräver dock fullständigt lugn och **kan inte kombineras med förflyttning alls**:
 
+- Sikta (en noggrant siktad avståndsattack).
 - Kirurgi och annan noggrann vård.
-- Att upprätthålla koncentrationen på en kraft.
 
 Försöker du röra dig samma runda misslyckas en sådan handling — SL avgör vad som över huvud taget är möjligt. Vissa förmågor kan väga upp avdrag eller kringgå begränsningen.
 
-Att **upprätthålla en kraft** är ett pågående tillstånd, inte en ny handling varje runda. Du kan utföra en annan handling medan du koncentrerar dig, men det räknas som att väva ihop två saker (ett steg svårare) och du måste stå stilla. Koncentrationen håller tills du själv släpper den eller störs på ett sätt SL bedömer bryter fokus — krafter med begränsningen *Koncentration* bryts dessutom om du tar skada.
+Att **upprätthålla en kraft** är ett pågående tillstånd, inte en ny handling varje runda. Du kan utföra en annan handling medan du koncentrerar dig — det räknas som att **kombinera två handlingar** (ett steg svårare). Koncentrationen håller tills du själv släpper den eller störs på ett sätt SL bedömer bryter fokus — krafter med begränsningen *Koncentration* bryts dessutom om du tar skada.
 
 ## Försvar
 
@@ -106,16 +105,18 @@ Att med god tid attackera ett omedvetet mål som rör sig långsamt och föruts�
 
 ### Räckviddsband
 
-Avstånd anges i **band** i stället för meter. Varje vapen och kraft har ett räckviddsband; ett mål inom det bandet kan beskjutas utan avdrag för avstånd.
+Avstånd anges i **band** i stället för meter. Varje vapen och kraft har ett räckviddsband; ett mål inom bandet kan beskjutas utan avdrag för avstånd. **Närstrid kräver att du är Bredvid målet.**
 
-| Band            | Avstånd                   | Ungefär        |
-| --------------- | ------------------------- | -------------- |
-| **Kort**        | Samma zon                 | upp till ~25 m |
-| **Mellan**      | Närliggande zon           | ~25–50 m       |
-| **Lång**        | Ett par zoner bort        | ~50–150 m      |
-| **Mycket lång** | Flera zoner, inom synhåll | ~150 m+        |
+| Band            | Avstånd                         | Ungefär   |
+| --------------- | ------------------------------- | --------- |
+| **Bredvid**     | Samma plats i zonen, i kontakt  | närstrid  |
+| **Nära**        | Samma zon                       | ~10 m     |
+| **Kort**        | Zonen bredvid                   | ~20 m     |
+| **Medel**       | Upp till tre zoner bort         | ~30 m     |
+| **Lång**        | Upp till fem zoner bort         | ~50 m     |
+| **Mycket lång** | Upp till tio zoner bort         | ~100 m    |
 
-Meter-spalten är bara en grov riktlinje — SL kan flytta ett mål ett band beroende på hur stora zonerna är i scenen. Ett mål ett band längre bort än vapnets räckvidd är normalt **Svårt** att träffa, två band **Mycket Svårt** eller omöjligt. Att **sikta** (eller använda ett **kikarsikte**, se [[Vapen#Kikarsikte]]) flyttar räckvidden **ett band** uppåt.
+Meter-spalten är en grov riktlinje — SL kan flytta ett mål ett band beroende på hur stora zonerna är i scenen. Varje räckviddsband bortom vapnets räckvidd gör skottet **ett steg svårare**, högst två steg (**Mycket Svårt**) eller omöjligt. Att **sikta** minskar svårigheten ett steg (kan bli **Lätt**), men kräver att både du och målet står stilla under rundan. Ett **kikarsikte** ökar i stället vapnets räckvidd ett band (se [[Vapen#Kikarsikte]]).
 
 ### Skjuta tillbaka mot nedhållande eld
 
