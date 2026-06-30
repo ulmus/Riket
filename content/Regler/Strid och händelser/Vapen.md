@@ -45,11 +45,11 @@ Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har Ko
 | ----------------- | ----------- | ----: | ---: | ---------- | ------------------------ |
 | Pistol            | Kort        |     3 |    2 | Skjutvapen | –                        |
 | Tung pistol       | Kort        |     4 |    2 | Skjutvapen | Penetrerande             |
-| K-pist            | Lång        |     3 |    3 | Skjutvapen | Automateld               |
-| Automatkarbin     | Mycket lång |     4 |    4 | Skjutvapen | Automateld, Penetrerande |
+| K-pist            | Medel       |     3 |    3 | Skjutvapen | Automateld               |
+| Automatkarbin     | Lång        |     4 |    4 | Skjutvapen | Automateld, Penetrerande |
 | Gevär             | Mycket lång |     5 |    2 | Skjutvapen | Penetrerande             |
 | Hagelgevär        | Kort        |     5 |    2 | Skjutvapen | Hagelsvärm               |
-| Kulspruta 5.56 mm | Mycket lång |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
+| Kulspruta 5.56 mm | Lång        |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Kulspruta 7,62 mm | Mycket lång |     6 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Handgranat        | Kast        |     6 |    1 | Explosion  | Explosion, Splitter      |
 
