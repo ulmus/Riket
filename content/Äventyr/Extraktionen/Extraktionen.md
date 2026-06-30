@@ -75,7 +75,7 @@ Karaktärerna saknar medvetet personnamn och bakgrund och har bara kodnamn. Läg
 
 #### T-kontoret och Hedströms kontor
 
-[![[Lars Hedström.png]]](<Lars Hedström.png>)
+![[Lars Hedström.png]]
 T-kontoret är ett anonymt kontorshus som utåt ser ut som vilket statskontor som helst. Men bakom låsta dörrar och kodade nycklar finns Sveriges hemligaste underrättelseverksamhet.
 
 Hedströms kontor är en blandning av akademisk röra och militär precision. Bokhyllor fulla med tyska och svenska medicinska tidskrifter, kartbilder över Östeuropa, en gammal teleskrivare som tickar med kodade meddelanden. På väggen hänger en inramad bild av Uppsala universitets medicinska fakultet från 1930-talet – en påminnelse om en enklare tid.
@@ -179,7 +179,7 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
-[![[Berlin.png|wide]]](<Berlin.png>)
+![[Berlin.png|wide]]
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
@@ -218,7 +218,7 @@ Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk h
 
 #### Byggnaden och lokaler
 
-[![[Schweiziska ambassaden.png|wide]]](<Schweiziska ambassaden.png>)
+![[Schweiziska ambassaden.png|wide]]
 **Exteriör:** Byggnaden är ljusgrå med stora fönster och balkonger mot gatan. Östtyska och schweiziska flaggor vajar över entrén. Utanför står två Volkspolizei-vakter, men de är där mer för form än funktion – Schweiz är neutralt och respekterat.
 
 **Entré och hall:** En stor marmorhall med mönstrat golv och kristallkronor. En trappa leder upp till diplomatmottagningen på andra våningen. En stråkkvartett spelar Vivaldi.
@@ -380,8 +380,8 @@ Beroende på situationen kan Golem ha tagit Richter till:
 
 ### Richters hem – Friedrichshain
 
-[![[Richters hus gatuplan.png|wide]]](<Richters hus gatuplan.png>)
-[![[Richters hus andra våningen.png|wide]]](<Richters hus andra våningen.png>)
+![[Richters hus gatuplan.png|wide]]
+![[Richters hus andra våningen.png|wide]]
 Paret Richters hus ligger på **Warschauer Strasse 47**, ett litet gatuhus med en trädgård i anslutning till en park.
 
 #### Personer på platsen
@@ -461,13 +461,13 @@ Om Golem är skadad eller förvirrad kan hans djupaste minnen väckas – minnen
 
 Huset är i dåligt skick. Fönster är krossade, dörrar hänger på gångjärnen, väggar är täckta av graffiti och mögel. Trädgården är övervuxen, och en björk – som en gång var ung och grön – står nu gammal och vriden vid ingången.
 
-[![[Ödehus - bottenvåning.png|wide]]](<Ödehus - bottenvåning.png>)
+![[Ödehus - bottenvåning.png|wide]]
 **Bottenvåning:** Ett stort rum som en gång var vardagsrum, nu tomt och öde. Detsamma med sovrummet, där det fortfarande finns kvar en säng. En trasig spis i vad som var köket. Två ingångar, till gatan och ut mot den övervuxna trädgården. Trappor leder upp och ner.
 
-[![[Ödehus - källare.png|wide]]](<Ödehus - källare.png>)
+![[Ödehus - källare.png|wide]]
 **Källaren:** Mörk och fuktig, en doft av mögel och vita avlagringar på väggarna. Här gömde sig Elias och Jakob i en jordkällare. Det finns fortfarande barnteckningar på väggen – enkla skisser av fåglar och stjärnor. Källaren har också en oljepanna som är tom samt ett större förråd och arbetsrum.
 
-[![[Ödehus - vind.png|wide]]](<Ödehus - vind.png>)
+![[Ödehus - vind.png|wide]]
 **Vinden:** Öppen mot himlen på vissa ställen. Duvor har bott här. Det finns gamla möbler täckta av damm. Vid ett skrivbord har Elias och Jakobs morbror Anshel suttit och det finns fortfarande rester av korrespondens med hans syster, brödernas mor Frieda Lewinsky.
 
 > **Zoner:** Huset faller naturligt i — **trädgården** (övervuxen, den vridna björken, svår terräng), **bottenvåningen** (vardagsrum och kök, två ingångar — mot gata och trädgård), **källaren** (dit Golem drar sig undan med Richter, mörk och trång) och **vinden** (öppen mot himlen, högt läge). Trapporna binder ihop våningarna; att nå Golem i källaren innebär att ta sig genom huset zon för zon.
@@ -732,7 +732,7 @@ Handouts i form av kort med bild och namn på samtliga SLP finns att ladda ner o
 
 ### Dr. Hans Richter
 
-[![[Dr Richter.png]]](<Dr Richter.png>)
+![[Dr Richter.png]]
 
 Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkrone*. En man i sjuttioårsåldern med djupt fårade ansikte och händer som darrar lätt. Han är elegant klädd, nästan pedantiskt, och talar med en mjuk, nästan faderlig röst som står i skarp kontrast till de brott han begått.
 
@@ -751,7 +751,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 
 ### Elisabeth Richter
 
-[![[Frau Richter.png]]](<Frau Richter.png>)
+![[Frau Richter.png]]
 
 Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinna i sextioårsåldern, märkt av cancer och en tystlåten bitterhet som sitter djupare än sjukdomen. Hon ligger mestadels i sängen, blek och svag, men hennes ögon är fortfarande skarpa och intelligenta. Hennes röst har bevarat sin skärpa även om kroppen sviker, och hennes ord är aldrig slumpmässiga.
 
@@ -769,7 +769,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 
 ### Elias Lewinsky / "Golem"
 
-[![[Golem.png]]](<Golem.png>)
+![[Golem.png]]
 
 En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 cm lång och bred som en dörr. Hans hud är gråaktig och ärrad, hans ansikte nästan uttryckslöst utom en djup sorg i ögonen. Han bär enkla kläder – grå byxor och jacka – som ofta går sönder när han använder sin styrka.
 
@@ -807,7 +807,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 ### Yaakov Dayan (Jakob Lewinsky)
 
-[![[Yaakuv.png]]](<Yaakuv.png>)
+![[Yaakuv.png]]
 
 Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, medelbyggd med mörkt hår och intensiva ögon som sällan stannar på ett ställe. Han bär servitörskläder som täckmantel men rör sig med en militär precision som avslöjar träningen bakom. Under fasaden döljer sig tolv års hat och ett löfte avgivet vid sin brors grav.
 
@@ -826,7 +826,7 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 
 ### Dr. Lars Hedström
 
-[![[Lars Hedström.png]]](<Lars Hedström.png>)
+![[Lars Hedström.png]]
 
 Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårsåldern med glest hår, kavaj med senapsfläck och en nästan konstant cigarett. Han ser trött ut — och han är trött, på sig själv mer än något annat. Han bär sina egna hemligheter tungt och ser i Richter en spegel av vad han en gång riskerade att bli.
 
@@ -844,7 +844,7 @@ Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden o
 
 ### Oberleutnant Karl Brenner
 
-[![[Karl Brenner.png]]](<Karl Brenner.png>)
+![[Karl Brenner.png]]
 
 Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för sina överordnade. Brenner är vältränad, arrogant och genomlojal mot DDR. Han har spenderat tre år i Stasis skugga och ser detta uppdrag som sin chans att äntligen klättra. Hans militära hållning syns tydligt även i civil klädsel — ryggen alltid rak, blicken alltid skannande.
 
@@ -861,7 +861,7 @@ Ambitiös underrättelseofficer i trettioårsåldern, ivrig att bevisa sig för 
 
 ### Hauptmann Irma Vogel
 
-[![[Irma Vogel.png]]](<Irma Vogel.png>)
+![[Irma Vogel.png]]
 
 Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kommer med år av illusionsförlust. Vogel är lojal mot regimen men inte av idealism — hon har sett för mycket för det. Hon är pragmatisk nog att se potentialen i att förhandla med Frigg om situationen kräver det, och farlig nog att agera på det beslutet.
 
@@ -878,7 +878,7 @@ Säkerhetsofficer i fyrtioårsåldern, cynisk och erfaren i en grad som bara kom
 
 ### Generalmajor Klaus Adler
 
-[![[Klaus Adler.png]]](<Klaus Adler.png>)
+![[Klaus Adler.png]]
 
 Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårsåldern med stålgrått hår och en blick som aldrig riktigt fokuserar på den han talar med utan på rummet runt honom. Han hatar Richter på ett personligt plan men erkänner hans vetenskapliga värde. Om Richter flyr till Nebelkrone-laboratoriet kommer Adler att säkra honom och förbereda transport till Moskva — på egna villkor.
 
@@ -895,7 +895,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 
 ### Agent Richard "Dick" Donnelly
 
-[![[Dick.png]]](<Dick.png>)
+![[Dick.png]]
 
 Charmig men hänsynslös fältagent i trettifemårsåldern. Donnelly presenterar sig som kulturattaché men är uppenbart mer. Han är självsäker, pratar flera språk och har kontakter överallt.
 
@@ -914,7 +914,7 @@ CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetn
 
 ### Generalmajor Viktor Baranov
 
-[![[Viktor Baranov.png]]](<Viktor Baranov.png>)
+![[Viktor Baranov.png]]
 
 Operativ chef för KGB i Berlin. Baranov är i femtioårsåldern, gråhårig och briljant strateg med ett rykte om kalla beslut fattade utan tvekan. Han talar alltid lugnt, nästan vänskapligt, men bakom orden döljer sig en man som ser hela schackbrädet. Han är hänsynslös och ser både CIA och Stasi som hinder. Richter är en läckande resurs som måste säkras eller elimineras.
 
@@ -931,7 +931,7 @@ Baranov är en bakgrundsfigur som koordinerar operationen men deltar inte direkt
 
 ### Kapten Lyudmila Sokolova
 
-[![[Lyudmila.png]]](<Lyudmila.png>)
+![[Lyudmila.png]]
 
 KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort mörkt hår och neutrala kläder som hjälper henne att försvinna i folkmassan. Hon är tyst, iskall och absolut disciplinerad, med en förmåga att läsa rum och situationer på ett ögonblick. Hon har full insikt i ENS-agenter och leder gripandet av Richter med metodisk precision.
 
@@ -948,7 +948,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 
 ### Jelena Ivanova (Morana, Zvezda-agent)
 
-[![[Morana.png]]](<Morana.png>)
+![[Morana.png]]
 
 Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek som is med vitt hår och läppar med en blåaktig nyans som förbryllar dem som möter henne. Hon talar knappt och behandlar alla runt henne som objekt snarare än personer. Vid mottagningen verkar hon märkligt felplacerad — för stilla, för exakt i sina rörelser, och ovanligt kall att ta i hand.
 
@@ -982,7 +982,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 ### Vladimir Popov (Svarog, Zvezda-agent)
 
-[![[Svarog.png]]](<Svarog.png>)
+![[Svarog.png]]
 
 Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bred och muskulös med ständigt svettad hud som utstrålar märkbar värme vid beröring. Han rör sig som ett rovdjur bland gästerna, alltid nära Sokolova, alltid med ryggen mot väggen. Hans ärrade händer och konstanta svettning avslöjar att hans kropp är ett vapen som aldrig riktigt vilar.
 
@@ -1015,7 +1015,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 **Svaghet:** Överhettas lätt. Efter att ha använt krafter i 5+ rundor börjar han ta 1 KP skada per runda tills han svalnar. Vatten och kyla neutraliserar hans krafter tillfälligt.
 ### Professor Hermann Müller
 
-[![[Professor Hermann Müller.png]]](<Professor Hermann Müller.png>)
+![[Professor Hermann Müller.png]]
 
 Östtysk fysiker i sextioårsåldern med ett närmast barnsligt engagemang för sitt ämne. Han pratar ivrigt om kvantfysik och raketteknologi med vem som helst och verkar genuint omedveten om att hans forskning tjänar militära syften. Politiskt naiv men lätt att använda som täckmantel eller distraktion vid behov.
 
@@ -1027,7 +1027,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 
 ### Fräulein Ingrid Schulmann
 
-[![[Fräulein Ingrid Schulmann.png]]](<Fräulein Ingrid Schulmann.png>)
+![[Fräulein Ingrid Schulmann.png]]
 
 Östtysk operasångerska i trettioårsåldern, bjuden för att ge mottagningen kulturell glans. Hon är livlig och pratglad och rör sig obehindrat bland gästerna. Helt omedveten om kvällens politiska skikt kan hon fungera som täckmantel eller distraktion — en välmenande samtalspartner som inte frågar om saker hon inte förstår.
 
@@ -1039,7 +1039,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 
 ### Monsieur Jean-Pierre Leclerc
 
-[![[Monsieur Jean-Pierre Leclerc.png]]](<Monsieur Jean-Pierre Leclerc.png>)
+![[Monsieur Jean-Pierre Leclerc.png]]
 
 Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han har sett tillräckligt för att veta när något pågår, och ikväll pågår det definitivt något. Leclerc är cynisk och road av intrigspelet men blandar sig aldrig i andras affärer. Hans tystnad är berömvärd men hans ögon missar ingenting.
 
@@ -1051,7 +1051,7 @@ Fransk diplomat i femtioårsåldern, stationerad i Östberlin sedan tre år. Han
 
 ### Ambassadör Otto Keller (Schweiz)
 
-[![[Otto Keller.png]]](<Otto Keller.png>)
+![[Otto Keller.png]]
 
 Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioårsåldern med grånande mustasch och den orubbliga diplomatiska hållning som tjugo år i Utrikesdepartementet ger. Han är genuint idealistisk och tror på dialogens kraft i alla situationer. Naiv nog att ha bjudit in alla dessa intressen under samma tak — och nu fast mitt i kaoset utan en aning om vad han ska göra.
 
@@ -1063,7 +1063,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 
 ### Dr. Marlene Fischer
 
-[![[Dr Marlene Fischer.png]]](<Dr Marlene Fischer.png>)
+![[Dr Marlene Fischer.png]]
 
 Östtysk läkare stationerad vid Nebelkrone-laboratoriet. Hon försöker "moralisera" programmet inifrån men är tvungen att arbeta under Richter. Dr. Fischer är ångerfull och djupt olycklig med sin situation — spelarna kan nå henne om de visar att de förstår hennes dilemma.
 
@@ -1075,7 +1075,7 @@ Schweizisk ambassadör i Östberlin, värd för mottagningen. En man i femtioår
 
 ### Ambassadör Sven Hellén (Sverige, Västberlin)
 
-[![[Sven Hellén.png]]](<Sven Hellén.png>)
+![[Sven Hellén.png]]
 
 Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrått hår och den lugna auktoriteten hos en van diplomat. Han har tjänstgjort i Paris, Wien och Nairobi och vet hur man navigerar svåra rum. Men operationer som dessa — hemliga, riskfyllda och tydligt utanför hans mandat — gör honom mäktigt obekväm och hans lojalitet svår att räkna med.
 
@@ -1087,7 +1087,7 @@ Svensk ambassadör i Västberlin, elegant man i sextioårsåldern med silvergrå
 
 ### Greta Holm (Sverige, Västberlin)
 
-[![[Greta Holm.png]]](<Greta Holm.png>)
+![[Greta Holm.png]]
 
 Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåldern, professionell och genomskarp med ett sätt att kommunicera exakt det som behövs — aldrig mer. Till skillnad från Hellén vet hon exakt vad som pågår och har inga illusioner om riskerna. Hon är den enda på ambassaden som spelarna kan tala helt öppet med.
 
@@ -1100,7 +1100,7 @@ Svensk diplomat och kontaktperson för Program Frigg. Kvinna i fyrtiofemårsåld
 
 ### Martin Weber (Förare)
 
-[![[Martin Weber.png]]](<Martin Weber.png>)
+![[Martin Weber.png]]
 
 Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och uppvuxen i Berlin som han sett förvandlas från en metropol till en delad fästning. Han frågar aldrig vad passagerarna egentligen håller på med men är inte dum — han vet tillräckligt för att hålla tyst och köra fort. Han hatar muren med en tyst, metodisk ilska.
 
@@ -1115,7 +1115,7 @@ Tysk förare anställd av svenska ambassaden. Man i fyrtioårsåldern, född och
 
 ### Heinz Bauer (Volkspolizei)
 
-[![[Heinz Bauer.png]]](<Heinz Bauer.png>)
+![[Heinz Bauer.png]]
 
 Östberlinsk polis i fyrtioårsåldern med sliten uniform och en trötthet i blicken som berättar om för många nattpass. Vanlig polis som denna kväll hamnar mitt i händelser han inte förstår och inte bett om. Lojal mot DDR men inte av övertygelse — mer av vana och försiktighet. Han har en fru och tre barn i Lichtenberg som han tänker komma hem till.
 
