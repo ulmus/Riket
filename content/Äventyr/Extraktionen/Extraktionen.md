@@ -135,7 +135,7 @@ Efter genomgången har spelarna resten av dagen och följande dag att förbereda
 
 Spelarna flyger med **SAS** från Bromma flygplats till Västberlin med mellanlandning i Köpenhamn. Flygplanet är en **Douglas DC-6**, en fyrmotorig propellermaskin som används på Skandinaviens längre rutter. Flygningen är okomplicerad men anspänd. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
 
-På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartentorasse 18**, där den svenska ambassaden ligger.
+På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartenstrasse 18**, där den svenska ambassaden ligger.
 
 Västberlin känns som en ö av ljus mitt i ett mörker. Staden är livlig, neonljusen blinkar, och människor försöker leva sina liv trots den ständiga hotet från öst. Men allt är genomsyrat av en underliggande nervositet – soldater patrullerar, kontrollstationer övervakas, och muren skär genom staden som ett ärr.
 
@@ -179,7 +179,7 @@ Martin är lojal men inte självuppoffrande. Om situationen blir för farlig kom
 
 ### Förberedelser i Västberlin
 
-[![[public/äventyr/extraktionen/kartor/berlin.png|wide]]](<content/Äventyr/Extraktionen/Kartor/Berlin.png>)nen/Kartor/Berlin.png|wide]]](<Berlin.png>)
+[![[Berlin.png|wide]]](<Berlin.png>)
 Innan mottagningen på schweiziska ambassaden har spelarna cirka 1,5 dagar på sig att förbereda sig (se tidslinje nedan). De kan:
 
 #### Spana på muren
@@ -194,7 +194,7 @@ Spelarna kan åka till **Bernauer Strasse**, en av de mest dramatiska delarna av
 - **En bombad kyrka vid Sebastianstrasse:** Ruinerna av en gammal kyrka som bombades under kriget. En del av ruinen sträcker sig över no-go-zonen vid muren. Det är farligt men möjligt att ta sig igenom där på natten.
 - **Floden Spree:** Vissa delar av floden är mindre bevakade, men strömmarna är farliga och vattnet iskallt i november.
 
-Ett slag för *Sinnen + Analys* ger spelarna en bra översikt över potentiella flyktrutter. Extra framgångar ger detaljerad information om patrullmönster och bevakningsluckor.
+Ett slag för *Analys + Sinnen* ger spelarna en bra översikt över potentiella flyktrutter. Extra framgångar ger detaljerad information om patrullmönster och bevakningsluckor.
 
 #### Samla information
 
@@ -245,7 +245,7 @@ Vid mottagningen finns omkring 40–50 gäster. Här är några nyckelspelare so
 
 - **Dr. Hans Richter** – Målet. Nervös, väntar på kontakt. Se [[#Dr. Hans Richter]].
 - **Professor Hermann Müller** – Östtysk fysiker, politiskt naiv. Se [[#Professor Hermann Müller]].
-- **Fräulein Ingrid Schumann** – Östtysk operasångerska, charmig och opolitisk. Se [[#Fräulein Ingrid Schumann]].
+- **Fräulein Ingrid Schulmann** – Östtysk operasångerska, charmig och opolitisk. Se [[#Fräulein Ingrid Schulmann]].
 - **Monsieur Jean-Pierre Leclerc** – Fransk diplomat, cynisk och observant. Se [[#Monsieur Jean-Pierre Leclerc]].
 - **Oberleutnant Karl Brenner** – Stasi-officer i civil, övervakar Richter diskret. Se [[#Oberleutnant Karl Brenner]].
 - **Hauptmann Irma Vogel** – Stasi-säkerhetsofficer, Brenners överordnade. Håller sig i bakgrunden. Se [[#Hauptmann Irma Vogel]].
@@ -279,7 +279,7 @@ Beroende på hur spelarna agerar och vad de observerar kan flera saker hända:
 
 **Oberleutnant Karl Brenner (Stasi)** och hans kollegor har noterat Richters nervösa beteende. Brenner misstänker att något är på gång och närmar sig Richter för att "checka in".
 
-Spelarna kan försöka distrahera Brenner (*Samspel + List*, **Svårt**), eller helt enkelt hålla sig nära Richter och hävda att de har diplomatiska samtal.
+Spelarna kan försöka distrahera Brenner (*List + Samspel*, **Svårt**), eller helt enkelt hålla sig nära Richter och hävda att de har diplomatiska samtal.
 
 Om Brenner blir alltför misstänksam kommer han att kalla på förstärkning – fler Stasi-agenter som blockerar utgångarna.
 
@@ -309,7 +309,7 @@ Ett slag för *Samspel + Sinnen* (**Svårt**) avslöjar KGB:s närvaro.
 
 #### Elisabeth Richter är sjuk hemma
 
-Richter insisterar på att hans fru **Elisabeth** måste hämtas. Hon ligger sjuk i deras lägenhet på **Friedrichshain**, cirka 20 minuters bilkörning från ambassaden.
+Richter insisterar på att hans fru **Elisabeth** måste hämtas. Hon ligger sjuk i deras hem på **Friedrichshain**, cirka 20 minuters bilkörning från ambassaden.
 
 Om spelarna går med på detta komplicerar det operationen enormt – de måste dela upp gruppen eller ta Richter med sig till en potentiellt övervakad plats.
 
@@ -360,7 +360,7 @@ Om Richter är medvetslös eller skadad tar Golem honom över axeln och springer
 2. **Nebelkrone-laboratoriet** (instinktiv reflex att söka "säker plats")
 3. **Haus an Den Birken** (djupt nedgrävt minne av trygghet)
 
-### Jakten efter Golem och Richter
+### Akt II – Jakten efter Golem och Richter
 
 Efter utbrottet från ambassaden kan spelarna behöva spåra Golem. Beroende på omständigheterna kan de använda olika metoder:
 
@@ -397,7 +397,7 @@ Ett tvåvåningshus med liten trädgård i typisk östtysk stil, sliten fasad. E
 
 Husets gatuplan har fem rum. Ytterdörren kommer in i en öppen hall med en liten soffgrupp och ett skrivbord. Bredvid det ligger ett vardagsrum som vittnar om ett intellektuellt liv – bokhyllor fulla med vetenskapliga tidskrifter, anatomiska teckningar på väggarna, medicinska böcker.
 
-Matsalen är liten, men kan ta ett sällskap på åtta personer. En tavla på Dr Mengele hänger relativt diskret över vitrinskåpet. Köket är väl tilltaget med modern gasspis och även sovrummet är  
+Matsalen är liten, men kan ta ett sällskap på åtta personer. En tavla på Dr Mengele hänger relativt diskret över vitrinskåpet. Köket är väl tilltaget med modern gasspis, och innanför ligger ett enkelt sovrum.
 
 I sovrummet ligger **Elisabeth Richter** i sängen, blek och svag. Hon är i sextioårsåldern, utmärglad av cancer.
 
@@ -430,7 +430,7 @@ Om Golem inte fick order från Richter (om han var medvetslös eller död) kan h
 
 #### Platsen
 
-Nebelkrone-laboratoriet ligger i Berlin, i en före detta fabriksbyggnad omgjord till forskningsfacilitet, omgiven av höga staket, bevakat av Stasi-soldater.
+Nebelkrone-laboratoriet ligger norr om Berlin, nära Sachsenhausen, i en före detta fabriksbyggnad omgjord till forskningsfacilitet, omgiven av höga staket, bevakat av Stasi-soldater.
 
 #### Personer på platsen
 
@@ -494,11 +494,11 @@ Om spelarna lyckas få med sig Richter (och eventuellt Elisabeth) i bilen och f�
 
 #### Jaktmekanik
 
-Behandla detta som en **kapplöpning** (se [[Aktiviteter]]). Spelarna försöker samla framgångar för att nå gränsen innan förföljare hinner ikapp.
+Behandla detta som en **kapplöpning** (se [[Aktiviteter#Kapplöpning]]). Spelarna försöker samla framgångar för att nå gränsen innan förföljare hinner ikapp.
 
-- **Martin kör:** *Smidighet + Sinnen*, varje framgång är ett steg närmare gränsen.
-- **Förföljare:** Slå också *Smidighet + Sinnen* för Vopos. Om de får fler framgångar kommer de ikapp.
-- **Spelarna kan hjälpa:** De kan skjuta mot däck (*Strid + Sinnen*, **Svårt**), använda krafter för att störa, eller improvisera hinder.
+- **Martin kör:** *Sinnen + Smidighet*, varje framgång är ett steg närmare gränsen.
+- **Förföljare:** Slå också *Sinnen + Smidighet* för Vopos. Om de får fler framgångar kommer de ikapp.
+- **Spelarna kan hjälpa:** De kan skjuta mot däck (*Sinnen + Strid*, **Svårt**), använda krafter för att störa, eller improvisera hinder.
 
 Om jakten blir för intensiv kan Martin krascha bilen, vilket tvingar spelarna att fortsätta till fots eller hitta ett annat fordon.
 
@@ -512,9 +512,9 @@ Stasi kommer att per radio instruera kontrollstationerna att stänga. **Checkpoi
 
 Spelarna kan:
 
-- **Försöka smita igenom:** *Smidighet + Fysik*, **Mycket Svårt**. Farligt, kan leda till beskjutning.
+- **Försöka smita igenom:** *Fysik + Smidighet*, **Mycket Svårt**. Farligt, kan leda till beskjutning.
 - **Förhandla diplomatiskt:** *Samspel + Vilja*, **Mycket Svårt**. Näst intill omöjligt om de är efterlysta.
-- **Hitta en annan väg över muren:** Smyga via Potsdamer Platz eller kyrkoruinen. *Smidighet + Sinnen*, **Mycket Svårt**.
+- **Hitta en annan väg över muren:** Smyga via Potsdamer Platz eller kyrkoruinen. *Sinnen + Smidighet*, **Mycket Svårt**.
 
 ### Muren och flyktrutter
 
@@ -525,14 +525,14 @@ Muren är ofullständig i november 1961. Det finns flera möjliga flyktrutter:
 En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
 
 - **Fara:** Bevakade torn på båda sidor. Risk för att bli beskjuten.
-- **Svårighet:** *Smidighet + Fysik*, **Normalt**, **Svårt** om de bär någon.
+- **Svårighet:** *Fysik + Smidighet*, **Normalt**, **Svårt** om de bär någon.
 
 #### Potsdamer Platz – Ödemarken
 
 En gång stadens hjärta, nu en öde ruin. Muren är ofärdig här, mest taggtråd.
 
 - **Fara:** Patrullerande soldater, strålkastare.
-- **Svårighet:** *Smidighet + Sinnen*, **Svårt**, **Mycket Svårt** om de har Richter eller Elisabeth med sig.
+- **Svårighet:** *Sinnen + Smidighet*, **Svårt**, **Mycket Svårt** om de har Richter eller Elisabeth med sig.
 
 #### Floden Spree
 
@@ -673,7 +673,7 @@ Om spelarna lyckas få med sig Richter (och eventuellt Elisabeth och Golem) mås
 Om spelarna inte väckt för mycket uppmärksamhet kan de använda sina diplomatpass och gå genom Checkpoint Charlie. Detta är det enklaste alternativet men kräver att Stasi inte har utfärdat en varning.
 
 - **Förutsättning:** Inga larm utlösta, diplomatpass intakta, Richter och Elisabeth måste döljas eller smugglas i fordonet.
-- **Svårighet:** *Samspel + List*, **Svårt**. Om Stasi har gått ut med larm: **Mycket Svårt** eller omöjligt.
+- **Svårighet:** *List + Samspel*, **Svårt**. Om Stasi har gått ut med larm: **Mycket Svårt** eller omöjligt.
 - **Risk:** Om de avslöjas vid kontrollen är de fast – beväpnade soldater på båda sidor, ingen möjlighet att fly med bil.
 - **Komplikation:** Om CIA:s Donnelly kontrollerar checkpointen kan han välja att "hjälpa" — men priset är att han behåller Richter.
 
@@ -682,7 +682,7 @@ Om spelarna inte väckt för mycket uppmärksamhet kan de använda sina diplomat
 En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid muren. På natten är det möjligt att klättra genom ruinerna och ta sig över.
 
 - **Förutsättning:** Mörker. Alla måste kunna klättra eller bäras.
-- **Svårighet:** *Smidighet + Fysik*, **Normalt**. **Svårt** om de bär Elisabeth eller Golem.
+- **Svårighet:** *Fysik + Smidighet*, **Normalt**. **Svårt** om de bär Elisabeth eller Golem.
 - **Risk:** Bevakade torn på båda sidor. Risk för att bli beskjuten. Om de upptäcks under klättringen finns ingen reträtt.
 - **Komplikation:** Elisabeth kan inte klättra själv — hon måste bäras, vilket kräver *Fysik + Smidighet*, **Svårt**.
 
@@ -691,7 +691,7 @@ En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid muren. På natte
 En gång stadens hjärta, nu en öde ruin. Muren är ofärdig här, mest taggtråd och patrullerande soldater.
 
 - **Förutsättning:** Information om patrullmönster (via spaning eller Radars krafter).
-- **Svårighet:** *Smidighet + Sinnen*, **Svårt**. **Mycket Svårt** om de har Richter eller Elisabeth med sig.
+- **Svårighet:** *Sinnen + Smidighet*, **Svårt**. **Mycket Svårt** om de har Richter eller Elisabeth med sig.
 - **Risk:** Strålkastare, patruller, hundar. Öppen terräng utan skydd om de upptäcks.
 - **Komplikation:** Golem är omöjlig att dölja i det öppna — om han är med dem ökar risken dramatiskt.
 
@@ -718,7 +718,7 @@ Om spelarna tidigare förhandlade med Donnelly kan de försöka kontakta honom. 
 Martin Weber känner till en rutt som smugglare använder — genom industriområdet vid **Treptower Park** där muren fortfarande har luckor i stängslet.
 
 - **Förutsättning:** Martin måste vara med och vid medvetande. Bilen måste fungera.
-- **Svårighet:** *Smidighet + Sinnen* (Martin kör), **Svårt**. Martin får +2 tärningar tack vare sin lokalkännedom.
+- **Svårighet:** *Sinnen + Smidighet* (Martin kör), **Svårt**. Martin får +2 tärningar tack vare sin lokalkännedom.
 - **Risk:** Rutten passerar nära en Volkspolizei-station. Om de upptäcks utlöses en biljakt.
 - **Komplikation:** Martin kan tveka om situationen blir livshotande (se hans nackdel *Inte mitt jobb att dö*).
 
@@ -769,7 +769,7 @@ Richters hustru och tidigare forskarassistent under Mengele. En utmärglad kvinn
 
 ### Elias Lewinsky / "Golem"
 
-[![[public/äventyr/extraktionen/slp/golem.png]]](<content/Äventyr/Extraktionen/SLP/Golem.png>)traktionen/SLP/Golem.png]]](<Golem.png>)
+[![[Golem.png]]](<Golem.png>)
 
 En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 cm lång och bred som en dörr. Hans hud är gråaktig och ärrad, hans ansikte nästan uttryckslöst utom en djup sorg i ögonen. Han bär enkla kläder – grå byxor och jacka – som ofta går sönder när han använder sin styrka.
 
@@ -803,11 +803,11 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 - Han blir en rasande kraft som attackerar allt som står i vägen.
 - Under bärsärkar-läge: +2 Strid, +2 Fysik, men −2 Sinnen (ser inte skillnad på vän och fiende förutom Richter).
 
-**Svaghet:** Melt instabil. Kan förvirras av minnen eller känslor. Eld orsakar intensiv rädsla (minne från Auschwitz).
+**Svaghet:** Känslomässigt instabil. Kan förvirras av minnen eller känslor. Eld orsakar intensiv rädsla (minne från Auschwitz).
 
 ### Yaakov Dayan (Jakob Lewinsky)
 
-[![[public/äventyr/extraktionen/slp/yaakuv.png]]](<content/Äventyr/Extraktionen/SLP/Yaakuv.png>)aktionen/SLP/Yaakuv.png]]](<Yaakuv.png>)
+[![[Yaakuv.png]]](<Yaakuv.png>)
 
 Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, medelbyggd med mörkt hår och intensiva ögon som sällan stannar på ett ställe. Han bär servitörskläder som täckmantel men rör sig med en militär precision som avslöjar träningen bakom. Under fasaden döljer sig tolv års hat och ett löfte avgivet vid sin brors grav.
 
@@ -825,6 +825,8 @@ Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, me
 **Utrustning:** Dold kniv, förgiftade nålar, garrott, falsk identitet som servitör.
 
 ### Dr. Lars Hedström
+
+[![[Lars Hedström.png]]](<Lars Hedström.png>)
 
 Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårsåldern med glest hår, kavaj med senapsfläck och en nästan konstant cigarett. Han ser trött ut — och han är trött, på sig själv mer än något annat. Han bär sina egna hemligheter tungt och ser i Richter en spegel av vad han en gång riskerade att bli.
 
@@ -893,7 +895,7 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 
 ### Agent Richard "Dick" Donnelly
 
-[![[public/äventyr/extraktionen/slp/dick.png]]](<content/Äventyr/Extraktionen/SLP/Dick.png>)Extraktionen/SLP/Dick.png]]](<Dick.png>)
+[![[Dick.png]]](<Dick.png>)
 
 Charmig men hänsynslös fältagent i trettifemårsåldern. Donnelly presenterar sig som kulturattaché men är uppenbart mer. Han är självsäker, pratar flera språk och har kontakter överallt.
 
@@ -929,7 +931,7 @@ Baranov är en bakgrundsfigur som koordinerar operationen men deltar inte direkt
 
 ### Kapten Lyudmila Sokolova
 
-[![[public/äventyr/extraktionen/slp/lyudmila.png]]](<content/Äventyr/Extraktionen/SLP/Lyudmila.png>)onen/SLP/Lyudmila.png]]](<Lyudmila.png>)
+[![[Lyudmila.png]]](<Lyudmila.png>)
 
 KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort mörkt hår och neutrala kläder som hjälper henne att försvinna i folkmassan. Hon är tyst, iskall och absolut disciplinerad, med en förmåga att läsa rum och situationer på ett ögonblick. Hon har full insikt i ENS-agenter och leder gripandet av Richter med metodisk precision.
 
@@ -946,7 +948,7 @@ KGB:s fältchef i operationen. Sokolova är i trettiofemårsåldern, med kort m�
 
 ### Jelena Ivanova (Morana, Zvezda-agent)
 
-[![[public/äventyr/extraktionen/slp/morana.png]]](<content/Äventyr/Extraktionen/SLP/Morana.png>)aktionen/SLP/Morana.png]]](<Morana.png>)
+[![[Morana.png]]](<Morana.png>)
 
 Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek som is med vitt hår och läppar med en blåaktig nyans som förbryllar dem som möter henne. Hon talar knappt och behandlar alla runt henne som objekt snarare än personer. Vid mottagningen verkar hon märkligt felplacerad — för stilla, för exakt i sina rörelser, och ovanligt kall att ta i hand.
 
@@ -980,7 +982,7 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 ### Vladimir Popov (Svarog, Zvezda-agent)
 
-[![[public/äventyr/extraktionen/slp/svarog.png]]](<content/Äventyr/Extraktionen/SLP/Svarog.png>)aktionen/SLP/Svarog.png]]](<Svarog.png>)
+[![[Svarog.png]]](<Svarog.png>)
 
 Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bred och muskulös med ständigt svettad hud som utstrålar märkbar värme vid beröring. Han rör sig som ett rovdjur bland gästerna, alltid nära Sokolova, alltid med ryggen mot väggen. Hans ärrade händer och konstanta svettning avslöjar att hans kropp är ett vapen som aldrig riktigt vilar.
 
@@ -1135,7 +1137,7 @@ Professionella soldater som bevakar Nebelkrone-anläggningen. Vältränade, disc
 - **Tålighet:** 5, **Stabilitet:** 2
 - **Expertis:** Soldat
 
-**Utrustning:** AK-47 (räckvidd 50 m, Skada 4, skadetyp Skjutvapen, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
+**Utrustning:** AK-47 (Automatkarbin: räckvidd Lång, Skada 4, skadetyp Skjutvapen, Automateld, ammunition ❏❏❏❏), bajonett, radio, ficklampa, nyckelknippa till anläggningen.
 
 ### Försöksperson
 
