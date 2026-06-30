@@ -66,7 +66,19 @@ Varje karaktär börjar spelet med en Expertis.
 - **Förflyttning** avgör hur du tar dig fram. Att förflytta dig är en egen handling och slås med *Fysik + Smidighet*; normalt är slaget Lätt och en zon lyckas utan tärning. Varje Effekt tar dig en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten. Se [[Strid och skada#Förflyttning]].
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
-- **Språk:** Du behärskar ett språk per nivå i **Analys**. Det första är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler.
+
+## Språk
+
+Du har ett antal **språkpoäng** lika med **Analys + Samspel**. Med dem bestämmer du vilka språk din rollperson kan – och hur väl:
+
+- **Modersmål (2 poäng):** De första två poängen går alltid till ditt modersmål. Det talar du obehindrat.
+- **Stapplande (1 poäng):** Du gör dig förstådd, men trevande och med fel. Alla **Samspel**-slag på språket är ett steg svårare.
+- **Flytande med brytning (2 poäng):** Du talar obehindrat, men en hörbar brytning avslöjar att du inte är infödd.
+- **Som infödd (3 poäng):** Du talar utan brytning och kan passera som infödd.
+
+Poängen som blir över efter modersmålet fördelar du fritt mellan flera språk – ett enda språk som infödd, eller flera på lägre nivåer. Att höja ett språk en nivå kostar mellanskillnaden i poäng.
+
+Förmågan **[[Förmågor#Polyglott|Polyglott]]** gör språk billigare och låter dig klara dig på språk du aldrig lärt dig.
 
 ## Storlek
 

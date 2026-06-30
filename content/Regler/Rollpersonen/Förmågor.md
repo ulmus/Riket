@@ -638,7 +638,7 @@ När du framkallar och granskar dina egna bilder kan du, en gång per scen, peka
 
 *Krav:* Analys 2
 
-Utöver dina grundspråk kan du välja ytterligare ett språk per nivå i Analys. Spendera 1 Effekt på ett samtals- eller avlyssningsslag för att också identifiera talarens dialekt, brytning eller falska accent — du kan avgöra ursprung eller avslöja att talaren döljer sitt.
+Språk faller sig lätt för dig. Med Polyglott köper du ett språk **flytande med brytning** för 1 språkpoäng och **som infödd** för 2 (se [[Grundregler#Språk]]). Dessutom kan du försöka göra dig förstådd på ett språk du aldrig lärt dig: slå *Analys + Samspel* – lyckas du talar du det **stapplande** för stunden. Spendera 1 Effekt på ett samtals- eller avlyssningsslag för att också identifiera talarens dialekt, brytning eller falska accent — du kan avgöra ursprung eller avslöja att talaren döljer sitt.
 
 ### Djurvän
 
