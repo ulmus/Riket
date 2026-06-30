@@ -41,7 +41,7 @@ Vill du längre, eller väga upp svår mark, slår du:
 - Det krävs **två effekter om zonen är svårforcerad**.
 - En Effekt kan i stället användas för att nå en **bestämd punkt** och till exempel ta skydd — bakom just den pelaren, ända fram till dörren.
 
-**Svår terräng** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar. Om du ska ta dig 
+**Svår terräng** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar.
 
 ### Rörligt mål
 
@@ -79,7 +79,7 @@ Försvar är som grund **passivt**: när du blir attackerad väger SL in din rö
 
 Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja eller parera, även utanför din egen tur. Du kan bara göra det mot attacker som du är medveten om. Du slår för **Smidighet + Strid** (Lätt) och drar av **Effekten** från anfallets framgångar.
 
-Du kan väja både för avstånds- och närstridsattacker Om du väjer så hamnar du på marken efter attacken. Du kan bara parera närstridsattacker och du måste ha något i händerna som du kan parera med.
+Du kan väja både för avstånds- och närstridsattacker. Om du väjer så hamnar du på marken efter attacken. Du kan bara parera närstridsattacker och du måste ha något i händerna som du kan parera med.
 
 Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]] ).
 

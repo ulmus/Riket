@@ -122,7 +122,7 @@ Spendera 1 Fokus för att göra en extra pistolattack samma runda, utöver din h
 
 *Krav:* Smidighet 2, Strid 2
 
-Du får +1 på attacker med kastade vapen. Du får också +5 meter på kastdistans. Spendera 1 Effekt på en träff för att också få vapnet att landa precis där du behöver det — vid en allierads fötter, studsa in genom ett fönster, eller hamna bakom skydd där du senare kan plocka upp det.
+Du får +1 på attacker med kastade vapen och kan kasta dem ett band längre än normalt. Spendera 1 Effekt på en träff för att också få vapnet att landa precis där du behöver det — vid en allierads fötter, studsa in genom ett fönster, eller hamna bakom skydd där du senare kan plocka upp det.
 
 ## Försvar
 

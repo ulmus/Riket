@@ -39,6 +39,14 @@ Vapnet kan användas på 2 meters avstånd istället för normal närstrid. Fien
 
 Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har Kort räckvidd.
 
+### Explosion
+
+Vapnet träffar ett område i stället för ett enskilt mål. Skadan beräknas enligt [[Särskilda situationer#Explosioner]].
+
+### Splitter
+
+Vid explosionen slungas splitter längre ut — skadevärdet börjar avta först efter fem meter i stället för två (se [[Särskilda situationer#Explosioner]]).
+
 ## Avståndsvapen
 
 | Vapen             | Räckvidd    | Skada | Ammo | Skadetyp   | Egenskaper               |
@@ -51,7 +59,7 @@ Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har Ko
 | Hagelgevär        | Kort        |     5 |    2 | Skjutvapen | Hagelsvärm               |
 | Kulspruta 5.56 mm | Mycket lång |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Kulspruta 7,62 mm | Mycket lång |     6 |    6 | Skjutvapen | Automateld, Penetrerande |
-| Handgranat        | Kast        |     6 |    1 | Explosion  | Explosion, Splitter      |
+| Handgranat        | Kort        |     6 |    1 | Explosion  | Kastbart, Explosion, Splitter |
 
 ## Närstridsvapen
 
