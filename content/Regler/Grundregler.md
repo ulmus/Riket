@@ -72,18 +72,18 @@ Varje karaktär börjar spelet med en Expertis.
 
 Människor och mål av olika storlek har olika mycket KP och kan ha inbyggd rustning. Storleksklassen påverkar också hur lätt det är att träffa målet.
 
-| Storlek                        | Bonus-KP | Inbyggt Skydd | Träffa |
-| ------------------------------ | -------: | ------------: | -----: |
-| Liten (hund, barn)             |       −2 |             0 |     −1 |
-| Normal (vuxen människa)        |        0 |             0 |      0 |
-| Stor (häst, motorcykel)        |       +4 |             0 |     +1 |
-| Mycket stor (bil, lätt fordon) |       +8 |            +2 |     +2 |
-| Enorm (lastbil, stridsvagn)    |      +16 |            +4 |     +3 |
-| Kolossal (fartyg, byggnad)     |      +32 |            +6 |     +4 |
+| Storlek                        | Bonus-KP | Inbyggt Skydd | Att träffa                                   |
+| ------------------------------ | -------: | ------------: | -------------------------------------------- |
+| Liten (hund, barn)             |       −2 |             0 | Ett steg svårare                             |
+| Normal (vuxen människa)        |        0 |             0 | Som vanligt                                  |
+| Stor (häst, motorcykel)        |       +4 |             0 | Ett steg lättare                             |
+| Mycket stor (bil, lätt fordon) |       +8 |            +2 | Två steg lättare                             |
+| Enorm (lastbil, stridsvagn)    |      +16 |            +4 | Minst Lätt (träffas i praktiken automatiskt) |
+| Kolossal (fartyg, byggnad)     |      +32 |            +6 | Lätt (träffas automatiskt)                   |
 
 - **Bonus-KP:** Läggs till målets KP.
 - **Inbyggt Skydd:** Fungerar som rustningsskydd, minskar KP-skada.
-- **Träffa:** Modifierar attackslag mot målet.
+- **Att träffa:** Justerar svårigheten att träffa målet — ett eller flera steg lättare eller svårare, i linje med att svårighet alltid uttrycks i steg och aldrig som avdrag på tärningar. Stegen är relativa till den svårighet SL redan satt för läget (avstånd, skydd, rörelse). De största målen träffas i praktiken automatiskt på rimligt avstånd; då rullas slaget bara för att se hur stor **Effekt** blir.
 
 ## Vanliga slag
 
