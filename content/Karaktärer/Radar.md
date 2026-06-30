@@ -12,7 +12,7 @@ cssclasses:
 | Fysik | **2** | Sårad | ❏❏❏❏❏ |
 | List | **1** | Medvetslös | ❏❏❏❏❏ |
 | Samspel | **1** | Döende | ❏❏❏❏❏ |
-| Sinnen | **4** | Förflyttning | 4 m |
+| Sinnen | **4** | Förflyttning | 4 |
 | Smidighet | **2** | Tålighet | 5 |
 | Strid | **3** | Stabilitet | 3 |
 | Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
@@ -65,7 +65,7 @@ Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vi
 
 - +1 på Smidighet + Strid med pistoler.
 - Dra eller byta till pistol utan att det kostar din handling.
-- Förflyttning gör inte dina pistolattacker svårare — du kan röra dig och skjuta samma runda.
+- Du kan röra dig och skjuta samma runda utan avdrag — dina pistolattacker är en kombinerad handling och tvingar dig inte att stå stilla.
 
 ### Snabbskott (1 Fokus, utöver din handling)
 
@@ -91,7 +91,7 @@ När karaktären befinner sig i närheten av kraftiga radiosändare eller kraftf
 
 ## Utrustning
 
-- **Pistol m/40:** Räckvidd 25 m, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
+- **Pistol m/40:** Räckvidd Kort, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
 - **Tekniker-kit:** Avbitartång, koppartråd, lödkolv och andra verktyg för att manipulera elektronik (+2 på Analys + Smidighet för att hantera teknik).
 - **Dyrkset:** För att tyst ta sig in i låsta utrymmen (+2 på Analys + Smidighet för att dyrka lås).
 - **Bärbar radiopejlare:** För att kunna triangulera och hitta källan till de signaler hen hör.

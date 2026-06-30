@@ -19,24 +19,6 @@ Zonerna är inte bara avstånd. SL kan ge en zon **egenskaper** som färgar stri
 
 Egenskaperna är verktyg, inte en fast lista — de flesta uttrycks som ett steg svårare eller lättare, eller genom regler som redan finns.
 
-## Förflyttning
-
-Att förflytta dig är en **handling** i sig och avgörs med ett slag för *Fysik + Smidighet*. Svårigheten sätts av terrängen, dina sår och omständigheterna. **Normalt är den Lätt** — då lyckas det automatiskt och du behöver inte slå. Att ta dig till en plats i din egen zon eller en närliggande zon är alltså en Lätt handling som lyckas utan tärning.
-
-Vill du längre, eller väga upp svår mark, slår du:
-
-- Varje **Effekt** tar dig **en zon till**.
-- En Effekt kan i stället användas för att nå en **bestämd punkt** i en zon — bakom just den pelaren, ända fram till dörren.
-- Eftersom förflyttningen är en handling i sig: gör du inget annat den rundan får du en **gratis framgång** på slaget. Det är så du **rusar**.
-
-**Svår terräng** och **sår** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar, eller tar dig fram men förlorar din handling — SL avgör.
-
-### Rörligt mål
-
-Har du förflyttat dig minst en zon under rundan är du svår att få korn på. **Alla anfall mot dig är ett steg svårare** fram till din nästa tur. Det måste vara en verklig förflyttning, inte ett kliv åt sidan.
-
-Detta är baksidan av att de flesta handlingar görs stående: rör du dig blir ditt eget skott sämre, men du blir ett svårare mål. Står du still skjuter du säkert — men är lättare att träffa.
-
 ## Turer och handlingar
 
 På din tur utför du normalt **en handling** — en attack, en kraft, att ladda om, ge förband, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
@@ -48,6 +30,24 @@ Du kan försöka göra **två saker** samma tur — två handlingar (till exempe
 - **Vissa handlingar kräver stillhet** och kan inte kombineras med förflyttning alls (se [[#Handlingar som kräver stillhet]]).
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
+
+## Förflyttning
+
+Att förflytta dig **mellan zoner** är en **handling** i sig och avgörs med ett slag för *Fysik + Smidighet*. Svårigheten sätts av terrängen, dina sår och omständigheterna. **Normalt är den Lätt** — då lyckas det automatiskt och du behöver inte slå, och en närliggande zon är inom räckhåll. (Att flytta dig några steg inom din egen zon är en småsak och kostar ingen handling.)
+
+Vill du längre, eller väga upp svår mark, slår du:
+
+- Varje **Effekt** tar dig **en zon till**.
+- En Effekt kan i stället användas för att nå en **bestämd punkt** — bakom just den pelaren, ända fram till dörren.
+- Eftersom förflyttningen är en handling i sig: gör du inget annat den rundan får du en **gratis framgång** på slaget. Det är så du **rusar**.
+
+**Svår terräng** och **sår** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar, eller tar dig fram men förlorar din handling — SL avgör.
+
+### Rörligt mål
+
+Har du förflyttat dig minst en zon under rundan är du svår att få korn på. **Alla anfall mot dig är ett steg svårare** fram till din nästa tur. Det måste vara en verklig förflyttning, inte ett kliv åt sidan.
+
+Detta är baksidan av att de flesta handlingar görs stående: rör du dig blir ditt eget skott sämre, men du blir ett svårare mål. Står du still skjuter du säkert — men är lättare att träffa.
 
 ## Handlingar
 

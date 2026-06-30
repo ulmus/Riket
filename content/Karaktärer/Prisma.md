@@ -12,7 +12,7 @@ cssclasses:
 | Fysik | **1** | Sårad | ❏❏❏❏ |
 | List | **4** | Medvetslös | ❏❏❏❏ |
 | Samspel | **2** | Döende | ❏❏❏❏ |
-| Sinnen | **3** | Förflyttning | 6 m |
+| Sinnen | **3** | Förflyttning | 6 |
 | Smidighet | **5** | Tålighet | 4 |
 | Strid | **2** | Stabilitet | 3 |
 | Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
@@ -92,7 +92,7 @@ Damm, dimma, snö och regn avslöjar konturer; observatörer får **+2** tärnin
 
 ## Utrustning
 
-- **Pistol m/35 med ljuddämpare:** Räckvidd 25 m, Skada 3, skadetyp Skjutvapen, ljuddämpad. Ammunition ❏❏
+- **Pistol m/35 med ljuddämpare:** Räckvidd Kort, Skada 3, skadetyp Skjutvapen, ljuddämpad. Ammunition ❏❏
 - **Magnesiumblixtrar:** Engångsbloss för att temporärt överexponera kameror/sensorer i ett rum.
 - **Mörk dräkt:** Döljer konturer, +1 på slag för att smyga i svagt ljus.
 - **Tunn vajer och sugkoppar:** +2 på Fysik + Smidighet för tyst klättring/fönsterpassage.

@@ -144,6 +144,8 @@ Maten på avdelningen börjar ta slut och Akhenatons hov börjar bli oroliga. Ak
 
 Rummen nedan är numrerade enligt planritningen ovan (*se [[#Läget på Beckomberga]]*). Paviljong 10 är en spegelvänd byggnad: två flyglar med var sin korridor (**32**), sitt dagrum (**52** i väster, **11** i öster) och sitt bad (**43** respektive **14**), sammanbundna av en mittsektion med expedition och laboratorium (**27**), kök (**37**), besöksrum (**29**) och en terrass (**30**) som skjuter ut mot söder. Bottenvåningen rymmer de två övervakningsavdelningarna, andra våningen en tredje, nu utrymd, avdelning.
 
+> **Zoner i Paviljong 10 (för strid och förföljelse):** Dela paviljongen i några zoner efter fiktionen — **västra korridoren med dagrummet** (hovets samlingssal, 32/52), **Akhenatons tronrum** (51, längst in, svårast att nå), **mittsektionen** (expedition och laboratorium 27, kök 37, besöksrum 29, terrassen 30), **östra korridoren med dagrummet** (oroliga patienter, 32/11) och **trapphusen och andra våningen** (flankväg och reträtt). Barrikaderna av sängar och fastskruvade bord är **svår terräng** och ger **skydd** — att forcera dem kräver ett lyckat slag för *Fysik + Smidighet*. Tankefältet stiger ju närmare tronrummet man tar sig (se [[#Wachtmeister / Akhenaton]]).
+
 ### Beckomberga sjukhus i stort
 
 Beckomberga är ett av norra Europas största mentalsjukhus: gula tegelpaviljonger i en parkanläggning i Bromma, väster om Stockholm, i drift sedan 1932. Sommaren 1961 är det värmebölja och de flesta läkare och vårdare har semester. Bemanningen är tunn, och en avskärmad paviljong kan stå utan tillsyn i dagar innan någon utanför reagerar.

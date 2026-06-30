@@ -12,7 +12,7 @@ cssclasses:
 | Fysik | **5** | Sårad | ❏❏❏❏❏ ❏❏❏ |
 | List | **1** | Medvetslös | ❏❏❏❏❏ ❏❏❏ |
 | Samspel | **3** | Döende | ❏❏❏❏❏ ❏❏❏ |
-| Sinnen | **1** | Förflyttning | 7 m |
+| Sinnen | **1** | Förflyttning | 7 |
 | Smidighet | **2** | Tålighet | 9 |
 | Strid | **4** | Stabilitet | 3 |
 | Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
@@ -52,12 +52,12 @@ När karaktären träffas av en attack som gör skada kan de aktivera denna för
 
 ### Tjurrusning (1 Fokus, 1 handling)
 
-Karaktären utför en ostoppbar rusning dubbla sin Förflyttning rakt fram och slår för Fysik + Smidighet. Om du lyckas så kan du ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
+Karaktären utför en ostoppbar rusning rakt fram och lägger hela sin handling på språnget. Slå för Fysik + Smidighet — du tar dig en zon plus en extra per framgång. Om du lyckas kan du ignorera ett hinder (en vägg, en barrikad, en person). Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
 
 - **+1 Fokus:** Attacken räknas som en närstridsattack mot alla som står i vägen.
 - **1 Framgång:** Ignorera ytterligare ett hinder.
 - **1 Framgång:** Fienders slag för att hålla sig på fötter ett steg svårare.
-- **1 Framgång:** Öka distansen på rusningen med en Förflyttning.
+- **1 Framgång:** +1 zon på rusningen.
 
 ### Aktiverat trauma – Tjurrusning
 
@@ -106,7 +106,7 @@ Karaktären måste äta fyra gånger så mycket som en normal människa (10 000 
 
 ## Utrustning
 
-- **Kulsprutepistol m/45B "Bertil":** Räckvidd 15 m, Skada 3, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏
+- **Kulsprutepistol m/45B "Bertil":** Räckvidd Mellan, Skada 3, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏❏
 - **Knogjärn:** +1 skada i obeväpnad närstrid.
 - **Kofot:** +2 på Fysik + Smidighet för att bryta sig in.
 - **Rock med insydda plåtar:** Skydd 2, alla Smidighet-slag ett steg svårare.
