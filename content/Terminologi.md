@@ -38,7 +38,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | --- | --- | --- |
 | **Tålighet** | Fysik + Vilja | Tröskel för skadesteg |
 | **Stabilitet** | Normalt 3 | Hur mycket stress du tål innan sammanbrott |
-| **Förflyttning** | Fysik + Smidighet | Slå för att flytta dig en zon eller mer; normalt Lätt (en zon ingår i turen, ingen tärning), varje Effekt en zon till |
+| **Förflyttning** | Fysik + Smidighet | Handling: slå för att flytta dig en zon eller mer; normalt Lätt (en zon lyckas då automatiskt, ingen tärning), varje Effekt en zon till |
 
 ## Expertis och förmågor
 

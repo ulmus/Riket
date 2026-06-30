@@ -97,7 +97,7 @@ Stigmata måste använda morfin varje session, annars får de **1 Stress** per s
 
 En person kan stabiliseras med **Analys + Smidighet (Medicin)**:
 
-- Kräver en handling (stående) för första försöket, en minut för andra, en timme för tredje.
+- Kräver en handling (utan att förflytta dig) för första försöket, en minut för andra, en timme för tredje.
 - Vid framgång slutar personen vara Döende (men behöver fortfarande läkning).
 
 *Fältkirurg ger +3 tärningar på detta slag för 1 Fokus.*
