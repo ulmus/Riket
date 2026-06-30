@@ -6,7 +6,7 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Zoner
 
-I strid och andra spända scener delar SL in platsen i **zoner** efter fiktionen — porten, lastkajen, det öppna golvet, kontoret, taket ovanför. En zon är ungefär **tio meter** tvärs över, men SL anpassar efter platsen: **inomhus är ett rum oftast en zon**, och för stora utomhusscener kan man lägga ett **hexrutnät** där varje hex (tio meter) är en zon. Allt inom en zon räknas som nära till hands, och vad som är en **närliggande** zon avgör SL utifrån scenen. Förflyttning och avstånd mäts i zoner, inte i meter.
+I strid och andra spända scener delar SL in platsen i **zoner** efter fiktionen — porten, lastkajen, det öppna golvet, kontoret, taket ovanför. En zon är ungefär **tio meter** tvärs över, men SL anpassar efter platsen: **inomhus är ett rum oftast en zon**, och för stora utomhusscener kan man lägga ett **hexrutnät** där varje hex (tio meter) är en zon. Allt inom en zon räknas som nära till hands, och vad som är en **närliggande** zon avgör SL utifrån scenen. Förflyttning och avstånd mäts i zoner.
 
 Zonerna är inte bara avstånd. SL kan ge en zon **egenskaper** som färgar striden:
 
@@ -38,13 +38,14 @@ Att förflytta dig **i eller mellan zoner** är en **handling** i sig och avgör
 Vill du längre, eller väga upp svår mark, slår du:
 
 - Varje **Effekt** tar dig **en zon till**.
-- En Effekt kan i stället användas för att nå en **bestämd punkt** — bakom just den pelaren, ända fram till dörren.
+- Det krävs **två effekter om zonen är svårforcerad**.
+- En Effekt kan i stället användas för att nå en **bestämd punkt** och till exempel ta skydd — bakom just den pelaren, ända fram till dörren.
 
-**Svår terräng** och **sår** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar, eller tar dig fram men förlorar din handling — SL avgör.
+**Svår terräng** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar. Om du ska ta dig 
 
 ### Rörligt mål
 
-Har du förflyttat dig minst en zon under rundan är du svår att få korn på. **Alla anfall mot dig är ett steg svårare** fram till din nästa tur.
+Har du förflyttat dig minst en zon under rundan är du svår att få korn på. **Alla avståndsattacker mot dig är ett steg svårare** fram till din nästa tur.
 
 Detta är baksidan av att de flesta handlingar görs stående: rör du dig blir ditt eget skott sämre, men du blir ett svårare mål. Står du still skjuter du säkert — men är lättare att träffa.
 
@@ -116,7 +117,7 @@ Avstånd anges i **band** i stället för meter. Varje vapen och kraft har ett r
 | **Lång**        | Upp till tio zoner bort         | ~100 m    |
 | **Mycket lång** | Så långt sikten räcker          | synhåll   |
 
-Meter-spalten gäller den vanliga skalan med tiometerszoner (inomhus, i en stadsmiljö). **Utomhus är zonerna ofta större**, så banden — särskilt Lång och Mycket lång — sträcker sig betydligt längre; ett gevär på **Mycket lång** når så långt skytten kan urskilja målet, gott och väl bortom hundra meter. SL kan flytta ett mål ett band beroende på hur stora zonerna är i scenen. Varje räckviddsband bortom vapnets räckvidd gör skottet **ett steg svårare**, högst två steg (**Mycket Svårt**) eller omöjligt. Att **sikta** minskar svårigheten ett steg (kan bli **Lätt**), men kräver att både du och målet står stilla under rundan. Ett **kikarsikte** ökar i stället vapnets räckvidd ett band (se [[Vapen#Kikarsikte]]).
+Meter-spalten gäller den vanliga skalan med tiometerszoner. Ett gevär på **Mycket lång** når så långt skytten kan urskilja målet, gott och väl bortom hundra meter. SL kan flytta ett mål ett band beroende på hur stora zonerna är i scenen. Varje räckviddsband bortom vapnets räckvidd gör skottet **ett steg svårare**, högst två steg (**Mycket Svårt**) eller omöjligt. Att **sikta** minskar svårigheten ett steg (kan bli **Lätt**), men kräver att både du och målet står stilla under rundan. Ett **kikarsikte** ökar i stället vapnets räckvidd ett band (se [[Vapen#Kikarsikte]]).
 
 ### Skjuta tillbaka mot nedhållande eld
 
