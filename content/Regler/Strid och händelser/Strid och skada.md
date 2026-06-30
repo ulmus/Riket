@@ -21,13 +21,13 @@ Egenskaperna är verktyg, inte en fast lista — de flesta uttrycks som ett steg
 
 ## Förflyttning
 
-Att förflytta dig **en zon eller mer** avgörs med ett slag för *Fysik + Smidighet*. Svårigheten sätts av terrängen, dina sår och omständigheterna. **Normalt är den Lätt** — då lyckas det automatiskt, du behöver inte slå, och att ta dig till en plats i din egen zon eller en närliggande zon ingår i din tur.
+Att förflytta dig är en **handling** i sig och avgörs med ett slag för *Fysik + Smidighet*. Svårigheten sätts av terrängen, dina sår och omständigheterna. **Normalt är den Lätt** — då lyckas det automatiskt och du behöver inte slå. Att ta dig till en plats i din egen zon eller en närliggande zon är alltså en Lätt handling som lyckas utan tärning.
 
 Vill du längre, eller väga upp svår mark, slår du:
 
 - Varje **Effekt** tar dig **en zon till**.
 - En Effekt kan i stället användas för att nå en **bestämd punkt** i en zon — bakom just den pelaren, ända fram till dörren.
-- Lägger du **hela din handling** på förflyttningen — du gör inget annat den rundan — får du en **gratis framgång** på slaget. Det är så du **rusar**.
+- Eftersom förflyttningen är en handling i sig: gör du inget annat den rundan får du en **gratis framgång** på slaget. Det är så du **rusar**.
 
 **Svår terräng** och **sår** höjer svårigheten till **Normal**, **Svår** eller **Mycket Svår**. Då krävs ett lyckat slag för att alls ta dig vidare; misslyckas du står du kvar, eller tar dig fram men förlorar din handling — SL avgör.
 
@@ -35,17 +35,16 @@ Vill du längre, eller väga upp svår mark, slår du:
 
 Har du förflyttat dig minst en zon under rundan är du svår att få korn på. **Alla anfall mot dig är ett steg svårare** fram till din nästa tur. Det måste vara en verklig förflyttning, inte ett kliv åt sidan.
 
-Detta är baksidan av att avståndsattacker är stillastående-handlingar: rör du dig blir du själv ett sämre skytte, men ett svårare mål. Står du still skjuter du säkert — men är lättare att träffa.
+Detta är baksidan av att de flesta handlingar görs stående: rör du dig blir ditt eget skott sämre, men du blir ett svårare mål. Står du still skjuter du säkert — men är lättare att träffa.
 
 ## Turer och handlingar
 
-På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge förband eller något annat som kräver din uppmärksamhet under rundan.
+På din tur utför du **en handling** — en attack, en kraft, att ladda om, ge förband, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
 
-Tre saker avgör vad du hinner med under handlingen:
+Som grund utförs en handling **stående**: du gör en sak, på platsen. Att förflytta dig är i sig en handling (se [[#Förflyttning]]). Att kombinera rörelse med något annat är undantaget:
 
-- **Förflyttning ingår.** En förflyttning på en zon ingår i din tur (normalt Lätt, ingen tärning), så länge din handling inte kräver att du står stilla. Vill du längre, eller måste ta dig igenom svår mark, slår du för förflyttningen (se [[#Förflyttning]]).
-- **Att göra två saker samtidigt** — till exempel att både förflytta dig och utföra en stillastående-handling, eller köra och skjuta — gör handlingarna **ett steg svårare**. Du kan inte göra två attacker på detta sätt. En förmåga eller kraft som *modifierar din handling* räknas som en del av handlingen, inte som en andra sak — den gör den alltså inte svårare.
-- **Stillastående-handlingar** kräver att du inte förflyttar dig samma runda (se nedan).
+- **Kombinerade handlingar** väver ihop rörelse och något annat i samma tur utan avdrag. Vissa är namngivna — **Stormning** (förflyttning till en närliggande zon plus en närstridsattack) — och andra låses upp av förmågor, som **Pistolskytt** (röra dig och skjuta).
+- **Att väva in en förflyttning i en annan handling** — köra och skjuta, röra dig och ge förband — går också, men gör handlingen **ett steg svårare**. Du kan inte göra två attacker på detta sätt. En förmåga eller kraft som *modifierar din handling* räknas som en del av handlingen, inte som en andra sak — den gör den alltså inte svårare.
 
 Småsaker som att säga en kort replik, släppa ett föremål eller dra ett vapen som en del av en attack kostar inte din handling — SL avgör vad som är trivialt.
 
@@ -55,22 +54,18 @@ Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exem
 
 - Avståndsattack (Smidighet + Strid)
 - Närstridsattack (Fysik + Strid eller Smidighet + Strid)
+- Förflyttning (Fysik + Smidighet, se [[#Förflyttning]])
+- Stormning — förflytta dig till en närliggande zon och gör en närstridsattack (en kombinerad handling)
 - Aktivera en kraft eller förmåga som kräver en handling
 - Ladda om ett vapen (se [[Vapen]] )
 - Ge förband eller stabilisera en skadad (se [[#Stabilisering]] )
 - Resa sig från marken eller ta sig över ett hinder
 
-## Stillastående-handlingar
+## Stående som grundläge
 
-Vissa handlingar kräver lugn och precision och förutsätter att du **inte förflyttar dig** samma runda:
+De flesta handlingar görs **stående** — sikta och skjuta, kirurgi och annan noggrann vård, eller att hålla koncentrationen på en kraft. Vill du röra dig samma runda gäller den generella regeln ovan: handlingen blir **ett steg svårare**, eller omöjlig om SL bedömer att den kräver fullständigt lugn (kirurgi mitt i ett språng går helt enkelt inte). Vissa förmågor väger upp avdraget — en tränad prickskytt kan röra sig och ändå skjuta.
 
-- Avståndsattacker
-- Kirurgi, stabilisering och annan noggrann vård
-- Att upprätthålla koncentrationen på en kraft
-
-Förflyttar du dig ändå blir handlingen **ett steg svårare**, eller omöjlig om SL bedömer att den kräver fullständigt lugn. Vissa förmågor kan väga upp avdraget — en tränad prickskytt kan röra sig och ändå skjuta utan att det blir svårare.
-
-Att **upprätthålla en kraft** är ett pågående tillstånd, inte en ny handling varje runda. Du kan utföra en annan handling medan du koncentrerar dig, men det räknas som **två saker samtidigt** (ett steg svårare) och du måste stå stilla. Koncentrationen håller tills du själv släpper den eller störs på ett sätt SL bedömer bryter fokus — krafter med begränsningen *Koncentration* bryts dessutom om du tar skada.
+Att **upprätthålla en kraft** är ett pågående tillstånd, inte en ny handling varje runda. Du kan utföra en annan handling medan du koncentrerar dig, men det räknas som att väva ihop två saker (ett steg svårare) och du måste stå stilla. Koncentrationen håller tills du själv släpper den eller störs på ett sätt SL bedömer bryter fokus — krafter med begränsningen *Koncentration* bryts dessutom om du tar skada.
 
 ## Försvar
 
@@ -92,12 +87,12 @@ I strid kan du spendera Fokus för att:
 
 ## Avståndsattacker
 
-Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid. Avståndsattacker är normalt stillastående-handlingar. Svårigheten bestäms av SL utifrån omständigheterna. Faktorer som gör skott svårare:
+Om du gör en avståndsattack slår du i allmänhet för Smidighet + Strid. Skott görs stående — rör du dig samma runda blir attacken ett steg svårare (se [[#Turer och handlingar]]). Svårigheten bestäms i övrigt av SL utifrån omständigheterna. Faktorer som gör skott svårare:
 
 - Målet är i skydd eller har rört sig minst en zon
 - Mörker eller dålig sikt
 - Mål bortom vapnets räckviddsband
-- Skytten är i rörelse (eftersom avståndsattacker är stillastående)
+- Skytten är i rörelse
 
 En enskild försvårande faktor gör skottet normalt **Svår**. Flera faktorer eller extrema förhållanden kan göra det **Mycket Svår** — SL avgör. Mål långt bortom vapnets räckviddsband kan vara **Mycket Svår** eller omöjligt.
 

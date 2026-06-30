@@ -53,7 +53,8 @@ De åtta grundegenskaperna som definierar en rollperson:
 | Term | Beskrivning |
 | --- | --- |
 | **Handling** | Det du gör på din tur — en per runda (attack, kraft, ladda om, vård, etc.) |
-| **Stillastående-handling** | Handling som kräver att du inte förflyttar dig samma runda (sikta, kirurgi, upprätthålla en kraft); annars ett steg svårare eller omöjlig |
+| **Kombinerad handling** | En handling som väver in rörelse; namngivna (t.ex. **Stormning**) görs utan avdrag, annars blir handlingen ett steg svårare |
+| **Stormning** | Kombinerad handling: förflytta dig till en närliggande zon och gör en närstridsattack |
 | **Förflyttning** | Slag för *Fysik + Smidighet* för att flytta dig; en zon ingår i din tur (normalt Lätt, ingen tärning), varje Effekt tar dig en zon till |
 | **Rusa** | Att lägga hela sin handling på förflyttningen och få en gratis framgång på *Fysik + Smidighet* |
 | **Zon** | Berättardriven del av en scen, utan fast storlek; avstånd och förflyttning mäts i zoner |

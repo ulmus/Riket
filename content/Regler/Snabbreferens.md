@@ -23,7 +23,7 @@
 - **Förflyttning:** slå *Fysik + Smidighet*. Normalt Lätt → en zon, ingen tärning. Varje Effekt = en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten
 - **Rusa:** lägg hela handlingen på förflyttningen → en gratis framgång på slaget
 - **Rörligt mål:** har du flyttat minst en zon är alla anfall mot dig ett steg svårare till din nästa tur
-- **Stillastående-handlingar** (sikta, kirurgi, koncentrera kraft): kräver att du inte rör dig, annars ett steg svårare
+- **Stående grundläge:** handlingar görs stående (sikta, kirurgi, koncentrera kraft); väver du in rörelse blir handlingen ett steg svårare. **Stormning** (rörelse + närstrid) och **Pistolskytt** kombinerar utan avdrag
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
 - **Räckviddsband:** Kort (samma zon) → Mellan (närliggande) → Lång (par zoner) → Mycket lång (synhåll). Sikta/kikarsikte = +1 band
 - **Försvar:** passivt (SL väger in i svårigheten). Aktiv väjning/parering: 1 Fokus, Smidighet + Strid (Lätt), dra av Effekten från anfallets framgångar
