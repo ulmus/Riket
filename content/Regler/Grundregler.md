@@ -53,7 +53,7 @@ En grundläggande del av varje karaktär är dess **Egenskaper**. Dessa represen
 - **Strid** – Vapenteknik, våld, taktik.
 - **Vilja** – Mod, stresstålighet, övertygelse.
 
-Varje karaktär börjar med 21 poäng att fördela med minst 1 och högst 4 på en egenskap samt en egenskap som de får sätta 5 på.
+Varje karaktär fördelar 21 poäng på sina åtta egenskaper. En egenskap blir en **superegenskap** med 5 poäng; de övriga sju får 1–4 poäng vardera och delar på de återstående 16 poängen.
 
 ## Expertis
 
@@ -66,24 +66,36 @@ Varje karaktär börjar spelet med en Expertis.
 - **Förflyttning** avgör hur du tar dig fram. Att förflytta dig är en egen handling och slås med *Fysik + Smidighet*; normalt är slaget Lätt och en zon lyckas utan tärning. Varje Effekt tar dig en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten. Se [[Strid och skada#Förflyttning]].
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
-- **Språk** för varje nivå du har på **Analys** så får du välja ett språk du behärskar, ditt första språk är automatiskt ditt modersmål. Förmågan **Polyglott** låter dig lära dig fler språk.
+
+## Språk
+
+Du har ett antal **språkpoäng** lika med **Analys + Samspel**. Med dem bestämmer du vilka språk din rollperson kan – och hur väl:
+
+- **Modersmål (2 poäng):** De första två poängen går alltid till ditt modersmål. Det talar du obehindrat.
+- **Stapplande (1 poäng):** Du gör dig förstådd, men trevande och med fel. Alla **Samspel**-slag på språket är ett steg svårare.
+- **Flytande med brytning (2 poäng):** Du talar obehindrat, men en hörbar brytning avslöjar att du inte är infödd.
+- **Som infödd (3 poäng):** Du talar utan brytning och kan passera som infödd.
+
+Poängen som blir över efter modersmålet fördelar du fritt mellan flera språk – ett enda språk som infödd, eller flera på lägre nivåer. Att höja ett språk en nivå kostar mellanskillnaden i poäng.
+
+Förmågan **[[Förmågor#Polyglott|Polyglott]]** gör språk billigare och låter dig klara dig på språk du aldrig lärt dig.
 
 ## Storlek
 
 Människor och mål av olika storlek har olika mycket KP och kan ha inbyggd rustning. Storleksklassen påverkar också hur lätt det är att träffa målet.
 
-| Storlek                        | Bonus-KP | Inbyggt Skydd | Träffa |
-| ------------------------------ | -------: | ------------: | -----: |
-| Liten (hund, barn)             |       −2 |             0 |     −1 |
-| Normal (vuxen människa)        |        0 |             0 |      0 |
-| Stor (häst, motorcykel)        |       +4 |             0 |     +1 |
-| Mycket stor (bil, lätt fordon) |       +8 |            +2 |     +2 |
-| Enorm (lastbil, stridsvagn)    |      +16 |            +4 |     +3 |
-| Kolossal (fartyg, byggnad)     |      +32 |            +6 |     +4 |
+| Storlek                        | Bonus-KP | Inbyggt Skydd | Att träffa                                   |
+| ------------------------------ | -------: | ------------: | -------------------------------------------- |
+| Liten (hund, barn)             |       −2 |             0 | Ett steg svårare                             |
+| Normal (vuxen människa)        |        0 |             0 | Som vanligt                                  |
+| Stor (häst, motorcykel)        |       +4 |             0 | Ett steg lättare                             |
+| Mycket stor (bil, lätt fordon) |       +8 |            +2 | Två steg lättare                             |
+| Enorm (lastbil, stridsvagn)    |      +16 |            +4 | Minst Lätt (träffas i praktiken automatiskt) |
+| Kolossal (fartyg, byggnad)     |      +32 |            +6 | Lätt (träffas automatiskt)                   |
 
 - **Bonus-KP:** Läggs till målets KP.
 - **Inbyggt Skydd:** Fungerar som rustningsskydd, minskar KP-skada.
-- **Träffa:** Modifierar attackslag mot målet.
+- **Att träffa:** Justerar svårigheten att träffa målet — ett eller flera steg lättare eller svårare, i linje med att svårighet alltid uttrycks i steg och aldrig som avdrag på tärningar. Stegen är relativa till den svårighet SL redan satt för läget (avstånd, skydd, rörelse). De största målen träffas i praktiken automatiskt på rimligt avstånd; då rullas slaget bara för att se hur stor **Effekt** blir.
 
 ## Vanliga slag
 
@@ -139,9 +151,9 @@ Se kapitlet för [[Strid och skada]].
 ## Stress och rädsla
 
 - Markera Stress vid skada, rädsla, trauma eller istället för att spendera Fokus.
-  - När du blir Sårad.
-  - När du misslyckas med ett slag för Rädsla.
-  - Valfritt, om du vill spendera Fokus men inte har några att spendera, så kan du istället markera Stress. Du kan bara markera lika många Stress som din Stabilitet per användning.
+  - Varje gång du tar minst 1 KP skada (och **1 till** när skadan gör dig **Sårad**).
+  - När du misslyckas med ett Chockslag (se [[Trauma, chock och stress#Chock]]).
+  - Valfritt, om du vill spendera Fokus men inte har några kvar, kan du markera Stress i stället. Du kan bara markera lika många Stress som din Stabilitet per gång.
 - Om du tar mer Stress än vad du har i Stabilitet så slår du på Sammanbrottstabellen.
   - Varje gång du har tagit mer Stress än en multipel av din Stabilitet så slår du igen på Sammanbrottstabellen, +1 för varje multipel av Stabilitet du har passerat utöver den första.
 - Återvinn Stress genom att vila eller utföra stressreducerande aktiviteter (olika för varje rollperson).
@@ -150,14 +162,14 @@ Se kapitlet för [[Trauma, chock och stress]].
 
 ## Karaktärsskapande
 
-- 1 Egenskap till 5 (superegenskap)
-- 16 poäng till övriga egenskaper (1–4 vardera)
-- Välj 3 superförmågor och 2 vanliga förmågor.
+- 1 egenskap till 5 (superegenskap)
+- 16 poäng till de övriga sju egenskaperna (1–4 vardera)
+- Konstruera upp till tre krafter och välj två vanliga förmågor.
 
 Se kapitlet för [[Skapa och utveckla en rollperson]].
 
 ## Förmågor
 
-Våra hjältar har flera förmågor, dels sådana som kommer från deras krafter och dels förmågor som de fått via sin träning. Varje karaktär börjar med tre superförmågor och två vanliga förmågor. För att få ha en specifik förmåga så måste vissa krav vara uppfyllda – antingen vissa värden på en Egenskap, att karaktären har en viss Expertis eller att karaktären har vissa andra förmågor sedan tidigare.
+Förmågor är tränade tekniker och yrkeskunskaper, skilda från de **krafter** som kommer ur en rollpersons trauma (se [[Krafter]]). Varje karaktär börjar med två vanliga förmågor, och dessutom upp till tre krafter. För att få en viss förmåga måste dess krav vara uppfyllda – ett visst värde på en Egenskap, en viss Expertis eller en annan förmåga sedan tidigare.
 
 Se kapitlet för [[Förmågor]].

@@ -43,8 +43,8 @@
 
 ## Stress och Sammanbrott
 
-- Markera **Stress** vid: skada (Sårad), chock, kraftanvändning (istället för Fokus)
-- **Chock:** Slå Vilja + lämplig egenskap. Chockfaktor (1–5) minus framgångar = Stress. Trauma-koppling ger +1 Chockfaktor.
+- Markera **Stress** vid: skada (1 per träff, +1 när du blir **Sårad**), chock, kraftanvändning (istället för Fokus)
+- **Chock:** Slå Vilja + lämplig egenskap. Chockfaktor (normalt 1–4) minus framgångar = Stress. Trauma-koppling ger +1 Chockfaktor.
 - **Stabilitet** = 3 för vanliga karaktärer
 - Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+1 per gräns utöver första)
 

@@ -1,6 +1,6 @@
 # Skapa och utveckla en rollperson
 
-För att skapa en rollperson i I Rikets Tjänst följer du dessa steg börjar du med vilket koncept du vill göra och sen arbetar du med systemet och spelledaren för att skapa en karaktär med det konceptet.
+För att skapa en rollperson i I Rikets Tjänst börjar du med ett **koncept** – idén om vem din karaktär är. Sedan arbetar du tillsammans med systemet och spelledaren för att förverkliga konceptet i regler.
 
 ## Koncept
 
@@ -25,7 +25,7 @@ När du har konceptet på plats så följer du nedanstående steg för att skapa
     - **Skuld:** Du orsakade något fruktansvärt.
     - **Svek:** Någon du litade på förrådde dig.
     - **Skam:** Du avslöjades eller förödmjukades.
-3. **Tilldela egenskaper:** Fördela poäng till dina rollpersons egenskaper. Du har 21 poäng att fördela på åtta egenskaper där varje egenskap måste ha minst 1 poäng och högst 4 poäng. En egenskap kan väljas som en "superegenskap" och tilldelas 5 poäng.
+3. **Tilldela egenskaper:** Fördela 21 poäng på dina åtta egenskaper. En egenskap blir din **superegenskap** med 5 poäng; de övriga sju får 1–4 poäng vardera och delar på de återstående 16 poängen.
     - Analys
     - Fysik
     - List
@@ -38,7 +38,7 @@ När du har konceptet på plats så följer du nedanstående steg för att skapa
     - **Tålighet** = Fysik + Vilja. Detta avgör trösklarna för skadesteg.
     - **Förflyttning** = en egen handling; slag för *Fysik + Smidighet* för att flytta dig en zon eller mer; normalt Lätt (en zon lyckas då automatiskt, ingen tärning).
     - **Stabilitet** = 3. Detta är hur mycket Stress du tål.
-5. **Välj förmågor:** Välj två vanliga förmågor (se [[Förmågor]].
+5. **Välj förmågor:** Välj två vanliga förmågor (se [[Förmågor]]).
 6. **Konstruera upp till tre Extra-Normala Krafter:** Tillsammans med spelledaren skapar du upp till tre krafter med ett gemensamt tema för din rollperson baserat på dess trauma och personlighet. Beskriv också hur krafterna manifesterar sig när traumat aktiveras (se [[Krafter]]).
 7. **Bestäm resurser:** Beroende på din rollpersons expertis och bakgrund kan du ha tillgång till olika resurser som vapen, utrustning eller kontakter.
 

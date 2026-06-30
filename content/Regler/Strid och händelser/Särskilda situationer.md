@@ -96,7 +96,7 @@ Ett sövt offer vaknar efter 2T12 minuter och är **Påverkad** (alla handlingar
 
 ## Strålning
 
-En person som utsätts för strålning tar skada beroende på strålningsdos och exponeringstid. Varje timme som tillbringas i ett bestrålat område får karaktären **Strålningsdos** beroende på strålningsintensiteten I allmänhet räknas skadan efter att exponeringen är slut, eftersom strålsjukans symptom manifesteras fördröjt. Kritiska träffar slås på [[Kritiska träffar#Strålning]].
+En person som utsätts för strålning tar skada beroende på strålningsdos och exponeringstid. Varje timme som tillbringas i ett bestrålat område ger karaktären **Strålningsdos** beroende på strålningsintensiteten. I allmänhet räknas skadan efter att exponeringen är slut, eftersom strålsjukans symptom visar sig fördröjt. Kritiska träffar slås på [[Kritiska träffar#Strålning]].
 
 Intensiteten avgör grundskadan.
 
@@ -107,7 +107,8 @@ Intensiteten avgör grundskadan.
 | Kraftig            | 4     | Reaktorläcka, bränslestav i närheten    |
 | Extrem             | 8     | Reaktorhärd, krater från kärnvapen      |
 | Kärnvapenexplosion | 12    | Omedelbart, därefter 6 per timme        |
-Skyddsutrustning skyddar, gasmask sänker strålningsdosen ett steg per timme och full skyddsdräkt sänker upp till fyra steg per timme. 
+
+Skyddsutrustning skyddar: gasmask sänker strålningsdosen ett steg per timme och full skyddsdräkt sänker upp till fyra steg per timme.
 
 Varje karaktär har två värden:
 

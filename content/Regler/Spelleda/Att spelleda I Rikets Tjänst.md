@@ -99,13 +99,13 @@ Det är avsiktligt tänkt att karaktärernas Stress byggs upp under en session f
 
 ### Koppla in trauman
 
-Ha gärna en fusklapp med de olika karaktärernas Trauma och kom ihåg att om en rollpersons Trauma är inkopplat i en chockande upplevelse så höjs Chockvärdet med ett steg. Det innebär också att en person kan behöva slå Chockslag med Chock 1 för upplevelser som andra inte behöver slå Chockslag för alls (klaustrofobikern som går in i en hiss, till exempel).
+Ha gärna en fusklapp med de olika karaktärernas Trauma och kom ihåg att om en rollpersons Trauma är inkopplat i en chockande upplevelse så höjs Chockfaktorn med ett steg. Det innebär också att en person kan behöva slå Chockslag med Chockfaktor 1 för upplevelser som andra inte behöver slå Chockslag för alls (klaustrofobikern som går in i en hiss, till exempel).
 
 ### Improvisera med SLP, minska administrationen
 
 Du behöver inte hålla koll på Stress och Fokus för SLP, det är bättre om du improviserar. Om en Zvezda-agent har använt sina krafter två gånger redan under scenen, så kan du räkna med att hennes fokus är slut och hon behöver ta Stress. Om hon redan har tagit Stress eller slagit Chockslag så kan det vara dags att slå på Sammanbrottstabellen.
 
-När det kommer till namnlösa SLP som gränsvakter, etc så är inte men att använda Fokus eller Stress över huvud taget. De har generellt inte förmågor som ska aktiveras och eventuella Sammanbrotts-effekter kan göras som rena SL-beslut, utan slag.
+När det kommer till namnlösa SLP som gränsvakter och liknande är det ingen mening med att använda Fokus eller Stress över huvud taget. De har generellt inte förmågor som ska aktiveras, och eventuella Sammanbrotts-effekter kan göras som rena SL-beslut, utan slag.
 
 ## Äventyret
 

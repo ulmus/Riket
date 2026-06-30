@@ -189,13 +189,13 @@ Silke var en introvert och blyg ung kvinna. Hennes trauma kom från mobbning och
 
 ### Feromoner (Alltid aktiv)
 
-Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla som är inom 10 meter och andas samma luft.
+Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla i samma zon som andas samma luft.
 
 ### Manipulation (1 Fokus, en handling)
 
-Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp inom 10 meter. Ger +1 tärning på efterföljande sociala slag.
+Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp i samma zon. Ger +1 tärning på efterföljande sociala slag.
 
-- **+1 Fokus:** Radien ökar 10 meter.
+- **+1 Fokus:** Räckvidden ökar ett band.
 - **1 Framgång:** Känslan håller i sig hela scenen.
 
 ### Förslag (2 Fokus, en handling)
@@ -214,7 +214,7 @@ Radar är en ingenjör som alltid känt sig ignorerad. Hans krafter är baserade
 
 ### Radarsinne (Alltid aktiv)
 
-Uppfattar konturer och rörelser genom solida hinder inom 20 meter utan att använda synen.
+Uppfattar konturer och rörelser genom solida hinder på Kort håll utan att använda synen.
 
 ### Radiohörsel (1 Fokus, en handling)
 
@@ -224,7 +224,7 @@ Lyssna på radiofrekvenser. Krypterade signaler kräver Analys + Sinnen mot kryp
 
 ### Pulsstörare (1 Fokus, en handling)
 
-Slå Strid + Vilja. Levande varelser inom 10 meter måste slå Vilja eller förlora sin nästa runda. Elektronik störs ut.
+Slå Strid + Vilja. Levande varelser i samma zon måste slå Vilja eller förlora sin nästa runda. Elektronik störs ut.
 
 - **+1 Fokus:** Forma attacken som en kon.
 - **+1 Fokus:** Välj vilka mål som drabbas.
@@ -281,18 +281,18 @@ Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen p�
 
 Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål på Medel håll. **Skadebonus +2** (Stark). Skadetyp: Stick.
 
-- **+1 Fokus:** Träffar alla inom 3 meter från målet.
+- **+1 Fokus:** Träffar alla intill målet.
 - **+1 Fokus:** Vid 2+ KP skada måste målet slå Fysik + Vilja eller kan nästa runda inte både handla och förflytta sig.
 - **1 Framgång:** +1 skada.
 - **1 Framgång:** +1 band räckvidd.
 
 ### Fryspelare (2 Fokus, en handling)
 
-Skapa extrem kyla i 5-meters radie på Kort håll. Alla i området utom du själv måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
+Skapa extrem kyla i en zon på Kort håll. Alla i zonen utom du själv måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
 
 - **+1 Fokus:** Varar hela scenen.
 - **+1 Fokus:** Marken blir hal is – alla måste slå Fysik + Smidighet för att inte falla.
-- **1 Framgång:** +3 meters radie.
+- **1 Framgång:** Sträcker sig till en intilliggande zon.
 
 ---
 
@@ -302,7 +302,7 @@ Voltaic har levt med konstant smärta och nervskador. Hans krafter låter honom 
 
 ### Elektrisk känsel (Alltid aktiv)
 
-Känner elektriska fält och nervimpulser inom 10 meter. Uppfattar starka känslor som förändringar i bioelektriska fält.
+Känner elektriska fält och nervimpulser i samma zon. Uppfattar starka känslor som förändringar i bioelektriska fält.
 
 ### Stötchock (1 Fokus, en handling)
 

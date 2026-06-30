@@ -254,13 +254,13 @@ Bygg krafterna kring ett tema enligt [[Krafter]] — frost, värme, gravitation,
 
 **Kraftattack (en handling):**
 
-- Ett fokuserat angrepp i kraftens tema mot en person inom 10 meter.
+- Ett fokuserat angrepp i kraftens tema mot en person i samma zon.
 - **Kostnad:** 2 Fokus.
 - **Verkan:** *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP skada (välj skadetyp efter tema) och målet får ett relevant tillstånd, t.ex. **bedövat** eller **bländat**.
 
 **Områdeseffekt:**
 
-- Kraften påverkar allt inom en 5-metersradie runt agenten.
+- Kraften påverkar allt i agentens zon.
 - **Kostnad:** 1 Fokus per runda.
 - **Verkan:** Alla inom området tar 1 KP skada per runda och fysiska handlingar blir ett steg svårare.
 
@@ -276,7 +276,6 @@ En förstärkt fysisk enhet — programmets stridsvagn av kött. Massiv, nästan
 
 - Fysik 6 (övernaturlig), Strid 4, Sinnen 2, Vilja 1, Analys 1, List 1, Samspel 1, Smidighet 1
 - **Tålighet:** 9 (Fysik 6 + Vilja 1 + 2 från Nästan okrossbar kropp), **Stabilitet:** 2
-- **Förflyttning:** 7 meter
 
 **Krafter:**
 
@@ -315,7 +314,7 @@ Ett misslyckat subjekt — från [[Program Frigg (Sverige)|Program Frigg]] eller
 **Okontrollerad urladdning:**
 
 - Subjektets kraft (valfritt tema) brister ut när det blir stressat, skrämt eller skadat.
-- **Verkan:** Alla inom 5 meter tar 1T12 KP skada i kraftens tema. Subjektet kan inte styra vem som drabbas.
+- **Verkan:** Alla i samma zon tar 1T12 KP skada i kraftens tema. Subjektet kan inte styra vem som drabbas.
 
 **Svaghet:** Mycket låg Stabilitet — slå ofta på [[Trauma, chock och stress#Sammanbrottstabellen|Sammanbrottstabellen]]. Lugn, igenkänning eller en koppling till det förflutna kan nå fram där våld bara förvärrar.
 
