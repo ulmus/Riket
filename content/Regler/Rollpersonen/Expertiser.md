@@ -50,11 +50,11 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 - **Normal:** Förfalskningar av pass och stämplar (*Analys + List*).
 - **Svår:** Förfalska identitetshandlingar som klarar detaljkontroller (*Analys + List*).
 
-## Låssmed
+## Inbrottstjuv
 
-- **Lätt:** Dyrka enkla hänglås, bedöma lås och identifiera typ, tillverka enkel nyckelkopia med avtryck, avgöra om ett lås har manipulerats.
-- **Normal:** Dyrka eller koppla förbi lås och enkla larm (*List + Smidighet*).
-- **Svår:** Dyrka säkerhetsklassade lås (*List + Smidighet*), tyst öppning under tidspress.
+- **Lätt:** Dyrka enkla hänglås, bedöma ett lås och identifiera typ, tillverka enkel nyckelkopia med avtryck, avgöra om ett lås manipulerats, ta sig in genom en olåst eller dåligt säkrad öppning, röra sig ljudlöst inomhus.
+- **Normal:** Dyrka eller koppla förbi lås och enkla larm (*List + Smidighet*), ta sig obemärkt in i en bevakad byggnad och kartlägga dess rutiner (*List + Sinnen*).
+- **Svår:** Dyrka säkerhetsklassade lås och kassaskåp (*List + Smidighet*), genomföra ett tyst inbrott under tidspress eller pågående bevakning (*List + Smidighet*).
 
 ## Sappör
 
@@ -141,3 +141,35 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 - **Lätt:** Ställa frågor som får folk att prata, hitta och korsa källor, skriva snabbt och övertygande, känna igen en nyhet, navigera arkiv och register.
 - **Normal:** Intervjua och locka fram mer än någon tänkt säga (*Samspel + Sinnen*), gräva fram dolda samband (*Analys + List*).
 - **Svår:** Få en skygg eller skrämd källa att tala (*Samspel + Vilja*), pussla ihop en historia ur motsägelsefulla uppgifter under tidspress (*Analys + Sinnen*).
+
+## Präst
+
+- **Lätt:** Hålla andakt, ceremoni och själavård, ge tröst i sorg, ge sista smörjelsen, känna igen religiösa seder och symboler, röra sig självklart i kyrkliga miljöer och bland troende.
+- **Normal:** Tala mod och lugn i en pressad grupp (*Samspel + Vilja*), vinna en församlings eller en troendes förtroende (*Samspel + Sinnen*).
+- **Svår:** Tala någon tillbaka från panikens eller förtvivlans rand (*Samspel + Vilja*), nå fram till en förhärdad eller fientlig själ (*Samspel + Vilja*).
+
+## Professor
+
+En Professor väljer ett ämnesområde (till exempel historia, fysik, lingvistik eller statskunskap). Expertisen gäller inom det området; för fält långt utanför det gäller den inte.
+
+- **Lätt:** Redogöra för fakta inom sitt ämnesområde, läsa och tolka facklitteratur och äldre texter, navigera arkiv, bibliotek och den akademiska världen, känna igen kollegor och deras arbeten, hålla föreläsning.
+- **Normal:** Dra slutsatser och sätta in ett fynd i sitt sammanhang (*Analys + Sinnen*), bli erkänd som auktoritet och öppna dörrar i lärda kretsar (*List + Samspel*).
+- **Svår:** Lösa ett invecklat problem inom sitt fält under tidspress (*Analys + Vilja*), tyda fragmentariskt eller medvetet fördunklat material (*Analys + Sinnen*).
+
+## Diplomat
+
+- **Lätt:** Föra sig korrekt i formella sammanhang, behärska protokoll och etikett, inleda och hålla en artig förhandling, känna igen rang och rangordning, dämpa en spänd stämning.
+- **Normal:** Förhandla fram en uppgörelse eller en eftergift (*Samspel + Vilja*), läsa en motparts verkliga avsikter bakom artigheten (*Analys + Samspel*).
+- **Svår:** Förhandla under hot eller i ett låst läge (*Samspel + Vilja*), tala sig ur en diplomatisk kris utan att tappa ansiktet (*List + Samspel*).
+
+## Smugglare
+
+- **Lätt:** Känna till gränsövergångar och deras rutiner, dölja gods i fordon och bagage, bedöma en kontakts pålitlighet, sätta ett rimligt pris på svarta marknaden, packa en last så den inte väcker uppseende.
+- **Normal:** Föra gods eller människor förbi en kontroll (*List + Samspel*), ordna fram svåråtkomliga varor genom sina kontakter (*List + Samspel*).
+- **Svår:** Smuggla under skärpt bevakning eller razzia (*List + Smidighet*), pressa fram en passage när en kontakt sviker (*Samspel + Vilja*).
+
+## Fotograf
+
+- **Lätt:** Ta tekniskt korrekta bilder under normala förhållanden, hantera och ladda kameror diskret, framkalla film i mörkrum, bedöma ljus och avstånd, känna igen vad som är värt att dokumentera.
+- **Normal:** Fotografera dolt under spaning (*Sinnen + Smidighet*), framkalla och tolka bilder för att läsa ut detaljer (*Analys + Sinnen*).
+- **Svår:** Få fram en användbar bild under dåligt ljus, rörelse eller tidspress (*Sinnen + Smidighet*), dölja kameran och fotografera mitt under bevakning (*List + Smidighet*).

@@ -47,7 +47,7 @@ När morgonen kom var Anja borta. GRU letade fortfarande. Och Hedström ringde T
 - **Radar** – radiotekniker med radarsinne och förmåga att störa elektronik och nervsystem.
 - **Tjuren** – officer med övermänsklig styrka som inte kan stoppas.
 - **Silke** – maskör med feromoner som påverkar känslor och beteenden.
-- **Prisma** – låssmed som kontrollerar ljus för förvirring och distraktion.
+- **Prisma** – inbrottstjuv som kontrollerar ljus för förvirring och distraktion.
 - **Stigmata** – läkare med krafter att läka andra och dämpa stress.
 
 ## Tidslinje
@@ -874,7 +874,7 @@ Minst fyra av sju bör spelas ut:
 
 - **Diffraktion** gömmer Anja under förflyttning. GRU kan inte se henne.
 - **Synvilla** vilseleder GRU — en falsk Anja som leder dem fel.
-- Låssmed-expertis i tunnlarna — öppna låsta dörrar, hitta alternativa vägar.
+- Inbrottstjuv-expertis i tunnlarna — öppna låsta dörrar, hitta alternativa vägar.
 - Kan skapa ljusspel som fascinerar och lugnar Anja.
 
 ### Stigmata

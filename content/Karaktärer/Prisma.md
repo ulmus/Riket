@@ -17,7 +17,7 @@ cssclasses:
 | Strid | **2** | Stabilitet | 3 |
 | Vilja | **3** | Stress | ❏❏❏ ❏❏❏ ❏❏❏ |
 
-**Expertis:** Låssmed
+**Expertis:** Inbrottstjuv
 
 ![[content/Karaktärer/Bilder/Prisma.png|697]]
 
