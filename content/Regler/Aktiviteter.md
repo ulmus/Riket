@@ -1,8 +1,3 @@
----
-aliases:
-  - "Regler/Spelleda/Aktiviteter"
----
-
 # Aktiviteter
 
 Det finns många situationer som inte inbegriper strid, men som kräver regelstöd, ofta där flera personer samarbetar eller motarbetar varandra. Här är exempel på sådana aktiviteter:
