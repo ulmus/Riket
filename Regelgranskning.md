@@ -272,11 +272,15 @@ Det finns Chockslag för bakhåll och förmågan Överraskningsattack, samt Lät
 
 **Bör (luckor som spelare kommer att fråga om):**
 
-6. Tillståndssektion (2.1); umbärande-/drunkningsregler (2.2); rustnings-/utrustningstabell (2.3); ammunition/salvor (2.4); Momentum-återställning nedåt (2.5); Rörligt mål-formuleringen (1.7); hjälpregeln framgång/Effekt (1.9); Lätta slag och Fokus (1.10)
+1. Tillståndssektion (2.1)
+2. Umbärande- och drunkningsregler (2.2)
+3. Rustnings-/utrustningstabell (2.3) och ammunition/salvor (2.4)
+4. Momentum-återställning nedåt (2.5)
+5. Rörligt mål-formuleringen (1.7), hjälpregeln framgång/Effekt (1.9), Lätta slag och Fokus (1.10)
 
 **Före tryck (språk och struktur):**
 
-7. Språkfelen i 3.1–3.2, anakronismerna i 3.3
-8. Rätta balansguiden i Krafter (1.11), Fryspelare/Pulsstörare (1.12), Beröring→Bredvid (1.13)
-9. Flytta Aktiviteter, samla Fokus-reglerna, kapitelordning (4.2)
-10. Nya exempel: aktivitet, karaktärsskapande, kraftkonstruktion (4.3)
+1. Språkfelen i 3.1–3.2, anakronismerna i 3.3
+2. Rätta balansguiden i Krafter (1.11), Fryspelare/Pulsstörare (1.12), Beröring→Bredvid (1.13)
+3. Flytta Aktiviteter, samla Fokus-reglerna, kapitelordning (4.2)
+4. Nya exempel: aktivitet, karaktärsskapande, kraftkonstruktion (4.3)
