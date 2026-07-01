@@ -51,4 +51,4 @@ EP kan användas för att förbättra din rollperson på följande sätt:
 - **Lära en ny förmåga:** Kostar 2 EP för att lära sig en ny förmåga (kraven måste vara uppfyllda).
 - **Få en ny expertis:** Kostar 7 EP för att lägga till en ny expertis. Expertisens förmågor låses upp men köps som vanliga förmågor.
 
-Superkrafter kan inte förbättras med EP utan endast genom att utsättas för kraftfulla sammanbrott som fördjupar karaktärens trauma.
+**Krafter ligger utanför EP-systemet.** Du kan varken köpa nya krafter eller förbättra dina befintliga med EP. Nya och förstärkta krafter kommer bara ur **förvärrat trauma** — ett slag på 13+ på Sammanbrottstabellen, där traumat fördjupas permanent (se [[Trauma, chock och stress#Förstärkta krafter]]).
