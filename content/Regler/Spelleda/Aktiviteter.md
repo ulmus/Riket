@@ -61,28 +61,28 @@ Våra hjältar blir stoppade vid en sovjetisk vägspärr utanför Minsk.
 
 Längre aktiviteter spelas som en serie korta aktiviteter, men med skiftande huvudaktörer. Framgångarna samlas ihop tills de har uppnått en förutbestämd summa varvid scenen lyckas.
 
-Långa aktiviteter spelas i **varv**: ett varv är en omgång där alla inblandade hunnit agera. Hur lång tid ett varv tar beror på aktiviteten — minuter i ett förhör, sekunder i en jakt. (Ordet *runda* används bara om stridens rundor på ca fem sekunder.)
+Långa aktiviteter spelas i **omgångar**: en omgång är ett skede där alla inblandade hunnit agera. Hur lång tid en omgång tar beror på aktiviteten — minuter i ett förhör, sekunder i en jakt. (Ordet *runda* används bara om stridens rundor på ca fem sekunder.)
 
 ### Tidspress
 
-Ofta sker långa aktiviteter under tidspress. Ett visst antal framgångar ska samlas ihop på ett visst antal varv, annars sker vissa konsekvenser. Tidspressen kan uttryckas som en absolut gräns eller som konsekvenser som kommer gradvis när varven går.
+Ofta sker långa aktiviteter under tidspress. Ett visst antal framgångar ska samlas ihop på ett visst antal omgångar, annars sker vissa konsekvenser. Tidspressen kan uttryckas som en absolut gräns eller som konsekvenser som kommer gradvis när omgångarna går.
 
 #### Exempel: Förhör i Warszawa
 
 Våra hjältar ska förhöra en avhoppad KGB-officer på ett kafé i Warszawa. Men de vet att polisen när som helst kan dyka upp.
 
-- SL bestämmer att scenen kräver **10 framgångar**, men varje varv som går ökar risknivån.
+- SL bestämmer att scenen kräver **10 framgångar**, men varje omgång som går ökar risknivån.
 - Huvudaktören slår för **List + Samspel** för att vinna officerens förtroende. Biaktörer kan hjälpa genom att spana efter spanare (**Sinnen + Smidighet**) eller lugna kaféets ägare (**List + Samspel**).
-- Efter varje varv gör SL ett **”tidsslag”** för hotnivån. Ju fler varv som går, desto värre blir konsekvenserna:
-  - Varv 2: En misstänksam servitris börjar lyssna.
-  - Varv 4: Två civilklädda poliser kommer in och sätter sig.
-  - Varv 5: En polispatrull anländer till gatan utanför.
-  - Varv 6: Polispatrullen kommer in i kafét och ingriper.
+- Efter varje omgång gör SL ett **”tidsslag”** för hotnivån. Ju fler omgångar som går, desto värre blir konsekvenserna:
+  - Omgång 2: En misstänksam servitris börjar lyssna.
+  - Omgång 4: Två civilklädda poliser kommer in och sätter sig.
+  - Omgång 5: En polispatrull anländer till gatan utanför.
+  - Omgång 6: Polispatrullen kommer in i kafét och ingriper.
 - Om hjältarna samlar ihop 10 framgångar innan polisen ingriper får de ut all information. Om de dröjer för länge kan förhöret avbrytas och de måste improvisera flykt, tystande eller konfrontation.
 
 ### Kapplöpning
 
-En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett visst antal framgångar snabbast. Om båda når det specificerade antalet samtidigt så vinner den som nådde målet med mest **Effekt** (flest framgångar utöver det krävda antalet). Om även det är lika så fortsätter kapplöpningen tills någon har flest framgångar efter ett varv.
+En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett visst antal framgångar snabbast. Om båda når det specificerade antalet samtidigt så vinner den som nådde målet med mest **Effekt** (flest framgångar utöver det krävda antalet). Om även det är lika så fortsätter kapplöpningen tills någon har flest framgångar efter en omgång.
 
 #### Exempel: Kurirjakt i Leningrad
 

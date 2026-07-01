@@ -48,7 +48,7 @@ När du aktivt parerar en närstridsattack och får minst en Effekt på ditt fö
 
 *Krav:* Jujutsu
 
-Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att fälla motståndaren. En liggande motståndare har alla sina handlingar i strid ett steg svårare tills den står upp igen.
+Om du träffar med en obeväpnad attack så kan du spendera 1 Fokus för att fälla motståndaren. En liggande motståndare har närstrid, aktivt försvar och förflyttning ett steg svårare tills den står upp igen (se [[Strid och skada#Tillstånd]]).
 
 ### Fastlåsning
 

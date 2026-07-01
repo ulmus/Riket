@@ -34,7 +34,7 @@ Svårighetsgraden sätts av SL som en helhetsbedömning av situationen — inte 
 
 Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Lätt → Normal → Svår, Svår → Mycket Svår). **Mycket Svår** är taket — flera staplade avdrag kan aldrig driva svårigheten högre än så (3 framgångar), och en handling blir aldrig omöjlig enbart av att avdrag staplas. På motsvarande sätt är **Lätt** golvet: inget gör en handling lättare än att den lyckas automatiskt.
 
-En **Lätt** aktivitet lyckas alltid, men ett frivilligt slag kan tillåtas för att se hur bra det går — slaget kan ge **Effekt** (och i strid kritiska träffar), men **genererar aldrig Fokus**. Tolvor på ett Lätt slag ger alltså ingen Fokus.
+En **Lätt** aktivitet lyckas alltid, men ett frivilligt slag kan tillåtas för att se hur bra det går — slaget kan ge **Effekt**, och tolvor ger Fokus och kritiska träffar som på alla slag.
 
 ### Effekt
 
@@ -114,7 +114,7 @@ Fokus är en personlig resurs som återställs inför varje scen. Fokus används
 
 ### Komplikationer
 
-Om du använt Fokus för att lägga till tärningar till ett slag och någon av de tärningar som du lade till visar en etta så drabbas du av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. SL avgör vad det är för komplikation. Exempel:
+Om du använt Fokus för att lägga till tärningar till ett slag och någon av de tärningar som du lade till visar en etta så drabbas du av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. SL avgör vad det är för komplikation — visar flera tillagda tärningar ettor blir komplikationen värre för varje etta. Exempel:
 
 - Eldavbrott på ditt vapen — du måste lägga en handling och lyckas med Analys + Smidighet för att återställa vapnet.
 - Om ingen lämplig komplikation passar, ta en Stress.

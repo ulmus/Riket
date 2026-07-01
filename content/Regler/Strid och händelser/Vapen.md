@@ -58,7 +58,7 @@ Vid explosionen slungas splitter längre ut — skadevärdet börjar avta först
 | Automatkarbin     | Lång        |     4 |    4 | Skjutvapen | Automateld, Penetrerande |
 | Gevär             | Mycket lång |     5 |    2 | Skjutvapen | Penetrerande             |
 | Hagelgevär        | Kort        |     5 |    2 | Skjutvapen | Hagelsvärm               |
-| Kulspruta 6,5 mm  | Mycket lång |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
+| Kulspruta 6,5 mm  | Mycket lång |     5 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Kulspruta 7,62 mm | Mycket lång |     6 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Handgranat        | Kort        |     6 |    1 | Explosion  | Kastbart, Explosion, Splitter |
 

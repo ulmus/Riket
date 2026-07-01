@@ -16,9 +16,9 @@ Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Ter
 
 ## Vad är I Rikets Tjänst?
 
-**I Rikets Tjänst** är ett taktiskt superhjälte-rollspel med rötter i kalla krigets thrillers och guldålderns serietidningar. Som Legion of Super-Heroes om John le Carré hade skrivit manus.
+**I Rikets Tjänst** är ett rollspel där ni spelar trasiga superhjältar i kalla krigets Sverige. Spelet har sina rötter i kalla krigets thrillers och guldålderns serietidningar. Som Legion of Super-Heroes om John le Carré hade skrivit manus.
 
-Som spelare skapar du en hemlig agent med unika krafter och ett trasigt förflutet. Du utför uppdrag för Sveriges räkning: infiltrerar fientliga baser, motverkar utländska agenter, skyddar hemligheter som världen inte är redo för. Men du brottas också med dina egna demoner – de krafter som gör dig till ett vapen är samma krafter som hotar att förstöra dig.
+Som spelare skapar du en hemlig agent med unika krafter och ett komplicerat förflutet. Du utför uppdrag för Sveriges räkning: infiltrerar fientliga baser, motverkar utländska agenter, skyddar hemligheter som världen inte är redo för. Men du brottas också med dina egna demoner – de krafter som gör dig till ett vapen är samma krafter som hotar att förstöra dig.
 
 ## Vad du behöver veta
 

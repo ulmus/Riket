@@ -120,8 +120,8 @@ Utfallen på Sammanbrottstabellen (se [[Trauma, chock och stress#Sammanbrott]]):
 | **Biaktör** | Den som hjälper huvudaktören; framgångar ger bonustärningar |
 | **Motstånd** | Tävling mellan två huvudaktörer |
 | **Kapplöpning** | Två sidor tävlar om att nå ett antal framgångar först |
-| **Tidspress** | Begränsat antal varv för att samla framgångar |
-| **Varv** | En omgång i en lång aktivitet där alla inblandade hunnit agera; längden beror på aktiviteten |
+| **Tidspress** | Begränsat antal omgångar för att samla framgångar |
+| **Omgång** | Ett skede i en lång aktivitet där alla inblandade hunnit agera; längden beror på aktiviteten |
 
 ## Världen och organisationer
 

@@ -288,7 +288,7 @@ Vanliga tillstånd som effekter i spelet hänvisar till. Hur ett tillstånd upph
 
 - **Sårad** — Alla handlingar ett steg svårare (se [[#Sårad]]).
 - **Påverkad** — Alla handlingar ett steg svårare. Orsakas av smärta, droger, gift eller liknande; varaktigheten anges av effekten.
-- **Liggande** — Alla handlingar i strid ett steg svårare tills du står upp igen. Att resa sig är en handling. Du hamnar på marken av att väja, av vissa kritiska träffar och av förmågor som **Fällning**.
+- **Liggande** — Närstrid, aktivt försvar och förflyttning är ett steg svårare tills du står upp igen; avståndsattacker kan göras som vanligt — att skjuta liggande går utmärkt. Att resa sig är en handling. Du hamnar på marken av att väja, av vissa kritiska träffar och av förmågor som **Fällning**.
 - **Omtumlad** — Alla handlingar under nästa runda ett steg svårare.
 - **Fastlåst** — Kan inte förflytta sig eller använda tvåhandsvapen; bryter sig loss med *Fysik + Strid* mot motståndarens *Fysik + Strid* (en handling). Se förmågan **Fastlåsning**.
 - **Brinnande** — Tar skada med skadevärde 3 varje runda tills elden släcks (se [[Särskilda situationer#Eldskada]]).

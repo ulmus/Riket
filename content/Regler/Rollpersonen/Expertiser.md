@@ -4,7 +4,7 @@ En expertis karaktäriseras av att den **sänker svårigheten ett steg på aktiv
 
 ## Normal blir Lätt
 
-Eftersom expertis sänker svårigheten ett steg innebär det att **Normala** uppgifter inom ens område blir **Lätta** — karaktären lyckas automatiskt utan att slå. **Lätta** aktiviteter genererar aldrig Fokus. I vissa fall kan SL tillåta ett valfritt slag för att uppnå extra effekter, men karaktären lyckas automatiskt.
+Eftersom expertis sänker svårigheten ett steg innebär det att **Normala** uppgifter inom ens område blir **Lätta** — karaktären lyckas automatiskt utan att slå. I vissa fall kan SL tillåta ett valfritt slag för att uppnå extra effekter, men karaktären lyckas automatiskt.
 
 Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **med** expertisen. Utan expertis är varje aktivitet ett steg svårare.
 
