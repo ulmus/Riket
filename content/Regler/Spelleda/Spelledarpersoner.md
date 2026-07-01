@@ -361,7 +361,7 @@ Den tekniske eller vetenskaplige rådgivaren från [[Program Frigg (Sverige)|Pro
 
 - Analys 4, Vilja 3, Sinnen 2, Samspel 2, List 2, Fysik 1, Smidighet 1, Strid 1
 - **Tålighet:** 4, **Stabilitet:** 3
-- **Expertis:** Vetenskapsman, Läkare
+- **Expertis:** Professor (medicin), Läkare
 - **Förmågor:** Lugnande närvaro
 
 **Utrustning:** Signaturutrustning till rollpersonerna, mätinstrument och journaler.

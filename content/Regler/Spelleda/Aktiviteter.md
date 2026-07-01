@@ -61,26 +61,28 @@ Våra hjältar blir stoppade vid en sovjetisk vägspärr utanför Minsk.
 
 Längre aktiviteter spelas som en serie korta aktiviteter, men med skiftande huvudaktörer. Framgångarna samlas ihop tills de har uppnått en förutbestämd summa varvid scenen lyckas.
 
+Långa aktiviteter spelas i **varv**: ett varv är en omgång där alla inblandade hunnit agera. Hur lång tid ett varv tar beror på aktiviteten — minuter i ett förhör, sekunder i en jakt. (Ordet *runda* används bara om stridens rundor på ca fem sekunder.)
+
 ### Tidspress
 
-Ofta sker långa aktiviteter under tidspress. Ett visst antal framgångar ska samlas ihop på ett visst antal rundor, annars sker vissa konsekvenser. Tidspressen kan uttryckas som en absolut gräns eller som konsekvenser som kommer gradvis när rundorna går.
+Ofta sker långa aktiviteter under tidspress. Ett visst antal framgångar ska samlas ihop på ett visst antal varv, annars sker vissa konsekvenser. Tidspressen kan uttryckas som en absolut gräns eller som konsekvenser som kommer gradvis när varven går.
 
 #### Exempel: Förhör i Warszawa
 
 Våra hjältar ska förhöra en avhoppad KGB-officer på ett kafé i Warszawa. Men de vet att polisen när som helst kan dyka upp.
 
-- SL bestämmer att scenen kräver **10 framgångar**, men varje runda som går ökar risknivån.
+- SL bestämmer att scenen kräver **10 framgångar**, men varje varv som går ökar risknivån.
 - Huvudaktören slår för **List + Samspel** för att vinna officerens förtroende. Biaktörer kan hjälpa genom att spana efter spanare (**Sinnen + Smidighet**) eller lugna kaféets ägare (**List + Samspel**).
-- Efter varje runda gör SL ett **”tidsslag”** för hotnivån. Ju fler rundor som går, desto värre blir konsekvenserna:
-  - Runda 2: En misstänksam servitris börjar lyssna.
-  - Runda 4: Två civilklädda poliser kommer in och sätter sig.
-  - Runda 5: En polispatrull anländer till gatan utanför.
-  - Runda 6: Polispatrullen kommer in i kafét och ingriper
+- Efter varje varv gör SL ett **”tidsslag”** för hotnivån. Ju fler varv som går, desto värre blir konsekvenserna:
+  - Varv 2: En misstänksam servitris börjar lyssna.
+  - Varv 4: Två civilklädda poliser kommer in och sätter sig.
+  - Varv 5: En polispatrull anländer till gatan utanför.
+  - Varv 6: Polispatrullen kommer in i kafét och ingriper.
 - Om hjältarna samlar ihop 10 framgångar innan polisen ingriper får de ut all information. Om de dröjer för länge kan förhöret avbrytas och de måste improvisera flykt, tystande eller konfrontation.
 
 ### Kapplöpning
 
-En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett visst antal framgångar snabbast. Om båda når det specificerade antalet samtidigt så vinner den som nådde målet med mest **Effekt** (flest framgångar utöver det krävda antalet). Om även det är lika så fortsätter kapplöpningen tills någon har flest framgångar efter en runda.
+En alternativ tidspress är en kapplöpning, där två sidor försöker nå ett visst antal framgångar snabbast. Om båda når det specificerade antalet samtidigt så vinner den som nådde målet med mest **Effekt** (flest framgångar utöver det krävda antalet). Om även det är lika så fortsätter kapplöpningen tills någon har flest framgångar efter ett varv.
 
 #### Exempel: Kurirjakt i Leningrad
 
@@ -89,7 +91,7 @@ Våra hjältar jagar en kurir genom Leningrads hamn samtidigt som de försöker 
 - **Hjältarnas huvudaktör** slår för **Fysik + Smidighet**.
 - **Biaktörer** kan hjälpa genom att spana (**Sinnen + Smidighet**) eller distrahera (**Samspel + Smidighet**).
 - **Motståndets huvudaktör** (kuriren) slår för **Fysik + Smidighet**.
-- **Motståndets biaktörer** (St Petersburgs polis) kan hjälpa på olika sätt, t.ex. genom att blockera vägar eller varna kuriren.
+- **Motståndets biaktörer** (Leningrads milis) kan hjälpa på olika sätt, t.ex. genom att blockera vägar eller varna kuriren.
 - Scenen börjar på öppen gata, men växlar sedan till en båt, där det blir **Fysik + Smidighet** för att ta sig fram i de trånga utrymmena.
 - Om hjältarna får tio framgångar först så fångar de kuriren. Om kuriren når målet först lyckas hon undkomma i Leningrads gränder.
 
@@ -106,7 +108,7 @@ Diskreta informationsinsatser: följa mål, kartlägga vanor, hitta ledtrådar o
 | Skugga en person      | Hålla diskret avstånd i stadstrafik eller fot     | Sinnen + Smidighet  |
 | Motspaning            | Upptäcka spanare, bryta mönster, “rensa svansen”  | List + Sinnen       |
 | Undersöka brottsplats | Systematisk genomsökning; gör anteckningar, foton | Analys + Sinnen     |
-| Spana från gömsle     | Långvarig observation med kikare/kamera           | Samspel + Sinnen    |
+| Spana från gömsle     | Långvarig observation med kikare/kamera           | Vilja + Sinnen      |
 | Genomsöka rum         | Snabb men metodisk “svepning” efter gömda ting    | Analys + Sinnen     |
 | Läsa läppar           | Avståndsobservation av samtal                     | Analys + Sinnen     |
 | Foto-dokumentation    | Ta användbara, skarpa bevisbilder                 | Sinnen + Smidighet  |
@@ -119,7 +121,7 @@ Att ta sig in där man inte ska vara: smyga, dyrka, maskera sig, hantera larm oc
 | Aktivitet                | Beskrivning/kommentar                       | Egenskap + Egenskap   |
 | ------------------------ | ------------------------------------------- | --------------------- |
 | Smyga förbi vakt         | Ljuddisciplin, timing och rörelsekontroll   | List + Smidighet      |
-| Dyrka lås                | Klassisk pickning eller förbikoppling     | List + Smidighet      |
+| Dyrka lås                | Klassisk dyrkning eller förbikoppling     | List + Smidighet      |
 | Lokalisera sensorer      | Hitta fotoceller, tryckmattor, vibration    | Analys + Sinnen       |
 | Koppla förbi larm        | Koppla förbi krets, tillfällig förbikoppling      | Analys + Smidighet    |
 | Förklädnad & uppträdande | Kläder, kroppsspråk, plausibel täckhistoria | List + Samspel        |
@@ -136,7 +138,7 @@ Att vinna förtroende, bluffa sig igenom spärrar eller pressa fram sanning – 
 | Förhöra taktiskt             | Bygga förtroende, styra samtalet, mikropauser | List + Samspel      |
 | Bluffa vid vägspärr          | Papper, tonfall, självklarhet                 | List + Samspel      |
 | Skaka motparten              | Kall blick, tystnad, psykologisk press        | Samspel + Vilja     |
-| Få folk att prata            | Småprat, social ingång, “openers”             | List + Samspel      |
+| Få folk att prata            | Småprat, social ingång, samtalsöppnare        | List + Samspel      |
 | Avläsa lögner                | Mikroreaktioner, inkonsekvenser               | Samspel + Sinnen    |
 | Hålla samman gruppen         | Korta order, moral, förtroende                | Samspel + Vilja     |
 | Förfalska identitet på plats | Snabba svar på kontrollfrågor                 | List + Samspel      |
@@ -182,7 +184,7 @@ Att skapa eller förstöra: sprängmedel, elektronik, finmekanik och improvisati
 | Bygga/rigga radio      | Antenn, jordning, störningar        | Analys + Smidighet  |
 | Telefonavlyssning      | Krimpa, parallellkoppla, dölja spår | Analys + Smidighet  |
 | Fotolabb i fält        | Framkalla, förstora, beviskedja     | Analys + Smidighet  |
-| Verktygsimprovisation  | MacGyver-lösning av reservdel       | Analys + List       |
+| Verktygsimprovisation  | Improviserad lösning av reservdel   | Analys + List       |
 
 ## Vård, överlevnad & logistik
 

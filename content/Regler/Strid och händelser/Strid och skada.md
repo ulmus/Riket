@@ -2,7 +2,9 @@
 
 ## Initiativ
 
-Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt värde på Strid. Detta blir deras initiativ under hela striden. Striden delas upp i rundor om ca fem sekunder och i varje runda börjar den som har högst initiativ att ta sin tur och därefter går turen vidare i fallande ordning.
+Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt värde på Strid. Detta blir deras initiativ under hela striden. Striden delas upp i rundor om ca fem sekunder och i varje runda börjar den som har högst initiativ att ta sin tur och därefter går turen vidare i fallande ordning. Vid lika initiativ agerar den med högst Strid först; är även det lika avgör ett omslag av 1T12.
+
+**Överraskning:** Den som överraskas — av ett bakhåll eller en attack den inte sett komma — agerar inte under stridens första runda och kan inte försvara sig aktivt förrän den har agerat. Attacker mot ett helt omedvetet mål kan dessutom vara **Lätta** (se [[#Avståndsattacker]]).
 
 ## Zoner
 
@@ -224,7 +226,7 @@ Döende har **två grader** som avgör hur snabbt det går. De bildar en stege:
 KP-chock gör dig **Akut döende** — ett så våldsamt trauma är akut. Kritiska träffar anger själva vilken grad de ger.
 
 - **Förvärras (uppåt på stegen):** Blir du döende en gång till medan du redan är det — av en ny kritisk träff, ny KP-chock eller ett **misslyckat Överlevnadsslag** — kliver du upp ett steg. Är du redan **Akut döende** och förvärras så **dör du**. Du har alltid bara *en* grad; det finns inga parallella döende-tillstånd att hålla reda på.
-- **Förbättras (nedåt på stegen):** Lyckad **behandling** kliver ner dig ett steg — **Akut döende → Döende → Stabil** (se *Stabilisering* nedan).
+- **Förbättras (nedåt på stegen):** Lyckad **behandling** kliver ner dig ett steg per framgång — **Akut döende → Döende → Stabil** (se *Stabilisering* nedan).
 
 ### Överlevnadsslag
 
@@ -239,8 +241,12 @@ Så länge du är döende slår du **Överlevnadsslag** (*Fysik + Vilja*, Normal
 
 En annan person stabiliserar dig genom att behandla det som gör dig döende:
 
-- **Slag:** Den vårdtyp och svårighet som den kritiska träffens rad anger (t.ex. **Kirurgi (Mycket Svår)**). För döende av ren KP-chock, utan angiven rad, används **Medicin** (*Analys + Sinnen*, Normal).
-- **Varje framgång tar ner dig ett steg** på stegen (**Akut döende → Döende → Stabil**). **Effekt** (överskjutande framgångar) kan kliva ner ytterligare steg — en riktigt skicklig insats kan ta dig från Akut döende till stabil på ett enda slag.
+- **Slag:** Den vårdtyp och svårighet som den kritiska träffens rad anger (t.ex. **Kirurgi (Mycket Svår)**). För döende av ren KP-chock, utan angiven rad, används **Medicin** (*Analys + Sinnen*, Normal). Utan relevant expertis är slaget som vanligt ett steg svårare.
+- **Behandlingen måste klara svårigheten för att verka.** Misslyckas slaget händer ingenting — patienten fortsätter slå Överlevnadsslag.
+- **Lyckas slaget är skadan behandlad:** blödning som den kritiska träffen orsakat stoppas, och patienten kliver ner **ett steg per framgång på slaget** (**Akut döende → Döende → Stabil**). En riktigt skicklig insats kan alltså ta dig från Akut döende till Stabil på ett enda slag.
+
+    *Exempel: En Artärträff (Kirurgi, Svår) behandlas i fält av en läkare som slår tre framgångar. Två framgångar krävdes för att klara Svår — behandlingen lyckas, blödningen stoppas och patienten kliver tre steg: från Akut döende hela vägen till Stabil (med ett steg till godo).*
+
 - **Tid och återförsök:** Första försöket tar **en minut**, ett andra försök på samma patient tar **en timme**. Fler försök än så kräver **förbättrade förutsättningar** — bättre utrustning, mer tid eller en stabilare patient. I praktiken kan man därför bara under **sjukhusformer** fortsätta slå om tills det lyckas; i fält får du ett par försök, sedan måste något förändras.
 
 När du har blivit **stabil** är du inte längre döende och slutar slå Överlevnadsslag. Du är potentiellt fortfarande Medvetslös eller Sårad och KP-skada och eventuella **Permanent**-effekter består.
@@ -276,11 +282,25 @@ Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en st
 
 Se [[Läkning & vård]] för mer information.
 
+## Tillstånd
+
+Vanliga tillstånd som effekter i spelet hänvisar till. Hur ett tillstånd upphör anges av det som orsakade det, om inget annat sägs nedan.
+
+- **Sårad** — Alla handlingar ett steg svårare (se [[#Sårad]]).
+- **Påverkad** — Alla handlingar ett steg svårare. Orsakas av smärta, droger, gift eller liknande; varaktigheten anges av effekten.
+- **Liggande** — Alla handlingar i strid ett steg svårare tills du står upp igen. Att resa sig är en handling. Du hamnar på marken av att väja, av vissa kritiska träffar och av förmågor som **Fällning**.
+- **Omtumlad** — Alla handlingar under nästa runda ett steg svårare.
+- **Fastlåst** — Kan inte förflytta sig eller använda tvåhandsvapen; bryter sig loss med *Fysik + Strid* mot motståndarens *Fysik + Strid* (en handling). Se förmågan **Fastlåsning**.
+- **Brinnande** — Tar skada med skadevärde 3 varje runda tills elden släcks (se [[Särskilda situationer#Eldskada]]).
+- **Medvetslös**, **Döende**, **Akut döende** — se [[#Medvetslös]] och [[#Döende]].
+
+Som alltid är **Mycket Svår** taket: flera tillstånd kan inte driva svårigheten högre än så (se [[Grundregler#Svårighetsgrader]]).
+
 ## Sammanfattning
 
 1. **Träff?** Räkna framgångar (10+) på attackslaget.
 2. **Räkna skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0).
-3. **Applicera skada:** Uppdatera KP, kolla trösklar (Sårad/Medvetslös/Döende).
+3. **Applicera skada:** Uppdatera KP, kontrollera trösklarna (Sårad/Medvetslös/Döende).
 4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
 
 ### Läkning
@@ -305,6 +325,6 @@ Om å andra sidan målet är helt ovetande om attacken, till exempel från en kr
 
 Se alltså till att röra dig, hålla dig i skydd och gärna överraska fienden. Och ge dig inte in i närstrid, för då försvinner de här chanserna och det är bara din förmåga att värja dig som räddar dig från attackerna.
 
-Slutligen, Stress och Sammanbrott är en integral del av strid. Alla som inte är stridstränade slår Chockslag i början av en strid. Dessutom tar alla stress när de blir skadade och slår Chockslag när de ser allierade dö, när de försöker skjuta tillbaka mot nedhållande eld, etc.
+Slutligen, Stress och Sammanbrott är en central del av strid. Alla som inte är stridstränade slår Chockslag i början av en strid. Dessutom tar alla stress när de blir skadade och slår Chockslag när de ser allierade dö, när de försöker skjuta tillbaka mot nedhållande eld, etc.
 
 För ett utförligt exempel. se [[Stridsexempel]].

@@ -82,8 +82,8 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 
 ## Förhörsledare
 
-- **Lätt:** Genomföra rutinmässigt förhör med samarbetsvillig person, bygga grundläggande rapport, identifiera uppenbara lögner eller nervositet, planera förhörsstrategi.
-- **Normal:** Taktiska förhör med rapportbyggande och frågeteknik (*List + Samspel*).
+- **Lätt:** Genomföra rutinmässigt förhör med samarbetsvillig person, bygga grundläggande förtroende, identifiera uppenbara lögner eller nervositet, planera förhörsstrategi.
+- **Normal:** Taktiska förhör med förtroendebyggande och frågeteknik (*List + Samspel*).
 - **Svår:** Förhöra taktiskt i känsliga eller farliga situationer (*List + Samspel*).
 
 ## Officer
@@ -91,6 +91,8 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 - **Lätt:** Planera enkel insats, fördela uppgifter i gruppen, upprätta grundläggande signaler och mötesplatser, hålla sammanfattande genomgång.
 - **Normal:** Leda i pågående strid med ordrar och elddisciplin (*Samspel + Strid*).
 - **Svår:** Leda under press i samordnad strid eller reträtt (*Samspel + Strid*).
+
+*En Officer räknas som stridstränad (se [[Trauma, chock och stress#Chock]]).*
 
 ## Chaufför
 
@@ -122,7 +124,7 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 - **Normal:** Understödseld och eldgivning med automatvapen (*Sinnen + Strid*), hålla ställningen under beskjutning (*Strid + Vilja*).
 - **Svår:** Strid i numerärt underläge, husrensning eller eldgivning under svåra förhållanden (*Sinnen + Strid*).
 
-*En Soldat räknas som stridstränad och tar därför lägre Chock i eldstrid (se [[Trauma, chock och stress#Chock]]).*
+*En Soldat räknas som stridstränad (se [[Trauma, chock och stress#Chock]]).*
 
 ## Polis
 
@@ -161,6 +163,12 @@ En Professor väljer ett ämnesområde (till exempel historia, fysik, lingvistik
 - **Lätt:** Föra sig korrekt i formella sammanhang, behärska protokoll och etikett, inleda och hålla en artig förhandling, känna igen rang och rangordning, dämpa en spänd stämning.
 - **Normal:** Förhandla fram en uppgörelse eller en eftergift (*Samspel + Vilja*), läsa en motparts verkliga avsikter bakom artigheten (*Analys + Samspel*).
 - **Svår:** Förhandla under hot eller i ett låst läge (*Samspel + Vilja*), tala sig ur en diplomatisk kris utan att tappa ansiktet (*List + Samspel*).
+
+## Byråkrat
+
+- **Lätt:** Navigera myndighetsrutiner och tjänstevägar, veta vilken blankett eller instans som gäller, upprätta korrekta handlingar, känna igen ett dokument som inte följer formen.
+- **Normal:** Få fram en handling eller ett beslut snabbare än kön (*Analys + Samspel*), hitta kryphål i ett regelverk (*Analys + List*).
+- **Svår:** Driva igenom ett ärende mot en ovillig förvaltning (*Samspel + Vilja*), begrava något i pappersexercis utan att lämna spår (*Analys + List*).
 
 ## Smugglare
 

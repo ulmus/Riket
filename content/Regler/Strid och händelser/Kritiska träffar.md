@@ -13,7 +13,7 @@ Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 f
 ## Allmänna regler
 
 - **Omedelbar död (rad 15+):** Den drabbade dör direkt. Fokus, Stress eller kraftaktivering kan inte rädda dig från en rad 15+-effekt.
-- **Döende har två grader:** **Döende** (Överlevnadsslag per timme) och **Akut döende** (per minut). Blir du döende en gång till medan du redan är det — av en ny kritisk träff, KP-chock eller ett misslyckat Överlevnadsslag — kliver du upp ett steg (**Döende → Akut döende → Död**). Lyckad behandling kliver ner ett steg. Se [[Strid och skada#Döende]].
+- **Döende har två grader:** **Döende** (Överlevnadsslag per timme) och **Akut döende** (per minut). Blir du döende en gång till medan du redan är det — av en ny kritisk träff, KP-chock eller ett misslyckat Överlevnadsslag — kliver du upp ett steg (**Döende → Akut döende → Död**). Lyckad behandling kliver ner ett steg per framgång. Se [[Strid och skada#Döende]].
 - **Stabilisering raderar inte permanenta effekter.** När du överlever en kritisk träff med en angiven **Permanent**-effekt så är effekten bestående även efter stabilisering. Rehabilitering (se [[Läkning & vård#Permanenta skador]]) kan delvis minska avdraget.
 - **Penetrerande:** Vapenegenskapen ger **+2** till krit-slaget.
 
@@ -80,7 +80,7 @@ Knivar, spjut, pilar — vapen som penetrerar djupt.
 | 10  | **Njurträff.** Extremt smärtsamt. **Kraftig blödning**. Behandlas med Kirurgi (**Svår**). Ta **2 Stress**.                                                                                                                 |
 | 11  | **Stucken i magen.** **Kraftig blödning**. Fysik-slag är minst **Svåra**. **Döende** om obehandlad. Behandlas med Kirurgi (**Svår**).                                                           |
 | 12  | **Artärblödning.** **Kraftig blödning**. **Akut döende** tills blödningen stoppas (Kirurgi, **Svår**). Om du överlever: **Permanent:** −1 på Fysik.                                                  |
-| 13  | **Genomstucket hjärtsäck.** **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) i fält. Om du överlever: **Permanent:** −2 på Fysik.                                                            |
+| 13  | **Genomstucken hjärtsäck.** **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) i fält. Om du överlever: **Permanent:** −2 på Fysik.                                                            |
 | 14  | **Genomstucken halspulsåder.** **Kraftig blödning**. **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) på sjukhus. Om du överlever: **Permanent:** −2 på Fysik och −2 på Analys (hjärnskada). |
 | 15+ | **Stucken genom hjärtat.** Du dör omedelbart.                                                                                                                                                                              |
 
@@ -101,7 +101,7 @@ Svärd, yxor, machetes — skärande vapen med kraft bakom.
 | 9   | **Punktering av bukhåla.** **Kraftig blödning** och inre blödning. Fysik-slag är minst **Mycket Svåra** tills behandlad (Kirurgi, **Svår**). **Läketid:** 1T12 veckor.                                                             |
 | 10  | **Svårt skadad kroppsdel.** Slå 1T12 för kroppsdel: 1–3 vänster arm, 4–6 höger arm, 7–9 vänster ben, 10–12 höger ben. Kroppsdelen obrukbar. **Kraftig blödning**. Behandlas med Kirurgi (**Svår**). **Läketid:** 1T12 månader.     |
 | 11  | **Djupt brösthugg med organskada.** **Kraftig blödning**. Alla slag är minst **Mycket Svåra**. **Döende**. Behandlas med Kirurgi (**Mycket Svår**).                                                     |
-| 12  | **Ben avhugget.** Slå 1T12: 1–6 vänster, 7–12 höger ben. Du faller. Kan inte gå. **Kraftig blödning**. **Akut döende**. Benet är permanent förlorat.                                                         |
+| 12  | **Ben avhugget.** Slå 1T12: 1–6 vänster, 7–12 höger ben. Du faller. Kan inte gå. **Kraftig blödning**. **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) i fält. Benet är permanent förlorat. **Permanent:** −2 på Smidighet. |
 | 13  | **Arm avhuggen.** Slå 1T12: 1–6 vänster, 7–12 höger arm. **Kraftig blödning**. **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) i fält. Armen är permanent förlorad. **Permanent:** −2 på Smidighet. |
 | 14  | **Klyvning av bröstkorgen.** Inre organ skärs sönder. **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) på sjukhus. Om du överlever: **Permanent:** −3 på Fysik.                                      |
 | 15+ | **Avhugget huvud/halshugg.** Du dör omedelbart.                                                                                                                                                                                    |
@@ -134,7 +134,7 @@ Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Pene
 
 | T12 | Utfall                                                                                                                                                                                                                                                  |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | **Rikoschett.** Splitskada. Ta **1 Stress**.                                                                                                                                                                                                            |
+| 1   | **Rikoschett.** Splitterskada. Ta **1 Stress**.                                                                                                                                                                                                            |
 | 2   | **Genomskott i mjukvävnad.** **Lätt blödning** tills behandlad (Medicin).                                                                                                                                                                               |
 | 3   | **Skottsår i lem.** Slå 1T12 för kroppsdel: 1–3 vänster arm, 4–6 höger arm, 7–9 vänster ben, 10–12 höger ben. Slag med den drabbade lemmen är minst **Svåra**, och träffades ett ben är ditt förflyttnings-slag ett steg svårare. **Lätt blödning** tills behandlad (Medicin). |
 | 4   | **Splitter från benträff.** En kula har splittrat bröstbenet eller revben. Fysik-slag är minst **Svåra** tills behandlad (Kirurgi, **Svår**). **Lätt blödning**. **Läketid:** 1T12 veckor.                                                              |
@@ -145,7 +145,7 @@ Pistoler, gevär, kulsprutor och övriga skjutvapen. Vapen med egenskapen **Pene
 | 9   | **Lungskott.** Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. **Kraftig blödning**. Behandlas med Kirurgi (**Svår**). **Läketid:** 1T12 veckor.                                                        |
 | 10  | **Njurskott.** **Kraftig blödning**. Behandlas med Kirurgi (**Svår**). Ta **2 Stress**.                                                                                                                                                                 |
 | 11  | **Lungskott — kollapsad lunga.** Du kan inte både handla och förflytta dig samma runda, och dina handlingar är ett steg svårare. **Kraftig blödning**. **Döende**. Behandlas med Kirurgi (**Mycket Svår**).                  |
-| 12  | **Artärträff.** **Kraftig blödning**. **Akut döende**. Om du överlever: **Permanent:** −1 på Fysik.                                                                                                                               |
+| 12  | **Artärträff.** **Kraftig blödning**. **Akut döende**. Behandlas med Kirurgi (**Svår**). Om du överlever: **Permanent:** −1 på Fysik.                                                                                             |
 | 13  | **Hjärtskott.** **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) i fält. **Permanent:** −2 på Fysik.                                                                                                                      |
 | 14  | **Ryggradsskott.** **Akut döende**. Behandlas med Kirurgi (**Mycket Svår**) på sjukhus. **Permanent:** Förlamning från träffpunkten och nedåt.                                                                                    |
 | 15+ | **Huvudskott.** Du dör omedelbart.                                                                                                                                                                                                                      |
@@ -192,7 +192,7 @@ Toxiner, droger, kemiska ämnen.
 | 12  | **Hjärtarytmi.** **Akut döende**. Behandlas med Medicin (**Mycket Svår**), kräver motgift för att stabiliseras. Ta **2 Stress**.                          |
 | 13  | **Neurologisk skada.** Slår ut nervsystemet. **Akut döende**. Behandlas med Medicin (**Mycket Svår**) i fält. Om du överlever: **Permanent:** −1 på Smidighet. |
 | 14  | **Systemisk kollaps.** **Akut döende** (kräver motgift för att stabiliseras). Behandlas med Medicin (**Mycket Svår**) på sjukhus. Om du överlever: **Permanent:** −1 på Fysik. |
-| 15+ | **Dödlig gift.** Du dör omedelbart.                                                                                                                                             |
+| 15+ | **Dödligt gift.** Du dör omedelbart.                                                                                                                                             |
 
 ## Strålning
 
@@ -202,7 +202,7 @@ Strålsjuka, radioaktiv exponering. Effekter på rad 10+ ökar **Strålningsdose
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1   | **Illamående.** Ta **1 Stress**.                                                                                                                                                                                  |
 | 2   | **Svaghet.** Fysik-slag är minst **Svåra** under 1T12 dagar.                                                                                                                                                      |
-| 3   | **Kräkningar.** Du förlorar 1 Stress. Allt du försöker äta eller dricka kommer upp igen under det kommande dygnet.                                                                                                |
+| 3   | **Kräkningar.** Ta **1 Stress**. Allt du försöker äta eller dricka kommer upp igen under det kommande dygnet.                                                                                                |
 | 4   | **Hudutslag.** Röda, brännskadeliknande utslag. Smidighet-slag är minst **Svåra** under 1T12 dagar.                                                                                                               |
 | 5   | **Håravfall.** Håret faller av i tussar. Ta **2 Stress**.                                                                                                                                                         |
 | 6   | **Feber.** Immunförsvaret reagerar. Alla slag är minst **Svåra** under 1T12 dagar.                                                                                                                                |

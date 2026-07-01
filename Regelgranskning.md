@@ -12,6 +12,12 @@ Regelverket är i grunden starkt: mekaniken är enhetlig (Egenskap + Egenskap i 
 4. **Språktvätt** — ett dussin konkreta fel (bl.a. "bygga rapport", "Du förlorar 1 Stress", felräknat sömnmedelsexempel) plus några anakronismer (5,56 mm-kulspruta och miljonprogramshus 1961).
 5. **Omstrukturera lätt** — samla Fokus/Stress-reglerna, flytta [[Aktiviteter]] till kärnreglerna, och lägg en tillstånds- och utrustningssida.
 
+## Status
+
+**Åtgärdat i denna gren:** samtliga punkter under *1. Regelmotsägelser* (1.1–1.18), luckorna 2.1–2.5 samt de snabba punkterna i 2.7 (initiativ vid lika, överraskning, EP/språk, EP-expertisköp, Förslag-motståndet, Läkning-formuleringarna), och språkpunkterna 3.1–3.4. Kanoniska val som gjordes: automateld ger Chockfaktor +1 (grundfaktor 1 → 2); *stridstränad* = förmågan Stridsträning eller expertisen Soldat/Officer; behandling av döende måste klara radens svårighet och kliver då ner ett steg per framgång (blödningen stoppas på köpet); hjälp ger +1 tärning per framgång; Lätta slag ger Effekt och kritiska träffar men aldrig Fokus; Stress-ventilen gäller bara när Fokus inte räcker; långa aktiviteter räknas i *varv*, inte rundor.
+
+**Återstår (redaktionella beslut):** omklassificera Förflyttning (bort från "sekundära egenskaper" — kräver även ändring i AGENTS.md och rollformuläret), flytta Aktiviteter-sidan till kärnreglerna (ändrar publicerad URL), kapitelordning för tryck (4.2), tillåta/förbjuda en andra superegenskap via EP (2.7), samt de nya exempelkapitlen (4.3).
+
 ---
 
 ## 1. Regelmotsägelser och buggar

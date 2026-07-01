@@ -94,7 +94,7 @@ I början av rundan tickar Radars **Kraftiga blödning**: han förlorar **1 KP**
 
 **Silke** får äntligen lugn att arbeta. Artärträffen kräver **Kirurgi** (*Analys + Smidighet*, **Svår**) för att stoppas. Silke är **Maskör**, inte kirurg, så utan rätt expertis blir slaget **ett steg svårare** — **Mycket Svårt** (tre framgångar). Med Tjurens **Fältförband** (+2) blir hennes pool *Analys 2 + Smidighet 2* +2 = 6 tärningar. Hon slår 11, 10, 8, 7, 4, 2 → bara två framgångar, en kort. Hon spenderar **1 Fokus** för att lägga till en tärning: den visar **12** → tredje framgången (och 1 Fokus tillbaka; hade den extra tärningen visat en etta hade det i stället blivit en **komplikation**).
 
-Tre framgångar räcker till **Mycket Svårt**. Den **Kraftiga blödningen** stoppas (Kraftig → Lätt → Inget) och med marginalen klättrar Radar **nedför döende-stegen** till **Stabil**. Han är räddad — men fortfarande **Sårad**, fortfarande på 10 KP, och den **Permanenta** skadan består: −1 Fysik följer med honom ut ur magasinet. *(Stabilisering räddar livet, men reparerar inte allt som redan skett.)*
+Tre framgångar klarar **Mycket Svårt** — behandlingen lyckas. Artärträffens **Kraftiga blödning** stoppas, och Radar kliver **ett steg nedför döende-stegen per framgång på slaget**: tre steg, när två räcker, tar honom från **Akut döende** hela vägen till **Stabil**. Han är räddad — men fortfarande **Sårad**, fortfarande på 10 KP, och den **Permanenta** skadan består: −1 Fysik följer med honom ut ur magasinet. *(Stabilisering räddar livet, men reparerar inte allt som redan skett.)*
 
 ## Efterspel
 

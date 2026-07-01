@@ -54,7 +54,7 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 
 ## Stress
 
-**Stress** är ett mått på din rollpersons psykiska belastning. Du tar Stress när du utsätts för traumatiska händelser. Du kan också ta Stress istället för att spendera Fokus vid slag för egenskaper eller för att använda krafter. När du har tagit mer Stress än din **Stabilitet** riskerar du ett Sammanbrott (se nedan).
+**Stress** är ett mått på din rollpersons psykiska belastning. Du tar Stress när du utsätts för traumatiska händelser. Om ditt Fokus inte räcker kan du också ta Stress i stället för att spendera Fokus — högst lika många som din Stabilitet per tillfälle (se [[Grundregler#Stress istället för Fokus]]). När du har tagit mer Stress än din **Stabilitet** riskerar du ett Sammanbrott (se nedan).
 
 ## Återhämtning – minska Stress
 
@@ -79,11 +79,13 @@ När något skrämmande eller chockartat inträffar: slå ett **Chockslag, Vilja
 
 **Chockfaktor** sätts av SL utifrån händelsen och är normalt 1–4; för varje framgång på Chockslaget minskar den ett steg. Om det som Chockslaget avser tangerar ditt Trauma ökar Chockfaktorn med +1. För varje kvarvarande nivå av Chockfaktor tar karaktären en poäng Stress.
 
+**Stridstränad:** Den som har förmågan [[Förmågor#Stridsträning|Stridsträning]] eller någon av expertiserna **Soldat** eller **Officer** räknas som *stridstränad*. En stridstränad person slår inte Chockslag när en strid inleds och har ett steg lägre Chockfaktor för stridsrelaterade händelser — eldstrid, beskjutning, stupade kamrater i strid.
+
 *Exempel:*
 
 - **Eldstrid** - *Strid + Vilja*, Chock **1** (0 om du är stridstränad)
 - **Bakhåll** – *Strid + Vilja*, Chock **2**
-- **Skjuta tillbaka mot nedhållande eld** – Strid + Vilja, Chock **1** (3 om automateld)
+- **Skjuta tillbaka mot nedhållande eld** – *Strid + Vilja*, Chock **1** (2 om automateld; se [[Strid och skada#Skjuta tillbaka mot nedhållande eld]])
 - **Panik i din närhet** – *Vilja + Vilja*, Chock **1**
 - **Någon dör i strid** – *Strid + Vilja*, Chock **2** (*1 om du är stridstränad*)
 - **Någon dör utanför strid** – *Vilja + Vilja*, Chock **3**
@@ -98,7 +100,7 @@ Varje gång du tar Stress och din **totala Stress passerar en sammanbrottsgräns
 |      Slag | Utfall                                                                                                                                                                                                                                      |
 | --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   **1–2** | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                                                                                |
-|   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |
+|   **3–4** | Du klarar av det – den här gången.                                                                                                                                                                                                          |
 |     **5** | **Skakad** – Du rycker till av rädsla och **missar din nästa runda**.                                                                                                                                                                       |
 |     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som din handling.                                                               |
 |     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chockslag (Vilja + Vilja, Chockfaktor 1)**.                               |
@@ -113,7 +115,7 @@ När du slår 13+ på Sammanbrottstabellen fördjupas ditt trauma permanent. Vä
 
 ### Förstärkta krafter
 
-Ditt förvärrade trauma leder också till att dina krafter förstärks. Arbeta med SL för att ta fram en ny kraft eller förstärka en som du redan har. Kraften kan med fördel vara kopplad till den händelse som utlöste sammanbrottet och måste, precis som övriga krafter, vara kopplat till ditt trauma.
+Ditt förvärrade trauma leder också till att dina krafter förstärks. Arbeta med SL för att ta fram en ny kraft eller förstärka en som du redan har. Kraften kan med fördel vara kopplad till den händelse som utlöste sammanbrottet och måste, precis som övriga krafter, vara kopplad till ditt trauma.
 
 ### Förlust – Fixering
 

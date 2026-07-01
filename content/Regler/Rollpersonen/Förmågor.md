@@ -30,7 +30,7 @@ Du kan använda *Smidighet + Strid* för obeväpnade närstridsattacker och får
 
 *Krav:* Fäktning, Slagsmål eller Jujutsu
 
-När du attackerar kan du inleda med en fint som en del av handlingen. Spendera en fokus för att tvinga målet ta din följande attack passivt — det kan inte väja eller parera mot den (se [[Strid och skada#Försvar]]).
+När du attackerar kan du inleda med en fint som en del av handlingen. Spendera 1 Fokus för att tvinga målet att ta din följande attack passivt — det kan inte väja eller parera mot den (se [[Strid och skada#Försvar]]).
 
 ### Blockad
 
@@ -80,7 +80,7 @@ Du är tränad i att kontrollera automateld med precision. Du kan använda *Fysi
 
 *Krav:* Automatsalva
 
-Du skjuter täckande eld som hindrar fienden från att förflytta sig. Som din handling och 1 Fokus kan du lägga täckande eld över en zon som varar till din nästa tur. Fiender som rör sig in i eller igenom zonen måste slå ett Chockslag med Chockfaktor 3 (2 om de är stridstränade) och får automatiskt en attack med en framgång riktad mot sig. De tar vapnets normala skada om de inte aktivt försvarar sig (1 Fokus, *Smidighet + Strid*) med minst en framgång.
+Du skjuter täckande eld som hindrar fienden från att förflytta sig. Som din handling och 1 Fokus kan du lägga täckande eld över en zon som varar till din nästa tur. Fiender som rör sig in i eller igenom zonen måste slå ett Chockslag med Chockfaktor 2 (1 om de är stridstränade — se [[Trauma, chock och stress#Chock]]) och får automatiskt en attack med en framgång riktad mot sig. De tar vapnets normala skada om de inte aktivt försvarar sig (1 Fokus, *Smidighet + Strid*) med minst en framgång.
 
 ### Undertryckande eld
 
@@ -166,13 +166,13 @@ Du får +1 på Samspel i terapeutiska sammanhang. Du kan ha ett terapeutiskt sam
 
 ## Taktik och stöd
 
-Flera av förmågorna nedan hjälper allierade. De följer samma princip som resten av spelet: **intjänad hjälp** kostar din handling och hämtar sin styrka ur slagets **Effekt** (ingen Fokus), medan **betald hjälp** kostar **1 Fokus** eftersom den sker utöver din handling eller utanför din tur. Bonustärningarna från [[Aktiviteter#Hjälpa till|Hjälpa till]] och Taktisk koordinering är alltså intjänade; en order via Stridsorder eller Inspirera betalas med Fokus.
+Flera av förmågorna nedan hjälper allierade. De följer samma princip som resten av spelet: **intjänad hjälp** kostar din handling och hämtar sin styrka ur slagets **framgångar** (ingen Fokus), medan **betald hjälp** kostar **1 Fokus** eftersom den sker utöver din handling eller utanför din tur. Bonustärningarna från [[Aktiviteter#Hjälpa till|Hjälpa till]] och Taktisk koordinering är alltså intjänade; en order via Stridsorder eller Inspirera betalas med Fokus.
 
 ### Stridsträning
 
 *Krav:* Strid 3
 
-Du räknas som *stridstränad* för regler som hänvisar till det — du behöver inte slå för Chock i början av en strid och har en lägre Chockfaktor för stridsrelaterade händelser (stupad kamrat i strid, attacker under beskjutning med mera). Dessutom får du +1 på slag för Initiativ.
+Du räknas som *stridstränad* för regler som hänvisar till det (se [[Trauma, chock och stress#Chock]]) — du behöver inte slå för Chock i början av en strid och har en lägre Chockfaktor för stridsrelaterade händelser (stupad kamrat i strid, attacker under beskjutning med mera). Dessutom får du +1 på slag för Initiativ.
 
 ### Taktisk koordinering
 
@@ -240,7 +240,7 @@ När du konfronteras direkt med kunskap, motiv eller minne du vill dölja kan du
 
 *Krav:* Analys 2, Smidighet 2
 
-Du kan trimma en teknisk pryl. Spendera 1 Fokus och slå *Analys + Smidighet* — för varje Effekt ökar en effekt med 50 % eller motsvarande (SL avgör). Effekten varar minst en scen. Spendera ytterligare 1 Fokus före slaget för att också påverka en till effekt på samma pryl.
+Du kan trimma en teknisk pryl. Spendera 1 Fokus och slå *Analys + Smidighet* — för varje Effekt förbättras en av prylens egenskaper påtagligt: högre fart, längre räckvidd, större verkan (SL avgör). Förbättringen varar minst en scen. Spendera ytterligare 1 Fokus före slaget för att också påverka en till egenskap på samma pryl.
 
 ## Desperata manövrar
 
@@ -420,7 +420,7 @@ Spendera 1 Fokus för att göra din förklädnad resistent — den överlever n�
 
 *Krav:* Expertis: Maskör
 
-När du hjälper en allierad med sociala slag ger din Effekt +2 bonustärningar istället för +1.
+När du hjälper en allierad med sociala slag ger varje framgång på ditt hjälpslag två bonustärningar i stället för en.
 
 ### Förhörsledare
 
@@ -484,7 +484,7 @@ Under beskjutning eller turbulens behöver du inte slå extra slag för att hål
 
 *Krav:* Expertis: Underrättelseanalytiker
 
-När du har lyckats med ett analysslag på underrättelsematerial, dokument eller spaningsrapporter kan du, en gång per scen, peka ut en dold koppling mellan något du upptäckt och en annan känd faktor — en gemensam kontakt, ett återkommande mönster, ett motsägelsefullt detalj som avslöjar en agenda. SL berättar vad du sett.
+När du har lyckats med ett analysslag på underrättelsematerial, dokument eller spaningsrapporter kan du, en gång per scen, peka ut en dold koppling mellan något du upptäckt och en annan känd faktor — en gemensam kontakt, ett återkommande mönster, en motsägelsefull detalj som avslöjar en agenda. SL berättar vad du sett.
 
 #### Förvarning
 
@@ -512,7 +512,7 @@ När du befinner dig i en miljö med säkerhetsrutiner (en bevakad anläggning, 
 
 *Krav:* Expertis: Soldat
 
-Du är härdad mot fältlivets påfrestningar. Naturliga umbäranden — köld, hetta, hunger, utmattning och sömnbrist — gör inte dina slag ett steg svårare, och du behöver inte slå de slag för *Fysik + Vilja* (eller ta den Stress) som SL annars kräver för att uthärda dem. Spendera 1 Fokus för att utsträcka detta till hela din grupp under en scen, till exempel en forcerad marsch, en natt i kylan eller en utdragen bevakning.
+Du är härdad mot fältlivets påfrestningar. Naturliga umbäranden — köld, hetta, hunger, utmattning och sömnbrist — gör inte dina slag ett steg svårare, och du behöver inte slå de slag för *Fysik + Vilja* (eller ta den Stress) som SL annars kräver för att uthärda dem (se [[Särskilda situationer#Umbäranden]]). Spendera 1 Fokus för att utsträcka detta till hela din grupp under en scen, till exempel en forcerad marsch, en natt i kylan eller en utdragen bevakning.
 
 #### Stridsfältsblick
 

@@ -8,14 +8,14 @@ Detta dokument samlar terminologin för **I Rikets Tjänst**.
 | --- | --- |
 | **Tärning (T12)** | Tolvsidig tärning, den enda tärningstypen som används i spelet |
 | **Framgång** | Ett tärningsresultat på 10+ |
-| **Fokus** | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar. Alla lägen där fokus kan användas kan istället Stress användas. |
+| **Fokus** | Personlig resurs som återställs varje scen; används för att aktivera förmågor eller lägga till tärningar. Räcker ditt Fokus inte kan du ta Stress i stället (se Stress). |
 | **Momentum** | Berättelsetempo som avgör startvärdet på Fokus varje scen (1–5) |
 | **Scen** | En sammanhängande episod i berättelsen (strid, undersökning, förhandling) |
 | **Runda** | Ca fem sekunders speltid i strid |
 | **Slag** | Ett tärningskast för att avgöra utfall |
 | **Svårighet** | Antal framgångar som krävs: Normal (1), Svår (2), Mycket Svår (3). Sätts av SL som helhetsbedömning |
 | **Effekt** | Framgångar utöver de som krävs för att klara svårigheten (eller för att slå en motståndare); spenderas på extra verkningar som mer skada, längre varaktighet eller fler mål |
-| **Komplikation** | Oväntad negativ händelse vid etta på slag efter att ha spenderat Fokus |
+| **Komplikation** | Oväntad negativ händelse när en tärning som lagts till med Fokus visar en etta |
 
 ## Egenskaper
 
@@ -68,7 +68,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Kroppspoäng** | KP | Enhet för skada |
 | **Tålighet** | – | Fysik + Vilja; tröskel för skadesteg |
 | **Skada** | – | Vapnets KP-bonus vid träff; adderas till KP-skadan (men inte till kritiska träff-slag) |
-| **Kritisk träff** | – | 12:a på attackslaget; utlöser effekt på kritisk-tabellen (och ger 1 Fokus som vanligt) |
+| **Kritisk träff** | – | 12:a på attackslaget; utlöser effekt på kritisk-tabellen om attacken gör minst 1 KP skada efter Skydd (12:an ger 1 Fokus som vanligt) |
 | **Skydd** | – | Rustning eller täckning som minskar KP-skada |
 | **Skadetyp** | – | Vapnets skadetyp (Kross, Stick, Hugg, Skjutvapen, etc.); avgör kritisk-tabell |
 | **Penetrerande** | – | Vapenegenskap; ger +2 till kritiska träff-slag |
@@ -80,11 +80,11 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Tjänstduglig** | Inga effekter |
 | **Sårad** | Alla handlingar ett steg svårare (vid skada > Tålighet KP) |
 | **Medvetslös** | Kan inte agera (vid skada > 2 × Tålighet KP) |
-| **Döende** | Slår **Överlevnadsslag** eller förvärras; långsam grad (slag per timme). Vid skada > 3 × Tålighet KP eller via kritisk träff. Förvärras till **Akut döende**. |
-| **Akut döende** | Snabb grad av döende (Överlevnadsslag per minut). KP-chock startar här. |
+| **Döende** | Långsam grad av döende (Överlevnadsslag per timme). Orsakas av vissa kritiska träffar. Förvärras till **Akut döende**. |
+| **Akut döende** | Snabb grad av döende (Överlevnadsslag per minut). KP-chock (skada > 3 × Tålighet KP) och vissa kritiska träffar startar här. |
 | **Död** | Dör omedelbart (vid skada > 4 × Tålighet KP) |
 
-**Döende-grader:** Döende rör sig längs stegen *Stabil → Döende (slag per timme) → Akut döende (slag per minut) → Död*. En ny döende eller ett **misslyckat Överlevnadsslag** kliver upp ett steg; lyckad **behandling** kliver ner ett steg. Ett lyckat Överlevnadsslag håller dig kvar och förbättrar dig dessutom ett steg per två fulla nivåer av **Effekt**. Se [[Strid och skada#Döende]].
+**Döende-grader:** Döende rör sig längs stegen *Stabil → Döende (slag per timme) → Akut döende (slag per minut) → Död*. En ny döende eller ett **misslyckat Överlevnadsslag** kliver upp ett steg; lyckad **behandling** kliver ner ett steg per framgång på vårdslaget. Ett lyckat Överlevnadsslag håller dig kvar och förbättrar dig dessutom ett steg per två fulla nivåer av **Effekt**. Se [[Strid och skada#Döende]].
 
 ## Stress och psykisk hälsa
 
@@ -98,14 +98,17 @@ De åtta grundegenskaperna som definierar en rollperson:
 
 ### Sammanbrottseffekter
 
+Utfallen på Sammanbrottstabellen (se [[Trauma, chock och stress#Sammanbrott]]):
+
 | Utfall | Beskrivning |
 | --- | --- |
-| **Skakad** | Missar sin nästa runda |
-| **Panik** | Flyr mot närmaste skydd |
-| **Raseri** | Attackerar närmaste person |
-| **Förstelning** | Paralyserad tills Vilja-slag lyckas |
-| **Desperat handling** | Gör något irrationellt eller livsfarligt |
-| **Tillbakadragande** | Kollapsar psykiskt och kan inte fortsätta scenen |
+| **Skakad** | Rycker till av rädsla och missar sin nästa runda |
+| **Uppjagad** | Alla slag ett steg svårare tills ett lyckat slag för Vilja + Vilja |
+| **Utbrott** | Tappar fattningen; alla i närheten gör Chockslag |
+| **Panikångest** | Fryser eller flyr tills ett lyckat slag för Vilja + Vilja |
+| **Raseri** | Attackerar någon eller något tills ett lyckat slag för Vilja + Vilja |
+| **Traumat aktiverat** | Agerar enligt sitt traumas beteende resten av scenen; krafterna manifesterar okontrollerat |
+| **Trauma förvärrat** | Som ovan, och traumat fördjupas permanent; Stabilitet sjunker ett steg |
 
 ## Aktiviteter
 
@@ -117,7 +120,8 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Biaktör** | Den som hjälper huvudaktören; framgångar ger bonustärningar |
 | **Motstånd** | Tävling mellan två huvudaktörer |
 | **Kapplöpning** | Två sidor tävlar om att nå ett antal framgångar först |
-| **Tidspress** | Begränsat antal rundor för att samla framgångar |
+| **Tidspress** | Begränsat antal varv för att samla framgångar |
+| **Varv** | En omgång i en lång aktivitet där alla inblandade hunnit agera; längden beror på aktiviteten |
 
 ## Världen och organisationer
 

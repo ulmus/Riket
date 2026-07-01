@@ -7,7 +7,8 @@
 Vapnets **räckviddsband** — Nära, Kort, Medel, Lång eller Mycket lång (se [[Strid och skada#Räckviddsband]]). Mål inom bandet beskjuts utan avdrag för avstånd; varje band bortom gör skottet ett steg svårare, högst två steg. Att **sikta** minskar svårigheten ett steg men kräver att du och målet står stilla; ett **kikarsikte** ökar i stället räckvidden ett band uppåt.
 
 ### Ammunition
-Vapen har ett värde för ammunition som motsvarar ett för antalet skott som skjuts i en normal strid. Varje strid som ett skjutvapen har använts så sjunker ammunitionsvärdet ett steg. Ammunition sjunker också ett steg av att skjuta kort salva och två steg av en lång salva. Att ladda om är en handling.
+
+Vapen har ett värde för **Ammo** — ett abstrakt mått på hur länge ammunitionen räcker, inte ett exakt antal skott. I slutet av varje strid där vapnet använts sjunker värdet ett steg. En **salva** (automateld) drar dessutom mer: en **kort salva** (mot ett enskilt mål) sänker värdet ytterligare ett steg direkt, en **lång salva** (Effekt spenderad på flera mål, eller täckande eld) två steg. Vid **0** är vapnet tomt tills det laddas om. Att **ladda om** är en handling och återställer värdet till max, förutsatt att du bär reservammunition.
 
 ## Egenskaper
 
@@ -57,7 +58,7 @@ Vid explosionen slungas splitter längre ut — skadevärdet börjar avta först
 | Automatkarbin     | Lång        |     4 |    4 | Skjutvapen | Automateld, Penetrerande |
 | Gevär             | Mycket lång |     5 |    2 | Skjutvapen | Penetrerande             |
 | Hagelgevär        | Kort        |     5 |    2 | Skjutvapen | Hagelsvärm               |
-| Kulspruta 5.56 mm | Mycket lång |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
+| Kulspruta 6,5 mm  | Mycket lång |     4 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Kulspruta 7,62 mm | Mycket lång |     6 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Handgranat        | Kort        |     6 |    1 | Explosion  | Kastbart, Explosion, Splitter |
 
@@ -66,6 +67,7 @@ Vid explosionen slungas splitter längre ut — skadevärdet börjar avta först
 | Vapen    | Skada | Skadetyp | Egenskaper                    |
 | -------- | ----: | -------- | ----------------------------- |
 | Slagsmål |     1 | Kross    | Obeväpnad                     |
+| Knogjärn |     2 | Kross    | Räknas som obeväpnad          |
 | Kniv     |     2 | Stick    | Finess                        |
 | Batong   |     2 | Kross    | –                             |
 | Sabel    |     2 | Hugg     | Finess                        |
@@ -74,10 +76,21 @@ Vid explosionen slungas splitter längre ut — skadevärdet börjar avta först
 
 ## Skydd och rustning
 
-Skydd minskar KP-skadan från attacker. Normalt kroppsskydd ger 1 poäng Skydd, medan kraftigare rustningar kan ge mer. Skydd påverkar inte om en kritisk träff triggas. Om attacken gör minst 1 KP skada efter skydd så gäller fortfarande alla tolvor som slagits.
+Skydd minskar KP-skadan från attacker. Skydd påverkar inte om en kritisk träff triggas. Om attacken gör minst 1 KP skada efter skydd så gäller fortfarande alla tolvor som slagits.
+
+| Rustning                                  | Skydd | Noter                                              |
+| ----------------------------------------- | ----: | -------------------------------------------------- |
+| Tjock rock, läderjacka                    |     1 | Väcker ingen uppmärksamhet                         |
+| Kroppsskydd (skyddsväst)                  |     1 | Märks vid visitation                               |
+| Insydda stålplåtar, tung väst             |     2 | Skrymmande; märks under civila kläder              |
+| Tungt skydd (bombdräkt, pansarskydd)      |     3 | Alla fysiska handlingar ett steg svårare           |
 
 ## Vapenutrustning
 
 ### Kikarsikte
 
 Kikarsikte ökar vapnets räckvidd ett band uppåt.
+
+### Ljuddämpare
+
+En ljuddämpad pistol hörs bara i samma eller angränsande zon, och skottet avslöjar inte skyttens position för den som inte ser det. Den dämpade laddningen minskar vapnets räckvidd ett band.
