@@ -342,6 +342,6 @@ Slå Samspel + Vilja mot målets Fysik + Vilja. Om du vinner blir målet paralys
 | Räckvidd      | Längre                           | Kortare                |
 | Begränsningar | Få                               | Fler                   |
 | Skadebonus    | Högre                            | Lägre                  |
-| Fokuskostnad  | (priset som betalas)             | Högre kostnad          |
+| Fokuskostnad  | Låg kostnad                      | Höj kostnaden          |
 
 **Tumregel:** En kraft med många element ur den vänstra kolumnen balanseras med element ur den högra eller med en högre Fokuskostnad. En kraft som är stark på ett område bör vara svagare på andra. Det viktigaste är att kraften känns rätt för karaktären och är rolig att använda vid spelbordet.

@@ -177,7 +177,7 @@ Om minst en tärning på attackslaget visar **12** och attacken gör minst 1 KP 
 
 Om *flera* tärningar visar 12: slå **en gång** på tabellen och lägg till +1 per ytterligare 12:a.
 
-Kritiska träffar ger effekter som blödning, brutna ben eller döende om minst 1 KP skada gick igenom Skyddet. En 12:a ger alltid både 1 Fokus och en kritisk träff.
+Kritiska träffar ger effekter som blödning, brutna ben eller döende. En 12:a ger alltid 1 Fokus, men den kritiska träffen utlöses bara om minst 1 KP skada gick igenom Skyddet.
 
 ## Exempel
 

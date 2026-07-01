@@ -34,7 +34,7 @@ Svårighetsgraden sätts av SL som en helhetsbedömning av situationen — inte 
 
 Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Lätt → Normal → Svår, Svår → Mycket Svår). **Mycket Svår** är taket — flera staplade avdrag kan aldrig driva svårigheten högre än så (3 framgångar), och en handling blir aldrig omöjlig enbart av att avdrag staplas. På motsvarande sätt är **Lätt** golvet: inget gör en handling lättare än att den lyckas automatiskt.
 
-En **Lätt** aktivitet lyckas alltid, men ett frivilligt slag kan tillåtas för att se hur bra det går — slaget kan ge **Effekt**, och tolvor ger Fokus och kritiska träffar som på alla slag.
+En **Lätt** aktivitet lyckas alltid, men ett frivilligt slag kan tillåtas för att se hur bra det går — slaget kan ge **Effekt**, och tolvor ger Fokus som på alla slag. För anfall gäller de vanliga reglerna för kritiska träffar (se [[Strid och skada]]).
 
 ### Effekt
 

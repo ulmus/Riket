@@ -744,7 +744,7 @@ Före detta nazistisk genetiker, nu ledare för Östtysklands *Projekt Nebelkron
 
 - Analys 4, Samspel 3, Vilja 3, List 2, Fysik 1, Sinnen 2, Smidighet 1, Strid 1
 - **Tålighet:** 4, **Stabilitet:** 3
-- **Expertis:** Läkare, Vetenskapsman
+- **Expertis:** Läkare, Professor (medicin)
 - **Förmågor:** Kirurgi, Manipulativ retorik
 
 **Utrustning:** Mikrofilm med forskningsdata gömd i jackficka, nödsignal till Golem, cyanidkapsel (för nödfall).
@@ -838,7 +838,7 @@ Svensk vetenskapsman, ledare för *Program Frigg*. En satt man i fyrtiofemårså
 
 - Analys 4, Vilja 3, Samspel 3, Fysik 2, List 2, Sinnen 2, Smidighet 1, Strid 1
 - **Tålighet:** 5, **Stabilitet:** 3
-- **Expertis:** Läkare, Vetenskapsman
+- **Expertis:** Läkare, Professor (psykiatri)
 
 Hedström deltar inte aktivt i äventyret men är en viktig figur i bakgrunden och genomgången.
 
@@ -1023,7 +1023,7 @@ Termokinetisk förstöringsenhet. Svarog är en man i trettiofemårsåldern, bre
 
 - Analys 4, Samspel 2, Vilja 2, Fysik 1, List 1, Sinnen 2, Smidighet 1, Strid 1
 - **Tålighet:** 3, **Stabilitet:** 2
-- **Expertis:** Vetenskapsman
+- **Expertis:** Professor (fysik)
 
 ### Fräulein Ingrid Schulmann
 
