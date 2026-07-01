@@ -21,15 +21,19 @@ Det fullständiga regelverket, från grundmekanik till strid och trauma.
 
 - [[Grundregler]] – Grundmekaniken: slå Egenskap + Egenskap i T12or och räkna Framgångar (10+).
 - [[Skapa och utveckla en rollperson]] – Bygg din agent och utveckla hen mellan uppdragen.
+- [[Karaktärsexempel]] – Hela karaktärsskapandet visat steg för steg, från koncept till färdig agent.
 - [[Expertiser]] – Specialiseringar som sänker svårigheten ett steg och låser upp särskilda förmågor.
 - [[Förmågor]] – Tränade färdigheter och manövrar som karaktärerna behärskar.
 - [[Krafter]] – Övermänskliga krafter som föds ur karaktärernas trauman.
+- [[Kraftexempel]] – En kraft konstrueras steg för steg, med resonemang om kostnaderna.
 - [[Strid och skada]] – Strid runda för runda: handlingar, Skada och Skydd.
+- [[Stridsexempel]] – En hel eldstrid spelad runda för runda, med regelkommentarer.
 - [[Vapen]] – Vapenvärden, räckvidd, ammunition och egenskaper.
 - [[Kritiska träffar]] – Tabeller för vad som händer när ett attackslag visar 12.
 - [[Trauma, chock och stress]] – Stress, Stabilitet och risken för Sammanbrott – och hur traumat kan ta över.
 - [[Läkning & vård]] – Medicin, kirurgi och psykologi för att vårda skador och stress.
 - [[Aktiviteter]] – Regelstöd för förhör, intrång, biljakter och annat utanför strid.
+- [[Aktivitetsexempel]] – En hel spaningsscen spelad med aktivitetsreglerna, med regelkommentarer.
 - [[Särskilda situationer]] – Fallskada, eld, explosioner, gift och strålning.
 
 ## För spelledaren

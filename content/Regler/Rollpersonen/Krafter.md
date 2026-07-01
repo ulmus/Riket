@@ -1,6 +1,6 @@
 # Krafter
 
-Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel.
+Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel. Ett utförligt exempel på hur en kraft byggs, med resonemang om kostnaderna, finns i [[Kraftexempel]].
 
 För bakgrund till hur krafterna har uppstått, se [[Bakgrund]] och specifikt [[Program Frigg (Sverige)]].
 

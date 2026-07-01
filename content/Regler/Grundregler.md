@@ -65,7 +65,6 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära egenskaper
 
-- **Förflyttning** avgör hur du tar dig fram. Att förflytta dig är en egen handling och slås med *Fysik + Smidighet*; normalt är slaget Lätt och en zon lyckas utan tärning. Varje Effekt tar dig en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten. Se [[Strid och skada#Förflyttning]].
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
 

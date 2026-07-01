@@ -1,3 +1,8 @@
+---
+aliases:
+  - "Regler/Spelleda/Aktiviteter"
+---
+
 # Aktiviteter
 
 Det finns många situationer som inte inbegriper strid, men som kräver regelstöd, ofta där flera personer samarbetar eller motarbetar varandra. Här är exempel på sådana aktiviteter:
@@ -7,6 +12,8 @@ Det finns många situationer som inte inbegriper strid, men som kräver regelst�
 - Förhör
 - Göra intrång
 - Bluffa
+
+Ett utförligt exempel på en hel scen — skuggning, tidspress och ett sammanbrott — finns i [[Aktivitetsexempel]].
 
 ## Korta aktiviteter
 

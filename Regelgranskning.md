@@ -16,7 +16,9 @@ Regelverket är i grunden starkt: mekaniken är enhetlig (Egenskap + Egenskap i 
 
 **Åtgärdat i denna gren:** samtliga punkter under *1. Regelmotsägelser* (1.1–1.18), luckorna 2.1–2.5 samt de snabba punkterna i 2.7 (initiativ vid lika, överraskning, EP/språk, EP-expertisköp, Förslag-motståndet, Läkning-formuleringarna), och språkpunkterna 3.1–3.4. Kanoniska val som gjordes: automateld ger Chockfaktor +1 (grundfaktor 1 → 2); *stridstränad* = förmågan Stridsträning eller expertisen Soldat/Officer; behandling av döende måste klara radens svårighet och kliver då ner ett steg per framgång (blödningen stoppas på köpet); hjälp ger +1 tärning per framgång; Stress-ventilen gäller bara när Fokus inte räcker; långa aktiviteter räknas i *omgångar*, inte rundor. Efter granskningskommentarer på PR:en: Lätta slag genererar Fokus som alla slag (särregeln struken även ur Expertiser), fler ettor på tillagda tärningar förvärrar komplikationen, Liggande påverkar inte avståndsattacker, och kulsprutan 6,5 mm har Skada 5.
 
-**Återstår (redaktionella beslut):** omklassificera Förflyttning (bort från "sekundära egenskaper" — kräver även ändring i AGENTS.md och rollformuläret), flytta Aktiviteter-sidan till kärnreglerna (ändrar publicerad URL), kapitelordning för tryck (4.2), tillåta/förbjuda en andra superegenskap via EP (2.7), samt de nya exempelkapitlen (4.3).
+**Även åtgärdat efter beslut:** Förflyttning omklassificerad (borttagen ur sekundära egenskaper i regler, Terminologi, AGENTS.md samt ur rollformuläret tillsammans med Initiativ-rutan), Aktiviteter flyttad till kärnreglerna (gamla URL:en omdirigeras via alias), kapitelordningen för tryck uppdaterad i Manuskript.md, och de tre exempelkapitlen skrivna: [[Karaktärsexempel]], [[Kraftexempel]] och [[Aktivitetsexempel]].
+
+**Återstår (redaktionellt beslut):** tillåta/förbjuda en andra superegenskap via EP (2.7).
 
 ---
 
