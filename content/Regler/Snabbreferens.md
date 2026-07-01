@@ -21,14 +21,14 @@
 - **Din tur:** normalt en handling. Två handlingar samma tur — t.ex. två attacker, eller en attack och en förflyttning — gör var och en ett steg svårare
 - **Zoner:** SL delar in scenen i berättardrivna zoner (≈ tio meter; ett rum inomhus, en hex utomhus); avstånd och förflyttning mäts i zoner
 - **Förflyttning:** en egen handling — slå *Fysik + Smidighet*. Normalt Lätt → en zon, ingen tärning. Varje Effekt = en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten
-- **Rörligt mål:** har du flyttat minst en zon är alla anfall mot dig ett steg svårare till din nästa tur
+- **Rörligt mål:** har du flyttat minst en zon är alla avståndsattacker mot dig ett steg svårare till din nästa tur
 - **Kombinera utan avdrag:** **Stormning** (rörelse + närstrid)
 - **Kan inte kombineras med förflyttning:** sikta och kirurgi kräver stillhet
 - **Attack:** Smidighet + Strid (avstånd) eller Fysik + Strid (närstrid)
-- **Räckviddsband:** Bredvid (närstrid) → Nära (samma zon) → Kort (zonen bredvid) → Medel (5 zoner) → Lång (10 zoner) → Mycket lång (så långt sikten räcker). Sikta = −1 svårighet (stilla); kikarsikte = +1 band
+- **Räckviddsband:** Bredvid (närstrid) → Nära (samma zon) → Kort (zonen bredvid) → Medel (5 zoner) → Lång (10 zoner) → Mycket lång (så långt sikten räcker). Sikta = ett steg lättare (kräver att du och målet är stilla); kikarsikte = +1 band
 - **Försvar:** passivt (SL väger in i svårigheten). Aktiv väjning/parering: 1 Fokus, Smidighet + Strid (Lätt), dra av Effekten från anfallets framgångar
 - **Skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0)
-- **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus **och** triggar en kritisk träff. +1 per ytterligare 12:a
+- **Kritisk träff:** Varje 12:a på attackslaget ger 1 Fokus. Gör träffen minst 1 KP skada efter Skydd utlöses en kritisk träff: slå 1T12 på rätt tabell, +1 per ytterligare 12:a
 
 ## Skador
 
@@ -51,7 +51,7 @@
 |      Slag | Utfall                                                                                                                                                                                                                                      |
 | --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |   **1–2** | Stressen fokuserar dig. Du får **+1 Fokus**.                                                                                                                                                                                                |
-|   **3–4** | Ok – Du klarar av det – den här gången.                                                                                                                                                                                                     |
+|   **3–4** | Du klarar av det – den här gången.                                                                                                                                                                                                          |
 |     **5** | **Skakad** – Du rycker till av rädsla och **missar din nästa runda**.                                                                                                                                                                       |
 |     **6** | **Uppjagad** – Du blir nervös och okoncentrerad. Alla dina slag är **ett steg svårare** tills du lyckas samla dig med ett lyckat slag för **Vilja + Vilja** som din handling.                                                               |
 |     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chockslag (Vilja + Vilja, Chockfaktor 1)**.                               |

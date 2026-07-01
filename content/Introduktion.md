@@ -16,9 +16,9 @@ Du är en av dessa. Ett **Extra-Normalt Subjekt** (ENS). En hemlig agent i [[Ter
 
 ## Vad är I Rikets Tjänst?
 
-**I Rikets Tjänst** är ett taktiskt superhjälte-rollspel med rötter i kalla krigets thrillers och guldålderns serietidningar. Som Legion of Super-Heroes om John Le Carré hade skrivit manus.
+**I Rikets Tjänst** är ett rollspel där ni spelar trasiga superhjältar i kalla krigets Sverige. Spelet har sina rötter i kalla krigets thrillers och guldålderns serietidningar. Som Legion of Super-Heroes om John le Carré hade skrivit manus.
 
-Som spelare skapar du en hemlig agent med unika krafter och ett trasigt förflutet. Du utför uppdrag för Sveriges räkning: infiltrerar fientliga baser, motverkar utländska agenter, skyddar hemligheter som världen inte är redo för. Men du brottas också med dina egna demoner – de krafter som gör dig till ett vapen är samma krafter som hotar att förstöra dig.
+Som spelare skapar du en hemlig agent med unika krafter och ett komplicerat förflutet. Du utför uppdrag för Sveriges räkning: infiltrerar fientliga baser, motverkar utländska agenter, skyddar hemligheter som världen inte är redo för. Men du brottas också med dina egna demoner – de krafter som gör dig till ett vapen är samma krafter som hotar att förstöra dig.
 
 ## Vad du behöver veta
 
@@ -38,9 +38,9 @@ Som spelare skapar du en hemlig agent med unika krafter och ett trasigt förflut
 
 ## Känsliga ämnen
 
-**I Rikets Tjänst** berör ämnen som kan vara känsliga, det förekommer beskrivningar av systematiska övergrepp hos karaktärerna och andra, samt hänvisningar till bland annat Förintelsen. Att agera ut karaktärernas inneboende trauma är en integrerad del av systemet, liksom hantering av stress och panik. För de spelgrupper som är obekväma med eller osäkra kring dessa teman rekommenderas att man använder någon typ av systematisk överenskommelse kring spelbordet om vilka ämnen som är ok och vilka som bör undvikas. 
+**I Rikets Tjänst** berör ämnen som kan vara känsliga. Det förekommer beskrivningar av systematiska övergrepp mot karaktärerna och andra, samt hänvisningar till bland annat Förintelsen. Att agera ut karaktärernas inneboende trauma är en integrerad del av systemet, liksom hantering av stress och panik. Spelgrupper som är obekväma med eller osäkra kring dessa teman rekommenderas att använda en systematisk överenskommelse kring spelbordet om vilka ämnen som är i sin ordning och vilka som bör undvikas.
 
-Exempel på system som kan underlätta är [TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj),
+Ett exempel på ett sådant verktyg är [TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj), som samlar tekniker som *linjer och slöjor* och *X-kortet*.
 
 Med det sagt, välkommen till skuggorna. Svea Rike behöver dig.
 

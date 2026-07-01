@@ -1,6 +1,6 @@
 # Krafter
 
-Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel.
+Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel. Ett utförligt exempel på hur en kraft byggs, med resonemang om kostnaderna, finns i [[Kraftexempel]].
 
 För bakgrund till hur krafterna har uppstått, se [[Bakgrund]] och specifikt [[Program Frigg (Sverige)]].
 
@@ -30,7 +30,7 @@ Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
 | **Attack**         | Energiprojektil, pyrokinesi | Strid + Vilja     |
 | **Kontroll**       | Telekinesi, magnetism       | Sinnen + Vilja    |
 | **Perception**     | Telepati, fjärrsyn          | Sinnen + Vilja    |
-| **Påverkan**       | Sinnemanipulation, illusion | Samspel + Vilja   |
+| **Påverkan**       | Sinnesmanipulation, illusion | Samspel + Vilja   |
 | **Fysisk**         | Överstyrka, snabbhet        | Fysik + Vilja     |
 | **Skydd**          | Kraftfält, hård hud         | Fysik + Vilja     |
 | **Transformation** | Formskifte, fasskifte       | Fysik + Vilja     |
@@ -63,7 +63,7 @@ En kraft kan också utformas så att den **modifierar** din vanliga handling (en
 
 | Räckvidd        | Beskrivning        | Modifikation               |
 | --------------- | ------------------ | -------------------------- |
-| **Beröring**    | Fysisk kontakt     | Ingen                      |
+| **Bredvid**     | Fysisk kontakt eller armlängds avstånd | Ingen  |
 | **Nära**        | Samma zon          | Ingen                      |
 | **Kort**        | Zonen bredvid          | +1 Fokus eller begränsning |
 | **Medel**       | Upp till fem zoner     | +1 Fokus eller begränsning |
@@ -200,7 +200,7 @@ Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, r
 
 ### Förslag (2 Fokus, en handling)
 
-Slå Samspel + Vilja mot målets Samspel + Vilja för att ge en enkel, verbal order. Om du vinner måste målet lyda. Ordern kan inte innebära omedelbar livsfara.
+Slå Samspel + Vilja mot målets Vilja + Vilja för att ge en enkel, verbal order. Om du vinner måste målet lyda. Ordern kan inte innebära omedelbar livsfara.
 
 - **+1 Fokus:** Ordern kan vara komplex eller pågå längre tid.
 - **+1 Fokus:** Ordern får medföra livsfara.  
@@ -224,7 +224,7 @@ Lyssna på radiofrekvenser. Krypterade signaler kräver Analys + Sinnen mot kryp
 
 ### Pulsstörare (1 Fokus, en handling)
 
-Slå Strid + Vilja. Levande varelser i samma zon måste slå Vilja eller förlora sin nästa runda. Elektronik störs ut.
+Slå Strid + Vilja. Levande varelser i samma zon måste lyckas med ett slag för Fysik + Vilja eller förlora sin nästa runda. Elektronik störs ut.
 
 - **+1 Fokus:** Forma attacken som en kon.
 - **+1 Fokus:** Välj vilka mål som drabbas.
@@ -288,7 +288,7 @@ Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål på Medel hå
 
 ### Fryspelare (2 Fokus, en handling)
 
-Skapa extrem kyla i en zon på Kort håll. Alla i zonen utom du själv måste slå Fysik + Vilja varje runda eller ta +1 Stress och –1 på fysiska slag. Varar 3 rundor.
+Skapa extrem kyla i en zon på Kort håll. Alla i zonen utom du själv måste slå Fysik + Vilja varje runda eller ta 1 Stress och få alla fysiska handlingar ett steg svårare. Varar 3 rundor.
 
 - **+1 Fokus:** Varar hela scenen.
 - **+1 Fokus:** Marken blir hal is – alla måste slå Fysik + Smidighet för att inte falla.
@@ -336,12 +336,12 @@ Slå Samspel + Vilja mot målets Fysik + Vilja. Om du vinner blir målet paralys
 
 ## Snabbguide: Balansera en kraft
 
-| Element       | Starkare = Billigare             | Svagare = Kraftfullare |
+| Element       | Gör kraften starkare             | Väg upp med            |
 | ------------- | -------------------------------- | ---------------------- |
-| Fokuskostnad  | Lägre                            | Högre                  |
-| Handlingstyp  | Modifierar din handling / passiv | Egen handling          |
-| Räckvidd      | Kortare                          | Längre                 |
-| Begränsningar | Färre                | Fler                   |
-| Skadebonus    | Lägre                | Högre                  |
+| Handlingstyp  | Passiv eller modifierar din handling | Egen handling      |
+| Räckvidd      | Längre                           | Kortare                |
+| Begränsningar | Få                               | Fler                   |
+| Skadebonus    | Högre                            | Lägre                  |
+| Fokuskostnad  | Låg kostnad                      | Höj kostnaden          |
 
-**Tumregel:** En kraft som är stark på ett område bör vara svagare på andra, eller ha begränsningar. Det viktigaste är att kraften känns rätt för karaktären och är rolig att använda vid spelbordet.
+**Tumregel:** En kraft med många element ur den vänstra kolumnen balanseras med element ur den högra eller med en högre Fokuskostnad. En kraft som är stark på ett område bör vara svagare på andra. Det viktigaste är att kraften känns rätt för karaktären och är rolig att använda vid spelbordet.

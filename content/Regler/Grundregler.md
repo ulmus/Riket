@@ -34,6 +34,8 @@ Svårighetsgraden sätts av SL som en helhetsbedömning av situationen — inte 
 
 Vissa tillstånd, som **Sårad** eller **Påverkad**, gör alla handlingar ett steg svårare (Lätt → Normal → Svår, Svår → Mycket Svår). **Mycket Svår** är taket — flera staplade avdrag kan aldrig driva svårigheten högre än så (3 framgångar), och en handling blir aldrig omöjlig enbart av att avdrag staplas. På motsvarande sätt är **Lätt** golvet: inget gör en handling lättare än att den lyckas automatiskt.
 
+En **Lätt** aktivitet lyckas alltid, men ett frivilligt slag kan tillåtas för att se hur bra det går — slaget kan ge **Effekt**, och tolvor ger Fokus som på alla slag. För anfall gäller de vanliga reglerna för kritiska träffar (se [[Strid och skada]]).
+
 ### Effekt
 
 Framgångar utöver de som krävs för att klara svårigheten kallas **Effekt**. Effekt är en resurs på det enskilda slaget som kan spenderas på extra verkningar — till exempel mer skada, längre varaktighet, fler mål eller en större bonus. Hur många framgångar en viss verkan kostar anges där den beskrivs, ofta i formen *1 Framgång: …* (det vill säga 1 Effekt).
@@ -63,7 +65,6 @@ Varje karaktär börjar spelet med en Expertis.
 
 ## Sekundära egenskaper
 
-- **Förflyttning** avgör hur du tar dig fram. Att förflytta dig är en egen handling och slås med *Fysik + Smidighet*; normalt är slaget Lätt och en zon lyckas utan tärning. Varje Effekt tar dig en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten. Se [[Strid och skada#Förflyttning]].
 - **Tålighet** avgör hur mycket skada du tål och är lika med Fysik + Vilja. Se [[Strid och skada#Tålighet]].
 - **Stabilitet** avgör hur mycket Stress en person tål, och är **3** för rollpersoner.
 
@@ -105,14 +106,14 @@ Hur du använder dina egenskaper beskrivs i [[Aktiviteter]].
 
 Fokus är en personlig resurs som återställs inför varje scen. Fokus används för att:
 
-- Lägga till extra tärningar efter slag (en gång per slag; en tärning per Fokus; fritt antal Fokus; misslyckande ger komplikation).
+- Lägga till extra tärningar efter slag (en gång per slag; en tärning per Fokus; fritt antal Fokus; en etta på en tillagd tärning ger en komplikation).
 - Aktivera förmågor och krafter.
 - Försvara dig aktivt (väja eller parera) utanför din tur (se [[Strid och skada#Försvar]]).
 - Driva förmågor och krafter som uttryckligen kostar Fokus för att verka utanför din tur eller utöver din vanliga handling (till exempel en motattack eller ett extra skott).
 
 ### Komplikationer
 
-Om du använt Fokus för att lägga till tärningar till ett slag och någon av de tärningar som du lade till visar en etta så drabbas du av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. SL avgör vad det är för komplikation. Exempel:
+Om du använt Fokus för att lägga till tärningar till ett slag och någon av de tärningar som du lade till visar en etta så drabbas du av en komplikation. En komplikation är någon typ av oväntad, besvärande eller till och med farlig händelse i anslutning till det du försökte göra. SL avgör vad det är för komplikation — visar flera tillagda tärningar ettor blir komplikationen värre för varje etta. Exempel:
 
 - Eldavbrott på ditt vapen — du måste lägga en handling och lyckas med Analys + Smidighet för att återställa vapnet.
 - Om ingen lämplig komplikation passar, ta en Stress.
@@ -127,7 +128,7 @@ Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fo
 
 ### Fokus till Momentum
 
-Varje ny scen återställs personligt Fokus till **Momentum**. Momentum representerar hur snabbt storyn rör sig just nu och är samma för alla karaktärer. Det startar normalt på 1 i början av ett äventyr och ändras utifrån berättelsen.
+Varje ny scen återställs personligt Fokus till **Momentum**. Fokus sätts till Momentum-värdet vid scenbytet — även om du hade fler Fokus kvar. Momentum representerar hur snabbt storyn rör sig just nu och är samma för alla karaktärer. Det startar normalt på 1 i början av ett äventyr och ändras utifrån berättelsen.
 
 - 1 - Storyn rör sig långsamt
 - 3 - Storyn utvecklas snabbt
@@ -141,7 +142,7 @@ En scen kan vara en strid, en biljakt, en undersökning av ett hus eller motsvar
 
 - Initiativ: Slå 1T12 + Strid.
 - Turordning i sjunkande initiativ.
-- Din tur: normalt **en handling**. Du kan göra två handlingar (t.ex. två attacker, eller en attack och en förflyttning) men var och en blir ett steg svårare — **Stormning** och vissa förmågor slipper avdraget. Vissa handlingar kräver att du står stilla. Har du flyttat minst en zon är du svårare att träffa.
+- Din tur: normalt **en handling**. Du kan göra två handlingar (t.ex. två attacker, eller en attack och en förflyttning) men var och en blir ett steg svårare — **Stormning** och vissa förmågor slipper avdraget. Vissa handlingar kräver att du står stilla. Har du flyttat minst en zon är avståndsattacker mot dig ett steg svårare.
 - Förflyttning är en egen handling: slå *Fysik + Smidighet* (normalt Lätt, en zon), varje Effekt tar dig en zon till. Svår terräng och sår höjer svårigheten.
 - Försvar är passivt — SL väger in rörelse och skydd i anfallets svårighet. Vill du aktivt väja eller parera spenderar du 1 Fokus, slår Smidighet + Strid (Lätt) och drar av Effekten från anfallets framgångar.
 - Skada mäts i kroppspoäng (KP). Du har en Tålighet lika med Fysik + Vilja. Skadestegen baseras på multiplar av Tålighet.

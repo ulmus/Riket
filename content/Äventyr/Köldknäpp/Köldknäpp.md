@@ -561,7 +561,7 @@ Redan etablerad. I detta äventyr: splittrad. Vet att experimenten var fel men f
 
 - Analys 4, Samspel 3, Vilja 3, Fysik 2, List 2, Sinnen 2, Smidighet 1, Strid 1
 - **KP:** 5, **Stabilitet:** 2
-- **Expertis:** Läkare, Vetenskapsman, Byråkrat
+- **Expertis:** Läkare, Professor (psykiatri), Byråkrat
 
 #### Dr. Martin Schultz
 
@@ -577,7 +577,7 @@ Kall och metodisk. Ser Anja som "Subjekt S", inte som ett barn. Inte sadist — 
 
 - Analys 4, Vilja 3, Sinnen 2, Samspel 2, Fysik 1, List 2, Smidighet 1, Strid 1
 - **KP:** 4, **Stabilitet:** 3
-- **Expertis:** Läkare, Vetenskapsman
+- **Expertis:** Läkare, Professor (psykiatri)
 
 #### Karin Eklund — Mullvaden
 

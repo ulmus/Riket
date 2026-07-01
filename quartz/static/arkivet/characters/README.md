@@ -29,5 +29,5 @@ i markdown, så dessa adresser fungerar bara om man skriver in dem direkt.)
 Fälten följer formulärets modell: `attr` (egenskaper 0–5), `trauma`
 (`forlust`, `vanmakt`, `skuld`, `svek`, `skam` eller tomt) och `fields`
 (alla textfält, t.ex. `kodnamn`, `expertis`, `lang0…`, `sf1_namn`/`sf1_eff`,
-`formaga0…`, `resurser` (en fri textruta), `foto`). Tålighet och Förflyttning
+`formaga0…`, `resurser` (en fri textruta), `foto`). Tålighet
 räknas ut automatiskt från egenskaperna.

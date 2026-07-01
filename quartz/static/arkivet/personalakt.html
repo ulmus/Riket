@@ -206,19 +206,9 @@
             <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Fysik + Vilja</div>
           </div>
           <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
-            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Förflyttning</div>
-            <div style="font:700 26px/1 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;">{{ forflytTxt }}</div>
-            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Slag · Fysik + Smidighet</div>
-          </div>
-          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
             <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Stabilitet</div>
             <div style="font:700 26px/1 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;"><input data-field="stabilitet" onInput="{{ onField }}" defaultValue="{{ stabilitetVal }}" style="font:inherit;width:100%;padding:0;"></div>
             <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Stress du tål · börjar på 3</div>
-          </div>
-          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
-            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Initiativ</div>
-            <div style="font:700 19px/1.25 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;">1T12 + Strid</div>
-            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">slås i stridens början</div>
           </div>
         </div>
       </div>
@@ -617,7 +607,6 @@ class Component extends DCLogic {
 
     const F = this.state.attr;
     const tal = (F.fysik||0) + (F.vilja||0);
-    const forf = (F.fysik||0) + (F.smidighet||0);
 
     const traumaDefs = [
       {key:'forlust',label:'Förlust',desc:'Något du älskade togs ifrån dig.'},
@@ -687,7 +676,6 @@ class Component extends DCLogic {
     return {
       rootRef: this._rootRef, attrs, attrSpent, attrSpentStyle, traumaList, cond, damageTracks,
       taligheTxt: tal ? String(tal) : '',
-      forflytTxt: forf ? String(forf) : '',
       stabilitetVal: this.fields.stabilitet || '',
       fokusPips: mkTrack('fokus', 14, {}),
       stressPips: mkTrack('stress', 13, {}),

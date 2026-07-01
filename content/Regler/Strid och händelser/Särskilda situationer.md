@@ -84,7 +84,7 @@ Slå 1T12 när sömnmedlet får effekt:
 - Om tärningen når **Somnar-tröskeln** somnar offret.
 - Annars blir offret **Påverkad** (alla handlingar ett steg svårare) men tar ingen skada.
 
-*Exempel: Kloroform i dubbel dos ger Somnar 5+ och Döende 10+. På 9–10 somnar offret, på 11–12 är offret Akut döende.*
+*Exempel: Kloroform i dubbel dos ger Somnar 5+ och Döende 10+. På 5–9 somnar offret, på 10–12 är offret Akut döende.*
 
 ### Medicinsk kunskap
 
@@ -93,6 +93,21 @@ Att beräkna rätt dos är ett slag för **Analys + Sinnen** (görs lättare av 
 ### Varaktighet
 
 Ett sövt offer vaknar efter 2T12 minuter och är **Påverkad** (alla handlingar ett steg svårare) i en timme.
+
+## Umbäranden
+
+Köld, hetta, hunger, törst och sömnbrist sliter på den som är i fält. När förhållandena är hårda kan SL kräva ett slag för *Fysik + Vilja* per relevant tidsintervall — en natt i kylan, ett dygn utan sömn eller vatten, en dags marsch i stark hetta. Svårigheten är **Normal**, eller **Svår** vid riktigt hårda förhållanden.
+
+- **Misslyckat slag:** Ta **1 Stress** och bli **Påverkad** (alla handlingar ett steg svårare) tills du fått det du saknar — värme, vila, vatten eller mat.
+- **Långvarig umbärande** (flera dygn utan vatten, en vecka utan mat, sträng köld utan skydd) kan dessutom ge KP-skada enligt SL, typiskt 1–2 KP per intervall.
+
+Förmågan **[[Förmågor#Fältmässig|Fältmässig]]** gör dig immun mot dessa slag och effekter.
+
+## Drunkning och kvävning
+
+Den som hamnar under vatten eller får luftvägarna avstängda kan hålla andan i ett antal rundor lika med sin **Tålighet** — hälften vid ansträngning, som strid eller simning i strömt vatten. Därefter tar den 1 KP skada och slår en skadetärning i början av varje runda. Kritiska träffar slås på [[Kritiska träffar#Övriga]].
+
+Den som får luft slutar ta skada. En livlös som dras upp behandlas med hjärt-lungräddning (Medicin, **Svår**).
 
 ## Strålning
 
