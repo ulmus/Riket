@@ -172,7 +172,7 @@
         <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">2</span>
         <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Egenskaper</span>
         <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
-        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">21 poäng · 1–4 vardera · en superegenskap = 5</span>
+        <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);white-space:nowrap;">1–4 vardera · super = 5 · <span style="{{ attrSpentStyle }}">{{ attrSpent }}/21</span> satta</span>
       </div>
       <div class="grid-2" style="display:grid;grid-template-columns:1fr 1fr;gap:9px 26px;padding:11px 14px;">
         <sc-for list="{{ attrs }}" as="a" hint-placeholder-count="8">
@@ -341,7 +341,7 @@
           <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">9</span>
           <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Språk</span>
           <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
-          <span style="font:400 8px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">1 per nivå i Analys</span>
+          <span style="font:400 8px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">Analys + Samspel poäng</span>
         </div>
         <div style="padding:7px 12px 9px;display:flex;flex-direction:column;gap:9px;flex:1;">
           <sc-for list="{{ langRows }}" as="r" hint-placeholder-count="5">
@@ -608,6 +608,12 @@ class Component extends DCLogic {
       const pips = [1,2,3,4,5].map(n => ({ n, onClick: () => this.setAttr(d.key, n), style: this.pipStyle(n<=v, n===5) }));
       return { label:d.label, desc:d.desc, pips };
     });
+    // Live tally of spent attribute points (sum of all eight values; budget is 21).
+    const attrSpent = attrDefs.reduce((sum, d) => sum + (this.state.attr[d.key] || 0), 0);
+    const attrSpentColor = attrSpent > 21 ? 'var(--accent,#9B2D1F)'
+                         : attrSpent === 21 ? 'var(--ink,#23201A)'
+                         : 'var(--ink-soft,#8A8268)';
+    const attrSpentStyle = "font:700 9px/1 'Courier Prime',monospace;color:" + attrSpentColor + ";";
 
     const F = this.state.attr;
     const tal = (F.fysik||0) + (F.vilja||0);
@@ -679,7 +685,7 @@ class Component extends DCLogic {
     for (let i=0; i<langN; i++){ langRows.push({ f:'lang'+i, v:this.fields['lang'+i]||'' }); }
 
     return {
-      rootRef: this._rootRef, attrs, traumaList, cond, damageTracks,
+      rootRef: this._rootRef, attrs, attrSpent, attrSpentStyle, traumaList, cond, damageTracks,
       taligheTxt: tal ? String(tal) : '',
       forflytTxt: forf ? String(forf) : '',
       stabilitetVal: this.fields.stabilitet || '',
