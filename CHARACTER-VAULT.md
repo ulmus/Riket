@@ -83,7 +83,8 @@ site.
 | Path | Purpose |
 | --- | --- |
 | `db/schema.sql` | D1 tables (`users`, `magic_tokens`, `characters`, `character_versions`, `vault_members`) |
-| `functions/api/_lib/*.js` | Shared helpers (JSON, session cookie, hashing, email, Turnstile, version stack) |
+| `functions/api/_lib/*.js` | Shared helpers (JSON, session cookie, hashing, email, Turnstile, version stack, schema auto-migrate) |
+| `functions/api/_middleware.js` | Auth/session + JSON error boundary + `ensureSchema` auto-migration |
 | `functions/api/characters/[id]/versions.js` · `revert.js` | List version history / revert to a version |
 | `functions/api/config.js` | Public client config (Turnstile site key) |
 | `functions/api/auth/*.js` | `request-link`, `callback` (honours `next`), `logout`, `me` |
@@ -136,6 +137,19 @@ so the migrations are only for databases created before a feature landed.
 
 `<DATABASE_NAME>` is the D1 database's name (not the `DB` binding name). You can
 instead paste `db/schema.sql` into the D1 **Console** in the dashboard.
+
+**Auto-migration on deploy.** You normally don't need to run the above by hand.
+Cloudflare Pages has no "run migrations on deploy" hook, so the API applies the
+schema itself: `functions/api/_lib/schema.js` (`ensureSchema`) runs the additive
+DDL — every statement is `CREATE … IF NOT EXISTS` plus column adds guarded by a
+`PRAGMA` check — once per worker isolate, on the first `/api/*` request after a
+deploy (called from `functions/api/_middleware.js`). It is safe on a fresh, an
+up-to-date, or an older database, and needs no secrets or `wrangler.toml`, so it
+also covers preview deployments. Keep `schema.js` in sync with `db/schema.sql`
+and the `db/000N_*.sql` files — the SQL files stay the source of truth and the
+manual `wrangler d1 execute` path above still works (e.g. to seed a brand-new
+database). Only **additive** migrations belong in `ensureSchema`; anything
+destructive or renaming must still be applied by hand.
 
 ### 2. Environment variables
 
