@@ -232,6 +232,15 @@
   function emptyCloudTrash() {
     return api("/trash", { method: "DELETE" });
   }
+  function listVersionsReq(id) {
+    return api("/characters/" + encodeURIComponent(id) + "/versions");
+  }
+  function revertVersionReq(id, versionId) {
+    return api("/characters/" + encodeURIComponent(id) + "/revert", {
+      method: "POST",
+      body: { version: versionId },
+    });
+  }
 
   // ---- shared state --------------------------------------------------------
 
@@ -318,8 +327,26 @@
       ".irt-chip .state.err{color:#8a2c1f;}" +
       ".irt-chip .acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:9px;}" +
       ".irt-toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%);z-index:2147483002;background:#23201a;color:#f3ecdb;font:600 12px/1.3 'Archivo';letter-spacing:.04em;padding:11px 16px;border-radius:4px;box-shadow:0 10px 30px rgba(0,0,0,.5);max-width:90%;}" +
-      "@media (max-width:560px){#irt-overlay{padding:14px 8px;}#irt-modal .bd{padding:14px;}}" +
-      "@media print{#irt-overlay,#irt-toast,#irt-root{display:none !important;}}";
+      // version-history modal
+      "#irt-ver-overlay{position:fixed;inset:0;z-index:2147483001;background:rgba(20,19,16,.66);display:none;align-items:flex-start;justify-content:center;padding:34px 14px;overflow:auto;font-family:'Archivo',sans-serif;}" +
+      "#irt-ver-modal{width:520px;max-width:100%;background:#f5f1e6;color:#23201a;border:1px solid #c7bea6;border-radius:8px;box-shadow:0 24px 60px rgba(0,0,0,.5);overflow:hidden;}" +
+      "#irt-ver-modal .hd{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px 18px;background:#dcd1b8;border-bottom:1px solid #c7bea6;}" +
+      "#irt-ver-modal .hd h2{margin:0;font:800 16px/1.2 'Saira Condensed',sans-serif;letter-spacing:.08em;text-transform:uppercase;overflow:hidden;text-overflow:ellipsis;}" +
+      "#irt-ver-modal .x{background:transparent;border:0;font-size:22px;line-height:1;color:#5a574d;cursor:pointer;padding:2px 6px;flex:none;}" +
+      "#irt-ver-modal .bd{padding:18px;max-height:70vh;overflow:auto;}" +
+      ".irt-ver-lead{margin:0 0 14px;font:400 12px/1.6 'Courier Prime',monospace;color:#5a574d;}" +
+      ".irt-verlist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px;}" +
+      ".irt-ver{display:flex;align-items:center;gap:12px;padding:9px 10px;border:1px solid #c7bea6;border-radius:5px;background:#fbf8ef;}" +
+      ".irt-ver.current{border-color:#0c3a54;background:#eef4f6;}" +
+      ".irt-ver .v-photo{width:38px;height:50px;flex:0 0 auto;border:1px solid #c7bea6;border-radius:3px;background:#e6dfca no-repeat center top;background-size:cover;}" +
+      ".irt-ver .v-meta{flex:1 1 auto;min-width:0;}" +
+      ".irt-ver .v-title{font:700 13px/1.3 'Archivo';color:#23201a;}" +
+      ".irt-ver .v-current{font:700 9px/1 'Archivo';letter-spacing:.07em;text-transform:uppercase;color:#0c3a54;border:1px solid #0c3a54;border-radius:3px;padding:2px 5px;margin-left:6px;}" +
+      ".irt-ver .v-sub{margin-top:2px;font:400 12px/1.4 'Courier Prime',monospace;color:#3f3c34;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}" +
+      ".irt-ver .v-date{font:400 11px/1.4 'Courier Prime',monospace;color:#8a8268;}" +
+      ".irt-ver .irt-btn{flex:none;}" +
+      "@media (max-width:560px){#irt-overlay,#irt-ver-overlay{padding:14px 8px;}#irt-modal .bd,#irt-ver-modal .bd{padding:14px;}}" +
+      "@media print{#irt-overlay,#irt-ver-overlay,#irt-toast,#irt-root{display:none !important;}}";
     var style = document.createElement("style");
     style.id = "irt-store-style";
     style.textContent = css;
@@ -678,6 +705,136 @@
     }
   }
 
+  // ---- version history modal ----------------------------------------------
+
+  var verOverlay = null;
+  var verState = { id: null, name: "" };
+
+  function buildVersionsModal() {
+    if (verOverlay) return;
+    verOverlay = document.createElement("div");
+    verOverlay.id = "irt-ver-overlay";
+    verOverlay.innerHTML =
+      '<div id="irt-ver-modal"><div class="hd"><h2 id="irt-ver-title">Versioner</h2>' +
+      '<button class="x" data-act="ver-close" type="button" aria-label="Stäng">×</button></div>' +
+      '<div class="bd" id="irt-ver-body"></div></div>';
+    document.body.appendChild(verOverlay);
+    verOverlay.addEventListener("click", function (e) {
+      if (e.target === verOverlay) {
+        closeVersions();
+        return;
+      }
+      var t = e.target.closest && e.target.closest("[data-act]");
+      if (!t) return;
+      var act = t.getAttribute("data-act");
+      if (act === "ver-close") closeVersions();
+      else if (act === "revert") revertToVersion(t.getAttribute("data-id"), t.getAttribute("data-ver"));
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && verOverlay.style.display === "flex") closeVersions();
+    });
+  }
+
+  function openVersions(id, name) {
+    buildVersionsModal();
+    verState = { id: id, name: name || "" };
+    var title = document.getElementById("irt-ver-title");
+    if (title) title.textContent = "Versioner" + (name ? " — " + name : "");
+    verOverlay.style.display = "flex";
+    renderVersions();
+  }
+
+  function closeVersions() {
+    if (verOverlay) verOverlay.style.display = "none";
+  }
+
+  function versionRowHtml(v, charId) {
+    return (
+      '<li class="irt-ver' +
+      (v.isCurrent ? " current" : "") +
+      '"><div class="v-photo"' +
+      photoStyle(v.foto) +
+      '></div><div class="v-meta"><div class="v-title">Version ' +
+      v.number +
+      (v.isCurrent ? ' <span class="v-current">Nuvarande</span>' : "") +
+      '</div><div class="v-sub">' +
+      esc(v.name || "") +
+      (v.expertis ? " · " + esc(v.expertis) : "") +
+      '</div><div class="v-date">' +
+      esc(fmtDate(v.created_at)) +
+      "</div></div>" +
+      (v.isCurrent
+        ? ""
+        : '<button class="irt-btn sm" data-act="revert" data-id="' +
+          esc(charId) +
+          '" data-ver="' +
+          esc(v.id) +
+          '" type="button">Återställ</button>') +
+      "</li>"
+    );
+  }
+
+  function renderVersions() {
+    var body = document.getElementById("irt-ver-body");
+    if (!body) return;
+    body.innerHTML = '<div class="irt-empty">Laddar…</div>';
+    listVersionsReq(verState.id).then(function (r) {
+      if (!r.ok) {
+        if (r.status === 401) {
+          closeVersions();
+          openLogin();
+          return;
+        }
+        body.innerHTML = '<div class="irt-empty">' + esc((r.data && r.data.error) || "Kunde inte hämta versioner.") + "</div>";
+        return;
+      }
+      var vs = (r.data && r.data.versions) || [];
+      if (!vs.length) {
+        body.innerHTML = '<div class="irt-empty">Inga versioner än.</div>';
+        return;
+      }
+      body.innerHTML =
+        '<p class="irt-ver-lead">Återställ en tidigare version. Den nuvarande sparas kvar i historiken, så du kan alltid gå tillbaka.</p>' +
+        '<ul class="irt-verlist">' +
+        vs
+          .map(function (v) {
+            return versionRowHtml(v, verState.id);
+          })
+          .join("") +
+        "</ul>";
+    });
+  }
+
+  function revertToVersion(id, versionId) {
+    if (!confirm("Återställ rollpersonen till den här versionen? Den nuvarande versionen sparas kvar i historiken.")) return;
+    revertVersionReq(id, versionId).then(function (r) {
+      if (!r.ok) {
+        if (r.status === 401) {
+          closeVersions();
+          openLogin();
+        } else toast((r.data && r.data.error) || "Kunde inte återställa.");
+        return;
+      }
+      toast("Återställd till en tidigare version.");
+      // If this character is open in the sheet, reflect the reverted state.
+      var ptr = getOpen();
+      if (ptr && ptr.source === "cloud" && ptr.id === id) {
+        clearTimeout(saveTimer);
+        dirty = false;
+        saving = false;
+        saveState = "saved";
+        writeBuffer(r.data.data);
+        setOpen({ source: "cloud", id: id, version: r.data.version, name: r.data.name });
+        if (document.getElementById("irt-sheet-status")) {
+          location.reload(); // re-render the sheet fields from the reverted buffer
+          return;
+        }
+      }
+      renderVersions();
+      if (galleryEl) renderGallery();
+    });
+  }
+
   // ---- photo upload (crop + downsize to a portrait JPEG data URI) ----------
   // Photos are stored inline in the character JSON as a data: URI, so a
   // character stays a single self-contained file regardless of where it lives.
@@ -843,6 +1000,13 @@
       '" data-name="' +
       esc(c.name) +
       '" type="button">Ta bort</button>' +
+      (c.source === "cloud"
+        ? '<button class="irt-btn ghost sm" data-act="versions" data-id="' +
+          esc(c.id) +
+          '" data-name="' +
+          esc(c.name) +
+          '" type="button">Versioner</button>'
+        : "") +
       (c.source === "local"
         ? '<button class="irt-btn sm" data-act="move" data-id="' + esc(c.id) + '" type="button">Till Arkivskåpet 🗄</button>'
         : "");
@@ -880,7 +1044,11 @@
       esc(c.name) +
       '</div><div class="ex">' +
       esc(c.expertis || "") +
-      "</div></div></div>"
+      '</div></div><div class="irt-cardacts"><button class="irt-btn ghost sm" data-act="versions" data-id="' +
+      esc(c.id) +
+      '" data-name="' +
+      esc(c.name) +
+      '" type="button">Versioner</button></div></div>'
     );
   }
 
@@ -1143,6 +1311,7 @@
         deleteCharacter(t.getAttribute("data-source"), t.getAttribute("data-id"), t.getAttribute("data-name"));
       else if (act === "move") moveToCloud(t.getAttribute("data-id"));
       else if (act === "copy") copyCharacter(t.getAttribute("data-source"), t.getAttribute("data-id"));
+      else if (act === "versions") openVersions(t.getAttribute("data-id"), t.getAttribute("data-name"));
       else if (act === "import") importPregen(t.getAttribute("data-slug"), t.getAttribute("data-name"));
       else if (act === "restore") restoreCharacter(t.getAttribute("data-id"));
       else if (act === "purge") purgeTrashItem(t.getAttribute("data-id"), t.getAttribute("data-name"));
@@ -1198,6 +1367,10 @@
       else if (act === "move") moveCurrentToCloud();
       else if (act === "resolve") resolveConflict();
       else if (act === "login") openLogin();
+      else if (act === "versions") {
+        var p = getOpen();
+        if (p && p.source === "cloud") openVersions(p.id, p.name);
+      }
     });
 
     var obs = new MutationObserver(ensureChipMounted);
@@ -1264,11 +1437,14 @@
         "</div><div>" +
         s +
         "</div>" +
+        '<div class="acts">' +
         (saveState === "conflict" || saveState === "gone"
-          ? '<div class="acts"><button class="irt-btn sm" data-act="resolve" type="button">Spara som ny kopia</button></div>'
+          ? '<button class="irt-btn sm" data-act="resolve" type="button">Spara som ny kopia</button>'
           : saveState === "auth"
-            ? '<div class="acts"><button class="irt-btn sm" data-act="login" type="button">Logga in igen</button></div>'
-            : "");
+            ? '<button class="irt-btn sm" data-act="login" type="button">Logga in igen</button>'
+            : "") +
+        '<button class="irt-btn ghost sm" data-act="versions" type="button">Versioner</button>' +
+        "</div>";
     }
     chipEl.innerHTML = html;
   }

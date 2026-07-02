@@ -4,6 +4,7 @@
 
 import { json, error, readJson, nowSec } from "../_lib/util.js";
 import { MAX_DATA_BYTES, validData, resolveName } from "../_lib/chardata.js";
+import { recordVersion } from "../_lib/versions.js";
 
 export const onRequestGet = async ({ env, params, data: { session } }) => {
   const row = await env.DB.prepare(
@@ -41,6 +42,7 @@ export const onRequestPut = async ({ request, env, params, data: { session } }) 
     .run();
 
   if (upd.meta && upd.meta.changes === 1) {
+    await recordVersion(env, params.id, name, dataStr, { coalesce: true });
     return json({ id: params.id, name, version: baseVersion + 1 });
   }
 
