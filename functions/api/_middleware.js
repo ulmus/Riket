@@ -8,6 +8,7 @@
 
 import { error } from "./_lib/util.js";
 import { getSession } from "./_lib/auth.js";
+import { ensureSchema } from "./_lib/schema.js";
 
 // Endpoints reachable while logged out. Everything else requires a session.
 function isPublic(pathname) {
@@ -17,6 +18,14 @@ function isPublic(pathname) {
 export const onRequest = async (context) => {
   const { request, env, next, data } = context;
   try {
+    // Apply any additive schema changes once per isolate (auto-migrate on
+    // deploy). Non-fatal: if it fails, log and carry on — the request may still
+    // work against the existing schema, and the next request retries.
+    try {
+      await ensureSchema(env);
+    } catch (e) {
+      console.error("ensureSchema misslyckades:", (e && e.stack) || e);
+    }
     data.session = await getSession(request, env);
     if (!data.session && !isPublic(new URL(request.url).pathname)) {
       return error(401, "Inte inloggad.");

@@ -43,6 +43,24 @@ CREATE TABLE IF NOT EXISTS characters (
 CREATE INDEX IF NOT EXISTS idx_char_owner ON characters (user_id, deleted_at, updated_at);
 CREATE INDEX IF NOT EXISTS idx_char_assignee ON characters (assigned_to, deleted_at);
 
+-- Version history: an append-only stack of past snapshots per character.
+-- The most recent row (highest rowid) always mirrors `characters.data` — the
+-- "head" is the current state. Reverting copies a chosen snapshot onto a new
+-- head, so the full stack is kept and nothing is ever lost.
+CREATE TABLE IF NOT EXISTS character_versions (
+  id           TEXT PRIMARY KEY,       -- uuid
+  character_id TEXT NOT NULL,          -- characters.id
+  name         TEXT NOT NULL,          -- display name at snapshot time
+  data         TEXT NOT NULL,          -- JSON snapshot (the character at this point)
+  created_at   INTEGER NOT NULL,
+  -- Hard-deleting a character (trash purge) drops its snapshots too.
+  FOREIGN KEY (character_id) REFERENCES characters (id) ON DELETE CASCADE
+);
+-- Snapshots are ordered by the implicit rowid (insertion order); with a per-
+-- character cap this stays a handful of rows, so filtering by character_id is
+-- all the index needs to do.
+CREATE INDEX IF NOT EXISTS idx_charver ON character_versions (character_id);
+
 -- Membership of each owner's (personal) vault: who the owner has invited.
 CREATE TABLE IF NOT EXISTS vault_members (
   owner_id   TEXT NOT NULL,           -- vault owner (users.id)

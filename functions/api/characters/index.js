@@ -3,6 +3,7 @@
 
 import { json, error, readJson, nowSec } from "../_lib/util.js";
 import { MAX_DATA_BYTES, validData, resolveName, cardFields } from "../_lib/chardata.js";
+import { recordVersionSafe } from "../_lib/versions.js";
 
 // Compact card: pull foto/expertis out of the blob server-side so the gallery
 // can render photos without downloading every full character.
@@ -59,6 +60,7 @@ export const onRequestPost = async ({ request, env, data: { session } }) => {
   )
     .bind(id, session.uid, name, dataStr, now)
     .run();
+  await recordVersionSafe(env, id, name, dataStr, { coalesce: false });
 
   return json({ id, name, version: 1 }, { status: 201 });
 };

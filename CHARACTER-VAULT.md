@@ -45,6 +45,24 @@ site.
   conditional `UPDATE … WHERE version = ?`. If the server copy moved on, the save
   returns **409** and the sheet offers to save a **renamed copy** instead of
   clobbering. Otherwise the last save wins.
+- **Version history & revert:** every cloud character keeps an append-only stack
+  of past snapshots (`character_versions`). The most recent snapshot (the "head")
+  always mirrors the character's current `data`, so the head is "Nuvarande". A
+  snapshot is recorded on create and on every save, but consecutive autosaves
+  within a short window (`COALESCE_WINDOW_SEC`, 120 s) collapse into one evolving
+  snapshot so an editing burst is a single version, not dozens; only the newest
+  `MAX_VERSIONS` (30) are kept. **Reverting** (`POST /api/characters/:id/revert`)
+  copies a chosen snapshot onto a fresh head and bumps the concurrency `version`,
+  so the current becomes that version while the **full stack is preserved** —
+  nothing is lost and you can always go back. Reverting also invalidates any
+  in-progress edit elsewhere via the same 409 concurrency check. Owners and
+  assignees can both view history and revert. In the UI, cloud cards (and the
+  sheet's status chip while editing a cloud character) get a **Versioner** button
+  that lists the snapshots and reverts to one; reverting the open character
+  reloads the sheet onto the reverted state. A soft delete keeps the stack (so a
+  restore brings the history back); permanently purging a character from the
+  trash drops its snapshots too (the FK is `ON DELETE CASCADE`, and the purge
+  paths also delete the rows explicitly so pre-cascade databases stay tidy).
 - **Trash bin:** deleting a cloud character is a soft delete (`deleted_at`); the
   gallery shows a Trash section to restore from, delete single items permanently,
   or empty it. Items are also purged ~30 days after deletion (lazily when the
@@ -67,8 +85,10 @@ site.
 
 | Path | Purpose |
 | --- | --- |
-| `db/schema.sql` | D1 tables (`users`, `magic_tokens`, `characters`) |
-| `functions/api/_lib/*.js` | Shared helpers (JSON, session cookie, hashing, email, Turnstile) |
+| `db/schema.sql` | D1 tables (`users`, `magic_tokens`, `characters`, `character_versions`, `vault_members`) |
+| `functions/api/_lib/*.js` | Shared helpers (JSON, session cookie, hashing, email, Turnstile, version stack, schema auto-migrate) |
+| `functions/api/_middleware.js` | Auth/session + JSON error boundary + `ensureSchema` auto-migration |
+| `functions/api/characters/[id]/versions.js` · `revert.js` | List version history / revert to a version |
 | `functions/api/config.js` | Public client config (Turnstile site key) |
 | `functions/api/auth/*.js` | `request-link`, `callback` (honours `next`), `logout`, `me` |
 | `functions/api/characters/*.js` | List (with foto/expertis), create, get/save/delete, restore |
@@ -109,11 +129,30 @@ sharing feature (members + character assignment):
 npx wrangler d1 execute <DATABASE_NAME> --remote --file=./db/0002_sharing.sql
 ```
 
+For the version-history feature (per-character snapshot stack + revert):
+
+```sh
+npx wrangler d1 execute <DATABASE_NAME> --remote --file=./db/0003_versions.sql
+```
+
 A brand-new database created from `db/schema.sql` already includes everything,
 so the migrations are only for databases created before a feature landed.
 
 `<DATABASE_NAME>` is the D1 database's name (not the `DB` binding name). You can
 instead paste `db/schema.sql` into the D1 **Console** in the dashboard.
+
+**Auto-migration on deploy.** You normally don't need to run the above by hand.
+Cloudflare Pages has no "run migrations on deploy" hook, so the API applies the
+schema itself: `functions/api/_lib/schema.js` (`ensureSchema`) runs the additive
+DDL — every statement is `CREATE … IF NOT EXISTS` plus column adds guarded by a
+`PRAGMA` check — once per worker isolate, on the first `/api/*` request after a
+deploy (called from `functions/api/_middleware.js`). It is safe on a fresh, an
+up-to-date, or an older database, and needs no secrets or `wrangler.toml`, so it
+also covers preview deployments. Keep `schema.js` in sync with `db/schema.sql`
+and the `db/000N_*.sql` files — the SQL files stay the source of truth and the
+manual `wrangler d1 execute` path above still works (e.g. to seed a brand-new
+database). Only **additive** migrations belong in `ensureSchema`; anything
+destructive or renaming must still be applied by hand.
 
 ### 2. Environment variables
 
@@ -222,6 +261,8 @@ All routes are same-origin and use the session cookie. JSON in, JSON out.
 | `POST /api/characters` | `{name?, data}` | `{id,name,version}` (201) — created in my vault |
 | `GET /api/characters/:id` | — | `{id,name,version,updated_at,data}` (owner or assignee) |
 | `PUT /api/characters/:id` | `{name?, data, version}` | `{id,name,version}` or **409** (owner or assignee) |
+| `GET /api/characters/:id/versions` | — | `{id,version,versions:[{id,number,name,created_at,foto,expertis,isCurrent}]}` (owner or assignee) |
+| `POST /api/characters/:id/revert` | `{version}` (a version's `id`) | `{id,name,version,data}` — current set to that snapshot, stack kept (owner or assignee) |
 | `PUT /api/characters/:id/assign` | `{memberId\|null}` | `{ok,assignedTo,assigneeEmail}` (owner only) |
 | `DELETE /api/characters/:id` | — | `{ok}` (soft delete; owner only) |
 | `POST /api/characters/:id/restore` | — | `{ok}` |
