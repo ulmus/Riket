@@ -8,6 +8,9 @@ Varje strid börjar med att alla inblandade slår 1T12 och lägger till sitt vä
 
 ## Zoner
 
+> [!INFO] Spela med avstånd istället för zoner
+> Om mer narrativa zoner inte passar hur ni spelar så kan du spelledare översätta zon-indelning till rena avstånd. En zon är i så fall ca 10 meter.
+
 I strid och andra spända scener delar SL in platsen i **zoner** efter fiktionen — porten, lastkajen, det öppna golvet, kontoret, taket ovanför. En zon är ungefär **tio meter** tvärs över, men SL anpassar efter platsen: **inomhus är ett rum oftast en zon**, och för stora utomhusscener kan man lägga ett **hexrutnät** där varje hex (tio meter) är en zon. Allt inom en zon räknas som nära till hands, och vad som är en **närliggande** zon avgör SL utifrån scenen. Förflyttning och avstånd mäts i zoner.
 
 Zonerna är inte bara avstånd. SL kan ge en zon **egenskaper** som färgar striden:
@@ -15,7 +18,7 @@ Zonerna är inte bara avstånd. SL kan ge en zon **egenskaper** som färgar stri
 - **Skydd** — pelare, packlårar, en omkullvält bil att kasta sig bakom. Anfall mot någon som utnyttjar skyddet blir svårare (se [[#Försvar]]).
 - **Öppen mark** — ingenting att gömma sig bakom. Lätt att träffa, farligt att dröja kvar i.
 - **Mörker eller dålig sikt** — försvårar avståndsattacker.
-- **Svår terräng** — rasmassor, djupsnö, taggtråd, en brant. Höjer svårigheten när du förflyttar dig genom eller in i zonen (se [[#Förflyttning]]).
+- **Svårforcerad terräng** — rasmassor, djupsnö, taggtråd, en brant. Höjer svårigheten när du förflyttar dig genom eller in i zonen (se [[#Förflyttning]]).
 - **Trångt utrymme** — en explosion gör dubbel skada här (se [[Särskilda situationer#Explosioner]]).
 - **Högt läge, hala eller farliga ytor** — väger SL in i svårighet och risk.
 
