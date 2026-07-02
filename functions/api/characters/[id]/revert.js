@@ -6,7 +6,7 @@
 // concurrency version (so an open sheet elsewhere gets a 409 on its next save).
 
 import { json, error, nowSec, readJson } from "../../_lib/util.js";
-import { recordVersion, backfillIfEmpty } from "../../_lib/versions.js";
+import { recordVersionSafe, backfillIfEmpty } from "../../_lib/versions.js";
 
 export const onRequestPost = async ({ request, env, params, data: { session } }) => {
   const body = await readJson(request);
@@ -31,15 +31,18 @@ export const onRequestPost = async ({ request, env, params, data: { session } })
   if (!target) return error(404, "Versionen hittades inte.");
 
   const now = nowSec();
+  // Re-authorize in the write itself (owner or assignee), so access revoked
+  // between the SELECT above and here can't slip through the race window.
   const upd = await env.DB.prepare(
-    "UPDATE characters SET data = ?1, name = ?2, version = version + 1, updated_at = ?3 WHERE id = ?4 AND deleted_at IS NULL",
+    "UPDATE characters SET data = ?1, name = ?2, version = version + 1, updated_at = ?3 WHERE id = ?4 AND (user_id = ?5 OR assigned_to = ?5) AND deleted_at IS NULL",
   )
-    .bind(target.data, target.name, now, row.id)
+    .bind(target.data, target.name, now, row.id, session.uid)
     .run();
   if (!upd.meta || upd.meta.changes !== 1) return error(404, "Rollpersonen hittades inte.");
 
   // Keep the head equal to the current state: append the reverted content.
-  await recordVersion(env, row.id, target.name, target.data, { coalesce: false });
+  // Best-effort — the revert above has already committed and is the truth.
+  await recordVersionSafe(env, row.id, target.name, target.data, { coalesce: false });
 
   let data;
   try {

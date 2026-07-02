@@ -13,6 +13,7 @@ CREATE TABLE IF NOT EXISTS character_versions (
   name         TEXT NOT NULL,          -- display name at snapshot time
   data         TEXT NOT NULL,          -- JSON snapshot (the character at this point)
   created_at   INTEGER NOT NULL,
-  FOREIGN KEY (character_id) REFERENCES characters (id)
+  -- Hard-deleting a character (trash purge) drops its snapshots too.
+  FOREIGN KEY (character_id) REFERENCES characters (id) ON DELETE CASCADE
 );
 CREATE INDEX IF NOT EXISTS idx_charver ON character_versions (character_id);

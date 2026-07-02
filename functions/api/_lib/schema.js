@@ -46,7 +46,7 @@ const TABLES = [
      name TEXT NOT NULL,
      data TEXT NOT NULL,
      created_at INTEGER NOT NULL,
-     FOREIGN KEY (character_id) REFERENCES characters (id)
+     FOREIGN KEY (character_id) REFERENCES characters (id) ON DELETE CASCADE
    )`,
   `CREATE TABLE IF NOT EXISTS vault_members (
      owner_id TEXT NOT NULL,

@@ -59,7 +59,10 @@ site.
   assignees can both view history and revert. In the UI, cloud cards (and the
   sheet's status chip while editing a cloud character) get a **Versioner** button
   that lists the snapshots and reverts to one; reverting the open character
-  reloads the sheet onto the reverted state.
+  reloads the sheet onto the reverted state. A soft delete keeps the stack (so a
+  restore brings the history back); permanently purging a character from the
+  trash drops its snapshots too (the FK is `ON DELETE CASCADE`, and the purge
+  paths also delete the rows explicitly so pre-cascade databases stay tidy).
 - **Trash bin:** deleting a cloud character is a soft delete (`deleted_at`); the
   gallery shows a Trash section to restore from, delete single items permanently,
   or empty it. Items are also purged ~30 days after deletion (lazily when the

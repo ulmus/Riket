@@ -11,6 +11,12 @@ const PURGE_AFTER_DAYS = 30;
 export const onRequestGet = async ({ env, data: { session } }) => {
   const cutoff = nowSec() - PURGE_AFTER_DAYS * 24 * 60 * 60;
   await env.DB.prepare(
+    "DELETE FROM character_versions WHERE character_id IN " +
+      "(SELECT id FROM characters WHERE user_id = ?1 AND deleted_at IS NOT NULL AND deleted_at < ?2)",
+  )
+    .bind(session.uid, cutoff)
+    .run();
+  await env.DB.prepare(
     "DELETE FROM characters WHERE user_id = ?1 AND deleted_at IS NOT NULL AND deleted_at < ?2",
   )
     .bind(session.uid, cutoff)
@@ -33,6 +39,12 @@ export const onRequestGet = async ({ env, data: { session } }) => {
 
 // DELETE /api/trash — permanently empty this user's trash.
 export const onRequestDelete = async ({ env, data: { session } }) => {
+  await env.DB.prepare(
+    "DELETE FROM character_versions WHERE character_id IN " +
+      "(SELECT id FROM characters WHERE user_id = ?1 AND deleted_at IS NOT NULL)",
+  )
+    .bind(session.uid)
+    .run();
   const res = await env.DB.prepare(
     "DELETE FROM characters WHERE user_id = ?1 AND deleted_at IS NOT NULL",
   )

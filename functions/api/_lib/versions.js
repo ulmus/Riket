@@ -58,6 +58,23 @@ export async function recordVersion(env, charId, name, dataStr, { coalesce } = {
 }
 
 /**
+ * Record a version without ever failing the caller. The character mutation
+ * (create/save/revert) is the source of truth and has already committed by the
+ * time this runs; the snapshot is best-effort bookkeeping. If it threw and
+ * propagated, an already-successful save would return a misleading 500 — the
+ * client would think it failed and retry with a stale version, hitting a
+ * spurious 409. So log and swallow: the head-is-current invariant self-heals on
+ * the next successful save (a coalescing write updates the head in place).
+ */
+export async function recordVersionSafe(env, charId, name, dataStr, opts) {
+  try {
+    await recordVersion(env, charId, name, dataStr, opts);
+  } catch (e) {
+    console.error("recordVersion misslyckades (rollpersonen sparades ändå):", (e && e.stack) || e);
+  }
+}
+
+/**
  * Ensure a character has at least one snapshot. Characters created before
  * versioning landed have none until their next save; this backfills the current
  * state as the first version so the head-is-current invariant holds.
