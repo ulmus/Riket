@@ -18,6 +18,21 @@ export const Static: QuartzEmitterPlugin = () => ({
       await fs.promises.copyFile(src, dest)
       yield dest
     }
+
+    // Root passthrough: files under quartz/static-root are copied to the deploy
+    // ROOT (not under /static), for host config that must live there — e.g. the
+    // Cloudflare Pages `_headers` file. Optional: skipped if the dir is absent.
+    const rootPath = joinSegments(QUARTZ, "static-root")
+    if (fs.existsSync(rootPath)) {
+      const rootFps = await glob("**", rootPath, cfg.configuration.ignorePatterns)
+      for (const fp of rootFps) {
+        const src = joinSegments(rootPath, fp) as FilePath
+        const dest = joinSegments(argv.output, fp) as FilePath
+        await fs.promises.mkdir(dirname(dest), { recursive: true })
+        await fs.promises.copyFile(src, dest)
+        yield dest
+      }
+    }
   },
   async *partialEmit() {},
 })

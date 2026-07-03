@@ -118,6 +118,29 @@ schema migrations) is documented separately in **[CHARACTER-VAULT.md](CHARACTER-
 > Do **not** add a `wrangler.toml` — Pages would then ignore the dashboard
 > bindings and variables.
 
+## Root files and caching (`_headers`)
+
+Cloudflare Pages reads a [`_headers`](https://developers.cloudflare.com/pages/configuration/headers/)
+file from the **deploy root** (`public/_headers`) to set response headers. Quartz
+copies `quartz/static/` to `public/static/`, which can't reach the root, so the
+`Static` emitter (`quartz/plugins/emitters/static.ts`) also copies everything in
+**`quartz/static-root/`** to the output root. Put root-only host config there.
+
+The one file we ship is `quartz/static-root/_headers`, which marks the
+Personalakts-arkivet app as revalidate-on-load:
+
+```
+/static/arkivet/*
+  Cache-Control: no-cache
+```
+
+Those pages are hand-authored static files that reference their scripts
+(`store.js`, `qrcode.js`, `support.js`) by plain name. Without this, a browser
+could keep a stale script after a deploy; `no-cache` lets it cache but forces a
+revalidation each load (cheap 304s via ETag — Cloudflare purges its edge cache on
+every deploy), so new code is picked up immediately. The rest of the site keeps
+Cloudflare's default caching.
+
 ## Local preview
 
 A fresh clone already contains the built plugins, so no install step is needed:
