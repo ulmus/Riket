@@ -3,19 +3,12 @@ draft: true
 ---
 # Kairo
 
-> [!warning] Stub — under utveckling. Se [[Att skriva]].
+> [!warning] Struken ur kampanjen
+> Kairo-akten utgår ur [[Dödsängelns Testamente]] — spåret leder numera direkt från Wien till [[Södern]]. Idéerna nedan sparas som frö till ett framtida äventyr.
 
-Akt 3. Spåret från Wien leder till Kairo.
+Tyska vetenskapsmän i Nassers Egypten, ODESSA:s ratlines till Kairo, och Mossads jakt på raketforskarna — stoff för ett eget äventyr vid annat tillfälle.
 
-Här kommer **Mossad** in i jakten. De är ute efter mannen, inte boken — Capesius ska gripas och ställas inför rätta, inte plundras på data. Det gör dem till en konkurrent vars mål skär rakt mot Friggs.
-
-## Öppna frågor
-- Vad för rollpersonerna till Kairo — boken, Capesius själv, eller en kontakt?
-- Vilken roll spelar de tyska vetenskapsmännen i Nassers Egypten och ODESSA:s ratlines hit?
-- Hur spelar Mossad mot rollpersonerna och mot ODESSA här?
-- Vad är aktens scen(er) och klimax?
-- Hur leder Kairo vidare till [[Södern]]?
-
-## Nyckelpersoner
-- **Mossad** — kommer in här. Vill ha Capesius levande och inför rätta. *(Agent/team att definiera.)*
-- *(övriga att definiera)*
+## Sparade uppslag
+- De tyska raketforskarna i Egypten (jfr verklighetens Operation Damokles).
+- ODESSA:s ratlines genom Medelhavet.
+- Mossad mot ODESSA på neutral mark.

@@ -3,12 +3,16 @@ draft: true
 ---
 # Dödsängelns Testamente — att skriva
 
-Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom.
+Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripande plot: [[Plotutkast]].
 
 ## Struktur och städning
 - [x] Mapp per akt med eget hubdokument (mappnamn = filnamn, enligt projektets konvention).
 - [x] Flytta [[Nessun Dorma]] till Apotekaren (Wien-aktens introscen).
 - [x] Gör kampanjroten [[Dödsängelns Testamente]] till ren överblick (dubblerade Moskva-detaljerna är borta).
+- [x] Stryk Kairo-akten; spåret går Wien → Södern. ([[Kairo]] kvar som frö till annat äventyr.)
+- [x] Plotutkast för hela kampanjen ([[Plotutkast]]) — **väntar på godkännande/inspel**.
+- [ ] När plotutkastet spikats: arbeta in det i aktdokumenten och rensa [[Plotutkast]].
+- [ ] Standardisera Capesius Wien-alias (**Krauss**) — justera [[Nessun Dorma]] som använder *Wenger*.
 - [ ] Uppdatera [[Manuskript]] (dodsangeln-boken) när akterna är klara; avmarkera ~~genomstrykningen~~ för PDF-bygge.
 
 ## Akt 1 — Moskvas Förstäder *(skissad, scen för scen)*
@@ -22,33 +26,34 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom.
 - [ ] Knyt kartorna (Moskva, Leningrads hamn, Röda Pilen) till rätt scener.
 - [ ] Koppla pass-PDF:erna till delegationens täckidentiteter.
 
-## Akt 2 — Apotekaren (Wien) *(seed finns)*
-- [ ] Skriv ingångsscenen i Frankfurt (Bauer, sekreteraren, Furie) i full text.
-- [ ] Bygg operascenen på Wieneroperan (*Turandot*): upplägg och hur RP når Capesius.
-- [ ] Die Träumerin: kraftbeskrivning (dröm/verklighet), scenmekanik, moralisk tyngd.
-- [ ] Stat-block: Capesius, Die Träumerin, Furie, Skorzeny.
-- [ ] Konkurrenternas drag i Wien (KGB, ODESSA, Projet Chimère).
-- [ ] Övergång till Kairo.
+## Akt 2 — Apotekaren (Frankfurt/Wien) *(plot i utkast)*
+- [ ] Skriv ingångsscenen i Frankfurt (Bauer, sekreteraren Möller, Furie) i full text.
+- [ ] Bygg de fyra Wien-vägarna (apoteket, hustrun, societeten, konkurrenterna) som spelbara noder.
+- [ ] Bygg operascenen på Wieneroperan (*Turandot*): dröm/verklighet-mekanik, överlämningen, de två utfallen (boken/missad).
+- [ ] Skriv försäkringsbrevet (advokaten vid Judenplatz) som failsafe-spår mot Sievers/USA.
+- [ ] Die Träumerin (Chava Blum / Elisabeth Krauss): kraftbeskrivning, scenmekanik, moralisk tyngd.
+- [ ] Så mullvads-fröet (KGB:s omöjliga tajming) — första ledtråden mot T-kontoret.
+- [ ] Stat-block: Capesius, Die Träumerin, Furie, Skorzeny, Eli Sarid (Mossad), Chimère-agent.
 - [ ] Karta/plan över operan? *(asset)*
 
-## Akt 3 — Kairo *(att skriva)*
-- [ ] Besvara öppna frågorna i [[Kairo]].
-- [ ] **Mossads entré:** introducera Mossad här (vill ha Capesius inför rätta) — definiera agent/team.
-- [ ] Definiera scener, SLP, klimax och övergång till Södern.
+## Akt 3 — Södern (Alabama) *(plot i utkast)*
+- [ ] Skriv de tre noderna: Huntsville, Macon County/Tuskegee, Birmingham.
+- [ ] Täckmanteln (svensk pressdelegation) och resvägen.
+- [ ] Kubakrisen som tryck: lås, spärrar, Sievers evakuering via Mobile.
+- [ ] Mullvadsjakten: barium-måltiderna och avslöjandet av Lundell, med de tre utfallen.
+- [ ] Furies fälttest i Birmingham (marschen som exploderar) som mini-klimax.
+- [ ] Stat-block: Sievers, Zhao, Morrison, Harmon (FBI), Zvezda-agenterna, Ellison-familjen, Greer, Baumann.
+- [ ] Klimax: konfrontationen med Sievers och övergången norrut.
 
-## Akt 4 — Södern *(att skriva)*
-- [ ] Besvara öppna frågorna i [[Södern]].
-- [ ] **Phoenix entré:** introducera Project Phoenix här (vill ha boken, på hemmaplan) — definiera agent/team.
-- [ ] Bestäm kopplingen till medborgarrättsrörelsen.
-- [ ] Definiera scener, SLP, klimax och övergång till Uppgörelsen.
-
-## Akt 5 — Uppgörelsen *(att skriva)*
-- [ ] Bestäm plats för uppgörelsen med Skorzeny.
-- [ ] Skriv de förgrenade sluten och vad som avgör dem.
-- [ ] Betala av trådar: boken, Capesius, Die Träumerin, Furie.
+## Akt 4 — Uppgörelsen (Spetsbergen) *(plot i utkast)*
+- [ ] Station Haudegen: anläggning, karta, garnison, die Nachgeborenen.
+- [ ] Slutstridens uppställningar utifrån tidigare val (Lundell-utfallen, Sarid, Phoenix-städpatrull).
+- [ ] Skriv de förgrenade sluten (boken, Skorzeny, Die Träumerin, Verdandi, Tuskegee-männen, Lundell).
+- [ ] Stat-block: Skorzeny, Furie (final), Wiedergeburts forskare och Nachgeborenen.
 
 ## Återkommande canon att fastställa
-- [ ] Die Träumerins riktiga namn och bakgrund (lägret, äktenskapet med Capesius).
-- [ ] Furies ursprung och bindning till ODESSA.
-- [ ] Skorzenys mål genom hela kampanjen.
-- [ ] Hur de förgrenade sluten ser ut och deras konsekvenser för settingen.
+- [x] Die Träumerins riktiga namn och bakgrund — *förslag i [[Plotutkast]]: Chava Blum, Nigredos "Die Puppe"*.
+- [x] Furies ursprung och bindning till ODESSA — *förslag i [[Plotutkast]]: Grete Vollmer, f.d. Aufseherin, Wiedergeburts enda stabila framgång*.
+- [x] Skorzenys mål genom hela kampanjen — *förslag i [[Plotutkast]]: Unternehmen Wiedergeburt, loggboken + levande originalsubjekt*.
+- [ ] Mullvadens identitet (förslag: Arne Lundell — se öppna frågor i [[Plotutkast]]).
+- [ ] Hur de förgrenade sluten ser ut i detalj och deras konsekvenser för settingen.

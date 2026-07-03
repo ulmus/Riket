@@ -4,14 +4,14 @@ draft: false
 # Dödsängelns Testamente
 
 > [!warning] Under utveckling
-> Kampanjen byggs ut akt för akt. Se [[Att skriva]] för status och kvarvarande arbete.
+> Kampanjen byggs ut akt för akt. Övergripande plot i [[Plotutkast]]; status och kvarvarande arbete i [[Att skriva]].
 
-En kampanj om jakten på Josef Mengeles loggbok från Auschwitz — **Dödsängelns Testamente**. Spåret går från en dödsbädd i Moskva, via Wieneroperan och Kairo, till det amerikanska Södern, och slutar i en uppgörelse med Otto Skorzeny. Loggboken dokumenterar de första ENS-experimenten och är ovärderlig för varje program som jagar den.
+En kampanj om jakten på Josef Mengeles loggbok från Auschwitz — **Dödsängelns Testamente**. Spåret går från en dödsbädd i Moskva, via Wieneroperan, till det amerikanska Södern, och slutar i en uppgörelse med Otto Skorzeny på Spetsbergen. Loggboken dokumenterar de första ENS-experimenten och är ovärderlig för varje program som jagar den.
 
 ## Premiss
 Program Frigg har fått en vision från sin asset **[[Verdandi|Vera "Verdandi"]]**: SS-läkaren Josef Mengele lever och ligger för döden i Moskva. Hans privata loggbok finns kvar någonstans. Den som äger den äger nyckeln till ENS-forskningens ursprung. Frigg vill ha boken intakt. Det vill alla andra också.
 
-Jakten visar snabbt att Mengele inte har boken. Den följde en annan man ut ur lägret — apotekaren Victor Capesius — och in i ODESSA-nätverkets skydd. Att följa boken är att följa ODESSA, och i förlängningen mannen som håller ihop nätverket: Otto Skorzeny.
+Jakten visar snabbt att Mengele inte har boken. Den följde en annan man ut ur lägret — apotekaren Victor Capesius — och in i ODESSA-nätverkets skydd. Att följa boken är att följa ODESSA, och i förlängningen mannen som håller ihop nätverket: Otto Skorzeny. Spåret leder från Wien över Atlanten: ODESSA har via Operation Paperclip infiltrerat Project Phoenix, och nätverkets amerikanska brohuvud försörjer Skorzenys egen ENS-anläggning på Spetsbergen. Och genom hela jakten läcker Friggs egen rapportering — det finns en mullvad på T-kontoret.
 
 ## Bakgrund
 När Auschwitz befriades av Röda Armén 1945 hade Dr. Josef Mengele en plan. Han skulle fly till fäderneslandet och om Tredje riket föll, vilket verkade mer och mer troligt, så skulle han gå under jorden. Planen misslyckades, Dr. Mengele dröjde sig kvar för länge i Auschwitz, uppslukad av sina experiment. Men andra lyckades, specifikt Victor Capesius, lägrets rumänske chefsapotekare. Han var ansvarig för mördargasen Zyklon B, men också nära förtrogen med Dr. Mengele och djupt involverad i doktorns ENS-experiment. Med sig på sin hastiga flykt västerut hade Capesius Dr. Mengeles samlade anteckningar.
@@ -27,24 +27,28 @@ Ambitionerna hoss Skorzeny och ODESSA är också större än i vår verklighet. 
 
 ## Akterna
 1. **[[Moskva]]** — Resan från Sverige till Moskva som östtysk handelsdelegation. Vid Mengeles dödsbädd får rollpersonerna veta att loggboken aldrig var hans. Spåret pekar mot Wien.
-2. **[[Apotekaren]]** — Wien. Capesius lever som respektabel apotekare under ODESSA:s skydd. Vägen till honom går genom Wieneroperan och hans hustru, **Die Träumerin**. Spåret leder vidare till Kairo.
-3. **[[Kairo]]** — *(att skriva)* Spåret efter boken — eller mannen — leder till Kairo.
-4. **[[Södern]]** — *(att skriva)* Förenta Staterna, Södern och medborgarrättsrörelsen. ODESSA har infiltrerat den amerikanska statsapparaten inklusive Proect Phoenix.
-5. **[[Uppgörelsen]]** — *(att skriva)* Den slutliga uppgörelsen med Skorzeny på Spetsbergen.
+2. **[[Apotekaren]]** — Frankfurt och Wien. Fritz Bauer mördas av Furie; Capesius lever som respektabel apotekare under ODESSA:s skydd. Vägen till honom går genom Wieneroperan och hans hustru, **Die Träumerin**. Rollpersonerna får loggboken — eller mister den. I bägge fallen pekar spåret mot USA.
+3. **[[Södern]]** — *(att skriva)* Alabama: Huntsville, Tuskegee och Birmingham under Kubakrisens höst. ODESSA:s brohuvud i Project Phoenix ska hittas och exponeras.
+4. **[[Uppgörelsen]]** — *(att skriva)* Den slutliga uppgörelsen med Skorzeny vid Station Haudegen på Spetsbergen.
+
+*Kairo-akten är struken ur kampanjen — de tyska raketforskarna i Nassers Egypten sparas till ett annat äventyr.*
 
 Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val — boken intakt åt Frigg, förstörd, eller i fel händer.
 
 ## Genomgående fraktioner
-- **Program Frigg / T-kontoret** — uppdragsgivaren. Vill ha boken intakt.
-- **Zvezda** — håller Mengele i Moskva, vill behålla honom levande.
-- **Project Phoenix** — har egna spår mot boken.
+- **Program Frigg / T-kontoret** — uppdragsgivaren. Vill ha boken intakt. Läcker via en mullvad: allt Frigg rapporterar hem når Zvezda.
+- **Zvezda** — håller Mengele i Moskva och läser Friggs trafik. Alltid ett halvt steg före eller bakom.
+- **Project Phoenix** — vill ha boken, utan att veta att programmet är infiltrerat av ODESSA via Operation Paperclip.
 - **Projét Chimére** — Fransmännen har Capesius under bevakning sedan tidigare, men känner inte till boken.
-- **Mossad** — jagar Capesius för rättvisa, inte för data. Vill ha honom infångad eller dödad.
-- **ODESSA / Otto Skorzeny** — skyddar Capesius aktivt för att skydda sig själv. Kampanjens röda tråd och slutlige motståndare.
+- **Mossad** — jagar männen, inte datan: Capesius, sedan Sievers, sedan Skorzeny. Vill se dem inför rätta.
+- **ODESSA / Otto Skorzeny** — skyddar Capesius aktivt för att skydda sig själv. Driver **Unternehmen Wiedergeburt**, en egen ENS-anläggning på Spetsbergen som ska återupprätta Tredje riket. Kampanjens röda tråd och slutlige motståndare.
 
 ## Genomgående personer
-- **Otto Skorzeny** — håller ihop ODESSA. Skuggan bakom varje akt.
-- **Dr. Victor Capesius** — apotekaren från Auschwitz, alias *Mag. pharm. Viktor Krauss* i Wien. Har boken.
+- **Otto Skorzeny** — håller ihop ODESSA. Skuggan bakom varje akt, och slutstridens motståndare.
+- **Dr. Victor Capesius** — apotekaren från Auschwitz, alias *Mag. pharm. Viktor Krauss* i Wien. Har boken. Måste inte överleva Wien — bara lämna tydliga spår.
 - **Die Träumerin** — Capesius hustru. Judinna från lägren, gift med sin fångvaktare. ENS vars kraft löser upp gränsen mellan dröm och verklighet.
-- **Furie** — ENS skapad av ODESSA, kan mana fram raseri-utbrott hos andra. Nätverkets vapen.
-- **Verdandi** — Friggs asset, synsk. Reser med rollpersonerna.
+- **Furie** — ENS skapad av ODESSA, kan mana fram raseri-utbrott hos andra. Nätverkets vapen, från mordet på Fritz Bauer till slutstriden.
+- **Dr. Konrad Sievers** — Nigredo-veteran och ODESSA:s man i Project Phoenix. Nyckeln till loggbokens kodade bilagor.
+- **Verdandi** — Friggs asset, synsk. Reser med rollpersonerna — och är, som ett av de sista levande originalsubjekten från Auschwitz, själv ett byte ODESSA jagar.
+
+Nya karaktärer, aktdetaljer och de förgrenade sluten utvecklas i [[Plotutkast]].
