@@ -61,6 +61,22 @@ CREATE TABLE IF NOT EXISTS character_versions (
 -- all the index needs to do.
 CREATE INDEX IF NOT EXISTS idx_charver ON character_versions (character_id);
 
+-- Cross-device QR login. A logged-out device starts a request (gets a private
+-- poll `id`); the QR it shows carries only the `code` (its SHA-256 hash is
+-- stored). A device already logged in scans it and approves, which stamps
+-- `approved_at` + `user_id`. The starting device polls by `id`, and the first
+-- poll after approval mints its session and stamps `consumed_at` (single-use).
+CREATE TABLE IF NOT EXISTS qr_logins (
+  id          TEXT PRIMARY KEY,       -- uuid; the poll secret, held only by the starting device
+  code_hash   TEXT NOT NULL,          -- sha256(code) hex; the secret carried in the QR
+  created_at  INTEGER NOT NULL,
+  expires_at  INTEGER NOT NULL,
+  approved_at INTEGER,                 -- NULL until approved on the logged-in device
+  user_id     TEXT,                    -- who approved (set on approval)
+  consumed_at INTEGER                  -- NULL until the starting device redeems the session
+);
+CREATE INDEX IF NOT EXISTS idx_qr_code ON qr_logins (code_hash);
+
 -- Membership of each owner's (personal) vault: who the owner has invited.
 CREATE TABLE IF NOT EXISTS vault_members (
   owner_id   TEXT NOT NULL,           -- vault owner (users.id)

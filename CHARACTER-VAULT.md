@@ -31,6 +31,20 @@ site.
   token (only its SHA-256 hash) and emails a link via [Resend](https://resend.com).
   Clicking it sets a signed, HttpOnly session cookie and returns you to the page
   you logged in from. No passwords anywhere.
+- **QR login (log in on a new device from your phone):** a logged-out device can
+  log in without email if you're already signed in elsewhere. It calls
+  `POST /api/auth/qr/start`, which mints a request with two independent secrets —
+  a private poll `id` (kept by that device) and a `code` embedded in the QR it
+  shows — and displays the QR. On a device already logged in you scan it, which
+  opens `/static/arkivet/qr?c=<code>`; that page confirms you're signed in and,
+  after you tap **Godkänn**, calls `POST /api/auth/qr/approve` to stamp the
+  request approved. The waiting device polls `GET /api/auth/qr/status?id=…`; the
+  first poll after approval mints its session cookie (single-use) and it's logged
+  in. Requests expire after 5 minutes. Keeping the poll channel (`id`) separate
+  from the approval channel (`code`) means merely seeing the QR never lets anyone
+  claim the resulting session. The QR image is drawn client-side by
+  `qrcode.js` (a vendored MIT QR generator, lazy-loaded only when the QR view is
+  opened), so nothing about the login leaves the browser.
 - **A character is one self-contained JSON blob** (the sheet's `serialize()`
   output) — including its photo, which is uploaded, auto-cropped to a portrait
   and stored inline as a `data:` URI. That keeps a character portable across
@@ -85,17 +99,20 @@ site.
 
 | Path | Purpose |
 | --- | --- |
-| `db/schema.sql` | D1 tables (`users`, `magic_tokens`, `characters`, `character_versions`, `vault_members`) |
-| `functions/api/_lib/*.js` | Shared helpers (JSON, session cookie, hashing, email, Turnstile, version stack, schema auto-migrate) |
+| `db/schema.sql` | D1 tables (`users`, `magic_tokens`, `characters`, `character_versions`, `vault_members`, `qr_logins`) |
+| `functions/api/_lib/*.js` | Shared helpers (JSON, session cookie, hashing, email, Turnstile, version stack, QR-login constants, schema auto-migrate) |
 | `functions/api/_middleware.js` | Auth/session + JSON error boundary + `ensureSchema` auto-migration |
 | `functions/api/characters/[id]/versions.js` · `revert.js` | List version history / revert to a version |
 | `functions/api/config.js` | Public client config (Turnstile site key) |
 | `functions/api/auth/*.js` | `request-link`, `callback` (honours `next`), `logout`, `me` |
+| `functions/api/auth/qr/*.js` | Cross-device QR login: `start`, `status` (poll + mint session), `approve` (from a logged-in device) |
 | `functions/api/characters/*.js` | List (with foto/expertis), create, get/save/delete, restore |
 | `functions/api/trash/index.js` | Trash listing + lazy purge |
-| `quartz/static/arkivet/store.js` | Storage layer (local+cloud), gallery, login, sheet autosave routing, photo upload |
+| `quartz/static/arkivet/store.js` | Storage layer (local+cloud), gallery, login (incl. QR), sheet autosave routing, photo upload |
+| `quartz/static/arkivet/qrcode.js` | Vendored MIT QR-code generator (lazy-loaded for the QR-login view) |
 | `quartz/static/arkivet/index.html` | The library gallery page |
 | `quartz/static/arkivet/personalakt.html` | The character sheet editor (served at `/static/arkivet/personalakt`) |
+| `quartz/static/arkivet/qr.html` | QR-login approval page (served at `/static/arkivet/qr`) — opened by scanning the QR on a device already logged in |
 
 ## Cloudflare setup
 
@@ -133,6 +150,12 @@ For the version-history feature (per-character snapshot stack + revert):
 
 ```sh
 npx wrangler d1 execute <DATABASE_NAME> --remote --file=./db/0003_versions.sql
+```
+
+For the QR-login feature (short-lived cross-device login requests):
+
+```sh
+npx wrangler d1 execute <DATABASE_NAME> --remote --file=./db/0004_qr_login.sql
 ```
 
 A brand-new database created from `db/schema.sql` already includes everything,
@@ -255,6 +278,9 @@ All routes are same-origin and use the session cookie. JSON in, JSON out.
 | `GET /api/auth/callback?token=&next=` | — | 302 redirect to `next` (same-origin arkivet path), sets cookie |
 | `POST /api/auth/logout` | — | clears cookie |
 | `GET /api/auth/me` | — | `{authenticated, email?}` |
+| `POST /api/auth/qr/start` | — | `{id, url, expiresIn}` — begin a QR login (no session); `url` is what the QR encodes, `id` is the private poll token |
+| `GET /api/auth/qr/status?id=` | — | `{status:"pending"\|"approved"\|"expired"}`; on the first `approved` poll also sets the session cookie |
+| `POST /api/auth/qr/approve` | `{code}` | `{ok}` — approve a QR login as the current user (**requires a session**); `410` if the code is unknown/expired |
 | `GET /api/config` | — | `{turnstileSiteKey}` |
 | `GET /api/characters` | — | my vault: `[{id,name,version,updated_at,foto,expertis,assignedTo,assigneeEmail}]` |
 | `GET /api/characters?owner=:id` | — | a vault I'm in: characters assigned to me there |
