@@ -1,8 +1,8 @@
 # Nessun Dorma
 
-Dr. Capesius log. Fast egentligen var det inte Dr. Capesius som log, han hette Dr. Wenger nu. Och mannen han log mot hette inte längre Obersturmbannführer Otto Skorzeny. Han hette många saker, just nu tydligen Ernst Höfer.
+Dr. Capesius log. Fast egentligen var det inte Dr. Capesius som log, han hette Magister Krauss nu. Och mannen han log mot hette inte längre Obersturmbannführer Otto Skorzeny. Han hette många saker, just nu tydligen Ernst Höfer.
 
-”Du ler, Dr. Wenger. Säg mig, vad ler du åt?”
+”Du ler, Magister Krauss. Säg mig, vad ler du åt?”
 
 ”Man måste le, herr Höfer. Åt… allt.” Han gjorde en gest mot de andra café-borden som fick representera världen, eller möjligen tiden som vi lever i.
 
@@ -10,7 +10,7 @@ Dr. Capesius log. Fast egentligen var det inte Dr. Capesius som log, han hette D
 
 ”Klokt. Det är något österrikiskt skitmärke, smakar tjära och sågspån.” Skorzeny grimaserade när han drog första blosset.
 
-”Saken är, Dr. Wenger att ni inte har varit helt sanningsenlig med mig. Lugn, lugn, det är inget jag förväntar mig. Vi är alla på var sin resa. Men nu blev just det här lite viktigt. Minns ni, Dr. Wenger, när vi träffades första gången. Efter kriget. Innan Nürnberg.”
+”Saken är, Magister Krauss att ni inte har varit helt sanningsenlig med mig. Lugn, lugn, det är inget jag förväntar mig. Vi är alla på var sin resa. Men nu blev just det här lite viktigt. Minns ni, Magister Krauss, när vi träffades första gången. Efter kriget. Innan Nürnberg.”
 
 Nu log ingen av dem längre. Capesius tittade sig omkring. Ett ungt par satt två bord bort och hade bara ögon för varandra. En äldre herre läste tidningen vid caféets dörr. Annars var caféet tomt. Han skakade av sig tankarna. Om Skorzeny ville döda honom så vore han redan död. Men han sänkte rösten.
 
@@ -28,7 +28,7 @@ Capesius nickade sammanbitet. Ibland behöver man veta när man ska lägga sig. 
 
 ”Finnemang!”. Skorzeny reste sig och sköt över två röda biljetter över det lilla café-bordet. ”Turandot. Ingrid Schulmann är sopran, fantastisk liten pipa. De är duktiga på det, det där folkslaget.” Han skrattade till, som om han dragit ett särskilt roligt skämt. ”Ta med dig någon. Och ta med dig loggboken”. Han reste sig upp.
 
-”19:00 ikväll, var inte sen, de stänger faktiskt dörrarna. På återseende, Dr. Wenger” sa han, med bara en antydan till att föra ihop klackarna.
+”19:00 ikväll, var inte sen, de stänger faktiskt dörrarna. På återseende, Magister Krauss” sa han, med bara en antydan till att föra ihop klackarna.
 
 Visslande lämnade den före detta SS-officeraren Dr. Capesius kvar vid bordet i tankar. Hur visste Skorzeny att han hade boken? Han hade aldrig sagt det till någon. Den var hans livlina, hans komma-ut-ur-fängelset-kort. Han tittade på biljetterna på bordet. Han ville inte lämna allt igen. Han rev åt sig operabiljetterna, lämnade en tio-schillings-sedel inklämd under askfatet och gav sig ut i kvällsvimlet.
 
