@@ -28,24 +28,30 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 
 ## Akt 2 — Apotekaren (Frankfurt/Wien) *(plot i utkast)*
 - [ ] Skriv ingångsscenen i Frankfurt (Bauer, sekreteraren Möller, Furie) i full text.
-- [ ] Bygg de fyra Wien-vägarna (apoteket, hustrun, societeten, konkurrenterna) som spelbara noder.
-- [ ] Bygg operascenen på Wieneroperan (*Turandot*): dröm/verklighet-mekanik, överlämningen, de två utfallen (boken/missad).
-- [ ] Skriv försäkringsbrevet (advokaten vid Judenplatz) som failsafe-spår mot Sievers/USA.
+- [ ] Bygg de fyra Wien-vägarna (apoteket, hustrun, societeten, Mossad) som spelbara noder.
+- [ ] Bygg operascenen på Wieneroperan (*Turandot*): dröm/verklighet-mekanik, överlämningen, de två utfallen (boken/missad). Akten slutar i Wien — inga USA-pekare här.
+- [ ] Skriv försäkringsbrevet (advokaten vid Judenplatz) som hemfört råmaterial — läsbart först i mellanspelets analys.
 - [ ] Die Träumerin (Chava Blum / Elisabeth Krauss): kraftbeskrivning, scenmekanik, moralisk tyngd.
 - [ ] Så mullvads-fröet (KGB:s omöjliga tajming) — första ledtråden mot T-kontoret.
-- [ ] Stat-block: Capesius, Die Träumerin, Furie, Skorzeny, Eli Sarid (Mossad), Chimère-agent.
+- [ ] Stat-block: Capesius, Die Träumerin, Furie, Skorzeny, Eli Sarid (Mossad).
 - [ ] Karta/plan över operan? *(asset)*
+
+## Mellanspel — Stockholm *(plot i utkast)*
+- [ ] Analysen på T-kontoret: kodknäckningen, "vidare hos K.S.", Richters korsläsning mot Paperclip-listorna — bägge Wien-utfallen ska landa i Sievers/Huntsville.
+- [ ] Verdandis vision av boken (hon står själv i den) som alternativt/kompletterande spår.
+- [ ] Internutredningen inleds; Lundell planterar spåren mot fröken Hansson.
 
 ## Akt 3 — Södern (Alabama) *(plot i utkast)*
 - [ ] Skriv de tre noderna: Huntsville, Macon County/Tuskegee, Birmingham.
 - [ ] Täckmanteln (svensk pressdelegation) och resvägen.
-- [ ] Kubakrisen som tryck: lås, spärrar, Sievers evakuering via Mobile.
-- [ ] Mullvadsjakten: barium-måltiderna och avslöjandet av Lundell, med de tre utfallen.
+- [ ] Kubakrisen som väder: lås, spärrar, Sievers evakuering via Mobile. *(Beslut väder/maskineri — se öppna frågor i [[Plotutkast]].)*
+- [ ] Mullvadsjakten: barium-måltiderna, rentvåendet av fröken Hansson, avslöjandet av Lundell — med de tre utfallen.
 - [ ] Furies fälttest i Birmingham (marschen som exploderar) som mini-klimax.
 - [ ] Stat-block: Sievers, Zhao, Morrison, Harmon (FBI), Zvezda-agenterna, Ellison-familjen, Greer, Baumann.
 - [ ] Klimax: konfrontationen med Sievers och övergången norrut.
 
 ## Akt 4 — Uppgörelsen (Spetsbergen) *(plot i utkast)*
+- [ ] Vägen in: gruvolyckan i Kings Bay (5 nov 1962), kommissionstäckmanteln, gruvfolkets rykten, ODESSA:s dolda leveranslinje.
 - [ ] Station Haudegen: anläggning, karta, garnison, die Nachgeborenen.
 - [ ] Slutstridens uppställningar utifrån tidigare val (Lundell-utfallen, Sarid, Phoenix-städpatrull).
 - [ ] Skriv de förgrenade sluten (boken, Skorzeny, Die Träumerin, Verdandi, Tuskegee-männen, Lundell).
@@ -55,5 +61,6 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [x] Die Träumerins riktiga namn och bakgrund — *förslag i [[Plotutkast]]: Chava Blum, Nigredos "Die Puppe"*.
 - [x] Furies ursprung och bindning till ODESSA — *förslag i [[Plotutkast]]: Grete Vollmer, f.d. Aufseherin, Wiedergeburts enda stabila framgång*.
 - [x] Skorzenys mål genom hela kampanjen — *förslag i [[Plotutkast]]: Unternehmen Wiedergeburt, loggboken + levande originalsubjekt*.
+- [x] Mullvaden är inte fröken Hansson — hon misstänkliggörs av den verkliga mullvaden och rentvås i akt 3.
 - [ ] Mullvadens identitet (förslag: Arne Lundell — se öppna frågor i [[Plotutkast]]).
 - [ ] Hur de förgrenade sluten ser ut i detalj och deras konsekvenser för settingen.

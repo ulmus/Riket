@@ -18,25 +18,28 @@ Två saker till löper genom hela kampanjen:
 
 **ODESSA har infiltrerat Project Phoenix.** Phoenix byggdes på tysk dokumentation och tyska hjärnor via Operation Paperclip — precis som raketprogrammet i Huntsville byggdes på von Braun och hans SS-belastade team. Skillnaden är att flera av Paperclip-forskarna i Phoenix aldrig slutade arbeta för den gamla saken. ODESSA:s brohuvud i Amerika är **Dr. Konrad Sievers**, Nigredo-veteran, numera respekterad NASA-forskare i Huntsville och konsult åt Phoenix. Genom honom läcker Phoenix resurser, skyddsidentiteter och försökspersoner till Wiedergeburt.
 
-**Det finns en mullvad på T-kontoret.** Chifferkanslisten **Arne Lundell** har sedan 1956 rapporterat till KGB. Allt Frigg telegraferar hem når Zvezda inom dygn. Det är därför konkurrenterna alltid är ett halvt steg före eller bakom rollpersonerna — och det är en gåta spelarna kan lösa, med stora konsekvenser för slutet.
+**Det finns en mullvad på T-kontoret.** Chifferkanslisten **Arne Lundell** har sedan 1956 rapporterat till KGB. Allt Frigg telegraferar hem når Zvezda inom dygn. Det är därför konkurrenterna alltid är ett halvt steg före eller bakom rollpersonerna — och det är en gåta spelarna kan lösa, med stora konsekvenser för slutet. När internutredningen kommer för nära styr Lundell misstankarna mot **fröken Hansson** — kvinnan vars skrivbord allt passerar är den perfekta syndabocken, och att rentvå henne blir en del av upplösningen.
 
 ### Tidslinje 1962–63
 
 | När | Var | Vad |
 | --- | --- | --- |
 | 17–31 maj 1962 | Moskva | Akt 1: Mengeles dödsbädd. Spåret pekar mot Wien. |
-| Juni 1962 | Frankfurt, Wien | Akt 2: Bauer mördas. Jakten på apotekaren. Turandot. |
+| Juni 1962 | Frankfurt, Wien | Akt 2: Bauer mördas. Jakten på apotekaren. Turandot. Loggboksfrågan avgörs. |
+| Juli–augusti 1962 | Stockholm | Mellanspel: analysen på T-kontoret pekar ut Alabama. Mullvadsmisstanken väcks. |
 | September–oktober 1962 | Alabama | Akt 3: Södern. Kulminerar under Kubakrisens vecka (16–28 oktober). |
+| 5 november 1962 | Ny-Ålesund | Gruvolyckan i Kings Bay: 21 döda. Sveriges väg in till Spetsbergen öppnas. |
 | December 1962–januari 1963 | Spetsbergen | Akt 4: Uppgörelsen, i polarnatt. |
 
-Kubakrisen är inte kuliss av en slump: för Skorzeny är den beviset på att världsordningen är skör nog att knäcka, och kaoset är hans bästa täckmantel för att flytta folk och material norrut.
+Kubakrisen orsakas inte av någon i kampanjen — men för Skorzeny är den beviset på att världsordningen är skör nog att knäcka, och kaoset är hans bästa täckmantel för att flytta folk och material norrut *(se diskussionen under Akt 3)*.
 
 ## Aktstruktur
 
 1. **[[Moskva]]** — som skriven. Slutar med att spåret pekar mot Capesius i Wien.
-2. **[[Apotekaren]]** — Frankfurt och Wien, 2–3 sessioner. Slutar med att rollpersonerna får loggboken *eller* mister den — och i bägge fallen med spår mot USA.
+2. **[[Apotekaren]]** — Frankfurt och Wien, 2–3 sessioner. Slutar *i Wien*: rollpersonerna får loggboken eller mister den, och därmed är loggboksfrågan avgjord. Inga USA-pekare delas ut här.
+   *Mellanspel — Stockholm.* Kort spelbart mellanspel (eller montage) mellan akterna: analysen av det hemförda materialet pekar ut Alabama, och mullvadsmisstanken väcks.
 3. **[[Södern]]** — Alabama, 3–4 sessioner. Sandlåda med tre noder: Huntsville, Macon County (Tuskegee) och Birmingham. Slutar med att Sievers exponeras och Spetsbergen pekas ut.
-4. **[[Uppgörelsen]]** — Station Haudegen, Spetsbergen, 1–2 sessioner. Förgrenade slut.
+4. **[[Uppgörelsen]]** — Station Haudegen, Spetsbergen, 1–2 sessioner. Vägen in går via gruvolyckan i Kings Bay. Förgrenade slut.
 
 *(Kairo-akten är struken — de tyska raketforskarna i Nassers Egypten får bli ett annat äventyr.)*
 
@@ -59,7 +62,7 @@ Wien spelas fritt. Capesius är målet, men han är skyddad, och minst fyra dör
 - **Apoteket.** Övervakning, inbrott eller ett besök som kunder. Loggboken finns inte där (den ligger i ett bankfack hos Creditanstalt), men Capesius vanor, hans nervositet efter mötet med Skorzeny och hans schemalagda lördagsopera gör det.
 - **Hustrun.** **Elisabeth Krauss** — Die Träumerin — är den mjuka punkten. Hon rör sig ensam: kaféer, en synagoga hon aldrig går in i, operan. I hennes närhet händer saker med verkligheten: en spegel som visar fel rum, snö inomhus, en doft av bränt hår. Verdandi känner igen henne — de var barn i samma baracker. Kontakt med henne är den mänskliga vägen in, och den moraliskt dyraste.
 - **Societeten.** Skorzeny rör sig öppet i Wien under namnet *Ernst Höfer* — gamla kamrater, jaktmiddagar, ett herrsällskap där halva medlemslistan har luckor i sin CV 1938–45. En rollperson med rätt täckmantel kan bli insläppt. Här kan man få veta *när* överlämningen ska ske.
-- **Konkurrenterna.** **Projet Chimère** har haft Capesius under passiv bevakning i åratal och kan köpslå: deras akt mot en del av bytet. **Mossads** team — ledda av katsan **Eli Sarid** — skuggar samma mål av andra skäl och kan bli allierade, hinder eller båda. KGB-residenturen är larmad via Lundell och lägger sig i sist och våldsammast.
+- **Mossad.** Katsan **Eli Sarid** och hans team har skuggat Capesius i månader — de vill ha mannen inför rätta, inte boken, och deras bevakningsdossier är den bästa i Wien. Den kan bytas: dossiern mot åtkomst, hjälp mot ett löfte om vad som händer med Capesius när boken är säkrad. Allierade, hinder eller båda — och löftet till Sarid är en växel som kampanjen kan dra i ända till Spetsbergen. KGB-residenturen, larmad via Lundell, lägger sig i sist och våldsammast.
 
 ### Klimax: Turandot
 
@@ -71,22 +74,32 @@ Scenen ska tåla att spelas i vilken riktning som helst: smyga i kulisserna meda
 
 **Capesius överlever inte nödvändigtvis kvällen.** Skorzeny har tänkt låta honom leva (han är fortfarande nyttig), men om rollpersonerna pressar situationen — eller om Mossad når honom först, eller Furie släpps lös — dör han. Det är acceptabelt: hans död låser inte kampanjen, tack vare försäkringsbrevet nedan.
 
-### Utfall och övergång
+### Utfall: loggboksfrågan avgörs i Wien
 
-Två huvudutfall, båda spelbara:
+Akten slutar när ridån går ner. Två huvudutfall, båda spelbara — och i inget av dem delas något USA-spår ut på plats. Vart jakten leder härnäst framträder först hemma, i mellanspelet.
 
-- **Rollpersonerna får boken.** Den är delvis skriven i Mengeles privata kod, och det avgörande — Katalysator-recepten, "Präparat L" — hänvisar till bilagor som inte finns i boken: *"vidare hos K.S."*. Frigg kan inte tyda den utan mer. Och ODESSA vet nu exakt vilka som har den.
-- **ODESSA får boken.** En kurir lämnar Wien inom ett dygn. Chimère eller Mossad kan ge riktningen; drömscenen kan ha visat den: boken går inte österut eller söderut utan *västerut* — till Amerika, till "vår man hos Phoenix".
+- **Rollpersonerna får boken.** Den är deras — men delvis skriven i Mengeles privata kod, och oläst är den bara papper. De reser hem med bytet i en väska och ODESSA:s blickar i nacken.
+- **ODESSA får boken.** En kurir lämnar Wien inom ett dygn, spårlöst. Rollpersonerna reser hem med tomma händer, ett Wien fullt av lik och frågor — och det material de ändå samlat på vägen.
 
-**Försäkringsbrevet** är failsafen som gör bägge utfallen — och Capesius död — hanterbara. Capesius har i femton år samlat en egen försäkring hos en advokat vid Judenplatz: kopior av korrespondens med ODESSA, betalningsvägar, och namnen på nätverkets amerikanska gren. Om han dör eller grips utlöses brevet. Hur rollpersonerna får tag i det (advokaten säljer, Mossad byter, Die Träumerin vet var det finns) kan varieras — men innehållet pekar entydigt: **Dr. Konrad Sievers, Huntsville, Alabama.** Dessutom, oavsett utfall: Die Träumerin — om hon lever och är fri — vet saker om "det nya lägret i isen" ur sin mans mardrömmar.
+**Materialet som följer med hem** är det som bär kampanjen vidare, oavsett utfall: Bauers Capesius-akt, beslag från operanatten, och — om Capesius dog eller greps — hans **försäkringsbrev**: den samling kopior av ODESSA-korrespondens och betalningsvägar han i femton år deponerat hos en advokat vid Judenplatz. Hur brevet lossnar kan varieras (advokaten säljer, Mossad byter, Die Träumerin vet var det finns). Inget av detta går att läsa rätt i stundens hetta — det är råmaterial för analys, inte en skylt mot Alabama.
 
 Slutligen sår akten mullvads-fröet: KGB slog till mot adresser som bara rapporterats hem i Friggs egen trafik. Verdandi (Genomlysning) eller en uppmärksam spelare kan notera det. Ingen upplösning än — bara den kalla insikten att någon läser deras post.
+
+## Mellanspel — Stockholm (juli–augusti 1962)
+
+Ett kort spelbart mellanspel — eller ett montage, om gruppen hellre går vidare fort. Debriefing på Sturegatan, sommarstiltje, och tre saker som skickar kampanjen västerut.
+
+**Analysen.** T-kontorets arbete med det hemförda materialet är det som öppnar USA-spåret. Har Frigg boken knäcks Mengeles kod delvis: kärnrecepten — Katalysator-serierna, "Präparat L" — hänvisar till bilagor som inte finns i boken: *"vidare hos K.S."*. **Dr. Richter**, T-kontorets västtyska källa (*se [[Moskva]]*), korsläser SS-personalregistren mot Paperclip-listorna: K.S. är **Dr. Konrad Sievers**, Nigredos doseringskemist — sedan 1946 i USA, sedan 1960 laboratoriechef i Huntsville, Alabama. Fick ODESSA boken läggs samma pussel i stället med försäkringsbrevet och operabeslagen: betalningsvägarna går via en bank i Zürich till ett stiftelsekonto i Alabama, och korrespondensen nämner "vår vän hos Phoenix". Bägge vägarna landar i samma namn.
+
+**Verdandi och boken.** Verdandi står själv i loggboken. Hon och Hana är dokumenterade i den, försök för försök, i Mengeles prydliga handstil. Det ger henne en känslomässig koppling till själva föremålet — **Närvaroseende** kan nå boken var den än är i världen. Om boken missades i Wien är hennes vision det andra spåret: ett vitt laboratorium, takfläktar, cikador utanför, och genom persiennerna ett provtorn för raketmotorer. Om Frigg har boken kan hon i stället se *vilka som letar efter den* — och att någon av dem läser Friggs egna telegram.
+
+**Mullvadsmisstanken.** Zvezdas omöjliga tajming i Wien går inte längre att avfärda som otur. Hedström beordrar en tyst internutredning. **Arne Lundell** känner värmen — och börjar plantera: ett kvitto i fel pärm, en telefonnotering med fel datum, en kopia som "hittas" i en handväska. Allt pekar mot **fröken Hansson**, kvinnan vars skrivbord allting passerar och som därför är den perfekta syndabocken. När rollpersonerna reser mot Alabama är hemmafronten förgiftad: deras rapporter läses fortfarande av fel ögon, och den enda på kontoret som alltid hjälpt dem är på väg att bli utpekad. *(Upplösning i akt 3 — se Mullvaden nedan.)*
 
 ## Akt 3 — Södern (Alabama, september–oktober 1962)
 
 ### Uppdrag och täckmantel
 
-Frigg skickar delegationen till USA med dubbelt uppdrag: hitta Sievers och det han har (boken eller nyckeln till den) — och ta reda på varför allt Frigg vet läcker. Sverige kan inte agera öppet på amerikansk mark; upptäcks de av FBI eller Phoenix är de ensamma. Täckmantel: **svensk pressdelegation** som bevakar rymdkapplöpningen (Apollo-programmet är världsnyheter och Huntsville tar stolt emot utländsk press), alternativt ingenjörer på studiebesök via SAAB. Verdandi reser som stenograf igen — och är, utan att Frigg fullt förstått det, ett av ODESSA:s mål.
+Mellanspelets analys pekar ut Sievers, och Frigg skickar delegationen till USA med dubbelt uppdrag: hitta honom och det han har (boken, eller nyckeln till den bok Frigg redan håller) — och hjälpa till att ringa in läckan hemifrån, för internutredningen på Sturegatan cirklar kring fel person. Sverige kan inte agera öppet på amerikansk mark; upptäcks de av FBI eller Phoenix är de ensamma. Täckmantel: **svensk pressdelegation** som bevakar rymdkapplöpningen (Apollo-programmet är världsnyheter och Huntsville tar stolt emot utländsk press), alternativt ingenjörer på studiebesök via SAAB. Verdandi reser som stenograf igen — och är, utan att Frigg fullt förstått det, ett av ODESSA:s mål.
 
 ### Tre noder
 
@@ -98,9 +111,12 @@ Akten är en sandlåda kring tre platser i Alabama. Rollpersonerna kan börja va
 
 **Birmingham.** Medborgarrättsrörelsens frontstad och aktens tryckkokare. Här finns Mossads amerikanska kontaktnät (Sarid dyker upp igen — hans lista har Sievers namn på den), KGB:s illegalist under TASS-kredentialer, och FBI-agenten **Dwight Harmon** som övervakar rörelsen men snubblat på något han inte förstår: samma bilar som skuggar predikanter skuggar också en NASA-forskare. Här kan ODESSA också visa sitt fulaste ansikte: **Furie flygs in för fälttest.** En fredlig rösträttsmarsch som utan förklaring exploderar i våld — demonstranter som river sönder varandra inför kamerorna — är för Skorzeny både experiment och politiskt vapen: bilder som "bevisar" att rörelsen är våldsam. Om rollpersonerna sett Furies verk i Frankfurt känner de igen signaturen. Att avslöja eller stoppa henne här är ett eget mini-klimax — och räddar liv som annars debiteras rörelsen.
 
-### Kubakrisen som tryck
+### Kubakrisen: väder eller maskineri?
 
-Mitt i akten (16–28 oktober) fryser världen. DEFCON 2: baser låses, vägspärrar, utlänningar med kameror blir plötsligt spionmisstänkta, och varje KGB-agent i landet får order som luktar krig. Krisen är inte rollpersonernas problem att lösa — den är väder: allt blir svårare, snabbare och farligare. Sievers utnyttjar den. Medan Amerika stirrar på Kuba lastar han ut sitt program: dokumentkistor, frysta prover, och en sista "arbetstransport" av män ur Tuskegee-registret, norrut mot en trålare i Mobile. Om rollpersonerna inte hunnit fram innan krisveckan blir aktens klimax en kapplöpning genom ett land som håller andan.
+Två sätt att använda krisen — utkastets rekommendation är det första:
+
+- **Väder (rekommenderas).** Krisen har ingen koppling till plotten; den är tryck. Mitt i akten (16–28 oktober) fryser världen: DEFCON 2, baser låses, vägspärrar, utlänningar med kameror blir spionmisstänkta, varje KGB-agent i landet får order som luktar krig. Krisen är inte rollpersonernas problem att lösa — men *Sievers utnyttjar den opportunistiskt*: medan Amerika stirrar på Kuba lastar han ut sitt program — dokumentkistor, frysta prover, och en sista "arbetstransport" av män ur Tuskegee-registret, norrut mot en trålare i Mobile. Om rollpersonerna inte hunnit fram innan krisveckan blir aktens klimax en kapplöpning genom ett land som håller andan. Historien lämnas orörd; äventyret lånar bara dess puls.
+- **Maskineri (alternativ).** ODESSA eldar aktivt på krisen — falska underrättelser till bägge sidor, i hopp om att stormakterna lemlästar varandra och lämnar fältet fritt för Wiedergeburt. Det ger Skorzeny ett aktivt drag och rollpersonerna en chans att avvärja något stort — men det gör honom till en Bond-skurk och krymper verklig historia till kuliss. Väljs detta bör det hållas litet: *en* förfalskad rapport, *en* kanal, upptäckbar och stoppbar i Birmingham-noden.
 
 ### Klimax och övergång
 
@@ -110,9 +126,15 @@ Klimaxet är konfrontationen med Sievers — på laboratoriet, vid utlastningen 
 - Sievers död eller flykt: hans material (eller Baumann, eller Zhao, eller försäkringsbrevets sista bilaga) ger positionen ändå.
 - Boken: om ODESSA fick den i Wien finns den nu antingen i Sievers kassaskåp (och kan tas tillbaka!) eller redan på väg till Spetsbergen — spelarnas facit från Wien avgör.
 
-**Mullvaden löses här.** Under akten kan rollpersonerna testa hemmakanalen: tre olika detaljer i tre olika telegram, och se vilken KGB agerar på. Svaret pekar på chiffret — Arne Lundell, Sturegatan. Vad de gör med honom formar finalen: **grips han tyst** blir Zvezda blinda inför Spetsbergen; **vänds han** kan Frigg mata Moskva med vald sanning (och t.ex. rikta Zvezdas vrede mot ODESSA i finalen); **fumlas det** vet Zvezda att kanalen är bränd och skickar sitt eget expeditionslag norrut i tystnad. Alla tre ger olika slutstrider.
+**Mullvaden löses här.** Hemma stramas snaran åt kring fel hals: Lundells planterade spår har fått internutredningen att cirkla kring **fröken Hansson**, och Hedström — som aldrig trott på det — pressas att stänga av henne. Rollpersonerna sitter på motmedlet: bara de kan testa hemmakanalen utifrån. Tre olika detaljer i tre olika telegram, och se vilken KGB agerar på. Svaret pekar förbi Hanssons skrivbord, ner på chiffret — **Arne Lundell**. Att rentvå fröken Hansson är den känslomässiga utbetalningen; vad de gör med Lundell formar finalen: **grips han tyst** blir Zvezda blinda inför Spetsbergen; **vänds han** kan Frigg mata Moskva med vald sanning (och t.ex. rikta Zvezdas vrede mot ODESSA i finalen); **fumlas det** vet Zvezda att kanalen är bränd och skickar sitt eget expeditionslag norrut i tystnad. Alla tre ger olika slutstrider.
 
 ## Akt 4 — Uppgörelsen (Station Haudegen, Spetsbergen)
+
+### Vägen in: gruvolyckan i Kings Bay
+
+Den 5 november 1962 exploderar gruvan i **Ny-Ålesund**. Tjugoen man dör. Norge tillsätter en undersökningskommission, och i den skandinaviska hjälpsamhetens namn tas svensk gruvsäkerhetsexpertis emot utan frågor — T-kontorets perfekta väg in. Delegationen reser som statens gruvinspektörer, med riktiga papper och ett riktigt uppdrag som tål granskning.
+
+Kings Bay ger mer än täckmantel. Gruvfolket pratar, och i sorgen efter olyckan pratar de mer än vanligt: om trålaren som går mot Nordaustlandet utan att fiska, om ljus över isen där inga ljus ska finnas, om mannen från "väderstationen" som kom till sjukstugan och köpte morfin och bandage kontant. Och en tråd att dra i för den som vill: en del av ODESSA:s försörjningslinje har gått dold i Kings Bay-bolagets egna leveranser — någon på kontoret i Ny-Ålesund har tagit betalt för att inte föra vissa kollin i boken. Om olyckan dessutom ska ha en mörkare kant kan just den bokföringen vara vad ett par av de omkomna snubblat över; det avgörs vid bordet.
 
 ### Platsen
 
@@ -145,9 +167,17 @@ Avgörs av: vem som har boken, vem som håller subjekten, vad som hände Lundell
 | **ODESSA/Skorzeny** | Boken + levande originalsubjekt | Skyddar Capesius, mördar vittnen (Furie), evakuerar Sievers program | Slutmotståndare |
 | **Zvezda/KGB** | Boken, helst också subjekten | Läser Friggs trafik via Lundell, alltid halvsteget fel | Blinda, vilseledda eller tillfälliga bundsförvanter |
 | **Project Phoenix** | Boken — utan att veta att de är infiltrerade | Caldwell skyddar Sievers (hans metoder "levererar"), Morrison jagar läckor, Zhao tvivlar | Fiende, verktyg eller skandal |
-| **Mossad (Sarid)** | Männen, inte datan: Capesius, Sievers, Skorzeny | Skuggar samma spår, byter information mot åtkomst | Allierad med annan måttstock |
-| **Projet Chimère** | Vet inte om boken förrän sent; vill ha *något* för sina år av bevakning | Säljer sin Capesius-akt dyrt i Wien | Enaktsspelare med bra pris |
+| **Mossad (Sarid)** | Männen, inte datan: Capesius, Sievers, Skorzeny | Har Capesius under bevakning i Wien; byter dossier och hjälp mot åtkomst och löften | Allierad med annan måttstock |
 | **Die Träumerin** | Att det ska ta slut | Låter drömmen läcka när det tjänar henne | Nyckel, offer eller domare |
+
+## Verdandis visioner som plotmotor
+
+Verdandis klärvoajans (*se [[Verdandi]]*) är kampanjens inbyggda spårhund — rätt använd för den plotten vidare utan att lösa den åt spelarna. Kostnaden håller den i schack: varje Närvaroseende utlöser ett anfall, drömmarna sliter, och på laddade platser triggar de ofrivilligt.
+
+- **Ankaret till boken.** Verdandi står själv i loggboken — hon och Hana, försök för försök. Det ger henne en känslomässig koppling till föremålet: hon kan nå boken var den än är. Visionerna ger stämning och riktning (ett vitt laboratorium, cikador, ett provtorn genom persiennerna), aldrig adresser.
+- **Ankaret till människorna.** Die Träumerin — barackerna binder dem. Verdandi kan hitta henne, drömma med henne, och känna via **Tråden** när hon är i akut fara: så vet rollpersonerna att ODESSA flyttat henne norrut.
+- **On stage:** med rollpersonerna i fält är hon spaning där ingen kan spana — in i Haudegen innan anfallet, in i operahusets dröm.
+- **Off stage:** lämnas hon i Stockholm blir hennes visionsrapporter en egen intrigtråd: de skrivs ut, arkiveras, telegraferas — *och läses av Lundell*. Zvezda ser vad Verdandi ser, med ett dygns fördröjning. En vision kan till och med visa henne just det: ett rum i Moskva där någon bläddrar i hennes egna ord. Och varje rapport som beskriver vad hon kan gör henne mer värdefull för dem som samlar på original-subjekt.
 
 ## Nya och fastställda nyckelpersoner
 
@@ -169,12 +199,20 @@ Avgörs av: vem som har boken, vem som håller subjekten, vad som hände Lundell
 - **Dröm och verklighet** — Die Träumerins kraft som kampanjens poetik: sanningen syns bara i drömmen, och den som vaknar måste välja vad den ska göra med den.
 - **Fasad och fundament** — månraketerna och rosenträdgårdarna ovanpå; journalerna och frysrummen under.
 
+## Avgjort efter inspel
+
+- **Wien-akten slutar i Wien.** Loggboksfrågan avgörs på plats; USA-spåret framträder först i Stockholms-mellanspelet när materialet analyserats.
+- **Mullvaden är inte fröken Hansson** — men hon misstänkliggörs av den verkliga mullvaden, och att rentvå henne ingår i upplösningen.
+- **Projet Chimère är struket** ur kampanjen; det är Mossad som bevakar Capesius i Wien.
+- **Slutstriden står på Spetsbergen**, och vägen in går via gruvolyckan i Kings Bay (5 november 1962).
+- **Verdandis klärvoajans** används som plotmotor, on stage och off stage (se avsnittet ovan).
+
 ## Öppna frågor (inspel önskas)
 
-1. **Mullvadens identitet.** Utkastet föreslår en ny figur (Lundell, chifferkanslist, utpressad). Alternativ: knyta till verklighetens Wennerström (GRU i stället för KGB), eller — betydligt elakare — göra fröken Hansson till mullvaden. Lundell är förslaget för att inte bränna älskad kanon; säg till om det ska svida mer.
+1. **Mullvadens identitet.** Ny figur föreslagen: Arne Lundell, chifferkanslist, utpressad sedan 1956. Håller han, eller ska mullvaden knytas till verklighetens Wennerström (GRU i stället för KGB)?
 2. **Die Träumerin = "Die Puppe"?** Utkastet återanvänder Nigredo-kanons försvunna flicka. Det knyter ihop snyggt men låser hennes ålder (~30 år 1962). Okej?
 3. **Tuskegee-tråden: hur mörk?** Bortförda studiemän som hamnar på Haudegen är kampanjens hårdaste innehåll. Behålla fullt ut, tona till "prover och journaler" utan bortföranden, eller något emellan?
-4. **Kubakrisen:** räcker den som väder/tryck, eller ska ODESSA aktivt elda på krisen (falsk underrättelse till bägge sidor) som eget spår?
-5. **Skorzenys slutstrid:** Spetsbergen som föreslaget — eller ska platsen hållas öppen till dess Södern spelats?
-6. **Verdandi som måltavla:** okej att göra spelarnas asset till ODESSA:s jaktbyte från Wien och framåt? Det ger personliga insatser men sätter en SLP i centrum.
-7. **Namn:** Nessun Dorma använder aliaset *Wenger* för Capesius, Moskva-akten *Krauss*. Utkastet standardiserar på **Krauss** — då behöver [[Nessun Dorma]] justeras.
+4. **Kubakrisen:** utkastet rekommenderar *väder* (bakgrund och tryck; Sievers utnyttjar krisveckan opportunistiskt) framför *maskineri* (ODESSA eldar på krisen). Godkänns rekommendationen?
+5. **Verdandi som måltavla:** okej att göra spelarnas asset till ODESSA:s jaktbyte från Wien och framåt? Det ger personliga insatser men sätter en SLP i centrum.
+6. **Namn:** Nessun Dorma använder aliaset *Wenger* för Capesius, Moskva-akten *Krauss*. Utkastet standardiserar på **Krauss** — då behöver [[Nessun Dorma]] justeras.
+7. **Kings Bay-olyckans kant:** ren täckmantel och ryktesbrunn, eller ska ODESSA:s dolda leveranslinje ha kostat gruvarbetarliv (sabotage mot den som snubblat över bokföringen)?
