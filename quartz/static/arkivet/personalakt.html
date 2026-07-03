@@ -24,10 +24,10 @@
   input:focus, textarea:focus { background: var(--focus, rgba(155,45,31,0.09)); }
   input::placeholder, textarea::placeholder { color: var(--ink-soft, #9a937f); opacity: .7; font-style: italic; }
   button { font-family: inherit; }
-  /* Each .sheet is a fixed A4-width page. The height is kept ~20 mm under a full
-     A4 (297 mm) so the content always lands inside the printer's printable area
-     — otherwise Safari spills onto an extra page and Chrome clips the bottom.
-     The big text boxes are flex-sized, so they absorb the reduction. */
+  /* Each .sheet is a fixed A4-width page for screen preview. In print (below)
+     the height instead tracks the page box, so the sheet fills whatever paper
+     the user picks. The big text boxes are flex-sized, so they absorb whatever
+     vertical space the sheet ends up with. */
   .sheet { width: 794px; height: 1047px; overflow: hidden; }
   /* Controls + sheets layout: stacked by default (controls above the sheets);
      on wide screens the controls become a sticky left sidebar so the full
@@ -39,16 +39,21 @@
     .layout { flex-direction: row; align-items: flex-start; justify-content: center; gap: 28px; }
     .controls-col { width: 290px; flex: none; position: sticky; top: 24px; max-height: calc(100vh - 48px); overflow: auto; }
   }
-  @page { size: A4; margin: 0; }
+  /* No `size` — the page box adapts to whatever paper the user selects. The
+     10 mm margin keeps the sheet clear of the printer's unprintable hardware
+     edge (which CSS can't detect), so the footer never spills off the page. */
+  @page { margin: 10mm; }
   @media print {
     html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     .backdrop { background: transparent !important; padding: 0 !important; gap: 0 !important; --paper: transparent !important; }
     .screen-only { display: none !important; }
     /* The controls/vault sidebar is screen-only; flatten the layout wrappers. */
     .layout, .sheets-col { display: block !important; }
-    /* Use physical units in print so the box matches the page exactly (px↔mm
-       rounding is what pushed the footer over the edge before). */
-    .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 210mm !important; height: 277mm !important; break-inside: avoid; }
+    /* Fill the page content box: in paged media `vh`/`%` resolve against the
+       page box that the @page margin leaves, so the sheet stretches to the
+       selected paper without hardcoding A4 dimensions. The flex-sized text
+       boxes absorb the resulting height. */
+    .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 100% !important; height: 100vh !important; break-inside: avoid; }
     .sheet + .sheet { break-before: page; }
     input:focus, textarea:focus { background: transparent !important; }
     input::placeholder, textarea::placeholder { color: transparent !important; opacity: 0 !important; }
