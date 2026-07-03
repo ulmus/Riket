@@ -278,6 +278,18 @@
       "#irt-modal input[type=email]{width:100%;font:400 14px/1.4 'Courier Prime',monospace;color:#23201a;background:#fff;border:1px solid #c7bea6;border-radius:3px;padding:9px 10px;outline:0;}" +
       "#irt-modal input:focus{border-color:#0c3a54;}" +
       "#irt-turnstile{margin:0 0 14px;}" +
+      // QR login view
+      ".irt-or{display:flex;align-items:center;gap:10px;margin:16px 0 12px;color:#8a8268;font:600 10px/1 'Archivo';letter-spacing:.14em;text-transform:uppercase;}" +
+      ".irt-or::before,.irt-or::after{content:'';flex:1;height:1px;background:#d8cfb8;}" +
+      ".irt-qr-hint{margin:9px 0 0 !important;font:400 11px/1.55 'Courier Prime',monospace !important;color:#6f6858;}" +
+      ".irt-qr-steps{margin:0 0 14px;padding:0 0 0 20px;font:400 12px/1.6 'Courier Prime',monospace;color:#3f3c34;}" +
+      ".irt-qr-steps li{margin:0 0 4px;}" +
+      ".irt-qr-box{display:flex;align-items:center;justify-content:center;min-height:200px;padding:14px;background:#fff;border:1px solid #c7bea6;border-radius:6px;}" +
+      ".irt-qr-img{width:216px;height:auto;max-width:100%;image-rendering:pixelated;image-rendering:crisp-edges;display:block;}" +
+      ".irt-qr-wait{display:flex;align-items:center;gap:10px;color:#8a8268;font:400 12px/1.4 'Courier Prime',monospace;}" +
+      ".irt-spin{display:inline-block;width:18px;height:18px;border:2px solid #d8cfb8;border-top-color:#0c3a54;border-radius:50%;animation:irt-spin .8s linear infinite;}" +
+      "@keyframes irt-spin{to{transform:rotate(360deg);}}" +
+      ".irt-qr-status{margin:12px 0 0 !important;text-align:center;font:400 12px/1.5 'Courier Prime',monospace !important;color:#8a8268;}" +
       // buttons + messages (shared)
       ".irt-btn{font:600 12px/1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:#f3ecdb;background:#0c3a54;border:1px solid #0c3a54;padding:10px 14px;border-radius:3px;cursor:pointer;text-decoration:none;display:inline-block;}" +
       ".irt-btn.ghost{color:#cabf9f;background:transparent;border-color:#5a574d;}" +
@@ -365,9 +377,17 @@
 
   // ---- login modal (shared) -----------------------------------------------
 
-  var overlay, modal, loginState = { sent: null, notice: null };
+  var overlay, modal, loginState = { mode: "email", sent: null, notice: null };
   var turnstileWidgetId = null;
   var turnstileToken = "";
+
+  // QR login ("log in on this device by approving from a phone you're already
+  // logged in on"). qrState.id is our private poll secret; qrState.url is what
+  // the QR encodes (the approval page + the code the phone approves with).
+  var qrState = { status: "", url: "", id: "", error: null };
+  var qrPollTimer = null;
+  var qrExpTimer = null;
+  var qrScriptLoading = null;
 
   function buildLoginModal() {
     if (overlay) return;
@@ -389,6 +409,12 @@
       else if (act === "send") sendLink();
       else if (act === "again") {
         loginState.sent = null;
+        loginState.notice = null;
+        renderLogin();
+      } else if (act === "qr" || act === "qrnew") openQrView();
+      else if (act === "email") {
+        stopQrPoll();
+        loginState.mode = "email";
         loginState.notice = null;
         renderLogin();
       }
@@ -414,37 +440,202 @@
   }
   function closeLogin() {
     if (overlay) overlay.style.display = "none";
+    stopQrPoll();
+    loginState.mode = "email";
     loginState.sent = null;
     loginState.notice = null;
   }
   function renderLogin() {
-    var body = loginState.sent
-      ? '<div class="bd">' +
+    var body;
+    if (loginState.mode === "qr") {
+      body = qrViewHtml();
+    } else if (loginState.sent) {
+      body =
+        '<div class="bd">' +
         (loginState.notice ? '<div class="irt-msg ' + loginState.notice.kind + '">' + esc(loginState.notice.text) + "</div>" : "") +
         "<p>En inloggningslänk har skickats till <strong>" +
         esc(loginState.sent) +
         "</strong>. Öppna den i samma webbläsare — länken gäller i 15&nbsp;minuter.</p>" +
         '<div><button class="irt-btn ghost" data-act="again" type="button">Skicka till en annan adress</button></div>' +
-        "</div>"
-      : '<div class="bd">' +
+        "</div>";
+    } else {
+      body =
+        '<div class="bd">' +
         (loginState.notice ? '<div class="irt-msg ' + loginState.notice.kind + '">' + esc(loginState.notice.text) + "</div>" : "") +
         "<p>Logga in för att lägga dina rollpersoner i Arkivskåpet (på servern) och nå dem från vilken enhet som helst — inget lösenord behövs.</p>" +
         '<label for="irt-email">E-post</label>' +
         '<input id="irt-email" type="email" autocomplete="email" placeholder="namn@exempel.se" />' +
         '<div id="irt-turnstile"></div>' +
         '<div style="margin-top:14px;"><button class="irt-btn" data-act="send" type="button">Skicka inloggningslänk</button></div>' +
+        '<div class="irt-or"><span>eller</span></div>' +
+        '<button class="irt-btn ghost" data-act="qr" type="button" style="width:100%;">Logga in med QR-kod</button>' +
+        '<p class="irt-qr-hint">Har du redan loggat in i Arkivskåpet på telefonen? Logga in här genom att skanna en QR-kod med den.</p>' +
         '<p style="margin:16px 0 0;padding-top:13px;border-top:1px solid #d8cfb8;font-size:11px;line-height:1.6;color:#6f6858;"><strong>Integritet:</strong> ' +
         PRIVACY_HTML +
         "</p>" +
         "</div>";
+    }
     modal.innerHTML =
       '<div class="hd"><h2>Logga in</h2><button class="x" data-act="close" type="button" aria-label="Stäng">&times;</button></div>' +
       body;
-    if (!loginState.sent) {
+    if (loginState.mode !== "qr" && !loginState.sent) {
       mountTurnstile();
       var i = modal.querySelector("#irt-email");
       if (i) i.focus();
     }
+    if (loginState.mode === "qr") renderQrCode();
+  }
+
+  // ---- QR login ------------------------------------------------------------
+
+  function qrViewHtml() {
+    var inner;
+    if (qrState.error) {
+      inner =
+        '<div class="irt-msg err">' + esc(qrState.error) + "</div>" +
+        '<div style="margin-top:14px;"><button class="irt-btn" data-act="qrnew" type="button">Försök igen</button></div>';
+    } else if (qrState.status === "expired") {
+      inner =
+        '<div class="irt-msg err">QR-koden har gått ut.</div>' +
+        '<div style="margin-top:14px;"><button class="irt-btn" data-act="qrnew" type="button">Skapa ny kod</button></div>';
+    } else {
+      inner =
+        '<ol class="irt-qr-steps"><li>Öppna kameran på telefonen där du redan är inloggad i Arkivskåpet.</li>' +
+        "<li>Rikta den mot koden och öppna länken som visas.</li>" +
+        "<li>Tryck <strong>Godkänn</strong> på telefonen — då loggas den här enheten in.</li></ol>" +
+        '<div class="irt-qr-box" id="irt-qr">' +
+        (qrState.url
+          ? '<div class="irt-qr-wait"><span class="irt-spin"></span></div>'
+          : '<div class="irt-qr-wait"><span class="irt-spin"></span>Skapar kod…</div>') +
+        "</div>" +
+        '<p class="irt-qr-status" id="irt-qr-status">Väntar på att koden skannas…</p>';
+    }
+    return (
+      '<div class="bd">' +
+      inner +
+      '<div style="margin-top:16px;"><button class="irt-btn ghost sm" data-act="email" type="button">← Logga in med e-post i stället</button></div>' +
+      "</div>"
+    );
+  }
+
+  function openQrView() {
+    stopQrPoll();
+    loginState.mode = "qr";
+    loginState.notice = null;
+    qrState = { status: "loading", url: "", id: "", error: null };
+    renderLogin();
+    api("/auth/qr/start", { method: "POST", body: {} }).then(function (r) {
+      if (loginState.mode !== "qr") return; // user navigated away meanwhile
+      if (r.ok && r.data && r.data.url && r.data.id) {
+        qrState.url = r.data.url;
+        qrState.id = r.data.id;
+        qrState.status = "pending";
+        renderLogin();
+        startQrPoll(r.data.id);
+        var ttl = (r.data.expiresIn || 300) * 1000;
+        qrExpTimer = setTimeout(function () {
+          if (loginState.mode === "qr" && qrState.status === "pending") {
+            stopQrPoll();
+            qrState.status = "expired";
+            renderLogin();
+          }
+        }, ttl);
+      } else {
+        qrState.error = (r.data && r.data.error) || "Kunde inte skapa QR-kod. Försök igen.";
+        renderLogin();
+      }
+    });
+  }
+
+  function loadQrScript(cb) {
+    if (window.qrcode) return cb();
+    if (qrScriptLoading) {
+      qrScriptLoading.push(cb);
+      return;
+    }
+    qrScriptLoading = [cb];
+    var s = document.createElement("script");
+    s.src = "/static/arkivet/qrcode.js";
+    s.async = true;
+    s.onload = function () {
+      var q = qrScriptLoading || [];
+      qrScriptLoading = null;
+      q.forEach(function (fn) {
+        fn();
+      });
+    };
+    s.onerror = function () {
+      qrScriptLoading = null;
+      if (loginState.mode === "qr") {
+        qrState.error = "Kunde inte ladda QR-koden. Kontrollera nätverket och försök igen.";
+        renderLogin();
+      }
+    };
+    document.head.appendChild(s);
+  }
+
+  function renderQrCode() {
+    if (!qrState.url) return;
+    var el = modal.querySelector("#irt-qr");
+    if (!el) return;
+    loadQrScript(function () {
+      if (loginState.mode !== "qr") return;
+      var cur = modal.querySelector("#irt-qr");
+      if (!cur || !window.qrcode) return;
+      try {
+        var qr = window.qrcode(0, "M");
+        qr.addData(qrState.url);
+        qr.make();
+        cur.innerHTML = qr.createImgTag(6, 0);
+        var img = cur.querySelector("img");
+        if (img) {
+          img.className = "irt-qr-img";
+          img.alt = "QR-kod för inloggning";
+        }
+      } catch (e) {
+        qrState.error = "Kunde inte rita QR-koden. Försök igen.";
+        renderLogin();
+      }
+    });
+  }
+
+  function startQrPoll(id) {
+    stopQrPoll();
+    qrPollTimer = setInterval(function () {
+      if (loginState.mode !== "qr" || qrState.id !== id) return stopQrPoll();
+      api("/auth/qr/status?id=" + encodeURIComponent(id)).then(function (r) {
+        if (loginState.mode !== "qr" || qrState.id !== id) return;
+        var st = (r.data && r.data.status) || (r.ok ? "" : "error");
+        if (st === "approved") {
+          onQrApproved(r.data && r.data.email);
+        } else if (st === "expired") {
+          stopQrPoll();
+          qrState.status = "expired";
+          renderLogin();
+        }
+        // "pending" (and transient errors) — keep waiting.
+      });
+    }, 2500);
+  }
+
+  function stopQrPoll() {
+    if (qrPollTimer) {
+      clearInterval(qrPollTimer);
+      qrPollTimer = null;
+    }
+    if (qrExpTimer) {
+      clearTimeout(qrExpTimer);
+      qrExpTimer = null;
+    }
+  }
+
+  function onQrApproved(email) {
+    stopQrPoll();
+    me = { authenticated: true, email: email || (me && me.email) };
+    closeLogin();
+    toast("Inloggad.");
+    if (galleryEl) renderGallery();
+    if (chipEl) renderChip();
   }
 
   function sendLink() {

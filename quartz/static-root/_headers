@@ -1,0 +1,12 @@
+# Cloudflare Pages response headers. This file is emitted to the deploy root
+# (public/_headers) by the Static emitter — see quartz/plugins/emitters/static.ts.
+#
+# The Personalakts-arkivet is a small hand-authored static app: its pages
+# (index.html, personalakt.html, qr.html) reference their scripts (store.js,
+# qrcode.js, support.js) by plain name, so without this a browser could keep a
+# stale copy after a deploy and miss new code. `no-cache` lets the browser store
+# them but forces a revalidation against the server on each load (cheap 304s via
+# ETag; Cloudflare purges its edge cache on every deploy), so a new deploy is
+# picked up immediately instead of being masked by a cached script.
+/static/arkivet/*
+  Cache-Control: no-cache

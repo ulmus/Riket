@@ -54,6 +54,15 @@ const TABLES = [
      invited_at INTEGER NOT NULL,
      PRIMARY KEY (owner_id, member_id)
    )`,
+  `CREATE TABLE IF NOT EXISTS qr_logins (
+     id TEXT PRIMARY KEY,
+     code_hash TEXT NOT NULL,
+     created_at INTEGER NOT NULL,
+     expires_at INTEGER NOT NULL,
+     approved_at INTEGER,
+     user_id TEXT,
+     consumed_at INTEGER
+   )`,
 ];
 
 // Indexes are created after the column adds, so an index on a
@@ -64,6 +73,7 @@ const INDEXES = [
   "CREATE INDEX IF NOT EXISTS idx_char_assignee ON characters (assigned_to, deleted_at)",
   "CREATE INDEX IF NOT EXISTS idx_charver ON character_versions (character_id)",
   "CREATE INDEX IF NOT EXISTS idx_member_of ON vault_members (member_id)",
+  "CREATE INDEX IF NOT EXISTS idx_qr_code ON qr_logins (code_hash)",
 ];
 
 /** Add a column only if the table doesn't already have it. Returns true if added. */

@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Godkänn inloggning · I Rikets Tjänst</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600;700;800&family=Courier+Prime:wght@400;700&family=Saira+Condensed:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root { --paper:#EDE7D8; --panel:#F5F1E6; --ink:#23201A; --ink-soft:#8A8268; --rule:#C7BEA6; --accent:#0C3A54; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:#2b2a26; color:#f3ecdb; font-family:'Archivo',sans-serif; min-height:100vh; padding:40px 20px 60px; }
+  .wrap { max-width:520px; margin:0 auto; }
+  header.masthead { display:flex; align-items:center; gap:14px; border:2px solid #000; background:var(--panel); color:var(--ink); border-radius:8px; padding:14px 18px; }
+  header.masthead img { width:54px; height:54px; object-fit:contain; flex:none; }
+  header.masthead .t { font:600 9px/1.3 'Archivo'; letter-spacing:.22em; text-transform:uppercase; color:var(--ink-soft); }
+  header.masthead h1 { margin:2px 0 0; font:800 26px/0.95 'Saira Condensed',sans-serif; letter-spacing:.02em; text-transform:uppercase; color:var(--ink); }
+  @media (max-width:560px){ header.masthead h1 { font-size:22px; } }
+  .card { margin-top:22px; background:var(--panel); color:var(--ink); border:1px solid var(--rule); border-radius:8px; overflow:hidden; }
+  .card .hd { padding:15px 18px; background:#dcd1b8; border-bottom:1px solid var(--rule); font:800 17px/1.15 'Saira Condensed',sans-serif; letter-spacing:.08em; text-transform:uppercase; }
+  .card .bd { padding:20px 18px; }
+  .card p { margin:0 0 14px; font:400 14px/1.6 'Courier Prime',monospace; }
+  .card p.sub { color:#6f6858; font-size:12px; }
+  .who { display:inline-block; background:#eef4f6; border:1px solid #bcd3db; border-radius:4px; padding:4px 8px; font:700 13px/1 'Courier Prime',monospace; color:var(--accent); }
+  .warn { border-left:3px solid #b58a2a; background:#f6efdb; color:#6a5620; padding:10px 12px; border-radius:0 4px 4px 0; font:400 12px/1.55 'Courier Prime',monospace; margin:0 0 16px; }
+  .row { display:flex; gap:10px; flex-wrap:wrap; align-items:center; }
+  .msg { font:400 13px/1.55 'Courier Prime',monospace; border-radius:4px; padding:11px 13px; }
+  .msg.ok { background:#e3eee4; color:#2c5d34; border:1px solid #b9d6bd; }
+  .msg.err { background:#f3e2df; color:#8a2c1f; border:1px solid #ddb9b2; }
+  .btn { font:600 12px/1 'Archivo'; letter-spacing:.06em; text-transform:uppercase; color:#f3ecdb; background:var(--accent); border:1px solid var(--accent); padding:12px 18px; border-radius:3px; cursor:pointer; text-decoration:none; display:inline-block; }
+  .btn.ghost { color:#5a574d; background:transparent; border-color:#b7ad91; }
+  .btn:disabled { opacity:.5; cursor:default; }
+  .spin { display:inline-block; width:16px; height:16px; border:2px solid #c7bea6; border-top-color:var(--accent); border-radius:50%; animation:qr-spin .8s linear infinite; vertical-align:-3px; margin-right:8px; }
+  @keyframes qr-spin { to { transform:rotate(360deg); } }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <img src="assets/irt-logo.png" alt="Program Frigg">
+      <div>
+        <div class="t">I Rikets Tjänst · Program Frigg</div>
+        <h1>Godkänn inloggning</h1>
+      </div>
+    </header>
+
+    <div class="card">
+      <div class="hd">Arkivskåpet</div>
+      <div class="bd" id="qr-body">
+        <p><span class="spin"></span>Laddar…</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- store.js gives us the shared login modal + styles for the "not logged in
+       on this device" case, and cleans up the ?login= redirect param. -->
+  <script src="./store.js"></script>
+  <script>
+  (function () {
+    "use strict";
+    var CODE_KEY = "irt-qr-code";
+    var body = document.getElementById("qr-body");
+
+    function esc(s) {
+      return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+      });
+    }
+
+    // The code arrives in ?c=; stash it so it survives a magic-link round trip
+    // (log in on this device, come back here) and isn't left in the address bar.
+    var params = new URLSearchParams(location.search);
+    var fromUrl = params.get("c");
+    if (fromUrl) {
+      try { sessionStorage.setItem(CODE_KEY, fromUrl); } catch (e) {}
+      params.delete("c");
+      var qs = params.toString();
+      try { history.replaceState(null, "", location.pathname + (qs ? "?" + qs : "")); } catch (e) {}
+    }
+    function getCode() {
+      if (fromUrl) return fromUrl;
+      try { return sessionStorage.getItem(CODE_KEY) || ""; } catch (e) { return ""; }
+    }
+    function clearCode() {
+      try { sessionStorage.removeItem(CODE_KEY); } catch (e) {}
+    }
+
+    function api(path, opts) {
+      opts = opts || {};
+      var init = { method: opts.method || "GET", credentials: "same-origin", headers: {} };
+      if (opts.body !== undefined) {
+        init.headers["Content-Type"] = "application/json";
+        init.body = JSON.stringify(opts.body);
+      }
+      return fetch("/api" + path, init).then(function (res) {
+        return res.json().catch(function () { return {}; }).then(function (data) {
+          return { status: res.status, ok: res.ok, data: data };
+        });
+      });
+    }
+
+    function render(html) { body.innerHTML = html; }
+
+    function showInvalid() {
+      render(
+        '<div class="msg err">Länken saknar en giltig kod. Öppna QR-koden på nytt från enheten du vill logga in på.</div>'
+      );
+    }
+    function showNeedLogin() {
+      render(
+        "<p>För att godkänna behöver du vara inloggad i Arkivskåpet <strong>på den här enheten</strong> (till exempel din telefon).</p>" +
+        '<div class="row"><button class="btn" id="qr-login" type="button">Logga in</button></div>'
+      );
+      var b = document.getElementById("qr-login");
+      if (b) b.addEventListener("click", function () {
+        if (window.IRTStore && window.IRTStore.openLogin) window.IRTStore.openLogin();
+        else location.href = "./index.html";
+      });
+    }
+    function showReady(email) {
+      render(
+        "<p>En annan enhet vill logga in i Arkivskåpet som" +
+        (email ? ' <span class="who">' + esc(email) + "</span>" : " du") +
+        ".</p>" +
+        '<div class="warn"><strong>Godkänn bara om det är du</strong> som just nu försöker logga in på en annan enhet. Den som godkänns får full åtkomst till dina rollpersoner i Arkivskåpet.</div>' +
+        '<div class="row"><button class="btn" id="qr-approve" type="button">Godkänn inloggning</button>' +
+        '<button class="btn ghost" id="qr-cancel" type="button">Avbryt</button></div>'
+      );
+      document.getElementById("qr-approve").addEventListener("click", approve);
+      document.getElementById("qr-cancel").addEventListener("click", function () {
+        clearCode();
+        render('<p class="sub">Ingen inloggning godkändes. Du kan stänga den här sidan.</p>');
+      });
+    }
+    function approve() {
+      var code = getCode();
+      if (!code) return showInvalid();
+      var btn = document.getElementById("qr-approve");
+      if (btn) { btn.disabled = true; btn.textContent = "Godkänner…"; }
+      var cancel = document.getElementById("qr-cancel");
+      if (cancel) cancel.disabled = true;
+      api("/auth/qr/approve", { method: "POST", body: { code: code } }).then(function (r) {
+        if (r.ok) {
+          clearCode();
+          render(
+            '<div class="msg ok">Klart! Den andra enheten loggas in nu.</div>' +
+            '<p class="sub" style="margin-top:14px;">Du kan stänga den här sidan.</p>'
+          );
+        } else if (r.status === 401) {
+          showNeedLogin();
+        } else if (r.status === 410) {
+          clearCode();
+          render('<div class="msg err">QR-koden har gått ut. Skapa en ny på enheten du vill logga in på.</div>');
+        } else {
+          if (btn) { btn.disabled = false; btn.textContent = "Godkänn inloggning"; }
+          if (cancel) cancel.disabled = false;
+          render(
+            '<div class="msg err">' + esc((r.data && r.data.error) || "Något gick fel. Försök igen.") + "</div>"
+          );
+        }
+      });
+    }
+
+    function start() {
+      if (!getCode()) return showInvalid();
+      api("/auth/me").then(function (r) {
+        var m = (r.ok && r.data) || {};
+        if (m.authenticated) showReady(m.email);
+        else showNeedLogin();
+      });
+    }
+
+    if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start);
+    else start();
+  })();
+  </script>
+</body>
+</html>
