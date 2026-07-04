@@ -40,6 +40,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [ ] Analysen på T-kontoret: kodknäckningen, "vidare hos K.S.", Richters korsläsning mot Paperclip-listorna — bägge Wien-utfallen ska landa i Sievers/Huntsville.
 - [ ] Verdandis vision av boken (hon står själv i den) som alternativt/kompletterande spår.
 - [ ] Mullvadsjakten som spelbar mellanakt: kretsen av misstänkta, barium-måltiderna, Lundells plantering mot fröken Hansson, skuggningsscenerna (residenturan på Villagatan).
+- [ ] Örnen-fyndet: kodnamnet i de upprullade papperen (Wennerström-ekot) som epilogtråd bortom kampanjen.
 - [ ] De två slutlägena (Lundell faller före avresan / jakten följer med in i akt 3) och deras konsekvenser.
 
 ## Akt 3 — Södern (Alabama) *(plot i utkast)*
@@ -68,5 +69,5 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [x] Skorzenys mål genom hela kampanjen — *förslag i [[Plotutkast]]: Unternehmen Wiedergeburt — knäcka härdningen (kontrollerat trauma utan labilitet) och massproducera stabila ENS; loggboken + levande stabila originalsubjekt är pusselbitarna*.
 - [x] Mullvaden är inte fröken Hansson — hon misstänkliggörs av den verkliga mullvaden och rentvås av rollpersonerna.
 - [x] Tuskegee-kopplingen behålls som bakgrund (journaler, register, manifest) — inte som äventyrsplats.
-- [ ] Mullvadens identitet (förslag: Arne Lundell — se öppna frågor i [[Plotutkast]]).
+- [x] Mullvadens identitet: **Arne Lundell** (inte Wennerström — han kan falla redan i mellanakten). Wennerström skymtar i stället som kodnamnet **ÖRNEN** i de upprullade papperen, med facit i juni 1963.
 - [ ] Hur de förgrenade sluten ser ut i detalj och deras konsekvenser för settingen.

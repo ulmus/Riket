@@ -105,6 +105,7 @@ Mellanakten har två motorer: analysen som pekar västerut, och mullvadsjakten.
 - **Barium-måltiderna.** Tre olika detaljer i tre olika telegram, och se vilken Zvezda agerar på. Kräver tålamod och en kanal att mäta mot — kanske en av Verdandis visioner som facit.
 - **Planteringen.** **Arne Lundell** känner värmen och börjar så: ett kvitto i fel pärm, en telefonnotering med fel datum, en kopia som "hittas" i en handväska. Allt pekar mot **fröken Hansson**, kvinnan vars skrivbord allting passerar och som därför är den perfekta syndabocken. Utredarna får bevisen serverade — frågan är om spelarna sväljer dem.
 - **Gatan.** Den som skuggar rätt person ser till slut en kontakt: en parkbänk vid Karlaplan, en bil med diplomatskyltar från residenturan på Villagatan, ett paket som byter portfölj.
+- **Örnen.** I materialet som rullas upp — en kvittenslista i en död brevlåda, en förares anteckningsbok — återkommer en täckbeteckning som inte är Lundells: **ÖRNEN**. En källa med tillgång till flygvapnets och försvarsledningens innersta, förd av *den andra* sovjetiska tjänsten — GRU, inte KGB. Inte T-kontorets läcka, och utom räckhåll för utredningen: en tråd som pekar bortom kampanjen. Spelare som kan sin historia får en kall kår; övriga får facit i juni 1963 *(jfr [[Världen 1961]])*.
 
 Mellanakten kan sluta på två sätt, och bägge är bra: **Lundell faller före avresan** (grips tyst eller vänds — då reser rollpersonerna till Alabama med ren kanal, eller med en kanal Frigg kontrollerar), eller **jakten förblir oavslutad** — misstanken hänger kvar, Hansson är avstängd, och upplösningen följer med in i akt 3 där rollpersonerna kan testa hemmakanalen utifrån. Faller Lundell fel — skräms, flyr, hittas i Nybroviken — vet Zvezda att kanalen är bränd och agerar därefter.
 
@@ -262,6 +263,7 @@ Utfallen kan gå åt alla håll: de tre som tyst förbund som avgör finalen öv
 
 - **Wien-akten slutar i Wien.** Loggboksfrågan avgörs på plats; USA-spåret framträder först i Stockholms-mellanakten när materialet analyserats.
 - **Mullvadsjakten spelas som mellanakt i Stockholm** — jordnära kontraspionage som kontrast till de exotiska platserna. Upplösningen kan landa där eller följa med in i akt 3.
+- **Mullvaden är Arne Lundell** — eftersom han kan falla redan i mellanakten kan mullvaden inte vara Wennerström. Men Wennerström finns med som eko: kodnamnet **ÖRNEN** i de upprullade papperen, en större läcka hos den andra tjänsten, utom räckhåll — med facit i juni 1963.
 - **Mullvaden är inte fröken Hansson** — men hon misstänkliggörs av den verkliga mullvaden, och att rentvå henne ingår i upplösningen.
 - **Tuskegee-kopplingen behålls** — den gör ondskan mänsklig, inte bara en SS-sak — men som bakgrund: referensen lever i subjektregister, journalkopior och transportmanifest, inte som äventyrsplats. Alabama-noderna är två: Huntsville och Birmingham.
 - **Friktionen ingenjörskonst/jungiansk mystik** är inarbetad som tema och som spelbar motor i Huntsville-noden (Baumanns "laboratorium utan ritningar", revisionsbräckan, Sievers alkemi-glidning, motorprovs-scenen).
@@ -274,12 +276,11 @@ Utfallen kan gå åt alla håll: de tre som tyst förbund som avgör finalen öv
 
 ## Öppna frågor (inspel önskas)
 
-1. **Mullvadens identitet.** Ny figur föreslagen: Arne Lundell, chifferkanslist, utpressad sedan 1956. Håller han, eller ska mullvaden knytas till verklighetens Wennerström (GRU i stället för KGB)?
-2. **Die Träumerin = "Die Puppe"?** Utkastet återanvänder Nigredo-kanons försvunna flicka. Det knyter ihop snyggt men låser hennes ålder (~30 år 1962). Okej?
-3. **Furies detaljer:** täcknamnet *Lotte Hartmann* och födelseåret 1938 (sex år i labbet, 24 år 1962) är förslag — och hennes riktiga namn finns bara i loggboken. Ska det fastställas i kanon eller lämnas åt boken/spelet?
-4. **Hedströms vetskap:** utkastet låter Hedström ha känt till Mengeles "nornor" (han döpte ju sin asset efter beteckningen). Hur mycket visste han — och sökte han upp Vera av omsorg eller beräkning?
-5. **Kubakrisen:** utkastet rekommenderar *väder* (bakgrund och tryck; Sievers utnyttjar krisveckan opportunistiskt) framför *maskineri* (ODESSA eldar på krisen). Godkänns rekommendationen?
-6. **Verdandi som måltavla:** okej att göra spelarnas asset till ODESSA:s jaktbyte från Wien och framåt? Det ger personliga insatser men sätter en SLP i centrum.
-7. **Namn:** Nessun Dorma använder aliaset *Wenger* för Capesius, Moskva-akten *Krauss*. Utkastet standardiserar på **Krauss** — då behöver [[Nessun Dorma]] justeras.
-8. **Kings Bay-olyckans kant:** ren täckmantel och ryktesbrunn, eller ska ODESSA:s dolda leveranslinje ha kostat gruvarbetarliv (sabotage mot den som snubblat över bokföringen)?
-9. **Kodnamnet:** utkastet använder *Unternehmen Wiedergeburt* (återfödelsen); alternativet *Wiedergeboren* (återfödd) nämndes i inspelen. Vilket ska gälla?
+1. **Die Träumerin = "Die Puppe"?** Utkastet återanvänder Nigredo-kanons försvunna flicka. Det knyter ihop snyggt men låser hennes ålder (~30 år 1962). Okej?
+2. **Furies detaljer:** täcknamnet *Lotte Hartmann* och födelseåret 1938 (sex år i labbet, 24 år 1962) är förslag — och hennes riktiga namn finns bara i loggboken. Ska det fastställas i kanon eller lämnas åt boken/spelet?
+3. **Hedströms vetskap:** utkastet låter Hedström ha känt till Mengeles "nornor" (han döpte ju sin asset efter beteckningen). Hur mycket visste han — och sökte han upp Vera av omsorg eller beräkning?
+4. **Kubakrisen:** utkastet rekommenderar *väder* (bakgrund och tryck; Sievers utnyttjar krisveckan opportunistiskt) framför *maskineri* (ODESSA eldar på krisen). Godkänns rekommendationen?
+5. **Verdandi som måltavla:** okej att göra spelarnas asset till ODESSA:s jaktbyte från Wien och framåt? Det ger personliga insatser men sätter en SLP i centrum.
+6. **Namn:** Nessun Dorma använder aliaset *Wenger* för Capesius, Moskva-akten *Krauss*. Utkastet standardiserar på **Krauss** — då behöver [[Nessun Dorma]] justeras.
+7. **Kings Bay-olyckans kant:** ren täckmantel och ryktesbrunn, eller ska ODESSA:s dolda leveranslinje ha kostat gruvarbetarliv (sabotage mot den som snubblat över bokföringen)?
+8. **Kodnamnet:** utkastet använder *Unternehmen Wiedergeburt* (återfödelsen); alternativet *Wiedergeboren* (återfödd) nämndes i inspelen. Vilket ska gälla?
