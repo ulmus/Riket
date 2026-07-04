@@ -49,7 +49,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [ ] Täckmanteln (svensk pressdelegation) och resvägen.
 - [ ] Kubakrisen som väder: lås, spärrar, Sievers evakuering via Mobile. *(Beslut väder/maskineri — se öppna frågor i [[Plotutkast]].)*
 - [ ] Mullvadsupplösningen på distans, om Lundell inte föll i mellanakten — med de tre utfallen.
-- [ ] Furies fälttest i Birmingham (marschen som exploderar) som mini-klimax.
+- [ ] Furie utan koppel i Birmingham: hennes osanktionerade härjningar i medborgarrättsrörelsen som bro mellan noderna och mini-klimax (ODESSA jagar sitt eget vapen).
 - [ ] Stat-block: Sievers, Zhao, Morrison, Harmon (FBI), Zvezda-agenterna, Baumann.
 - [ ] Klimax: konfrontationen med Sievers och övergången norrut.
 
@@ -57,12 +57,14 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [ ] Vägen in: gruvolyckan i Kings Bay (5 nov 1962), kommissionstäckmanteln, gruvfolkets rykten, ODESSA:s dolda leveranslinje.
 - [ ] Station Haudegen: anläggning, karta, garnison, die Nachgeborenen.
 - [ ] Slutstridens uppställningar utifrån tidigare val (Lundell-utfallen, Sarid, Phoenix-städpatrull).
-- [ ] Skriv de förgrenade sluten (boken, Skorzeny, Die Träumerin, Verdandi, Tuskegee-männen, Lundell).
+- [ ] Drömmötet mellan de tre nornorna som möjligt egentligt klimax; Furies akt i loggboken som växel för hennes vändning.
+- [ ] Skriv de förgrenade sluten (boken, Skorzeny, Die Träumerin, Verdandi, Furie, Tuskegee-männen, Lundell).
 - [ ] Stat-block: Skorzeny, Furie (final), Wiedergeburts forskare och Nachgeborenen.
 
 ## Återkommande canon att fastställa
 - [x] Die Träumerins riktiga namn och bakgrund — *förslag i [[Plotutkast]]: Chava Blum, Nigredos "Die Puppe"*.
-- [x] Furies ursprung och bindning till ODESSA — *förslag i [[Plotutkast]]: Grete Vollmer, f.d. Aufseherin, Wiedergeburts enda stabila framgång*.
+- [x] Furies ursprung och bindning till ODESSA — *förslag i [[Plotutkast]]: Lotte Hartmann, f. 1934, Lebensborn-barn ur Nigredos sena ariska serie (die Auslese), uppfostrad inom ODESSA på en lögn som loggboken kan punktera*.
+- [x] De tre ENS-kvinnorna (Verdandi, Die Träumerin, Furie) är Mengeles tre överlevande original — och kampanjens slutbåge är att de tar initiativet (nornorna: Urd/Verdandi/Skuld). Se [[Plotutkast]].
 - [x] Skorzenys mål genom hela kampanjen — *förslag i [[Plotutkast]]: Unternehmen Wiedergeburt — knäcka härdningen (kontrollerat trauma utan labilitet) och massproducera stabila ENS; loggboken + levande stabila originalsubjekt är pusselbitarna*.
 - [x] Mullvaden är inte fröken Hansson — hon misstänkliggörs av den verkliga mullvaden och rentvås av rollpersonerna.
 - [x] Tuskegee-kopplingen behålls som bakgrund (journaler, register, manifest) — inte som äventyrsplats.
