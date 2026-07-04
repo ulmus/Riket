@@ -47,10 +47,10 @@ Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val �
 - **Otto Skorzeny** — håller ihop ODESSA. Skuggan bakom varje akt, och slutstridens motståndare.
 - **Dr. Victor Capesius** — apotekaren från Auschwitz, alias *Mag. pharm. Viktor Krauss* i Wien. Har boken. Måste inte överleva Wien — bara lämna tydliga spår.
 - **Die Träumerin** — Capesius hustru. Judinna från lägren, gift med sin fångvaktare. ENS vars kraft löser upp gränsen mellan dröm och verklighet.
-- **Furie** — ung ENS ur Nigredos sena ariska försöksserie, uppfostrad inom ODESSA. Kan mana fram raseri-utbrott hos andra. Nätverkets vapen, från mordet på Fritz Bauer till slutstriden.
+- **Furie** — Lebensborn-barnet ur Nigredos sista försöksserie: Mengeles yngsta norna, utan minnen, uppfostrad inom ODESSA under falskt namn. Kan mana fram raseri-utbrott hos andra. Nätverkets vapen, från mordet på Fritz Bauer till slutstriden.
 - **Dr. Konrad Sievers** — Nigredo-veteran och ODESSA:s man i Project Phoenix. Nyckeln till loggbokens kodade bilagor.
 - **Verdandi** — Friggs asset, synsk. Reser med rollpersonerna — och är, som ett av de sista levande originalsubjekten från Auschwitz, själv ett byte ODESSA jagar.
 
-Verdandi, Die Träumerin och Furie är Mengeles tre överlevande original — en på varje sida av spelet. Männen använder dem genom hela kampanjen; slutet tillhör dem.
+Verdandi, Die Träumerin och Furie är Mengeles **"tre nornor"** — hans eget namn på dem: tre subjekt ur samma försöksserie, de enda kända överlevande originalen, en på varje sida av spelet. Männen använder dem genom hela kampanjen; slutet tillhör dem.
 
 Nya karaktärer, aktdetaljer och de förgrenade sluten utvecklas i [[Plotutkast]].

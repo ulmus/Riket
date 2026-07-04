@@ -63,8 +63,8 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 
 ## Återkommande canon att fastställa
 - [x] Die Träumerins riktiga namn och bakgrund — *förslag i [[Plotutkast]]: Chava Blum, Nigredos "Die Puppe"*.
-- [x] Furies ursprung och bindning till ODESSA — *förslag i [[Plotutkast]]: Lotte Hartmann, f. 1934, Lebensborn-barn ur Nigredos sena ariska serie (die Auslese), uppfostrad inom ODESSA på en lögn som loggboken kan punktera*.
-- [x] De tre ENS-kvinnorna (Verdandi, Die Träumerin, Furie) är Mengeles tre överlevande original — och kampanjens slutbåge är att de tar initiativet (nornorna: Urd/Verdandi/Skuld). Se [[Plotutkast]].
+- [x] Furies ursprung och bindning till ODESSA — *förslag i [[Plotutkast]]: "Lotte Hartmann" (ODESSA:s namn), f. 1938, Lebensborn-barn ur die Auslese, Mengeles yngsta norna; medtagen av Skorzeny 1945, utan minnen; hennes riktiga namn finns bara i loggboken*.
+- [x] De tre ENS-kvinnorna (Verdandi, Die Träumerin, Furie) är Mengeles **"tre nornor"** — hans egen beteckning, ur samma försöksserie, sedda i labbet — och kampanjens slutbåge är att de tar initiativet (Urd/Verdandi/Skuld). Skorzeny och Furie vet inte att Capesius hustru är en av dem. Se [[Plotutkast]].
 - [x] Skorzenys mål genom hela kampanjen — *förslag i [[Plotutkast]]: Unternehmen Wiedergeburt — knäcka härdningen (kontrollerat trauma utan labilitet) och massproducera stabila ENS; loggboken + levande stabila originalsubjekt är pusselbitarna*.
 - [x] Mullvaden är inte fröken Hansson — hon misstänkliggörs av den verkliga mullvaden och rentvås av rollpersonerna.
 - [x] Tuskegee-kopplingen behålls som bakgrund (journaler, register, manifest) — inte som äventyrsplats.
