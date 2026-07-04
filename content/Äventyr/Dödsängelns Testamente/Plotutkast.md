@@ -8,11 +8,13 @@ draft: true
 
 ## Ryggraden
 
-Kampanjen handlar om två saker som ODESSA behöver för att återupprätta Tredje riket: **datan** och **de levande bevisen**.
+**Skorzenys plan.** Målet med **Unternehmen Wiedergeburt** är inte att skapa enskilda ENS:er — det kan alla program, till priset av lik och vrak. Målet är **massproduktion**: att knäcka gåtan om hur man utsätter utvalda för *kontrollerade* trauman som triggar krafterna utan att göra bärarna labila. En kader stabila, lojala supersoldater — **die Nachgeborenen** — som ska återupprätta Tredje riket när stunden kommer. Sievers kallar gåtan **die Härtung**, härdningen: samma ord som när man härdar stål, ingenjörsspråk för något som kanske inte går att konstruera. Hittills har Wiedergeburt misslyckats i varje kull. **Furie** är programmets enda "framgång", och hon är precis så instabil som teorin förutsäger — ett vapen, inte en armé. Allt Skorzeny gör i kampanjen är i tjänst hos denna ännu olösta gåta.
 
-**Datan** är Mengeles loggbok — Dödsängelns Testamente. ODESSA driver sedan slutet av femtiotalet en egen ENS-anläggning på Spetsbergen, **Station Haudegen**, byggd kring en övergiven tysk väderstation från kriget. Programmet heter **Unternehmen Wiedergeburt**. Det går dåligt. Deras kopia av Nigredo-dokumentationen är fragmentarisk, försökspersonerna dör eller blir obrukbara, och de få som överlever — som **Furie** — är för få och för instabila för att bygga något på. Loggboken innehåller det som saknas: Mengeles fullständiga protokoll, doserna, urvalen, misstagen. Det är därför Skorzeny plötsligt pressar Capesius ([[Nessun Dorma]]): Wiedergeburt håller på att svälta ihjäl.
+För att lösa den behöver han två saker: **datan** och **de levande bevisen**.
 
-**De levande bevisen** är original-subjekten från Auschwitz — de få Nigredo-framgångar som ännu lever. Protokoll räcker inte; Wiedergeburts forskare behöver studera en fungerande, stabil ENS skapad med originalmetoden. Två sådana finns inom räckhåll: **Die Träumerin**, Capesius hustru — och **Verdandi**, rollpersonernas egen asset. Från och med Wien är Frigg-delegationen inte bara jägare. De reser med ett byte.
+**Datan** är Mengeles loggbok — Dödsängelns Testamente. ODESSA driver sedan slutet av femtiotalet Wiedergeburt vid **Station Haudegen** på Spetsbergen, byggd kring en övergiven tysk väderstation från kriget, men deras kopia av Nigredo-dokumentationen är fragmentarisk. Loggboken innehåller det som saknas: Mengeles fullständiga protokoll, doserna, urvalen, misstagen — hela den empiriska grunden för att skilja trauma som härdar från trauma som krossar. Det är därför Skorzeny plötsligt pressar Capesius ([[Nessun Dorma]]): Wiedergeburt håller på att svälta ihjäl.
+
+**De levande bevisen** är original-subjekten från Auschwitz — och det räcker inte med vilka som helst. Wiedergeburts forskare behöver studera de enda kända fallen där metoden gav kraft *utan* att förståndet gick förlorat: en fungerande, stabil ENS skapad med originalmetoden, att kalibrera härdningen mot. Två sådana finns i hela världen, och bägge kommer inom räckhåll: **Die Träumerin**, Capesius hustru — och **Verdandi**, rollpersonernas egen asset. Från och med Wien är Frigg-delegationen inte bara jägare. De reser med ett byte.
 
 Två saker till löper genom hela kampanjen:
 
@@ -26,7 +28,7 @@ Två saker till löper genom hela kampanjen:
 | --- | --- | --- |
 | 17–31 maj 1962 | Moskva | Akt 1: Mengeles dödsbädd. Spåret pekar mot Wien. |
 | Juni 1962 | Frankfurt, Wien | Akt 2: Bauer mördas. Jakten på apotekaren. Turandot. Loggboksfrågan avgörs. |
-| Juli–augusti 1962 | Stockholm | Mellanspel: analysen på T-kontoret pekar ut Alabama. Mullvadsmisstanken väcks. |
+| Juli–augusti 1962 | Stockholm | Mellanakt: analysen pekar ut Alabama, och mullvadsjakten spelas på hemmaplan. |
 | September–oktober 1962 | Alabama | Akt 3: Södern. Kulminerar under Kubakrisens vecka (16–28 oktober). |
 | 5 november 1962 | Ny-Ålesund | Gruvolyckan i Kings Bay: 21 döda. Sveriges väg in till Spetsbergen öppnas. |
 | December 1962–januari 1963 | Spetsbergen | Akt 4: Uppgörelsen, i polarnatt. |
@@ -37,8 +39,8 @@ Kubakrisen orsakas inte av någon i kampanjen — men för Skorzeny är den bevi
 
 1. **[[Moskva]]** — som skriven. Slutar med att spåret pekar mot Capesius i Wien.
 2. **[[Apotekaren]]** — Frankfurt och Wien, 2–3 sessioner. Slutar *i Wien*: rollpersonerna får loggboken eller mister den, och därmed är loggboksfrågan avgjord. Inga USA-pekare delas ut här.
-   *Mellanspel — Stockholm.* Kort spelbart mellanspel (eller montage) mellan akterna: analysen av det hemförda materialet pekar ut Alabama, och mullvadsmisstanken väcks.
-3. **[[Södern]]** — Alabama, 3–4 sessioner. Sandlåda med tre noder: Huntsville, Macon County (Tuskegee) och Birmingham. Slutar med att Sievers exponeras och Spetsbergen pekas ut.
+   **Mellanakt — Stockholm**, 1–2 sessioner. Jordnära kontrast till de exotiska platserna: analysen av det hemförda materialet pekar ut Alabama — och mullvadsjakten spelas på hemmaplan, i spårvagnar, korridorer och sommarstängda kontor.
+3. **[[Södern]]** — Alabama, 3–4 sessioner. Sandlåda med två noder: Huntsville och Birmingham; Tuskegee-studien kastar sin skugga genom journalerna. Slutar med att Sievers exponeras och Spetsbergen pekas ut.
 4. **[[Uppgörelsen]]** — Station Haudegen, Spetsbergen, 1–2 sessioner. Vägen in går via gruvolyckan i Kings Bay. Förgrenade slut.
 
 *(Kairo-akten är struken — de tyska raketforskarna i Nassers Egypten får bli ett annat äventyr.)*
@@ -85,29 +87,45 @@ Akten slutar när ridån går ner. Två huvudutfall, båda spelbara — och i in
 
 Slutligen sår akten mullvads-fröet: KGB slog till mot adresser som bara rapporterats hem i Friggs egen trafik. Verdandi (Genomlysning) eller en uppmärksam spelare kan notera det. Ingen upplösning än — bara den kalla insikten att någon läser deras post.
 
-## Mellanspel — Stockholm (juli–augusti 1962)
+## Mellanakt — Stockholm (juli–augusti 1962)
 
-Ett kort spelbart mellanspel — eller ett montage, om gruppen hellre går vidare fort. Debriefing på Sturegatan, sommarstiltje, och tre saker som skickar kampanjen västerut.
+En egen liten akt, 1–2 sessioner, och en medveten kontrast: efter Wieneroperans drömmar är detta jordnära spionhantverk på hemmaplan — skuggning på spårvagn 7, döda brevlådor i Humlegården, aktvagnar i T-kontorets källare, kaffe som står och kallnar. Sommarstiltjen ligger över stan; halva kontoret är på semester, vilket gör det både lättare och läskigare att räkna ut vem som rör vilka papper.
+
+Mellanakten har två motorer: analysen som pekar västerut, och mullvadsjakten.
 
 **Analysen.** T-kontorets arbete med det hemförda materialet är det som öppnar USA-spåret. Har Frigg boken knäcks Mengeles kod delvis: kärnrecepten — Katalysator-serierna, "Präparat L" — hänvisar till bilagor som inte finns i boken: *"vidare hos K.S."*. **Dr. Richter**, T-kontorets västtyska källa (*se [[Moskva]]*), korsläser SS-personalregistren mot Paperclip-listorna: K.S. är **Dr. Konrad Sievers**, Nigredos doseringskemist — sedan 1946 i USA, sedan 1960 laboratoriechef i Huntsville, Alabama. Fick ODESSA boken läggs samma pussel i stället med försäkringsbrevet och operabeslagen: betalningsvägarna går via en bank i Zürich till ett stiftelsekonto i Alabama, och korrespondensen nämner "vår vän hos Phoenix". Bägge vägarna landar i samma namn.
 
 **Verdandi och boken.** Verdandi står själv i loggboken. Hon och Hana är dokumenterade i den, försök för försök, i Mengeles prydliga handstil. Det ger henne en känslomässig koppling till själva föremålet — **Närvaroseende** kan nå boken var den än är i världen. Om boken missades i Wien är hennes vision det andra spåret: ett vitt laboratorium, takfläktar, cikador utanför, och genom persiennerna ett provtorn för raketmotorer. Om Frigg har boken kan hon i stället se *vilka som letar efter den* — och att någon av dem läser Friggs egna telegram.
 
-**Mullvadsmisstanken.** Zvezdas omöjliga tajming i Wien går inte längre att avfärda som otur. Hedström beordrar en tyst internutredning. **Arne Lundell** känner värmen — och börjar plantera: ett kvitto i fel pärm, en telefonnotering med fel datum, en kopia som "hittas" i en handväska. Allt pekar mot **fröken Hansson**, kvinnan vars skrivbord allting passerar och som därför är den perfekta syndabocken. När rollpersonerna reser mot Alabama är hemmafronten förgiftad: deras rapporter läses fortfarande av fel ögon, och den enda på kontoret som alltid hjälpt dem är på väg att bli utpekad. *(Upplösning i akt 3 — se Mullvaden nedan.)*
+**Mullvadsjakten.** Zvezdas omöjliga tajming i Wien går inte längre att avfärda som otur. Hedström beordrar en tyst internutredning — och ber rollpersonerna, de enda han vet stod *utanför* kanalen när den läckte, att driva den. Jakten spelas som klassiskt kontraspionage i sommar-Stockholm:
+
+- **Kretsen.** Vem såg Wien-trafiken? En handfull namn: chiffret (Lundell), arkivet, två handläggare, fröken Hansson — och Hedström själv. Alla har vanor, svagheter och något de inte berättar; bara en av dem är en förrädare.
+- **Barium-måltiderna.** Tre olika detaljer i tre olika telegram, och se vilken Zvezda agerar på. Kräver tålamod och en kanal att mäta mot — kanske en av Verdandis visioner som facit.
+- **Planteringen.** **Arne Lundell** känner värmen och börjar så: ett kvitto i fel pärm, en telefonnotering med fel datum, en kopia som "hittas" i en handväska. Allt pekar mot **fröken Hansson**, kvinnan vars skrivbord allting passerar och som därför är den perfekta syndabocken. Utredarna får bevisen serverade — frågan är om spelarna sväljer dem.
+- **Gatan.** Den som skuggar rätt person ser till slut en kontakt: en parkbänk vid Karlaplan, en bil med diplomatskyltar från residenturan på Villagatan, ett paket som byter portfölj.
+
+Mellanakten kan sluta på två sätt, och bägge är bra: **Lundell faller före avresan** (grips tyst eller vänds — då reser rollpersonerna till Alabama med ren kanal, eller med en kanal Frigg kontrollerar), eller **jakten förblir oavslutad** — misstanken hänger kvar, Hansson är avstängd, och upplösningen följer med in i akt 3 där rollpersonerna kan testa hemmakanalen utifrån. Faller Lundell fel — skräms, flyr, hittas i Nybroviken — vet Zvezda att kanalen är bränd och agerar därefter.
 
 ## Akt 3 — Södern (Alabama, september–oktober 1962)
 
 ### Uppdrag och täckmantel
 
-Mellanspelets analys pekar ut Sievers, och Frigg skickar delegationen till USA med dubbelt uppdrag: hitta honom och det han har (boken, eller nyckeln till den bok Frigg redan håller) — och hjälpa till att ringa in läckan hemifrån, för internutredningen på Sturegatan cirklar kring fel person. Sverige kan inte agera öppet på amerikansk mark; upptäcks de av FBI eller Phoenix är de ensamma. Täckmantel: **svensk pressdelegation** som bevakar rymdkapplöpningen (Apollo-programmet är världsnyheter och Huntsville tar stolt emot utländsk press), alternativt ingenjörer på studiebesök via SAAB. Verdandi reser som stenograf igen — och är, utan att Frigg fullt förstått det, ett av ODESSA:s mål.
+Mellanaktens analys pekar ut Sievers, och Frigg skickar delegationen till USA för att hitta honom och det han har (boken, eller nyckeln till den bok Frigg redan håller) — och, om mullvaden ännu inte fallit, ringa in läckan utifrån medan internutredningen hemma cirklar kring fel person. Sverige kan inte agera öppet på amerikansk mark; upptäcks de av FBI eller Phoenix är de ensamma. Täckmantel: **svensk pressdelegation** som bevakar rymdkapplöpningen (Apollo-programmet är världsnyheter och Huntsville tar stolt emot utländsk press), alternativt ingenjörer på studiebesök via SAAB. Verdandi reser som stenograf igen — och är, utan att Frigg fullt förstått det, ett av ODESSA:s mål.
 
-### Tre noder
+### Två noder — och en skugga
 
-Akten är en sandlåda kring tre platser i Alabama. Rollpersonerna kan börja var de vill; ledtrådar korsar mellan noderna.
+Akten är en sandlåda kring två platser i Alabama. Rollpersonerna kan börja var de vill; ledtrådar korsar mellan noderna. Den tredje tråden — Tuskegee — är ingen plats man reser till utan en skugga som stiger ur pappren.
 
 **Huntsville — "Rocket City".** Marshall Space Flight Center, von Brauns tyskar, Bierabend-klubbar där hemlängtan och selektiv minnesförlust serveras tillsammans. **Dr. Konrad Sievers** leder ett biomedicinskt laboratorium ("human factors" — hur människokroppen tål acceleration, syrebrist, isolering: perfekt civil fasad för ENS-forskning) och är oantastlig: NASA-hjälte, rotarian, änkling med rosenträdgård. Ingångar: pressbesöket (officiell rundtur, och Sievers *känner igen* lägerlukten på Verdandi — en scen med is i), den tyska kolonins skvaller, en Paperclip-kollega med samvete — raketingenjören **Dr. Ernst Baumann**, som anar vad Sievers fraktar i sina "instrumentcontainrar" och dricker för mycket för att våga säga det. Tema: Apollo — landet som siktar mot månen med hjälp av män det valt att inte fråga ut.
 
-**Macon County — Tuskegee.** Här blir det mörkt. Sedan 1932 driver folkhälsomyndigheten sin syfilisstudie på svarta arrendatorer — obehandlade, ovetande, bokförda. I denna värld har Sievers upptäckt studien och parasiterar på den: dess register är en färdig katalog över män som är svårt sjuka, fattiga, och som ingen myndighet kommer att leta efter. Nigredos lärosats — att genuin hjälplöshet är råvaran — praktiserad i Jim Crow-land, med amerikanska federala papper som täckmantel. Män försvinner ("åkte norrut för arbete"). Sjuksköterskan **Alberta Greer**, studiens ansikte utåt och själv kluven mellan lojalitet och skuld, för dubbla journaler. Pastor **Samuel Ellison** i Notasulga har en lista i sin bibel: elva namn, elva försvunna. Hans dotter **Ruthie Ellison**, folkskollärarinna och aktiv i rösträttsregistreringen, är den som vågar tala med utlänningar. Rollpersonerna — vita européer i ett län där sheriffen rapporterar till Klanen — måste förtjäna varje samtal. Tema: vem som räknas som människa; att Nigredo inte var ett tyskt undantag utan en logik som trivs var helst någon definierats bort.
+**Räknestickan och skuggan.** Friktionen mellan raketbyggets ingenjörskonst och ENS-forskningens jungianska mystik är inte kuliss — den är Huntsville-nodens motor, och den går att *spela på*:
+
+- **Ett laboratorium utan ritningar.** Det är Baumanns formulering, och det är så han fattade misstanke: allt på MSFC har ritningar, toleranser, provprotokoll — utom Sievers källarvåning, där hyllorna är fulla av *journaler*. Drömprotokoll, anamneser, marginalanteckningar på latin. För en ingenjör är det inte forskning; det är något annat, något som luktar kyrka.
+- **Resultat som inte går att upprepa.** Ingenjörer litar på reproducerbarhet; ENS-forskning har ingen. Det är en spelbar bräcka: Sievers budget överlever ingen teknisk revision, och en räknenisse på MSFC:s kontor har redan börjat ställa frågor. Rollpersonerna kan elda på granskningen — byråkrati som vapen.
+- **Alkemisten i maskinhallen.** Sievers är själv friktionen förkroppsligad: doseringskemisten som ville industrialisera psyket och tvingats bli mystiker. Hans senare journaler glider från tabeller till drömtydning — och *Nigredo* är, som han mycket väl vet, ett alkemiskt begrepp: svartnandet, det första steget, då materien bryts ner för att förvandlas. Neumanns jungianska ramverk gav lägret dess teori; Sievers har ägnat sjutton år åt att försöka pressa in den i ett kalkylblad, och misslyckandet håller på att göra honom religiös.
+- **Scenbild:** ett statiskt motorprov — F-1-motorn i provbocken, marken darrar, dånet känns i bröstbenet — samtidigt som Verdandi dras in i en ofrivillig vision. Förnuftets högsta triumf och drömmen som blöder igenom, i samma bild. Månen är målet för bägge: raketerna ska dit, och Die Träumerin drömmer om den.
+
+**Tuskegee — skuggan i journalerna.** Här blir det mörkt, men på papper, inte på plats. Sedan 1932 driver folkhälsomyndigheten sin syfilisstudie på svarta arrendatorer i Macon County — obehandlade, ovetande, bokförda. I denna värld har Sievers upptäckt studien och parasiterar på den: dess register är en färdig katalog över män som är svårt sjuka, fattiga, och som ingen myndighet kommer att leta efter. Nigredos lärosats — att genuin hjälplöshet är råvaran — praktiserad i Jim Crow-land, med amerikanska federala papper som täckmantel. Rollpersonerna reser aldrig dit; sanningen stiger ur dokumenten allteftersom de gräver: ett subjektregister i Sievers kassaskåp med studienummer och adresser i Macon County, kopierade journalsidor signerade *syster A. Greer*, ett transportmanifest över "lantarbetare" mot Mobile — och, mest tyst av allt, en bunt obesvarade brev från en pastor Ellison i Notasulga som frågar myndigheterna vart elva av hans församlingsmedlemmar tagit vägen. Tema: vem som räknas som människa; att Nigredo inte var ett tyskt undantag utan en logik som trivs var helst någon definierats bort — och att ondskan här inte bär SS-uniform utan federala brevhuvuden.
 
 **Birmingham.** Medborgarrättsrörelsens frontstad och aktens tryckkokare. Här finns Mossads amerikanska kontaktnät (Sarid dyker upp igen — hans lista har Sievers namn på den), KGB:s illegalist under TASS-kredentialer, och FBI-agenten **Dwight Harmon** som övervakar rörelsen men snubblat på något han inte förstår: samma bilar som skuggar predikanter skuggar också en NASA-forskare. Här kan ODESSA också visa sitt fulaste ansikte: **Furie flygs in för fälttest.** En fredlig rösträttsmarsch som utan förklaring exploderar i våld — demonstranter som river sönder varandra inför kamerorna — är för Skorzeny både experiment och politiskt vapen: bilder som "bevisar" att rörelsen är våldsam. Om rollpersonerna sett Furies verk i Frankfurt känner de igen signaturen. Att avslöja eller stoppa henne här är ett eget mini-klimax — och räddar liv som annars debiteras rörelsen.
 
@@ -126,7 +144,7 @@ Klimaxet är konfrontationen med Sievers — på laboratoriet, vid utlastningen 
 - Sievers död eller flykt: hans material (eller Baumann, eller Zhao, eller försäkringsbrevets sista bilaga) ger positionen ändå.
 - Boken: om ODESSA fick den i Wien finns den nu antingen i Sievers kassaskåp (och kan tas tillbaka!) eller redan på väg till Spetsbergen — spelarnas facit från Wien avgör.
 
-**Mullvaden löses här.** Hemma stramas snaran åt kring fel hals: Lundells planterade spår har fått internutredningen att cirkla kring **fröken Hansson**, och Hedström — som aldrig trott på det — pressas att stänga av henne. Rollpersonerna sitter på motmedlet: bara de kan testa hemmakanalen utifrån. Tre olika detaljer i tre olika telegram, och se vilken KGB agerar på. Svaret pekar förbi Hanssons skrivbord, ner på chiffret — **Arne Lundell**. Att rentvå fröken Hansson är den känslomässiga utbetalningen; vad de gör med Lundell formar finalen: **grips han tyst** blir Zvezda blinda inför Spetsbergen; **vänds han** kan Frigg mata Moskva med vald sanning (och t.ex. rikta Zvezdas vrede mot ODESSA i finalen); **fumlas det** vet Zvezda att kanalen är bränd och skickar sitt eget expeditionslag norrut i tystnad. Alla tre ger olika slutstrider.
+**Mullvaden — om han inte redan fallit.** Föll Lundell i mellanakten spelas akt 3 med de korten: ren kanal, styrd kanal eller bränd kanal. Blev jakten oavslutad fortsätter den här, på distans: hemma är **fröken Hansson** avstängd och Hedström pressad, medan rollpersonerna testar hemmakanalen utifrån — tre olika detaljer i tre olika telegram, och se vilken KGB agerar på. Svaret pekar förbi Hanssons skrivbord, ner på chiffret. Att rentvå henne är den känslomässiga utbetalningen; vad som görs med **Lundell** formar finalen: **grips han tyst** blir Zvezda blinda inför Spetsbergen; **vänds han** kan Frigg mata Moskva med vald sanning (och t.ex. rikta Zvezdas vrede mot ODESSA i finalen); **fumlas det** vet Zvezda att kanalen är bränd och skickar sitt eget expeditionslag norrut i tystnad. Alla tre ger olika slutstrider.
 
 ## Akt 4 — Uppgörelsen (Station Haudegen, Spetsbergen)
 
@@ -142,7 +160,9 @@ Nordaustlandet i polarnatt. Kriegsmarines gamla väderstation Haudegen — den s
 
 ### Vad som står på spel
 
-Wiedergeburt är Skorzenys livsverk: en kader lojala ENS — han kallar dem **die Nachgeborenen**, de efterfödda — som ska bli kärnan i det Fjärde riket när stormakterna störtat varandra. Kubakrisen har övertygat honom om att stunden är nära. Men programmet är ett misslyckande i förfall: rader av frysta "Strukna", en handfull instabila överlevare (Furie är prototypen och den enda pålitliga), och forskare som vet att nästa kull dör den med — om de inte får loggbokens protokoll *och* ett levande originalsubjekt att kalibrera mot. Därför är slutakten aldrig bara en räd: ODESSA vill ha något rollpersonerna har. Die Träumerin — om hon är med, i skydd eller i förvar — och Verdandi är de sista Nigredo-framgångarna i världen. Skorzenys slutbud är alltid detsamma: *boken kan brinna, ge mig kvinnan.*
+Wiedergeburt är Skorzenys livsverk, och slutakten är hans sista chans att lösa härdningen: kontrollerat trauma som ger kraft utan labilitet, i skala — die Nachgeborenen som kärnan i ett återupprättat Tredje rike när stormakterna störtat varandra. Kubakrisen har övertygat honom om att stunden är nära. Men programmet är ett misslyckande i förfall: rader av frysta "Strukna", en handfull instabila överlevare (Furie är prototypen och den enda pålitliga), och forskare som vet att nästa kull dör den med — om de inte får loggbokens protokoll *och* ett levande originalsubjekt att kalibrera mot. Därför är slutakten aldrig bara en räd: ODESSA vill ha något rollpersonerna har. Die Träumerin — om hon är med, i skydd eller i förvar — och Verdandi är de sista stabila Nigredo-framgångarna i världen. Skorzenys slutbud är alltid detsamma: *boken kan brinna, ge mig kvinnan.*
+
+Och här ligger kampanjens tysta ironi, som spelet kan låta forskarna ana och Skorzeny vägra se: gåtan är antagligen olöslig. Teorin kräver *genuin* hjälplöshet — och genuin hjälplöshet kan inte beställas fram i kontrollerad dos; den som vet att experimentet är kontrollerat är inte hjälplös på riktigt. Och det som höll de två stabila subjekten hela var inget protokoll: Verdandi bär ett löfte (*aldrig mer*), Die Träumerin byggde sig en dröm att bo i. Mening som bäraren själv skapat — det enda i hela ekvationen som inte går att massproducera. Härdningen är alkemi i ordets ärligaste mening: guldmakeri.
 
 ### Slutstriden
 
@@ -164,7 +184,7 @@ Avgörs av: vem som har boken, vem som håller subjekten, vad som hände Lundell
 | Fraktion | Vill ha | Gör därför | Kan bli |
 | --- | --- | --- | --- |
 | **Frigg/T-kontoret** | Boken intakt, läckan tätad | Skickar RP, döljer hur mycket Hedström personligen vill ha protokollen | Uppdragsgivare med egen mörk botten |
-| **ODESSA/Skorzeny** | Boken + levande originalsubjekt | Skyddar Capesius, mördar vittnen (Furie), evakuerar Sievers program | Slutmotståndare |
+| **ODESSA/Skorzeny** | Lösa härdningen — massproduktion av stabila ENS: boken + levande stabila originalsubjekt | Skyddar Capesius, mördar vittnen (Furie), evakuerar Sievers program | Slutmotståndare |
 | **Zvezda/KGB** | Boken, helst också subjekten | Läser Friggs trafik via Lundell, alltid halvsteget fel | Blinda, vilseledda eller tillfälliga bundsförvanter |
 | **Project Phoenix** | Boken — utan att veta att de är infiltrerade | Caldwell skyddar Sievers (hans metoder "levererar"), Morrison jagar läckor, Zhao tvivlar | Fiende, verktyg eller skandal |
 | **Mossad (Sarid)** | Männen, inte datan: Capesius, Sievers, Skorzeny | Har Capesius under bevakning i Wien; byter dossier och hjälp mot åtkomst och löften | Allierad med annan måttstock |
@@ -186,9 +206,7 @@ Verdandis klärvoajans (*se [[Verdandi]]*) är kampanjens inbyggda spårhund —
 - **Dr. Konrad Sievers.** SS-Sturmbannführer, kemist i Nigredo, Mengeles doserings-specialist — "K.S." i loggbokens marginaler: den ende som kan läsa bokens kodade bilagshänvisningar. Via Paperclip 1946 till USA; sedan 1960 laboratoriechef i Huntsville och konsult åt Phoenix (Caldwell svär vid honom). ODESSA:s brohuvud i Amerika. Charmerande, pedantisk, helt utan ånger: "Vi gör samma sak som ni, mina herrar. Vi för bara bättre journaler."
 - **Arne Lundell.** 44, chifferkanslist på T-kontoret, Sturegatan 58. Oansenlig, plikttrogen, ogift. KGB fångade honom 1956 med fotografier från ett rum på ett hotell i Helsingfors — den sortens bilder som 1956 betyder slutet på ett liv. Han hatar sina förare, hjälper dem ändå, och har slutat kunna se sig själv i spegeln. Ingen skurk — en människa i en fälla, vilket gör upplösningen värre.
 - **Eli Sarid.** Mossad-katsa, ca 45, född i Wien, familjen förintad. Ledde teamet som skuggade Capesius; efter Wien flyttas hans mandat till nätverket: Sievers, sedan Skorzeny. Metodisk, torr, omutlig i en enda sak: männen ska ställas inför rätta, inte plundras på data. "Ni vill läsa boken. Jag vill bränna biblioteket."
-- **Pastor Samuel Ellison** — baptistpastor i Notasulga, Macon County. Elva namn i bibeln, en församling som lärt sig att myndigheter är något man överlever. **Ruthie Ellison** — hans dotter, lärarinna, rösträttsaktivist; den som vågar tala med främlingar och den som betalar priset om det går fel.
-- **Alberta Greer** — sjuksköterska i syfilisstudien, männens enda kontakt med "vården". Vet mer om försvinnandena än hon orkar veta. Dubbla journaler i en hattask.
-- **Dr. Ernst Baumann** — Paperclip-ingenjör i Huntsville, samvete i sprit. Vet vad Sievers containrar väger.
+- **Dr. Ernst Baumann** — Paperclip-ingenjör i Huntsville, samvete i sprit. Vet vad Sievers containrar väger, och den som myntar "ett laboratorium utan ritningar". *(Pastor Ellison och syster Greer förekommer endast som namn i dokumenten — Tuskegee är bakgrund, inte äventyrsplats.)*
 - **Dr. Helen Zhao, Colonel Frank Morrison, Dr. James Caldwell** — *(befintlig kanon, se [[Project Phoenix (USA)]])* — spricka, spärr och blind fläck i Phoenix.
 - **Fräulein Hilde Möller** — Bauers sekreterare, Furies första kända offer i kampanjen. Om rollpersonerna hjälper henne (ingen annan kommer att tro henne) har de ett vittne som känner igen känslan av att bli tömd — användbart varje gång Furie är nära.
 
@@ -198,11 +216,15 @@ Verdandis klärvoajans (*se [[Verdandi]]*) är kampanjens inbyggda spårhund —
 - **Vem räknas som människa?** Lägret, Tuskegee, Jim Crow, Friggs egna "Strukna" — samma fråga, olika flaggor.
 - **Dröm och verklighet** — Die Träumerins kraft som kampanjens poetik: sanningen syns bara i drömmen, och den som vaknar måste välja vad den ska göra med den.
 - **Fasad och fundament** — månraketerna och rosenträdgårdarna ovanpå; journalerna och frysrummen under.
+- **Räknestickan och drömmen** — raketbygget är upplysningens triumf: mätbart, upprepbart, ritat. ENS-forskningen är dess skugga: jungiansk, oupprepbar, alkemisk (*Nigredo* — svartnandet — är ett alkemiskt begrepp). Kampanjen ställer dem vägg i vägg i Huntsville och låter friktionen bära noden.
 
 ## Avgjort efter inspel
 
-- **Wien-akten slutar i Wien.** Loggboksfrågan avgörs på plats; USA-spåret framträder först i Stockholms-mellanspelet när materialet analyserats.
+- **Wien-akten slutar i Wien.** Loggboksfrågan avgörs på plats; USA-spåret framträder först i Stockholms-mellanakten när materialet analyserats.
+- **Mullvadsjakten spelas som mellanakt i Stockholm** — jordnära kontraspionage som kontrast till de exotiska platserna. Upplösningen kan landa där eller följa med in i akt 3.
 - **Mullvaden är inte fröken Hansson** — men hon misstänkliggörs av den verkliga mullvaden, och att rentvå henne ingår i upplösningen.
+- **Tuskegee-kopplingen behålls** — den gör ondskan mänsklig, inte bara en SS-sak — men som bakgrund: referensen lever i subjektregister, journalkopior och transportmanifest, inte som äventyrsplats. Alabama-noderna är två: Huntsville och Birmingham.
+- **Friktionen ingenjörskonst/jungiansk mystik** är inarbetad som tema och som spelbar motor i Huntsville-noden (Baumanns "laboratorium utan ritningar", revisionsbräckan, Sievers alkemi-glidning, motorprovs-scenen).
 - **Projet Chimère är struket** ur kampanjen; det är Mossad som bevakar Capesius i Wien.
 - **Slutstriden står på Spetsbergen**, och vägen in går via gruvolyckan i Kings Bay (5 november 1962).
 - **Verdandis klärvoajans** används som plotmotor, on stage och off stage (se avsnittet ovan).
@@ -211,8 +233,8 @@ Verdandis klärvoajans (*se [[Verdandi]]*) är kampanjens inbyggda spårhund —
 
 1. **Mullvadens identitet.** Ny figur föreslagen: Arne Lundell, chifferkanslist, utpressad sedan 1956. Håller han, eller ska mullvaden knytas till verklighetens Wennerström (GRU i stället för KGB)?
 2. **Die Träumerin = "Die Puppe"?** Utkastet återanvänder Nigredo-kanons försvunna flicka. Det knyter ihop snyggt men låser hennes ålder (~30 år 1962). Okej?
-3. **Tuskegee-tråden: hur mörk?** Bortförda studiemän som hamnar på Haudegen är kampanjens hårdaste innehåll. Behålla fullt ut, tona till "prover och journaler" utan bortföranden, eller något emellan?
-4. **Kubakrisen:** utkastet rekommenderar *väder* (bakgrund och tryck; Sievers utnyttjar krisveckan opportunistiskt) framför *maskineri* (ODESSA eldar på krisen). Godkänns rekommendationen?
-5. **Verdandi som måltavla:** okej att göra spelarnas asset till ODESSA:s jaktbyte från Wien och framåt? Det ger personliga insatser men sätter en SLP i centrum.
-6. **Namn:** Nessun Dorma använder aliaset *Wenger* för Capesius, Moskva-akten *Krauss*. Utkastet standardiserar på **Krauss** — då behöver [[Nessun Dorma]] justeras.
-7. **Kings Bay-olyckans kant:** ren täckmantel och ryktesbrunn, eller ska ODESSA:s dolda leveranslinje ha kostat gruvarbetarliv (sabotage mot den som snubblat över bokföringen)?
+3. **Kubakrisen:** utkastet rekommenderar *väder* (bakgrund och tryck; Sievers utnyttjar krisveckan opportunistiskt) framför *maskineri* (ODESSA eldar på krisen). Godkänns rekommendationen?
+4. **Verdandi som måltavla:** okej att göra spelarnas asset till ODESSA:s jaktbyte från Wien och framåt? Det ger personliga insatser men sätter en SLP i centrum.
+5. **Namn:** Nessun Dorma använder aliaset *Wenger* för Capesius, Moskva-akten *Krauss*. Utkastet standardiserar på **Krauss** — då behöver [[Nessun Dorma]] justeras.
+6. **Kings Bay-olyckans kant:** ren täckmantel och ryktesbrunn, eller ska ODESSA:s dolda leveranslinje ha kostat gruvarbetarliv (sabotage mot den som snubblat över bokföringen)?
+7. **Kodnamnet:** utkastet använder *Unternehmen Wiedergeburt* (återfödelsen); alternativet *Wiedergeboren* (återfödd) nämndes i inspelen. Vilket ska gälla?

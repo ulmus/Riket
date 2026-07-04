@@ -36,18 +36,21 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [ ] Stat-block: Capesius, Die Träumerin, Furie, Skorzeny, Eli Sarid (Mossad).
 - [ ] Karta/plan över operan? *(asset)*
 
-## Mellanspel — Stockholm *(plot i utkast)*
+## Mellanakt — Stockholm (mullvadsjakten) *(plot i utkast)*
 - [ ] Analysen på T-kontoret: kodknäckningen, "vidare hos K.S.", Richters korsläsning mot Paperclip-listorna — bägge Wien-utfallen ska landa i Sievers/Huntsville.
 - [ ] Verdandis vision av boken (hon står själv i den) som alternativt/kompletterande spår.
-- [ ] Internutredningen inleds; Lundell planterar spåren mot fröken Hansson.
+- [ ] Mullvadsjakten som spelbar mellanakt: kretsen av misstänkta, barium-måltiderna, Lundells plantering mot fröken Hansson, skuggningsscenerna (residenturan på Villagatan).
+- [ ] De två slutlägena (Lundell faller före avresan / jakten följer med in i akt 3) och deras konsekvenser.
 
 ## Akt 3 — Södern (Alabama) *(plot i utkast)*
-- [ ] Skriv de tre noderna: Huntsville, Macon County/Tuskegee, Birmingham.
+- [ ] Skriv de två noderna: Huntsville och Birmingham.
+- [ ] Tuskegee som bakgrund, inte äventyrsplats: subjektregistret, journalkopiorna (*syster A. Greer*), transportmanifestet, pastor Ellisons obesvarade brev.
+- [ ] Friktionen ingenjörskonst/mystik i Huntsville: Baumanns "laboratorium utan ritningar", revisionsbräckan, Sievers alkemi-glidning, motorprovs-/visionsscenen.
 - [ ] Täckmanteln (svensk pressdelegation) och resvägen.
 - [ ] Kubakrisen som väder: lås, spärrar, Sievers evakuering via Mobile. *(Beslut väder/maskineri — se öppna frågor i [[Plotutkast]].)*
-- [ ] Mullvadsjakten: barium-måltiderna, rentvåendet av fröken Hansson, avslöjandet av Lundell — med de tre utfallen.
+- [ ] Mullvadsupplösningen på distans, om Lundell inte föll i mellanakten — med de tre utfallen.
 - [ ] Furies fälttest i Birmingham (marschen som exploderar) som mini-klimax.
-- [ ] Stat-block: Sievers, Zhao, Morrison, Harmon (FBI), Zvezda-agenterna, Ellison-familjen, Greer, Baumann.
+- [ ] Stat-block: Sievers, Zhao, Morrison, Harmon (FBI), Zvezda-agenterna, Baumann.
 - [ ] Klimax: konfrontationen med Sievers och övergången norrut.
 
 ## Akt 4 — Uppgörelsen (Spetsbergen) *(plot i utkast)*
@@ -60,7 +63,8 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 ## Återkommande canon att fastställa
 - [x] Die Träumerins riktiga namn och bakgrund — *förslag i [[Plotutkast]]: Chava Blum, Nigredos "Die Puppe"*.
 - [x] Furies ursprung och bindning till ODESSA — *förslag i [[Plotutkast]]: Grete Vollmer, f.d. Aufseherin, Wiedergeburts enda stabila framgång*.
-- [x] Skorzenys mål genom hela kampanjen — *förslag i [[Plotutkast]]: Unternehmen Wiedergeburt, loggboken + levande originalsubjekt*.
-- [x] Mullvaden är inte fröken Hansson — hon misstänkliggörs av den verkliga mullvaden och rentvås i akt 3.
+- [x] Skorzenys mål genom hela kampanjen — *förslag i [[Plotutkast]]: Unternehmen Wiedergeburt — knäcka härdningen (kontrollerat trauma utan labilitet) och massproducera stabila ENS; loggboken + levande stabila originalsubjekt är pusselbitarna*.
+- [x] Mullvaden är inte fröken Hansson — hon misstänkliggörs av den verkliga mullvaden och rentvås av rollpersonerna.
+- [x] Tuskegee-kopplingen behålls som bakgrund (journaler, register, manifest) — inte som äventyrsplats.
 - [ ] Mullvadens identitet (förslag: Arne Lundell — se öppna frågor i [[Plotutkast]]).
 - [ ] Hur de förgrenade sluten ser ut i detalj och deras konsekvenser för settingen.

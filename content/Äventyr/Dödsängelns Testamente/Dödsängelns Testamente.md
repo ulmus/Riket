@@ -28,8 +28,8 @@ Ambitionerna hoss Skorzeny och ODESSA är också större än i vår verklighet. 
 ## Akterna
 1. **[[Moskva]]** — Resan från Sverige till Moskva som östtysk handelsdelegation. Vid Mengeles dödsbädd får rollpersonerna veta att loggboken aldrig var hans. Spåret pekar mot Wien.
 2. **[[Apotekaren]]** — Frankfurt och Wien. Fritz Bauer mördas av Furie; Capesius lever som respektabel apotekare under ODESSA:s skydd. Vägen till honom går genom Wieneroperan och hans hustru, **Die Träumerin**. Akten slutar i Wien: rollpersonerna får loggboken — eller mister den.
-   *Mellanspel — Stockholm:* analysen på T-kontoret pekar ut Alabama, och mullvadsmisstanken väcks — mot fel person.
-3. **[[Södern]]** — *(att skriva)* Alabama: Huntsville, Tuskegee och Birmingham under Kubakrisens höst. ODESSA:s brohuvud i Project Phoenix ska hittas och exponeras.
+   *Mellanakt — Stockholm:* analysen på T-kontoret pekar ut Alabama, och mullvadsjakten spelas på hemmaplan — där spåren pekar mot fel person.
+3. **[[Södern]]** — *(att skriva)* Alabama: Huntsville och Birmingham under Kubakrisens höst; Tuskegee-studien kastar sin skugga genom journalerna. ODESSA:s brohuvud i Project Phoenix ska hittas och exponeras.
 4. **[[Uppgörelsen]]** — *(att skriva)* Den slutliga uppgörelsen med Skorzeny vid Station Haudegen på Spetsbergen. Vägen in går via gruvolyckan i Kings Bay.
 
 *Kairo-akten är struken ur kampanjen — de tyska raketforskarna i Nassers Egypten sparas till ett annat äventyr.*
@@ -41,7 +41,7 @@ Kampanjen har ett **förgrenat slut**: utfallet beror på rollpersonernas val �
 - **Zvezda** — håller Mengele i Moskva och läser Friggs trafik. Alltid ett halvt steg före eller bakom.
 - **Project Phoenix** — vill ha boken, utan att veta att programmet är infiltrerat av ODESSA via Operation Paperclip.
 - **Mossad** — jagar männen, inte datan: Capesius i Wien, sedan Sievers, sedan Skorzeny. Vill se dem inför rätta.
-- **ODESSA / Otto Skorzeny** — skyddar Capesius aktivt för att skydda sig själv. Driver **Unternehmen Wiedergeburt**, en egen ENS-anläggning på Spetsbergen som ska återupprätta Tredje riket. Kampanjens röda tråd och slutlige motståndare.
+- **ODESSA / Otto Skorzeny** — skyddar Capesius aktivt för att skydda sig själv. Driver **Unternehmen Wiedergeburt** på Spetsbergen: försöket att knäcka *härdningen* — kontrollerat trauma som ger krafter utan labilitet — och massproducera de stabila ENS som ska återupprätta Tredje riket. Kampanjens röda tråd och slutlige motståndare.
 
 ## Genomgående personer
 - **Otto Skorzeny** — håller ihop ODESSA. Skuggan bakom varje akt, och slutstridens motståndare.
