@@ -49,22 +49,72 @@ Grundprincip: **noder, inte räls.** Varje akt är en plats med ett mål, flera 
 
 ## Akt 2 — Apotekaren (Frankfurt/Wien)
 
+### Varför nu? — Skorzenys facit
+
+I fjorton år har ingenting rört sig: Capesius har levt sitt apoteksliv, Skorzeny har trott sig ha fått allt som fanns att få, och boken har legat i ett bankfack. Det som sätter allt i rullning är en enda händelse: **Mengele började dö.** När han förgiftar sig i Moskva våren 1962 startar tre klockor samtidigt:
+
+- **Frigg:** Verdandis vision → uppdraget i akt 1.
+- **Zvezda:** slutförhören med den döende — och via **Lundell** läser de dessutom allt Frigg företar sig.
+- **ODESSA:** när Frigg i tysthet bad sin västtyska källa **Dr. Richter** bekräfta att loggboken existerar *(se [[Moskva]]: "lojalitet oklar")*, sålde Richter frågan vidare — till sin gamle Nigredo-kollega Sievers, och därmed till Skorzeny. Richters dubbelhet är kampanjens andra läcka, vid sidan av Lundell: den läcker åt ODESSA-hållet, och den förklarar senare varför Sievers hunnit börja packa i akt 3.
+
+**Skorzenys kunskapstrappa** (spelledarens facit):
+
+| När | Vad Skorzeny vet |
+| --- | --- |
+| 1945 | Nigredo är värt att rädda. Han eskorterar evakueringen västerut och tar med sig flickan som blir Furie. |
+| 1948 | Capesius betalar sin flyktskuld med judiskt guld och **en packe lösa Mengele-anteckningar** — och svär att det är allt. Anteckningarna blir Wiedergeburts fragmentariska grund. Skorzeny känner också till **försäkringsbrevet** ("om jag dör publiceras allt") — det är därför Capesius i fjorton år varit oantastlig, inte bara skyddad, och därför källaren aldrig är ett alternativ. |
+| ~1958 | Sievers har läst anteckningarna på djupet och rapporterar: de hänvisar till ett **Führungsjournal** — en loggbok, huvuddokumentet. Skorzeny söker. Spåret är kallt; han antar att boken brann eller följde Mengele österut. |
+| Maj 1962 | Richters försäljning: boken existerar, och Mengele hade den aldrig — *den följde apotekaren*. Capesius ljög honom rakt i ansiktet 1948. |
+| Juni 1962 | Bauers utredning närmar sig samtidigt "Krauss" från sitt håll. Två problem, en lösning: Bauer tystas (Furie), och Capesius beordras leverera — offentligt, civiliserat, på operan. |
+
+Vad Skorzeny **inte** vet: att Capesius hustru är ENS och norna. Att Frigg-delegationen i Wien är samma människor som satt vid Mengeles dödsbädd (han förstår det under aktens gång — ett dåligt tecken för dem). Och var bankfacket finns.
+
+### Aktens tidslinje
+
+Nio dagar i juni. Rollpersonernas handlingar flyttar detaljerna, men ODESSA:s schema ligger fast — **operan är antagonistens plan, inte spelarnas destination**. Det är därför alla vägar leder dit: överlämningen sker lördag kväll vare sig rollpersonerna hittat dit eller inte.
+
+| Dag | Händelse |
+| --- | --- |
+| 1 — Frankfurt | Rollpersonerna väntar hos Bauer. Mordet (Furie via sekreteraren). K-akten kan räddas ur kassaskåpet. |
+| 2 | Inbrott på åklagarämbetets registratur — resten av Capesius-materialet brinner. ODESSA städar; den som ser sambandet vet att klockan går. Resa mot Wien. |
+| 3–4 | Vägarna öppnas. "Ernst Höfer" anländer till Wien; första budet till Capesius — ett kuvert på apoteksdisken. Capesius börjar sova dåligt. |
+| 5–7 | Fritt spel: guldspåret, societeten, Wiesenthal/Mossad, Elisabeth. Capesius besöker Creditanstalt två gånger. KGB-laget anländer (Lundell-läckan) och börjar skugga samma mål, klumpigare. |
+| 8 | Mossads plan låses: de tänker lyfta Capesius efter operan på lördag — den enda kväll hans rutin är förutsägbar. |
+| 9 — lördag | Morgon: kaféscenen på Hawelka ([[Nessun Dorma]]) — biljetterna, ordern. Kväll: **Turandot**. Överlämning i logen under tredje akten. Allt konvergerar. |
+| 10 | Efterspel: exfiltration, kuriren, liken räknas. |
+
 ### Ingång: mordet på Fritz Bauer
 
-Rollpersonerna sitter i väntrummet hos Generalstaatsanwalt **Fritz Bauer** i Frankfurt. Han förbereder Auschwitz-rättegångarna och har den enda ordentliga akten om Capesius. De hör skrik. Därinne står Bauers sekreterare, **Fräulein Hilde Möller**, med en blodig bronsbyst i handen. Hon går till rasande angrepp på rollpersonerna — och faller sedan ihop, tom, utan minne av vad hon gjort.
+Rollpersonerna sitter i väntrummet hos Generalstaatsanwalt **Fritz Bauer** i Frankfurt — Moskva-spåret pekade hit: Bauer är den ende som har en riktig akt om Capesius. De hör skrik. Därinne står Bauers sekreterare, **Fräulein Hilde Möller**, med en blodig bronsbyst i handen. Hon går till rasande angrepp på rollpersonerna — och faller sedan ihop, tom, utan minne av vad hon gjort.
 
-Bakom dådet står **Furie**, ODESSA:s ENS, som var i byggnaden minuter tidigare. Scenen etablerar tre saker: att ODESSA dödar för att skydda Capesius, att deras vapen får oskyldiga att göra jobbet, och att rollpersonerna nu är sedda. Vad de gör med de kaotiska minuterna innan kriminalpolisen kommer är upp till dem — **Capesius-akten** ligger i Bauers kassaskåp, sekreteraren behöver hjälp, och en kvinna i grå kappa lämnar just byggnaden.
+Bakom dådet står **Furie**, som var i byggnaden minuter tidigare. Scenen etablerar tre saker: att ODESSA dödar för att skydda Capesius, att deras vapen får oskyldiga att göra jobbet, och att rollpersonerna kommit i exakt rätt tid — mitt i att något större rullar. Vad de gör med de kaotiska minuterna innan kriminalpolisen kommer är upp till dem: **K-akten** ligger i Bauers kassaskåp, sekreteraren behöver hjälp, och en kvinna i grå kappa lämnar just byggnaden.
 
-Akten (om de får den) ger: aliaset *Viktor Krauss*, Adler-Apotheke, Schottenring — och Bauers anteckning att Capesius fru är "fel". Hennes änke-identitet är fabricerad; papperskedjan börjar 1948, samma år som hans.
+**K-akten är ofullständig — och det är poängen.** Den ger trådändar, inte svar; identifieringen av Krauss är spelarnas första jobb i Wien. Innehåll:
 
-### Wien: fyra vägar till apotekaren
+1. Capesius SS-akt med foto, Auschwitz 1944.
+2. Ett tullfoto från gränsen vid Bad Reichenhall, oktober 1948 — samma ansikte, tio kilo lättare, nytt namn på ett dokument som inte gick att läsa i kopian.
+3. En notis: en apotekare i Wien finansierade 1951 sitt rörelseköp med **guldtackor**, sålda via juveleraren **Melchior am Graben**. Inget namn — Bauer hann aldrig följa upp.
+4. Bauers marginalanteckning: *"Hustruns änkeidentitet stämmer ej — papperskedjan börjar 1948, samma år som hans. Fråga W."* — **W är Simon Wiesenthal**, dokumentationscentret i Wien.
 
-Wien spelas fritt. Capesius är målet, men han är skyddad, och minst fyra dörrar leder till honom. Rollpersonerna väljer; vägarna kan kombineras och saboterar varandra på intressanta sätt.
+### Spelarnas kunskapstrappa
 
-- **Apoteket.** Övervakning, inbrott eller ett besök som kunder. Loggboken finns inte där (den ligger i ett bankfack hos Creditanstalt), men Capesius vanor, hans nervositet efter mötet med Skorzeny och hans schemalagda lördagsopera gör det.
-- **Hustrun.** **Elisabeth Krauss** — Die Träumerin — är den mjuka punkten. Hon rör sig ensam: kaféer, en synagoga hon aldrig går in i, operan. I hennes närhet händer saker med verkligheten: en spegel som visar fel rum, snö inomhus, en doft av bränt hår. Verdandi känner igen henne — de var barn i samma baracker. Kontakt med henne är den mänskliga vägen in, och den moraliskt dyraste.
-- **Societeten.** Skorzeny rör sig öppet i Wien under namnet *Ernst Höfer* — gamla kamrater, jaktmiddagar, ett herrsällskap där halva medlemslistan har luckor i sin CV 1938–45. En rollperson med rätt täckmantel kan bli insläppt. Här kan man få veta *när* överlämningen ska ske.
-- **Mossad.** Katsan **Eli Sarid** och hans team har skuggat Capesius i månader — de vill ha mannen inför rätta, inte boken, och deras bevakningsdossier är den bästa i Wien. Den kan bytas: dossiern mot åtkomst, hjälp mot ett löfte om vad som händer med Capesius när boken är säkrad. Allierade, hinder eller båda — och löftet till Sarid är en växel som kampanjen kan dra i ända till Spetsbergen. KGB-residenturen, larmad via Lundell, lägger sig i sist och våldsammast.
+Akten driver på fyra frågor, i ordning. Varje väg nedan besvarar olika delmängder; två vägar räcker för full bild, och SL kan låta en väg som kört fast korsbefruktas av en annan.
+
+1. **Namnet** — vem i Wien är Capesius?
+2. **Trycket** — varför är han livrädd just nu, och vem är "Höfer"?
+3. **Tidpunkten** — lördag, Turandot, tredje akten.
+4. **Positionen** — hur står rollpersonerna i salongen när det händer?
+
+### Fyra vägar — och hur de leder till operan
+
+Wien spelas fritt; vägarna kan kombineras och saboterar varandra på intressanta sätt. Men de mynnar alla i samma punkt, för det är dit *Skorzenys* plan pekar.
+
+- **Guldspåret (apoteket).** Juveleraren Melchior minns 1951 års guldaffär och köparen: *Mag. pharm. Viktor Krauss, Adler-Apotheke, Schottenring* — **namnet**. Övervakning av apoteket ger sedan **trycket**: kuvertet som lämnas på disken dag 3, bankbesöken hos Creditanstalt (bokens fack — boken finns *inte* i våningen), fracken som hämtas från skräddaren. *Till operan:* den som skuggar Capesius på lördagsmorgonen ser kaféscenen på Hawelka — ärret, biljetterna — och kan följa honom hela vägen till trappan. Bonusvägen: bankfacket. En grupp som hellre kuppar än konverserar kan slå mot Creditanstalt under lördagskvällen, medan alla som kunde stoppa dem sitter på operan.
+- **Drömspåret (hustrun).** **Elisabeth Krauss** rör sig ensam: kaféer, en synagoga hon aldrig går in i, operan. I hennes närhet händer saker med verkligheten — en spegel som visar fel rum, snö inomhus, en doft av bränt hår. Verdandi känner igen henne: nornorna. Elisabeth vet allt utan att säga något: maken sover inte, "herr Höfer" har varit i våningen, och i skrivbordslådan ligger två röda biljetter. Hennes drömmar läcker **tidpunkten** i bilder: ett ärr som ler, en bok som byter händer i en loge, tredje akten. *Till operan:* hon kan ta med gäster i sin loge — rollpersonerna kommer in mitt i händelsen, som hennes sällskap. Det är den moraliskt dyraste vägen: att använda henne är att göra det alla andra män gjort.
+- **Höfer-spåret (societeten).** Skorzeny rör sig öppet under namnet *Ernst Höfer*: jaktmiddagar, ett herrsällskap där halva medlemslistan har luckor i CV:n 1938–45. Rätt täckmantel tar sig in. Vägen ger **trycket och tidpunkten** från andra hållet: att Höfer är Skorzeny (ärret, hållningen, historierna som stämmer för väl), att en "transaktion" ska ske på lördag, att nätverket flyger in en kurir. *Till operan:* en plats i Skorzenys omgivning kan förtjänas — rollpersoner i logen bredvid, på ODESSA:s sida av salongen. Risken heter Furie: hon luktar sig till lögner, och hon glömmer aldrig ett ansikte från Frankfurt.
+- **Aktspåret (Wiesenthal och Mossad).** Bauers "fråga W" leder till **Simon Wiesenthals** dokumentationscenter: viskningar från hela Wien men inga bevis — och en varning: *"Ni är inte de enda som frågar om apotekaren."* Wiesenthal är dörren till **Eli Sarid**. Mossads dossier är den bästa i Wien: Krauss = Capesius sedan i höstas, foto, vanor, lördagsrutinen — **namnet och tidpunkten** gratis, mot ett pris: löftet om vad som händer med *mannen* när boken är säkrad. *Till operan:* Mossad planerar sitt lyft till efter föreställningen, utanför entrén — den enda förutsägbara kvällen. Rollpersonerna kan samordna sig med dem eller kollidera med dem i garderoben. Löftet till Sarid är en växel som kampanjen kan dra i ända till Spetsbergen.
+
+**KGB** är den femte spelaren utan egen väg: larmade via Lundell, alltid ett halvt dygn efter rollpersonerna, klumpigare och våldsammare. Deras närvaro är i sig en brödsmula — *ingen utom Stockholm visste att vi skulle hit* — och sår mullvadsfröet som gror i mellanakten.
 
 ### Klimax: Turandot
 
@@ -246,6 +296,7 @@ Utfallen kan gå åt alla håll: de tre som tyst förbund som avgör finalen öv
 - **Dr. Konrad Sievers.** SS-Sturmbannführer, kemist i Nigredo, Mengeles doserings-specialist — "K.S." i loggbokens marginaler: den ende som kan läsa bokens kodade bilagshänvisningar. Via Paperclip 1946 till USA; sedan 1960 laboratoriechef i Huntsville och konsult åt Phoenix (Caldwell svär vid honom). ODESSA:s brohuvud i Amerika. Charmerande, pedantisk, helt utan ånger: "Vi gör samma sak som ni, mina herrar. Vi för bara bättre journaler."
 - **Arne Lundell.** 44, chifferkanslist på T-kontoret, Sturegatan 58. Oansenlig, plikttrogen, ogift. KGB fångade honom 1956 med fotografier från ett rum på ett hotell i Helsingfors — den sortens bilder som 1956 betyder slutet på ett liv. Han hatar sina förare, hjälper dem ändå, och har slutat kunna se sig själv i spegeln. Ingen skurk — en människa i en fälla, vilket gör upplösningen värre.
 - **Eli Sarid.** Mossad-katsa, ca 45, född i Wien, familjen förintad. Ledde teamet som skuggade Capesius; efter Wien flyttas hans mandat till nätverket: Sievers, sedan Skorzeny. Metodisk, torr, omutlig i en enda sak: männen ska ställas inför rätta, inte plundras på data. "Ni vill läsa boken. Jag vill bränna biblioteket."
+- **Simon Wiesenthal** — dokumentationscentret i Wien; Bauers "fråga W". Har Wien-flyktingarnas alla viskningar men saknar bevisen, och vet att fler än rollpersonerna frågar om apotekaren. Dörren till Mossad. *(Verklig person — spelas med respekt.)*
 - **Dr. Ernst Baumann** — Paperclip-ingenjör i Huntsville, samvete i sprit. Vet vad Sievers containrar väger, och den som myntar "ett laboratorium utan ritningar". *(Pastor Ellison och syster Greer förekommer endast som namn i dokumenten — Tuskegee är bakgrund, inte äventyrsplats.)*
 - **Dr. Helen Zhao, Colonel Frank Morrison, Dr. James Caldwell** — *(befintlig kanon, se [[Project Phoenix (USA)]])* — spricka, spärr och blind fläck i Phoenix.
 - **Fräulein Hilde Möller** — Bauers sekreterare, Furies första kända offer i kampanjen. Om rollpersonerna hjälper henne (ingen annan kommer att tro henne) har de ett vittne som känner igen känslan av att bli tömd — användbart varje gång Furie är nära.

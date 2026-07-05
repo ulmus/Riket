@@ -26,9 +26,11 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [ ] Knyt kartorna (Moskva, Leningrads hamn, Röda Pilen) till rätt scener.
 - [ ] Koppla pass-PDF:erna till delegationens täckidentiteter.
 
-## Akt 2 — Apotekaren (Frankfurt/Wien) *(plot i utkast)*
+## Akt 2 — Apotekaren (Frankfurt/Wien) *(plot i utkast, med tidslinje och facit)*
 - [ ] Skriv ingångsscenen i Frankfurt (Bauer, sekreteraren Möller, Furie) i full text.
-- [ ] Bygg de fyra Wien-vägarna (apoteket, hustrun, societeten, Mossad) som spelbara noder.
+- [ ] K-aktens fyra trådändar som fysiska handouts: SS-aktfotot, tullfotot 1948, guldnotisen (Melchior am Graben), "fråga W".
+- [ ] Skorzenys kunskapstrappa och dag-för-dag-tidslinjen (finns i [[Plotutkast]]) — förfina till spelbar SL-text.
+- [ ] Bygg de fyra Wien-vägarna (guldspåret, drömspåret, Höfer-spåret, aktspåret/Wiesenthal) som spelbara noder, med konvergensen mot operan.
 - [ ] Bygg operascenen på Wieneroperan (*Turandot*): dröm/verklighet-mekanik, överlämningen, de två utfallen (boken/missad). Akten slutar i Wien — inga USA-pekare här.
 - [ ] Skriv försäkringsbrevet (advokaten vid Judenplatz) som hemfört råmaterial — läsbart först i mellanspelets analys.
 - [ ] Die Träumerin (Chava Blum / Elisabeth Krauss): kraftbeskrivning, scenmekanik, moralisk tyngd.
