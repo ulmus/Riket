@@ -22,6 +22,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
   - [ ] Röda Pilen — stoppet vid Bologoje
   - [ ] Moskva — Hotell Leningradskaja
   - [ ] Sklifosovsky-institutet — Mengeles dödsbädd
+- [ ] Retrofit dödsbäddsscenen: Mengeles viskning *"meine Nornen… leben alle drei?"* och Verdandis första undanhållna vision (se nornbågen i [[Plotutkast]]).
 - [ ] Stat-block för nyckel-SLP (Major Raudsepp, den civilklädde, m.fl.).
 - [ ] Knyt kartorna (Moskva, Leningrads hamn, Röda Pilen) till rätt scener.
 - [ ] Koppla pass-PDF:erna till delegationens täckidentiteter.
@@ -61,6 +62,7 @@ Status och kvarvarande arbete för kampanjen. Bocka av allt eftersom. Övergripa
 - [ ] Station Haudegen: anläggning, karta, garnison, die Nachgeborenen.
 - [ ] Slutstridens uppställningar utifrån tidigare val (Lundell-utfallen, Sarid, Phoenix-städpatrull).
 - [ ] Drömmötet mellan de tre nornorna som möjligt egentligt klimax; Furies akt i loggboken som växel för hennes vändning.
+- [ ] Nornbågens verktyg genom kampanjen: trådspåraren (Spunnen/Spricka/Väverska), Verdandis drömjournal som handout-serie, barnet som sjunger i operadrömmen (Furie-ekot), ömsesidighetsregeln. Se [[Plotutkast]].
 - [ ] Skriv de förgrenade sluten (boken, Skorzeny, Die Träumerin, Verdandi, Furie, Tuskegee-männen, Lundell).
 - [ ] Stat-block: Skorzeny, Furie (final), Wiedergeburts forskare och Nachgeborenen.
 

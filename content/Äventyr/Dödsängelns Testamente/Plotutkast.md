@@ -289,6 +289,38 @@ Namnet är Mengeles eget. I loggbokens marginaler kallar han dem **meine drei No
 
 Utfallen kan gå åt alla håll: de tre som tyst förbund som avgör finalen över huvudet på alla program — eller mot varandra, om kampanjen vridit dem dit: Furie som vägrar sanningen och väljer lögnen som byggt henne, Die Träumerin som hellre löser upp allt än räddar någon, Verdandi som ställs mellan lojalitet och systerskap.
 
+### Bågen: de som spanns blir de som spinner
+
+Hur resan offer → verktyg → subjekt blir snygg i spel, inte bara på papper:
+
+**Tre motorer, inte en.** Om alla tre gör samma resa på samma sätt blir det en predikan. Därför drivs de olika:
+
+- **Verdandi drivs av ackumulerade spelarval.** Hon är i varje scen: varje gång rollpersonerna beordrar en vision, skyddar henne, ljuger för henne eller frågar vad *hon* vill flyttas hennes tråd. Hennes frigörelse är kampanjens långsammaste och mest förtjänta.
+- **Die Träumerin drivs av en stor scen per akt.** Operan (hon *låter* det ske), förhandlingen om hennes frihet (vad kostar den, och vem betalar?), drömmötet. Mellan scenerna är hon gåtan ingen äger.
+- **Furie drivs av en enda sanning** som tickar från Frankfurt till Haudegen. Hennes båge är kampanjens snabbast brinnande stubin: ingenting, ingenting, ingenting — allt.
+
+**Förskjut stegen.** Varje akt innehåller *ett* ögonblick där en norna gör något männens modell av henne inte kan förklara. Spelarna ser mönstret växa utan att det annonseras:
+
+| Akt | Norna | Första egna draget |
+| --- | --- | --- |
+| 1 — Moskva | Verdandi | Vid dödsbädden viskar Mengele *"meine Nornen… leben alle drei?"* — och Verdandi väljer, för första gången, att inte rapportera allt hon ser. Vad hon behåller är hennes. *(Litet retrofit i Moskva-akten: en rad.)* |
+| 2 — Wien | Die Träumerin | För första gången på fjorton år *låter* hon drömmen ske — och i drömmen känner två nornor igen varandra. |
+| Mellanakt | Verdandi | Hon förstår att hennes visionsrapporter läses av fel ögon — och börjar välja vad hon skriver. Assetens första lögn mot arkivet är subjektets första sanning. |
+| 3 — Södern | Furie | Kopplet slits i Birmingham. Raseriet väljer egna mål. Skorzenys modell av henne spricker — och hans reaktion (rädsla, inte sorg) säger henne något hon inte kan formulera än. |
+| 4 — Uppgörelsen | Alla tre | Drömmötet. Männens planer faller; kvinnorna spinner. |
+
+**Drömstegen.** Mötena mellan nornorna trappas som en stege, och drömmen är rummet där inga män kan följa med: *två* (operan — Verdandi och Die Träumerin känner igen varandra), *två och ett eko* (i operadrömmen skymtar ett barn som sjunger vaggvisan; spelarna tror att det är ett minne — det är drömmen som söker den tredje), *tre* (labbet med de vita kakelväggarna, polarnatten, drömmötet). Ekot i Wien är planteringen som gör finalen förtjänad i stället för påhittad.
+
+**SL-verktyg.**
+
+- **Trådspåraren:** tre trådar, tre lägen — *Spunnen* (objekt i andras plan) → *Spricka* (första egna draget) → *Väverska* (agerar på egen agenda). Flyttas av spelade scener, inte av tidslinjen. Enkel att hålla i huvudet, robust mot spelarnas vägval.
+- **Drömjournalen:** Verdandis visionsrapporter som fysiska handouts genom kampanjen. Tidiga poster är protokoll ("Subjektet iakttog…"); de sista är brev. Spelarna ser frigörelsen ske i hennes handstil — och journalen är samtidigt mullvadstrådens bevismaterial (vem läste den?).
+- **Ömsesidighetsregeln:** varje norna räddar rollpersonerna exakt en gång, och räddas av dem exakt en gång. Skulder åt bägge håll — aldrig maskotar, aldrig frälsare.
+
+**Hantverksvarningar.** Ingen synkron frigörelse (förskjut!). Ingen cutscene (spelarna lägger rälsen; kvinnorna går på den). Och trauma är inte kraftens romantik: det som bär varje frigörelse är *meningen de själva byggt* — Verdandis löfte, Die Träumerins dröm, och Furie, vars mening inte finns än. Hennes båge är att bygga en under kampanjens gång, och det är därför hon är finalens osäkraste kort.
+
+**Slutbilden: de som står kvar.** Alla männens planer är i grunden samma plan — att äga det kvinnorna är: Skorzeny vill förvandla dem till armé, Hedström till arkiv, Sievers till data, Capesius till hustru. I finalen faller planerna, var och en på sitt sätt, och kampanjens sista bild kan vara tre kvinnor på isen medan Haudegen brinner bakom dem: boken är papper — *de* är testamentet, och för första gången är det de som bestämmer vad arvet betyder. Varje norna får ett eget slutval som spelarna kan möjliggöra men inte diktera (Die Träumerins frihet, Verdandis villkor, Furies sanning), och kampanjens egentliga mått — djupare än vem som fick boken — är: **hur många nornor står kvar, fria, av eget val?**
+
 ## Nya och fastställda nyckelpersoner
 
 - **Die Träumerin — Chava Blum, alias Elisabeth Krauss.** Judinna från Theresienstadt, till Auschwitz 1943, tolv år gammal. I Nigredos journaler: **"Die Puppe"** — flickan som projicerade hallucinationer och föll i katatoni *(se [[Projekt Nigredo (Nazi-Tyskland)]]: "okänt öde efter befrielsen")*. Ödet var Capesius: apotekaren tog henne med sig västerut 1945, halvt patient, halvt talisman, och gifte sig med henne 1949 under en fabricerad änke-identitet. Vad som binder henne vid honom — tacksamhet, dressyr, eller något i drömmen bara hon ser — är aktens moraliska centrum och får aldrig ges ett enkelt svar. Kraften har mognat: från projicerade hallucinationer till ett fält där dröm och verklighet byter plats. Verdandi kände henne i lägret. **ODESSA vet inte vad hon är:** Capesius har aldrig berättat — hon är hans andra försäkring, gömd i öppen dager, och en enda obehärskad dröm kan avslöja henne.
