@@ -1,6 +1,8 @@
+# Kalabaliken i Beckomberga
+
 Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introducerar Extra-Normala Subjekt, kalla krigets spioneri och den moraliska ambivalensen som kringgärdar hela Program Frigg i allmänhet och Doktor Lars Hedström i synnerhet.
 
-> **För dig som spelleder.** Äventyret är skrivet för **två till fyra** spelare som spelar "reserven" som kallas in över sommaren. Rollpersonerna är Frigg-agenter; ni kan skapa dem själva eller använda de förgenererade.
+> **För dig som spelleder.** Äventyret är skrivet för **två till fyra** spelare som spelar "reserven" som kallas in över sommaren. Rollpersonerna är Frigg-agenter; ni kan skapa dem själva eller använda de förgenererade — [[Radar]], [[Tjuren]], [[Silke]], [[Prisma]] och [[Stigmata]].
 > Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**, se [[Grundregler#Grundmekanik: Egenskap + Egenskap T12or]]), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** (*se [[Grundregler#Fokus]] och [[Att använda reglerna#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
 
 ## Äventyret i korthet
@@ -137,7 +139,7 @@ När de närmar sig paviljongen möts de av tystnaden, lukten och de första vis
 
 ![[Beckomberga.png|wide]]
 
-Bottenvåningen av Paviljong 10, västra korridoren, avdelningen för lugna patienter, är Akhenatons hov sedan en vecka tillbaka. Totalt ett tiotal patienter och vårdare har förskansat sig tillsammans med två poliser och Dr. Lindqvist, numera lystrande till drottningnamnet Nefertiti.
+Bottenvåningen av Paviljong 10, västra korridoren, avdelningen för lugna patienter, är Akhenatons hov. Det har vuxit fram under den senaste veckan, allteftersom tankefältet dragit in patienter och vårdare, och de senaste dagarna har hovet förskansat sig bakom barrikader. Totalt ett tiotal patienter och vårdare har grävt ner sig tillsammans med två poliser och Dr. Lindqvist, numera lystrande till drottningnamnet Nefertiti.
 
 Den östra korridoren — avdelningen för oroliga patienter — är kaotisk. Vårdarna har gett sig av och Akhenatons psykotiska tankar har trängt in, men inte tagit över hos de intagna på avdelningen. Andra våningen på paviljongen har utrymts, men de oroliga patienterna fick överges när de gjorde motstånd.
 
@@ -178,6 +180,8 @@ Trycket från Akhenatons **tankefält** (se [[#Wachtmeister / Akhenaton]] och ta
 - **Akhenatons tronrum (innersta enkelrummet, 51):** Hörnrummet längst in, lättast att försvara och svårast att nå. Hit har Wachtmeister dragit sig tillbaka med Lindqvist/Nefertiti och **ECT-apparaten**, som flyttats hit från laboratoriet i mittsektionen (**27**). Han lämnar ogärna rummet; i sitt delirium upplever han det som tryggare än yttervärlden. Trycket från tankefältet är som starkast här.
 
 Att ta sig genom hovet utan strid kräver att rollpersonerna **spelar med** — uppträder som sändebud, undersåtar eller präster (*Samspel + List* eller *Samspel + Vilja*). Att avslöjas som otrogna, eller att hota kungen, får hovet att sluta upp till hans försvar och kan utlösa Akhenatons trauma.
+
+> **Exempel — en audiens hos Nefertiti.** Kommer rollpersonerna i vita rockar sträcker en patient i lakansdräkt ut en arm och spärrar vägen: *"Ingen träder inför konungen ovärdig."* Vill de vidare måste de spela med. Nefertiti — Dr. Lindqvist med läkarrocken buren som mantel — tar emot dem i dagrummet, kylig och prövande, och frågar vilket ärende sändebuden bär till Akhenaton. Ett stapplande svar, en felaktig titel eller ett rollpersonsslag som misslyckas väcker hennes misstankar (hon genomskådar lättast den som bluffar, *se [[#Dr. Lindqvist / Nefertiti]]*); ett självsäkert framträdande (*Samspel + List* eller *Samspel + Vilja*) för dem närmare tronrummet. Under hela samtalet ligger tankefältet på och pressar — låt en rollperson slå *Vilja + Vilja* och beskriv de insmugna tankarna om att buga.
 
 ### Paviljong 10, första våningen, östra korridoren, avdelningen för oroliga patienter
 
@@ -464,7 +468,7 @@ Några sätt att lösa grundproblemet (mekanik i [[#Wachtmeister / Akhenaton]] o
 1. **Den tysta lösningen (vad Hedström vill).** Akhenaton oskadliggörs eller hämtar sig, hovet skingras, patienterna återförs, polisen "förklaras", pressen tystas och GRU lämnas i mörkret. Frigg städar upp och Wachtmeister blir en observand att studera. Frågan är vad det kostade rollpersonerna.
 2. **Mannen bakom guden.** Illusionen spräcks utan blodspillan. Wachtmeister bryter samman, inte längre kung, och hovet vaknar till insikt. En seger med eftersmak: Frigg har nu en bekräftad telepat, och rollpersonerna måste avgöra vad de rapporterar.
 3. **Blodbad.** Våld utlöser det aktiverade traumat. Fältet exploderar, omvända gör uppror eller faller i kramp, poliserna skjuter, patienter dör. Dör Akhenaton slocknar fältet och lämnar en våning av traumatiserade människor utan minne av vad som hänt. En pyrrhusseger, svår att hålla tyst.
-4. **Det läcker ut.** Maj-Britt publicerar, GRU kommer undan med vad de sett, eller en anhörig talar. Program Frigg exponeras, helt eller delvis. Hedström rasar och Palm kopplas in — kampanjkonsekvenser snarare än ett rent misslyckande.
+4. **Det läcker ut.** Maj-Britt publicerar, GRU kommer undan med vad de sett, eller en anhörig talar. Program Frigg exponeras, helt eller delvis. Hedström rasar och **Thede Palm** — T-kontorets chef och Hedströms överordnade (*se [[Program Frigg (Sverige)]]*) — kopplas in. Kampanjkonsekvenser snarare än ett rent misslyckande.
 5. **GRU-komplikationen.** Sovjet får tag i Granqvist, en omvänd agent, bevis för att Frigg skapar övermänniskor — eller, värst av allt, Wachtmeister själv (att sedan behålla en okontrollerad telepat blir deras problem). Ett bakslag på kampanjnivå (*jämför [[Extraktionen]]*). Eller så tar sig rollpersonerna och GRU båda knappt undan ett utslaget tankefält och skiljs som motvilliga bekanta.
 6. **Akhenatons öde.** Återhämtad (sällsynt), djupare institutionaliserad under Frigg, död — eller, mörkast, bedömd som användbar och återförvärvad som tillgång trots sin instabilitet. En spegel av rollpersonernas eget ursprung.
 
