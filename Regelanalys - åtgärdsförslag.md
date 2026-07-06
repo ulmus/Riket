@@ -30,12 +30,9 @@ Uppdatera särskilt inledningen i [[Kritiska träffar]], sammanfattningen i [[St
 
 **Problem:** [[Vapen]] anger handgranat med Skada 6, medan [[Särskilda situationer#Explosioner]] anger handgranat/mindre bomb med Skadevärde 4.
 
-**Åtgärd:** Välj en av två modeller:
+**Åtgärd:** Uppdatera [[Vapen]] och [[Särskilda situationer#Explosioner]] så att de är konsekventa:
 
-- Rekommenderat: Vapentabellen anger `Skadevärde 4` och hänvisar till explosionsreglerna.
-- Alternativt: Behåll vapnets Skada 6 och ta bort den separata handgranatsraden i explosionstabellen.
-
-Den första modellen är renare eftersom explosionsreglerna redan har avstånd, trånga utrymmen, splitter och skydd.
+- Vapentabellen anger `Skadevärde 6` och hänvisar till explosionsreglerna.
 
 ### Sikta
 
