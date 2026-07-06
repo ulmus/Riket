@@ -38,7 +38,7 @@ En **Lätt** aktivitet lyckas alltid, men ett frivilligt slag kan tillåtas för
 
 ### Effekt
 
-Framgångar utöver de som krävs för att klara svårigheten kallas **Effekt**. Effekt är en resurs på det enskilda slaget som kan spenderas på extra verkningar — till exempel mer skada, längre varaktighet, fler mål eller en större bonus. Hur många framgångar en viss verkan kostar anges där den beskrivs, ofta i formen *1 Framgång: …* (det vill säga 1 Effekt).
+Framgångar utöver de som krävs för att klara svårigheten kallas **Effekt**. Effekt är en resurs på det enskilda slaget som kan spenderas på extra verkningar — till exempel mer skada, längre varaktighet, fler mål eller en större bonus. Hur mycket Effekt en viss verkan kostar anges där den beskrivs, ofta i formen *1 Effekt: …*.
 
 I ett **motståndsslag** (se [[Aktiviteter#Motstånd]]) är Effekt i stället de framgångar som vinnaren slog utöver motståndarens.
 
@@ -59,7 +59,16 @@ Varje karaktär fördelar 21 poäng på sina åtta egenskaper. En egenskap blir 
 
 ## Expertis
 
-Som tillägg till Egenskaper finns **Expertis**, som representerar träning och yrkeserfarenhet inom ett visst område. Expertis sänker svårigheten ett steg på aktiviteter inom expertisens område: **Normala** uppgifter blir **Lätta** och lyckas automatiskt, **Svåra** uppgifter blir **Normala** och **Mycket Svåra** uppgifter blir **Svåra**. Utan expertis är varje aktivitet ett steg svårare. Exempel på expertiser är: Läkare, Fältmedicinare, Pilot, Mekaniker, Kryptograf, Maskör, Officer, Chaufför. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser. Se [[Expertiser]] för detaljer om varje expertis och deras kopplade förmågor.
+Som tillägg till Egenskaper finns **Expertis**, som representerar träning och yrkeserfarenhet inom ett visst område. När en aktivitet faller inom din Expertis sänks svårigheten ett steg: **Normala** uppgifter blir **Lätta** och lyckas automatiskt, **Svåra** uppgifter blir **Normala** och **Mycket Svåra** uppgifter blir **Svåra**.
+
+Svårigheterna i listorna i [[Expertiser]] är skrivna för den som har relevant Expertis. Saknar du den Expertisen blir en sådan specialiserad aktivitet ett steg svårare. Exempel på expertiser är: Läkare, Fältmedicinare, Pilot, Mekaniker, Kryptograf, Maskör, Officer, Chaufför. Expertiser ger också tillgång till vissa förmågor som kräver specifika expertiser. Se [[Expertiser]] för detaljer om varje expertis och deras kopplade förmågor.
+
+### Flöde för Expertis
+
+1. Sätt grundsvårighet efter situationen.
+2. Om aktiviteten matchar relevant Expertis: ett steg lättare.
+3. Om aktiviteten är en specialiserad expertisaktivitet och karaktären saknar Expertis: ett steg svårare.
+4. Tillämpa tillstånd som **Sårad** och **Påverkad**.
 
 Varje karaktär börjar spelet med en Expertis.
 
@@ -120,10 +129,10 @@ Om du använt Fokus för att lägga till tärningar till ett slag och någon av 
 
 ### Stress istället för Fokus
 
-Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fokus kvar, istället ta en eller flera Stress (se Stress nedan).
+Alltid när du kan använda Fokus kan du, om du inte har tillräckligt mycket Fokus kvar, ersätta resten med Stress (se Stress nedan).
 
-- Varje Stress du tar ersätter en nivå Fokus.
-- Du kan bara använda lika många Stress som din Stabilitet.
+- Varje Stress du tar ersätter 1 Fokus.
+- Du kan som mest ersätta lika mycket Fokus med Stress som din Stabilitet per tillfälle.
 - Om du får ett Sammanbrott av Stress som används för att ersätta Fokus så slår du på Sammanbrottstabellen efter att du utfört handlingen ([[Trauma, chock och stress#Sammanbrott]]).
 
 ### Fokus till Momentum
@@ -151,10 +160,10 @@ Se kapitlet för [[Strid och skada]].
 
 ## Stress och rädsla
 
-- Markera Stress vid skada, rädsla, trauma eller istället för att spendera Fokus.
+- Markera Stress vid skada, rädsla, trauma eller när du ersätter Fokus.
   - Varje gång du tar minst 1 KP skada (och **1 till** när skadan gör dig **Sårad**).
   - När du misslyckas med ett Chockslag (se [[Trauma, chock och stress#Chock]]).
-  - Valfritt, om du vill spendera Fokus men inte har några kvar, kan du markera Stress i stället. Du kan bara markera lika många Stress som din Stabilitet per gång.
+  - Räcker inte ditt Fokus kan du ersätta resten med Stress, högst lika många Stress som din Stabilitet per tillfälle.
 - Om du tar mer Stress än vad du har i Stabilitet så slår du på Sammanbrottstabellen.
   - Varje gång du har tagit mer Stress än en multipel av din Stabilitet så slår du igen på Sammanbrottstabellen, +1 för varje multipel av Stabilitet du har passerat utöver den första.
 - Återvinn Stress genom att vila eller utföra stressreducerande aktiviteter (olika för varje rollperson).

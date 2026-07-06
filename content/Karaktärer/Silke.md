@@ -36,14 +36,14 @@ cssclasses:
 
 ### Feromoner (Alltid aktiv)
 
-Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla som är inom 10 meter och andas samma luft.
+Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för alla i samma zon som andas samma luft.
 
 ### Manipulation (1 Fokus, en handling)
 
-Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp inom 10 meter. Ger +1 tärning på efterföljande sociala slag.
+Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp i samma zon. Ger +1 tärning på efterföljande sociala slag.
 
-- **+1 Fokus:** Radien ökar 10 meter.
-- **1 Framgång:** Känslan håller i sig hela scenen.
+- **+1 Fokus:** Effekten sträcker sig till en intilliggande zon.
+- **1 Effekt:** Känslan håller i sig hela scenen.
 
 ### Förslag (2 Fokus, en handling)
 
@@ -51,7 +51,7 @@ Slå Samspel + Vilja mot målets Samspel + Vilja för att ge en enkel, verbal or
 
 - **+1 Fokus:** Ordern kan vara komplex eller pågå under en längre tid.
 - **+1 Fokus:** Ordern får medföra livsfara.
-- **1 Framgång:** Målet kommer inte ihåg ordern efteråt.
+- **1 Effekt:** Målet kommer inte ihåg ordern efteråt.
 
 ### Aktiverat trauma – Manipulation
 

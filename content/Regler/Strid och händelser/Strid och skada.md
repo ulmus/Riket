@@ -26,7 +26,7 @@ Egenskaperna är verktyg, inte en fast lista — de flesta uttrycks som ett steg
 
 ## Turer och handlingar
 
-På din tur utför du normalt **en handling** — en attack, en kraft, att ladda om, ge förband, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
+På din tur utför du normalt **en handling** — en attack, en kraft, att ladda om, hålla tryck mot en blödning, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
 
 Du kan försöka göra **två handlingar** samma tur — till exempel två attacker, eller en attack och en förflyttning — men då blir **var och en ett steg svårare**.
 
@@ -64,7 +64,7 @@ Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exem
 - Stormning — förflytta dig fram till ett mål och gör en närstridsattack (som en handling)
 - Aktivera en kraft eller förmåga som kräver en handling
 - Ladda om ett vapen (se [[Vapen]] )
-- Ge förband eller stabilisera en skadad (se [[#Stabilisering]] )
+- Hålla tryck mot **Kraftig blödning** medan vård pågår (se [[#Stoppa blödning]] )
 - Resa sig från marken eller ta sig över ett hinder
 
 ## Handlingar som inte kan kombineras med förflyttning
@@ -86,7 +86,7 @@ Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja elle
 
 Du kan väja både för avstånds- och närstridsattacker. Om du väjer så hamnar du på marken efter attacken. Du kan bara parera närstridsattacker och du måste ha något i händerna som du kan parera med.
 
-Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]] ).
+Aktivt försvar deklareras innan anfallets resultat räknas. Räcker inte ditt Fokus kan du ersätta resten med Stress (se [[Grundregler#Stress istället för Fokus]] ).
 
 ## Fokus i strid
 
@@ -166,7 +166,7 @@ Varje vapen har ett värde för **Skada** som är en fast bonus till KP-skadan v
 
 ## 3. Skydd
 
-Målets **Skydd** (från rustning, täckning, etc.) dras av från KP-skadan (minst 0). Skydd hindrar KP-skada men påverkar inte om en kritisk träff utlöses, förutsatt att det finns KP kvar av skadan efter att skyddet dragits av.
+Målets **Skydd** (från rustning, täckning, etc.) dras av från KP-skadan (minst 0). Om ingen KP-skada återstår efter Skydd utlöses ingen kritisk träff, även om attackslaget innehöll en eller flera 12:or.
 
 ## 4. Kritiska träffar
 
@@ -188,7 +188,7 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende. En 12:a 
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
 > Vakten bär **tjock rock (Skydd 1)**. KP-skada = Effekt 2 + 3 Skada − 1 Skydd = **4 KP**.
 > Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 4 KP — fortfarande Tjänstduglig, men tar **1 Stress** (av att ha tagit skada).
-> 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
+> Eftersom 12:an finns på attackslaget och 4 KP gick igenom Skyddet utlöses en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
 
 ## Effekter av skada
 
@@ -250,7 +250,7 @@ En annan person stabiliserar dig genom att behandla det som gör dig döende:
 
     *Exempel: En Artärträff (Kirurgi, Svår) behandlas i fält av en läkare som slår tre framgångar. Två framgångar krävdes för att klara Svår — behandlingen lyckas, blödningen stoppas och patienten kliver tre steg: från Akut döende hela vägen till Stabil (med ett steg till godo).*
 
-- **Tid och återförsök:** Första försöket tar **en minut**, ett andra försök på samma patient tar **en timme**. Fler försök än så kräver **förbättrade förutsättningar** — bättre utrustning, mer tid eller en stabilare patient. I praktiken kan man därför bara under **sjukhusformer** fortsätta slå om tills det lyckas; i fält får du ett par försök, sedan måste något förändras.
+- **Tid och återförsök:** Första försöket tar **en minut**, ett andra försök på samma patient tar **en timme**. Om behandlingen påbörjas innan patientens nästa Överlevnadsslag och inte avbryts, görs vårdslaget när minuten är slut och före det Överlevnadsslaget. Misslyckas vårdslaget gör patienten sedan Överlevnadsslaget. Fler försök än så kräver **förbättrade förutsättningar** — bättre utrustning, mer tid eller en stabilare patient. I praktiken kan man därför bara under **sjukhusformer** fortsätta slå om tills det lyckas; i fält får du ett par försök, sedan måste något förändras.
 
 När du har blivit **stabil** är du inte längre döende och slutar slå Överlevnadsslag. Du är potentiellt fortfarande Medvetslös eller Sårad och KP-skada och eventuella **Permanent**-effekter består.
 
@@ -281,7 +281,15 @@ Vissa kritiska träffar orsakar **blödning**. Det finns två blödningstillstå
 
 ### Stoppa blödning
 
-Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en stridsrunda, andra tar en minut, fler slag kräver förbättrade förutsättningar. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
+Blödning stoppas med **Kirurgi** (*Analys + Smidighet*). Ett vårdslag tar minst **en full minut**. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
+
+Vid **Kraftig blödning** kan en vårdare börja behandla i strid genom att hålla konstant tryck mot såret. Så länge vårdaren ägnar sina handlingar åt detta tar patienten ingen KP från blödningen, men blödningen är inte stoppad förrän minuten är klar och slaget lyckas. Avbryts trycket börjar blödningen ticka igen i början av nästa runda.
+
+Att hålla tryck är en handling med svårighet **Lätt**. En Fältmedicinare lyckas därför automatiskt om spelaren inte slår för att söka Effekt. Strid, eld eller andra pressade situationer gör handlingen ett steg svårare för den som saknar Expertis: Fältmedicinare.
+
+En medveten patient kan hålla tryck mot sitt eget sår. Vill patienten förflytta sig, anfalla eller göra något annat samtidigt följer det vanliga reglerna för två handlingar: båda handlingarna blir ett steg svårare.
+
+Ett andra försök på samma patient tar en timme. Fler försök kräver förbättrade förutsättningar.
 
 Se [[Läkning & vård]] för mer information.
 
@@ -304,7 +312,8 @@ Som alltid är **Mycket Svår** taket: flera tillstånd kan inte driva svårighe
 1. **Träff?** Räkna framgångar (10+) på attackslaget.
 2. **Räkna skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0).
 3. **Applicera skada:** Uppdatera KP, kontrollera trösklarna (Sårad/Medvetslös/Döende).
-4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
+4. **Markera Stress:** Minst 1 KP skada ger 1 Stress; att bli **Sårad** ger 1 Stress till.
+5. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus. Om attacken träffade och gjorde minst 1 KP skada efter Skydd, slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
 
 ### Läkning
 

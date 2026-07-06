@@ -54,7 +54,7 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 
 ## Stress
 
-**Stress** är ett mått på din rollpersons psykiska belastning. Du tar Stress när du utsätts för traumatiska händelser. Om ditt Fokus inte räcker kan du också ta Stress i stället för att spendera Fokus — högst lika många som din Stabilitet per tillfälle (se [[Grundregler#Stress istället för Fokus]]). När du har tagit mer Stress än din **Stabilitet** riskerar du ett Sammanbrott (se nedan).
+**Stress** är ett mått på din rollpersons psykiska belastning. Du tar Stress när du utsätts för traumatiska händelser. Räcker inte ditt Fokus kan du också ersätta resten med Stress — högst lika många Stress som din Stabilitet per tillfälle (se [[Grundregler#Stress istället för Fokus]]). När du har tagit mer Stress än din **Stabilitet** riskerar du ett Sammanbrott (se nedan).
 
 ## Återhämtning – minska Stress
 
@@ -68,6 +68,12 @@ Om ingen av ovanstående passar din rollperson, arbeta med SL för att skapa ett
 **Stabilitet** anger hur mycket **Stress** du tål innan ett sammanbrott. Stabiliteten för vanliga karaktärer är **3**.
 
 > **Sammanbrottsgränser:** När din totala Stress passerar **1×B**, **2×B**, **3×B** … (där **B** är din Stabilitet) slår du på Sammanbrottstabellen.
+
+| Stabilitet | Slå vid Stress | Modifierare    |
+| ---------: | -------------- | -------------- |
+|          3 | 4, 7, 10, 13   | +0, +1, +2, +3 |
+|          2 | 3, 5, 7, 9     | +0, +1, +2, +3 |
+|          1 | 2, 3, 4, 5     | +0, +1, +2, +3 |
 
 Stabilitet kan minska när karaktären utsätts för permanent trauma (13+ på Sammanbrottstabellen). Karaktären får då ett nytt stabilitetsvärde och endast lång tids terapi eller motsvarande kan återställa det.
 

@@ -13,14 +13,14 @@
 - Återställs till **Momentum** varje scen
 - Spendera för att aktivera krafter och förmågor
 - Lägg till extra tärningar efter slag (1 per Fokus, en gång per slag) – etta på extra tärning ger **Komplikation**
-- Har du slut på Fokus? Ta **Stress** istället (max lika med din Stabilitet)
+- Räcker inte ditt Fokus kan du ersätta resten med **Stress**, högst lika många Stress som din Stabilitet per tillfälle
 
 ## Strid
 
 - **Initiativ:** 1T12 + Strid, högst agerar först
 - **Din tur:** normalt en handling. Två handlingar samma tur — t.ex. två attacker, eller en attack och en förflyttning — gör var och en ett steg svårare
 - **Zoner:** SL delar in scenen i berättardrivna zoner (≈ tio meter; ett rum inomhus, en hex utomhus); avstånd och förflyttning mäts i zoner
-- **Förflyttning:** en egen handling — slå *Fysik + Smidighet*. Normalt Lätt → en zon, ingen tärning. Varje Effekt = en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten
+- **Förflyttning:** en egen handling — slå *Fysik + Smidighet*. Normalt **Lätt** och du lyckas automatiskt med en zon. Varje Effekt = en zon till (eller fram till en bestämd punkt). Svår terräng och sår höjer svårigheten
 - **Rörligt mål:** har du flyttat minst en zon är alla avståndsattacker mot dig ett steg svårare till din nästa tur
 - **Kombinera utan avdrag:** **Stormning** (rörelse + närstrid)
 - **Kan inte kombineras med förflyttning:** sikta och kirurgi kräver stillhet
@@ -37,16 +37,24 @@
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Två grader — **Döende** (Överlevnadsslag *Fysik + Vilja* per timme) och **Akut döende** (per minut). KP-chock startar som Akut döende
 - **Döende-stege:** Stabil → **Döende** → **Akut döende** → Död. Ny döende eller misslyckat slag = ett steg värre; behandling = ett steg per framgång, eget slag = ett steg per 2 Effekt. Fritt omslag endast på sjukhus
+- **Vård:** snabbaste vårdslag tar **en minut**. Vid **Kraftig blödning** kan någon hålla tryck som handling för att hindra blödningens KP medan behandlingen pågår
 - **Död** (> 4 × Tålighet KP): Död
 - **Vapnets Skada** läggs till KP-skadan (inte till kritisk träff-slaget); **Penetrerande** ger i stället +2 på krit-slaget
 - **Kritiska sår**: Enligt utfall på tabellen
 
 ## Stress och Sammanbrott
 
-- Markera **Stress** vid: skada (1 per träff, +1 när du blir **Sårad**), chock, kraftanvändning (istället för Fokus)
+- Markera **Stress** vid: skada (1 per träff, +1 när du blir **Sårad**), chock, eller när du ersätter Fokus
 - **Chock:** Slå Vilja + lämplig egenskap. Chockfaktor (normalt 1–4) minus framgångar = Stress. Trauma-koppling ger +1 Chockfaktor.
 - **Stabilitet** = 3 för vanliga karaktärer
-- Passerar du en **sammanbrottsgräns** (1×, 2×, 3× Stabilitet): slå T12 (+1 per gräns utöver första)
+- Räcker inte ditt Fokus kan du ersätta resten med Stress, högst lika många Stress som din Stabilitet per tillfälle
+- Passerar du en **sammanbrottsgräns**: slå T12 (+1 per gräns utöver första)
+
+| Stabilitet | Slå vid Stress | Modifierare    |
+| ---------: | -------------- | -------------- |
+|          3 | 4, 7, 10, 13   | +0, +1, +2, +3 |
+|          2 | 3, 5, 7, 9     | +0, +1, +2, +3 |
+|          1 | 2, 3, 4, 5     | +0, +1, +2, +3 |
 
 |      Slag | Utfall                                                                                                                                                                                                                                      |
 | --------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,7 +65,7 @@
 |     **7** | **Utbrott** – Du tappar fattningen och reagerar med ilska, gråt eller annat irrationellt beteende. SL beskriver hur det tar sig uttryck. Alla i närheten gör ett **Chockslag (Vilja + Vilja, Chockfaktor 1)**.                               |
 |     **8** | **Panikångest** – Du drabbas av panik. Beroende på situationen kan det innebära att du fryser på stället eller springer. Du måste lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda).                              |
 |     **9** | **Raseri** – Du reagerar med vansinnigt raseri, riktat mot din utrustning, dina fiender, dina vänner eller dig själv. Du attackerar någon eller något tills du lyckas med ett slag för **Vilja + Vilja** för att sluta (ett slag per runda). |
-| **10–12** | **Traumat aktiverat** – Ditt trauma aktiveras (se [[#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]).                          |
+| **10–12** | **Traumat aktiverat** – Ditt trauma aktiveras (se [[Trauma, chock och stress#Trauma]]). Du tvingas agera enligt ditt traumas beteende **resten av scenen**. Dina **krafter manifesterar okontrollerat** (se [[Krafter#Aktiverat trauma]]). |
 |   **13+** | **Trauma förvärrat** – Ditt trauma aktiveras som ovan, **och** det fördjupas permanent. Välj en negativ effekt från tabellen *Förvärrat trauma* tillsammans med SL. Din Stabilitet sjunker ett steg permanent.                              |
 
 ## Återhämtning

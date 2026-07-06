@@ -967,10 +967,10 @@ Psykokinetisk köldinducerare. Morana är en kvinna i tjugofemårsåldern, blek 
 
 **Köldinducering:**
 
-- Morana kan sänka temperaturen i ett 5-metersradius runt henne eller fokusera på en specifik person inom 10 meter.
+- Morana kan sänka temperaturen i zonen runt sig eller fokusera på en specifik person i samma zon.
 - **Kostnad:** 1 Fokus per runda.
 - **Verkan:** Alla inom området tar 1 KP skada per runda från kylan och fysiska handlingar blir ett steg svårare (stelhet).
-- Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP köldskada och målet blir **bedövat** (svårt att röra sig).
+- Fokuserad attack på en person: *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP köldskada och målet blir **Omtumlat** av kylan (alla handlingar nästa runda ett steg svårare).
 
 **Nervbedövning:**
 

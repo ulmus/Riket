@@ -1,6 +1,6 @@
 # Krafter
 
-Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel. Ett utförligt exempel på hur en kraft byggs, med resonemang om kostnaderna, finns i [[Kraftexempel]].
+Krafter i I Rikets Tjänst är unika, oberäkneliga och farliga. De är en manifestation av individens inre konflikter och trauman, och kan vara lika mycket en förbannelse som en gåva. Varje kraft som en rollperson har är unik – spelledare och spelare konstruerar dem tillsammans utifrån principerna i detta kapitel. Ett utförligt exempel på hur en kraft byggs, med resonemang om kostnaderna, finns i [[Kraftexempel]]. Vill ni komma igång snabbt finns färdiga startpunkter i [[Kraftkort]] — välj ett kort, ge det ett tema och justera det med stegen nedan.
 
 För bakgrund till hur krafterna har uppstått, se [[Bakgrund]] och specifikt [[Program Frigg (Sverige)]].
 
@@ -36,6 +36,8 @@ Varje karaktärs krafter bör ha ett gemensamt tema som speglar:
 | **Transformation** | Formskifte, fasskifte       | Fysik + Vilja     |
 | **Transport**      | Flyga, teleportera          | Smidighet + Vilja |
 | **Övrigt**         | Tala med djur               | Varierar          |
+
+Kategorin hjälper dig att avgöra vilket slag, vilken räckvidd och vilken kostnad som är rimlig att utgå ifrån. Utgår du från ett av korten i [[Kraftkort]] är kategorin redan vald.
 
 ### Steg 2: Bestäm kostnad
 
@@ -88,7 +90,7 @@ Begränsningar gör kraften billigare eller mer rimlig. Exempel:
 
 ### Steg 5: Lägg till förstärkningar
 
-Krafter kan förstärkas genom att spendera fler Fokus eller genom att få fler Framgångar på slaget för kraften (om kraften har ett slag). Grundprincipen är att extra Fokus används för att lägga till effekter till kraften eller förstärka de effekter som finns på ett sätt som kräver planering, det vill säga spelaren behöver veta i förväg om det är relevant. **Effekt** (framgångar utöver de som krävs) förstärker istället befintliga effekter, så som mer skada, högre bonus etc.
+Krafter kan förstärkas genom att spendera fler Fokus eller genom att få **Effekt** på slaget för kraften (om kraften har ett slag). Grundprincipen är att extra Fokus används för att lägga till effekter till kraften eller förstärka de effekter som finns på ett sätt som kräver planering, det vill säga spelaren behöver veta i förväg om det är relevant. **Effekt** (framgångar utöver de som krävs) förstärker i stället befintliga effekter, som mer skada, högre bonus eller längre varaktighet.
 
 **Fokuskostnad vid slag:** Om kraften kräver ett slag för att lyckas gäller följande: du betalar alltid grundkostnaden i Fokus oavsett om slaget lyckas eller inte. Extra Fokus som spenderas för förstärkningar ("+1 Fokus"-alternativ) betalas däremot bara om slaget lyckas. Om slaget misslyckas förlorar du bara grundkostnaden.
 
@@ -99,8 +101,8 @@ Exempel:
 - **+1 Fokus:** Öka varaktigheten
 - **+1 Fokus:** Öka effektens intensitet
 - **+2 Fokus:** Dramatisk förstärkning
-- **1 Framgång:** +1 skada
-- **1 Framgång:** +1 bonus på egenskap
+- **1 Effekt:** +1 skada
+- **1 Effekt:** +1 bonus på egenskap
 
 ## Attacker med krafter
 
@@ -171,7 +173,7 @@ När du skapar en kraft, beskriv också hur den manifesterar sig när ditt traum
 *Slå Egenskap + Egenskap för att uppnå effekt.*
 
 - **+1 Fokus:** *Förstärkning*
-- **1 Framgång:** *Bonus*
+- **1 Effekt:** *Bonus*
 
 ### Attackkraft
 
@@ -179,7 +181,7 @@ När du skapar en kraft, beskriv också hur den manifesterar sig när ditt traum
 *Slå Strid + Vilja för att attackera. Skadebonus +X. Skadetyp: typ.*
 
 - **+1 Fokus:** *Förstärkning*
-- **1 Framgång:** +1 skada
+- **1 Effekt:** +1 skada
 
 ## Exempelkrafter
 
@@ -196,7 +198,7 @@ Karaktären utsöndrar feromoner. Ger +1 tärning på alla Samspel-slag för all
 Slå Samspel + Vilja för att subtilt ingjuta en grundläggande känsla (lugn, rädsla, tillit) hos en liten grupp i samma zon. Ger +1 tärning på efterföljande sociala slag.
 
 - **+1 Fokus:** Räckvidden ökar ett band.
-- **1 Framgång:** Känslan håller i sig hela scenen.
+- **1 Effekt:** Känslan håller i sig hela scenen.
 
 ### Förslag (2 Fokus, en handling)
 
@@ -204,7 +206,7 @@ Slå Samspel + Vilja mot målets Vilja + Vilja för att ge en enkel, verbal orde
 
 - **+1 Fokus:** Ordern kan vara komplex eller pågå längre tid.
 - **+1 Fokus:** Ordern får medföra livsfara.  
-- **1 Framgång:** Målet kommer inte ihåg ordern efteråt.
+- **1 Effekt:** Målet kommer inte ihåg ordern efteråt.
 
 ---
 
@@ -228,8 +230,8 @@ Slå Strid + Vilja. Levande varelser i samma zon måste lyckas med ett slag för
 
 - **+1 Fokus:** Forma attacken som en kon.
 - **+1 Fokus:** Välj vilka mål som drabbas.
-- **1 Framgång:** Motståndsslaget ett steg svårare.
-- **1 Framgång:** +1 rundas desorientering.
+- **1 Effekt:** Motståndsslaget ett steg svårare.
+- **1 Effekt:** Målen blir **Omtumlade** nästa runda.
 
 ---
 
@@ -247,7 +249,7 @@ När du blir måltavla för en effekt som skulle flytta dig, blir du orubblig un
 
 - **+1 Fokus:** Reflektera knuff-effekten tillbaka.
 - **+2 Fokus:** Reflektera både knuff och skada.
-- **1 Framgång:** Förankringen håller en extra runda.
+- **1 Effekt:** Förankringen håller en extra runda.
 
 ### Läderhud (1 Fokus, reaktiv)
 
@@ -258,7 +260,7 @@ När du träffas av en attack, öka ditt Skydd med 1 under resten av rundan. Kan
 Fungerar som en **Stormning** (förflyttning fram till ett mål plus en närstridsattack, som en handling). Varje **Effekt** kan, i stället för extra skada, användas för att forcera ett hinder på vägen — en vägg, en barrikad, en stängd dörr. Fiender i vägen måste slå Fysik + Strid för att inte slås till marken.
 
 - **+1 Fokus:** Träffar alla i vägen, inte bara ett mål.
-- **1 Framgång:** Fienders slag för att hålla sig upp ett steg svårare.
+- **1 Effekt:** Fienders slag för att hålla sig upp ett steg svårare.
 
 ---
 
@@ -275,7 +277,7 @@ Tar aldrig skada av kyla. Kan röra sig normalt på is.
 Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring.
 
 - **+1 Fokus:** Räckvidden ökar till Nära.
-- **1 Framgång:** Effekten är starkare och varar längre.
+- **1 Effekt:** Effekten är starkare och varar längre.
 
 ### Iskristaller (1 Fokus, en handling)
 
@@ -283,8 +285,8 @@ Slå Strid + Vilja för att skjuta vassa iskristaller mot ett mål på Medel hå
 
 - **+1 Fokus:** Träffar alla intill målet.
 - **+1 Fokus:** Vid 2+ KP skada måste målet slå Fysik + Vilja eller kan nästa runda inte både handla och förflytta sig.
-- **1 Framgång:** +1 skada.
-- **1 Framgång:** +1 band räckvidd.
+- **1 Effekt:** +1 skada.
+- **1 Effekt:** +1 band räckvidd.
 
 ### Fryspelare (2 Fokus, en handling)
 
@@ -292,7 +294,7 @@ Skapa extrem kyla i en zon på Kort håll. Alla i zonen utom du själv måste sl
 
 - **+1 Fokus:** Varar hela scenen.
 - **+1 Fokus:** Marken blir hal is – alla måste slå Fysik + Smidighet för att inte falla.
-- **1 Framgång:** Sträcker sig till en intilliggande zon.
+- **1 Effekt:** Sträcker sig till en intilliggande zon.
 
 ---
 
@@ -312,8 +314,8 @@ Slå Strid + Vilja för elektrisk stöt genom beröring. **Skadebonus +2** (Star
 
 - **+1 Fokus:** Skjut stöten som ljusbåge på Kort håll.
 - **+1 Fokus:** Målet tappar vad det håller och kan nästa runda inte både handla och förflytta sig.
-- **1 Framgång:** +1 skada.
-- **1 Framgång:** Elektronik på målet kortsluts.
+- **1 Effekt:** +1 skada.
+- **1 Effekt:** Elektronik på målet kortsluts.
 
 ### Neural överbelastning (2 Fokus, en handling)
 
@@ -323,7 +325,7 @@ Slå Samspel + Vilja mot målets Fysik + Vilja. Om du vinner blir målet paralys
 
 - **+1 Fokus:** +1 rundas paralys (kan tas flera gånger).
 - **+2 Fokus:** Rikta specifika kommandon till nervsystemet (tvinga en hand att släppa, ett ben att ge vika).
-- **1 Framgång:** +1 Stress till målet.
+- **1 Effekt:** +1 Stress till målet.
 
 ### Adrenalinpuls (1 Fokus, modifierar din handling)
 

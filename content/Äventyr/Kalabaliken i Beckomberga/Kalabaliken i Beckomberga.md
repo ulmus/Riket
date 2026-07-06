@@ -285,7 +285,7 @@ Akhenaton pressar en order rakt in i ett medvetande inom synhåll. Slå *Samspel
 
 - **+1 Fokus:** Ordern får vara komplex eller pågå längre.
 - **+1 Fokus:** Ordern får medföra livsfara.
-- **1 Framgång:** Målet minns inte efteråt att tanken var någon annans.
+- **1 Effekt:** Målet minns inte efteråt att tanken var någon annans.
 
 **Tankeläsning** (1 Fokus, en handling)
 Slå *Sinnen + Vilja* för att läsa ytliga tankar och känslor hos någon på **Nära** håll (samma rum). Akhenaton tolkar det han ser genom sin vanföreställning — sanningen färgas av myten.

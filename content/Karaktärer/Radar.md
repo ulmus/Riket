@@ -38,7 +38,7 @@ cssclasses:
 
 ### Radarsinne (Alltid aktiv)
 
-Karaktären kan avläsa sin omgivning utan att använda synen, och uppfattar konturer av föremål och rörelser genom solida hinder inom cirka 20 meter.
+Karaktären kan avläsa sin omgivning utan att använda synen, och uppfattar konturer av föremål och rörelser genom solida hinder på Kort håll.
 
 ### Radiohörsel (1 Fokus, en handling)
 
@@ -48,12 +48,12 @@ Karaktären kan lyssna på radiofrekvenser så länge hen koncentrerar sig. Om s
 
 ### Pulsstörare (1 Fokus, en handling)
 
-Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vilja. Om slaget lyckas måste levande varelser inom 10 meter slå Vilja eller förlora sin nästa runda. Elektronik blir också utstörd, SL avgör i vilken grad.
+Karaktären sänder ut en koncentrerad energipuls genom att slå för Strid + Vilja. Om slaget lyckas måste levande varelser i samma zon slå Vilja eller förlora sin nästa runda. Elektronik blir också utstörd, SL avgör i vilken grad.
 
 - **+1 Fokus:** Forma attacken som en kon.
 - **+1 Fokus:** Välj vilka mål som drabbas.
-- **1 Framgång:** Motståndsslaget ett steg svårare.
-- **1 Framgång:** +1 rundas desorientering.
+- **1 Effekt:** Motståndsslaget ett steg svårare.
+- **1 Effekt:** Målen blir **Omtumlade** nästa runda.
 
 ### Aktiverat trauma – Pulsstörare
 
