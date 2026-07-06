@@ -12,13 +12,13 @@ Svårigheterna under varje expertis nedan visar hur svåra aktiviteterna är **m
 
 - **Lätt:** Diagnostisera vanlig sjukdom, lägga enkla förband, avgöra dödsorsak vid uppenbart trauma, ge grundläggande medicinsk rådgivning.
 - **Normal:** Akutvård i fält (*Analys + Smidighet*), diagnosticering och behandling (*Analys + Sinnen*).
-- **Svår:** Kirurgi (*Analys + Smidighet*), lägga förband under eld (*Analys + Smidighet*).
+- **Svår:** Kirurgi (*Analys + Smidighet*).
 
 ## Fältmedicinare
 
-- **Lätt:** Lägga tryckförband, bedöma skadors svårighetsgrad, triagera skadade vid masskadesituation, ge grundläggande akutvård vid okomplicerade skador.
+- **Lätt:** Lägga tryckförband, hålla tryck under eld, bedöma skadors svårighetsgrad, triagera skadade vid masskadesituation, ge grundläggande akutvård vid okomplicerade skador.
 - **Normal:** Akutvård och stabilisering i fält (*Analys + Smidighet*).
-- **Svår:** Stoppa blödning under strid (*Analys + Smidighet*), stabilisera döende under eldgivning.
+- **Svår:** Behandla blödning eller stabilisera döende under eldgivning.
 
 ## Apotekare
 

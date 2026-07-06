@@ -37,6 +37,7 @@
 - **Medvetslös** (> 2 × Tålighet KP): Ur spel
 - **Döende** (> 3 × Tålighet KP): Två grader — **Döende** (Överlevnadsslag *Fysik + Vilja* per timme) och **Akut döende** (per minut). KP-chock startar som Akut döende
 - **Döende-stege:** Stabil → **Döende** → **Akut döende** → Död. Ny döende eller misslyckat slag = ett steg värre; behandling = ett steg per framgång, eget slag = ett steg per 2 Effekt. Fritt omslag endast på sjukhus
+- **Vård:** snabbaste vårdslag tar **en minut**. Vid **Kraftig blödning** kan någon hålla tryck som handling för att hindra blödningens KP medan behandlingen pågår
 - **Död** (> 4 × Tålighet KP): Död
 - **Vapnets Skada** läggs till KP-skadan (inte till kritisk träff-slaget); **Penetrerande** ger i stället +2 på krit-slaget
 - **Kritiska sår**: Enligt utfall på tabellen

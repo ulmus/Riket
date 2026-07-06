@@ -60,17 +60,19 @@ Uppdatera [[Grundregler]], [[Snabbreferens]], [[Att spelleda I Rikets Tjänst]] 
 
 ### Vård och stabilisering
 
-**Problem:** Akutvård, stabilisering, blödning och KP-chock använder delvis olika tidsåtgång och egenskapskombinationer.
+**Problem:** Akutvård, stabilisering, blödning och KP-chock använder delvis olika tidsåtgång och egenskapskombinationer. Särskilt problematiskt är att en **Kraftig blödning** kan läsas som något som går att stoppa på en stridsrunda, medan stabilisering och annan vård kräver längre arbete.
 
-**Åtgärd:** Dela upp vårdproceduren i två nivåer:
+**Åtgärd:** Dela upp vårdproceduren i tydliga tidsnivåer:
 
-| Åtgärd              | Tid               | Slag                                | Verkan                                                     |
-| ------------------- | ----------------- | ----------------------------------- | ---------------------------------------------------------- |
-| Akut åtgärd         | 1 runda           | Kirurgi eller Medicin enligt skadan | Stoppar eller minskar akut effekt, främst Kraftig blödning |
-| Stabilisering       | 1 minut           | Vårdtyp enligt skadan               | Flyttar Döende ett steg nedåt per framgång                 |
-| Fortsatt behandling | 1 timme eller mer | Vårdtyp enligt skadan               | Nytt försök om förutsättningarna förbättras                |
+| Åtgärd              | Tid                | Slag                                | Verkan                                                            |
+| ------------------- | ------------------ | ----------------------------------- | ----------------------------------------------------------------- |
+| Hålla tryck         | Handlingar i strid | Lätt för Fältmedicinare, annars Normal | Köper tid mot **Kraftig blödning** så länge vårdaren inte avbryts |
+| Första vårdslag     | Minst 1 minut      | Kirurgi eller Medicin enligt skadan | Stoppar blödning, stabiliserar döende eller lindrar Sårad         |
+| Fortsatt behandling | 1 timme eller mer  | Vårdtyp enligt skadan               | Nytt försök om förutsättningarna förbättras                       |
 
-Bestäm samtidigt om KP-chock utan kritisk träff ska stabiliseras med **Medicin** (_Analys + Sinnen_) eller akutvård (_Analys + Smidighet_). Rekommendation: använd **Medicin** för diagnos/stabilisering och **Kirurgi** för blödning, brutna ben och öppna skador.
+Bestäm samtidigt om KP-chock utan kritisk träff ska stabiliseras med **Medicin** (*Analys + Sinnen*) eller akutvård (*Analys + Smidighet*). Rekommendation: använd **Medicin** för diagnos/stabilisering och **Kirurgi** för blödning, brutna ben och öppna skador. Ingen expertis eller förmåga bör göra vård omedelbar; de ska i stället göra vård möjlig under sämre förutsättningar.
+
+Konsekvens: svåra skador blir ett taktiskt problem för hela gruppen. Vårdaren kan binda upp sig för att hindra en **Kraftig blödning** från att ticka, men laget måste skapa skydd och tid tills minuten är klar. Det gör medicinska regler viktigare vid bordet utan att lägga till fler slag.
 
 ### Sårad och behandling
 
@@ -79,7 +81,7 @@ Bestäm samtidigt om KP-chock utan kritisk träff ska stabiliseras med **Medicin
 **Åtgärd:** Välj en tydlig modell:
 
 - Rekommenderat: Sårad kvarstår tills KP-skadan är nere på Tålighet eller lägre.
-- Fältvård kan i stället ge ett tillfälligt undantag: ignorera Sårad i en scen, men KP-tröskeln ändras inte.
+- Fältvård kan i stället ge ett tillfälligt undantag efter minst **en minut**: ignorera Sårad i en scen, men KP-tröskeln ändras inte.
 
 Det gör att skadegränserna fortsätter vara begripliga.
 

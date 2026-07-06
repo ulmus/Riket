@@ -150,13 +150,13 @@ När du tar skada som skulle göra dig Sårad eller Medvetslös kan du omedelbar
 
 *Krav:* Expertis: Läkare eller Expertis: Fältmedicinare
 
-Du kan utföra vård även under stridsförhållanden utan att svårigheten ökar av närvaron av strid, skottlossning eller annan tidspress runt dig. Spendera 1 Effekt på ett vårdslag för att också flytta patienten upp till två meter i skydd som en del av samma handling.
+Du kan utföra vård även under stridsförhållanden utan att svårigheten ökar av närvaron av strid, skottlossning eller annan tidspress runt dig. Tidskravet ändras inte: ett vårdslag tar fortfarande minst en minut. Spendera 1 Effekt på ett vårdslag för att också flytta patienten upp till två meter i skydd under behandlingen utan att behandlingen avbryts.
 
 ### Stridsstabilisering
 
 *Krav:* Fältmedicinare i strid
 
-När du stabiliserar en Döende allierad läker denne också ett KP per Effekt på slaget.
+När du lyckas stabilisera en Döende allierad läker denne också ett KP per Effekt på slaget.
 
 ### Terapeut
 

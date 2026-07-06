@@ -194,10 +194,10 @@ Hålla folk vid liv och operationen rullande: första hjälpen, evakuering, fäl
 
 | Aktivitet               | Beskrivning/kommentar                      | Egenskap + Egenskap |
 | ----------------------- | ------------------------------------------ | ------------------- |
-| Akutvård                | Stoppa blödning, stabilisera               | Analys + Smidighet  |
+| Akutvård                | Behandla blödning, stabilisera             | Analys + Smidighet  |
 | Aktiv vård/medicin      | Diagnos, läkemedel                         | Analys + Sinnen     |
 | Kirurgi                 | Operativa ingrepp                          | Analys + Smidighet  |
-| Lägga förband under eld | Under press, med begränsade resurser       | Analys + Smidighet  |
+| Hålla tryck under eld   | Lätt för Fältmedicinare; annars Normal     | Analys + Smidighet  |
 | Bära/evakuera sårad     | Bår, brandmannalyft                        | Fysik + Smidighet   |
 | Fältläger & vindskydd   | Eld, skydd, vatten                         | Fysik + Analys      |
 | Orientera i terräng     | Karta, kompass, landmärken                 | Analys + Sinnen     |

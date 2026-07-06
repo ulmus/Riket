@@ -19,7 +19,7 @@ Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 f
 
 ## Behandling av kritiska träffar
 
-Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att upphöra. Det finns tre vårdtyper:
+Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att upphöra. Ett vårdslag tar minst **en minut** om inte raden uttryckligen kräver längre tid eller sjukhusvård. Det finns tre vårdtyper:
 
 | Vårdtyp       | Slag               | Används för                                                                |
 | ------------- | ------------------ | -------------------------------------------------------------------------- |

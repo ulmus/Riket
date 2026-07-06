@@ -26,7 +26,7 @@ Egenskaperna är verktyg, inte en fast lista — de flesta uttrycks som ett steg
 
 ## Turer och handlingar
 
-På din tur utför du normalt **en handling** — en attack, en kraft, att ladda om, ge förband, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
+På din tur utför du normalt **en handling** — en attack, en kraft, att ladda om, hålla tryck mot en blödning, förflytta dig eller något annat som kräver din uppmärksamhet under rundan.
 
 Du kan försöka göra **två handlingar** samma tur — till exempel två attacker, eller en attack och en förflyttning — men då blir **var och en ett steg svårare**.
 
@@ -64,7 +64,7 @@ Allt som kräver din uppmärksamhet under en runda är en handling. Vanliga exem
 - Stormning — förflytta dig fram till ett mål och gör en närstridsattack (som en handling)
 - Aktivera en kraft eller förmåga som kräver en handling
 - Ladda om ett vapen (se [[Vapen]] )
-- Ge förband eller stabilisera en skadad (se [[#Stabilisering]] )
+- Hålla tryck mot **Kraftig blödning** medan vård pågår (se [[#Stoppa blödning]] )
 - Resa sig från marken eller ta sig över ett hinder
 
 ## Handlingar som inte kan kombineras med förflyttning
@@ -250,7 +250,7 @@ En annan person stabiliserar dig genom att behandla det som gör dig döende:
 
     *Exempel: En Artärträff (Kirurgi, Svår) behandlas i fält av en läkare som slår tre framgångar. Två framgångar krävdes för att klara Svår — behandlingen lyckas, blödningen stoppas och patienten kliver tre steg: från Akut döende hela vägen till Stabil (med ett steg till godo).*
 
-- **Tid och återförsök:** Första försöket tar **en minut**, ett andra försök på samma patient tar **en timme**. Fler försök än så kräver **förbättrade förutsättningar** — bättre utrustning, mer tid eller en stabilare patient. I praktiken kan man därför bara under **sjukhusformer** fortsätta slå om tills det lyckas; i fält får du ett par försök, sedan måste något förändras.
+- **Tid och återförsök:** Första försöket tar **en minut**, ett andra försök på samma patient tar **en timme**. Om behandlingen påbörjas innan patientens nästa Överlevnadsslag och inte avbryts, görs vårdslaget när minuten är slut och före det Överlevnadsslaget. Misslyckas vårdslaget gör patienten sedan Överlevnadsslaget. Fler försök än så kräver **förbättrade förutsättningar** — bättre utrustning, mer tid eller en stabilare patient. I praktiken kan man därför bara under **sjukhusformer** fortsätta slå om tills det lyckas; i fält får du ett par försök, sedan måste något förändras.
 
 När du har blivit **stabil** är du inte längre döende och slutar slå Överlevnadsslag. Du är potentiellt fortfarande Medvetslös eller Sårad och KP-skada och eventuella **Permanent**-effekter består.
 
@@ -281,7 +281,15 @@ Vissa kritiska träffar orsakar **blödning**. Det finns två blödningstillstå
 
 ### Stoppa blödning
 
-Blödning stoppas med **Kirurgi** (Analys + Smidighet). Första slaget tar en stridsrunda, andra tar en minut, fler slag kräver förbättrade förutsättningar. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
+Blödning stoppas med **Kirurgi** (*Analys + Smidighet*). Ett vårdslag tar minst **en full minut**. Varje framgång minskar blödningen ett steg från Kraftig → Lätt → Inget.
+
+Vid **Kraftig blödning** kan en vårdare börja behandla i strid genom att hålla konstant tryck mot såret. Så länge vårdaren ägnar sina handlingar åt detta tar patienten ingen KP från blödningen, men blödningen är inte stoppad förrän minuten är klar och slaget lyckas. Avbryts trycket börjar blödningen ticka igen i början av nästa runda.
+
+Att bara hålla tryck kräver normalt inget slag. Om SL vill pröva om eldgivning, panik eller dåliga arbetsförhållanden bryter trycket är det **Lätt** för en Fältmedicinare, alltså automatiskt om spelaren inte slår för att söka Effekt. För andra är det **Normal**.
+
+En medveten patient kan hålla tryck mot sitt eget sår som sin handling. Patienten kan då inte samtidigt anfalla, förflytta sig eller göra annat som kräver samma uppmärksamhet.
+
+Ett andra försök på samma patient tar en timme. Fler försök kräver förbättrade förutsättningar.
 
 Se [[Läkning & vård]] för mer information.
 

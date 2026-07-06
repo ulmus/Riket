@@ -14,7 +14,13 @@ Kirurgi i fält (utan operationssal) har minst svårighet **Svår**.
 
 ## Behandling
 
-Behandling kräver en full minut, ytterligare försök tar en timme och ytterligare försök efter det kan bara göras om förutsättningarna förbättras (bättre utrustning, mer tid, stabilare patient).
+Ett vårdslag som ger mekanisk effekt kräver minst **en full minut** ostört arbete. Det gäller även i strid. En vårdare kan kasta sig ned, hålla tryck mot ett sår och börja arbeta under en runda, men slaget görs först när minuten är slut.
+
+Under pågående behandling av **Kraftig blödning** kan vårdaren hålla konstant tryck. Så länge trycket hålls tar patienten ingen KP från den blödningen, men blödningen är inte stoppad förrän vårdslagets minut är klar och slaget lyckas. Avbryts behandlingen innan dess börjar blödningen ticka igen i början av nästa runda.
+
+Att bara hålla tryck kräver normalt inget slag. Om SL vill pröva om trycket bryts under eld eller kaos är det **Lätt** för en Fältmedicinare, alltså automatiskt om spelaren inte slår för att söka Effekt. För andra är det **Normal**.
+
+Ytterligare försök tar en timme och ytterligare försök efter det kan bara göras om förutsättningarna förbättras (bättre utrustning, mer tid, stabilare patient).
 
 **Utrustning:** +1 tärning med första-hjälpen-kit, +2 med läkarväska.
 
@@ -22,7 +28,7 @@ Behandling kräver en full minut, ytterligare försök tar en timme och ytterlig
 | ------------------ | --------- | ----------------------------------------------------------------------------------------------------------------- |
 | Stoppa blödning    | Kirurgi   | Minska blödning ett steg per framgång, från Kraftig till Lätt till Inget                                          |
 | Stabilisera döende | Enligt skadan¹   | Lyckad behandling kliver döende ett steg nedåt per framgång: **Akut döende → Döende → Stabil**.            |
-| Stabilisera sårad  | Medicin   | Patienten är inte längre **Sårad** (svårighetsökningen upphör). Tar patienten ny skada innan såren läkt blir hen Sårad igen. |
+| Lindra sårad  | Medicin   | Patienten är fortfarande **Sårad**, men svårighetsökningen från Sårad upphör tills scenen är slut eller tills patienten tar ny skada. KP-skadan finns kvar. |
 | Ge motgift         | Medicin   | Stoppar gifteffekter (kräver rätt motgift)                                                                        |
 | Lugna patient      | Psykologi | Ta bort 1 Stress per framgång                                                                                     |
 
@@ -31,6 +37,15 @@ Behandling kräver en full minut, ytterligare försök tar en timme och ytterlig
 **Medicin läker inte KP.** Behandling kan stabilisera tillstånd och lindra effekter, men KP-skada läks bara genom vila och tid (se Läkning nedan).
 
 Kritiska träffar anger vilken vårdtyp och svårighet som krävs, se [[Kritiska träffar]].
+
+### Konsekvenser i spel
+
+Den kortaste vårdtiden är en minut, inte en stridsrunda. Det betyder:
+
+- En kritisk träff kan inte neutraliseras av en enda handling direkt efteråt.
+- Gruppen måste skapa tid och skydd för vårdaren, särskilt vid **Kraftig blödning**.
+- Fältmedicinare blir viktiga för att kunna arbeta under eldgivning, men de gör inte vården omedelbar.
+- SL kan låta tryck mot en **Kraftig blödning** köpa tid utan slag, men det binder vårdaren och kräver att behandlingen inte avbryts.
 
 ## Läkning
 
