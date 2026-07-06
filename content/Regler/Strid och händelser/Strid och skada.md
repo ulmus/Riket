@@ -285,9 +285,9 @@ Blödning stoppas med **Kirurgi** (*Analys + Smidighet*). Ett vårdslag tar mins
 
 Vid **Kraftig blödning** kan en vårdare börja behandla i strid genom att hålla konstant tryck mot såret. Så länge vårdaren ägnar sina handlingar åt detta tar patienten ingen KP från blödningen, men blödningen är inte stoppad förrän minuten är klar och slaget lyckas. Avbryts trycket börjar blödningen ticka igen i början av nästa runda.
 
-Att bara hålla tryck kräver normalt inget slag. Om SL vill pröva om eldgivning, panik eller dåliga arbetsförhållanden bryter trycket är det **Lätt** för en Fältmedicinare, alltså automatiskt om spelaren inte slår för att söka Effekt. För andra är det **Normal**.
+Att hålla tryck är en handling med svårighet **Lätt**. En Fältmedicinare lyckas därför automatiskt om spelaren inte slår för att söka Effekt. Strid, eld eller andra pressade situationer gör handlingen ett steg svårare för den som saknar Expertis: Fältmedicinare.
 
-En medveten patient kan hålla tryck mot sitt eget sår som sin handling. Patienten kan då inte samtidigt anfalla, förflytta sig eller göra annat som kräver samma uppmärksamhet.
+En medveten patient kan hålla tryck mot sitt eget sår. Vill patienten förflytta sig, anfalla eller göra något annat samtidigt följer det vanliga reglerna för två handlingar: båda handlingarna blir ett steg svårare.
 
 Ett andra försök på samma patient tar en timme. Fler försök kräver förbättrade förutsättningar.
 

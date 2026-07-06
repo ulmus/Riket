@@ -18,7 +18,7 @@ Ett vårdslag som ger mekanisk effekt kräver minst **en full minut** ostört ar
 
 Under pågående behandling av **Kraftig blödning** kan vårdaren hålla konstant tryck. Så länge trycket hålls tar patienten ingen KP från den blödningen, men blödningen är inte stoppad förrän vårdslagets minut är klar och slaget lyckas. Avbryts behandlingen innan dess börjar blödningen ticka igen i början av nästa runda.
 
-Att bara hålla tryck kräver normalt inget slag. Om SL vill pröva om trycket bryts under eld eller kaos är det **Lätt** för en Fältmedicinare, alltså automatiskt om spelaren inte slår för att söka Effekt. För andra är det **Normal**.
+Att hålla tryck är en handling med svårighet **Lätt**. En Fältmedicinare lyckas därför automatiskt om spelaren inte slår för att söka Effekt. Strid, eld eller andra pressade situationer gör handlingen ett steg svårare för den som saknar Expertis: Fältmedicinare.
 
 Ytterligare försök tar en timme och ytterligare försök efter det kan bara göras om förutsättningarna förbättras (bättre utrustning, mer tid, stabilare patient).
 
@@ -40,12 +40,12 @@ Kritiska träffar anger vilken vårdtyp och svårighet som krävs, se [[Kritiska
 
 ### Konsekvenser i spel
 
-Den kortaste vårdtiden är en minut, inte en stridsrunda. Det betyder:
+Vårdslag tar minst en minut. Det betyder:
 
 - En kritisk träff kan inte neutraliseras av en enda handling direkt efteråt.
 - Gruppen måste skapa tid och skydd för vårdaren, särskilt vid **Kraftig blödning**.
 - Fältmedicinare blir viktiga för att kunna arbeta under eldgivning, men de gör inte vården omedelbar.
-- SL kan låta tryck mot en **Kraftig blödning** köpa tid utan slag, men det binder vårdaren och kräver att behandlingen inte avbryts.
+- Tryck mot en **Kraftig blödning** kan köpa tid, men det binder vårdaren och följer svårigheten för att hålla tryck.
 
 ## Läkning
 

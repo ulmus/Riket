@@ -60,7 +60,7 @@ Uppdatera [[Grundregler]], [[Snabbreferens]], [[Att spelleda I Rikets Tjänst]] 
 
 ### Vård och stabilisering
 
-**Problem:** Akutvård, stabilisering, blödning och KP-chock använder delvis olika tidsåtgång och egenskapskombinationer. Särskilt problematiskt är att en **Kraftig blödning** kan läsas som något som går att stoppa på en stridsrunda, medan stabilisering och annan vård kräver längre arbete.
+**Problem:** Akutvård, stabilisering, blödning och KP-chock använder delvis olika tidsåtgång och egenskapskombinationer. Särskilt problematiskt är att en **Kraftig blödning** kan läsas som något som går att stoppa med en enskild handling, medan stabilisering och annan vård kräver längre arbete.
 
 **Åtgärd:** Dela upp vårdproceduren i tydliga tidsnivåer:
 
