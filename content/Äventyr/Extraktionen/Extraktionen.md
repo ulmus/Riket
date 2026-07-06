@@ -58,9 +58,9 @@ Karaktärerna saknar medvetet personnamn och bakgrund och har bara kodnamn. Läg
 
 - **Fredag 10 november, 09:00:** Genomgång på T-kontoret, Stockholm
 - **Fredag 10 november, eftermiddag:** Förberedelser i Stockholm
-- **Lördag 11 november, 18:30:** SAS-flyg avgår från Bromma till Köpenhamn
-- **Lördag 11 november, 19:45:** Ankomst Köpenhamn, byte av flygplan
-- **Lördag 11 november, 21:30:** SAS-flyg avgår från Köpenhamn till Västberlin
+- **Lördag 11 november, 18:30:** SAS-flyg avgår från Bromma till Hamburg
+- **Lördag 11 november, 21:00:** Ankomst Hamburg, byte av flygplan
+- **Lördag 11 november, 22:30:** Pan American-flyg avgår från Hamburg till Västberlin genom luftkorridoren
 - **Söndag 12 november, 00:15:** Ankomst Tempelhof flygplats, Västberlin
 - **Söndag 12 november, 01:00:** Incheckning på hotell/ambassaden
 - **Söndag 12 november, dag:** Förberedelser i Västberlin
@@ -68,6 +68,8 @@ Karaktärerna saknar medvetet personnamn och bakgrund och har bara kodnamn. Läg
 - **Måndag 13 november, 19:00:** Mottagningen på schweiziska ambassaden börjar
 
 ## Upplägg
+
+> **Momentum genom äventyret.** Momentum sätter startvärdet för spelarnas Fokus varje scen (*se [[Att använda reglerna#Fokus och Momentum, Stress och Sammanbrott]]*). Låt det spegla trycket: **1** under genomgången och förberedelserna i Stockholm, **2** när de rör sig i Östberlin och minglar på mottagningen, **3** när Golem bryter ut och jakten börjar, och **4** i äventyrets klimax — konfrontationen i det övergivna huset, vid Nebelkrone eller i en flykt över muren under eld.
 
 ### Prolog – Genomgång på T-kontoret
 
@@ -106,7 +108,7 @@ Hedström reser sig och går till fönstret.
 
 *"När ni träffar Richter på mottagningen, använd denna fras: 'Professor Lindqvist hälsar från Uppsala.' Det kommer att signalera att ni är från mig."*
 
-Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och en detaljeradare instruktionsdokument.
+Hedström ger spelarna ett kuvert med diplomatpass, kontaktinformation och ett mer detaljerat instruktionsdokument.
 
 *"Ni flyger till Västberlin imorgon kväll. När ni är där, ta kontakt med **ambassadör S Hellén** och hans kontaktperson **Greta Holm**. Hellén vet att ni kommer från T-kontoret, Greta är kopplad till programmet, hon vet vilka ni är. Typ. Mer vet de inte. Låt det förbli så."*
 
@@ -133,11 +135,11 @@ Efter genomgången har spelarna resten av dagen och följande dag att förbereda
 
 ### Resan till Västberlin
 
-Spelarna flyger med **SAS** från Bromma flygplats till Västberlin med mellanlandning i Köpenhamn. Flygplanet är en **Douglas DC-6**, en fyrmotorig propellermaskin som används på Skandinaviens längre rutter. Flygningen är okomplicerad men anspänd. På flygplanet sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
+Spelarna flyger med **SAS** från Bromma flygplats till Hamburg och byter där till ett **Pan American**-plan för sista sträckan in till Västberlin. Bara segrarmakternas flygbolag får trafikera luftkorridorerna genom Östtyskland, så en svensk maskin kommer inte längre än till Västtyskland — därefter är det amerikanskt. Flygplanen är **Douglas DC-6**, fyrmotoriga propellermaskiner. Flygningen är okomplicerad men anspänd. På planen sitter en blandning av affärsmän, diplomater och turister. Några verkar nervösa – Berlin är inte längre en säker destination.
 
 På **Tempelhof flygplats** i Västberlin möts de av en ungersk chaufför från svenska ambassaden som kör dem till **Tiergartenstrasse 18**, där den svenska ambassaden ligger.
 
-Västberlin känns som en ö av ljus mitt i ett mörker. Staden är livlig, neonljusen blinkar, och människor försöker leva sina liv trots den ständiga hotet från öst. Men allt är genomsyrat av en underliggande nervositet – soldater patrullerar, kontrollstationer övervakas, och muren skär genom staden som ett ärr.
+Västberlin känns som en ö av ljus mitt i ett mörker. Staden är livlig, neonljusen blinkar, och människor försöker leva sina liv trots det ständiga hotet från öst. Men allt är genomsyrat av en underliggande nervositet – soldater patrullerar, kontrollstationer övervakas, och muren skär genom staden som ett ärr.
 
 ### Svenska ambassaden i Västberlin
 
@@ -212,6 +214,8 @@ Om spelarna har egna kontakter kan de försöka aktivera dem för att få mer in
 
 ### Akt I – Mottagningen på schweiziska ambassaden
 
+> **Läs först:** Fem fraktioner rör sig i mottagningssalen med var sitt mål och var sin kunskap. Innan du spelar scenen, läs [[#Vad vet de olika fraktionerna?]] — den sammanfattar vad Sverige, Stasi, KGB, CIA och Mossad vet, inte vet och varför, så att du kan spela var och en konsekvent när spelarna prövar dem mot varandra.
+
 Den schweiziska ambassaden ligger på **Unter Den Linden 29-31** i centrala Östberlin, en imponerande neoklassisk byggnad från 1800-talet med hög fasad och ornamenterad portal. Byggnaden symboliserar Schweiz' neutralitet – en ö av diplomatisk fred mitt i det kalla krigets Berlin.
 
 Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk hemma — också ska räddas. Han vägrar lämna Östtyskland utan henne.
@@ -227,7 +231,7 @@ Richter kräver att hans fru — **Elisabeth Richter**, som ligger svårt sjuk h
 
 **Trädgård:** Bakom byggnaden finns en öppen trädgård med staket mot gatan och en gallergrind. Man kör genom gallergrinden för att sedan köra ner till det underjordiska garaget. Trädgården är karg i november och bevakas av en schweizisk säkerhetsvakt.
 
-**Källare och garage:** Under byggnaden finns en källare med lagringsutrymmen och ett litet underjordiskt garage med plats för 3–4 bilar. Här parkerar diplomater som inte vill exponera sina bilar på gatan. Tillgång till garaget sker via en ramp bakom byggnaden. Martin kommer att vänta här med bilen.
+**Källare och garage:** Under byggnaden finns en källare med lagringsutrymmen och ett litet underjordiskt garage med plats för 3–4 bilar. Här parkerar diplomater som inte vill exponera sina bilar på gatan. Tillgång till garaget sker via en ramp bakom byggnaden och en trång trappa upp till marmorhallen. Martin väntar här med bilen — och han är inte ensam. I skuggan längst in står Richters egen bil, och i den sitter **Golem**, orörlig, med släckt blick. Martin har lagt märke till jätten och håller sig på avstånd; en spelare som talar med Martin får veta att *"det är något fel med karln i den där bilen — han har inte rört sig på en timme"*.
 
 > **Zoner (om kaos bryter ut):** Dela mottagningen i — **marmorhallen och trappan**, **diplomatsalens nedre våning** (bar, stråkkvartett, folkträngsel), **övre våningen** (räcket ovanför — högt läge), **trädgården** (öppen mark, gallergrind) och **källaren med garaget** (Martin och bilen). Folkmassan på 40–50 gäster är **svår terräng** att tränga sig igenom (slå *Fysik + Smidighet*). Bryter Golem ut (se [[#Golem bryter sig ut]]) blir hall → trappa → garage den naturliga flyktvägen.
 
@@ -293,13 +297,13 @@ Donnelly erbjuder spelarna en affär: CIA kan hjälpa dem få ut Richter säkrar
 
 *"Vi kan göra detta enkelt. Eller så kan vi konkurrera. Ert val."*
 
-Donnelly verkar rimlig men är i hemlighet planerar att kidnappa Richter helt och hållt till USA. Om spelarna går med på hans plan kommer han att förråda dem senare.
+Donnelly verkar rimlig men planerar i hemlighet att kidnappa Richter helt och hållet till USA. Om spelarna går med på hans plan kommer han att förråda dem senare.
 
 Spelarna kan försöka läsa hans avsikter (*List + Samspel*, Svårt). Om de lyckas anar de att något inte stämmer.
 
 #### KGB:s närvaro
 
-**Kapten Lyudmila Sokolova (KGB)** och två **Zvezda-agenter** – **Morana** och **Svarog** – är också närvarande, förklädd som östtyska tjänstemän. KGB vet att Richter planerar att hoppa av tack vare en läcka inom T-kontoret (vilket spelarna inte vet).
+**Kapten Lyudmila Sokolova (KGB)** och två **Zvezda-agenter** – **Morana** och **Svarog** – är också närvarande, förklädda som östtyska tjänstemän. KGB vet att Richter planerar att hoppa av tack vare en läcka inom T-kontoret (vilket spelarna inte vet).
 
 KGB planerar att gripa Richter innan han kan fly. De väntar bara på rätt tillfälle – någonstans diskret där de kan agera utan att orsaka diplomatisk skandal.
 
@@ -335,9 +339,11 @@ Om spelarna vägrar kan Yaakov försöka agera på egen hand senare. Han vill do
 
 Om Richter känner sig hotad – genom att Stasi, KGB eller någon annan närmar sig aggressivt – aktiveras den emotionella länken mellan honom och Golem. Golem känner Richters rädsla och reagerar.
 
-**Golem**, som väntar i källarens garage, känner av hotet och börjar röra på sig.
+> **Om kvällen förlöper för lugnt.** Utbrottet är äventyrets motor, men det kräver att Richter blir rädd — och ett skickligt bord kan lugna Brenner, tacka nej till Donnelly och stilla smyga ut sitt byte utan att någon höjer rösten. Låt dem inte planera bort hela dramat. De andra fraktionerna har sina egna klockor och behöver inte spelarnas tillåtelse: **Sokolova (KGB) har order att gripa Richter innan han lämnar ambassaden**, och när hon ser honom röra sig mot en utgång slår hon till. Räcker inte det kan Brenner tillkalla förstärkning som blockerar utgångarna, eller Yaakov göra sitt drag mot Richter öppet. Vad som än utlöser det: i det ögonblick Richter känner dödlig fara vaknar Golem.
 
-Plötsligt hörs ett enormt krasch från nedervåningen. Golem krossar en vägg och stormar in i ambassaden med fruktansvärd styrka och en tom blick.
+**Golem**, som väntar i Richters bil nere i garaget, känner av hotet och börjar röra på sig.
+
+Plötsligt hörs ett enormt krasch underifrån. Golem slår sig upp genom källartrappan, krossar det som står i vägen och stormar in i diplomatsalen med fruktansvärd styrka och en tom blick.
 
 Folk skriker. Stasi-agenter drar vapen. KGB-agenter aktiverar sina krafter. Schweiziska säkerhetsvakter försöker ingripa men slängs åt sidan som leksaker.
 
@@ -441,6 +447,7 @@ Nebelkrone-laboratoriet ligger norr om Berlin, nära Sachsenhausen, i en före d
 
 #### Beskrivning av anläggningen
 
+![[Nebelkrone labb.png|wide]]
 Bakom ett högt stängsel av taggtråd och metall ligger ett komplex av grå betongbyggnader. Huvudbyggnaden är tre våningar hög med små, barrikaderade fönster. Inuti finns laboratorier, cellrum, operationsrum och observationsenheter.
 
 I källaren hålls de flesta försökspersoner – personer Stasi klassificerar som "samhällsfiender" som utsätts för Richters experiment. Överlevnadsgraden är cirka 5%.
@@ -455,7 +462,7 @@ Om spelarna lyckas ta sig in (genom infiltration, förhandlingar eller våld) m�
 
 Om Golem är skadad eller förvirrad kan hans djupaste minnen väckas – minnen från innan han blev Golem, när han var Elias Lewinsky.
 
-**Haus an Den Birken** (Huset vid björkarna) ligger i stadsdelen **Köpenick**, nära vattnet. Det är ett gammalt tvåvåningshus från 1920-talet, nu övergivet och sönderfallet. Här gömde sig Elias och hans bror Jakob (nu Yaakov) hos sin morbror Anshel Levin natten under **Kristallnatten 1938**, innan de greps och fördes till Auschwitz.
+**Haus an Den Birken** (Huset vid björkarna) ligger i stadsdelen **Köpenick**, nära vattnet. Det är ett gammalt tvåvåningshus från 1920-talet, nu övergivet och sönderfallet. Här gömde sig Elias och hans bror Jakob (nu Yaakov) hos sin morbror Anshel Levin under **Kristallnatten 1938**. Några år senare greps familjen ändå och fördes till Auschwitz.
 
 #### Byggnaden
 
@@ -516,30 +523,7 @@ Spelarna kan:
 - **Förhandla diplomatiskt:** *Samspel + Vilja*, **Mycket Svårt**. Näst intill omöjligt om de är efterlysta.
 - **Hitta en annan väg över muren:** Smyga via Potsdamer Platz eller kyrkoruinen. *Sinnen + Smidighet*, **Mycket Svårt**.
 
-### Muren och flyktrutter
-
-Muren är ofullständig i november 1961. Det finns flera möjliga flyktrutter:
-
-#### Kyrkruinen
-
-En bombad kyrka vars ruiner sträcker sig över no-go-zonen vid **Sebastianstrasse**. På natten är det möjligt att klättra genom ruinerna och ta sig över.
-
-- **Fara:** Bevakade torn på båda sidor. Risk för att bli beskjuten.
-- **Svårighet:** *Fysik + Smidighet*, **Normalt**, **Svårt** om de bär någon.
-
-#### Potsdamer Platz – Ödemarken
-
-En gång stadens hjärta, nu en öde ruin. Muren är ofärdig här, mest taggtråd.
-
-- **Fara:** Patrullerande soldater, strålkastare.
-- **Svårighet:** *Sinnen + Smidighet*, **Svårt**, **Mycket Svårt** om de har Richter eller Elisabeth med sig.
-
-#### Floden Spree
-
-Vissa delar av floden är mindre bevakade, men vattnet är iskallt i november och strömmarna farliga.
-
-- **Fara:** Hypotermi, drunkning, bevakningsbåtar.
-- **Svårighet:** *Fysik + Vilja*, **Svårt**. Kan vara dödligt utan förberedelse.
+Muren är ofullständig i november 1961, och blockeras Checkpoint Charlie finns flera andra vägar över: kyrkruinen vid Sebastianstrasse, ödemarken vid Potsdamer Platz och floden Spree. Samtliga rutter beskrivs med förutsättningar, svårigheter och risker under [[#Lämna Östberlin]] — hänvisa dit oavsett om spelarna korsar muren mitt under biljakten eller planerat efter att ha säkrat Richter.
 
 ### Vad vet de olika fraktionerna?
 
@@ -597,7 +581,7 @@ Stasi övervakar alla högt uppsatta vetenskapsmän. Richters beteende väcker m
 
 **Varför de vet det de vet:**
 
-En läcka inom T-kontoret (en sekretare med ekonomiska problem som KGB mutat) gav dem grundläggande information. KGB har sedan intensifierat sin övervakning av Richter.
+En läcka inom T-kontoret (en sekreterare med ekonomiska problem som KGB mutat) gav dem grundläggande information. KGB har sedan intensifierat sin övervakning av Richter.
 
 #### CIA
 
@@ -656,6 +640,8 @@ Yaakov vill döda Richter och Elisabeth för deras brott. Men när han ser Golem
 Spelarna kan försöka övertala Yaakov att Richters kunskap kan rädda andra (*Samspel + Vilja*, **Mycket Svårt**). Eller de kan acceptera hans rätt till hämnd och låta det ske.
 
 Om Yaakov lyckas döda Richter reagerar Golem instinktivt – han attackerar sin upplevda faders mördare. Detta kan leda till en tragisk kamp där Golem dödar Yaakov, eller där Yaakov tvingas försvara sig mot sitt eget syskon.
+
+> **Richters sista utväg (cyanidkapseln).** Richter bär en cyanidkapsel och tänker hellre dö än föras tillbaka i sovjetiska händer eller ställas inför rätta. Ser han ingen väg ut — omringad av KGB eller Stasi, sviken av dem han litat på, eller inför en säker utlämning — biter han i kapseln. Detta bör vara Richters *eget* beslut i ett läge han uppfattar som hopplöst, inte något SL utlöser för att straffa spelarna. Dör Richter så förlorar Sverige sitt levande byte, men mikrofilmen i hans jackficka finns kvar att bärga — och Golem, om han ser sin herre dö, kastas mot **aktiverat trauma** (bärsärk).
 
 #### Golems valmöjligheter
 
@@ -722,9 +708,28 @@ Martin Weber känner till en rutt som smugglare använder — genom industriomr�
 - **Risk:** Rutten passerar nära en Volkspolizei-station. Om de upptäcks utlöses en biljakt.
 - **Komplikation:** Martin kan tveka om situationen blir livshotande (se hans nackdel *Inte mitt jobb att dö*).
 
-#### Konsekvenser
+## Tänkbara utfall
 
-Om de lyckas ta sig till Västberlin är de säkra – men konsekvenserna av deras val kommer att förfölja dem.
+Det finns inget rent slut. Uppdraget var att extrahera en krigsförbrytare för hans kunskaps skull, och varje väg ut kostar något. Det egentliga bytet är **mikrofilmen** i Richters jackficka — bärgas den har Sverige lyckats med sitt uppdrag även om mannen själv går förlorad. Allt annat är rollpersonernas val och deras pris.
+
+### Möjliga slut
+
+1. **Ren extraktion (vad Hedström vill).** Richter och Elisabeth når Västberlin levande, forskningen med dem. Sverige har fått sin krigsförbrytare och hans livsverk — och rollpersonerna får leva med att de räddade Mengeles lärjunge. Golem är antingen med, kvarlämnad eller död.
+2. **Bara kunskapen.** Richter dör (i strid, av cyanidkapseln eller för Yaakovs hand) men mikrofilmen bärgas. Uppdraget är formellt löst; Hedström får sitt material men inte sin spegelbild att tala med. En kylig delseger.
+3. **Brödernas slut.** Yaakov och Golem möts som det de är. Kanske dör Richter för sin hand, kanske dör bröderna tillsammans, kanske leder rollpersonerna Golem — eller Elias — mot något som liknar fred. Äventyrets känslomässiga kärna, oavsett hur det formellt rapporteras.
+4. **Fiaskot.** Richter faller i fel händer: KGB för honom till Moskva, Stasi säkrar honom på Nebelkrone åt Adler, eller CIA dubbelkorsar spelarna vid Checkpoint Charlie och tar honom till USA. Program Frigg står tomhänt och Hedström rasar.
+5. **Diplomatisk skandal.** Svenska medborgare grips i Östberlin, eller kaoset på schweiziska ambassaden spåras till dem. Hellén tvingas städa upp, Sveriges neutralitet skavs och Palm kopplas in (*jämför [[Kalabaliken i Beckomberga]]*).
+6. **Golems öde.** Nedskjuten, förd till Sverige som ett nytt Frigg-projekt, eller fri och förlorad i natten. En spegel av rollpersonernas eget ursprung — vad Program Frigg gör med sina skapelser.
+
+### Efterspel
+
+- **Richter och forskningen:** Vad gör Sverige med en krigsförbrytare i asyl — och med data köpt med judiska barns liv? Mikrofilmen kan revolutionera Program Frigg eller bli dess moraliska undergång.
+- **Golem/Elias:** Överlever han knyts hans öde till rollpersonerna. Frigg vill studera honom; rollpersonerna kanske vill något annat.
+- **Yaakov:** Lever han vidare bär han antingen sin hämnd eller sin sorg — och vetskapen om vad hans bror blev. Mossad har inga skäl att sluta jaga Frigg om de nu vet att Sverige skyddar Richter.
+- **T-kontorsläckan:** KGB visste hela tiden, tack vare en mutad sekreterare i Stockholm. Läckan avslöjas aldrig av sig själv — men en uppmärksam rollperson som märkte att motståndet alltid låg steget före har en tråd att dra i, och Hedström har en råtta i sitt eget bo.
+- **Sovjet har fått vittring:** Överlever KGB med vetskap om vad Frigg producerar pekar trådarna vidare ut i kampanjen (*se [[Kalabaliken i Beckomberga]] och [[Köldknäpp]]*).
+- **CIA:** Dubbelkorsades Donnelly har Sverige fått en mäktig och långsint fiende i väst.
+- **Rollpersonerna:** De reste ut för att rädda en man de borde ha föraktat. Vad de valde vid slutet — hämnd, nåd, lydnad eller uppror — sätter tonen för vad de tycker om sin arbetsgivare (*se [[Att spelleda I Rikets Tjänst#Karaktären]]*).
 
 ## Persongalleri
 
@@ -781,7 +786,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 - Fysik 6 (övernaturlig), Strid 4, Vilja 1, Sinnen 2, Analys 1, List 1, Samspel 1, Smidighet 1
 - **Tålighet:** 9 (Fysik 6 + Vilja 1, förstärkt av ENS-bonus +2), **Stabilitet:** 2
-- **Förflyttning:** 8 meter
+- **Förflyttning:** en zon per handling; med Stormning förflyttar han sig och slår i samma svep
 
 **Krafter:**
 
@@ -809,7 +814,7 @@ En gång ett judiskt barn, nu ett vapen. Golem är en massiv figur, nästan 210 
 
 ![[Yaakuv.png]]
 
-Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, medelbyggd med mörkt hår och intensiva ögon som sällan stannar på ett ställe. Han bär servitörskläder som täckmantel men rör sig med en militär precision som avslöjar träningen bakom. Under fasaden döljer sig tolv års hat och ett löfte avgivet vid sin brors grav.
+Mossad-agent, tidigare känd som Jakob Lewinsky. En man i trettioårsåldern, medelbyggd med mörkt hår och intensiva ögon som sällan stannar på ett ställe. Han bär servitörskläder som täckmantel men rör sig med en militär precision som avslöjar träningen bakom. Under fasaden döljer sig femton års hat och ett löfte svuret i namnet på en bror som aldrig fick en grav.
 
 **Personlighet:** Driven av hat mot Richter och hans fru. Yaakov är professionell men hans personliga vendetta gör honom farlig och oförutsägbar. Han bär djupa ärr från Auschwitz – både fysiska och psykiska.
 
@@ -899,14 +904,14 @@ Nebelkrones operativa överordnade inom Stasi. En hård kommunist i femtioårså
 
 Charmig men hänsynslös fältagent i trettifemårsåldern. Donnelly presenterar sig som kulturattaché men är uppenbart mer. Han är självsäker, pratar flera språk och har kontakter överallt.
 
-CIA är genom läckor i T-kontoret (som de påstår är "signalspaning") medvetna om att Richter vill hoppa av till Sverige. De vill utnyttja det faktum att de kontrollerar Checkpoint Charlie för att snuva Sverige på Richter och plocka honom till deras eget projekt.
+CIA har genom signalspaning fångat upp och tytt de kodade meddelandena mellan Stockholm och Västberlin, och vet att Richter vill hoppa av till Sverige. De vill utnyttja det faktum att de kontrollerar Checkpoint Charlie för att snuva Sverige på Richter och plocka honom till deras eget projekt.
 
 **Motivation:** Ta Richter till USA. Snuva både Sverige och Sovjet på hans kunskap. Avancera sin egen karriär.
 
 **Egenskaper:**
 
 - Samspel 4, List 3, Strid 3, Sinnen 3, Analys 2, Fysik 2, Smidighet 2, Vilja 2
-- **Tålighet:** 4, **Stabilitet:** 2
+- **Tålighet:** 4, **Stabilitet:** 3
 - **Expertis:** Spion, Diplomat
 - **Förmågor:** Charm, Lögner, Nätverk
 
@@ -1160,15 +1165,15 @@ De som fortfarande lever befinner sig i varierande tillstånd. Vissa är kataton
 | T12 | Kraft                                                                                    |
 | --: | ---------------------------------------------------------------------------------------- |
 |   1 | **Pyrokinesi** – Föremål i närheten fattar eld spontant.                                 |
-|   2 | **Telekinetisk puls** – Allt inom 5 m slungas bort (Fysik + Vilja, **Skadebonus +2**, Skadetyp Kross). |
+|   2 | **Telekinetisk puls** – Allt i samma zon slungas bort (Fysik + Vilja, **Skadebonus +2**, Skadetyp Kross). |
 |   3 | **Okontrollerad styrka** – Fysik 6 i en runda, attackerar urskillningslöst.              |
-|   4 | **Skrik** – Alla inom 10 m måste slå Vilja + Vilja eller ta **2 Stress**.                |
-|   5 | **Köldaura** – Temperaturen sjunker drastiskt, alla inom 5 m tar 1 KP per runda.         |
+|   4 | **Skrik** – Alla i samma eller intilliggande zon måste slå Vilja + Vilja eller ta **2 Stress**. |
+|   5 | **Köldaura** – Temperaturen sjunker drastiskt, alla i samma zon tar 1 KP per runda.      |
 |   6 | **Fasförskjutning** – Går genom väggar och golv, försvinner i 1T12 rundor.               |
-|   7 | **Bioelektrisk urladdning** – Blixtar slår från kroppen. Alla inom 3 m tar 2 KP skada (Skadetyp Övriga). Elektronik kortsluts. |
+|   7 | **Bioelektrisk urladdning** – Blixtar slår från kroppen. Alla Bredvid tar 2 KP skada (Skadetyp Övriga). Elektronik kortsluts. |
 |   8 | **Syrahud** – Huden utsöndrar frätande vätska. Beröring ger 1 KP per runda. Kan inte bäras eller hållas fast. |
 |   9 | **Gravitationsanomali** – Tyngdkraften i rummet flippar eller försvinner i 1T12 rundor. Alla måste slå Fysik + Smidighet eller kastas mot tak/väggar. |
-|  10 | **Tankeflod** – Alla inom 10 m översköljs av offrets minnen av tortyr och experiment. Alla måste slå Vilja + Vilja eller ta **3 Stress**. |
+|  10 | **Tankeflod** – Alla i samma eller intilliggande zon översköljs av offrets minnen av tortyr och experiment. Alla måste slå Vilja + Vilja eller ta **3 Stress**. |
 |  11 | **Vävnadstillväxt** – Okontrollerad bentillväxt och muskelmassa. Fysik 5, Skydd 2, men personen skriker av smärta och attackerar allt som rör sig. |
 |  12 | **Spontan duplikation** – Personen klyver sig i två instabila kopior. Båda har halverade KP och agerar oberoende i panik. Kopiorna kollapsar efter 1T12 rundor. |
 
