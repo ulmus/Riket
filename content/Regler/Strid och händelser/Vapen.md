@@ -30,7 +30,7 @@ Ett närstridsvapen som hanteras med Smidighet + Strid istället för Fysik + St
 
 ### Penetrerande
 
-Vapnet penetrerar djupt. Vid kritiska träff-slag läggs **+2** till slaget. Se [[Kritiska träffar]].
+Vapnet penetrerar djupt. Om attacken utlöser en kritisk träff läggs **+2** till kritslaget. Se [[Kritiska träffar]].
 
 ### Långt (närstrid)
 
@@ -42,7 +42,7 @@ Vapnet kan kastas som ett avståndsvapen med Smidighet + Strid. Kastvapen har Ko
 
 ### Explosion
 
-Vapnet träffar ett område i stället för ett enskilt mål. Skadan beräknas enligt [[Särskilda situationer#Explosioner]].
+Vapnet träffar ett område i stället för ett enskilt mål. Skadevärdet i vapentabellen anger grundstyrkan; skadan beräknas sedan enligt [[Särskilda situationer#Explosioner]].
 
 ### Splitter
 
@@ -62,6 +62,8 @@ Vid explosionen slungas splitter längre ut — skadevärdet börjar avta först
 | Kulspruta 7,62 mm | Mycket lång |     6 |    6 | Skjutvapen | Automateld, Penetrerande |
 | Handgranat        | Kort        |     6 |    1 | Explosion  | Kastbart, Explosion, Splitter |
 
+För vapen med egenskapen **Explosion** anger kolumnen **Skada** explosionens **Skadevärde**.
+
 ## Närstridsvapen
 
 | Vapen    | Skada | Skadetyp | Egenskaper                    |
@@ -76,7 +78,7 @@ Vid explosionen slungas splitter längre ut — skadevärdet börjar avta först
 
 ## Skydd och rustning
 
-Skydd minskar KP-skadan från attacker. Skydd påverkar inte om en kritisk träff triggas. Om attacken gör minst 1 KP skada efter skydd så gäller fortfarande alla tolvor som slagits.
+Skydd minskar KP-skadan från attacker. En 12:a på attackslaget ger alltid 1 Fokus, men en kritisk träff utlöses bara om attacken också gör minst 1 KP skada efter Skydd.
 
 | Rustning                                  | Skydd | Noter                                              |
 | ----------------------------------------- | ----: | -------------------------------------------------- |

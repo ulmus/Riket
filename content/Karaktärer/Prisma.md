@@ -39,23 +39,23 @@ cssclasses:
 Du böjer ljuset runt din kropp och blir svår att fokusera på.
 
 - **Verkan:** Alla som försöker se dig måste lyckas med Sinnen + Sinnen för att lokalisera dig och även då är deras avståndsattacker mot dig **två steg svårare**.
-- **+1 Fokus:** Effekten gäller även en allierad inom 2 m.
+- **+1 Fokus:** Effekten gäller även en allierad Bredvid dig.
 
 ### Synvilla (1 Fokus, 1 handling)
 
-Du böjer ljus till en synvilla för en person. Synvillan är inte större än en människa och kan vara rörlig, men inte röra sig från sin plats (som måste vara inom synhåll från dig och max 20 meter bort). Slå för Smidighet + Vilja mot motståndarens Sinnen + Vilja. Om du lyckas så tror de på synvillan. Synvillan varar så länge du koncentrerar dig — vill du göra något annat samma runda blir det ett steg svårare.
+Du böjer ljus till en synvilla för en person. Synvillan är inte större än en människa och kan vara rörlig, men inte röra sig från sin plats (som måste vara inom synhåll från dig och på Kort håll). Slå för Smidighet + Vilja mot motståndarens Sinnen + Vilja. Om du lyckas så tror de på synvillan. Synvillan varar så länge du koncentrerar dig — vill du göra något annat samma runda blir det ett steg svårare.
 
 - **+1 Fokus:** Synvillan drabbar alla som tittar på den.
 - **+1 Fokus:** Du kan välja ut personer som inte ska se synvillan.
 - **+1 Fokus:** Synvillan kan vara stor som en bil.
 - **+1 Fokus:** Synvillan kan vara var som helst inom synhåll från dig.
-- **1 Framgång:** Synvillan kan röra sig fritt så länge den är inom 20 meter från dig och inom synhåll.
+- **1 Effekt:** Synvillan kan röra sig fritt så länge den är på Kort håll och inom synhåll från dig.
 
 ### Blända (1 Fokus, 1 handling)
 
-Du kan blända en person med dina strålar. Om du lyckas med Smidighet + Vilja mot personens Fysik + Vilja så är personen blind i en runda.
+Du kan blända en person med dina strålar. Om du lyckas med Smidighet + Vilja mot personens Fysik + Vilja så blir personen **Påverkad** av bländningen i en runda.
 
-- **1 Framgång:** Personen är blind hela scenen, men kan slå ett slag för Fysik + Vilja varje runda efter den första. Om lyckat så lyckas de skaka sig av det.
+- **1 Effekt:** Personen är **Påverkad** av bländningen hela scenen, men kan slå ett slag för Fysik + Vilja varje runda efter den första. Om slaget lyckas skakar personen av sig effekten.
 - **+2 Fokus:** Alla som tittar på dig när du använder förmågan tar effekten.
 
 ### Aktiverat trauma – Synvilla
@@ -72,7 +72,7 @@ Du kan blända en person med dina strålar. Om du lyckas med Smidighet + Vilja m
 
 Med ett lyckat slag för Smidighet + List så kan du ta ett föremål från en person utan att personen märker det. Om du misslyckas så får personen slå ett slag för Sinnen + Sinnen för att upptäcka att du försökte.
 
-- **1 Framgång:** Ta ett föremål till.
+- **1 Effekt:** Ta ett föremål till.
 
 ## Nackdelar
 

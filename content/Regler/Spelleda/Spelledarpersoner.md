@@ -26,6 +26,15 @@ Volkspolizei vid muren, passkontrollant på Tempelhof eller gränssoldat i en re
 
 **Utrustning:** K-pist eller tjänstepistol (Skada 3, skadetyp Skjutvapen), passregister och stämpeldyna, visselpipa.
 
+#### Vid bordet
+
+- **Första reaktion:** Stoppar, frågar efter papper och letar efter avvikelser.
+- **Pressad:** Blir stel, följer reglementet och kallar gärna på överordnad.
+- **Mutad:** Tar helst emot något diskret som kan förklaras bort.
+- **Skadad:** Tappar initiativet och söker skydd eller hjälp.
+- **Larmar när:** Papper inte stämmer, någon försöker rusa förbi eller vittnen ser bråket.
+- **Ger upp när:** Situationen är tydligt övermäktig och någon annan kan bära ansvaret.
+
 ### Menig soldat
 
 Värnpliktig gränssoldat, vaktstyrka eller Volksarmee-menig. Ung, oerfaren och mestadels uttråkad, och skräms lätt av det oväntade. Farlig i grupp och med automatvapen, osäker på egen hand.
@@ -36,6 +45,15 @@ Värnpliktig gränssoldat, vaktstyrka eller Volksarmee-menig. Ung, oerfaren och 
 - **Tålighet:** 4, **Stabilitet:** 2
 
 **Utrustning:** Automatkarbin (Skada 4, skadetyp Skjutvapen), fältuniform, handgranat (Skada 6, skadetyp Explosion), fältradio.
+
+#### Vid bordet
+
+- **Första reaktion:** Söker order, riktar vapen och håller avstånd.
+- **Pressad:** Skjuter mer än han tänker och håller sig nära sin grupp.
+- **Mutad:** Tar hellre cigaretter, sprit eller en enkel utväg än rena pengar.
+- **Skadad:** Blir rädd, tappar formationen och ropar efter sjukvårdare.
+- **Larmar när:** Skott avlossas, någon springer från postering eller radioförbindelsen bryts.
+- **Ger upp när:** Befälet är borta, kamraterna fallit eller något övernaturligt bryter modet.
 
 ### Ordningspolis
 
@@ -48,6 +66,15 @@ Svensk konstapel på Kungsgatan eller utländsk uniformerad polis. Inte fiende, 
 
 **Utrustning:** Batong (Skada 2, skadetyp Kross), tjänstepistol (Skada 3, skadetyp Skjutvapen), visselpipa, handbojor.
 
+#### Vid bordet
+
+- **Första reaktion:** Tar kontroll med röst, frågor och tydliga order.
+- **Pressad:** Begär förstärkning och försöker låsa fast situationen.
+- **Mutad:** Säljer sällan ut sig direkt, men kan välja den enklare tolkningen.
+- **Skadad:** Blir hårdare och mer formell, eller drar sig tillbaka för att invänta kollegor.
+- **Larmar när:** Någon vägrar lyda, vapen syns eller civila hotas.
+- **Ger upp när:** Han står ensam mot överlägsen kraft och kan dra sig undan med hedern i behåll.
+
 ### Civilist
 
 Babusjkan med kålsoppan, taxichauffören, kontoristen på spårvagnen. Sällan en fråga om tärningar — civilisten finns där för att göra världen levande och för att komplicera saker när rollpersonerna minst vill ha vittnen. Skräms lätt och minns ansikten.
@@ -58,6 +85,15 @@ Babusjkan med kålsoppan, taxichauffören, kontoristen på spårvagnen. Sällan 
 - **Tålighet:** 2, **Stabilitet:** 2
 
 **Utrustning:** Vardagsföremål, möjligen en telefon att larma med.
+
+#### Vid bordet
+
+- **Första reaktion:** Fryser till, stirrar och försöker förstå vad som händer.
+- **Pressad:** Blir rädd, gör fel och skapar oavsiktliga komplikationer.
+- **Mutad:** Vill ha trygghet först, pengar sedan.
+- **Skadad:** Skriker, flyr eller faller ihop.
+- **Larmar när:** Något ser ut som brott, eldstrid eller öppen panik.
+- **Ger upp när:** Någon med auktoritet säger åt honom att hålla sig undan.
 
 ### Byråkrat
 
@@ -71,6 +107,15 @@ Tjänstemannen bakom luckan, registratorn på ministeriet, byråchefen med stäm
 
 **Utrustning:** Stämplar och blanketter, nyckeln till arkivet.
 
+#### Vid bordet
+
+- **Första reaktion:** Begär rätt blankett, rätt underskrift och rätt ordning.
+- **Pressad:** Gömmer sig bakom proceduren och vill hänvisa vidare.
+- **Mutad:** Tar hellre en tjänst, ett samtal från rätt person eller diskret uppskattning än öppen korruption.
+- **Skadad:** Backar direkt och försöker överleva, inte vinna.
+- **Larmar när:** Någon pressar för hårt, försöker ta sig förbi eller nämner fel namn.
+- **Ger upp när:** Någon med högre status tar ansvar eller dokumenten ser tillräckligt riktiga ut.
+
 ### Vakt
 
 Nattvakt på fabrik, dörrvakt vid ambassaden, beväpnad post vid ett laboratorium. Sömnig eller paranoid beroende på scenens behov. Rondar enligt schema och larmar hellre än slåss.
@@ -81,6 +126,15 @@ Nattvakt på fabrik, dörrvakt vid ambassaden, beväpnad post vid ett laboratori
 - **Tålighet:** 4, **Stabilitet:** 3
 
 **Utrustning:** Ficklampa, batong (Skada 2, skadetyp Kross) eller pistol (Skada 3, skadetyp Skjutvapen), nyckelknippa, larmtelefon.
+
+#### Vid bordet
+
+- **Första reaktion:** Lyser, ropar och försöker lokalisera innan han går in.
+- **Pressad:** Drar sig bakåt mot larmet och väntar hellre på stöd än går ensam.
+- **Mutad:** Kan blunda för småsaker om det inte riskerar jobbet.
+- **Skadad:** Larmar först och tänker sedan på mod.
+- **Larmar när:** Han inte kan förklara ett ljud, en dörr eller en främmande person.
+- **Ger upp när:** Han är ensam, skadad och någon tydligt visar att vägen ut fortfarande finns.
 
 ## Tränade SLP
 
@@ -100,6 +154,15 @@ KGB-, Stasi- eller CIA-agent under täckmantel — kulturattaché, journalist el
 - **Förmågor:** Skugga, Förförisk, Vem, jag?
 
 **Utrustning:** Pistol med ljuddämpare (Skada 3, skadetyp Skjutvapen), falska dokument i flera namn, minikamera, kontanter i flera valutor.
+
+#### Vid bordet
+
+- **Första reaktion:** Ler, sonderar och försöker förstå vad gruppen redan vet.
+- **Pressad:** Byter mask, drar en lögn till eller försvinner ur scenen.
+- **Mutad:** Tar bara erbjudanden som ökar handlingsfriheten eller karriären.
+- **Skadad:** Blir kall och praktisk, offrar gärna en bricka för att själv komma loss.
+- **Larmar när:** Egna täckmanteln hotas eller information riskerar att gå förlorad.
+- **Ger upp när:** Enda vägen ut är att spela fångad i väntan på nästa drag.
 
 ### Paramilitär
 
@@ -131,6 +194,15 @@ Stasi-officeren i förhörsrummet, säkerhetstjänstens specialist på att bryta
 
 **Utrustning:** Makarov-pistol (Skada 3, skadetyp Skjutvapen), dossierer och förhörsprotokoll.
 
+#### Vid bordet
+
+- **Första reaktion:** Tar kommandot med tystnad, kontrollfrågor och obehaglig precision.
+- **Pressad:** Skruvar åt ramarna, byter metod och använder trötthet, rädsla eller skuld.
+- **Mutad:** Säljer sällan information, men kan styras av prestige, rivalitet eller order uppifrån.
+- **Skadad:** Blir hämndlysten snarare än försiktig om han tror sig ha övertaget.
+- **Larmar när:** Fången håller på att glida ur greppet eller ett högre befäl måste skydda sig.
+- **Ger upp när:** Han inte längre kan kontrollera rummet eller när ansvaret riskerar att hamna på honom.
+
 ### Informatör
 
 Tjallaren, den nervöse meddelaren, smågångstern som säljer rykten. Opålitlig och rädd, säljer gärna det köparen vill höra. En källa som lika gärna kan vara en fälla — och som ofta avslöjar mest genom det han *inte* vågar säga.
@@ -144,6 +216,15 @@ Tjallaren, den nervöse meddelaren, smågångstern som säljer rykten. Opålitli
 - **Förmågor:** Vem, jag?
 
 **Utrustning:** Slitna kläder, en bunt hopvikta sedlar instoppad i fodret.
+
+#### Vid bordet
+
+- **Första reaktion:** Tittar efter flyktvägar innan han svarar.
+- **Pressad:** Säger det du vill höra, inte det som är sant.
+- **Mutad:** Tar nästan vad som helst, men vill helst ha skydd eller en väg ut.
+- **Skadad:** Bryter ihop, tjallar på fel person eller ber om nåd.
+- **Larmar när:** Han tror att den som skrämmer honom mest kommer att märka sveket.
+- **Ger upp när:** Någon erbjuder verkligt skydd och verkar kunna leverera det.
 
 ### Smugglare
 
@@ -159,6 +240,15 @@ Svartabörshandlaren, fixaren i hamnen, mannen som kan skaffa vad som helst mot 
 
 **Utrustning:** Gömd pistol (Skada 3, skadetyp Skjutvapen), en väska med eftertraktade varor, falska handlingar.
 
+#### Vid bordet
+
+- **Första reaktion:** Sätter pris, testar desperation och håller alltid en reträtt öppen.
+- **Pressad:** Blir affärsmässig på ett kallt sätt och skär bort allt onödigt prat.
+- **Mutad:** Allt har ett pris, men svek kostar mer än pengar.
+- **Skadad:** Vill komma därifrån levande och säljer gärna ut någon annan först.
+- **Larmar när:** Affären luktar fälla eller när våld hotar att dra myndigheter till platsen.
+- **Ger upp när:** Vinsten är borta och någon annan kan få skulden.
+
 ### Lokalkontakt
 
 Fiskaren vid kajen, hamnarbetaren som känner alla, krögaren som hör ryktena först. Känner trakten och människorna, misstänksam mot främlingar men kan bli en ovärderlig guide. Inom sitt eget revir — trakten och dess folk — slår SLP:n Lätt.
@@ -171,6 +261,15 @@ Fiskaren vid kajen, hamnarbetaren som känner alla, krögaren som hör ryktena f
 - **Tålighet:** 6, **Stabilitet:** 3
 
 **Utrustning:** Terränggångsfordon eller båt, jaktgevär (Skada 5, skadetyp Skjutvapen), fiske- eller jaktutrustning.
+
+#### Vid bordet
+
+- **Första reaktion:** Studerar främlingar innan hon bestämmer sig för tonläge.
+- **Pressad:** Blir kort, lokalpatriotisk och skyddar sitt eget först.
+- **Mutad:** Pengar hjälper, men respekt och tydliga skäl fungerar bättre.
+- **Skadad:** Drar sig hemåt eller till folk hon litar på.
+- **Larmar när:** Främlingar drar våld eller myndigheter mot hennes område.
+- **Ger upp när:** Hon inser att fortsatt motstånd bara skadar de egna.
 
 ### Diplomat
 
@@ -187,6 +286,15 @@ Attachén på ambassadmottagningen, ministeriets utsände, salongernas spelare. 
 
 **Utrustning:** Diplomatpass (immunitet), inbjudningar till de rätta tillställningarna, ett etui med visitkort.
 
+#### Vid bordet
+
+- **Första reaktion:** Småpratar, mäter och låter motparten avslöja sin avsikt först.
+- **Pressad:** Påminner om protokoll, status och konsekvenser.
+- **Mutad:** Tar hellre inflytande, framtida tjänster eller diskret information än pengar.
+- **Skadad:** Kräver skydd och gör genast skandalen politisk.
+- **Larmar när:** Immuniteten hotas eller någon tvingar fram en offentlig incident.
+- **Ger upp när:** En taktisk reträtt ger bättre läge i nästa rum.
+
 ### Läkare
 
 Fältläkaren, den civile doktorn, badortens kurläkare. Vårdar rollpersonernas skador — men ser ofta för mycket och kan bli en risk lika gärna som en resurs.
@@ -202,6 +310,15 @@ Fältläkaren, den civile doktorn, badortens kurläkare. Vårdar rollpersonernas
 
 **Utrustning:** Läkarväska, morfin och förband, journaler.
 
+#### Vid bordet
+
+- **Första reaktion:** Bedömer skadan och söker ordning mitt i kaoset.
+- **Pressad:** Prioriterar det mest akuta och blir skarp mot den som stör arbetet.
+- **Mutad:** Kan övertalas att vara diskret, men inte att vara slarvig.
+- **Skadad:** Försöker fortsätta så länge någon annan kan assistera.
+- **Larmar när:** Patienter riskerar att dö, bevis ska döljas eller kliniken hotas.
+- **Ger upp när:** Hon saknar verktyg, tid eller skydd nog att fortsätta säkert.
+
 ### Chaufför
 
 Privatchauffören, taxiföraren, mannen vid ratten på flyktbilen. Känner varje gränd och genväg, håller huvudet kallt när tempot dras upp och är ovärderlig den dagen någon behöver vara borta fort. Kan vara en lojal tillgång eller en inhyrd tjänst som försvinner när det osar.
@@ -216,6 +333,15 @@ Privatchauffören, taxiföraren, mannen vid ratten på flyktbilen. Känner varje
 - **Förmågor:** Skjut och kör, Trimma
 
 **Utrustning:** En bil som presterar bättre än den ser ut, reservdunk och verktygslåda, gömd pistol (Skada 3, skadetyp Skjutvapen).
+
+#### Vid bordet
+
+- **Första reaktion:** Tittar på vägar, utgångar och hur snabbt det går att försvinna.
+- **Pressad:** Kör hårdare och pratar mindre.
+- **Mutad:** Tar risk för rätt pris, men helst med en plan för reträtten.
+- **Skadad:** Håller sig vid ratten om det fortfarande finns en väg ut.
+- **Larmar när:** Fordonet blir identifierat eller vägarna börjar stängas.
+- **Ger upp när:** Motorn dör, vägen är spärrad och ingen chans till utbrytning finns kvar.
 
 ### Jazz-sångerska
 
@@ -233,7 +359,7 @@ Sångerskan på nattklubben, stjärnan som alla vill bli sedda med. Hon rör sig
 
 ## Elit och ENS
 
-Tunga motståndare för ett äventyrs vändpunkter och klimax. Ge dem namn, trauman och krafttema. För ENS improviserar du Fokus enligt spelledarkapitlet och slår på [[Trauma, chock och stress#Sammanbrottstabellen|Sammanbrottstabellen]] när det är dramatiskt rätt.
+Tunga motståndare för ett äventyrs vändpunkter och klimax. Ge dem namn, trauman och krafttema. För ENS improviserar du Fokus enligt spelledarkapitlet och slår på [[Trauma, chock och stress#Sammanbrott|Sammanbrottstabellen]] när det är dramatiskt rätt.
 
 ### Fientlig ENS-agent
 
@@ -256,7 +382,7 @@ Bygg krafterna kring ett tema enligt [[Krafter]] — frost, värme, gravitation,
 
 - Ett fokuserat angrepp i kraftens tema mot en person i samma zon.
 - **Kostnad:** 2 Fokus.
-- **Verkan:** *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP skada (välj skadetyp efter tema) och målet får ett relevant tillstånd, t.ex. **bedövat** eller **bländat**.
+- **Verkan:** *Vilja + Analys* (**Svårt** att motstå med *Fysik + Vilja*). Vid framgång: 2 KP skada (välj skadetyp efter tema) och målet blir **Omtumlat** eller **Påverkat**, beroende på kraftens tema.
 
 **Områdeseffekt:**
 
@@ -316,7 +442,7 @@ Ett misslyckat subjekt — från [[Program Frigg (Sverige)|Program Frigg]] eller
 - Subjektets kraft (valfritt tema) brister ut när det blir stressat, skrämt eller skadat.
 - **Verkan:** Alla i samma zon tar 1T12 KP skada i kraftens tema. Subjektet kan inte styra vem som drabbas.
 
-**Svaghet:** Mycket låg Stabilitet — slå ofta på [[Trauma, chock och stress#Sammanbrottstabellen|Sammanbrottstabellen]]. Lugn, igenkänning eller en koppling till det förflutna kan nå fram där våld bara förvärrar.
+**Svaghet:** Mycket låg Stabilitet — slå ofta på [[Trauma, chock och stress#Sammanbrott|Sammanbrottstabellen]]. Lugn, igenkänning eller en koppling till det förflutna kan nå fram där våld bara förvärrar.
 
 ### Mästerspion
 

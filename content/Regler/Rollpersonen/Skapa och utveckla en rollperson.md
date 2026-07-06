@@ -25,6 +25,7 @@ När du har konceptet på plats så följer du nedanstående steg för att skapa
     - **Skuld:** Du orsakade något fruktansvärt.
     - **Svek:** Någon du litade på förrådde dig.
     - **Skam:** Du avslöjades eller förödmjukades.
+    - Trauma styr också hur dina krafter beter sig när det aktiveras och hur Sammanbrott kan förvärra din rollperson över tid.
 3. **Tilldela egenskaper:** Fördela 21 poäng på dina åtta egenskaper. En egenskap blir din **superegenskap** med 5 poäng; de övriga sju får 1–4 poäng vardera och delar på de återstående 16 poängen.
     - Analys
     - Fysik

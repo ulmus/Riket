@@ -46,7 +46,7 @@ SL begär ett **Chockslag** (se [[Trauma, chock och stress#Chock]]): *Vilja + Vi
 
 Hon har ingen tid att tänka. Kuvertet ligger inte tillbaka än. Silke kliver rakt i registratorns väg, tar hennes arm som en gammal väninna och aktiverar sin kraft **Förslag** (se [[Krafter#Silke – Feromoner och manipulation]]): *"Du har glömt din väska på kontoret. Gå tillbaka och vänta på mig där."*
 
-- **Förslag kostar 2 Fokus.** Silke har bara 1 kvar. Hon betalar **1 Fokus + 1 Stress** — *(räcker inte ditt Fokus kan du ersätta resten med Stress, högst lika många som din Stabilitet per tillfälle; se [[Grundregler#Stress istället för Fokus]])* — och är nu uppe i **3 Stress**.
+- **Förslag kostar 2 Fokus.** Silke har bara 1 kvar. Hon betalar **1 Fokus + 1 Stress** — *(räcker inte ditt Fokus kan du ersätta resten med Stress, högst lika många Stress som din Stabilitet per tillfälle; se [[Grundregler#Stress istället för Fokus]])* — och är nu uppe i **3 Stress**.
 - Ordern är dessutom för lång för en enkel befallning, så hon vill ha förstärkningen **+1 Fokus: ordern kan vara komplex**. *(Grundkostnaden betalas alltid, men extra Fokus för förstärkningar betalas bara om slaget lyckas — se [[Krafter#Steg 5: Lägg till förstärkningar]].)*
 - **Slaget:** *Samspel + Vilja* (6 tärningar) mot registratorns *Vilja + Vilja* (4 tärningar). Silke: 11, 10, 9, 8, 4, 2 → två framgångar. Registratorn: 9, 6, 5, 3 → ingen. Silke vinner med **Effekt 2**.
 - Slaget lyckades, så förstärkningen ska betalas: **1 Stress till** — nu **4 Stress**. Hon spenderar 1 Effekt på *"Målet kommer inte ihåg ordern efteråt"*: registratorn vänder tillbaka mot Birger Jarlsgatan utan att veta varför.

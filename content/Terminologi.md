@@ -67,7 +67,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | **Kroppspoäng** | KP | Enhet för skada |
 | **Tålighet** | – | Fysik + Vilja; tröskel för skadesteg |
 | **Skada** | – | Vapnets KP-bonus vid träff; adderas till KP-skadan (men inte till kritiska träff-slag) |
-| **Kritisk träff** | – | 12:a på attackslaget; utlöser effekt på kritisk-tabellen om attacken gör minst 1 KP skada efter Skydd (12:an ger 1 Fokus som vanligt) |
+| **Kritisk träff** | – | En eller flera 12:or på attackslaget; utlöser effekt på kritisk-tabellen om attacken gör minst 1 KP skada efter Skydd (varje 12:a ger 1 Fokus som vanligt, och ytterligare 12:or ger +1 på kritslaget) |
 | **Skydd** | – | Rustning eller täckning som minskar KP-skada |
 | **Skadetyp** | – | Vapnets skadetyp (Kross, Stick, Hugg, Skjutvapen, etc.); avgör kritisk-tabell |
 | **Penetrerande** | – | Vapenegenskap; ger +2 till kritiska träff-slag |
@@ -90,7 +90,7 @@ De åtta grundegenskaperna som definierar en rollperson:
 | Term | Beskrivning |
 | --- | --- |
 | **Trauma** | Det utlösande psykiska trauma som gett karaktären dess krafter. |
-| **Stress** | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag och kan spenderas istället för Fokus |
+| **Stress** | Mått på psykisk belastning; markeras vid trauma, rädsla eller misslyckade slag och kan ersätta saknat Fokus |
 | **Stabilitet** | Tröskel för sammanbrott, 3 för vanliga karaktärer |
 | **Sammanbrott** | Psykisk kris som utlöses när Stress överskrider Stabilitet |
 | **Chock** | Slag för att motstå chockerande händelser (Vilja + relevant egenskap) |

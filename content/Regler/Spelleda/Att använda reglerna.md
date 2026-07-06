@@ -50,7 +50,7 @@ Sättet som Fokus ackumulerar på (12:or på tärningsslag) ger det en oföruts�
 
 ### Stress istället för Fokus
 
-En nackdel med att Fokus ackumulerar slumpmässigt över tid är att det ibland finns en risk att rollpersonen inte har någon Fokus när det vore som mest rimligt i berättelsen att aktivera en förmåga. För att komma åt det finns ventilen i spelsystemet att närhelst en karaktär skulle använt Fokus men inte har några Fokus kvar, kan den istället ta upp till sin Stabilitet antal Stress och få lika många Fokus som måste spenderas direkt.
+En nackdel med att Fokus ackumulerar slumpmässigt över tid är att det ibland finns en risk att rollpersonen inte har någon Fokus när det vore som mest rimligt i berättelsen att aktivera en förmåga. För att komma åt det finns ventilen i spelsystemet: räcker inte ditt Fokus kan du ersätta resten med Stress, högst lika många Stress som din Stabilitet per tillfälle (se [[Grundregler#Stress istället för Fokus]]).
 
 Syftet är att det ska finnas ett sätt att pressa sig och ta större risk när det gäller. Stressen du tar för dig närmre Sammanbrottet (som ju kommer varje gång din Stress passerar en multipel av din Stabilitet). Eftersom även andra faktorer kan ge Stress — så som skräckfyllda upplevelser, strid, skador — så vet du som spelare inte riktigt när konsekvenserna kommer av att du valde att ta Stress. Osäkerheten i det är en del av designen.
 

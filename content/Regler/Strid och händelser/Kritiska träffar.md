@@ -1,6 +1,6 @@
 # Kritiska träffar
 
-När en tärning på attackslaget visar **12** inträffar en **kritisk träff** (utöver den 1 Fokus som 12:an alltid ger). Slå 1T12 och lägg till modifikationer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
+När en attackslagstärning visar **12** får du alltid **1 Fokus**. En **kritisk träff** utlöses bara om attacken dessutom träffar och gör minst **1 KP** skada efter **Skydd**. Slå då 1T12 och lägg till modifikationer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
 
 **Modifikationer till slaget:**
 
@@ -19,7 +19,7 @@ Om flera tärningar visar 12, slå **en gång** på tabellen och lägg till +1 f
 
 ## Behandling av kritiska träffar
 
-Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att upphöra. Det finns tre vårdtyper:
+Effekter markerade **"tills behandlad"** kräver ett lyckat vårdslag för att upphöra. Ett vårdslag tar minst **en minut** om inte raden uttryckligen kräver längre tid eller sjukhusvård. Det finns tre vårdtyper:
 
 | Vårdtyp       | Slag               | Används för                                                                |
 | ------------- | ------------------ | -------------------------------------------------------------------------- |

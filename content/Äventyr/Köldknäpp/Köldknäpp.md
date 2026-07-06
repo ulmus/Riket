@@ -294,7 +294,7 @@ Stugan ser ut som vinter inifrån. Frost på väggarna, is på golvet, rimfrost 
 
 Anja sitter på golvet i ett hörn, insvept i en filt. Smutsig, blek, men inte utsvulten — jordgubbsfläckar på fingrarna. Tunt sjukhuslinne, bara fötter. Nallen Misha bredvid henne.
 
-**Köldaura:** Förhöjd (stressad). Alla inom 5 meter: fysiska slag ett steg svårare, Fysik + Vilja varje runda eller +1 Stress. Under noll.
+**Köldaura:** Förhöjd (stressad). Alla i samma zon: fysiska slag ett steg svårare, Fysik + Vilja varje runda eller +1 Stress. Under noll.
 
 **Att närma sig:** Inte aggressiv men rädd. Snabba rörelser eller vapen kan trigga reflexmässiga **Iskristaller**.
 
@@ -315,7 +315,7 @@ Anja sitter på golvet i ett hörn, insvept i en filt. Smutsig, blek, men inte u
 
 **Lyckat:** Köldauran sjunker ett steg. Anja slutar backa.
 
-**Misslyckat:** Iskristaller. Alla inom 3 meter: grundskada 2, **Skadebonus +2**, Skadetyp Stick. Nytt försök nästa runda.
+**Misslyckat:** Iskristaller. Alla Bredvid målet: grundskada 2, **Skadebonus +2**, Skadetyp Stick. Nytt försök nästa runda.
 
 Uppmuntra rollspel. Tjuren erbjuder sardiner. Stigmata: "Jag vet hur det känns." Prisma gör ljusspel. Äkta empati fungerar — inte order.
 
@@ -363,10 +363,10 @@ Varje runda Anja är i strid eller panik, slå **T12**:
 | T12 | Effekt |
 |-----|--------|
 | 1–4 | Ingen extra effekt — auran håller sig stabil |
-| 5–7 | **Köldvåg** — temperaturen sjunker ytterligare. Alla inom 10 meter: fysiska slag ett steg svårare |
-| 8–9 | **Iskristaller** — spontan salva i slumpmässig riktning mot en slumpmässig person inom 10 meter. Grundskada 3, **Skadebonus +2**, Skadetyp Stick |
-| 10–11 | **Frostexplosion** — alla inom 5 meter: grundskada 4, **Skadebonus +2**, Skadetyp Övriga (Kyla). Slås tillbaka 2 meter |
-| 12 | **Fryspelare** — Anja förlorar all kontroll. En 10-meters radie fryser solid. Alla i zonen: grundskada 5, **Skadebonus +3**, Skadetyp Övriga (Kyla). Måste slå Fysik + Vilja eller bli **förstelnade** i isen |
+| 5–7 | **Köldvåg** — temperaturen sjunker ytterligare. Alla i samma zon: fysiska slag ett steg svårare |
+| 8–9 | **Iskristaller** — spontan salva i slumpmässig riktning mot en slumpmässig person i samma zon. Grundskada 3, **Skadebonus +2**, Skadetyp Stick |
+| 10–11 | **Frostexplosion** — alla Nära Anja: grundskada 4, **Skadebonus +2**, Skadetyp Övriga (Kyla). Slås undan inom zonen |
+| 12 | **Fryspelare** — Anja förlorar all kontroll. Hela zonen fryser solid. Alla i zonen: grundskada 5, **Skadebonus +3**, Skadetyp Övriga (Kyla). Måste slå Fysik + Vilja eller bli **förstelnade** i isen |
 
 ##### GRU:s styrkor
 
@@ -461,7 +461,7 @@ Om rollpersonerna är i fara kan Anja välja att använda sina krafter aktivt oc
 
 *"Ni ska inte skada dem."*
 
-**Om hon agerar:** Fryspelare på full styrka. 10-meters radie. GRU-soldater fryser mitt i rörelsen, vapen fastnar i is.
+**Om hon agerar:** Fryspelare på full styrka i hela zonen. GRU-soldater fryser mitt i rörelsen, vapen fastnar i is.
 
 **Moraliskt dilemma:** Ett tolvårigt barn som fryser människor levande. Är detta vad Program Frigg skapat?
 
@@ -504,7 +504,7 @@ Rädd och misstänksam men med barnlig längtan efter trygghet. Krafterna är f�
 | Fysik | 1 | Sårad | > 1 KP |
 | List | 1 | Medvetslös | > 4 KP |
 | Samspel | 2 | Döende | > 8 KP |
-| Sinnen | 3 | Förflyttning | 4 m |
+| Sinnen | 3 | Förflyttning | 1 zon |
 | Smidighet | 2 | Stabilitet | 2 |
 | Strid | 1 | Stress | ❏❏❏❏❏❏ |
 | Vilja | 3 | | |
@@ -523,21 +523,21 @@ Tar aldrig skada av kyla. Kan röra sig normalt på is. Temperaturen runt henne 
 **Frostberöring** (1 Fokus, en handling)
 Slå Fysik + Vilja för att frysa vatten eller dramatiskt sänka temperaturen på ett objekt genom beröring. Hos Anja aktiveras detta ofta *omedvetet* vid fysisk kontakt.
 
-- **+1 Fokus:** Räckvidden ökar till 5 meter.
-- **1 Framgång:** Effekten är starkare och varar längre.
+- **+1 Fokus:** Räckvidden ökar till Nära.
+- **1 Effekt:** Effekten är starkare och varar längre.
 
 **Iskristaller** (1 Fokus, reflexmässig)
-Slå Strid + Vilja för att skjuta vassa iskristaller. **Skadebonus +2** (Stark). Skadetyp: Stick. Räckvidd 15 meter. Anja avfyrar dessa instinktivt vid panik — hon har ingen medveten kontroll.
+Slå Strid + Vilja för att skjuta vassa iskristaller. **Skadebonus +2** (Stark). Skadetyp: Stick. Räckvidd Kort. Anja avfyrar dessa instinktivt vid panik — hon har ingen medveten kontroll.
 
-- **+1 Fokus:** Träffar alla inom 3 meter från målet.
-- **1 Framgång:** +1 skada.
+- **+1 Fokus:** Träffar alla Bredvid målet.
+- **1 Effekt:** +1 skada.
 
 **Fryspelare** (2 Fokus, en handling)
-Skapa extrem kyla i 5-meters radie. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och −1 på fysiska slag. Varar 3 rundor.
+Skapa extrem kyla i samma zon. Alla i zonen måste slå Fysik + Vilja varje runda eller ta +1 Stress och −1 på fysiska slag. Varar 3 rundor.
 
 - **+1 Fokus:** Varar hela scenen.
 - **+1 Fokus:** Marken blir hal is.
-- **1 Framgång:** +3 meters radie.
+- **1 Effekt:** Effekten sträcker sig till en intilliggande zon.
 
 **Aktiverat trauma — Fryspelare (okontrollerad):** Vid sammanbrott skapar Anja omedvetet en ispelare som omsluter henne själv och den hon fokuserar på, vare sig de vill det eller ej. Isen vägrar smälta och måste brytas loss (*Fysik + Fysik*, **Svårt**).
 
@@ -547,11 +547,11 @@ Anjas passiva köldaura varierar med hennes stressnivå:
 
 | Stressnivå | Temperatur | Radie | Mekanisk effekt |
 |------------|-----------|-------|-----------------|
-| **Lugn** | 10–15 °C | 2 m | Ingen mekanisk effekt. Obekvämt kyligt. |
-| **Orolig** | 0–5 °C | 5 m | Fysiska slag ett steg svårare. Kondens och frost på ytor. |
-| **Stressad** | −5 till −10 °C | 10 m | Fysiska slag ett steg svårare. Fysik + Vilja varje runda eller +1 Stress. Is bildas. |
-| **Panik** | −15 till −25 °C | 15 m | Alla slag två steg svårare. Fysik + Vilja varje runda eller 1 KP köldskada och +1 Stress. Farligt för alla. |
-| **Sammanbrott** | −30 °C eller lägre | 20 m | Se Fryspelare (okontrollerad) ovan. Potentiellt dödligt. |
+| **Lugn** | 10–15 °C | Bredvid | Ingen mekanisk effekt. Obekvämt kyligt. |
+| **Orolig** | 0–5 °C | Nära | Fysiska slag ett steg svårare. Kondens och frost på ytor. |
+| **Stressad** | −5 till −10 °C | Samma zon | Fysiska slag ett steg svårare. Fysik + Vilja varje runda eller +1 Stress. Is bildas. |
+| **Panik** | −15 till −25 °C | Kort | Alla slag två steg svårare. Fysik + Vilja varje runda eller 1 KP köldskada och +1 Stress. Farligt för alla. |
+| **Sammanbrott** | −30 °C eller lägre | Kort | Se Fryspelare (okontrollerad) ovan. Potentiellt dödligt. |
 
 #### Dr. Lars Hedström
 
@@ -603,7 +603,7 @@ Under ytan: ångestfylld, sömnlös, skuldtyngd. Dricker för mycket kaffe, undv
 | Fysik | 2 | Sårad | > 2 KP |
 | List | 3 | Medvetslös | > 5 KP |
 | Samspel | 2 | Döende | > 10 KP |
-| Sinnen | 2 | Förflyttning | 4 m |
+| Sinnen | 2 | Förflyttning | 1 zon |
 | Smidighet | 2 | Stabilitet | 2 |
 | Strid | 2 | Stress | ❏❏❏❏❏❏ |
 | Vilja | 2 | | |
@@ -629,7 +629,7 @@ Soldat med order, inte monster. Respekterar fiender, undviker onödig brutalitet
 | Fysik | 3 | Sårad | > 3 KP |
 | List | 2 | Medvetslös | > 8 KP |
 | Samspel | 2 | Döende | > 16 KP |
-| Sinnen | 3 | Förflyttning | 6 m |
+| Sinnen | 3 | Förflyttning | 1 zon |
 | Smidighet | 3 | Stabilitet | 2 |
 | Strid | 4 | Stress | ❏❏❏❏❏❏ |
 | Vilja | 3 | | |
@@ -639,8 +639,8 @@ Soldat med order, inte monster. Respekterar fiender, undviker onödig brutalitet
 
 **Utrustning:**
 
-- **Stechkin APS (automatpistol):** Räckvidd 30 m, Skada 3, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏
-- **Bedövningspilpistol:** Räckvidd 15 m, se [[Särskilda situationer#Sömnmedel]]. Sömnmedel: tiopental. Ammunition ❏❏
+- **Stechkin APS (automatpistol):** Räckvidd Kort, Skada 3, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏
+- **Bedövningspilpistol:** Räckvidd Kort, se [[Särskilda situationer#Sömnmedel]]. Sömnmedel: tiopental. Ammunition ❏❏
 - Kniv, radio, rökgranat ×2
 
 #### GRU-soldater (2–3 st)
@@ -655,7 +655,7 @@ Civilklädda operatörer, 25–30 år, militär hållning. Talar inte svenska.
 | Fysik | 3 | Sårad | > 3 KP |
 | List | 1 | Medvetslös | > 6 KP |
 | Samspel | 1 | Döende | > 12 KP |
-| Sinnen | 2 | Förflyttning | 6 m |
+| Sinnen | 2 | Förflyttning | 1 zon |
 | Smidighet | 2 | Stabilitet | 2 |
 | Strid | 3 | Stress | ❏❏❏❏❏❏ |
 | Vilja | 2 | | |
@@ -664,8 +664,8 @@ Civilklädda operatörer, 25–30 år, militär hållning. Talar inte svenska.
 
 **Utrustning (per soldat):**
 
-- **AK-47 (gömd i resväska):** Räckvidd 60 m, Skada 4, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏
-- **Makarov PM:** Räckvidd 25 m, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
+- **AK-47 (gömd i resväska):** Räckvidd Lång, Skada 4, skadetyp Skjutvapen, Automateld. Ammunition ❏❏❏
+- **Makarov PM:** Räckvidd Kort, Skada 3, skadetyp Skjutvapen. Ammunition ❏❏
 - Kniv, radio
 
 #### Polaris (valfri Zvezda-agent)
@@ -682,7 +682,7 @@ Förstärkning om Zaitsev misslyckas. Trettiofem år, blek, tunnhårig, intensiv
 | Fysik | 2 | Sårad | > 2 KP |
 | List | 2 | Medvetslös | > 6 KP |
 | Samspel | 1 | Döende | > 12 KP |
-| Sinnen | 3 | Förflyttning | 5 m |
+| Sinnen | 3 | Förflyttning | 1 zon |
 | Smidighet | 2 | Stabilitet | 2 |
 | Strid | 2 | Stress | ❏❏❏❏❏❏ |
 | Vilja | 4 | | |
@@ -693,16 +693,16 @@ Förstärkning om Zaitsev misslyckas. Trettiofem år, blek, tunnhårig, intensiv
 **Krafter:**
 
 **Magnetisk kontroll** (1 Fokus, en handling)
-Slå Vilja + Sinnen för att manipulera metallföremål inom 15 meter. Kan rycka vapen ur händer (motståndsslag Fysik + Strid), blockera dörrar, eller kasta metallföremål.
+Slå Vilja + Sinnen för att manipulera metallföremål på Kort håll. Kan rycka vapen ur händer (motståndsslag Fysik + Strid), blockera dörrar, eller kasta metallföremål.
 
 - **+1 Fokus:** Kontrollera flera föremål samtidigt (max Vilja st).
-- **+1 Fokus:** Räckvidden ökar till 30 meter.
-- **1 Framgång:** Föremål flyger med dödlig kraft (grundskada 3, **Skadebonus +2**, Skadetyp Kross).
+- **+1 Fokus:** Räckvidden ökar till Medel.
+- **1 Effekt:** Föremål flyger med dödlig kraft (grundskada 3, **Skadebonus +2**, Skadetyp Kross).
 
 **Magnetisk sköld** (1 Fokus, reaktiv)
 Spendera 1 Fokus för att avleda metallprojektiler: Skydd +2 mot skjutvapen med metallkulor.
 
-- **1 Framgång:** Skydd +3 istället.
+- **1 Effekt:** Skydd +3 istället.
 
 **Svaghet:** Radars Pulsstörare slår ut Polaris krafter i 1 runda per framgång (hans magnetkontroll kräver neural koncentration som Pulsstöraren avbryter). Icke-metalliska vapen (trä, sten, is) ignorerar hans sköld.
 

@@ -34,6 +34,7 @@ annan layout) och ingår därför inte här.
 - [[Förmågor]]
 - [[Krafter]]
 - [[Kraftexempel]]
+- [[Kraftkort]]
 - [[Trauma, chock och stress]]
 - [[Aktiviteter]]
 - [[Aktivitetsexempel]]

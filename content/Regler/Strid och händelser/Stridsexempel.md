@@ -78,11 +78,11 @@ Radar tar 1 Stress för KP-skadan och 1 för att bli Sårad — hans Stress stig
 
 **Gränsvakt B** skjuter mot Tjuren, som bär Radar över öppen mark. **Svårt**: 10, 9, 8, 2 → en framgång → miss.
 
-**Silke** sliter upp Radars rock, blottar såret och pressar mot artären medan Tjuren slänger henne sitt **Fältförband**. *(Att stoppa blödning tar en stridsrunda; hon hinner inte slå klart förrän nästa runda.)*
+**Silke** sliter upp Radars rock, blottar såret och pressar mot artären medan Tjuren slänger henne sitt **Fältförband**. *(Ett vårdslag tar minst en minut. Just nu gör hon inget slag; hon håller tryck för att köpa tid. Så länge hon fortsätter tickar inte den Kraftiga blödningen, men hon är bunden vid Radar.)*
 
 ## Runda 4
 
-I början av rundan tickar Radars **Kraftiga blödning**: han förlorar **1 KP** (nu 7). KP-skadan är inte det akuta — det är **Artärträffen**: så länge han är **Akut döende** och oförbunden rinner tiden ut, runda för runda.
+I början av rundan tickar inte Radars **Kraftiga blödning**, eftersom Silke håller tryck mot artären. KP-skadan är inte det akuta — det är **Artärträffen**: om Silke tvingas släppa börjar tiden rinna igen, runda för runda.
 
 **Radar**, vid medvetande men *Sårad* och *Akut döende*, kan inget göra utom att hålla trycket mot sitt eget sår.
 
@@ -92,7 +92,7 @@ I början av rundan tickar Radars **Kraftiga blödning**: han förlorar **1 KP**
 
 **Gränsvakt B** ser Spetsnaz-operatören störta medvetslös till golvet. *(För en statist är moralen ett SL-beslut, inte ett slag.)* Vakten kastar sin k-pist och flyr ut genom porten.
 
-**Silke** får äntligen lugn att arbeta. Artärträffen kräver **Kirurgi** (*Analys + Smidighet*, **Svår**) för att stoppas. Silke är **Maskör**, inte kirurg, så utan rätt expertis blir slaget **ett steg svårare** — **Mycket Svårt** (tre framgångar). Med Tjurens **Fältförband** (+2) blir hennes pool *Analys 2 + Smidighet 2* +2 = 6 tärningar. Hon slår 11, 10, 8, 7, 4, 2 → bara två framgångar, en kort. Hon spenderar **1 Fokus** för att lägga till en tärning: den visar **12** → tredje framgången (och 1 Fokus tillbaka; hade den extra tärningen visat en etta hade det i stället blivit en **komplikation**).
+**Silke** får äntligen lugn att fortsätta. Hon håller trycket genom de sista ekande skotten och arbetar en full minut innan slaget görs. Artärträffen kräver **Kirurgi** (*Analys + Smidighet*, **Svår**) för att stoppas. Silke är **Maskör**, inte kirurg, så utan rätt expertis blir slaget **ett steg svårare** — **Mycket Svårt** (tre framgångar). Med Tjurens **Fältförband** (+2) blir hennes pool *Analys 2 + Smidighet 2* +2 = 6 tärningar. Hon slår 11, 10, 8, 7, 4, 2 → bara två framgångar, en kort. Hon spenderar **1 Fokus** för att lägga till en tärning: den visar **12** → tredje framgången (och 1 Fokus tillbaka; hade den extra tärningen visat en etta hade det i stället blivit en **komplikation**).
 
 Tre framgångar klarar **Mycket Svårt** — behandlingen lyckas. Artärträffens **Kraftiga blödning** stoppas, och Radar kliver **ett steg nedför döende-stegen per framgång på slaget**: tre steg, när två räcker, tar honom från **Akut döende** hela vägen till **Stabil**. Han är räddad — men fortfarande **Sårad**, fortfarande på 10 KP, och den **Permanenta** skadan består: −1 Fysik följer med honom ut ur magasinet. *(Stabilisering räddar livet, men reparerar inte allt som redan skett.)*
 
