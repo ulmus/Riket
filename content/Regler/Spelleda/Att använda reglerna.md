@@ -34,9 +34,9 @@ Här är sannolikheterna att lyckas med minst 0 Effekt för de olika svårighets
 
 Det viktigaste beslutet du fattar vid bordet är inte svårigheten — det är vad utfallet *betyder*. En bra tumregel är att varje slag ska förändra läget, oavsett hur tärningarna faller.
 
-- **Ett misslyckande är aldrig ett stopp.** "Ingenting händer" är det tråkigaste utfallet i spelet. Låt ett misslyckat slag i stället kosta något eller flytta världen: låset går upp men verktyget går sönder, målet byter plötsligt rutt, någon i folkmassan minns ett ansikte, tiden rinner iväg och motparten hinner före. Misslyckandet ska öppna nästa scen, inte stänga den.
-- **Ibland finns *delvis* lyckat.** Om svårigheten till exempel är Svårt, men spelaren rullar *en* framgång, då kan du bedöma att det är *delvis* lyckat: rollpersonerna får det de ville ha, men betalar i tid, exponering eller kontroll. Spanaren ser vart kuriren går men hinner inte höra vad som sägs; inbrytaren kommer in, men på fel våning; källan ger halva sanningen men utelämnar namnet. Den som hoppar mellan hustaken kanske faller men får tag i en hängränna och får slå ett nytt slag för att rädda situationen. Det här är inte så mycket en regel som en öppning för "fail forward".
-- **Belöna Effekt med mer än siffror.** När ett slag lyckas med Effekt över, ge något utöver grundverkan: en extra detalj om vaktens rutiner, ett rent tillfälle till ett senare intrång, inga spår efter gruppen, en bekantskap som kan bli en kontakt. Fråga gärna spelaren vad hen hoppas få ut — det bästa svaret finns ofta på andra sidan bordet.
+- **Ett misslyckande är aldrig ett stopp.** "Ingenting händer" är det tråkigaste utfallet i spelet. Låt ett misslyckat slag i stället kosta något eller förändra något i världen: låset går upp men verktyget går sönder, målet byter plötsligt rutt, någon i folkmassan minns ett ansikte, tiden rinner iväg och motparten hinner före. Låt misslyckanden öppna nya scener snarare än stänga.
+- **Ibland finns *delvis* lyckat.** Om svårigheten till exempel är Svårt, men spelaren rullar *en* framgång, då kan du bedöma att det är *delvis* lyckat: rollpersonerna får det de ville ha, men betalar i tid, exponering eller kontroll. Spanaren ser vart kuriren går men hinner inte höra vad som sägs; inbrottstjuven kommer in, men på fel våning; källan ger halva sanningen men utelämnar namnet. Den som hoppar mellan hustaken kanske faller men får tag i en hängränna och får slå ett nytt slag för att rädda situationen. Det här är inte så mycket en regel som en öppning för "fail forward".
+- **Belöna Effekt med mer än siffror.** När ett slag lyckas med Effekt över, ge något utöver grundverkan: en extra detalj om vaktens rutiner, ett rent tillfälle till ett senare intrång, inga spår efter gruppen, en bekantskap som kan bli en kontakt.
 
 ## Fokus och Momentum, Stress och Sammanbrott
 
@@ -101,6 +101,14 @@ Reglerna för strid står i [[Strid och skada]]. Vid bordet tjänar du på att k
 4. Visade anfallet en 12:a och minst 1 KP gick igenom Skyddet — slå för **Kritisk träff**.
 
 För statister behöver du sällan räkna vidare: tolka utfallet direkt. Den som blir Sårad, tar en kritisk träff eller hamnar utan utväg är normalt ur striden — den flyr, kastar sig i skydd eller ger upp. Spara bokföringen till namngivna motståndare, och lägg hellre din energi på att beskriva vad kulorna gör med rummet än på att administrera vakternas KP.
+
+## Dubbla handlingar och lätta slag
+
+En grundmekanik i strider som är värd att hålla reda på är den att rollpersoner _kan_ utföra två handlingar på en runda, men att båda då är ett steg svårare. Det kan göras för att dra ett vapen och skjuta till exempel, eller springa fram och kasta sig i skydd.
+
+En intressant effekt, som man inte ska glömma bort, är att saker som tidigare var Lätta — som att dra ett vapen eller förflytta sig en zon — blir Normal svårighet om du gör det som en del av två handlingar på en runda. Den som drar vapnet kan alltså behöva slå för Smidighet + Strid. Misslyckat innebär att du fumlar med ditt hölster och inte lyckas få upp det. Om du springer behöver du slå för Fysik + Smidighet och misslyckas du kanske du snubblar och faller.
+
+Låt gärna spelare använda två handlingar på en runda, inklusive två attacker, etc, men kom ihåg att de kan behöva slå för sådant som annars hade varit automatiskt lyckat.
 
 ## Improvisera med SLP, minska administrationen
 
