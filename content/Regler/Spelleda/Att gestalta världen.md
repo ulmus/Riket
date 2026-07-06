@@ -1,8 +1,24 @@
-# Världen 1961
+---
+aliases:
+  - "Världen/Världen 1961"
+---
 
-Den här sidan är ett stämningsunderlag för dig som spelleder: hur året 1961 känns, snarare än en uppslagsbok med årtal. Vad man ser, hör och luktar, vad folk hoppas på och vad de bär med sig av rädsla. Plocka det du behöver vid bordet och låt resten ligga.
+# Att gestalta världen
+
+Det här kapitlet hjälper dig att levandegöra 1961 vid spelbordet: hur året *känns*, snarare än en uppslagsbok med årtal. Vad man ser, hör och luktar, vad folk hoppas på och vad de bär med sig av rädsla. Plocka det du behöver vid bordet och låt resten ligga.
 
 *Notis: spelet utspelar sig i en alternativ verklighet. Men ju närmare den verkliga känslan av 1961 du håller dig, desto starkare bryter krafterna, trauman och konspirationerna mot den.*
+
+## Sinnesintryck före faktoider
+
+Världen förmedlas inte i föreläsningar utan i detaljer. Spelarna behöver inte veta hur Volkspolizei är organiserad — de behöver skrivmaskinssmattret genom väggen, porträttet av Ulbricht och den kallnade kaffekoppen på förhörsledarens skrivbord.
+
+- **Tre detaljer räcker.** Ett ljud, en lukt, en synbild. Sedan är det spelarnas tur att agera. Fyll hellre på senare än att beskriva allt på en gång.
+- **Låt detaljerna arbeta.** Välj intryck som säger något om scenen: den nyputsade mässingsskylten säger kontroll, de igenspikade skyltfönstren säger brist, den tomma gatan nära muren säger rädsla.
+- **Hellre rätt känsla än rätt årtal.** Om du inte vet hur något var — hitta på något som känns 1961. Sammanhang slår korrekthet, och ingen ska behöva slå upp något vid bordet.
+- **Återkom till samma intryck.** Spårvagnsgnisslet, pipröken, kaffedoften. Återkommande detaljer gör världen sammanhängande och ger spelarna något att känna igen sig i — och att sakna, den dag scenen i stället luktar desinfektion.
+
+Resten av kapitlet är råmaterialet: tidsandan, världen, Sverige och Stockholm som de känns 1961.
 
 ## Tidsandan
 

@@ -40,9 +40,12 @@ Det fullständiga regelverket, från grundmekanik till strid och trauma.
 
 Råd och verktyg för dig som leder spelet.
 
-- [[Att spelleda I Rikets Tjänst]] – Tonsättning, scener, improvisation och spelledarens hantverk.
+- [[Att spelleda I Rikets Tjänst]] – Spelledarens överblick: kontraktet med gruppen och vägvisare till spelledarkapitlen.
+- [[Att sätta tonen]] – Kalla krigets skuggspel: levande människor, flyktig moral och stress som driver berättelsen.
+- [[Att gestalta världen]] – Tidsandan, stämningen och sinnesintrycken 1961 att förmedla vid bordet.
+- [[Att använda reglerna]] – Svårighet, utfall, Fokus, Momentum och Chockslag ur spelledarens perspektiv.
+- [[Att skriva äventyr]] – Uppdrag med dolda sanningar, aktörer, ledtrådar och tickande klockor.
 - [[Spelledarpersoner]] – Färdiga SLP-arketyper att plocka in vid bordet.
-- [[Världen 1961]] – Tidsandan, stämningen och sinnesintrycken 1961 att förmedla vid bordet.
 - [[Tjänster och gods]] – Vad saker kostar 1961 och hur de skaffas i Stockholm och utomlands.
 
 ## Program för Extra-Normala Subjekt

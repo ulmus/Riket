@@ -165,4 +165,4 @@ Använd priserna för att ge tyngd åt valen vid bordet, inte för att föra kas
 - **Förankra med priser i förbigående.** Att taxin kostar två kronor i framkörning, att en pint är 1/3 på puben i Soho eller att vodkan är 2,87 på flaskan ger scenen verklighetskänsla utan att tynga den.
 - **Knyt an till lönen.** När en rollperson överväger att muta någon eller köpa något dyrt, väg det mot att en arbetare tjänar omkring tusen kronor i månaden. Då blir summorna kännbara.
 
-*Se även [[Att spelleda I Rikets Tjänst]] för mer om att förmedla världen, och [[Världen 1961]] för tidsandan i stort.*
+*Se även [[Att gestalta världen]] för tidsandan i stort och hur du förmedlar den vid bordet.*
