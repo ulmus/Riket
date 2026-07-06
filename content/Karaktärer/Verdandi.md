@@ -50,11 +50,11 @@ Detaljnivå avgörs av fysiskt avstånd:
 
 **Krav:** En genuin känslomässig koppling till platsen eller någon där.
 
-**Varaktighet:** Aktiveringen utlöser alltid ett epileptiskt anfall (se [[#Epileptiska anfall]] ). Du faller till marken och stabiliseras därefter i ett trance där visionen varar så länge du koncentrerar dig. Du är blind och döv för det fysiska rummet medan visionen pågår.
+**Varaktighet:** Aktiveringen utlöser alltid ett epileptiskt anfall (se [[#Epileptiska anfall]] ). Du faller till marken och stabiliseras därefter i ett trance där visionen varar så länge du koncentrerar dig. Du saknar syn- och hörselkontakt med det fysiska rummet medan visionen pågår.
 
 - **+1 Fokus:** Visionen blir ett detaljsteg tydligare än avståndet medger.
-- **1 Framgång:** Flytta fokus till en angränsande plats inom samma vision.
-- **1 Framgång:** Visionen ger riktning och ungefärligt avstånd till platsen.
+- **1 Effekt:** Flytta fokus till en angränsande plats inom samma vision.
+- **1 Effekt:** Visionen ger riktning och ungefärligt avstånd till platsen.
 
 ### Delad vision (1 Fokus, 1 handling)
 
@@ -63,14 +63,14 @@ Detaljnivå avgörs av fysiskt avstånd:
 Slå för Samspel + Vilja. Personer som rör vid din kropp dras in i visionen och kan se och peka ut detaljer.
 
 - **+1 Fokus:** Räckvidden är Nära istället för beröring.
-- **1 Framgång:** Ytterligare en mottagare.
-- **1 Framgång:** Mottagarna hör också, inte bara ser.
+- **1 Effekt:** Ytterligare en mottagare.
+- **1 Effekt:** Mottagarna hör också, inte bara ser.
 
 ### Framsynt (1 Fokus, reaktiv)
 
 När något händer som du hade kunnat påverka om du var medveten om det några sekunder innan så kan du slå ett slag för Sinnen + Vilja för att undvika det. Om du exempelvis blir skjuten eller knuffad eller någon ser dig. Dina framfångar på det slaget kan användas för att påverka förloppet genom att få motståndaren att misslyckas eller dig själv att få extra framgångar på ett slag du misslyckades med. Du måste kunna förklara hur du använder din insikt för att ändra utfallet och du kan bara ändra saker som påverkar dig direkt.
 
-- **+1 Fokus:** Du kan påverka även en annan person inom 10 meter
+- **+1 Fokus:** Du kan påverka även en annan person i samma zon.
 
 ### Tråden (Alltid aktiv)
 
@@ -78,7 +78,7 @@ Du känner när någon du har en känslomässig koppling till befinner sig i aku
 
 ### Aktiverat trauma – Närvaroseende och Delad vision
 
-*Aldrig mer ensam.* Närvaroseende slår på okontrollerat och drar fram minnen från lägret istället för dit du vill. Delad vision aktiveras automatiskt mot alla inom 10 meter – vänner, fiender och oskyldiga ser brännugnar, vakttorn och döende kamrater. Effekten upphör först när hotet är borta. Drabbade tar **+1 Stress** per scen.
+*Aldrig mer ensam.* Närvaroseende slår på okontrollerat och drar fram minnen från lägret istället för dit du vill. Delad vision aktiveras automatiskt mot alla i samma zon – vänner, fiender och oskyldiga ser brännugnar, vakttorn och döende kamrater. Effekten upphör först när hotet är borta. Drabbade tar **+1 Stress** per scen.
 
 ## Förmågor
 

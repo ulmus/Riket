@@ -72,7 +72,7 @@ Slutligen används Fokus för att ge dynamik i strid. Det kan användas för att
 
 ### Stress istället för Fokus
 
-En nackdel med att Fokus ackumulerar slumpmässigt över tid är att det ibland finns en risk att rollpersonen inte har någon Fokus när det vore som mest rimligt i berättelsen att aktivera en förmåga. För att komma åt det finns ventilen i spelsystemet att närhelst en karaktär skulle använt Fokus men inte har några Fokus kvar, kan den istället ta upp till sin Stabilitet antal Stress och få lika många Fokus som måste spenderas direkt.
+En nackdel med att Fokus ackumulerar slumpmässigt över tid är att det ibland finns en risk att rollpersonen inte har tillräckligt med Fokus när det vore som mest rimligt i berättelsen att aktivera en förmåga. För att komma åt det finns ventilen i spelsystemet: räcker inte ditt Fokus kan du ersätta resten med Stress, högst lika många Stress som din Stabilitet per tillfälle.
 
 Syftet är att det ska finnas ett sätt att pressa sig och ta större risk när det gäller. Stressen du tar för dig närmre Sammanbrottet (som ju kommer varje gång din Stress passerar en multipel av din Stabilitet). Eftersom även andra faktorer kan ge Stress – så som skräckfyllda upplevelser, strid, skador, etc – så vet du som spelare inte riktigt när konsekvenserna kommer av att du valde att ta Stress. Osäkerheten i det är en del av designen.
 
@@ -85,6 +85,8 @@ När ett tydligt skifte sker mellan två scener i spelet så återställs allas 
 Det spelar inte så stor roll exakt vad Momentum är i ett givet tillfälle, ofta är det mellan två och fyra. Desto viktigare är *när* spelledaren ska säga att "nu återställer ni ert Fokus till Momentum-nivån".
 
 I grunden gäller att **när tid förflyter i spelet utan att det spelas ut vid spelbordet så är det en ny scen och nytt Momentum**.
+
+Om du vill ha en snabb tabell för nivåerna 1-5, när Momentum höjs eller sänks och vad du gör med Fokus vid scenbyte, se [[Operativt spelledarstöd#Momentum vid bordet]].
 
 ### Slå Chockslag ofta
 
@@ -111,6 +113,15 @@ När det kommer till namnlösa SLP som gränsvakter och liknande är det ingen m
 
 Hisspitchen för I Rikets Tjänst är "som Legion of Super-Heroes om John le Carré hade skrivit manus". Det fångas lättast i själva äventyrsdesignen. Det viktiga med ett äventyr är att det inspirerar dig och spelarna till att forma en gemensam berättelse som ni alla fångas av. Här är några tips för att bygga upp ett sådant äventyr.
 
+### Operativt stöd
+
+När du vill ha ett konkret arbetsblad vid bordet finns [[Operativt spelledarstöd]]. Där hittar du:
+
+- en kort attackprocedur för stridsscener
+- en operationsmall för uppdrag, klocka och larmnivå
+- konsekvensmenyer för spaning, intrång, förhör, jakt och sabotage
+- stöd för Täckmantel, Operationsresurser och kontakter
+
 - **Växla mellan exotiskt och jordnära.** Spelet är mycket medvetet förlagt i Sverige, alliansfritt i fred, neutralt i krig. Syftet är dels att förankra spelarna närmre vår verklighet och låta realismen i 1960-talets Sverige bryta mot trauman, krafter och konspirationer. Men också att Sverige är just neutralt, ett äventyr kan utspela sig på Leipzigs bakgator, ett kan vara i Istanbuls basarer och ett annat med Amerikanska söderns medborgarrättsrörelse som bakgrund. Men det kan också vara jakten på ett av Program Friggs misslyckade experiment i kulvertarna under Kungliga Tekniska Högskolan i Stockholm eller kontraspionage i Göteborgs hamn.
 - **Använd verkliga händelser och personer.** Det här förslaget är med under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] också, men där mer under *hur* du berättar historierna. Men det gäller lika mycket *vilka* historier du väljer att berätta. Åk till Kongo för att undersöka nedskjutningen av Dag Hammarskjöld, låt rollpersonerna vara med och nysta upp härvan som leder till Wennerströms gripande eller låt hela äventyret utspela sig i skuggan av ett dagsaktuellt skeende som Berlinmurens uppbyggnad eller Kubakrisen.
 - **Definiera vilka som är inblandade, vad de vet och vad de vill.** I Rikets Tjänst handlar ofta om hur olika faktioner och personer agerar och vilka agendor de har. Definiera i förväg vilka som är inblandade. Känner CIA också till Wennerström och varför har de inte i så fall sagt något? Är rollpersonernas kontakt inom Bundesnachrichtendienst verkligen så entusiastisk över deras inblandning som hon låter påskina och i så fall varför? Se till att det finns tillräckligt många aktörer som vill tillräckligt mycket för att driva berättelsen framåt, om ett spår känns dött kan du lätt introducera ett annat.
@@ -123,7 +134,7 @@ Hisspitchen för I Rikets Tjänst är "som Legion of Super-Heroes om John le Car
 
 Karaktärsskapande i I Rikets Tjänst är ett gemensamt arbete mellan spelare och spelledare. Syftet är att skapa en karaktär som är rolig att spela och som bidrar till till berättelsen och till även de andra spelarna. Några av de viktigaste momenten i karaktärsskapandet är hur Krafterna ska byggas. Processen står beskriven i [[Krafter]], men här följer några råd om hur du vägleder spelarna till att skapa intressanta karaktärer som kompletterar varandra.
 
-- **Traumat är nyckeln.** Alla Extra Normala Subjekt, inklusive rollpersonerna, är trasiga människor. De måste vara fungerande nog för att kunna skickas på uppdrag, men mycket mer än så är det sällan. Fungerande alkoholister, ångestladdade fobiker, sociopater och allmänt obalanserade människor är både intressantare att spela och i spelets anda.
+- **Traumat är nyckeln.** Alla Extra-Normala Subjekt, inklusive rollpersonerna, är trasiga människor. De måste vara fungerande nog för att kunna skickas på uppdrag, men mycket mer än så är det sällan. Fungerande alkoholister, ångestladdade fobiker, sociopater och allmänt obalanserade människor är både intressantare att spela och i spelets anda.
 - **Vad hände under Program Frigg?** Vad utsattes karaktären för som aktiverade krafterna? Det är så klart kopplat till traumat och krafternas tema, men beskriv gärna en typisk scen under programmet.
 - **Sätt ett tema för en karaktärs krafter.** Det kan vara frost, optiska illusioner, feromoner, gravitation, perception eller något annat. Men krafterna ska hänga ihop som att det är en kraft med olika uttryck.
 - **Tänk hur krafterna kommer i spel.** Framförallt relativt andra spelare. Se till att ingen karaktär överglänser någon annan inom dennes specialområde utan att de kompletterar varandra. Någon kan vara effektiv i strid, andra i sociala sammanhang. Om karaktärer delar område, se till att de gör det på olika sätt. Om de båda är effektiva i strid till exempel, låt den ena göra det via rå kraft och den andra med subtil manipulation.

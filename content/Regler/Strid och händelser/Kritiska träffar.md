@@ -1,6 +1,6 @@
 # Kritiska träffar
 
-När en tärning på attackslaget visar **12** inträffar en **kritisk träff** (utöver den 1 Fokus som 12:an alltid ger). Slå 1T12 och lägg till modifikationer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
+När en attackslagstärning visar **12** får du alltid **1 Fokus**. En **kritisk träff** utlöses bara om attacken dessutom träffar och gör minst **1 KP** skada efter **Skydd**. Slå då 1T12 och lägg till modifikationer för att bestämma effekten på tabellen som motsvarar vapnets eller skadetypens kategori.
 
 **Modifikationer till slaget:**
 

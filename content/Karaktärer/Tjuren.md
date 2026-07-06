@@ -44,7 +44,7 @@ När karaktären blir måltavla för en attack eller effekt som skulle flytta de
 
 - **+1 Fokus:** Reflektera knuff-effekten tillbaka på angriparen.
 - **+2 Fokus:** Reflektera både knuff och skada.
-- **1 Framgång:** Förankringen håller i en extra runda.
+- **1 Effekt:** Förankringen håller i en extra runda.
 
 ### Läderhud (1 Fokus, reaktiv)
 
@@ -55,7 +55,7 @@ När karaktären träffas av en attack som gör skada kan de aktivera denna för
 Fungerar som en **Stormning** (förflyttning fram till ett mål plus en närstridsattack, som en handling). Varje **Effekt** kan, i stället för extra skada, användas för att forcera ett hinder på vägen — en vägg, en barrikad, en stängd dörr. Fiender som står i vägen måste lyckas med ett Fysik + Strid-slag för att inte slås till marken.
 
 - **+1 Fokus:** Träffar alla som står i vägen, inte bara ett mål.
-- **1 Framgång:** Fienders slag för att hålla sig på fötter ett steg svårare.
+- **1 Effekt:** Fienders slag för att hålla sig på fötter ett steg svårare.
 
 ### Aktiverat trauma – Tjurrusning
 
@@ -76,7 +76,7 @@ Du är tränad i att kontrollera automateld med precision.
 
 *Krav:* Fysik 2, Strid 2
 
-Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Spendera 1 **Effekt** på en träff för att också knuffa motståndaren upp till två meter — mot en vägg, ned från en höjd eller in i en farlig position.
+Du får +1 på slag för Fysik + Strid när du slåss obeväpnad. Spendera 1 **Effekt** på en träff för att också knuffa motståndaren inom samma zon — mot en vägg, ned från en höjd eller in i en farlig position.
 
 ### Uppercut (Alltid aktiv)
 

@@ -1,6 +1,6 @@
-# Utförligt exempel: Konstruera en kraft
+# Utförligt exempel: Ändra ett kraftkort
 
-*I [[Karaktärsexempel]] skapade Vera telegrafisten **Eko**, vars krafter bygger på ljud och eter. Här konstruerar hon och spelledaren hans attackkraft **Skärande ton**, steg för steg genom [[Krafter#Konstruera en kraft]] — med resonemanget om vad kraften bör kosta och varför.*
+*I [[Karaktärsexempel]] skapade Vera telegrafisten **Eko**, vars krafter bygger på ljud och eter. Här utgår hon och spelledaren från ett attackkort och ändrar det steg för steg genom [[Krafter#Ändra ett kraftkort]] — med resonemanget om vad kraften bör kosta och varför.*
 
 ## Steg 1: Välj effektkategori
 
@@ -36,8 +36,8 @@ Två begränsningar ger sig själva ur fiktionen:
 Nu det roliga: vad kan Eko köpa till? Förstärkningar som kräver planering betalas med **Fokus** i förväg; sådana som förstärker en lyckad träff betalas med **Effekt** i efterhand.
 
 - **+1 Fokus: kon.** Tonen breddas och träffar alla i en kon framför Eko — fler mål är en klassisk Fokus-förstärkning.
-- **1 Framgång: +1 skada.** Standard för attackkrafter.
-- **1 Framgång: målet blir Omtumlat** — öronen ringer; alla målets handlingar nästa runda är ett steg svårare (se [[Strid och skada#Tillstånd]]).
+- **1 Effekt: +1 skada.** Standard för attackkrafter.
+- **1 Effekt: målet blir Omtumlat** — öronen ringer; alla målets handlingar nästa runda är ett steg svårare (se [[Strid och skada#Tillstånd]]).
 
 *Kom ihåg betalningsregeln (se [[Krafter#Steg 5: Lägg till förstärkningar]]): grundkostnaden 1 Fokus betalas alltid, även om slaget misslyckas. Extra Fokus för förstärkningar betalas bara om slaget lyckas.*
 
@@ -64,8 +64,8 @@ Nu det roliga: vad kan Eko köpa till? Förstärkningar som kräver planering be
 > *Begränsningar:* Kräver luft som medium. Hörs vida omkring — kraften avslöjar dig.
 >
 > - **+1 Fokus:** Tonen träffar alla i en kon framför dig.
-> - **1 Framgång:** +1 skada.
-> - **1 Framgång:** Målet blir **Omtumlat** — alla dess handlingar nästa runda är ett steg svårare.
+> - **1 Effekt:** +1 skada.
+> - **1 Effekt:** Målet blir **Omtumlat** — alla dess handlingar nästa runda är ett steg svårare.
 
 **Vid aktiverat trauma** *(Vanmakt — krafterna exploderar i okontrollerad intensitet)*: tonen går inte att rikta och inte att stänga av. Den träffar allt i Ekos zon, vän som fiende, och stiger i styrka runda för runda tills hotet är borta — dubbel verkan, ingen precision (se [[Krafter#Kraftmanifestation per traumakategori]]).
 

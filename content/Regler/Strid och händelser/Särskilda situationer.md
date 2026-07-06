@@ -44,7 +44,7 @@ En explosions skada beror på styrkan i explosionen:
 
 | Explosionstyp             | Skadevärde |
 | ------------------------- | ---------- |
-| Handgranat, mindre bomb   | 4          |
+| Handgranat, mindre bomb   | 6          |
 | Dynamitladdning, granat   | 6          |
 | Block C4, stor bomb       | 8          |
 | Bilbomb, tungt sprängämne | 10         |
@@ -88,7 +88,7 @@ Slå 1T12 när sömnmedlet får effekt:
 
 ### Medicinsk kunskap
 
-Att beräkna rätt dos före användning är ett slag för **Analys + Sinnen** (görs lättare av rätt Expertis, till exempel Läkare eller Apotekare). Om det lyckas höjs Döende-tröskeln med 1 per framgång, utan att påverka Somnar-tröskeln. Notera att för Apotekare och Läkare så är detta ett Lätt slag och de har alltså 1 automatisk framgång.
+Att beräkna rätt dos före användning är ett slag för **Analys + Sinnen** (görs lättare av rätt Expertis, till exempel Läkare eller Apotekare). Om det lyckas höjs Döende-tröskeln med 1 per framgång, utan att påverka Somnar-tröskeln. Notera att för Apotekare och Läkare så är detta ett **Lätt** slag och de lyckas automatiskt om de inte slår för att söka Effekt.
 
 ### Varaktighet
 

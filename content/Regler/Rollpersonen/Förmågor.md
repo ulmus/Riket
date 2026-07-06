@@ -98,7 +98,7 @@ Du får +1 på *Smidighet + Strid* med gevär. Långt avstånd gör inte dina at
 
 *Krav:* Skarpskytt
 
-Sikta ger dig +2 istället för +1 med gevär. Spendera 1 Fokus före slaget för att också ignorera modifikationer från instabil position, vind eller dålig sikt — du har andningen och avtryckarfingret under kontroll.
+När du **siktar** med gevär blir anfallet **två steg lättare**, till lägst **Lätt**, i stället för ett steg lättare. Spendera 1 Fokus före slaget för att också ignorera modifikationer från instabil position, vind eller dålig sikt — du har andningen och avtryckarfingret under kontroll.
 
 ### Kallblodig träff
 

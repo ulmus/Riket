@@ -27,14 +27,17 @@ annan layout) och ingår därför inte här.
 <!-- bok: regler | css: regler.css -->
 
 - [[Introduktion]]
+- [[Snabbreferens]]
 - [[Grundregler]]
+- [[Terminologi]]
+- [[Trauma, chock och stress]]
 - [[Skapa och utveckla en rollperson]]
 - [[Karaktärsexempel]]
 - [[Expertiser]]
 - [[Förmågor]]
+- [[Kraftkort]]
 - [[Krafter]]
 - [[Kraftexempel]]
-- [[Trauma, chock och stress]]
 - [[Aktiviteter]]
 - [[Aktivitetsexempel]]
 - [[Strid och skada]]
@@ -44,9 +47,8 @@ annan layout) och ingår därför inte här.
 - [[Särskilda situationer]]
 - [[Stridsexempel]]
 - [[Att spelleda I Rikets Tjänst]]
+- [[Operativt spelledarstöd]]
 - [[Spelledarpersoner]]
-- [[Snabbreferens]]
-- [[Terminologi]]
 
 ## Världen
 

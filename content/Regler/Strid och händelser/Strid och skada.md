@@ -86,7 +86,7 @@ Vill du **aktivt försvara dig** kan du spendera **1 Fokus** för att väja elle
 
 Du kan väja både för avstånds- och närstridsattacker. Om du väjer så hamnar du på marken efter attacken. Du kan bara parera närstridsattacker och du måste ha något i händerna som du kan parera med.
 
-Aktivt försvar deklareras innan anfallets resultat räknas. Saknar du Fokus kan du ta Stress istället (se [[Grundregler#Stress istället för Fokus]] ).
+Aktivt försvar deklareras innan anfallets resultat räknas. Räcker inte ditt Fokus kan du ersätta resten med Stress (se [[Grundregler#Stress istället för Fokus]] ).
 
 ## Fokus i strid
 
@@ -166,7 +166,7 @@ Varje vapen har ett värde för **Skada** som är en fast bonus till KP-skadan v
 
 ## 3. Skydd
 
-Målets **Skydd** (från rustning, täckning, etc.) dras av från KP-skadan (minst 0). Skydd hindrar KP-skada men påverkar inte om en kritisk träff utlöses, förutsatt att det finns KP kvar av skadan efter att skyddet dragits av.
+Målets **Skydd** (från rustning, täckning, etc.) dras av från KP-skadan (minst 0). Om ingen KP-skada återstår efter Skydd utlöses ingen kritisk träff, även om attackslaget innehöll en eller flera 12:or.
 
 ## 4. Kritiska träffar
 
@@ -188,7 +188,7 @@ Kritiska träffar ger effekter som blödning, brutna ben eller döende. En 12:a 
 > Antons attackslag ger **3 framgångar**, varav en tärning visar **12**. Han får 1 Fokus från 12:an.
 > Vakten bär **tjock rock (Skydd 1)**. KP-skada = Effekt 2 + 3 Skada − 1 Skydd = **4 KP**.
 > Vakten (Fysik 2, Vilja 3, Tålighet 5) tar 4 KP — fortfarande Tjänstduglig, men tar **1 Stress** (av att ha tagit skada).
-> 12:an triggar en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
+> Eftersom 12:an finns på attackslaget och 4 KP gick igenom Skyddet utlöses en kritisk träff. Anton slår 1T12 och får en 8: *Genomskjuten axel*.
 
 ## Effekter av skada
 
@@ -312,7 +312,8 @@ Som alltid är **Mycket Svår** taket: flera tillstånd kan inte driva svårighe
 1. **Träff?** Räkna framgångar (10+) på attackslaget.
 2. **Räkna skada:** KP-skada = Effekt + vapnets Skada − Skydd (minst 0).
 3. **Applicera skada:** Uppdatera KP, kontrollera trösklarna (Sårad/Medvetslös/Döende).
-4. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus och triggar en kritisk träff. Slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
+4. **Markera Stress:** Minst 1 KP skada ger 1 Stress; att bli **Sårad** ger 1 Stress till.
+5. **Kritisk träff?** Varje 12:a på attackslaget ger 1 Fokus. Om attacken träffade och gjorde minst 1 KP skada efter Skydd, slå 1T12 på rätt tabell, +2 om vapnet är Penetrerande, +1 per ytterligare 12:a.
 
 ### Läkning
 
