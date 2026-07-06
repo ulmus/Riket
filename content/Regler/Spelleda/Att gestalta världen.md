@@ -42,7 +42,7 @@ Världen är delad i två. Väst mot öst, marknad mot plan, och mellan dem en g
 
 ### Berlin — världens öppna sår
 
-Ingenstans är delningen så naken som i Berlin. I augusti 1961 reser sig muren tvärs genom staden, över gator och spårvägar, och skiljer grannar, vänner och familjer åt över en natt. Här möts blocken på gångavstånd: vakttorn, strålkastare och ingenmansland på ena sidan, skyltfönster och neon på den andra. Det är hit agenter, avhoppare och olycksöden dras.
+Ingenstans är delningen så naken som i Berlin. I augusti 1961 reser sig muren tvärs genom staden, över gator och spårvägar, och skiljer grannar, vänner och familjer åt över en natt. Här möts blocken på gångavstånd: vakttorn, strålkastare och ingenmansland på ena sidan, skyltfönster och neon på den andra.
 
 ### Kapprustning, rymd och prestige
 
@@ -72,11 +72,11 @@ Det gamla Sverige rivs för att ge plats åt det nya. I städerna faller kvarter
 
 ### Det gamla Sverige som ännu dröjer sig kvar
 
-Men det moderna är ojämnt fördelat. På landet finns ännu utedass och vedspis, gummistövlar i leran och en kyrka man går till mest på högtiderna. Fattigdomen ligger nära i minnet; många minns trettiotalet och beredskapsåren. De äldre bär ett strängare Sverige med sig, där överheten lyddes och man inte gjorde väsen av sig.
+Men det moderna är ojämnt fördelat. På landet finns ännu utedass och vedspis, gummistövlar i leran och en kyrka man går till mest på högtiderna. Fattigdomen ligger nära i minnet; många minns trettiotalet och beredskapsåren. De äldre bär ett strängare, mer lutheranskt Sverige med sig, där överheten lyddes och man inte gjorde väsen av sig.
 
 ### Lagom, lojalitet och det man inte talar om
 
-Mycket sägs inte rakt ut. Man håller god min, undviker att sticka upp och litar på att staten vill väl. Under den prydliga ytan finns det som tigs ihjäl: psykisk sjukdom, sexualitet, krigsårens eftergifter åt Tyskland, det grannen anar men aldrig nämner. För den som arbetar i skuggorna är just det outtalade ett arbetsredskap — och ibland en fara.
+Mycket sägs inte rakt ut. Man håller god min, undviker att sticka upp och litar på att staten vill väl. Under den prydliga ytan finns det som tigs ihjäl: psykisk sjukdom, sexualitet, krigsårens eftergifter åt Tyskland, det grannen anar men aldrig nämner.
 
 ## Stockholm
 
@@ -108,7 +108,7 @@ Pip- och cigarettrök i varje rum, för här röker man inomhus. Bensin och dies
 
 ### Synintrycken
 
-Staden går mest i grått och brunt — sotiga fasader, mörka rockar, svarta bilar — men bryts av neonskyltar och affischpelare. Männen bär hatt och kostym, kvinnorna kappa, handskar och välsatt hår. Allt är prydligt, knäppt och struket. En färgklick sticker ut desto mer: ett rött läppstift, en amerikansk bil i turkos.
+Staden går mest i grått och brunt — sotiga fasader, mörka rockar, svarta bilar — men bryts av neonskyltar och affischpelare. Männen bär hatt och kostym, kvinnorna kappa, handskar och väluppsatt hår. Allt är prydligt, knäppt och struket. En färgklick sticker ut desto mer: ett rött läppstift, en amerikansk bil i turkos.
 
 ### Smakerna
 
@@ -140,7 +140,7 @@ Det är ett kontantsamhälle. Lönen kommer i ett kuvert, räkningarna betalas p
 
 ### Jazz, schlager och de första popskivorna
 
-På Nalen och i radions önskeprogram lever jazzen och den svenska schlagern sida vid sida, och Melodifestivalen är en höjdpunkt på året. Men något nytt tränger in utifrån: Elvis, rock'n'roll och den nya dansen twist. De första popskivorna snurrar på skivspelaren. Bland ungdomen står valet ofta mellan idolerna — man var antingen Tommy Steele-anhängare eller höll på Elvis, och få höll på båda.
+På Nalen och i radions önskeprogram lever jazzen och den svenska schlagern sida vid sida, och Melodifestivalen är en höjdpunkt på året. Men något nytt tränger in utifrån: Elvis, rock'n'roll och den nya dansen twist. De första popskivorna snurrar på skivspelaren. Bland ungdomen står valet ofta mellan idolerna — man var antingen Tommy Steele-anhängare eller höll på Elvis.
 
 ### Film, böcker och det som debatteras
 
@@ -158,7 +158,7 @@ Kyrkan tappar greppet om vardagen — man döps, konfirmeras och begravs där, m
 
 ### Det tysta kriget
 
-Bakom nyheterna pågår ett tyst krig. Spioner, kurirer och avhoppare rör sig genom Europa, och det neutrala Stockholm är en korsväg där östs och västs folk samsas på samma hotell och samma ambassadbjudningar. Det mesta avgörs inte i strid utan i samtal, kuvert och tystnad. Rollpersonerna lever här, i mellanrummen.
+Bakom nyheterna pågår ett tyst krig. Spioner, kurirer och avhoppare rör sig genom Europa, och det neutrala Stockholm är en korsväg där östs och västs folk samsas på samma hotell och samma ambassadbjudningar.
 
 ### Tjänsterna och deras folk
 
