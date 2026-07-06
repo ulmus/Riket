@@ -1,8 +1,8 @@
 # Spelledarpersoner
 
-De flesta SLP du behöver under ett äventyr improviserar du fram vid bordet — så som beskrivs i [[Att spelleda I Rikets Tjänst#Improvisera med SLP, minska administrationen|Improvisera med SLP]]. Det här kapitlet ger dig ett bibliotek av färdiga arketyper att luta dig mot när du vill ha siffror till hands: gränsvakten som plötsligt blir misstänksam, fältagenten som skuggar rollpersonerna eller den övermänskliga kolossen i äventyrets klimax.
+De flesta SLP du behöver under ett äventyr improviserar du fram vid bordet — så som beskrivs i [[Att använda reglerna#Improvisera med SLP, minska administrationen|Improvisera med SLP]]. Det här kapitlet ger dig ett bibliotek av färdiga arketyper att luta dig mot när du vill ha siffror till hands: gränsvakten som plötsligt blir misstänksam, fältagenten som skuggar rollpersonerna eller den övermänskliga kolossen i äventyrets klimax.
 
-Arketyperna är mallar, inte namngivna individer. Ge dem ett namn, ett utmärkande drag och en agenda när du plockar in dem, precis som rådet under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] säger — *alla har en story*.
+Arketyperna är mallar, inte namngivna individer. Ge dem ett namn, ett utmärkande drag och en agenda när du plockar in dem, precis som rådet i [[Att sätta tonen#Alla har en story|tonkapitlet]] säger — *alla har en story*.
 
 ## Att använda arketyperna
 
@@ -368,7 +368,7 @@ Den tekniske eller vetenskaplige rådgivaren från [[Program Frigg (Sverige)|Pro
 
 ## Egenheter
 
-Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag — så som rådet under [[Att spelleda I Rikets Tjänst#Tonen|Tonen]] säger att *alla har en story*. Behöver du snabbt ge en karaktär liv kan du slå eller välja från en eller flera av tabellerna nedan. En bakgrund, ett utseende, ett personlighetsdrag eller ett beteende räcker långt för att du ska kunna spela vem som helst. Tabellerna fungerar vid behov lika bra för rollpersoner som för SLP.
+Arketyperna ger siffror, men en SLP blir levande först med ett utmärkande drag — så som rådet i [[Att sätta tonen#Alla har en story|tonkapitlet]] säger att *alla har en story*. Behöver du snabbt ge en karaktär liv kan du slå eller välja från en eller flera av tabellerna nedan. En bakgrund, ett utseende, ett personlighetsdrag eller ett beteende räcker långt för att du ska kunna spela vem som helst. Tabellerna fungerar vid behov lika bra för rollpersoner som för SLP.
 
 ### Bakgrund
 

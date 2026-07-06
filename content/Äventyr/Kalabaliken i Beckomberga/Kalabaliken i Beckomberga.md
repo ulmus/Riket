@@ -1,7 +1,7 @@
 Detta är tänkt som ett introduktionsäventyr till I Rikets Tjänst. Det introducerar Extra-Normala Subjekt, kalla krigets spioneri och den moraliska ambivalensen som kringgärdar hela Program Frigg i allmänhet och Doktor Lars Hedström i synnerhet.
 
 > **För dig som spelleder.** Äventyret är skrivet för **två till fyra** spelare som spelar "reserven" som kallas in över sommaren. Rollpersonerna är Frigg-agenter; ni kan skapa dem själva eller använda de förgenererade.
-> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**, se [[Grundregler#Grundmekanik: Egenskap + Egenskap T12or]]), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** (*se [[Grundregler#Fokus]] och [[Att spelleda I Rikets Tjänst#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
+> Du klarar dig med en handfull mekaniker: **vanliga slag** (*Egenskap + Egenskap* mot en **Svårighet**, se [[Grundregler#Grundmekanik: Egenskap + Egenskap T12or]]), **motståndsslag** (båda slår, flest framgångar vinner), **Chockslag** (*se [[Trauma, chock och stress]]*) samt **Fokus** och **Momentum** (*se [[Grundregler#Fokus]] och [[Att använda reglerna#Fokus och Momentum, Stress och Sammanbrott]]*). Allt detta dyker upp i texten där det behövs.
 
 ## Äventyret i korthet
 
@@ -37,7 +37,7 @@ Utöver det så har Stockholms Dagblads reporter Maj-Britt Holmberg fått ett ti
 
 T-kontoret ligger på **Sturegatan 58** på Östermalm, ett anonymt kontorshus där Program Frigg huserar bland ett tjugotal tjänstemän (*se [[Program Frigg (Sverige)#Doktor Lars Hedström och T-kontoret]]*). Det är högsommar 1961, värmebölja, och halva kontoret är på semester. Den som kallas in nu är den som råkar finnas till hands — reserven.
 
-Innan storpolitiken tar vid, be gärna varje spelare beskriva var rollpersonen var när budet kom: på sin civila arbetsplats, i en varm tvåa på Kungsholmen, på en badklippa (*se [[Att spelleda I Rikets Tjänst#Äventyret]]*). **Momentum** börjar på **1**.
+Innan storpolitiken tar vid, be gärna varje spelare beskriva var rollpersonen var när budet kom: på sin civila arbetsplats, i en varm tvåa på Kungsholmen, på en badklippa (*se [[Att skriva äventyr#Scener, platser och personer — inte intriger|Att skriva äventyr]]*). **Momentum** börjar på **1**.
 
 ### Genomgången
 
@@ -244,7 +244,7 @@ Förutom Akhenatons hov och rollpersonerna rör sig två utomstående parter på
 
 ## Persongalleri
 
-SLP:erna nedan följer systemets standard: **Tålighet** är Fysik + Vilja, **Stabilitet** 3 om inget annat anges, och för Akhenaton som ENS improviserar du Fokus enligt [[Att spelleda I Rikets Tjänst]]. Vapnens värden finns i [[Vapen]], krafterna byggs enligt [[Krafter]]. Ge gärna statisterna ett namn och ett drag ur tabellerna i [[Spelledarpersoner#Egenheter]] när de kliver fram.
+SLP:erna nedan följer systemets standard: **Tålighet** är Fysik + Vilja, **Stabilitet** 3 om inget annat anges, och för Akhenaton som ENS improviserar du Fokus enligt [[Att använda reglerna]]. Vapnens värden finns i [[Vapen]], krafterna byggs enligt [[Krafter]]. Ge gärna statisterna ett namn och ett drag ur tabellerna i [[Spelledarpersoner#Egenheter]] när de kliver fram.
 
 ### Wachtmeister / Akhenaton
 
@@ -265,7 +265,7 @@ Wachtmeister är en **telepat som trycker ut sina egna tankar i andra**. Förmå
 
 Akhenaton bär inget vapen och slår sällan själv — hans hov gör det åt honom. Hans makt är telepatisk.
 
-**Akhenatons Fokus.** Räkna inte Fokus för honom slag för slag — improvisera (*se [[Att spelleda I Rikets Tjänst#Stress istället för Fokus]]*). Som tumregel matar hovets dyrkan honom: omgiven av sina omvända har han råd att aktivera **en kraft per runda**. Vänds eller skingras hovet, eller dras han bort från sina undersåtar, sinar Fokus och han tvingas ta **Stress** för att fortsätta — vilket driver honom mot **aktiverat trauma** (se nedan). Hans makt är alltså starkast i hovets mitt och svagast när någon lyckats nå mannen bakom guden.
+**Akhenatons Fokus.** Räkna inte Fokus för honom slag för slag — improvisera (*se [[Att använda reglerna#Stress istället för Fokus]]*). Som tumregel matar hovets dyrkan honom: omgiven av sina omvända har han råd att aktivera **en kraft per runda**. Vänds eller skingras hovet, eller dras han bort från sina undersåtar, sinar Fokus och han tvingas ta **Stress** för att fortsätta — vilket driver honom mot **aktiverat trauma** (se nedan). Hans makt är alltså starkast i hovets mitt och svagast när någon lyckats nå mannen bakom guden.
 
 **Gudakonungens närvaro / Tankefält** (Alltid aktiv)
 Wachtmeisters okontrollerade telepati läcker ständigt ut som ett tryck av påträngande tankar — underkastelse, vördnad, dyrkan. Räckvidd och styrka varierar med hans sinnesstämning enligt tabellen nedan. Den som utsätts slår **Vilja + Vilja** för att stå emot; misslyckande ger **Stress** och en påtvingad lojalitetstanke. Det var så hovet skapades.
