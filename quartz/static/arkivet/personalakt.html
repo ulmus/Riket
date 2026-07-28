@@ -20,13 +20,16 @@
     background: transparent; border: 0; outline: 0; width: 100%;
     padding: 2px 3px 3px; -webkit-appearance: none;
   }
-  textarea { resize: none; line-height: 1.55; display: block; }
+  /* The big text boxes are flex-sized, so a too-short sheet would otherwise
+     squeeze them to nothing and print an empty section. The floor keeps the
+     field visible whatever height the sheet ends up with. */
+  textarea { resize: none; line-height: 1.55; display: block; min-height: 40px; }
   input:focus, textarea:focus { background: var(--focus, rgba(155,45,31,0.09)); }
   input::placeholder, textarea::placeholder { color: var(--ink-soft, #9a937f); opacity: .7; font-style: italic; }
   button { font-family: inherit; }
   /* Each .sheet is a fixed A4-width page for screen preview. In print (below)
-     the height instead tracks the page box, so the sheet fills whatever paper
-     the user picks. The big text boxes are flex-sized, so they absorb whatever
+     the height is derived from the sheet's own width instead, so it fills the
+     page box. The big text boxes are flex-sized, so they absorb whatever
      vertical space the sheet ends up with. */
   .sheet { width: 794px; height: 1047px; overflow: hidden; }
   /* Controls + sheets layout: stacked by default (controls above the sheets);
@@ -39,21 +42,34 @@
     .layout { flex-direction: row; align-items: flex-start; justify-content: center; gap: 28px; }
     .controls-col { width: 290px; flex: none; position: sticky; top: 24px; max-height: calc(100vh - 48px); overflow: auto; }
   }
-  /* No `size` — the page box adapts to whatever paper the user selects. The
-     10 mm margin keeps the sheet clear of the printer's unprintable hardware
-     edge (which CSS can't detect), so the footer never spills off the page. */
-  @page { margin: 10mm; }
+  /* The blankett is designed as three A4 pages, so the page box is pinned to A4
+     — the print rules below derive the sheet's height from the page's aspect
+     ratio, which only works if that ratio is known. The 10 mm margin keeps the
+     sheet clear of the printer's unprintable hardware edge (which CSS can't
+     detect), so the footer never spills off the page; it leaves a 190 × 277 mm
+     page box. On other paper sizes the printer scales the A4 page to fit. */
+  @page { size: A4 portrait; margin: 10mm; }
   @media print {
     html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
     .backdrop { background: transparent !important; padding: 0 !important; gap: 0 !important; --paper: transparent !important; }
     .screen-only { display: none !important; }
     /* The controls/vault sidebar is screen-only; flatten the layout wrappers. */
     .layout, .sheets-col { display: block !important; }
-    /* Fill the page content box: in paged media `vh`/`%` resolve against the
-       page box that the @page margin leaves, so the sheet stretches to the
-       selected paper without hardcoding A4 dimensions. The flex-sized text
-       boxes absorb the resulting height. */
-    .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 100% !important; height: 100vh !important; break-inside: avoid; }
+    /* Fill the page content box. This must NOT use `vh`: Safari lays a printed
+       document out at the on-screen window size and then scales the result to
+       fit the paper width, so `100vh` is the browser window's height — not the
+       page's. A short window then gave a sheet only ~79 % of the page tall and
+       squeezed the flex-sized panels (Tjänsteuppgifter, Beskrivning) down to
+       their header bars.
+       Deriving the height from the sheet's own width via `aspect-ratio` is
+       immune to both quirks: the sheet always spans the printable width, and a
+       uniform fit-to-width scale multiplies both axes, so the sheet still lands
+       on the full page height.
+       The ratio is the 190 × 277 mm page box, less 1 mm of slack. Without that
+       guard the derived height rounds a fraction of a point past the page box
+       and every sheet spills its footer onto a page of its own; 1 mm of unused
+       paper at the foot is invisible. */
+    .sheet { background: transparent !important; box-shadow: none !important; margin: 0 !important; width: 100% !important; height: auto !important; min-height: 0; aspect-ratio: 190 / 276; break-inside: avoid; }
     .sheet + .sheet { break-before: page; }
     input:focus, textarea:focus { background: transparent !important; }
     input::placeholder, textarea::placeholder { color: transparent !important; opacity: 0 !important; }
@@ -167,7 +183,7 @@
           <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Spelare</span><input data-field="spelare" onInput="{{ onField }}" defaultValue="{{ f.spelare }}" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;"></label>
           <label style="display:flex;flex-direction:column;gap:1px;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Expertis</span><input data-field="expertis" onInput="{{ onField }}" defaultValue="{{ f.expertis }}" placeholder="Läkare, Pilot, Kryptograf…" style="border-bottom:1px solid var(--rule,#C7BEA6);height:22px;"></label>
         </div>
-        <label style="display:flex;flex-direction:column;gap:2px;flex:1;min-height:0;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskrivning</span><textarea data-field="utseende" onInput="{{ onField }}" defaultValue="{{ f.utseende }}" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:12px;line-height:1.5;padding:5px 6px;"></textarea></label>
+        <label style="display:flex;flex-direction:column;gap:2px;flex:1;min-height:0;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskrivning</span><textarea data-field="utseende" onInput="{{ onField }}" defaultValue="{{ f.utseende }}" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:12px;line-height:1.5;padding:5px 6px;"></textarea></label>
       </div>
     </div>
 
@@ -196,52 +212,62 @@
       </div>
     </div>
 
-    <!-- 3 + 4 two-up -->
+    <!-- 3 + 4 two-up. Sekundära värden holds only two numbers, so it gets a
+         quarter of the row with the values stacked; the three quarters that
+         frees let Skada sit its Kritiska sår box beside the KP tracks rather
+         than under them, which keeps the whole row short and leaves the height
+         to Beskrivning above. -->
     <div class="row2" style="flex:none;display:flex;gap:11px;">
       <!-- 3 SEKUNDÄRA -->
-      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
+      <div style="flex:1 1 0%;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
           <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">3</span>
-          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">Sekundära värden</span>
+          <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;">Sekundära värden</span>
         </div>
-        <div style="display:grid;grid-template-columns:1fr 1fr;gap:9px;padding:11px;flex:1;">
-          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
-            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Tålighet</div>
-            <div style="font:700 26px/1 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;">{{ taligheTxt }}</div>
-            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Fysik + Vilja</div>
+        <div style="display:flex;flex-direction:column;gap:8px;padding:10px;flex:1;">
+          <div style="flex:1;border:1px solid var(--rule,#C7BEA6);padding:5px 8px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;align-items:center;gap:9px;min-height:44px;">
+            <div style="flex:1;min-width:0;">
+              <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Tålighet</div>
+              <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:2px;">Fysik + Vilja</div>
+            </div>
+            <div style="flex:none;font:700 24px/1 'Archivo';color:var(--ink,#23201A);">{{ taligheTxt }}</div>
           </div>
-          <div style="border:1px solid var(--rule,#C7BEA6);padding:7px 9px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;flex-direction:column;min-height:66px;">
-            <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Stabilitet</div>
-            <div style="font:700 26px/1 'Archivo';color:var(--ink,#23201A);flex:1;display:flex;align-items:center;"><input data-field="stabilitet" onInput="{{ onField }}" defaultValue="{{ stabilitetVal }}" style="font:inherit;width:100%;padding:0;"></div>
-            <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:auto;">Stress du tål · börjar på 3</div>
+          <div style="flex:1;border:1px solid var(--rule,#C7BEA6);padding:5px 8px;background:var(--paper,#EDE7D8);border-radius:4px;display:flex;align-items:center;gap:9px;min-height:44px;">
+            <div style="flex:1;min-width:0;">
+              <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Stabilitet</div>
+              <div style="font:400 7.5px/1.2 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);margin-top:2px;">Stress du tål · börjar på 3</div>
+            </div>
+            <div style="flex:none;width:32px;font:700 24px/1 'Archivo';color:var(--ink,#23201A);"><input data-field="stabilitet" onInput="{{ onField }}" defaultValue="{{ stabilitetVal }}" style="font:inherit;width:100%;padding:0;text-align:right;"></div>
           </div>
         </div>
       </div>
       <!-- 4 SKADA & KRITISKA SÅR -->
-      <div style="flex:1;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
+      <div style="flex:3 1 0%;min-width:0;border:1px solid var(--rule,#C7BEA6);background:var(--panel,#F5F1E6);border-radius:6px;overflow:hidden;display:flex;flex-direction:column;">
         <div style="display:flex;align-items:center;gap:8px;padding:5px 10px;background:var(--panel-head,#E7E0CE);border-bottom:1px solid var(--rule,#C7BEA6);">
           <span style="font:700 9px/1 'Archivo';background:var(--accent,#9B2D1F);color:#fff;padding:3px 5px;border-radius:2px;">4</span>
           <span style="font:700 12px/1 'Saira Condensed',sans-serif;letter-spacing:.13em;text-transform:uppercase;white-space:nowrap;">SKADA &amp; KRITISKA SÅR</span>
         </div>
-        <div style="padding:11px;display:flex;flex-direction:column;gap:10px;flex:1;">
-          <div>
+        <!-- KP tracks keep their natural width (they must never be clipped);
+             Kritiska sår takes whatever column is left beside them. -->
+        <div class="row2" style="padding:10px;display:flex;gap:11px;flex:1;">
+          <div style="flex:none;">
             <div style="font:600 7.5px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);margin-bottom:6px;">Kroppspoäng (KP) <span style="font-weight:400;text-transform:none;letter-spacing:0;font-family:'Courier Prime',monospace;">— varje spår = Tålighet rutor</span></div>
-            <div style="display:flex;flex-direction:column;gap:6px;">
+            <div style="display:flex;flex-direction:column;gap:5px;">
               <sc-for list="{{ damageTracks }}" as="d" hint-placeholder-count="4">
                 <div style="display:flex;align-items:center;gap:8px;">
                   <span style="flex:none;width:74px;font:600 8px/1.1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--ink,#23201A);">{{ d.label }}</span>
                   <div class="wraprow" style="display:flex;gap:4px;">
-                    <sc-for list="{{ d.pips }}" as="p" hint-placeholder-count="13">
+                    <sc-for list="{{ d.pips }}" as="p" hint-placeholder-count="10">
                       <button onClick="{{ p.onClick }}" class="{{ p.cls }}" style="{{ p.style }}"></button>
                     </sc-for>
                   </div>
                 </div>
               </sc-for>
             </div>
-            <div style="display:flex;align-items:flex-start;gap:8px;margin-top:8px;">
-              <span style="flex:none;width:74px;padding-top:4px;font:600 8px/1.1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Kritiska sår</span>
-              <textarea data-field="kritiska_sar" onInput="{{ onField }}" defaultValue="{{ f.kritiska_sar }}" rows="2" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:11px;line-height:1.5;padding:4px 6px;"></textarea>
-            </div>
+          </div>
+          <div style="flex:1;min-width:0;display:flex;flex-direction:column;gap:3px;">
+            <span style="flex:none;font:600 8px/1.1 'Archivo';letter-spacing:.06em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Kritiska sår</span>
+            <textarea data-field="kritiska_sar" onInput="{{ onField }}" defaultValue="{{ f.kritiska_sar }}" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:11px;line-height:1.5;padding:4px 6px;"></textarea>
           </div>
         </div>
       </div>
@@ -310,7 +336,7 @@
             <button onClick="{{ t.onClick }}" style="{{ t.btnStyle }}"><span style="{{ t.boxStyle }}"></span><span style="font:700 11px 'Archivo';color:var(--ink,#23201A);">{{ t.label }}</span></button>
           </sc-for>
         </div>
-        <label style="display:flex;flex-direction:column;gap:2px;flex:1;min-height:0;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskriv den specifika händelsen</span><textarea data-field="trauma_desc" onInput="{{ onField }}" defaultValue="{{ f.trauma_desc }}" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:5px 6px;font-size:12px;"></textarea></label>
+        <label style="display:flex;flex-direction:column;gap:2px;flex:1;min-height:0;"><span style="font:600 8px/1.2 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--ink-soft,#8A8268);">Beskriv den specifika händelsen</span><textarea data-field="trauma_desc" onInput="{{ onField }}" defaultValue="{{ f.trauma_desc }}" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:5px 6px;font-size:12px;"></textarea></label>
       </div>
     </div>
 
@@ -377,7 +403,7 @@
         <span style="font:400 9px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">vapen · utrustning · kontakter</span>
       </div>
       <div style="padding:9px 12px;display:flex;flex:1;min-height:0;">
-        <textarea data-field="resurser" onInput="{{ onField }}" defaultValue="{{ f.resurser }}" placeholder="Vapen, utrustning, kontakter…" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:12px;line-height:1.55;padding:6px 8px;"></textarea>
+        <textarea data-field="resurser" onInput="{{ onField }}" defaultValue="{{ f.resurser }}" placeholder="Vapen, utrustning, kontakter…" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;font-size:12px;line-height:1.55;padding:6px 8px;"></textarea>
       </div>
     </div>
 
@@ -405,20 +431,23 @@
         <span style="font:400 9px/1 'Courier Prime',monospace;color:rgba(255,255,255,.85);">konstrueras med spelledaren</span>
       </div>
       <div style="padding:11px 12px;display:flex;flex-direction:column;gap:9px;flex:1;min-height:0;">
-        <div class="row2" style="flex:none;display:flex;gap:10px;height:120px;">
-          <div style="flex:1;display:flex;flex-direction:column;gap:2px;min-height:0;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Övergripande beskrivning</span><textarea data-field="kraft_desc" onInput="{{ onField }}" defaultValue="{{ f.kraft_desc }}" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:6px;font-size:12px;"></textarea></div>
-          <div style="flex:1;display:flex;flex-direction:column;gap:2px;min-height:0;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Aktiverat trauma — manifestation</span><textarea data-field="kraft_trauma" onInput="{{ onField }}" defaultValue="{{ f.kraft_trauma }}" placeholder="Hur yttrar sig kraften när traumat aktiveras?" style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:6px;font-size:12px;"></textarea></div>
+        <!-- Shares the panel height with the ability list below rather than
+             sitting at a hardcoded height, so a long manifestation gets the room
+             the page has instead of being cut off. -->
+        <div class="row2" style="flex:1 1 0%;min-height:120px;display:flex;gap:10px;">
+          <div style="flex:1;display:flex;flex-direction:column;gap:2px;min-height:0;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Övergripande beskrivning</span><textarea data-field="kraft_desc" onInput="{{ onField }}" defaultValue="{{ f.kraft_desc }}" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:6px;font-size:12px;"></textarea></div>
+          <div style="flex:1;display:flex;flex-direction:column;gap:2px;min-height:0;"><span style="font:600 8px 'Archivo';letter-spacing:.1em;text-transform:uppercase;color:var(--accent,#9B2D1F);">Aktiverat trauma — manifestation</span><textarea data-field="kraft_trauma" onInput="{{ onField }}" defaultValue="{{ f.kraft_trauma }}" placeholder="Hur yttrar sig kraften när traumat aktiveras?" style="flex:1;border:1px solid var(--rule,#C7BEA6);background:var(--paper,#EDE7D8);border-radius:4px;padding:6px;font-size:12px;"></textarea></div>
         </div>
         <div style="flex:none;display:flex;align-items:center;gap:8px;margin-top:2px;">
           <span style="font:700 8px/1 'Archivo';letter-spacing:.14em;text-transform:uppercase;color:var(--ink,#23201A);">EXTRANORMALA FÖRMÅGOR</span>
           <span style="flex:1;border-top:1px solid var(--rule,#C7BEA6);"></span>
           <span style="font:400 8px/1 'Courier Prime',monospace;color:var(--ink-soft,#8A8268);">välj tre — namn och beskrivning</span>
         </div>
-        <div style="flex:1;min-height:0;display:flex;flex-direction:column;gap:9px;">
+        <div style="flex:4 1 0%;min-height:0;display:flex;flex-direction:column;gap:9px;">
           <sc-for list="{{ superList }}" as="r" hint-placeholder-count="4">
             <div style="flex:1;min-height:0;border:1px solid var(--rule,#C7BEA6);border-radius:5px;background:var(--paper,#EDE7D8);overflow:hidden;display:flex;flex-direction:column;">
               <input data-field="{{ r.fName }}" onInput="{{ onField }}" defaultValue="{{ r.vName }}" placeholder="Förmågans namn" style="flex:none;font:700 14px 'Courier Prime',monospace;border-bottom:1px solid var(--rule,#C7BEA6);padding:4px 8px;">
-              <textarea data-field="{{ r.fEff }}" onInput="{{ onField }}" defaultValue="{{ r.vEff }}" placeholder="Beskrivning — verkan, kostnad, varaktighet…" style="flex:1;min-height:0;font-size:11px;line-height:1.5;padding:4px 8px;"></textarea>
+              <textarea data-field="{{ r.fEff }}" onInput="{{ onField }}" defaultValue="{{ r.vEff }}" placeholder="Beskrivning — verkan, kostnad, varaktighet…" style="flex:1;font-size:11px;line-height:1.5;padding:4px 8px;"></textarea>
             </div>
           </sc-for>
         </div>
@@ -637,7 +666,11 @@ class Component extends DCLogic {
       {key:'kp_utslagen', label:'Utslagen'},
       {key:'kp_doende', label:'Döende'},
     ];
-    const dmgMax = 13;
+    // Tålighet = Fysik + Vilja, and both cap at 5, so ten boxes is the longest
+    // track anyone can reach. Boxes past a character's own Tålighet are drawn
+    // blocked; drawing more than ten was only ever dead width, and it pushed
+    // the last boxes of each track outside the panel when printed.
+    const dmgMax = 10;
     const damageTracks = dmgDefs.map(d => {
       const v = this.state[d.key] || 0;
       const pips = [];
