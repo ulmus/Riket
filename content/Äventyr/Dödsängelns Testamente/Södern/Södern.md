@@ -5,7 +5,7 @@ draft: true
 
 > [!warning] Stub — under utveckling. Arbetstitel. Se [[Att skriva]].
 
-Akt 4. Förenta Staterna — Södern och medborgarrättsrörelsen.
+Akt 3. Förenta Staterna — Södern och medborgarrättsrörelsen. Övergripande plot i [[Plotutkast]].
 
 Här kommer **Project Phoenix** in. USA:s ENS-program vill ha loggboken och rör sig på hemmaplan, med resurser och myndigheter bakom sig.
 

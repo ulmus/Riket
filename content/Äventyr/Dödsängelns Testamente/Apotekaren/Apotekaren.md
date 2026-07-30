@@ -24,17 +24,17 @@ Capesius hustru, **Die Träumerin**, är judinna från lägren som gifte sig med
 
 ## Konkurrenter
 Rollpersonerna är inte ensamma om Capesius:
-- **KGB** jagar boken åt Zvezda.
-- **[[Projet Chimère (Frankrike)|Projet Chimère]]** — fransk underrättelse vill ha boken åt sitt eget program.
+- **KGB** jagar boken åt Zvezda — larmade via mullvaden på T-kontoret.
+- **Mossad** — katsan **Eli Sarid** och hans team har Capesius under bevakning. De vill ha mannen inför rätta, inte boken.
 - **ODESSA / Skorzeny / Furie** skyddar honom.
 
 ## Övergång
-Spåret efter boken — eller mannen — leder vidare till [[Kairo]].
+Akten slutar i Wien: rollpersonerna får loggboken eller mister den. Spåret vidare framträder först hemma, när materialet analyserats på T-kontoret (mellanspelet i [[Plotutkast]]) — och pekar då mot [[Södern]].
 
 ## Nyckelpersoner
 - **Dr. Victor Capesius** alias *Mag. pharm. Viktor Krauss* — apotekaren. *(Stat-block: att skriva.)*
 - **Die Träumerin** — ENS, dröm/verklighet. *(Att skriva.)*
 - **Furie** — ENS, raseri. *(Att skriva.)*
 - **Otto Skorzeny** — ODESSA. *(Att skriva.)*
-- **Projet Chimère-agent** — fransk konkurrent i Wien. *(Att definiera.)*
+- **Eli Sarid** — Mossad-katsa, leder bevakningen av Capesius. *(Att skriva.)*
 - **Fritz Bauer** — åklagare, mördas i ingångsscenen.

@@ -5,7 +5,7 @@ draft: true
 
 > [!warning] Stub — under utveckling. Arbetstitel. Se [[Att skriva]].
 
-Akt 5. Den slutliga uppgörelsen med **Otto Skorzeny**. Spetsbergen.
+Akt 4. Den slutliga uppgörelsen med **Otto Skorzeny**. Station Haudegen, Spetsbergen — vägen in går via gruvolyckan i Kings Bay. Övergripande plot i [[Plotutkast]].
 
 ## Öppna frågor
 - Vad är Skorzenys mål i slutskedet, och vad står på spel för rollpersonerna?
